@@ -1,0 +1,31 @@
+---
+title: DLP politikas padomi, nedarbojas
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 11/7/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
+ms.openlocfilehash: c263f8b1692f5116222d753964e6a9e16eb5d1ac
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28300610"
+---
+Lietojot **DLP politikām**, lietotāji var paziņot **politikas**padomi politikas pārkāpums. Administratori var konfigurēt politikas padomi, lai parādītu vienlaikus testēšana to DLP politiku vai politika ir pilna izpildes režīmā. 
+  
+Konfigurēt politikas padomi, DLP politikas, drošības un saskaņotības centrā pilnu izpildes režīmā, rīkojieties šādi:
+  
+- Nodrošināt politikas padomi ir **iespējota** DLP kārtulu, izmantojot darbības [šeit](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips).
+    
+- Nodrošinātu jūsu **saturs atbilst** ir **nepieciešama** lai iedarbinātu noteikums, kas izklāstīts šajā pantā [šeit](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    
+- Politikas tips parādīt OWA, gan Outlook. Tomēr, lietojot **Outlook 2013 vai jaunāku versiju**, politikas padomi tiek rādītas tikai konkrētos apstākļos. Šie nosacījumi ir uzskaitītas šeit: [atbalstītās nosacījumi Outlook 2013 vai vēlāk parādītu politikas padomi](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+    
+Skatiet papildu informāciju par DLP politikas padomi,: [Parādīt DLP politikas politikas padomi](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
+  
+
