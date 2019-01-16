@@ -1,0 +1,24 @@
+---
+title: Tev 'Nevar atrast parametru' kļūda?
+ms.author: pebaum
+author: pebaum
+ms.date: 5/8/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
+ms.openlocfilehash: e59d45b1c6720187f0bc2274d54f48a49e54b33f
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28300396"
+---
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrēšana e-pastu no IMAP e-pasta sistēmas Office 365
+
+E-pasts migrēt no IMAP pasta sistēma, lūdzu sekot šim procesam: [IMAP migrācijas Office 365 administrēšanas centrā](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+  
+Daudziem lieliem uzņēmumiem būs nepieciešams rūpīgi plāno pārvaldīt lietotāju vēlmēm. [Kas jums būtu jāzina par migrēšanu jūsu IMAP pastkastes Office 365](https://support.office.com/article/3fe19996-29bc-4879-aab9-5a622b2f1481) raksts palīdzēs jums vadīt pārmaiņas. 
+  
+

@@ -1,0 +1,30 @@
+---
+title: Izveidot komunikācijas vietni
+ms.author: kirks
+author: Techwriter40
+ms.date: 11/13/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
+ms.openlocfilehash: e4a217578e9db5b315516c09ab245950266994f9
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28300287"
+---
+# <a name="create-a-communication-site"></a>Izveidot komunikācijas vietni
+
+Izveidot komunikācijas vietni, veiciet šādas darbības: 
+  
+1. Lappuses augšējā kreisajā stūrī, noklikšķiniet uz app ikonas un atlasiet SharePoint mozaīku. Ja SharePoint mozaīka nav redzama, noklikšķiniet uz **vietnes** vai **visās progr** ja SharePoint nav redzama. 
+    
+2. Koplietošanas vides SharePoint lapas augšpusē noklikšķiniet uz **izveidot vietni** un izvēlēties **Saziņas vietne**. Izpildiet vednī norādītās vietnes izveidei. 
+    
+ **Piezīme**: ja jūs neredzat iespēju **izveidot**vietnei, pašapkalpošanās līdzekli vietnes izveidei var būt atspējotas Office 365. Sazinieties ar personu, kas Office 365 administrēšanu uzņēmumā, radiet darba grupas vietni. Ja jūs esat īrnieks administrators, skatiet [pārvaldīt vietņu izveide SharePoint Online un jāiespējo pašapkalpošanās vietņu izveide uzņēmumā.](https://go.microsoft.com/fwlink/?linkid=2018780)
+  
+ **Piezīme:** Ja jūs cenšaties izveidot komunikācijas vietni, un URL kļūst papildināšanas ar dažādiem skaitļiem, visticamāk vietnes ar to pašu URL jau eksistē vidē SharePoint vai izdzēsta un joprojām pastāv dzēst vietņu (Recycle Bin). Izmantojiet [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) novērtēt atkritni un [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) noņemt vietni no atkritnes. 
+  
+
