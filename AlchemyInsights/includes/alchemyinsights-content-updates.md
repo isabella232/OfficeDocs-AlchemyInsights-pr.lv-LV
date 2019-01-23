@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383369"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [Dzēst lietotājus](/AlchemyInsights/deleting-users) | modificēta |
 | 11/1/2019 | [Izvietot bezšuvju vienotās pierakstīšanās](/AlchemyInsights/deploy-seamless-single-sign-on) | modificēta |
 | 11/1/2019 | [Atspējot piekļuvi Yammer](/AlchemyInsights/disable-access-to-yammer) | modificēta |
+
+
+## <a name="week-of-january-14-2019"></a>January 14, 2019 nedēļa
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 1/14/2019 | Alķīmijas viettura | izņemta |
+| 1/14/2019 | Pievienot domēnu alķīmija | izņemta |
+| 1/14/2019 | [Alchemy ieskatu mājas](/AlchemyInsights/index) | modificēta |
+| 1/17/2019 | [Tāpat kā nosaukums ir labākais [KĀRTULA #-apraksts]](/AlchemyInsights/1-alchemy-insight-template) | pievienotās |
