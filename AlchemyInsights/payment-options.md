@@ -1,5 +1,5 @@
 ---
-title: Maksājumu opcijas
+title: Maksāšanas veidi.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28300974"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479803"
 ---
- **Maksājumu opcijas**
+ Maksāšanas veidi.
   
 Kredītkaršu un bankas kontu (tiešo debetu) rēķina (maksāt ar čeku vai elektronisko naudas pārsūtīšana)
   
@@ -32,7 +32,7 @@ Ja abonements maksā pār konkrētu (šo summu, ir atkarīgs no pakalpojumu snie
   
 Ja jūs maksājat pēc rēķina abonementu, jūs saņemsiet e-pastu, kas saka, ka jūsu rēķinu ir gatavi skatīšanai. Šis e-pasts nesatur jūsu rēķinu kopijas. Tomēr jūs varat arī [saņemt kopiju no jūsu rēķinu pa e-pastu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Jūsu norēķinu konta paziņojumā ietver informāciju par maksājuma veikšanas iespējas. Ievadot pirkšanas pasūtījumu (PP) numuru, iegādājoties abonementu, numurs ir norādīts uz savu rēķinu. Informāciju par piekļūšanu rēķinu samaksas pārskatus, skatiet [rēķinu vai rēķinu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Mainīt, cik jūs maksājat**
+ Mainīt apmaksas veidu.
   
 Ja jūs vēlaties mainīt, cik jūs maksājat par esošo abonementu, izpildiet instrukcijas [šeit](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   

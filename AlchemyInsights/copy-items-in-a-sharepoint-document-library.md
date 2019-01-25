@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28300913"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479915"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Kopēt vienumus SharePoint dokumentu bibliotēkā
 
@@ -35,6 +35,6 @@ ms.locfileid: "28300913"
 3. Noklikšķiniet uz **Kopēt šeit**.
     
 > [!NOTE]
->  Vienā reizē var kopēt ne vairāk kā 500 MB faili un mapes. > Izmantojot **Kopēt** dokumentus, kuriem ir versiju vēsture, tiek kopēts tikai jaunāko versiju. 
+>  Vienā reizē var kopēt ne vairāk kā 500 MB faili un mapes. >, lietojot **eksemplāru** kopā ar dokumentiem, kuros ir versijas vēsturi, un tikai jaunāko versiju tiek kopēts. 
   
 

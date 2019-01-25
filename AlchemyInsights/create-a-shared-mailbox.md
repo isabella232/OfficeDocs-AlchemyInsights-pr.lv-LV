@@ -1,5 +1,5 @@
 ---
-title: Izveidot koplietojamu pastkasti
+title: Koplietojamas pastkastes izveide
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299776"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479895"
 ---
-# <a name="create-a-shared-mailbox"></a>Izveidot koplietojamu pastkasti
+# <a name="create-a-shared-mailbox"></a>Koplietojamas pastkastes izveide
 
 Koplietota pastkaste ļauj vairāk nekā vienam cilvēkam, sūtīt un saņemt e-pasta aizstājvārdu, piemēram, **sales@contoso.com**, nepiešķirot citu licenci.
   
