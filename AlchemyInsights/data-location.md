@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
 ms.openlocfilehash: 77bf1d550c53a750129fb87ecd795c5ea3a463b5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28300605"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500505"
 ---
-# <a name="data-location"></a><span data-ttu-id="a292d-102">Datu atrašanās vieta</span><span class="sxs-lookup"><span data-stu-id="a292d-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="dbd06-102">Datu atrašanās vieta</span><span class="sxs-lookup"><span data-stu-id="dbd06-102">Data location</span></span>
 
-<span data-ttu-id="a292d-p101">Mēs uzturam vairākus datu kopijas visā datacenters atlaišana. [Redzētu, kur atrodas jūsu datus](https://office.com/datamaps). Ja mēs paplašinām savu datu atrašanās vieta, par jauno valsti vai reģionu, mēs dosim vienu mēnesi iepriekš paziņo.</span><span class="sxs-lookup"><span data-stu-id="a292d-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
+<span data-ttu-id="dbd06-p101">Mēs uzturam vairākus datu kopijas visā datacenters atlaišana. [Redzētu, kur atrodas jūsu datus](https://office.com/datamaps). Ja mēs paplašinām savu datu atrašanās vieta, par jauno valsti vai reģionu, mēs dosim vienu mēnesi iepriekš paziņo.</span><span class="sxs-lookup"><span data-stu-id="dbd06-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
   
-<span data-ttu-id="a292d-106">Lai iegūtu vairāk informācijas par Office 365 drošības, privātuma un atbilstības, skatiet [365 Office Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="a292d-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
+<span data-ttu-id="dbd06-106">Lai iegūtu vairāk informācijas par Office 365 drošības, privātuma un atbilstības, skatiet [365 Office Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="dbd06-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
   
 
