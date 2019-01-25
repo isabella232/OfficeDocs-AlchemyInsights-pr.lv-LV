@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299891"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479675"
 ---
  **Jautājums:** Jaunizveidotajām vai atjaunināto saglabāšanas politikas maiņas administrēšanas centrā nav piemērotu pastkastēs vai vienumus nevar pārvietot uz arhīva pastkasti vai izdzēst. 
   
@@ -30,7 +30,7 @@ ms.locfileid: "28299891"
 
 - Tas var notikt, ja **RetentionHold** ir **iespējots** uz pastkasti. Ja pastkaste ir piešķirtas RetentionHold, saglabāšanas politiku uz pastkasti nevar apstrādāt šajā laikā. Lai iegūtu informāciju par iestatījumu skatiet RetentionHold: [Pastkastes uzglabāšanas turiet](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Risinājums:**
+    Risinājums
     
   - RetentionHold iestatījumus uz norādīto pastkasti [EXO](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)PowerShell statusa pārbaude:
     

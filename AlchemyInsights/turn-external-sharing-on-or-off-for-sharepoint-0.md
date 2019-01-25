@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
 ms.openlocfilehash: 0d4bb7ea2e350dc91bb32f3c03d2f0b10b55477f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28300693"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478930"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Savukārt ārējās koplietošanas ieslēgšana vai izslēgšana SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "28300693"
 2. Ieslēgtu vai izslēgtu vai atlasiet koplietošanas opcija, ja tas ir ieslēgts.
     
 > [!NOTE]
-> Izslēgt koplietošanu SharePoint izslēdz to OneDrive. Lai atļautu ārējās koplietošanu jebkurā vietnē, organizācijas līmeņa iestatījumam ir jābūt par. > Lai atļautu ārējās koplietošanas OneDrive vai jebkuras atsevišķas SharePoint vietnēs, jums jāieslēdz tā uzņēmuma SharePoint. Pēc tam to var izslēgt konkrētu vietņu kolekcijām. Lai pārvaldītu saziņas vietnes un vietnes, kas pieder pie grupām, Office 365 ārējās koplietošanas iestatījumus, jums vajadzēs izmantot jauno SharePoint administrēšanas centru (priekšskatījuma) vai PowerShell. Lai iegūtu vairāk informācijas par ārējās koplietošanas iestatījumu pārvaldīšana, sk. [Ieslēgt ārējās koplietošanas ieslēgšana vai izslēgšana](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Izslēgt koplietošanu SharePoint izslēdz to OneDrive. Lai atļautu ārējās koplietošanu jebkurā vietnē, organizācijas līmeņa iestatījumam ir jābūt par. >, lai atļautu ārējās koplietošanas OneDrive vai jebkuras atsevišķas SharePoint vietnēs, jums jāieslēdz tā uzņēmuma SharePoint. Pēc tam to var izslēgt konkrētu vietņu kolekcijām. Lai pārvaldītu saziņas vietnes un vietnes, kas pieder pie grupām, Office 365 ārējās koplietošanas iestatījumus, jums vajadzēs izmantot jauno SharePoint administrēšanas centru (priekšskatījuma) vai PowerShell. Lai iegūtu vairāk informācijas par ārējās koplietošanas iestatījumu pārvaldīšana, sk. [Ieslēgt ārējās koplietošanas ieslēgšana vai izslēgšana](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Uzziniet vairāk par ārējās koplietošanas vidē SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
 ms.openlocfilehash: e66cbd0dc4b3d59b137892391b6b7eebc078de49
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28300184"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479144"
 ---
 # <a name="creating-public-folders"></a>Izveidojot publiskās mapes
 
@@ -26,7 +26,7 @@ Lai jūsu lietotāji varētu izmantot publiskās mapes programmā Office 365, ju
     
 3. **Publiskās mapes pastkastē**, sniegt tai publiskajai mapei nosaukumu.
     
-4. Noklikšķiniet uz **Saglabāt**.
+4. Noklikšķiniet uz Saglabāt.
     
 Ja pastkaste ir izveidota, var sākt veidot atsevišķas mapes vai pateikt jūsu lietotājus, startēšanai, [veidojot un izmantojot publiskās mapes programmā Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   
