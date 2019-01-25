@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
 ms.openlocfilehash: 3aaafac16f39c61d074a488f373329893e0485a8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299976"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479056"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="2bde7-102">Ārēja e-pasta adreses pievienošana adresātu grupu</span><span class="sxs-lookup"><span data-stu-id="2bde7-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="c18cf-102">Ārēja e-pasta adreses pievienošana adresātu grupu</span><span class="sxs-lookup"><span data-stu-id="c18cf-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="2bde7-p101">Pirmkārt, jums ir nepieciešams, lai izveidotu kontaktpersonu jūsu uzņēmuma ārējā e-pasta adresi. Pēc tam var pievienot kontaktu adresātu grupu. Lai iegūtu papildinformāciju, skatiet [ārējo lietotāju pievienošana adresātu grupu?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="2bde7-p101">First, you need to create a contact in your organization for the external email address. Then, you can add the contact to the distribution group. For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="c18cf-p101">Pirmkārt, jums ir nepieciešams, lai izveidotu kontaktpersonu jūsu uzņēmuma ārējā e-pasta adresi. Pēc tam var pievienot kontaktu adresātu grupu. Lai iegūtu papildinformāciju, skatiet [ārējo lietotāju pievienošana adresātu grupu?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="c18cf-p101">First, you need to create a contact in your organization for the external email address. Then, you can add the contact to the distribution group. For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
   
-<span data-ttu-id="2bde7-p102">Ja vēlaties, lai ārējie lietotāji varēs sūtīt ziņojumus šai izplatīšanas grupai, pārbaudiet, vai grupas ir konfigurēta tā, lai apstiprinātu e-pasta ziņojumus no ārējiem sūtītājiem. Plašāku informāciju skatiet [Piegādes pārvaldība](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="2bde7-p102">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders. For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="c18cf-p102">Ja vēlaties, lai ārējie lietotāji varēs sūtīt ziņojumus šai izplatīšanas grupai, pārbaudiet, vai grupas ir konfigurēta tā, lai apstiprinātu e-pasta ziņojumus no ārējiem sūtītājiem. Plašāku informāciju skatiet [Piegādes pārvaldība](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="c18cf-p102">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders. For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
   
 

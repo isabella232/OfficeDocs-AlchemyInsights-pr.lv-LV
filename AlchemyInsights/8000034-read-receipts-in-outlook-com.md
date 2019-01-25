@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
 ms.openlocfilehash: b3585a94e2408d6184fbe312e92a957288a27de6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299820"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479293"
 ---
-# <a name="read-receipts-in-outlookcom"></a><span data-ttu-id="2813e-102">Lasīšanas apliecinājumi Outlook.com</span><span class="sxs-lookup"><span data-stu-id="2813e-102">Read receipts in Outlook.com</span></span>
+# <a name="read-receipts-in-outlookcom"></a><span data-ttu-id="af043-102">Lasīšanas apliecinājumi Outlook.com</span><span class="sxs-lookup"><span data-stu-id="af043-102">Read receipts in Outlook.com</span></span>
 
-<span data-ttu-id="2813e-p101">Nevar pieprasīt lasīšanas apliecinājumu ar Outlook.com, bet jūs varat pieprasīt lasīšanas apliecinājumu Outlook.com ziņojumiem, kas nosūtīti, izmantojot programmas Outlook uz Windows. Lai uzzinātu, kā to izdarīt, skatiet sadaļu [Pievienot un pieprasījuma saņemšanu un piegādes paziņojumu lasīt](https://go.microsoft.com/fwlink/p/?linkid=874355).</span><span class="sxs-lookup"><span data-stu-id="2813e-p101">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows. To learn how, see [Add and request read receipts and delivery notifications](https://go.microsoft.com/fwlink/p/?linkid=874355).</span></span>
+<span data-ttu-id="af043-p101">Nevar pieprasīt lasīšanas apliecinājumu ar Outlook.com, bet jūs varat pieprasīt lasīšanas apliecinājumu Outlook.com ziņojumiem, kas nosūtīti, izmantojot programmas Outlook uz Windows. Lai uzzinātu, kā to izdarīt, skatiet sadaļu [Pievienot un pieprasījuma saņemšanu un piegādes paziņojumu lasīt](https://go.microsoft.com/fwlink/p/?linkid=874355).</span><span class="sxs-lookup"><span data-stu-id="af043-p101">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows. To learn how, see [Add and request read receipts and delivery notifications](https://go.microsoft.com/fwlink/p/?linkid=874355).</span></span>
   
-<span data-ttu-id="2813e-105">Izvēlēties, cik Outlook.com reaģē uz lasīšanas apliecinājumu pieprasījumiem, dodieties uz sadaļu **Iestatījumi**![iestatījumus](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opcijas** \> **Mail** \> **Automātiska apstrāde** \> **lasīšanas apliecinājumi**.</span><span class="sxs-lookup"><span data-stu-id="2813e-105">To choose how Outlook.com responds to read receipt requests, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png)\> **Options** \> **Mail** \> **Automatic processing** \> **Read receipts**.</span></span> 
+<span data-ttu-id="af043-105">Izvēlēties, cik Outlook.com reaģē uz lasīšanas apliecinājumu pieprasījumiem, dodieties uz sadaļu **Iestatījumi**![iestatījumus](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opcijas** \> **Mail** \> **Automātiska apstrāde** \> **lasīšanas apliecinājumi**.</span><span class="sxs-lookup"><span data-stu-id="af043-105">To choose how Outlook.com responds to read receipt requests, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png)\> **Options** \> **Mail** \> **Automatic processing** \> **Read receipts**.</span></span> 
   
-<span data-ttu-id="2813e-106">Outlook.com beta, izvēlieties **uzstādījumi**![iestatījumus](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) un meklēt iespējas tās **lasīšanas apliecinājumi**.</span><span class="sxs-lookup"><span data-stu-id="2813e-106">In the Outlook.com beta, select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) and search for **Read receipts**.</span></span> 
+<span data-ttu-id="af043-106">Outlook.com beta, izvēlieties **uzstādījumi**![iestatījumus](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) un meklēt iespējas tās **lasīšanas apliecinājumi**.</span><span class="sxs-lookup"><span data-stu-id="af043-106">In the Outlook.com beta, select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) and search for **Read receipts**.</span></span> 
   
 

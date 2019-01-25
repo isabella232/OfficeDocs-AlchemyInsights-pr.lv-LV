@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: b54f3dc704a321dd1cc574171b9978fa7978fad4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28300933"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29479266"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a><span data-ttu-id="33295-102">Nevarat pierakstīties pakalpojumā Hotmail vai Outlook.com?</span><span class="sxs-lookup"><span data-stu-id="33295-102">Can't sign in to Hotmail or Outlook.com?</span></span>
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a><span data-ttu-id="94fb3-102">Nevarat pierakstīties pakalpojumā Hotmail vai Outlook.com?</span><span class="sxs-lookup"><span data-stu-id="94fb3-102">Can't sign in to Hotmail or Outlook.com?</span></span>
 
-<span data-ttu-id="33295-p101">Lai Outlook.com konts paliktu aktīvs, pierakstieties kontā vismaz reizi 365 dienas. Pēc 365 dienām neaktivitātes, jūsu e-pastu tiks dzēsti un nevar atgūt.</span><span class="sxs-lookup"><span data-stu-id="33295-p101">To keep your Outlook.com account active, you must sign in to the account at least once every 365 days. After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="94fb3-p101">Lai Outlook.com konts paliktu aktīvs, pierakstieties kontā vismaz reizi 365 dienas. Pēc 365 dienām neaktivitātes, jūsu e-pastu tiks dzēsti un nevar atgūt.</span><span class="sxs-lookup"><span data-stu-id="94fb3-p101">To keep your Outlook.com account active, you must sign in to the account at least once every 365 days. After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="33295-105">Ja jūs esat pierakstījies 365 dienās, bet joprojām nevar piekļūt Hotmail vai Outlook.com kontu, lasīt [kā pierakstīties uz vai no Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="33295-105">If you've signed in within 365 days but still can't access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span></span>
+<span data-ttu-id="94fb3-105">Ja jūs esat pierakstījies 365 dienās, bet joprojām nevar piekļūt Hotmail vai Outlook.com kontu, lasīt [kā pierakstīties uz vai no Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="94fb3-105">If you've signed in within 365 days but still can't access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/?linkid=2005840&amp;clcid=0x409).</span></span>
   
 
