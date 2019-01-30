@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454437"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454437"
 ## <a name="week-of-january-07-2019"></a>07 janvāris 2019 nedēļa
 
 
-| Publicēts |Tēmas nosaukums | Mainīt. |
+| Publicēts |Tēmas nosaukums | Izmaiņas |
 |------|------------|--------|
 | 1/7/2019 | [Mainīt paroli](/AlchemyInsights/change-your-password-in-outlook.com) | pievienotās |
 | 1/7/2019 | [Mainīšanas uz pastkasti](/AlchemyInsights/changing-permissions-on-a-mailbox) | pievienotās |
@@ -302,7 +294,7 @@ ms.locfileid: "29454437"
 | 1/10/2019 | [Izveidot komunikācijas vietni](/AlchemyInsights/create-a-communication-site) | pievienotās |
 | 1/10/2019 | [Izveidotu plūsmas](/AlchemyInsights/create-a-flow) | pievienotās |
 | 1/10/2019 | [Izveidot modernu darba grupas vietni](/AlchemyInsights/create-a-modern-team-site) | pievienotās |
-| 1/10/2019 | Koplietojamas pastkastes izveide | pievienotās |
+| 1/10/2019 | [Izveidot koplietojamu pastkasti](/AlchemyInsights/create-a-shared-mailbox) | pievienotās |
 | 1/10/2019 | [Izveidotu SharePoint vietni](/AlchemyInsights/create-a-sharepoint-site) | pievienotās |
 | 1/10/2019 | [Izveidot vietni, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | pievienotās |
 | 1/10/2019 | [Izveidot un izmantot koplietojamās pastkastes](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | pievienotās |
@@ -599,7 +591,7 @@ ms.locfileid: "29454437"
 | 11/1/2019 | [Izveidot komunikācijas vietni](/AlchemyInsights/create-a-communication-site) | modificēta |
 | 11/1/2019 | [Izveidotu plūsmas](/AlchemyInsights/create-a-flow) | modificēta |
 | 11/1/2019 | [Izveidot modernu darba grupas vietni](/AlchemyInsights/create-a-modern-team-site) | modificēta |
-| 11/1/2019 | Koplietojamas pastkastes izveide | modificēta |
+| 11/1/2019 | [Izveidot koplietojamu pastkasti](/AlchemyInsights/create-a-shared-mailbox) | modificēta |
 | 11/1/2019 | [Izveidotu SharePoint vietni](/AlchemyInsights/create-a-sharepoint-site) | modificēta |
 | 11/1/2019 | [Izveidot vietni, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificēta |
 | 11/1/2019 | [Izveidot un izmantot koplietojamās pastkastes](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modificēta |
@@ -637,9 +629,25 @@ ms.locfileid: "29454437"
 ## <a name="week-of-january-14-2019"></a>January 14, 2019 nedēļa
 
 
-| Publicēts |Tēmas nosaukums | Mainīt. |
+| Publicēts |Tēmas nosaukums | Izmaiņas |
 |------|------------|--------|
 | 1/14/2019 | Alķīmijas viettura | izņemta |
 | 1/14/2019 | Pievienot domēnu alķīmija | izņemta |
 | 1/14/2019 | [Alchemy ieskatu mājas](/AlchemyInsights/index) | modificēta |
 | 1/17/2019 | [Tāpat kā nosaukums ir labākais [KĀRTULA #-apraksts]](/AlchemyInsights/1-alchemy-insight-template) | pievienotās |
+
+
+## <a name="week-of-january-21-2019"></a>January 21, 2019 nedēļa
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 1/22/2019 | [1047 antiSpam 550 5.7.708 pakalpojums nav pieejams. Liegta piekļuve, satiksmes nepieņem no šīs IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificēta |
+| 1/22/2019 | [1049 antiSpam 4.5.3 pārāk daudz saņēmēju (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modificēta |
+| 1/22/2019 | [1050 antispam 4.7.500 serveris ir aizņemts. Lūdzu, mēģiniet vēlreiz vēlāk no [xxx.xxx]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificēta |
+| 1/22/2019 | [1051 antispam 4.7.500 piekļuve liegta. Lūdzu, mēģiniet vēlreiz vēlāk](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | modificēta |
+| 1/22/2019 | [Pārraides e-pastu, izmantojot Office 365](/AlchemyInsights/relay-email-through-office-365) | modificēta |
+| 1/24/2019 | [Vadības grupas izveidi](/AlchemyInsights/control-creation-of-groups) | modificēta |
+| 1/24/2019 | [Programmu Outlook ar Exchange 2007 jautājumiem](/AlchemyInsights/outlook-issues-with-exchange-2007) | pievienotās |
+| 1/24/2019 | [Atjaunot Office 365 grupu, izmantojot Exchange administratoru centrs](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | pārdēvēt |
+| 1/24/2019 | [Novērst problēmas, kas saistītas ar Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | pārdēvēt |
