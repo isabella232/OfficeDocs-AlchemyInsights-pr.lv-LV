@@ -2,51 +2,30 @@
 title: SharePoint vietnes dzēšana
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479807"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660023"
 ---
 # <a name="delete-a-sharepoint-site"></a>SharePoint vietnes dzēšana
-
- **Dzēsiet vietnes, kas pieder Office 365 grupai:**
+ **Vietnes dzēšana jauno SharePoint administrēšanas centru**
   
-Lietotājiem izveidot jaunu darba grupas vietni no SharePoint mājas (vai jūs radiet jaunu darba grupas vietni no jaunās SharePoint administrēšanas centrs preview), atbilstošo Office 365 grupa tiek izveidota automātiski. Biroja 365 grupu saistītas grupas vietnes tiek veidotas arī, veidojot Teams Microsoft Office 365 grupai vai komandai. Lai izdzēstu SharePoint vietnē Office 365 grupai, ir jādzēš pati Office 365 grupa. 
+Lai dzēstu aktīva vietne, doties uz pašreizējo SharePoint administrēšanas centru, noklikšķiniet uz "Pamēģini tagad" augšējā labajā pusē. Atlasiet **aktīvo vietnes**, atlasiet vietni, un pēc tam atlasiet **Dzēst**. [Skatīt un atjaunot dzēsuši jaunu SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izvēlieties **dzēsuši**. Lai iegūtu vairāk informācijas skatīt [Pārvaldīt vietnes jauno SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Doties uz [Office 365 admin Center Groups lapā](https://portal.office.com/adminportal/home#/groups).
+**Svarīgi:** Ja vietne ir daļa no glabāšanas politiku, jūs nevarēsit to izdzēst, kamēr vietā tiek izņemts no [drošību &amp; atbilstības administrēšanas centrs](https://protection.office.com/?rfr=AdminCenter#/homepage). [Saglabāšanas politikas pārskats](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) Skatīt vairāk info. 
   
-2. Atzīmējiet izvēles rūtiņu blakus grupai.
-  
-3. Izvēlieties **Dzēst**. 
-  
-Piezīme: Dzēšot grupu, var būt kavēšanās pirms izņemšanas no SharePoint vietnes.
-  
- **Dzēstu saziņas vietnes vai klasisko vietām:**
-  
-1. Dodieties uz vietni.
-  
-2. Noklikšķiniet uz * iestatījumi * * (zobrats ikona) augšējā labajā pusē. 
-  
-3. Noklikšķiniet uz **vietnes iestatījumi**. Sadaļā **Vietnes informāciju** vai **Vietnes darbības**noklikšķiniet uz **Dzēst šo vietu**un pēc tam noklikšķiniet uz **Dzēst**. 
-  
- **SharePoint vietņu kolekcijas dzēšanai:**
-  
-Klasisks vietņu kolekcijas dzēšanai:
-  
-1. Klasisks SharePoint administrēšanas centrā, lapā vietņu kolekcijas atzīmējiet **izvēles rūtiņu** blakus vietņu kolekcijas. 
-  
-2. Vietņu kolekcijas zīmnē atlasiet **izdzēst.**
-  
- **Izdzēst vietni nejauši?**
-  
-Skatīt, [atjaunot dzēstos vietņu kolekcijā](https://go.microsoft.com/fwlink/?linkid=867660).
+Padomi:
+- Vietnes, kas pieder **Biroja 365 grupu**var izdzēst tagad pasaules admins SharePoint admins. Grupas un visas tās resursus, ieskaitot Outlook pastkastes un kalendāra un jebkuras grupas kanāliem tiks dzēstas. Lai iegūtu vairāk informācijas, skatīt [dzēst SharePoint vietnē](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Jūs varat atgūt svītrots vietām 93 dienas. Piezīme Dzēstie grupām ir jāatjauno, 30 dienu laikā. Lai iegūtu vairāk informācijas, sk. [skatu un atjaunošanas dzēsuši](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Pilnīgi noņemt vietni, izmantojot Powershell, skatiet [Remove SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet piemēru. 
   
 

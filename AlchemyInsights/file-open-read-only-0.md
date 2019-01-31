@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: cbc3a97debc70ce7be02f651253c71651bbb2643
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479842"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661254"
 ---
 # <a name="file-open-read-only"></a>Failu atvērtu tikai lasāmu failu
 
@@ -30,7 +30,7 @@ Jūs varat pārbaudīt faila rekvizītus, ar peles labo pogu uz faila un izvēlo
   
  **Saturs tiek aizsargāts skatā**
   
-Faili no interneta un citām potenciāli nedrošu atrašanās vietām var saturēt vīrusus, tārpus vai cita veida ļaundabīgās programmas, kas var kaitēt jūsu datoram. Tas ir arī biežāk kā gadījumā ar e-pasta pielikumus vai lejupielādētos failus. Lai palīdzētu aizsargāt datoru, failus no šīs potenciāli nedrošu atrašanās vietas tiek atvērta skatā aizsargāti. Izmantojot aizsargātas skatu, varat lasīt failu un skatīt tā saturu, vienlaikus samazinot riskus. Plašāku informāciju par aizsargātā skatu un iestatījumu maiņu, skatiet šajā rakstā: [kāds ir aizsargātas viedoklis?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Faili no interneta un citām potenciāli nedrošu atrašanās vietām var saturēt vīrusus, tārpus vai cita veida ļaundabīgās programmas, kas var kaitēt jūsu datoram. Tas ir arī biežāk kā gadījumā ar e-pasta pielikumus vai lejupielādētos failus. Lai palīdzētu aizsargāt datoru, failus no šīs potenciāli nedrošu atrašanās vietas tiek atvērta skatā aizsargāti. Izmantojot aizsargātas skatu, varat lasīt failu un skatīt tā saturu, vienlaikus samazinot riskus. Plašāku informāciju par aizsargātā skatu un iestatījumu maiņu, skatiet šajā rakstā: [kāds ir aizsargātas viedoklis?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive ir pilna?**
   
@@ -38,7 +38,7 @@ Ja fails ir saglabāts ar OneDrive un OneDrive atmiņas ir pilna, nevar dokument
   
  **Office ir aktivizēta?**
   
-Ja Office nav aktivizēts vai abonementa derīguma termiņš ir beidzies, jūs varētu būt tikai lasāms samazinātas funkcionalitātes režīmā. Meklējiet informāciju par to, kā aktivizēt Office: [nelicencētu ražojumu un Office aktivizācijas kļūdu](https://support.office.com/en-us/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ja Office nav aktivizēts vai abonementa derīguma termiņš ir beidzies, jūs varētu būt tikai lasāms samazinātas funkcionalitātes režīmā. Meklējiet informāciju par to, kā aktivizēt Office: [nelicencētu ražojumu un Office aktivizācijas kļūdu](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Ja visi cits neizdodas...**
   

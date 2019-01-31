@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0fa0168722c6c75aa68bbad7fefdde7ca924be85
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479762"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662406"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Izveidot abonementu O365 Business Essentials
 
@@ -23,24 +23,24 @@ Izveidot Office 365 kontu un pievienot savu domēnu
     
 - Doties uz [Office 365 administrēšanas centrā](https://login.partner.microsoftonline.cn/).
     
-- Lai startētu vedni, izvēlieties **iet uz setup**. Papildinformāciju skatiet sadaļā [Pievienot lietotājus un biroja 365 domēna](https://support.office.com/en-US/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Lai startētu vedni, izvēlieties **iet uz setup**. Papildinformāciju skatiet sadaļā [Pievienot lietotājus un biroja 365 domēna](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 Importēt e-pasta
   
-- Pārvietojiet savu esošo e-pasta un kontaktu no citas e-pasta sistēmas Office 365 pastkasti lai jūs varat redzēt visu vienuviet. Migrācijas iespējas, [migrēšana e-pasta adresi un kontaktpersonas Office 365](https://support.office.com/en-US/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Pārvietojiet savu esošo e-pasta un kontaktu no citas e-pasta sistēmas Office 365 pastkasti lai jūs varat redzēt visu vienuviet. Migrācijas iespējas, [migrēšana e-pasta adresi un kontaktpersonas Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
     
 - Pievienojiet e-pasta kontiem
     
-  - Papildus pārvaldība jūsu Office 365 e-pastu programmā Outlook, var izveidot savienojumu ar citu e-pasta kontu programmā Outlook, pārāk, piemēram, Gmail un Yahoo kontu. Tas ļauj jums pārvaldīt visu jūsu e-pastu vienuviet. Jūs varat pievienot līdz pat 5 e-pasta kontu programmā Outlook. Sīkāku informāciju skatiet [Connect e-pasta kontu programmā Outlook tīmeklī (Office 365)](https://support.office.com/en-US/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Papildus pārvaldība jūsu Office 365 e-pastu programmā Outlook, var izveidot savienojumu ar citu e-pasta kontu programmā Outlook, pārāk, piemēram, Gmail un Yahoo kontu. Tas ļauj jums pārvaldīt visu jūsu e-pastu vienuviet. Jūs varat pievienot līdz pat 5 e-pasta kontu programmā Outlook. Sīkāku informāciju skatiet [Connect e-pasta kontu programmā Outlook tīmeklī (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Instalēt Skype biznesa
   
-- Jūs un jūsu komandas biedri var [lejupielādēt un instalēt Skype uzņēmējdarbībai](https://support.office.com/en-US/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) visos PC, Mac, tabletes un telefoniem. Tad jūs varēsiet redzēt savus kolēģus tiešsaistes statusu, sākt tērzēšanu no citām Office programmām un uzņēmēja video tikšanās ar ne vairāk kā 250 cilvēki. 
+- Jūs un jūsu komandas biedri var [lejupielādēt un instalēt Skype uzņēmējdarbībai](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) visos PC, Mac, tabletes un telefoniem. Tad jūs varēsiet redzēt savus kolēģus tiešsaistes statusu, sākt tērzēšanu no citām Office programmām un uzņēmēja video tikšanās ar ne vairāk kā 250 cilvēki. 
     
 Saglabātu failus tiešsaistē
   
 - Lai uzzinātu, kuras glabāšanas vietām ir labākais jūsu uzņēmumam, redzēt, [kur var saglabāt failus Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Ikvienam izpaužas **OneDrive** mākonis uzglabāšanas vietu automātiski veidojot Office 365 pārskatus par tiem. Ar OneDrive, var piekļūt failiem, pāri datoriem, tālruņiem un tabletes. 
     
-Šajā [rakstā](https://support.office.com/en-US/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)var atrast detalizētu uzstādīšanas soļus.
+Šajā [rakstā](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)var atrast detalizētu uzstādīšanas soļus.
   
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479748"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662334"
 ---
 # <a name="conditional-access-with-intune"></a>Ierobežotu piekļuvi ar Intune
 
@@ -25,10 +25,10 @@ Izmantojot **Ierobežotas piekļuves** ar Intune prasa 3 soļi:
     
 - Nodrošinot gan **Atbilstības** un **Ierobežotas piekļuves politiku** ir mērķētas uz vajadzīgo lietotāju grupām. Tas var prasīt konkrētu lietotāju grupas izveide Azure Active Directory. 
     
-Papildinformācija
+Lasīt vairāk:
   
-- [Ierobežotas piekļuves labākās prakses](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [Ierobežotas piekļuves labākās prakses](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Darba sākšana ar ierobežotas piekļuves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Darba sākšana ar ierobežotas piekļuves](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

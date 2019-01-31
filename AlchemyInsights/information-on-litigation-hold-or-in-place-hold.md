@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479844"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660138"
 ---
-- Piemērot tiesvedības aizturēšanai vai tūlītēju turēt pastkastes [Exchange Online plāns 2 licence](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ir nepieciešama. Ja lietojat citu plānu, piešķirt atsevišķa [Exchange Online arhivēšanas](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licence kontu. 
+- Piemērot tiesvedības aizturēšanai vai tūlītēju turēt pastkastes [Exchange Online plāns 2 licence](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ir nepieciešama. Ja lietojat citu plānu, piešķirt atsevišķa [Exchange Online arhivēšanas](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licence kontu. 
     
-- **Lai ļautu tiesvedības turēt** uz vienu lietotāju, izpildiet darbības, kas izklāstīti [šeit](https://docs.microsoft.com/en-us/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Ja tiesvedības aizturēšana ir iespējota, visu pastkastes saturu tiek aizturēta.
+- **Lai ļautu tiesvedības turēt** uz vienu lietotāju, izpildiet darbības, kas izklāstīti [šeit](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Ja tiesvedības aizturēšana ir iespējota, visu pastkastes saturu tiek aizturēta.
     
-- Piemērot **šajā vietā turēt uz atsevišķiem lietotājiem** vai turēt **visām**pastkastēm, visā organizācijā, varat izmantot saglabāšanas politikas Office 365 drošības un saskaņotības centrs, izpildot soļus aprakstīts [šeit](https://docs.microsoft.com/en-us/Office365/securitycompliance/retention-policies ).
+- Piemērot **šajā vietā turēt uz atsevišķiem lietotājiem** vai turēt **visām**pastkastēm, visā organizācijā, varat izmantot saglabāšanas politikas Office 365 drošības un saskaņotības centrs, izpildot soļus aprakstīts [šeit](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
     > Organizācijas mēroga saglabāšanas politikām, jauniem lietotājiem tiks automātiski pievienoti aizturēšanai. 
   
-- Lai skatītu, vai atklāt pastkastes saturu, kas ir aizturēta, izmantot **eDiscovery meklēšanas un eksporta**. Informāciju par lietošanu **eDiscovery meklēšanas un eksporta**, sekot soļus aprakstīts [šeit](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+- Lai skatītu, vai atklāt pastkastes saturu, kas ir aizturēta, izmantot **eDiscovery meklēšanas un eksporta**. Informāciju par lietošanu **eDiscovery meklēšanas un eksporta**, sekot soļus aprakstīts [šeit](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

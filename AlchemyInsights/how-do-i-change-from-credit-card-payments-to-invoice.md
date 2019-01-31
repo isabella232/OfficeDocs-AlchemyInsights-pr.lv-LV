@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479900"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661218"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kā mainīt no credit card maksājumi rēķina?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29479900"
 2. Izvēlieties abonēšanas, kuru vēlaties mainīt. Sadaļā **maksājumu metodi** izvēlieties **Mainīt maksājuma detaļas**.
     
 3. **Izmaiņas maksājumu detaļas** pane, izvēlieties **mainīt maksāšanas metodi**.
-    
-    > [!TIP]
-    > Ja nav redzama saite **mainīt maksāšanas metodi** , tas nozīmē, ka pārejot no kredītkartes vai bankas konta rēķinā nav pieejams abonēšanas, jo abonementu, kas neatbilst minimālā izmaksu summa norēķinu rēķinā. Minimālo izmaksu summu, kas nepieciešama, lai jāmaksā rēķins ir atkarīgs no ģeogrāfiskā atrašanās vieta. 
+<br>*Piezīme: Ja saites **mainīt savu samaksas metodi** netiek rādīts, tas nozīmē, ka pārejot no kredītkartes vai bankas konta rēķinā nav pieejams abonēšanas, jo abonementu, kas neatbilst minimālā izmaksu summa norēķinu rēķinā. Minimālo izmaksu summu, kas nepieciešama, lai jāmaksā rēķins ir atkarīgs no ģeogrāfiskā atrašanās vieta.*
   
 4. Ar * * mainīt savu samaksas metodi * * dialoglodziņā, izvēlieties **turpināt**.
     
 5. Izvēlieties **Labi** , lai atgrieztos administrēšanas centrs. 
-    
-
+   
