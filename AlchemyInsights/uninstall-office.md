@@ -2,37 +2,33 @@
 title: Noņemiet Office
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Soļus apraksta, kā noņemiet Office no datora.
-ms.openlocfilehash: 04111e20f94d7c5c16d4e25c57f7ace9eac91d57
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9eecacd13793dbf1c788daed5a90ae6e44f84397
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478993"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646678"
 ---
-Soļus apraksta, kā noņemiet Office no datora.
-  
 # <a name="uninstall-office"></a>Noņemiet Office
 
-1. Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
-    
-    > [!TIP]
-    > Atkarībā no pārlūka, lai pabeigtu instalēšanas atbalsts un palīgs atgūšanas, atlasiet **palaist** (Edge), **atvērta** faila kreisajā apakšējā stūrī (Chrome), vai **Saglabāt failu** (Firefox). Izpildiet norādījumus, lai pabeigtu instalēšanu. 
+Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-2. Atlasiet, kuru versiju vēlaties atinstalēt un izvēlētos **nākamo**no **atinstalēt Office produktiem** . 
+1. Kad to atver, **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt un izvēlēties **nākamo**. 
     
-3. Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.
+2. Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.
     
     Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.
     
-4. Izpildiet atlikušās norādījumus un pārinstalējiet Office vai aizvērt palīga.
+3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizvērt palīga. 
     
-Lai iegūtu citu atinstalēšanas opciju sarakstu, atlasiet [Atinstalēt Office no datora](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx).
+Lai iegūtu citu atinstalēšanas opciju sarakstu, atlasiet [Atinstalēt Office no datora](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   
 

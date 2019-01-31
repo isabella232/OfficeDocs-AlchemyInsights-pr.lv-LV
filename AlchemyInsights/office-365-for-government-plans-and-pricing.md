@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 82bcf1d9530f81831d583b086e72fba484ac006d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 65cf16474fad67f153e12fd8ed3e4713ccf2f85a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479760"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657330"
 ---
 Biroja 365 ASV valdības plāni ir paredzēti ASV valdības organizācijas specifiskajām vajadzībām. Tie nodrošina visas funkcijas un iespējas Office 365 pakalpojumu segmentēts valdības mākonis sabiedrību, kas dod iespēju organizācijām, lai apmierinātu ASV atbilstību un drošības standartiem.
   
-- [Pārskatīt valdības plāni](https://products.office.com/en-us/government/compare-office-365-government-plans)
+- [Pārskatīt valdības plāni](https://products.office.com/government/compare-office-365-government-plans)
     
-- [Salīdzināt visus Office 365 plānus](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans)
+- [Salīdzināt visus Office 365 plānus](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 

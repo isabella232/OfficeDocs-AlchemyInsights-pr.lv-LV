@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 6c7a31514515054da84d5e315b6ab55b39674374
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2623ac8a06b0fd277c04dd0ed7a800a56d30e2bb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479164"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659778"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Izveidot un pievienot e-pasta aizstājvārdu, lietotājam
 
@@ -34,6 +34,6 @@ Nepieciešams lietotāja e-pasta aizstājvārda izveidošana vai pievienotu papi
     
     Tas parasti ilgst aptuveni 30 minūtes jaunu aizstājvārdu stātos spēkā.
     
-    **Lai saņemtu sīkāku informāciju, izlasiet šo rakstu:** [Lietotājam pievienot papildu e-pasta aizstājvārdi](https://support.office.com/article/https://support.office.com/en-US/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Lai saņemtu sīkāku informāciju, izlasiet šo rakstu:** [Lietotājam pievienot papildu e-pasta aizstājvārdi](https://support.office.com/article/https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
     
 
