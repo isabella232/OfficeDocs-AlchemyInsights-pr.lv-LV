@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: acc6bc0afed1a1e0fa6e3665b1d266b8f26af577
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479220"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657654"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="66022-102">Skatīt manu rēķinu</span><span class="sxs-lookup"><span data-stu-id="66022-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="92a28-102">Skatīt manu rēķinu</span><span class="sxs-lookup"><span data-stu-id="92a28-102">View my bill</span></span>
 
-1. <span data-ttu-id="66022-103">Admin Center, dodieties uz lapu [rēķinus](https://go.microsoft.com/fwlink/p/?linkid=848039) vai izvēlēties **norēķinu** \> **rēķinus**.</span><span class="sxs-lookup"><span data-stu-id="66022-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
+1. <span data-ttu-id="92a28-103">Admin Center, dodieties uz lapu [rēķinus](https://go.microsoft.com/fwlink/p/?linkid=848039) vai izvēlēties **norēķinu** \> **rēķinus**.</span><span class="sxs-lookup"><span data-stu-id="92a28-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
     
-2. <span data-ttu-id="66022-104">Izvēlēties mēnesi un datumu vēlaties rēķina un pēc tam izvēlieties **skatu**.</span><span class="sxs-lookup"><span data-stu-id="66022-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="92a28-104">Izvēlēties mēnesi un datumu vēlaties rēķina un pēc tam izvēlieties **skatu**.</span><span class="sxs-lookup"><span data-stu-id="92a28-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
     
-3. <span data-ttu-id="66022-105">Izvēlieties rīkojumu, un pēc tam **Skatīt detaļas**.</span><span class="sxs-lookup"><span data-stu-id="66022-105">Choose an order, and then choose **View Details**.</span></span>
+3. <span data-ttu-id="92a28-105">Izvēlieties rīkojumu, un pēc tam **Skatīt detaļas**.</span><span class="sxs-lookup"><span data-stu-id="92a28-105">Choose an order, and then choose **View Details**.</span></span>
     
-<span data-ttu-id="66022-106">Plašāku informāciju skatiet [rēķinu vai rēķinu](https://support.office.com/en-us/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span><span class="sxs-lookup"><span data-stu-id="66022-106">For more information see [View your bill or invoice](https://support.office.com/en-us/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
+<span data-ttu-id="92a28-106">Plašāku informāciju skatiet [rēķinu vai rēķinu](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span><span class="sxs-lookup"><span data-stu-id="92a28-106">For more information see [View your bill or invoice](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
   
 
