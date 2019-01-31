@@ -2,51 +2,30 @@
 title: SharePoint vietnes dzēšana
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479807"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660023"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="680f6-102">SharePoint vietnes dzēšana</span><span class="sxs-lookup"><span data-stu-id="680f6-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="680f6-103">**Dzēsiet vietnes, kas pieder Office 365 grupai:**</span><span class="sxs-lookup"><span data-stu-id="680f6-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="83186-102">SharePoint vietnes dzēšana</span><span class="sxs-lookup"><span data-stu-id="83186-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="83186-103">**Vietnes dzēšana jauno SharePoint administrēšanas centru**</span><span class="sxs-lookup"><span data-stu-id="83186-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="680f6-p101">Lietotājiem izveidot jaunu darba grupas vietni no SharePoint mājas (vai jūs radiet jaunu darba grupas vietni no jaunās SharePoint administrēšanas centrs preview), atbilstošo Office 365 grupa tiek izveidota automātiski. Biroja 365 grupu saistītas grupas vietnes tiek veidotas arī, veidojot Teams Microsoft Office 365 grupai vai komandai. Lai izdzēstu SharePoint vietnē Office 365 grupai, ir jādzēš pati Office 365 grupa.</span><span class="sxs-lookup"><span data-stu-id="680f6-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="83186-p101">Lai dzēstu aktīva vietne, doties uz pašreizējo SharePoint administrēšanas centru, noklikšķiniet uz "Pamēģini tagad" augšējā labajā pusē. Atlasiet **aktīvo vietnes**, atlasiet vietni, un pēc tam atlasiet **Dzēst**. [Skatīt un atjaunot dzēsuši jaunu SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izvēlieties **dzēsuši**. Lai iegūtu vairāk informācijas skatīt [Pārvaldīt vietnes jauno SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="83186-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="680f6-107">Doties uz [Office 365 admin Center Groups lapā](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="680f6-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="83186-p102">**Svarīgi:** Ja vietne ir daļa no glabāšanas politiku, jūs nevarēsit to izdzēst, kamēr vietā tiek izņemts no [drošību &amp; atbilstības administrēšanas centrs](https://protection.office.com/?rfr=AdminCenter#/homepage). [Saglabāšanas politikas pārskats](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) Skatīt vairāk info.</span><span class="sxs-lookup"><span data-stu-id="83186-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="680f6-108">Atzīmējiet izvēles rūtiņu blakus grupai.</span><span class="sxs-lookup"><span data-stu-id="680f6-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="680f6-109">Izvēlieties **Dzēst**.</span><span class="sxs-lookup"><span data-stu-id="680f6-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="680f6-110">Piezīme: Dzēšot grupu, var būt kavēšanās pirms izņemšanas no SharePoint vietnes.</span><span class="sxs-lookup"><span data-stu-id="680f6-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="680f6-111">**Dzēstu saziņas vietnes vai klasisko vietām:**</span><span class="sxs-lookup"><span data-stu-id="680f6-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="680f6-112">Dodieties uz vietni.</span><span class="sxs-lookup"><span data-stu-id="680f6-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="680f6-113">Noklikšķiniet uz \* iestatījumi \* \* (zobrats ikona) augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="680f6-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="680f6-p102">Noklikšķiniet uz **vietnes iestatījumi**. Sadaļā **Vietnes informāciju** vai **Vietnes darbības**noklikšķiniet uz **Dzēst šo vietu**un pēc tam noklikšķiniet uz **Dzēst**.</span><span class="sxs-lookup"><span data-stu-id="680f6-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="680f6-116">**SharePoint vietņu kolekcijas dzēšanai:**</span><span class="sxs-lookup"><span data-stu-id="680f6-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="680f6-117">Klasisks vietņu kolekcijas dzēšanai:</span><span class="sxs-lookup"><span data-stu-id="680f6-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="680f6-118">Klasisks SharePoint administrēšanas centrā, lapā vietņu kolekcijas atzīmējiet **izvēles rūtiņu** blakus vietņu kolekcijas.</span><span class="sxs-lookup"><span data-stu-id="680f6-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="680f6-119">Vietņu kolekcijas zīmnē atlasiet **izdzēst.**</span><span class="sxs-lookup"><span data-stu-id="680f6-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="680f6-120">**Izdzēst vietni nejauši?**</span><span class="sxs-lookup"><span data-stu-id="680f6-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="680f6-121">Skatīt, [atjaunot dzēstos vietņu kolekcijā](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="680f6-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="83186-110">Padomi:</span><span class="sxs-lookup"><span data-stu-id="83186-110">Tips:</span></span>
+- <span data-ttu-id="83186-p103">Vietnes, kas pieder **Biroja 365 grupu**var izdzēst tagad pasaules admins SharePoint admins. Grupas un visas tās resursus, ieskaitot Outlook pastkastes un kalendāra un jebkuras grupas kanāliem tiks dzēstas. Lai iegūtu vairāk informācijas, skatīt [dzēst SharePoint vietnē](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="83186-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="83186-p104">Jūs varat atgūt svītrots vietām 93 dienas. Piezīme Dzēstie grupām ir jāatjauno, 30 dienu laikā. Lai iegūtu vairāk informācijas, sk. [skatu un atjaunošanas dzēsuši](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="83186-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="83186-117">Pilnīgi noņemt vietni, izmantojot Powershell, skatiet [Remove SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet piemēru.</span><span class="sxs-lookup"><span data-stu-id="83186-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
