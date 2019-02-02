@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662937"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697137"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Doesn't darbu nepieciešamo klientu vērsts H1, H2
-Teksta piemērs bloķēt - izpildiet šos norādījumus:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vajadzīga alķīmija Header H1, H2 ir nestrādā.
+Labāko praksi un pamatnostādnēm par alķīmiju autorēšanas:
 
+1. **Neligzdo Alchemy atziņas mapēs**- tas saplīst url struktūru. Mēs meklēja šo noteikšanu.
 1. Failus mapē **AlchemyInsights** vajadzētu būt kārtulas ID un kārtulas nosaukumā no [alķīmijas partneru portāla](https://alchemyportal.azurewebsites.net) nosaukums.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Kā veidnei metadatus izmantotu šī faila sākumā. Nekas cits nav vajadzīgs.
@@ -35,7 +36,6 @@ Teksta piemērs bloķēt - izpildiet šos norādījumus:
 
 Un tas tiešām jau ir mazliet pārāk ilgi. Vislabākā prakse ir apmēram 400 rakstzīmēm--
 
-Kad jūsu lapa ir gatava, izvelciet to dzīvu zaru. Pēc tam [Alchemy partneru portālā](https://alchemyportal.azurewebsites.net) un url laukā ievadiet faila nosaukumu. Pārliecinieties, vai ieskatu pārskatīja un publicēts saka "Jā" un pēc tam noklikšķiniet uz atjaunināt kārtulu. (Tas izskatīsies skaistākas jaunajā versijā portālā - atbrīvojot drīz.)
-
-![URL laukā](media/for-content-team.PNG)
+Kad jūsu lapa ir gatava, izvelciet to dzīvu zaru. Pēc tam [Alchemy partneru portālā](https://alchemyportal.azurewebsites.net) un url laukā ievadiet faila nosaukumu. Pārliecinieties, vai ieskatu pārskatīja un publicēts saka "Jā" un pēc tam noklikšķiniet uz atjaunināt kārtulu. **(Tas izskatīsies skaistākas jaunajā versijā portālā - atbrīvojot drīz.)** 
+ ![url laukā](media/for-content-team.PNG)
 
