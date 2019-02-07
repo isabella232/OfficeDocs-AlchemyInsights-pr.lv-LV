@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: f459c0bb2dce61a0a0c2e34ac8e37ebd3ebfc3c3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6846f8b2c3980801e54876da2e8fea527b26a804
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479858"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759935"
 ---
 "{AimKIObject}" nav redzama sarakstā grupas pēc {AimKITimeElapsed} minūtēm
 
@@ -21,6 +21,6 @@ ms.locfileid: "29479858"
 
 Jūsu grupa "{AimKIObject}" tika izveidota {AimKITimeElapsed} minūtes atpakaļ. Tas parasti nav nepieciešams ilgāks par 60 minūtēm jaunajai adresātu grupai ierasties administrēšanas centrā.
   
-Iespējams, varat izmantot adresātu -\> grupas līdzeklis [Exchange administratoru centrā](https://support.office.com/article/https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) tagad pārvaldīt savas grupas vai izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri. 
+Iespējams, varat izmantot adresātu -\> grupas līdzeklis [Exchange administratoru centrā](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) tagad pārvaldīt savas grupas vai izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri. 
   
 
