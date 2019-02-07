@@ -11,20 +11,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 2aefc2f77462c7461c8c5547f42502db27746f54
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 05d021a95e0f138ce2557e09bb0a657c67af9c92
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479223"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758387"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Iegūt TenantAccessBlockedException kļūda, piekļūstot e-pastu?
 
 Tur ir pāris dažādu iemeslu dēļ, kāpēc jūs varētu saņemt šo kļūdu. Piemēram:
   
-- Pārbaudiet, vai jūsu abonements ir derīga **rēķina** \> **abonēšanas** lapā Office 365 administrēšanas centrā ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).
+- Pārbaudiet, vai jūsu abonements ir derīga **rēķina** \> **abonēšanas** lapā Office 365 administrēšanas centrā ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- Pārbaudīt jebkuru nokavēto maksājumu paziņojumiem, **norēķinu** \> **rēķinus** lappusi Office 365 administrēšanas centrā ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).
+- Pārbaudīt jebkuru nokavēto maksājumu paziņojumiem, **norēķinu** \> **rēķinus** lappusi Office 365 administrēšanas centrā ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
 - Ja norēķinu un abonementiem savam kontam ir nesen atjaunināta, var paiet laiks, lai ieviestu izmaiņas. Mēģiniet vēlreiz pēc dažām minūtēm, un, ja problēma netiek novērsta, sazinieties ar mums.
     
