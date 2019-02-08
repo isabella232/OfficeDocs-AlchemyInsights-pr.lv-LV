@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479791"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770660"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Par delegātu programmās Outlook un Outlook Web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Problēmu novēršanas delegācijas programmā Outlook un Outlook Web
 
-Plašāku informāciju skatiet šajās tēmās:
-  
-- **Outlook**: [ļaut kādam citam, lai pārvaldītu jūsu pastu un kalendāru](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook Web**: [kalendāra Outlook interneta biznesa delegācijas](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Problēmu novēršana ar SaRA rīku:**
 
+1. Lejupielādēt un instalēt SaRA rīks no šejienes
+1. Atlasiet Outlook, tad "es esmu, kam problēmas ar manu kalendārs"
+1. Teikt, jā, skartā mašīna
+1. Ietekmē lietotāja e-pasta adreses pievienošana
+1. Izvēlieties "Es esmu, kam problēmas ar pārstāvja atļaujas"
+1. Nākamais uzvednē, ja jūs esat persona, kas dod atļauju, ievadiet e-pasta adresi savu pārstāvi. Ja esat saņēmis atļauju un esat pārstāvis, ievadiet personas e-pasta adresi, kas tev deva atļauju.
+1. Nākamo izvēlni, atlasiet opciju, kas atbilst jūsu scenārijs. 
+1. Nākamo izvēlni, atlasiet vajadzīgo atļauju līmeni.
+1. Šajā posmā, SaRA rīks veiks automatizētu pārbaudes un tas nodrošinās jūs ar iespējamo izšķirtspēju vai alternatīvi sniegs diagnostikas žurnālu, kurā var izmantot papildu problēmu novēršanai.
+1. Jūs varat atrast žurnāli SaRA rezultāti mapē, kas atrodas C:\Users\Username\AppData\Local\SaraResults
