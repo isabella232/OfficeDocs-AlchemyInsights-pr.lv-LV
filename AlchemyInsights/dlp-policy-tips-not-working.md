@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657767"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786741"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP Padoms politikas jautājumiem
+
 Lietojot **DLP politikām**, lietotāji var paziņot **politikas**padomi politikas pārkāpums. Administratori var konfigurēt politikas padomi, lai parādītu vienlaikus testēšana to DLP politiku vai politika ir pilna izpildes režīmā. 
   
 Konfigurēt politikas padomi, DLP politikas, drošības un saskaņotības centrā pilnu izpildes režīmā, rīkojieties šādi:
