@@ -7,21 +7,21 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 541ad96be587c37061849401c03efc015dd82ec7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3a7cdcaf3668ecce874ba4f744b7a79fd30c5460
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479152"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938563"
 ---
-# <a name="create-a-new-folder"></a><span data-ttu-id="14fdc-102">Izveidot jaunu mapi</span><span class="sxs-lookup"><span data-stu-id="14fdc-102">Create a new folder</span></span>
+# <a name="create-a-new-folder"></a><span data-ttu-id="aaebb-102">Izveidot jaunu mapi</span><span class="sxs-lookup"><span data-stu-id="aaebb-102">Create a new folder</span></span>
 
-1. <span data-ttu-id="14fdc-103">Sadaļā **mapes** navigācijas rūtī atlasiet **Jauna mape**.</span><span class="sxs-lookup"><span data-stu-id="14fdc-103">Under **Folders** in the navigation pane, select **New folder**.</span></span> 
+1. <span data-ttu-id="aaebb-103">Sadaļā **mapes** navigācijas rūtī atlasiet **Jauna mape**.</span><span class="sxs-lookup"><span data-stu-id="aaebb-103">Under **Folders** in the navigation pane, select **New folder**.</span></span> 
     
-2. <span data-ttu-id="14fdc-104">Ierakstiet mapes nosaukumu un nospiediet taustiņu Enter.</span><span class="sxs-lookup"><span data-stu-id="14fdc-104">Type a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="aaebb-104">Ierakstiet mapes nosaukumu un nospiediet taustiņu Enter.</span><span class="sxs-lookup"><span data-stu-id="aaebb-104">Type a name for the folder and press Enter.</span></span>
     
-<span data-ttu-id="14fdc-105">Lai uzzinātu vairāk, skatiet [izveidot mapi Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span><span class="sxs-lookup"><span data-stu-id="14fdc-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span></span>
+<span data-ttu-id="aaebb-105">Lai uzzinātu vairāk, skatiet [izveidot mapi Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span><span class="sxs-lookup"><span data-stu-id="aaebb-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span></span>
   
 

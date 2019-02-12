@@ -7,23 +7,23 @@ ms.date: 3/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 4bf11047e703aaaccbf709f1da003bec829c3722
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656214"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919699"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="e8099-102">Nosūtot e-pastu kā koplietojamu pastkaste</span><span class="sxs-lookup"><span data-stu-id="e8099-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="b74ae-102">Nosūtot e-pastu kā koplietojamu pastkaste</span><span class="sxs-lookup"><span data-stu-id="b74ae-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="e8099-p101">Pēc tam, kad esat izveidojis koplietošanas pastkasti, kuri pastkastes locekļi lietotāji var nosūtīt e-pastu kā koplietojamās pastkastes identitāti (piemēram, *info@contoso.com* ). Norādījumus skatiet sadaļā:</span><span class="sxs-lookup"><span data-stu-id="e8099-p101">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ). For instructions, see:</span></span> 
+<span data-ttu-id="b74ae-p101">Pēc tam, kad esat izveidojis koplietošanas pastkasti, kuri pastkastes locekļi lietotāji var nosūtīt e-pastu kā koplietojamās pastkastes identitāti (piemēram, *info@contoso.com* ). Norādījumus skatiet sadaļā:</span><span class="sxs-lookup"><span data-stu-id="b74ae-p101">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ). For instructions, see:</span></span> 
   
-[<span data-ttu-id="e8099-105">Atvērt un izmantot koplietojamās pastkastes Outlook 2016 un Outlook 2013.</span><span class="sxs-lookup"><span data-stu-id="e8099-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="b74ae-105">Atvērt un izmantot koplietojamās pastkastes Outlook 2016 un Outlook 2013.</span><span class="sxs-lookup"><span data-stu-id="b74ae-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="e8099-106">Koplietojamo pastkastes pievienošana Outlook Web</span><span class="sxs-lookup"><span data-stu-id="e8099-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="b74ae-106">Koplietojamo pastkastes pievienošana Outlook Web</span><span class="sxs-lookup"><span data-stu-id="b74ae-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 
