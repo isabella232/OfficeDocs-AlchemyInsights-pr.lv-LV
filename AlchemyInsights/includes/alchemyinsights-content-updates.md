@@ -838,3 +838,57 @@
 | 1/30/2019 | [123 kļūst konts atspējots kļūda OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | modificēta |
 | 1/2/2019 | [Tāpat kā nosaukums ir labākais [KĀRTULA #-apraksts]](/AlchemyInsights/1-alchemy-insight-template) | modificēta |
 | 1/2/2019 | [Mainīšanas uz pastkasti](/AlchemyInsights/changing-permissions-on-a-mailbox) | modificēta |
+
+
+## <a name="week-of-february-04-2019"></a>Nedēļa 04 februāris 2019
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 2/4/2019 | [Lietotāju pievienošana Office 365](/AlchemyInsights/add-users-to-office-365) | modificēta |
+| 2/6/2019 | [Darbinieku aiziešanas](/AlchemyInsights/employee-leaving) | modificēta |
+| 2/6/2019 | [Administrēšanas pārņemšana](/AlchemyInsights/admin-takeover) | modificēta |
+| 2/6/2019 | [127 kļūst TenantAccessBlockedException kļūda, piekļūstot e-pastu?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificēta |
+| 2/6/2019 | [959 mainīt parādāmo vārdu](/AlchemyInsights/959-change-display-name) | modificēta |
+| 2/6/2019 | [Pievienot vai noņemt e-pasta aizstājvārdu, lietotājam](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modificēta |
+| 2/6/2019 | Vietas pievienošana apmaksāto abonementu | izņemta |
+| 2/6/2019 | [Lietotāju pievienošana Office 365](/AlchemyInsights/add-users-to-office-365) | modificēta |
+| 2/6/2019 | [Ārējo lietotāju pievienošana adresātu grupu?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modificēta |
+| 2/6/2019 | Admin - Global Office 365 uzstādīšana un administrēšana | izņemta |
+| 2/6/2019 | Admin - pārvaldīt manu lietotāju, grupu un resursi | izņemta |
+| 2/6/2019 | Admin - Setup domēna un DNS iestatījumus | izņemta |
+| 2/6/2019 | Admin - pierakstīties un parole jautājumus | izņemta |
+| 2/6/2019 | [Atceltu abonementu Office 365](/AlchemyInsights/cancel-office-365-subscription) | modificēta |
+| 2/6/2019 | [Mainīt lietotāja vārdu un e-pasta adrese](/AlchemyInsights/change-a-user-s-name-and-email-address) | modificēta |
+| 2/6/2019 | Commerce - pārvaldīt, rēķini, maksājumi, abonementiem un licences | izņemta |
+| 2/6/2019 | [Iegūt TenantAccessBlockedException kļūda, piekļūstot e-pastu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificēta |
+| 2/6/2019 | [E-pasta piegādes problēmas?](/AlchemyInsights/having-email-delivery-issues-0) | modificēta |
+| 2/6/2019 | [E-pasta piegādes problēmas?](/AlchemyInsights/having-email-delivery-issues) | modificēta |
+| 2/6/2019 | [Panākt, lai Outlook veidotu savienojumu problēmas?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificēta |
+| 2/6/2019 | [Panākt, lai Outlook veidotu savienojumu problēmas?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificēta |
+| 2/6/2019 | Intune - lejupielādēt, uzstādīšanas un lietošanas Intune | izņemta |
+| 2/6/2019 | [Problēma ar Skype uzņēmējdarbībai?](/AlchemyInsights/issue-with-skype-for-business) | modificēta |
+| 2/6/2019 | ODSP | izņemta |
+| 2/6/2019 | Office klienta - Excel | izņemta |
+| 2/6/2019 | [Atjaunot dzēstos lietotāja](/AlchemyInsights/restore-deleted-user) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress-0) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress-1) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress-2) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress-3) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress-4) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress-5) | modificēta |
+| 2/6/2019 | [Pakalpojumu starpgadījuma norisi](/AlchemyInsights/service-incident-in-progress) | modificēta |
+| 2/6/2019 | [Izveidojot projekta](/AlchemyInsights/setting-up-project) | modificēta |
+| 2/6/2019 | Uzstādīšanas atbilstības funkcijas, piemēram, Arhīvs, saglabāšanas, tiesvedība, eDiscovery un MDM | izņemta |
+| 2/6/2019 | Izmantojot bezsaistes uzstādītājs Office | izņemta |
+| 2/6/2019 | Yammer - Setup un izmantot pakalpojumus, Yammer | izņemta |
+| 2/7/2019 | [Excel crashing?](/AlchemyInsights/excel-crashing) | modificēta |
+| 2/7/2019 | [Kā pievienot vai rediģēt VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | modificēta |
+| 2/7/2019 | [Minecraft izdevums ar Office 365 bezmaksas izglītība](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | modificēta |
+| 2/7/2019 | [606 informāciju par delegācijas](/AlchemyInsights/606-information-on-delegation) | modificēta |
+| 2/7/2019 | [Grupu sarakstā nav redzama jūsu grupai](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | modificēta |
+| 2/8/2019 | [DLP politikas padomi, nedarbojas](/AlchemyInsights/dlp-policy-tips-not-working) | modificēta |
+| 2/8/2019 | [DLP kārtula US / UK pases numurs nedarbojas](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | modificēta |
+| 2/8/2019 | [Biroja 365 bezmaksas izglītība](/AlchemyInsights/office-365-education-for-free) | modificēta |
+| 2/8/2019 | [Nepieciešamo licenču Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | modificēta |
+| 2/8/2019 | [Saglabāšanas politikas maiņas administrēšanas centrā, nedarbojas](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | modificēta |

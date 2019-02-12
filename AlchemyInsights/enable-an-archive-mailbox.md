@@ -1,21 +1,21 @@
 ---
-title: Arhīva pastkastes iespējošana
+title: Iespējot arhīva pastkastes
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479147"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927835"
 ---
-# <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
+# <a name="enable-an-archive-mailbox"></a>Iespējot arhīva pastkastes
 
 Arhīvs pastkastēm programmā Office 365 (sauktas arī par *Tiešsaistes arhīvs* ) nodrošināt lietotājus ar papildu e-pasta uzglabāšanai. Lietotāji var pārvietot vai kopēt vienumus to arhīva pastkasti un admins var izveidot arhīvu politiku, kas automātiski pārvieto krājumus uz arhīvu pastkastēm. 
   
