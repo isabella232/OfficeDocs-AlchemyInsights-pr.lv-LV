@@ -7,43 +7,43 @@ ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: d7a63edc7d5fb51b5d92549d96b62854dbee2031
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a0d28ea749012d852b5eb593d61ca899e6e0c4c7
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478994"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29898243"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="9b01f-102">Grupas pievienošana SharePoint vietnei</span><span class="sxs-lookup"><span data-stu-id="9b01f-102">Add a group to a SharePoint site</span></span>
+# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="c7aaf-102">Grupas pievienošana SharePoint vietnei</span><span class="sxs-lookup"><span data-stu-id="c7aaf-102">Add a group to a SharePoint site</span></span>
 
-<span data-ttu-id="9b01f-p101">Daži SharePoint grupu vietnes (ieskaitot tos, kas izveidoti Microsoft Teams) pārvalda Office 365 grupas īpašnieki. SharePoint vietnes un saturu var arī tiek kopīgoti ar Office 365 grupām un SharePoint grupām. SharePoint grupas ir lietotāji, kuri ir pašā vietnes un saturu atļauju kopu kolekcija. Klasisko vietām, mēs iesakām izmantot grupas ērti piešķirt tāds pats atļauju līmenis, daudzi cilvēki uzreiz, nevis piešķirot atļauju vienai personai vienā reizē.</span><span class="sxs-lookup"><span data-stu-id="9b01f-p101">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners. SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups. A SharePoint group is a collection of users who all have the same set of permissions to sites and content. For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
+<span data-ttu-id="c7aaf-p101">Daži SharePoint grupu vietnes (ieskaitot tos, kas izveidoti Microsoft Teams) pārvalda Office 365 grupas īpašnieki. SharePoint vietnes un saturu var arī tiek kopīgoti ar Office 365 grupām un SharePoint grupām. SharePoint grupas ir lietotāji, kuri ir pašā vietnes un saturu atļauju kopu kolekcija. Klasisko vietām, mēs iesakām izmantot grupas ērti piešķirt tāds pats atļauju līmenis, daudzi cilvēki uzreiz, nevis piešķirot atļauju vienai personai vienā reizē.</span><span class="sxs-lookup"><span data-stu-id="c7aaf-p101">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners. SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups. A SharePoint group is a collection of users who all have the same set of permissions to sites and content. For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
   
-<span data-ttu-id="9b01f-107">Pārvaldīt Office 365 grupas dalībnieki:</span><span class="sxs-lookup"><span data-stu-id="9b01f-107">Manage Office 365 group members:</span></span>
+<span data-ttu-id="c7aaf-107">Pārvaldīt Office 365 grupas dalībnieki:</span><span class="sxs-lookup"><span data-stu-id="c7aaf-107">Manage Office 365 group members:</span></span>
   
-1. <span data-ttu-id="9b01f-108">Doties uz [Office 365 admin centra grupas lapā](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="9b01f-108">Go to the [Groups page in the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="c7aaf-108">Doties uz [Office 365 admin centra grupas lapā](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="c7aaf-108">Go to the [Groups page in the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="9b01f-p102">Atlasiet grupu, lai redzētu tās īpašniekiem un dalībniekiem. Lai pievienotu vai noņemtu personas, noklikšķiniet uz **Rediģēt** saites **īpašniekiem** vai **dalībnieku** rindas.</span><span class="sxs-lookup"><span data-stu-id="9b01f-p102">Select a group to see its owners and members. To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
+2. <span data-ttu-id="c7aaf-p102">Atlasiet grupu, lai redzētu tās īpašniekiem un dalībniekiem. Lai pievienotu vai noņemtu personas, noklikšķiniet uz **Rediģēt** saites **īpašniekiem** vai **dalībnieku** rindas.</span><span class="sxs-lookup"><span data-stu-id="c7aaf-p102">Select a group to see its owners and members. To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
     
-<span data-ttu-id="9b01f-111">Dalīties ar Office 365 grupas saziņas vietne:</span><span class="sxs-lookup"><span data-stu-id="9b01f-111">Share a communication site with an Office 365 group:</span></span>
+<span data-ttu-id="c7aaf-111">Dalīties ar Office 365 grupas saziņas vietne:</span><span class="sxs-lookup"><span data-stu-id="c7aaf-111">Share a communication site with an Office 365 group:</span></span>
   
-1. <span data-ttu-id="9b01f-112">Dodieties uz vietni pārlūkprogrammā un noklikšķiniet uz **koplietot vietnes** augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="9b01f-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
+1. <span data-ttu-id="c7aaf-112">Dodieties uz vietni pārlūkprogrammā un noklikšķiniet uz **koplietot vietnes** augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="c7aaf-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
     
-2. <span data-ttu-id="9b01f-113">Ievadiet grupas nosaukumu un pēc tam atlasiet vajadzīgo atļauju līmeni (lasīt, rediģēt vai pilna kontrole).</span><span class="sxs-lookup"><span data-stu-id="9b01f-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
+2. <span data-ttu-id="c7aaf-113">Ievadiet grupas nosaukumu un pēc tam atlasiet vajadzīgo atļauju līmeni (lasīt, rediģēt vai pilna kontrole).</span><span class="sxs-lookup"><span data-stu-id="c7aaf-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
     
-<span data-ttu-id="9b01f-114">Izveidot SharePoint grupu, kas jāizmanto ar klasisko vietni:</span><span class="sxs-lookup"><span data-stu-id="9b01f-114">Create a SharePoint group to use with a classic site:</span></span>
+<span data-ttu-id="c7aaf-114">Izveidot SharePoint grupu, kas jāizmanto ar klasisko vietni:</span><span class="sxs-lookup"><span data-stu-id="c7aaf-114">Create a SharePoint group to use with a classic site:</span></span>
   
-1. <span data-ttu-id="9b01f-115">Dodieties uz vietni, pārlūkprogrammā un noklikšķiniet uz uzstādījumi ikonas augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="9b01f-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
+1. <span data-ttu-id="c7aaf-115">Dodieties uz vietni, pārlūkprogrammā un noklikšķiniet uz uzstādījumi ikonas augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="c7aaf-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
     
-2. <span data-ttu-id="9b01f-116">Noklikšķiniet uz **vietnes iestatījumi**un pēc tam sadaļā **lietotāji un atļaujas**noklikšķiniet uz **vietnes atļaujas**.</span><span class="sxs-lookup"><span data-stu-id="9b01f-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
+2. <span data-ttu-id="c7aaf-116">Noklikšķiniet uz **vietnes iestatījumi**un pēc tam sadaļā **lietotāji un atļaujas**noklikšķiniet uz **vietnes atļaujas**.</span><span class="sxs-lookup"><span data-stu-id="c7aaf-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
     
-3. <span data-ttu-id="9b01f-117">Cilnes atļaujas, noklikšķiniet uz **Izveidot grupu**.</span><span class="sxs-lookup"><span data-stu-id="9b01f-117">On the Permissions tab, click **Create Group**.</span></span>
+3. <span data-ttu-id="c7aaf-117">Cilnes atļaujas, noklikšķiniet uz **Izveidot grupu**.</span><span class="sxs-lookup"><span data-stu-id="c7aaf-117">On the Permissions tab, click **Create Group**.</span></span>
     
-[<span data-ttu-id="9b01f-118">Savienojiet klasiskās komandas vietu jauno Office 365 grupu</span><span class="sxs-lookup"><span data-stu-id="9b01f-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
+[<span data-ttu-id="c7aaf-118">Savienojiet klasiskās komandas vietu jauno Office 365 grupu</span><span class="sxs-lookup"><span data-stu-id="c7aaf-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[<span data-ttu-id="9b01f-119">Papildinformācija par darbu ar SharePoint grupām</span><span class="sxs-lookup"><span data-stu-id="9b01f-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
+[<span data-ttu-id="c7aaf-119">Papildinformācija par darbu ar SharePoint grupām</span><span class="sxs-lookup"><span data-stu-id="c7aaf-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

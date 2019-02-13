@@ -7,33 +7,33 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 7a23ece38e78662ce5cb43760de24adf7f7618fd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 23e4b0607247200ca257dc329e964b0468c1c3e9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29479262"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941708"
 ---
-# <a name="how-to-verify-your-account"></a><span data-ttu-id="da5aa-102">Kā pārbaudīt savu kontu</span><span class="sxs-lookup"><span data-stu-id="da5aa-102">How to verify your account</span></span>
+# <a name="how-to-verify-your-account"></a><span data-ttu-id="1b3d7-102">Kā pārbaudīt savu kontu</span><span class="sxs-lookup"><span data-stu-id="1b3d7-102">How to verify your account</span></span>
 
-<span data-ttu-id="da5aa-p101">Divpakāpju pārbaudes palīdz jūs aizsargāt, padarot to grūtāk kādam citam, lai pierakstītos jūsu Microsoft kontu. Tā izmanto divas dažādas formas identitāte: jūsu parole un kontakta metodi (pazīstams arī kā drošības info).</span><span class="sxs-lookup"><span data-stu-id="da5aa-p101">Two-step verification helps protect you by making it more difficult for someone else to sign in to your Microsoft account. It uses two different forms of identity: your password, and a contact method (also known as security info).</span></span> 
+<span data-ttu-id="1b3d7-p101">Divpakāpju pārbaudes palīdz jūs aizsargāt, padarot to grūtāk kādam citam, lai pierakstītos jūsu Microsoft kontu. Tā izmanto divas dažādas formas identitāte: jūsu parole un kontakta metodi (pazīstams arī kā drošības info).</span><span class="sxs-lookup"><span data-stu-id="1b3d7-p101">Two-step verification helps protect you by making it more difficult for someone else to sign in to your Microsoft account. It uses two different forms of identity: your password, and a contact method (also known as security info).</span></span> 
   
-<span data-ttu-id="da5aa-105">Lai ieslēgtu vai izslēgtu divsoļu pārbaudi:</span><span class="sxs-lookup"><span data-stu-id="da5aa-105">To turn two-step verification on or off:</span></span>
+<span data-ttu-id="1b3d7-105">Lai ieslēgtu vai izslēgtu divsoļu pārbaudi:</span><span class="sxs-lookup"><span data-stu-id="1b3d7-105">To turn two-step verification on or off:</span></span>
   
-1. <span data-ttu-id="da5aa-106">Atveriet [lapu drošības pamati](https://go.microsoft.com/fwlink/?linkid=842325) un pierakstīties Microsoft kontu.</span><span class="sxs-lookup"><span data-stu-id="da5aa-106">Go to the [Security basics page](https://go.microsoft.com/fwlink/?linkid=842325) and sign in with your Microsoft account.</span></span> 
+1. <span data-ttu-id="1b3d7-106">Atveriet [lapu drošības pamati](https://go.microsoft.com/fwlink/?linkid=842325) un pierakstīties Microsoft kontu.</span><span class="sxs-lookup"><span data-stu-id="1b3d7-106">Go to the [Security basics page](https://go.microsoft.com/fwlink/?linkid=842325) and sign in with your Microsoft account.</span></span> 
     
-2. <span data-ttu-id="da5aa-107">Atlasiet **papildu drošības opcijas**.</span><span class="sxs-lookup"><span data-stu-id="da5aa-107">Select **more security options**.</span></span> 
+2. <span data-ttu-id="1b3d7-107">Atlasiet **papildu drošības opcijas**.</span><span class="sxs-lookup"><span data-stu-id="1b3d7-107">Select **more security options**.</span></span> 
     
-3. <span data-ttu-id="da5aa-108">**Divpakāpju pārbaudi**, atlasiet **Iestatīt divpakāpju pārbaudi** un izpildiet norādījumus.</span><span class="sxs-lookup"><span data-stu-id="da5aa-108">Under **Two-step verification**, select **Set up two-step verification** and follow the instructions.</span></span> 
+3. <span data-ttu-id="1b3d7-108">**Divpakāpju pārbaudi**, atlasiet **Iestatīt divpakāpju pārbaudi** un izpildiet norādījumus.</span><span class="sxs-lookup"><span data-stu-id="1b3d7-108">Under **Two-step verification**, select **Set up two-step verification** and follow the instructions.</span></span> 
     
-<span data-ttu-id="da5aa-109">Ja ieslēgsit divpakāpju pārbaudi divu veidu identifikācijas vienmēr būs vajadzīgi.</span><span class="sxs-lookup"><span data-stu-id="da5aa-109">If you turn on two-step verification, you will always need two forms of identification.</span></span>
+<span data-ttu-id="1b3d7-109">Ja ieslēgsit divpakāpju pārbaudi divu veidu identifikācijas vienmēr būs vajadzīgi.</span><span class="sxs-lookup"><span data-stu-id="1b3d7-109">If you turn on two-step verification, you will always need two forms of identification.</span></span>
   
-<span data-ttu-id="da5aa-110">Ja jūs zaudējat savu kontakta metodi, paroli tikai neiekļūs jūs atpakaļ jūsu kontā - un to var pieņemt 30 dienas, lai atgūtu piekļuvi.</span><span class="sxs-lookup"><span data-stu-id="da5aa-110">If you lose your contact method, your password alone won't get you back into your account - and it can take you 30 days to regain access.</span></span> 
+<span data-ttu-id="1b3d7-110">Ja jūs zaudējat savu kontakta metodi, paroli tikai neiekļūs jūs atpakaļ jūsu kontā - un to var pieņemt 30 dienas, lai atgūtu piekļuvi.</span><span class="sxs-lookup"><span data-stu-id="1b3d7-110">If you lose your contact method, your password alone won't get you back into your account - and it can take you 30 days to regain access.</span></span> 
   
-<span data-ttu-id="da5aa-111">Uzziniet vairāk par [divpakāpju autentifikācija](https://go.microsoft.com/fwlink/?linkid=872270).</span><span class="sxs-lookup"><span data-stu-id="da5aa-111">Learn more about [two-step authentication](https://go.microsoft.com/fwlink/?linkid=872270).</span></span>
+<span data-ttu-id="1b3d7-111">Uzziniet vairāk par [divpakāpju autentifikācija](https://go.microsoft.com/fwlink/?linkid=872270).</span><span class="sxs-lookup"><span data-stu-id="1b3d7-111">Learn more about [two-step authentication](https://go.microsoft.com/fwlink/?linkid=872270).</span></span>
   
 
