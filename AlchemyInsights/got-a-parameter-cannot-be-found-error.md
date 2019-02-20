@@ -8,17 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 57d9093381217736869c48cf9f83ec6831e916a6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66858a36cbd1cea17d94549c17bbfe618d43f33f
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936907"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088084"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrēšana e-pastu no IMAP e-pasta sistēmas Office 365
 
 E-pasts migrēt no IMAP pasta sistēma, lūdzu sekot šim procesam: [IMAP migrācijas Office 365 administrēšanas centrā](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
   
-Daudziem lieliem uzņēmumiem būs nepieciešams rūpīgi plāno pārvaldīt lietotāju vēlmēm. [Kas jums būtu jāzina par migrēšanu jūsu IMAP pastkastes Office 365](https://support.office.com/article/3fe19996-29bc-4879-aab9-5a622b2f1481) raksts palīdzēs jums vadīt pārmaiņas. 
+Daudziem lieliem uzņēmumiem būs nepieciešams rūpīgi plāno pārvaldīt lietotāju vēlmēm. [Kas jums būtu jāzina par migrēšanu jūsu IMAP pastkastes Office 365](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) raksts palīdzēs jums vadīt pārmaiņas. 
+
+Arī pārbaudiet [pieņem biroja 365 ar FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) lapu assited palīdzību ar migrāciju, ja pretendēt.
   
 
