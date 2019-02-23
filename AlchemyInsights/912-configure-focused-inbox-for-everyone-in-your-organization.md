@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: fa4198a8ca09acd3138eb1543682da2b86a5b8c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88dc9e01a50100f94afe659556ecc93fe8cec5b6
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913282"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209060"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Savukārt ikvienam vērsta Inbox ieslēgšana vai izslēgšana
 
 Norādījumus skatiet sadaļā [Konfigurēt vērsta iesūtne visiem jūsu uzņēmumā](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
   
- **Piezīme**: šī procedūra prasa Exchange Online PowerShell. Vai vēlaties tā vietā izdarīt biroja 365 administrēšanas centrā [Balsot šeit!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+ **Piezīme**: šī procedūra prasa Exchange Online PowerShell. Vai vēlaties tā vietā izdarīt Microsoft 365 administrēšanas centrā [Balsot šeit!](https://go.microsoft.com/fwlink/p/?linkid=862489)
   
 

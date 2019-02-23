@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926287"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210032"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Dzēsiet vietnes, kas pieder Office 365 grupai:
 
 Lietotājiem izveidot jaunu darba grupas vietni no SharePoint mājas (vai jūs radiet jaunu darba grupas vietni no jaunās SharePoint administrēšanas centrs preview), atbilstošo Office 365 grupa tiek izveidota automātiski. Biroja 365 grupu saistītas grupas vietnes tiek veidotas arī, veidojot Teams Microsoft Office 365 grupai vai komandai. Lai izdzēstu SharePoint vietnē Office 365 grupai, ir jādzēš pati Office 365 grupa. 
   
-1. Doties uz [Office 365 admin Center Groups lapā](https://portal.office.com/adminportal/home#/groups).
+1. Dodieties uz [Microsoft 365 admin Center Groups lapā](https://portal.office.com/adminportal/home#/groups).
     
 2. Atzīmējiet izvēles rūtiņu blakus grupai.
     
