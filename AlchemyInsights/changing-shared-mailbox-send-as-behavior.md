@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 467897569b5c1da3dfbc83e00167ed02f0e8eaf8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cb2dd4baf1035b1625b9f598930fc914de3fa266
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919807"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208232"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="72c3a-102">Mainīt koplietošanas pastkastes nosūtīt kā uzvedības</span><span class="sxs-lookup"><span data-stu-id="72c3a-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="3cabd-102">Mainīt koplietošanas pastkastes nosūtīt kā uzvedības</span><span class="sxs-lookup"><span data-stu-id="3cabd-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="72c3a-p101">Pēc noklusējuma ziņojumi, kas nosūtīti no koplietojamās pastkastes nav saglabāti koplietojamās pastkastes mapē Nosūtītie vienumi. Tā vietā, tās tiek saglabātas, lai kāds cits, kurš nosūtīja ziņojumu mapē Nosūtītie vienumi.</span><span class="sxs-lookup"><span data-stu-id="72c3a-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="3cabd-p101">Pēc noklusējuma ziņojumi, kas nosūtīti no koplietojamās pastkastes nav saglabāti koplietojamās pastkastes mapē Nosūtītie vienumi. Tā vietā, tās tiek saglabātas, lai kāds cits, kurš nosūtīja ziņojumu mapē Nosūtītie vienumi.</span><span class="sxs-lookup"><span data-stu-id="3cabd-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="72c3a-105">Ja vēlaties visiem dalībniekiem redzēt nosūtīto e-pastu, biroja 365 administrēšanas centrā, rediģēt koplietojamās pastkastes datus un izvēlieties **nosūtītās ziņas** \> **Labot**.</span><span class="sxs-lookup"><span data-stu-id="72c3a-105">If you want to all members to see the Sent email, in the Office 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="3cabd-105">Ja vēlaties visus dalībniekus, lai redzētu nosūtītās e-pasta, Microsoft 365 administrēšanas centrā, rediģēt koplietojamās pastkastes datus un izvēlieties **nosūtītās ziņas** \> **Labot**.</span><span class="sxs-lookup"><span data-stu-id="3cabd-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="72c3a-106">Lai uzzinātu vairāk, skatiet sadaļā [koplietojamo pastkastes izveide](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="72c3a-106">To read more, see [Create a shared mailbox](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+<span data-ttu-id="3cabd-106">Lai uzzinātu vairāk, skatiet sadaļā [koplietojamo pastkastes izveide](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="3cabd-106">To read more, see [Create a shared mailbox](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
   
 
