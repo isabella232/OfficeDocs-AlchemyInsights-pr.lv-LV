@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938419"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244156"
 ---
-# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="c9750-102">Kā izveidot e-pasta parakstu</span><span class="sxs-lookup"><span data-stu-id="c9750-102">How to create an email signature</span></span>
+# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="25993-102">Kā izveidot e-pasta parakstu</span><span class="sxs-lookup"><span data-stu-id="25993-102">How to create an email signature</span></span>
 
-<span data-ttu-id="c9750-103">Ja jūs izmantojat Outlook.com beta:</span><span class="sxs-lookup"><span data-stu-id="c9750-103">If you're using the Outlook.com beta:</span></span>
+<span data-ttu-id="25993-103">Ja jūs izmantojat Outlook.com beta:</span><span class="sxs-lookup"><span data-stu-id="25993-103">If you're using the Outlook.com beta:</span></span>
   
-- <span data-ttu-id="c9750-104">Lapas augšdaļā atlasiet **iestatījumus**![iestatījumus](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **pilna skata iestatījumus** \> **sastādīšanas un atbildi**.</span><span class="sxs-lookup"><span data-stu-id="c9750-104">At the top of the page, select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **View full settings** \> **Compose and reply**.</span></span> 
+- <span data-ttu-id="25993-104">Lapas augšdaļā atlasiet **iestatījumus** \> **pilna skata iestatījumus** \> **sastādīšanas un atbildi**.</span><span class="sxs-lookup"><span data-stu-id="25993-104">At the top of the page, select **Settings** \> **View full settings** \> **Compose and reply**.</span></span> 
     
-<span data-ttu-id="c9750-105">Ja lietojat klasisko Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="c9750-105">If you're using classic Outlook.com:</span></span>
+<span data-ttu-id="25993-105">Ja lietojat klasisko Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="25993-105">If you're using classic Outlook.com:</span></span>
   
-- <span data-ttu-id="c9750-106">Lapas augšdaļā atlasiet **iestatījumus**![iestatījumus](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opcijas** \> **Mail** \> **izkārtojumu** \> **e-parakstu**.</span><span class="sxs-lookup"><span data-stu-id="c9750-106">At the top of the page, select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Mail** \> **Layout** \> **Email signature**.</span></span> 
+- <span data-ttu-id="25993-106">Lapas augšdaļā atlasiet **iestatījumus** \> **Opcijas** \> **Mail** \> **izkārtojumu** \> **e-parakstu**.</span><span class="sxs-lookup"><span data-stu-id="25993-106">At the top of the page, select **Settings** \> **Options** \> **Mail** \> **Layout** \> **Email signature**.</span></span> 
     
- <span data-ttu-id="c9750-107">**Piezīme:** Jums var būt tikai viens paraksts katram kontam.</span><span class="sxs-lookup"><span data-stu-id="c9750-107">**Note:** You can have only one signature per account.</span></span> 
+ <span data-ttu-id="25993-107">**Piezīme:** Jums var būt tikai viens paraksts katram kontam.</span><span class="sxs-lookup"><span data-stu-id="25993-107">**Note:** You can have only one signature per account.</span></span> 
   
-<span data-ttu-id="c9750-108">Uzziniet vairāk par to, kā [izveidot](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)un pievienot e-pasta parakstā Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="c9750-108">Learn more about how to [create and add an email signature in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).</span></span>
+<span data-ttu-id="25993-108">Uzziniet vairāk par to, kā [izveidot](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)un pievienot e-pasta parakstā Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="25993-108">Learn more about how to [create and add an email signature in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).</span></span>
   
 
