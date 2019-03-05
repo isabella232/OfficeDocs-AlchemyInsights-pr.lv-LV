@@ -9,19 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 6dd7096dbedb4db5064e5c548956de562fad979a
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30243976"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376043"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Lasīšanas apliecinājumi Outlook.com
 
 Nevar pieprasīt lasīšanas apliecinājumu ar Outlook.com, bet jūs varat pieprasīt lasīšanas apliecinājumu Outlook.com ziņojumiem, kas nosūtīti, izmantojot programmas Outlook uz Windows. Lai uzzinātu, kā to izdarīt, skatiet sadaļu [Pievienot un pieprasījuma saņemšanu un piegādes paziņojumu lasīt](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Izvēlēties, cik Outlook.com reaģē uz lasīšanas apliecinājumu pieprasījumiem, dodieties uz sadaļu **Iestatījumi** \> **Opcijas** \> **Mail** \> **Automātiska apstrāde** \> **lasīšanas apliecinājumi**. 
-  
-Outlook.com beta, atlasiet **Iestatījumi** un meklēt iespējas tās **lasīšanas apliecinājumi**. 
-  
-
+Izvēlēties, cik Outlook.com reaģē uz lasīšanas apliecinājumu pieprasījumiem, dodieties uz [ziņojumu apstrādes iestatījumus](https://go.microsoft.com/fwlink/?linkid=2080838) (**Iestatījumi** > **Outlook iestatījumu skatīšana** > **ziņojumu apstrāde**).

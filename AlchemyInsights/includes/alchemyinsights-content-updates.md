@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>January 21, 2019 nedēļa
-
-
-| Publicēts |Tēmas nosaukums | Izmaiņas |
-|------|------------|--------|
-| 1/22/2019 | [1047 antiSpam 550 5.7.708 pakalpojums nav pieejams. Liegta piekļuve, satiksmes nepieņem no šīs IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificēta |
-| 1/22/2019 | [1049 antiSpam 4.5.3 pārāk daudz saņēmēju (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modificēta |
-| 1/22/2019 | [1050 antispam 4.7.500 serveris ir aizņemts. Lūdzu, mēģiniet vēlreiz vēlāk no [xxx.xxx]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificēta |
-| 1/22/2019 | [1051 antispam 4.7.500 piekļuve liegta. Lūdzu, mēģiniet vēlreiz vēlāk](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | modificēta |
-| 1/22/2019 | [Pārraides e-pastu, izmantojot Office 365](/AlchemyInsights/relay-email-through-office-365) | modificēta |
-| 1/24/2019 | [Vadības grupas izveidi](/AlchemyInsights/control-creation-of-groups) | modificēta |
-| 1/24/2019 | [Programmu Outlook ar Exchange 2007 jautājumiem](/AlchemyInsights/outlook-issues-with-exchange-2007) | pievienotās |
-| 1/24/2019 | [Atjaunot Office 365 grupu, izmantojot Exchange administratoru centrs](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | pārdēvēt |
-| 1/24/2019 | [Novērst problēmas, kas saistītas ar Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | pārdēvēt |
-
-
 ## <a name="week-of-january-28-2019"></a>Nedēļa 28 decembris 2019
 
 
@@ -734,3 +718,57 @@
 | 2/22/2019 | [Lietotāju atļaujas](/AlchemyInsights/user-permissions) | modificēta |
 | 2/22/2019 | [Kad tiek ģenerēts rēķinu?](/AlchemyInsights/when-is-the-billing-statement-generated) | modificēta |
 | 2/22/2019 | [Kā pārbaudīt savu domēnu, kam ir Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modificēta |
+
+
+## <a name="week-of-february-25-2019"></a>Nedēļa 25 februāris 2019
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 2/25/2019 | [1800014 get app kas atbalsta Outlook mobilo app](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | modificēta |
+| 2/25/2019 | [1800014, kas izveidota e-pastu programmā Outlook mobilo app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | modificēta |
+| 2/25/2019 | [8000001 izslēgt koncentrēta Iesūtne](/AlchemyInsights/8000001-turn-off-focused-inbox) | modificēta |
+| 2/25/2019 | [8000009 izveidot mapi Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000012 Kontakspersonas Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000013 Outlook.com mainīt fontu](/AlchemyInsights/8000013-change-font-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000014 kā nomainīt valodu Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000015 bloķēt vai atbloķēt sūtītāju](/AlchemyInsights/8000015-block-or-unblock-senders) | modificēta |
+| 2/25/2019 | [8000015 saņem e-pastu no bloķēto sūtītāju Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000029 nodarbojas ar pikšķerēšanas Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000029, kā cīnīties ar surogātpastu Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000029 nodarbojas ar surogātpasta vai pikšķerēšanas Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000033 kā atbildēt vai pārsūtīt ziņojumus Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificēta |
+| 2/25/2019 | [8000034 lasīšanas apliecinājumi Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000036 mainīt savu e-pasta vārdu Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000046 drukas e-pastu un kalendāru Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000047 kā izveidot e-parakstu Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000052 pievienot failus Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | modificēta |
+| 2/25/2019 | [8000059 kā nomainīt tēma darbība (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | modificēta |
+| 2/25/2019 | [Ieteicamās darbības, kas jāveic, ja konts ir apdraudēts](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modificēta |
+| 2/26/2019 | [Atjaunot dzēstos Office 365 grupa](/AlchemyInsights/restore-a-deleted-office-365-group) | modificēta |
+| 2/26/2019 | [9000215 Outlook.com abonementi](/AlchemyInsights/9000215-outlook-com-subscriptions) | pievienotās |
+| 2/27/2019 | [9000199 Outlook.com PST faili](/AlchemyInsights/9000199-outlook-com-read-pst-files) | pievienotās |
+| 2/27/2019 | [9000202 Outlook.com opcijas](/AlchemyInsights/9000202-outlook-com-options) | pievienotās |
+| 2/27/2019 | [9000203 Outlook.com filtri](/AlchemyInsights/9000203-outlook-com-filters) | pievienotās |
+| 2/28/2019 | [8000036 izmainiet profilu pic/nosaukumu Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | pievienotās |
+| 2/28/2019 | [8000049 Skype ikona trūkst Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | pievienotās |
+| 2/28/2019 | [8000088, izņemot e-pastu Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | pievienotās |
+| 2/28/2019 | [9000071 nevar ierakstīt @ simbols uz Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | pievienotās |
+| 2/28/2019 | [9000193 atsaukt pārvietot vai dzēst Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | pievienotās |
+| 2/28/2019 | [9000198 Outlook.com kalendārs (Beta)](/AlchemyInsights/9000198-outlook-com-calendar-beta) | pievienotās |
+| 1/3/2019 | [8000035 pieprasīt no Outlook.com beta roll atpakaļ uz klasisko Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | pievienotās |
+| 1/3/2019 | [8000035, taisīt jaunu Outlook.com izskatīties kā veco](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | pievienotās |
+| 1/3/2019 | [8000043 POP, IMAP un SMTP iestatījumus Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | pievienotās |
+| 1/3/2019 | [8000090 Outlook.com atlasīt visu](/AlchemyInsights/8000090-outlook-com-select-all) | pievienotās |
+| 1/3/2019 | [8000091 Outlook.com reaģēt pop](/AlchemyInsights/8000091-outlook-com-react-pop-up) | pievienotās |
+| 1/3/2019 | [8000092 Outlook.com skatīt ziņu avotu](/AlchemyInsights/8000092-outlook-com-view-message-source) | pievienotās |
+| 1/3/2019 | [8000093 Outlook.com savienots konta atļaujas](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | pievienotās |
+| 1/3/2019 | [1800009Outlook Mac-app atbalstam](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | modificēta |
+| 1/3/2019 | [8000057 Outlook.com drošas saites](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | modificēta |
+| 1/3/2019 | [9000232 Outlook.com adrešu grāmata](/AlchemyInsights/9000232-outlook-com-address-book) | pievienotās |
+| 1/3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | pievienotās |
+| 1/3/2019 | [9000234 Outlook.com iekšēja servera kļūda](/AlchemyInsights/9000234-outlook-com-internal-server-error) | pievienotās |
+| 1/3/2019 | [9000236 Outlook.com kontu pievienotu](/AlchemyInsights/9000236-outlook-com-add-account) | pievienotās |
+| 1/3/2019 | [9000238 Outlook.com pievienot aizstājvārdu](/AlchemyInsights/9000238-outlook-com-add-alias) | pievienotās |
+| 1/3/2019 | [9000239 Outlook.com pārsūtīšana](/AlchemyInsights/9000239-outlook-com-forwarding) | pievienotās |
+| 1/3/2019 | [9000240 Outlook.com atbildes](/AlchemyInsights/9000240-outlook-com-replies) | pievienotās |
