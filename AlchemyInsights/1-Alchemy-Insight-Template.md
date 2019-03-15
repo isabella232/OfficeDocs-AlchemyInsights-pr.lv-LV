@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939305"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634511"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vajadzīga alķīmija Header H1, H2 ir nestrādā.
 Labāko praksi un pamatnostādnēm par alķīmiju autorēšanas:
 
 1. **Neligzdo Alchemy atziņas mapēs**- tas saplīst url struktūru. Mēs meklēja šo noteikšanu.
 1. Failus mapē **AlchemyInsights** vajadzētu būt kārtulas ID un kārtulas nosaukumā no [alķīmijas partneru portāla](https://alchemyportal.azurewebsites.net) nosaukums.
-    1. ex. ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-How-to-Enable-Litigation-Hold***
 1. Kā veidnei metadatus izmantotu šī faila sākumā. Nekas cits nav vajadzīgs.
 1. [Alchemy partneru portāla](https://alchemyportal.azurewebsites.net)virzītos uz leju līdz sadaļai **klientu ieskatu nosaukums:** un izmantot šo kā sākuma punkts H1 titra par ieskatu. 
     > [!NOTE]
