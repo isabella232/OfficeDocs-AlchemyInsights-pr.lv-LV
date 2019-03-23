@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917863"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754441"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>OneDrive failus koplietot ar cilvēkiem ārpus jūsu organizācijas
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917863"
   - **Noteiktiem lietotājiem** piekļūt tikai, lai cilvēki norādāt, kaut arī citi cilvēki, iespējams, jau ir piekļuve. Ja cilvēki nosūtīt koplietošanas uzaicinājumu, tikai cilvēki, kuriem jau ir piekļuve krājuma varēs izmantot saiti. 
     
     > [!NOTE]
-    > Ja viens no šiem variantiem nav pieejama vai citu saites tips parādās pēc noklusējuma, uzņēmuma iestatījumus var mainīt, dodoties uz OneDrive administrēšanas centrs un kreisajā rūtī noklikšķiniet uz **koplietošana** . [Uzziniet vairāk](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ja viens no šiem variantiem nav pieejama vai citu saites tips parādās pēc noklusējuma, uzņēmuma iestatījumus var mainīt, dodoties uz OneDrive administrēšanas centrs un kreisajā rūtī noklikšķiniet uz **koplietošana** . [apgūt vairāk](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Atļaut rediģēšanu** ir ieslēgta pēc noklusējuma. Ja vēlaties, lai cilvēki varētu skatīt tikai failus, noņemiet atzīmi izvēles rūtiņā. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917863"
     
 6. Kad esat gatavs nosūtīt saiti, noklikšķiniet uz **nosūtīt**. 
     
-[Papildinformācija](https://go.microsoft.com/fwlink/?linkid=871861)
+[apgūt vairāk](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
