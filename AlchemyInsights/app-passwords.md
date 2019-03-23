@@ -1,39 +1,37 @@
 ---
-title: App. paroles
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app paroles
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938239"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762539"
 ---
 # <a name="app-passwords"></a>App. paroles
 
-App parole ir kods, kas dod app vai ierīces atļauju, lai piekļūtu Office 365 kontam. Ja jūsu admin ir kļuvusi par vairāku faktoru autentifikaciju organizācijā un progr, kas savienojumu ar jūsu biroja 365 kontu lietojat, jums vajadzēs izveidot app paroli lai app var izveidot savienojumu ar biroja 365. Piemēram, ja izmantojat Outlook 2016 vai agrāk ar Office 365, jums vajadzēs izveidot app paroli.
+App parole ir kods, kas dod app vai ierīces atļauju piekļūt Office 365 darba vai mācību kontu. Ja jūsu kontam ir nepieciešama vairāku faktoru autentifikaciju (MFA) un app ir izveidots savienojums ar jūsu kontu, jums vajadzēs radīt app paroli, lai app var izveidot savienojumu ar biroja 365. Piemēram, Outlook 2016 un iepriekšējām versijām Outlook pieprasa app paroli.
   
-1. Pārbaudiet, vai jūsu Office 365 admin ir kļuvusi par vairāku faktoru autentifikaciju savam kontam. Ja tās nav, kad jūs mēģināt darīt šos soļus jūs neredzēsiet iespējas programmā Office 365.
+ **Piezīme**: pirms jūs mēģiniet veikt šādas darbības, pārbaudiet, vai ar Office 365 admin MFA ir nepieciešama jūsu kontā. Ja tā nav, aprakstītās darbības opcijas nebūs pieejamas.
+  
+1. Pierakstieties pakalpojumā Office 365 ar jūsu darba vai skolas kontu un paroli.
     
-2. Pierakstieties pakalpojumā Office 365 ar jūsu darba vai skolas kontu ar paroli, tāpat kā jūs parasti darīt. Kad esat izvēlējies, **pierakstieties**, jūs redzēsiet lapu ar savu lietotāja vārdu un dažas iespējas 
+2. Izvēlieties **iestatīt tūlīt**.
     
-3. Izvēlieties **iestatīt tūlīt**. 
+3. Atlasiet autentifikācijas metodi un izpildiet norādījumus.
     
-4. Atlasiet autentifikācijas metodi, un pēc tam sekojiet norādījumiem lapā.
+4. Kad esat pārbaudījis, vai jūsu kontaktpersonas alternatīvo metodi, izvēlēties **nākamo**.
     
-5. Kad esat pārbaudījis, vai jūsu kontaktpersonas alternatīvo metodi, izvēlēties **nākamo**. 
-    
-6. Jūs saņemsiet app paroli, kuru var izmantot ar Outlook, Apple Mail, utt. Izvēlēties kopēt paroli jūsu starpliktuvē Kopēt ikonu. Jums nav nepieciešams iegaumēt šo paroli. 
-    
-7. Kad jūs pievienot Office 365 e-pasta kontu Outlook (vai citu app) un garām šo app paroli lodziņā Parole, tā vietā, lai rakstītu savu konta paroli, parole netiek prasīta. 
+5. Jūs saņemsiet app paroli, kuru var izmantot ar Outlook, Apple Mail un citas progr, kas to prasa. Izvēlieties **Kopēt** kopēt paroli tā ielīmēšanai citur (jums nav nepieciešams iegaumēt to). 
     
 
