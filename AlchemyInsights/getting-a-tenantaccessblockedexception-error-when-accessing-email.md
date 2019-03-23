@@ -1,28 +1,33 @@
 ---
-title: Iegūt TenantAccessBlockedException kļūda, piekļūstot e-pastu?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 kļūst TenantAccessBlockedException kļūda, piekļūstot e-pastu?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912031"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754261"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="9247a-102">Iegūt TenantAccessBlockedException kļūda, piekļūstot e-pastu?</span><span class="sxs-lookup"><span data-stu-id="9247a-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="55b1f-102">Iegūt TenantAccessBlockedException kļūda, piekļūstot e-pastu?</span><span class="sxs-lookup"><span data-stu-id="55b1f-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="9247a-p101">Tur ir pāris dažādu iemeslu dēļ, kāpēc jūs varat saņemt kļūda sakot ir bloķēta piekļuve jūsu īrnieks. Lai atrisinātu šo problēmu, varat mēģināt šādi:</span><span class="sxs-lookup"><span data-stu-id="9247a-p101">There are a few different reasons why you may get an error saying that access to your tenant is blocked. To fix the problem, you can try the following steps:</span></span>
+<span data-ttu-id="55b1f-103">Tur ir pāris dažādu iemeslu dēļ, kāpēc jūs varētu saņemt šo kļūdu.</span><span class="sxs-lookup"><span data-stu-id="55b1f-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="55b1f-104">Piemēram:</span><span class="sxs-lookup"><span data-stu-id="55b1f-104">For example:</span></span>
   
-- <span data-ttu-id="9247a-105">Pārbaudiet jūsu abonements ir derīga [abonēšanas](https://admin.microsoft.com/adminportal/home#/subscriptions) lapā.</span><span class="sxs-lookup"><span data-stu-id="9247a-105">Check that your subscription is valid on the [Subscriptions](https://admin.microsoft.com/adminportal/home#/subscriptions) page.</span></span> 
+- <span data-ttu-id="55b1f-105">Pārbaudiet, vai jūsu abonements ir derīga **rēķina** \> **abonēšanas** lapā Microsoft 365 administrēšanas centrā ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="55b1f-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="9247a-106">Meklēt kādu pagātnes nodevas [norēķinu](https://admin.microsoft.com/adminportal/home#/billoverview) lapa jūsu kontā.</span><span class="sxs-lookup"><span data-stu-id="9247a-106">Check the [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) page for any past dues on your account.</span></span> 
+- <span data-ttu-id="55b1f-106">Pārbaudīt jebkuru nokavēto maksājumu paziņojumiem, **norēķinu** \> **rēķinus** lapā Microsoft 365 administrēšanas centrā ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="55b1f-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="9247a-p102">Ja jūsu konts tagad ir kārtībā, bet nesen ir mainīta, tas var aizņemt kādu laiku, lai tās tiktu izplatīts uz visiem serveriem. Lūdzu, mēģiniet vēlreiz pēc dažām minūtēm, un, ja problēma netiek novērsta, sazinieties ar mums.</span><span class="sxs-lookup"><span data-stu-id="9247a-p102">If your account is in order now, but has been changed recently, it might take some time for the changes to propagate to all servers. Give it another try in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="55b1f-107">Ja norēķinu un abonementiem savam kontam ir nesen atjaunināta, var paiet laiks, lai ieviestu izmaiņas.</span><span class="sxs-lookup"><span data-stu-id="55b1f-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="55b1f-108">Mēģiniet vēlreiz pēc dažām minūtēm, un, ja problēma netiek novērsta, sazinieties ar mums.</span><span class="sxs-lookup"><span data-stu-id="55b1f-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 
