@@ -1,5 +1,5 @@
 ---
-title: Dzēst vietņu kolekciju
+title: Izdzēst vietni
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757537"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747569"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>SharePoint vietņu kolekcijas dzēšanai
+# <a name="delete-a-sharepoint-site"></a>SharePoint vietnes dzēšana
 
-1. Klasisks SharePoint administrēšanas centrā, lapā vietņu kolekcijas, atzīmējiet izvēles rūtiņu blakus vietņu kolekcijā.
+1. Jaunu SharePoint administrēšanas centrā, vietnes lapā atzīmējiet izvēles rūtiņu blakus vietnes, kuru vēlaties dzēst.
     
-2. Par vietņu kolekcijas cilni, izvēlieties **Dzēst**.
+2. Lentes, rīkjoslā noklikšķiniet uz **Dzēst**.
     
 

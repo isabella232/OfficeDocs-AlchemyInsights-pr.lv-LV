@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941263"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747389"
 ---
 # <a name="error-messages-when-sharing"></a>Kļūdu ziņojumi, koplietojot
 
 Ja tiek parādīts kļūdas ziņojums, mēģinot koplietot ar ārējo lietotāju, visticamāk ārējā koplietošana nav iespējota vai apmaiņa ir iestatīti neatļaut mēģina dalīties lietotāja līmenis.
   
-Kas * klasisko * SharePoint administrēšanas centru, noklikšķiniet uz **koplietošanas** kreisajā rūtī. Izvēlieties līmeņa koplietošanu, jūs vēlaties atļaut. Pārliecinieties, vai ārējā koplietošana ir ieslēgta, vietā. 
+Jaunu SharePoint administrēšanas centrā noklikšķiniet uz **koplietošanas** kreisajā rūtī. Izvēlieties līmeņa koplietošanu, jūs vēlaties atļaut. Pārliecinieties, vai ārējā koplietošana ir ieslēgta, vietā. 
   
 Ja lietotājs mēģina pieteikties saņem kļūdas paziņojumu, lūdzu, mēģiniet veikt šādas darbības:
   

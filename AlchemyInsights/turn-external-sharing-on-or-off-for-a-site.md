@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: af9b6c50430814a356a08e661a0bc4e237f4616e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 9dfd0a4c72a279970bc883aee1e999e2bf63cc61
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758473"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747281"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Savukārt ārējā SharePoint vietnes koplietošanas ieslēgšana vai izslēgšana
 
-Klasisks vietņu kolekcijas:
+Site:
   
-1. Klasisks SharePoint administrēšanas centru, kreisajā rūtī noklikšķiniet uz **vietņu kolekcijas**.
+1. Jaunu SharePoint administrēšanas centru, kreisajā rūtī noklikšķiniet uz **vietnes**.
     
 2. Atlasiet vietu vai vietām, un uz lentes noklikšķiniet uz **koplietošana**.
     
-Pēc noklusējuma jaunās vietnes, kas lietotājiem izveidot gan (komandu vietnes, kas pieder pie grupām, Office 365) un saziņas vietnes ir, pašā koplietošanas iestatīšana kā uzņēmuma mēroga iestatījumu, ja vien uzņēmuma līmeņa iestatījums ļauj koplietot failus, izmantojot saites, kas nav nepieciešama pierakstīšanās. Šajā gadījumā vietņu ir atļauts koplietot ar jauniem un esošajiem ārējiem lietotājiem, kas pierakstīties. Lai mainītu iestatījumus konkrētām vietnēm, izmantojiet jauno SharePoint administrēšanas centru (priekšskatījuma).
+Pēc noklusējuma jaunās vietnes, kas lietotājiem izveidot gan (komandu vietnes, kas pieder pie grupām, Office 365) un saziņas vietnes ir, pašā koplietošanas iestatīšana kā uzņēmuma mēroga iestatījumu, ja vien uzņēmuma līmeņa iestatījums ļauj koplietot failus, izmantojot saites, kas nav nepieciešama pierakstīšanās. Šajā gadījumā vietņu ir atļauts koplietot ar jauniem un esošajiem ārējiem lietotājiem, kas pierakstīties. Lai mainītu iestatījumus konkrētām vietnēm, izmantojiet jauno SharePoint administrēšanas centru.
   
 > [!NOTE]
 > Ārējās koplietošanas iestatījumu jebkurā vietā var būt stingrāki nekā uzņēmuma mēroga iestatījumu, taču ne vairāk pieļaujamām nekā uzņēmuma līmeņa iestatījums. 
