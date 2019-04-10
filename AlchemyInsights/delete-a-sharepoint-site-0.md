@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754657"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748001"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="cfba1-102">Dzēsiet vietnes, kas pieder Office 365 grupai:</span><span class="sxs-lookup"><span data-stu-id="cfba1-102">Delete sites that belong to an Office 365 group:</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="69b25-102">Dzēsiet vietnes, kas pieder Office 365 grupai:</span><span class="sxs-lookup"><span data-stu-id="69b25-102">Delete sites that belong to an Office 365 group:</span></span>
 
-<span data-ttu-id="cfba1-103">Lietotājiem izveidot jaunu darba grupas vietni no SharePoint mājas (vai jūs radiet jaunu darba grupas vietni no jaunās SharePoint administrēšanas centrs preview), atbilstošo Office 365 grupa tiek izveidota automātiski.</span><span class="sxs-lookup"><span data-stu-id="cfba1-103">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="cfba1-104">Biroja 365 grupu saistītas grupas vietnes tiek veidotas arī, veidojot Teams Microsoft Office 365 grupai vai komandai.</span><span class="sxs-lookup"><span data-stu-id="cfba1-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="cfba1-105">Lai izdzēstu SharePoint vietnē Office 365 grupai, ir jādzēš pati Office 365 grupa.</span><span class="sxs-lookup"><span data-stu-id="cfba1-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="69b25-103">Lietotājiem izveidot jaunu darba grupas vietni no SharePoint mājas vai jūs radiet jaunu darba grupas vietni no jaunās SharePoint administrēšanas centrā, atbilstošo Office 365 grupa tiek izveidota automātiski.</span><span class="sxs-lookup"><span data-stu-id="69b25-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="69b25-104">Biroja 365 grupu saistītas grupas vietnes tiek veidotas arī, veidojot Teams Microsoft Office 365 grupai vai komandai.</span><span class="sxs-lookup"><span data-stu-id="69b25-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="69b25-105">Lai izdzēstu SharePoint vietnē Office 365 grupai, ir jādzēš pati Office 365 grupa.</span><span class="sxs-lookup"><span data-stu-id="69b25-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="cfba1-106">Dodieties uz [Microsoft 365 admin Center Groups lapā](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="cfba1-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="69b25-106">Dodieties uz [Microsoft 365 admin Center Groups lapā](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="69b25-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="cfba1-107">Atzīmējiet izvēles rūtiņu blakus grupai.</span><span class="sxs-lookup"><span data-stu-id="cfba1-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="69b25-107">Atzīmējiet izvēles rūtiņu blakus grupai.</span><span class="sxs-lookup"><span data-stu-id="69b25-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="cfba1-108">Izvēlieties **Dzēst**.</span><span class="sxs-lookup"><span data-stu-id="cfba1-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="69b25-108">Izvēlieties **Dzēst**.</span><span class="sxs-lookup"><span data-stu-id="69b25-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="cfba1-109">Piezīme: Dzēšot grupu, var būt kavēšanās pirms izņemšanas no SharePoint vietnes.</span><span class="sxs-lookup"><span data-stu-id="cfba1-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="69b25-109">Piezīme: Dzēšot grupu, var būt kavēšanās pirms izņemšanas no SharePoint vietnes.</span><span class="sxs-lookup"><span data-stu-id="69b25-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="cfba1-110">**Dzēstu saziņas vietnes vai klasisko vietām:**</span><span class="sxs-lookup"><span data-stu-id="cfba1-110">**Delete communication sites or classic sites:**</span></span>
+**<span data-ttu-id="69b25-110">Dzēstu saziņas vietnes vai klasisko vietām:</span><span class="sxs-lookup"><span data-stu-id="69b25-110">Delete communication sites or classic sites:</span></span>**
 
-1. <span data-ttu-id="cfba1-111">Dodieties uz vietni.</span><span class="sxs-lookup"><span data-stu-id="cfba1-111">Go to the site.</span></span>
+1. <span data-ttu-id="69b25-111">Dodieties uz vietni.</span><span class="sxs-lookup"><span data-stu-id="69b25-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="cfba1-112">Noklikšķiniet uz \* iestatījumi \* \* ikonas augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="cfba1-112">Click the \*\* Settings \*\* icon in the upper right.</span></span> 
+2. <span data-ttu-id="69b25-112">Noklikšķiniet uz \* iestatījumi \* \* ikonas augšējā labajā pusē.</span><span class="sxs-lookup"><span data-stu-id="69b25-112">Click the \*\* Settings \*\* icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="cfba1-113">Noklikšķiniet uz **vietnes iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="cfba1-113">Click **Site settings**.</span></span> <span data-ttu-id="cfba1-114">Sadaļā **Vietnes informāciju** vai **Vietnes darbības**noklikšķiniet uz **Dzēst šo vietu**un pēc tam noklikšķiniet uz **Dzēst**.</span><span class="sxs-lookup"><span data-stu-id="cfba1-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="69b25-113">Noklikšķiniet uz **vietnes iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="69b25-113">Click **Site settings**.</span></span> <span data-ttu-id="69b25-114">Sadaļā **Vietnes informāciju** vai **Vietnes darbības**noklikšķiniet uz **Dzēst šo vietu**un pēc tam noklikšķiniet uz **Dzēst**.</span><span class="sxs-lookup"><span data-stu-id="69b25-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="cfba1-115">**SharePoint vietņu kolekcijas dzēšanai:**</span><span class="sxs-lookup"><span data-stu-id="cfba1-115">**Delete a SharePoint site collection:**</span></span>
+**<span data-ttu-id="69b25-115">SharePoint vietņu kolekcijas dzēšanai:</span><span class="sxs-lookup"><span data-stu-id="69b25-115">Delete a SharePoint site collection:</span></span>**
 
-<span data-ttu-id="cfba1-116">Klasisks vietņu kolekcijas dzēšanai:</span><span class="sxs-lookup"><span data-stu-id="cfba1-116">To delete a classic site collection:</span></span>
+<span data-ttu-id="69b25-116">Lai dzēstu vietni:</span><span class="sxs-lookup"><span data-stu-id="69b25-116">To delete a site:</span></span>
   
-1. <span data-ttu-id="cfba1-117">Klasisks SharePoint administrēšanas centrā, lapā vietņu kolekcijas atzīmējiet **izvēles rūtiņu** blakus vietņu kolekcijas.</span><span class="sxs-lookup"><span data-stu-id="cfba1-117">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
+1. <span data-ttu-id="69b25-117">Jaunu SharePoint administrēšanas centrā, lapā vietnes noklikšķiniet uz **izvēles rūtiņas** blakus vietnes, kuru vēlaties dzēst.</span><span class="sxs-lookup"><span data-stu-id="69b25-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
     
-2. <span data-ttu-id="cfba1-118">Vietņu kolekcijas zīmnē atlasiet **izdzēst.**</span><span class="sxs-lookup"><span data-stu-id="cfba1-118">On the Site Collections tab, select **Delete.**</span></span>
+2. <span data-ttu-id="69b25-118">Noklikšķiniet uz lentes **izdzēst.**</span><span class="sxs-lookup"><span data-stu-id="69b25-118">On the ribbon toolbar, click **Delete.**</span></span>
     
-<span data-ttu-id="cfba1-119">**Izdzēst vietni nejauši?**</span><span class="sxs-lookup"><span data-stu-id="cfba1-119">**Deleted a site by accident?**</span></span>
+**<span data-ttu-id="69b25-119">Izdzēst vietni nejauši?</span><span class="sxs-lookup"><span data-stu-id="69b25-119">Deleted a site by accident?</span></span>**
 
-<span data-ttu-id="cfba1-120">Skatīt, [atjaunot dzēstos vietņu kolekcijā](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="cfba1-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="69b25-120">Skatīt, [atjaunot dzēstos vietņu kolekcijā](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="69b25-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 
