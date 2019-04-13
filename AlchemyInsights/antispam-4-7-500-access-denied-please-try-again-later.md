@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1051
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: 1ced5ea839e65f8a46895848b9d74b56a1852dd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 79984ff02fcc6fe29e983793dbb5593874f0bd5c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778503"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858031"
 ---
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 piekļuve liegta. Lūdzu, mēģiniet vēlreiz vēlāk
 
 Šī kļūda rodas, ja e-pasta satiksmi no avota IP adresi apjoms pārsniedz limitu, pamatojoties uz avota IP adresi reputācijai (vai reputācijas trūkums).
-  
-No avota IP adresi e-pasta bloķēšanas termiņš beigsies stundas laikā. Ja avota IP adresi lokālās e-pasta serveri, kas pieder jums, pārliecinieties, vai pasta plūsmas savienotāja konfigurāciju. Ja darbība turpinās ilgāk par stundu, sazinieties ar atbalsta darbiniekiem, lai lūgtu izņēmumu avota IP adresi.
-  
 
+No avota IP adresi e-pasta bloķēšanas termiņš beigsies stundas laikā. Ja avota IP adresi lokālās e-pasta serveri, kas pieder jums, pārliecinieties, vai pasta plūsmas savienotāja konfigurāciju. Ja darbība turpinās ilgāk par stundu, sazinieties ar atbalsta darbiniekiem, lai lūgtu izņēmumu avota IP adresi.
