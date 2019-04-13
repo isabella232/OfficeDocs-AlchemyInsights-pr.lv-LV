@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 760
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: 31ef2fe669612371903d9e7bc8e0c26e6f5569b3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 23a8e81367a8f94b5f2d72bde917264f53b9d3be
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785538"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857815"
 ---
-# <a name="connect-to-exchange-online-powershell"></a><span data-ttu-id="2f2fa-102">Izveidot savienojumu ar tiešsaistes PowerShell apmainīties ar</span><span class="sxs-lookup"><span data-stu-id="2f2fa-102">Connect to Exchange Online PowerShell</span></span>
+# <a name="connect-to-exchange-online-powershell"></a><span data-ttu-id="a8d17-102">Izveidot savienojumu ar tiešsaistes PowerShell apmainīties ar</span><span class="sxs-lookup"><span data-stu-id="a8d17-102">Connect to Exchange Online PowerShell</span></span>
 
-<span data-ttu-id="2f2fa-103">Lai izmantotu Exchange Online PowerShell, skatiet [Exchange Online PowerShell savienojuma izveidei](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="2f2fa-103">To use PowerShell in Exchange Online, see [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
-  
-
+<span data-ttu-id="a8d17-103">Lai izmantotu Exchange Online PowerShell, skatiet [Exchange Online PowerShell savienojuma izveidei](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="a8d17-103">To use PowerShell in Exchange Online, see [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
