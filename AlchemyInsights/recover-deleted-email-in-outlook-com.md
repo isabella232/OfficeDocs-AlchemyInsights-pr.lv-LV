@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773743"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980637"
 ---
 # <a name="recover-deleted-email"></a>Atkopt izdzēstu e-pastu
 
 1. Kreisajā rūtī atlasiet **Izdzēsto vienumu**. 
     
-2. Atlasiet vienumu, kuru vēlaties atgūt un izvēlieties **atgūt**. 
+2. Atlasiet vienumu, kuru vēlaties atgūt un atlasiet **atjaunot**. 
   
  **Piezīme**: var atlasīt tikai viss, ja visi ziņojumi ir redzami. Tas nepieciešams, lai novērstu nejaušu darbību ziņojumiem, jūs nevarat redzēt. **CTRL + noklikšķiniet** izvēlas atsevišķas ziņas, **SHIFT + noklikšķiniet uz** atlasa visu starp diviem klikšķiem. 
     
-3. Ja ziņa nav mapē Izdzēstie vienumi, atlasiet **izdzēsto vienumu atkopšana** loga augšpusē. 
+3. Ja ziņa nav mapē Izdzēstie vienumi, atzīmējiet **atkopt vienumus, kas izdzēsti no šīs mapes** loga augšdaļā. 
     
  **Svarīgu informāciju par dzēsto vienumu:**
   
