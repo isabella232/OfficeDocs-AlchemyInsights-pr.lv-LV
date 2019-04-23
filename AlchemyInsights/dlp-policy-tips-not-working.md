@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900799"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869602"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP Padoms politikas jautājumiem
 
 Lietojot **DLP politikām**, lietotāji var paziņot **politikas**padomi politikas pārkāpums. Administratori var konfigurēt politikas padomi, lai parādītu vienlaikus testēšana to DLP politiku vai politika ir pilna izpildes režīmā. 
   
-Konfigurēt politikas padomi, DLP politikas, drošības un saskaņotības centrā pilnu izpildes režīmā, rīkojieties šādi:
+Lai konfigurētu politikas padomi, DLP politiku drošības un saskaņotības centrā pilnu izpildes režīmā, rīkojieties šādi:
   
 - Nodrošināt politikas padomi ir **iespējota** DLP kārtulu, izmantojot darbības [šeit](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     

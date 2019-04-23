@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Nedēļa 04 marts 2019
-
-
-| Publicēts |Tēmas nosaukums | Izmaiņas |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com atgūt svītrots e-pasta | pievienotās |
-| 3/4/2019 | [8000034 lasīšanas apliecinājumi Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modificēta |
-| 3/4/2019 | [8000047 kā izveidot e-parakstu Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | modificēta |
-| 3/4/2019 | [8000086 Outlook.com ievietot attēlu](/AlchemyInsights/80000860-outlook-com-insert-image) | pievienotās |
-| 3/4/2019 | [8000087 Outlook.com īsinājumtaustiņi](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | pievienotās |
-| 3/4/2019 | [8000088, izņemot e-pastu Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | modificēta |
-| 3/4/2019 | [8000089 Outlook.com drošo sūtītāju](/AlchemyInsights/8000089-outlook-com-safe-senders) | pievienotās |
-| 3/4/2019 | 8000011 Outlook.com atgūt svītrots e-pasta | izņemta |
-| 3/4/2019 | 1575 PowerApps un plānot paplašinājums Microsoft Flow | pievienotās |
-| 3/4/2019 | [Mainiet Office 365 grupas domēns](/AlchemyInsights/change-domain-for-group) | pārdēvēt |
-| 3/4/2019 | [1575 PowerApps un plānot paplašinājums Microsoft Flow](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | pārdēvēt |
-| 3/4/2019 | [Multifactor autentifikācijas iespējošana](/AlchemyInsights/enable-multifactor-authentication) | modificēta |
-| 3/4/2019 | [8000054 Outlook.com glabāšanas limits pārsniegts](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | pievienotās |
-| 3/4/2019 | [423. Org drošība - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | modificēta |
-| 3/4/2019 | [8000029 nodarbojas ar surogātpasta vai pikšķerēšanas Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificēta |
-| 3/4/2019 | [Noņemiet domēna](/AlchemyInsights/remove-domain) | modificēta |
-| 3/4/2019 | [Lietotāju pievienošana Office 365](/AlchemyInsights/add-users-to-office-365) | modificēta |
-| 3/4/2019 | [Jūs kļūst pārāk daudz surogātpasta vai phish savā pastkastītē?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | modificēta |
-| 3/4/2019 | [Mainītu NameServers](/AlchemyInsights/change-nameservers) | modificēta |
-| 3/4/2019 | [Izveidotu apps PowerApps](/AlchemyInsights/create-apps-in-powerapps) | modificēta |
-| 3/4/2019 | [Nocirstas migrāciju uz Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | modificēta |
-| 3/4/2019 | [E-pasta piegādes problēmas?](/AlchemyInsights/having-email-delivery-issues-0) | modificēta |
-| 3/4/2019 | [E-pasta piegādes problēmas?](/AlchemyInsights/having-email-delivery-issues) | modificēta |
-| 3/4/2019 | [Kā pievienot kredītkarti?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificēta |
-| 3/4/2019 | [Kā atjaunināt manu kredītkartes informāciju?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificēta |
-| 3/4/2019 | [Kā instalēt Office](/AlchemyInsights/how-to-install-office) | modificēta |
-| 3/4/2019 | [Migrē no IMAP e-pasta](/AlchemyInsights/migrate-email-from-imap) | modificēta |
-| 3/4/2019 | [Maksājumu opcijas](/AlchemyInsights/payment-options) | modificēta |
-| 3/4/2019 | [Ieteicamās darbības, kas jāveic, ja konts ir apdraudēts](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modificēta |
-| 3/4/2019 | [Bloķēta uz pārāk daudz surogātpasta sūtītāju](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | modificēta |
-| 3/4/2019 | [Iesniegt atbalsta pieprasījumus Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | modificēta |
-| 3/4/2019 | [Domēnā jau tiek lietots](/AlchemyInsights/the-domain-is-already-in-use) | modificēta |
-| 3/4/2019 | [Nepatikšanas, aizpildot iepirkuma biroja 365 portālā](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | modificēta |
-| 3/4/2019 | [DNS ierakstu atjaunināšanu](/AlchemyInsights/update-dns-records-0) | modificēta |
-| 3/4/2019 | [DNS ierakstu atjaunināšanu](/AlchemyInsights/update-dns-records) | modificēta |
-| 3/4/2019 | [Atjauniniet maksājuma detaļas](/AlchemyInsights/update-payment-details) | modificēta |
-| 3/4/2019 | [Pārbaudiet, vai domēna](/AlchemyInsights/verify-domain) | modificēta |
-| 3/4/2019 | [Iestatot pāradresāciju uz vairākām e-pasta adresēm](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | modificēta |
-| 3/4/2019 | [Risināšana "Nav akceptēts domēns" kļūda](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | modificēta |
-| 3/6/2019 | [1581 atvērt un izmantot koplietojamās pastkastes Outlook Web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | modificēta |
-| 3/6/2019 | [Brigāžu maiņas](/AlchemyInsights/1686-teams-shifts) | pievienotās |
-| 3/6/2019 | [1703 nepieciešama informācija par grupām un Polycom tālruņi](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | pievienotās |
-| 3/6/2019 | [Komandas PS moduļa instalēšana un atsauces](/AlchemyInsights/1787-teams-ps-module-install-ref) | pievienotās |
-| 3/6/2019 | [615 koplietošanas veidiem un to iestatīšanu.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | modificēta |
-| 3/6/2019 | [Komandas Freemium](/AlchemyInsights/997-teams-freemium) | pievienotās |
-| 3/6/2019 | [Vai jums ir likumīgi ziņojumi netiks atzīmēti kā nevēlamais e-pasts?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | modificēta |
-| 3/6/2019 | [Iespējotu Microsoft grupas](/AlchemyInsights/enable-microsoft-teams) | modificēta |
-| 3/6/2019 | [Ir iespējots komandas jūsu studentiem?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | modificēta |
-| 3/6/2019 | [Kā aktivizēt abonementu](/AlchemyInsights/how-to-reactivate-a-subscription) | modificēta |
-| 3/6/2019 | Intune App izvietošanas - kārtulas Id 991 | izņemta |
-| 3/6/2019 | [Problēma ar Skype uzņēmējdarbībai?](/AlchemyInsights/issue-with-skype-for-business) | modificēta |
-| 3/6/2019 | [Microsoft grupas - viesu piekļuvi](/AlchemyInsights/microsoft-teamsguest-access) | modificēta |
-| 3/6/2019 | [Microsoft grupas - atjaunot dzēsto darba grupas vietni](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | modificēta |
-| 3/6/2019 | [Pārraides e-pastu, izmantojot Office 365](/AlchemyInsights/relay-email-through-office-365) | modificēta |
-| 3/6/2019 | [SharePoint failu sinhronizēšana ar jaunu OneDrive sinhronizācijas klienta](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | modificēta |
-| 3/6/2019 | [Jaunināšana uz Microsoft Teams pilno versiju](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | modificēta |
-| 3/7/2019 | [Nevar sinhronizēt e-pastu 8000064. Outlook.com - spāņu](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | pievienotās |
-| 3/7/2019 | [8000065 Outlook.com Nevēlamais surogātpasts - spāņu](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | pievienotās |
-| 3/7/2019 | [8000066 - 1. pants - Outlook.com ielauzies - spāņu](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | pievienotās |
-| 3/7/2019 | [8000066 - noteikums 2 - Outlook.com ielauzies - spāņu](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | pievienotās |
-| 3/7/2019 | [8000067 - Outlook.com slēgt kontu - spāņu](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | pievienotās |
-| 3/7/2019 | [8000068 - Outlook.com pievienot kontu - spāņu](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | pievienotās |
-| 3/7/2019 | [8000069 - Outlook.com sūtītāja bloķēšana - spāņu](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | pievienotās |
-| 3/7/2019 | [8000070 - nevar pierakstīties Outlook.com - spāņu](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | pievienotās |
-| 3/7/2019 | [Atjaunot dzēstos lietotāja](/AlchemyInsights/restore-deleted-user) | modificēta |
-| 3/8/2019 | 8000043 POP, IMAP un SMTP iestatījumus Outlook.com | izņemta |
-| 3/8/2019 | [8000043 POP, IMAP un SMTP iestatījumus Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | pārdēvēt |
-| 3/8/2019 | [8000071 Outlook.com noteikt e-pasta sinhronizācija - franču](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | pievienotās |
-| 3/8/2019 | [8000072 Outlook.com Nevēlamais e-pasts - franču](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | pievienotās |
-| 3/8/2019 | [8000073 Outlook.com kontu hacked - franču](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | pievienotās |
-| 3/8/2019 | [8000074 Outlook.com slēgt kontu - franču](/AlchemyInsights/8000074-outlook-com-close-account-french) | pievienotās |
-| 3/8/2019 | [8000075 Outlook.com paroles maiņa - franču](/AlchemyInsights/8000075-outlook-com-change-password-french) | pievienotās |
-| 3/8/2019 | [8000076 Outlook.com sūtītāja bloķēšana - franču](/AlchemyInsights/8000076-outlook-com-block-sender-french) | pievienotās |
-
-
 ## <a name="week-of-march-11-2019"></a>Nedēļa 11 marts 2019
 
 
@@ -91,7 +11,7 @@
 | 3/12/2019 | 8000054 Outlook.com Inbox nav iekraušana | pievienotās |
 | 3/12/2019 | [8000078 Outlook.com Inbox nav iekraušana](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | pārdēvēt |
 | 3/12/2019 | [8000078 Outlook.com Inbox nav iekraušana](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modificēta |
-| 3/13/2019 | [Pārraides e-pastu, izmantojot Office 365](/AlchemyInsights/relay-email-through-office-365) | modificēta |
+| 3/13/2019 | [E-pasta retranslēšana, izmantojot Office 365](/AlchemyInsights/relay-email-through-office-365) | modificēta |
 | 3/14/2019 | [Tāpat kā nosaukums ir labākais [KĀRTULA #-apraksts]](/AlchemyInsights/1-alchemy-insight-template) | modificēta |
 | 3/14/2019 | [Palielināt pastkastes lielumu](/AlchemyInsights/increase-mailbox-size) | modificēta |
 | 3/15/2019 | [Programma Outlook darbvirsmas atcerēties vai aizstāt e-pasta ziņojumu](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | pievienotās |
@@ -134,7 +54,7 @@
 | 3/22/2019 | [Vietas pievienošana apmaksāto abonementu](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | modificēta |
 | 3/22/2019 | [1800018 Add/iestatītu e-pasta kontiem](/AlchemyInsights/add-set-up-email-accounts) | pārdēvēt |
 | 3/22/2019 | [764 Add/iestatīšana e-pasta kontiem](/AlchemyInsights/add-setup-email-accounts) | pārdēvēt |
-| 3/22/2019 | [Lietotāju pievienošana Office 365](/AlchemyInsights/add-users-to-office-365) | modificēta |
+| 3/22/2019 | [Lietotāju pievienošana pakalpojumā Office 365](/AlchemyInsights/add-users-to-office-365) | modificēta |
 | 3/22/2019 | [8000040 pievienot savu Outlook.com kontu programmā Outlook, Windows](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | pārdēvēt |
 | 3/22/2019 | [713, pievienojot papildu e-pasta adresi adresātu sarakstam](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | pārdēvēt |
 | 3/22/2019 | [718 ārējās kontaktpersonas pievienošana / cilvēki ārpus organizācijas adresātu sarakstam](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | pārdēvēt |
@@ -196,7 +116,7 @@
 | 3/22/2019 | [8000013 Outlook.com mainīt fontu](/AlchemyInsights/change-font-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [Mainīt, cik bieži jūs maksājat](/AlchemyInsights/change-how-often-you-pay) | modificēta |
 | 3/22/2019 | [8000010 mainīt manu e-pasta adresi Outlook.com](/AlchemyInsights/change-my-email-address-in-outlook-com) | pārdēvēt |
-| 3/22/2019 | [Mainītu NameServers](/AlchemyInsights/change-nameservers) | modificēta |
+| 3/22/2019 | [Nosaukumu serveru maiņa](/AlchemyInsights/change-nameservers) | modificēta |
 | 3/22/2019 | [OneDrive maiņa uzņēmuma krātuves kvota](/AlchemyInsights/change-onedrive-for-business-storage-quota) | modificēta |
 | 3/22/2019 | [Mainīt maksāšanas metodi](/AlchemyInsights/change-payment-method) | modificēta |
 | 3/22/2019 | [SharePoint saraksta vai bibliotēkas atļauju maiņa](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | modificēta |
@@ -210,7 +130,7 @@
 | 3/22/2019 | [8000002 mainīt savu paroli Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [8000036 mainīt savu Outlook.com profila nosaukumu](/AlchemyInsights/change-your-profile-name-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [Izmaiņas ārējā lietotāja piekļuves](/AlchemyInsights/changes-to-external-user-access) | modificēta |
-| 3/22/2019 | [8000026 izmaiņas Outlook.com](/AlchemyInsights/changes-to-outlook-com) | pārdēvēt |
+| 3/22/2019 | [8000026 Izmaiņas pakalpojumā Outlook.com](/AlchemyInsights/changes-to-outlook-com) | pārdēvēt |
 | 3/22/2019 | [Mainīšanas publiskās mapes](/AlchemyInsights/changing-public-folder-permissions) | modificēta |
 | 3/22/2019 | [Mainīt koplietošanas pastkastes nosūtīt kā uzvedības](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modificēta |
 | 3/22/2019 | [AAD identitātes sinhronizācijas statusa pārbaude](/AlchemyInsights/check-aad-identity-sync-status) | modificēta |
@@ -243,7 +163,7 @@
 | 3/22/2019 | [CTRL + H liecina atrast nevar aizstāt Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | modificēta |
 | 3/22/2019 | [8000029 nodarbojas ar pikšķerēšanas Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [8000029, kā cīnīties ar surogātpastu Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | pārdēvēt |
-| 3/22/2019 | [8000029 nodarbojas ar surogātpasta vai pikšķerēšanas Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | pārdēvēt |
+| 3/22/2019 | [8000029 Rīkošanās pakalpojumā Outlook.com surogātpasta vai pikšķerēšanas gadījumā](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [Samazinājās kredīta kartes](/AlchemyInsights/declined-credit-card) | modificēta |
 | 3/22/2019 | [8000012 Kontakspersonas Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [8000016 dzēst mapi Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | pārdēvēt |
@@ -302,7 +222,7 @@
 | 3/22/2019 | [Kā pievienot kredītkarti?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificēta |
 | 3/22/2019 | [Kā mainīt no credit card maksājumi rēķina?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | modificēta |
 | 3/22/2019 | [Kā noņemt manas kredītkartes informāciju?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | modificēta |
-| 3/22/2019 | [Kā atjaunināt manu kredītkartes informāciju?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificēta |
+| 3/22/2019 | [Kā atjaunināt savu kredītkartes informāciju?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificēta |
 | 3/22/2019 | [8000056 kā piekļūt Outlook.com, ceļojot](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | pārdēvēt |
 | 3/22/2019 | [Kā pievienot vai samazināt licences](/AlchemyInsights/how-to-add-or-reduce-licenses) | modificēta |
 | 3/22/2019 | [Kā licences piešķiršana lietotājam](/AlchemyInsights/how-to-assign-a-license-to-a-user) | modificēta |
@@ -329,7 +249,7 @@
 | 3/22/2019 | [Kā iegādāties Office 365 Non-profits](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | modificēta |
 | 3/22/2019 | [Kā iegādāties Office 365 Non-profits](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | modificēta |
 | 3/22/2019 | [Kā iegādāties Office 365 Non-profits](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | modificēta |
-| 3/22/2019 | [Kā aktivizēt abonementu](/AlchemyInsights/how-to-reactivate-a-subscription) | modificēta |
+| 3/22/2019 | [Abonementa atkārtota aktivizēšana](/AlchemyInsights/how-to-reactivate-a-subscription) | modificēta |
 | 3/22/2019 | [Kā aktivizēt un pārvaldīt atjaunošanas](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | modificēta |
 | 3/22/2019 | [8000033 kā atbildēt vai pārsūtīt ziņojumus Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | pārdēvēt |
 | 3/22/2019 | [8000063 kā ar peles labo pogu noklikšķiniet uz Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | pārdēvēt |
@@ -384,7 +304,7 @@
 | 3/22/2019 | [Pārvietot vienumus SharePoint dokumentu bibliotēkā](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | modificēta |
 | 3/22/2019 | [8000062, pārvietojot mapi Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [Vairākkārtēji mēģinājumi maksas tiešsaistes maksājumu instrumentiem](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | modificēta |
-| 3/22/2019 | [1703 nepieciešama informācija par grupām un Polycom tālruņi](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | pārdēvēt |
+| 3/22/2019 | [1703 Nepieciešama informācija par Teams un Polycom tālruņiem](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | pārdēvēt |
 | 3/22/2019 | [122 nepieciešamība izveidot parakstu, Outlook Web](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | pārdēvēt |
 | 3/22/2019 | [Nevar saņemt e-pastu Outlook.com 8000037](/AlchemyInsights/not-receiving-email-in-outlook-com) | pārdēvēt |
 | 3/22/2019 | [Biznesa plāni un cenas biroju 365](/AlchemyInsights/office-365-for-business-plans-and-pricing) | modificēta |
@@ -396,11 +316,11 @@
 | 3/22/2019 | [Viens no lokālajiem Federācijas pakalpojumu sertifikāti beidzas](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | modificēta |
 | 3/22/2019 | [OneDrive krātuve](/AlchemyInsights/onedrive-storage) | modificēta |
 | 3/22/2019 | [Atveriet SharePoint bibliotēkas failu pārlūks](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | modificēta |
-| 3/22/2019 | [1581 atvērt un izmantot koplietojamās pastkastes Outlook Web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | pārdēvēt |
+| 3/22/2019 | [1581 Koplietojamas pastkastes atvēršana un lietošana programmā Outlook tīmeklī](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | pārdēvēt |
 | 3/22/2019 | [Atvērt Internet Explorer poga ir deaktivizēta](/AlchemyInsights/open-with-explorer-button-is-disabled) | modificēta |
 | 3/22/2019 | [Atvērt Internet Explorer pogas trūkst](/AlchemyInsights/open-with-explorer-button-missing) | modificēta |
 | 3/22/2019 | [Atvērt, izmantojot Internet Explorer nedarbojas](/AlchemyInsights/open-with-explorer-doesn-t-work) | modificēta |
-| 3/22/2019 | [423. Org drošība - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | pārdēvēt |
+| 3/22/2019 | [423 Organizācijas drošība — uzlauzts e-pasta konts](/AlchemyInsights/org-securityemailaccountcompromised) | pārdēvēt |
 | 3/22/2019 | [424. Org drošība - Spam viltus pozitīvi](/AlchemyInsights/org-securityspam-false-positive) | pārdēvēt |
 | 3/22/2019 | [8000073 Outlook.com kontu hacked - franču](/AlchemyInsights/outlook-com-account-hacked-french) | pārdēvēt |
 | 3/22/2019 | [8000039 Outlook.com kontu hacked](/AlchemyInsights/outlook-com-account-hacked) | pārdēvēt |
@@ -504,3 +424,109 @@
 | 2/4/2019 | Vietnē un satura struktūru, noņemt | pievienotās |
 | 2/4/2019 | Problēmu novēršana kļūda 404. fails nav atrasts | pievienotās |
 | 3/4/2019 | [Kļūdas kods 550 5.7.705 piekļuve liegta, īrniekam ir pārsniegts slieksnis](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modificēta |
+
+
+## <a name="week-of-april-08-2019"></a>Aprīlis 08, 2019 nedēļa
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 4/9/2019 | [E-pasta ziņojumi tiks pārvietoti uz arhīva pastkastes](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | modificēta |
+| 4/9/2019 | [Anonīmu apmaiņu](/AlchemyInsights/anonymous-sharing) | modificēta |
+| 4/9/2019 | [Pārbaudīt vienlaicīgi ar vairākiem failiem](/AlchemyInsights/check-in-several-files-at-once) | modificēta |
+| 4/9/2019 | [Pievienoties grupai klasiskās SharePoint grupas Web vietu](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | modificēta |
+| 4/9/2019 | [Izveidot vietni, SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificēta |
+| 4/9/2019 | [Izveidot vietni](/AlchemyInsights/create-a-site) | pārdēvēt |
+| 4/9/2019 | [SharePoint vietnes dzēšana](/AlchemyInsights/delete-a-sharepoint-site-0) | modificēta |
+| 4/9/2019 | [Izdzēst vietni](/AlchemyInsights/delete-site-collection) | modificēta |
+| 4/9/2019 | [Kļūdas ziņojumu, kad failu koplietošanu](/AlchemyInsights/error-message-when-sharing-files) | modificēta |
+| 4/9/2019 | [Koplietot ar komandas vietu ārējo](/AlchemyInsights/external-sharing-with-a-team-site) | modificēta |
+| 4/9/2019 | [Kā lietot SharePoint Online terminu krātuve](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | modificēta |
+| 4/9/2019 | [Pārvaldīt meklēšanas vārdnīcas SharePoint Online](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | modificēta |
+| 4/9/2019 | [Pārvaldītu SharePoint vai OneDrive novietne](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | modificēta |
+| 4/9/2019 | [Atjaunot dzēstu vietni](/AlchemyInsights/restore-a-deleted-site-collection) | modificēta |
+| 4/9/2019 | [Atjaunot dzēstos apakšvietni](/AlchemyInsights/restore-a-deleted-subsite) | modificēta |
+| 4/9/2019 | [Koplietot failu vai mapi SharePoint vai OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | modificēta |
+| 4/9/2019 | [SharePoint krātuves](/AlchemyInsights/sharepoint-storage) | modificēta |
+| 4/9/2019 | [Nedarbojas koplietošanas ar ārējiem lietotājiem](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modificēta |
+| 4/9/2019 | [SharePoint failu sinhronizēšana, izmantojot jauno OneDrive sinhronizācijas klientu](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | modificēta |
+| 4/9/2019 | [Savukārt ārējās vietnes koplietošanas ieslēgšana vai izslēgšana](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | modificēta |
+| 4/9/2019 | [Savukārt ārējās koplietošanas ieslēgšana vai izslēgšana SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modificēta |
+| 4/9/2019 | [Savukārt ārējās koplietošanas ieslēgšana vai izslēgšana SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modificēta |
+| 4/9/2019 | Problēmu novēršana kļūda 404. fails nav atrasts | modificēta |
+| 4/9/2019 | [Liegta piekļuve projektam Web App vietnes](/AlchemyInsights/access-denied-to-a-project-online-site) | pievienotās |
+| 4/9/2019 | [Projekta Online ir tikai lasāmā stāvoklī](/AlchemyInsights/project-online-is-in-a-read-only-state) | pievienotās |
+| 4/9/2019 | [Projekta Web App ir pazudis no SharePoint vietņu kolekcijā](/AlchemyInsights/project-web-app-missing-from-site-collection) | pievienotās |
+| 4/12/2019 | [1048 5.7.750 pakalpojums nav pieejams. Klienta bloķēts no nosūtīšanas no nereģistrēts domains](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificēta |
+| 4/12/2019 | [713, pievienojot papildu e-pasta adresi adresātu sarakstam](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | modificēta |
+| 4/12/2019 | [718 ārējās kontaktpersonas pievienošana / cilvēki ārpus organizācijas adresātu sarakstam](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | modificēta |
+| 4/12/2019 | [714 Allowing ārēju sūtītāju e-pasta adresātu sarakstus](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | modificēta |
+| 4/12/2019 | [717 Allowing lietotājiem sūtīt e-pasta adresātu sarakstu kā](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | modificēta |
+| 4/12/2019 | [1049 antiSpam 4.5.3 pārāk daudz saņēmēju (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | modificēta |
+| 4/12/2019 | [1051 antispam 4.7.500 piekļuve liegta. Lūdzu, mēģiniet vēlreiz vēlāk](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | modificēta |
+| 4/12/2019 | [1050 antispam 4.7.500 serveris ir aizņemts. Lūdzu, mēģiniet vēlreiz vēlāk no [xxx.xxx]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modificēta |
+| 4/12/2019 | [1047 antiSpam 550 5.7.708 pakalpojums nav pieejams. Liegta piekļuve, satiksmes nepieņem no šīs IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificēta |
+| 4/12/2019 | [500 app paroles](/AlchemyInsights/app-passwords) | modificēta |
+| 4/12/2019 | [726 bloķēšana e-pasta pāradresācija](/AlchemyInsights/blocking-email-forwarding) | modificēta |
+| 4/12/2019 | [763 Exchange Online PowerShell bloķē piekļuvi lietotājiem](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | modificēta |
+| 4/12/2019 | [608 kalendāra informāciju Hybrid uzstādījumos](/AlchemyInsights/calendar-information-on-hybrid-setups) | modificēta |
+| 4/12/2019 | [613 kalendāra publicēšana](/AlchemyInsights/calendar-publishing-information) | modificēta |
+| 4/12/2019 | [618 kalendāra koplietošanas politikas](/AlchemyInsights/calendar-sharing-policy) | modificēta |
+| 4/12/2019 | [398 kalendārs - rezervēšana](/AlchemyInsights/calendarbooking) | modificēta |
+| 4/12/2019 | [399 kalendārs - delegāts](/AlchemyInsights/calendardelegate) | modificēta |
+| 4/12/2019 | [400 kalendārs - FreeBusy](/AlchemyInsights/calendarfreebusy) | modificēta |
+| 4/12/2019 | [402 kalendārs - O365Groups](/AlchemyInsights/calendaro365groups) | modificēta |
+| 4/12/2019 | [1081 kalendārs - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | modificēta |
+| 4/12/2019 | [912 Configure mērķtiecīgi iesūtne visiem jūsu organizācijā](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | modificēta |
+| 4/12/2019 | [761 veido savienojumu ar Exchange Online PowerShell MFA ir iespējota](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | modificēta |
+| 4/12/2019 | [760 savieno apmaiņa PowerShell tiešsaistē](/AlchemyInsights/connecting-to-exchange-online-powershell) | modificēta |
+| 4/12/2019 | [Adresātu saraksta konvertēšana Office 365 grupas 712](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | modificēta |
+| 4/12/2019 | [Izveidot adresātu sarakstu vai grupas 711](/AlchemyInsights/creating-a-distribution-list-or-group) | modificēta |
+| 4/12/2019 | [744 izveide lietotājiem, ja organizācija ir hibrīds režīmā](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | modificēta |
+| 4/12/2019 | [743 izveide lietotājiem bez licences](/AlchemyInsights/creating-users-without-a-license) | modificēta |
+| 4/12/2019 | [1065 EOP izslēgšanas izejošo IP adresi rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | modificēta |
+| 4/12/2019 | [1314 dublēt objekta sanācija](/AlchemyInsights/duplicate-object-remediation) | modificēta |
+| 4/12/2019 | [934 iespējot POP un IMAP kontiem](/AlchemyInsights/enable-pop-and-imap-accounts) | modificēta |
+| 4/12/2019 | [Kļūdas kods 550 5.7.501 liegta piekļuve, surogātpasta ļaunprātīgu izmantošanu noteikta](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | modificēta |
+| 4/12/2019 | [Kļūdas kods 550 5.7.705 piekļuve liegta, īrniekam ir pārsniegts slieksnis](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | modificēta |
+| 4/12/2019 | [126 kļūst pastkasti nevar atrast kļūdas OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | modificēta |
+| 4/12/2019 | [127 kļūst TenantAccessBlockedException kļūda, piekļūstot e-pastu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificēta |
+| 4/12/2019 | [646 kā konfigurēt AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | modificēta |
+| 4/12/2019 | [955 kā konfigurēt MFA](/AlchemyInsights/how-to-configure-mfa) | modificēta |
+| 4/12/2019 | [614, kā izveidot un pārvaldīt istabu pastkastēm](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | modificēta |
+| 4/12/2019 | [401 hibrīds - FreeBusy](/AlchemyInsights/hybridfreebusy) | modificēta |
+| 4/12/2019 | [929 iesūtnes kārtulas, lai deflectTransport noteikumi](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | modificēta |
+| 4/12/2019 | [922 iesūtnes kārtulas](/AlchemyInsights/inbox-rules) | modificēta |
+| 4/12/2019 | [Palielināt EWS droselēšanas pasta migrēšanas ierobežojumi](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | pievienotās |
+| 4/12/2019 | [1264 IP bloķēta uz pārāk daudz surogātpasta (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | modificēta |
+| 4/12/2019 | [322 jautājumus, kad lietotājs ir problēmas nosūtīt](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | modificēta |
+| 4/12/2019 | [321 jautājumus, kad lietotājs nav saņēmēja e-pasta](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | modificēta |
+| 4/12/2019 | [323 problēmas, kas saistītas ar aizkavēšanos, e-pasts](/AlchemyInsights/issues-with-delays-in-email) | modificēta |
+| 4/12/2019 | [324 jautājumus ar email(s) dodas nepareizā virzienā](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | modificēta |
+| 4/12/2019 | [898 uzzināt par ārēju kalendāra koplietošanas iespējas](/AlchemyInsights/learn-about-external-calendar-sharing-options) | modificēta |
+| 4/12/2019 | [617 uzzināt par ārējās koplietošanas opcijas](/AlchemyInsights/learn-about-external-sharing-options) | modificēta |
+| 4/12/2019 | [610 Uzziniet par Office 365 grupām](/AlchemyInsights/learn-about-office-365-groups) | modificēta |
+| 4/12/2019 | [612 mācīties kā par kalendāriem un publiskās mapes](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | modificēta |
+| 4/12/2019 | [603 Iemācieties pielāgot programmu iestatījumus](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | modificēta |
+| 4/12/2019 | [723, veicot primāro e-pasta lietotāja e-pasta aizstājvārdu](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | modificēta |
+| 4/12/2019 | [597 rezervēšanai Microsoft App](/AlchemyInsights/microsoft-bookings-app) | modificēta |
+| 4/12/2019 | [973 migrācijas StalledDueTo * noteikumu](/AlchemyInsights/migration-stalleddueto-rule) | modificēta |
+| 4/12/2019 | [1581 Koplietojamas pastkastes atvēršana un lietošana programmā Outlook tīmeklī](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | modificēta |
+| 4/12/2019 | [423 Organizācijas drošība — uzlauzts e-pasta konts](/AlchemyInsights/org-securityemailaccountcompromised) | modificēta |
+| 4/12/2019 | [424. Org drošība - Spam viltus pozitīvi](/AlchemyInsights/org-securityspam-false-positive) | modificēta |
+| 4/12/2019 | [1332 OWA - iesūtnes kārtula ir nav izpildes pastkastes](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modificēta |
+| 4/12/2019 | [182, lūdzu, palaidiet SaRA diagnosticēt &amp; atrisināt Outlook autentifikācijas jautājumus](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificēta |
+| 4/12/2019 | [412 politikas kļūdas, koplietojot kalendāru](/AlchemyInsights/policy-error-when-sharing-calendar) | modificēta |
+| 4/12/2019 | [408 RBA](/AlchemyInsights/rba) | modificēta |
+| 4/12/2019 | [1336 RecoverableItems mape ir pilna](/AlchemyInsights/recoverableitems-folder-is-full) | modificēta |
+| 4/12/2019 | [1374 atrisināt divas pastkastes howto](/AlchemyInsights/resolve-two-mailboxes-howto) | modificēta |
+| 4/12/2019 | [924 noteikuma ierobežojumus](/AlchemyInsights/rule-limits) | modificēta |
+| 4/12/2019 | [Atjaunināti 414 meklēšanas pieredzi](/AlchemyInsights/search-experience-updated) | modificēta |
+| 4/12/2019 | [902 (sinhronizācijas kļūdas dēļ objektu dublikātus)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | modificēta |
+| 4/12/2019 | [Izmēģinājuma versijas Office 365 īrnieks bloķēja Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | modificēta |
+| 4/12/2019 | [911 izslēgt koncentrēta klienta iesūtnē](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | modificēta |
+| 4/12/2019 | [615 Koplietošanas veidi un to iestatīšana.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | modificēta |
+| 4/12/2019 | [413 izpratnes programmas Mail](/AlchemyInsights/understanding-agenda-mail) | modificēta |
+| 4/12/2019 | [932 modernizāciju AADConnect](/AlchemyInsights/upgrading-aadconnect) | modificēta |
+| 4/12/2019 | [725 izmantošana e-pasta aizstājvārdu mobilajā ierīcē](/AlchemyInsights/using-email-alias-on-mobile-device) | modificēta |
+| 4/12/2019 | [1554 Winsock kļūda 10061](/AlchemyInsights/winsock-error-10061) | modificēta |
