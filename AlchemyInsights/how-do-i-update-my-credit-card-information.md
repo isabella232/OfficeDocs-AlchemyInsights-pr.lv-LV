@@ -1,5 +1,5 @@
 ---
-title: Kā atjaunināt manu kredītkartes informāciju?
+title: Kā atjaunināt savu kredītkartes informāciju?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405186"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763835"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Kā atjaunināt manu kredītkartes informāciju?
+# <a name="how-do-i-update-my-credit-card-information"></a>Kā atjaunināt savu kredītkartes informāciju?
 
-1. Admin Center, dodieties uz [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu** \> **abonementu**.
+1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
     
-2. Izvēlieties abonēšanas, kuras esat iegādājies ar kredītkarti vai bankas kontu, kuru vēlaties atjaunināt, un pēc tam izvēlieties **atjaunināt maksājuma detaļas**.
+2. Atlasiet abonementu, kuru iegādājāties ar kredītkarti vai bankas kontu, kuru vēlaties atjaunināt, un pēc tam izvēlieties **Atjaunināt maksājuma datus**.
     
-3. Izvēlieties nolaižamās bultiņas sadaļā **pievienot, vai atlasiet maksāšanas metodi**, izvēlieties kredītkartes vai bankas konta, kuru vēlaties atjaunināt un pēc tam izvēlieties **rediģēt detaļas**.
+3. Izvēlieties nolaižamo bultiņu zem **Pievienojiet vai atlasiet maksāšanas metodi** un atlasiet kredītkarti vai bankas kontu, kuru vēlaties atjaunināt, pēc tam izvēlieties **Rediģēt detaļas**.
     
-4. Atjaunināt jūsu kredītkartes vai bankas konta informāciju (vārdu uz kredītkartes vai bankas konta, norēķinu adresi. tālruņa numuru vai derīguma termiņš), pēc vajadzības un pēc tam noklikšķiniet uz **iesniegt**.
+4. Atjauniniet savas kredītkartes vai bankas konta informāciju (ar kredītkarti vai bankas kontu saistītais vārds, norēķinu adrese, tālruņa numurs vai derīguma termiņš) pēc nepieciešamības un pēc tam izvēlieties **Iesniegt**.
     
-5. Apstiprinājuma ziņojums ir jāparādās.
+5. Tiek parādīts apstiprinājuma ziņojums.
     
-Lai iegūtu papildu informāciju, skatiet [problēmu novēršana kredītkaršu un bankas kontu](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Papildinformāciju skatiet rakstā [Kredītkaršu un bankas kontu problēmu novēršana](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint failu sinhronizēšana ar jaunu OneDrive sinhronizācijas klienta
+title: SharePoint failu sinhronizēšana, izmantojot jauno OneDrive sinhronizācijas klientu
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469030"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747353"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint failu sinhronizēšana ar jaunu OneDrive sinhronizācijas klienta
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint failu sinhronizēšana, izmantojot jauno OneDrive sinhronizācijas klientu
 
-1. Klasisks SharePoint administrēšanas centrā, izvēlieties **uzstādījumi**.
+1. Jaunajā SharePoint administrēšanas centrā atlasiet **Iestatījumi**.
     
-2. Pārliecinieties, ka "OneDrive sinhronizācijas pogu" ir iestatīts uz "Show sinhronizācijas pogu."
+2. Pārbaudiet, vai OneDrive sinhronizācijas pogai ir norādīts iestatījums Rādīt pogu Sinhronizēt.
     
-3. "Sinhronizācijas klienta par SharePoint," atlasiet **Sākt jaunu klientu**.
+3. SharePoint sinhronizācijas klienta sadaļā atlasiet **Startēt jauno klientu**.
     
     > [!NOTE]
-    > Ja šī opcija nav redzama, organizācijā jau ir iestatīts, lai izmantotu jauno OneDrive sinhronizācijas klientu SharePoint failu sinhronizēšanai. 
+    > Ja šī opcija netiek parādīta, jūsu organizācijā jau ir iestatīta jaunā OneDrive sinhronizācijas klienta lietošana SharePoint failu sinhronizācijai. 
   
 4. Noklikšķiniet uz **Labi**.
     
-Lai iegūtu vairāk informācijas, skatiet [lietotājiem ļauj sinhronizēt SharePoint faili ar jauno OneDrive sinhronizācijas klienta](https://go.microsoft.com/fwlink/?linkid=866433). Lai sniegtu lietotājiem norādījumus skatiet [sinhronizācijas SharePoint faili ar jauno OneDrive sinhronizācijas klienta](https://go.microsoft.com/fwlink/?linkid=866427).
+Papildinformāciju skatiet rakstā [Iespēja lietotājiem sinhronizēt SharePoint failus, izmantojot jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=866433). Lietotājiem sniedzamos norādījumus skatiet rakstā [SharePoint failu sinhronizēšana, izmantojot jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

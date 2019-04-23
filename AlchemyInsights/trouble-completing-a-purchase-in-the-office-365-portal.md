@@ -1,5 +1,5 @@
 ---
-title: Nepatikšanas, aizpildot iepirkuma biroja 365 portālā
+title: Problēmas ar pirkuma pabeigšanu Office 365 portālā
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405150"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754765"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Nepatikšanas, aizpildot iepirkuma biroja 365 portālā
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problēmas ar pirkuma pabeigšanu Office 365 portālā
 
-Mēģinot veikt pirkumu, ja jūs esat pamudināja vairākas reizes pierakstīties programmā Office 365 portāla vai saņemat ziņojumu, ka jautājums tika atrasts labākais pirmais solis ir mēģināt izmantot pārlūkprogrammas inprivate/inkognito režīmā. Pēc atvēršanas inprivate/inkognito logā, pārejiet uz vietni [portal.office.com](https://portal.office.com) un jāpiesakās ar administratora akreditācijas datus. Pēc tam turpināt, lai pabeigtu pirkumu. 
+Ja, veicot pirkumu, jums tiek vairākkārt piedāvāts pierakstīties Office 365 portālā vai tiek parādīts ziņojums, ka ir konstatēta problēma, vispirms mēģiniet izmantot pārlūkprogrammas InPrivate/inkognito režīmu. Pēc InPrivate/inkognito loga atvēršanas dodieties uz vietni [portal.office.com](https://portal.office.com) un piesakieties ar saviem administratora akreditācijas datiem. Pēc tam pabeidziet pirkumu. 
   
 

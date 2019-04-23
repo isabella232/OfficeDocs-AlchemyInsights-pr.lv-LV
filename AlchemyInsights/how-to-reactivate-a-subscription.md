@@ -1,5 +1,5 @@
 ---
-title: Kā aktivizēt abonementu
+title: Abonementa atkārtota aktivizēšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468886"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766859"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Kā aktivizēt abonementu
+# <a name="how-to-reactivate-a-subscription"></a>Abonementa atkārtota aktivizēšana
 
-Ja jūsu abonements beidzies derīguma termiņš, ir atcelts, vai atspējots Microsoft, lai to atkal aktivizētu, Microsoft 365 administrēšanas centrā.
+Ja abonementa derīgums ir beidzies vai to ir atcēlusi vai atspējojusi korporācija Microsoft, varat atkārtoti aktivizēt abonementu Microsoft 365 administrēšanas centrā.
   
-1. Admin Center, dodieties uz [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu** \> **abonementu**.
+1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
     
-2. Izvēlieties abonēšanas, ko vēlaties atkārtoti aktivizēt.
+2. Izvēlieties abonementu, kuru vēlaties atkārtoti aktivizēt.
     
-3. Izvēlieties **Aktivizēt** pogu labajā pusē. 
+3. Izvēlieties labajā pusē esošo pogu **Atkārtoti aktivizēt**. 
     
-4. Tiks prasīts atjaunināt maksājuma detaļas. Kad visa informācija ir pareiza, izvēlieties **iesniegšanas**.
+4. Jums tiks lūgts atjaunināt detalizētu informāciju par maksājumu. Kad visa informācija ir pareiza, izvēlieties **Iesniegt**.
     
-5. Apstiprinājuma parādīsies uz ekrāna apakšējā daļā. Izvēlieties **Aizvērt** atgriezties uz **abonēšanas** lapu. 
+5. Ekrāna apakšā tiks parādīts apstiprinājums. Izvēlieties **Aizvērt**, lai atgrieztos **abonementu** lapā. 
     
-6. Ja abonements netiek parādīta Active pēc pāris minūtēm, atsvaidziniet lapu.
+6. Ja pēc dažām minūtēm abonements netiek parādīts kā Aktīvs, atsvaidziniet lapu.
     
-Plašāku informāciju skatiet: [atjaunot Office 365 uzņēmējdarbībai](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Papildinformāciju skatiet rakstā [Office 365 darbam atjaunošana](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
   
 

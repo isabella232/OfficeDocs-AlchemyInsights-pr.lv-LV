@@ -1,5 +1,5 @@
 ---
-title: Pārraides e-pastu, izmantojot Office 365
+title: E-pasta retranslēšana, izmantojot Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468598"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752821"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Iestatīt lietojumprogrammu, lai nosūtītu e-pastu, izmantojot Office 365 vai daudzfunkciju ierīces
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Kā iestatīt vairākfunkciju ierīci vai programmu e-pasta nosūtīšanai, izmantojot Office 365
 
-Lai uzzinātu par iespējām un pasākumiem, uzzinātu, [kā iestatīt lietojumprogrammu, lai nosūtītu e-pastu, izmantojot Office 365 vai daudzfunkciju ierīces](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
+Lai iegūtu informāciju par iespējām un norādījumiem, skatiet rakstu [Kā iestatīt vairākfunkciju ierīci vai programmu e-pasta nosūtīšanai, izmantojot Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
- ** *Piezīme:* * * ja jums ir ierīce vai lietojumprogramma, kas pārtraukuši darbu, lūdzu, [piezīmi, mēs nesen veica uzlabojumus](https://support.microsoft.com/help/4458479/) , kas varētu ietekmēt jums. Mēs tagad no pastkastes, kas varētu **izraisīt noraidīto ziņojumu, ja šī pastkaste ir pilna** **saglabāt ziņas nosūtīto ziņu mapē** . Turklāt mēs tagad nepieciešams formatēt ziņojumus vienā SMTP specifikācijas. Piemēram, iesniedzot ierīci jāiekļauj leņķiekavās ap e-pasta adresi kā *christine@contoso.com* . 
-  
+**Piezīme.** Ja izmantojat ierīci vai programmu, kas pēdējā laikā vairs nedarbojas, ņemiet vērā, ka nesen esam sākuši [atspējot 3DES šifru](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption), kā plānots.  **Windows Server 2003 IIS SMTP vairs nedarbosies — nepieciešama jaunāka Windows versija.** 
 
+Biežākās kļūdas var būt līdzīgas šīm: autentifikācijas kļūme/kļūda, TLS kļūme/kļūda, šifra algoritma kļūda, algoritma neatbilstība vai savienojuma pārtraukums.  Sazinieties ar lietojumprogrammas vai ierīces pārdevēju, lai pārbaudītu, vai tiek atbalstīts jaunākais šifrs un vai ir pieejams atjauninājums.
