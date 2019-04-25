@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Nedēļa 11 marts 2019
-
-
-| Publicēts |Tēmas nosaukums | Izmaiņas |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com Inbox nav iekraušana | pievienotās |
-| 3/12/2019 | [8000078 Outlook.com Inbox nav iekraušana](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | pārdēvēt |
-| 3/12/2019 | [8000078 Outlook.com Inbox nav iekraušana](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | modificēta |
-| 3/13/2019 | [E-pasta retranslēšana, izmantojot Office 365](/AlchemyInsights/relay-email-through-office-365) | modificēta |
-| 3/14/2019 | [Tāpat kā nosaukums ir labākais [KĀRTULA #-apraksts]](/AlchemyInsights/1-alchemy-insight-template) | modificēta |
-| 3/14/2019 | [Palielināt pastkastes lielumu](/AlchemyInsights/increase-mailbox-size) | modificēta |
-| 3/15/2019 | [Programma Outlook darbvirsmas atcerēties vai aizstāt e-pasta ziņojumu](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | pievienotās |
-
-
 ## <a name="week-of-march-18-2019"></a>Nedēļa 18 marts 2019
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 modernizāciju AADConnect](/AlchemyInsights/upgrading-aadconnect) | modificēta |
 | 4/12/2019 | [725 izmantošana e-pasta aizstājvārdu mobilajā ierīcē](/AlchemyInsights/using-email-alias-on-mobile-device) | modificēta |
 | 4/12/2019 | [1554 Winsock kļūda 10061](/AlchemyInsights/winsock-error-10061) | modificēta |
+
+
+## <a name="week-of-april-15-2019"></a>Nedēļa 15 aprīlis 2019
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 4/15/2019 | [Alķīmijas - diagnosticē un risina ar Outlook savienojamības problēmas](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificēta |
+| 4/15/2019 | [Alķīmijas - atkārtoti izveidojiet Outlook profilu](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificēta |
+| 4/15/2019 | [DLP, iespējams, ir pielāgota tipa](/AlchemyInsights/dlp-might-need-custom-type) | pievienotās |
+| 4/15/2019 | [DLP nedarbojas, kā paredzēts](/AlchemyInsights/dlp-not-working-as-expected) | modificēta |
+| 4/15/2019 | [DLP politikas padomi, nedarbojas](/AlchemyInsights/dlp-policy-tips-not-working) | modificēta |
+| 4/15/2019 | [Outlook.com kļūda 550](/AlchemyInsights/outlook-com-error-550) | pievienotās |
+| 4/15/2019 | [Outlook.com virs kvotas](/AlchemyInsights/outlook-com-over-quota) | pievienotās |
+| 4/15/2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | pievienotās |
+| 4/15/2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | pievienotās |
+| 4/15/2019 | [182, lūdzu, palaidiet SaRA diagnosticēt &amp; atrisināt Outlook autentifikācijas jautājumus](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificēta |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | modificēta |
+| 4/16/2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | modificēta |
+| 4/16/2019 | [8000088, izņemot e-pastu Outlook.com](/AlchemyInsights/outlook-com-save-emails) | modificēta |
+| 4/16/2019 | [8000052 pievienot failus Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | modificēta |
+| 4/16/2019 | [8000015 bloķēt vai atbloķēt sūtītāju](/AlchemyInsights/block-or-unblock-senders) | modificēta |
+| 4/16/2019 | [8000014 kā nomainīt valodu Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | modificēta |
+| 4/16/2019 | [8000059 kā nomainīt savu izkārtojumu](/AlchemyInsights/how-to-change-your-layout) | modificēta |
+| 4/16/2019 | [8000033 kā atbildēt vai pārsūtīt ziņojumus Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificēta |
+| 4/16/2019 | [8000055 kā pierakstīties uz vai no Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | modificēta |
+| 4/16/2019 | [8000062, pārvietojot mapi Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | modificēta |
+| 4/16/2019 | [Auto-Piesakies jutības etiķetes](/AlchemyInsights/auto-apply-sensitivity-labels) | pievienotās |
+| 4/16/2019 | [Jutības etiķetes netiek rādīta](/AlchemyInsights/sensitivity-labels-not-appearing) | pievienotās |
+| 4/16/2019 | [Jaunus saglabāšanas etiķetes automātiski izveidota](/AlchemyInsights/new-retention-labels-created-automatically) | pievienotās |
+| 4/16/2019 | [SharePoint un OneDrive audita žurnālos](/AlchemyInsights/classic-sharepoint-audit-log-reports) | pievienotās |
+| 4/16/2019 | [Noteiktu dzēšanas ziņu notikumiem audita žurnālos](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | pievienotās |
+| 4/16/2019 | [Identificēt ārējiem e-pasta pāradresācija uz pastkastēm, audita žurnālos](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | pievienotās |
+| 4/16/2019 | [Noteiktu iesūtnes kārtulas darbību audita žurnālos](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | pievienotās |
+| 4/16/2019 | [Identificē IP adrese un klienta audita žurnālos](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | pievienotās |
+| 4/16/2019 | [. Pst faila labošana pirms importēšanas](/AlchemyInsights/repair-pst-before-importing) | pievienotās |
+| 4/16/2019 | [Klasisks SharePoint audita žurnāla ziņojumi](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | pievienotās |
+| 4/16/2019 | [Klasisks SharePoint audita žurnāla ziņojumi](/AlchemyInsights/classic-sharepoint-audit-log-reports) | modificēta |
+| 4/16/2019 | [Identificēt ārējiem e-pasta pāradresācija uz pastkastēm, audita žurnālos](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modificēta |
+| 4/16/2019 | [Noteiktu iesūtnes kārtulas darbību audita žurnālos](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modificēta |
+| 4/16/2019 | [Klasisks SharePoint audita žurnāla ziņojumi](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificēta |
+| 4/17/2019 | [Noteikt e-pasta piegādes jautājumiem pasta publiskajās mapēs](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | pievienotās |
+| 4/17/2019 | [Brigāžu maiņas](/AlchemyInsights/teams-shifts) | modificēta |
+| 4/18/2019 | [8000011 atgūt svītrots e-pasts ir Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | modificēta |
