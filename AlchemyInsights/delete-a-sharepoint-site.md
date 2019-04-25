@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935608"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405631"
 ---
 # <a name="delete-a-sharepoint-site"></a>SharePoint vietnes dzēšana
 **Dzēst vietu no jauno SharePoint administrēšanas centru** Izmantojot jauno SharePoint administrēšanas centru, varat izdzēst klasiskās un mūsdienu vietām. Atlasiet **aktīvo vietnes**, atlasiet vietni, un pēc tam atlasiet **Dzēst**. [Skatīt un atjaunot dzēsuši jaunu SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izvēlieties **dzēsuši**. Lai iegūtu vairāk informācijas, skatiet [izdzēst vietni jaunā SharePoint administrēšanas centrā](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
