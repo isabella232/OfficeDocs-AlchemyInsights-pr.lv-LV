@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: 52d30b2058f3d070ab38ca57aca83eb3f8febfb4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915343"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404494"
 ---
-<span data-ttu-id="64398-102">"{AimKIObject}" nav redzama sarakstā grupas pēc {AimKITimeElapsed} minūtēm</span><span class="sxs-lookup"><span data-stu-id="64398-102">"{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
+<span data-ttu-id="bd44c-102">"{AimKIObject}" nav redzama sarakstā grupas pēc {AimKITimeElapsed} minūtēm</span><span class="sxs-lookup"><span data-stu-id="bd44c-102">"{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
 
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="64398-103">Adresātu grupas "{AimKIObject}" nav redzama sarakstā grupas pēc {AimKITimeElapsed} minūtēm</span><span class="sxs-lookup"><span data-stu-id="64398-103">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="bd44c-103">Adresātu grupas "{AimKIObject}" nav redzama sarakstā grupas pēc {AimKITimeElapsed} minūtēm</span><span class="sxs-lookup"><span data-stu-id="bd44c-103">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
 
-<span data-ttu-id="64398-p101">Jūsu grupa "{AimKIObject}" tika izveidota {AimKITimeElapsed} minūtes atpakaļ. Tas parasti nav nepieciešams ilgāks par 60 minūtēm jaunajai adresātu grupai ierasties administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="64398-p101">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago. It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
+<span data-ttu-id="bd44c-104">Jūsu grupa "{AimKIObject}" tika izveidota {AimKITimeElapsed} minūtes atpakaļ.</span><span class="sxs-lookup"><span data-stu-id="bd44c-104">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="bd44c-105">Tas parasti nav nepieciešams ilgāks par 60 minūtēm jaunajai adresātu grupai ierasties administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="bd44c-105">It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
   
-<span data-ttu-id="64398-106">Iespējams, varat izmantot adresātu -\> grupas līdzeklis [Exchange administratoru centrā](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) tagad pārvaldīt savas grupas vai izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri.</span><span class="sxs-lookup"><span data-stu-id="64398-106">You may be able to use the Recipients --\> Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
+<span data-ttu-id="bd44c-106">Iespējams, varat izmantot adresātu -\> grupas līdzeklis [Exchange administratoru centrā](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) tagad pārvaldīt savas grupas vai izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri.</span><span class="sxs-lookup"><span data-stu-id="bd44c-106">You may be able to use the Recipients --\> Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
   
 
