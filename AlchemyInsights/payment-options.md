@@ -1,5 +1,5 @@
 ---
-title: Maksājumu opcijas
+title: Maksāšanas iespējas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,36 +11,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404754"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372639"
 ---
-# <a name="payment-options"></a>Maksājumu opcijas
+# <a name="payment-options"></a>Maksāšanas iespējas
 
- **Maksājumu opcijas**
+ **Maksāšanas iespējas**
   
-Kredītkaršu un bankas kontu (tiešo debetu) rēķina (maksāt ar čeku vai elektronisko naudas pārsūtīšana)
+Kredītkarte, bankas konts (tiešais debets) un rēķins (apmaksa ar čeku vai elektronisko līdzekļu pārskaitījumu)
   
- **Apmaksai, kredītkaršu un bankas kontu**
+ **Apmaksa ar kredītkarti un bankas kontu**
   
-Kad jūs maksājat ar kredītkarti vai bankas konta, jums būs automātiski jāmaksā jūsu abonementam dienas pēc rēķina datuma, līdz abonementa derīguma termiņa beigām. Jūs varat [atjaunināt jūsu kredītkartes vai bankas konta informāciju](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) ikreiz, kad tas ir nepieciešams. Jūs varat arī [saņemt kopiju no jūsu rēķinu pa e-pastu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+Maksājot ar kredītkarti vai bankas kontu, jums tiks automātiski piemērota maksa par abonementu dienu pēc rēķina saņemšanas datuma līdz abonementa termiņa beigām. Varat [atjaunināt kredītkartes vai bankas konta informāciju](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide), kad tas nepieciešams. Varat arī izvēlēties [Saņemt rēķina paziņojuma kopiju kā e-pasta ziņojumu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Ja jūsu kredītkarti ir samazinājies vai ir nokavēts bilance, jūs varat izvēlēties **Maksāt tagad** par **norēķinu** \> [abonēšanas](https://portal.office.com/adminportal/home#/subscriptions) lapā. 
+Ja kredītkarte tiek noraidīta vai kāda nenomaksāta summa, lapā **norēķini** \> [Abonementi](https://portal.office.com/adminportal/home#/subscriptions) varat izvēlēties opciju **Maksāt tūlīt**. 
   
- **Maksāt ar rēķinu (izvēles vai elektronisko naudas pārskaitījumu)**
+ **Apmaksa ar rēķinu (čeks vai elektronisko līdzekļu pārskaitījums)**
   
-Ja abonements maksā pār konkrētu (šo summu, ir atkarīgs no pakalpojumu sniegšanas vietu) naudas summu, jums ir iespēja norēķināties ar rēķina, izmantojot izvēles vai EFT. Kredīta pārbaudes var prasīt lielāku rēķinu maksājumiem. Ja kredīta pārbaude ir nepieciešama, jūs saņemsiet paziņojumu, kad jūs iegādāties abonementu. Un, ja jūs piekrītat, lai ar tām varētu sazināties, jūs saņemsiet e-pastu, kas ietver plašāku informāciju par pieteikšanos, kredīta apstiprināšanas. Kredīta pārbaudes parasti tiek pabeigta divu darba dienu laikā.
+Ja jūsu abonementa cena pārsniedz noteiktu summu (šī summa ir atkarīga no pakalpojuma sniegšanas vietas), tiks piedāvāts apmaksāt rēķinu ar čeku vai pārskaitījumu. Lielāku rēķina maksājumu veikšanai var būt nepieciešama kredīta pārbaude. Ja nepieciešama kredīta pārbaude, tiksit par to informēts, kad iegādāsities savu abonementu. Turklāt, ja piekrītat, ka ar jums sazinās, saņemsit e-pasta ziņojumu, kurā ir iekļauta papildinformācija par pieteikšanos kredīta apstiprināšanai. Kredīta pārbaudes parasti tiek pabeigtas divu darba dienu laikā.
   
-Ja jūs maksājat pēc rēķina abonementu, jūs saņemsiet e-pastu, kas saka, ka jūsu rēķinu ir gatavi skatīšanai. Šis e-pasts nesatur jūsu rēķinu kopijas. Tomēr jūs varat arī [saņemt kopiju no jūsu rēķinu pa e-pastu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Jūsu norēķinu konta paziņojumā ietver informāciju par maksājuma veikšanas iespējas. Ievadot pirkšanas pasūtījumu (PP) numuru, iegādājoties abonementu, numurs ir norādīts uz savu rēķinu. Informāciju par piekļūšanu rēķinu samaksas pārskatus, skatiet [rēķinu vai rēķinu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+Ja maksājat par abonementu, izmantojot rēķinu, saņemsit e-pasta ziņojumu, kurā norādīts, ka varat skatīt rēķina paziņojumu. Šajā e-pasta ziņojumā nav iekļauta rēķina paziņojuma kopija. Taču varat arī izvēlēties [Saņemt rēķina paziņojuma kopiju kā e-pasta ziņojumu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Jūsu rēķina paziņojumā iekļauta detalizēta informācija par maksāšanas iespējām. Ja ievadāt pirkšanas pasūtījuma numuru, iegādājoties abonementu, šis numurs ir redzams rēķina paziņojumā. Informāciju par to, kā piekļūt rēķina paziņojumiem, skatiet rakstā [Rēķina skatīšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Mainīt, cik jūs maksājat**
+ **Maksāšanas veida maiņa**
   
-Ja jūs vēlaties mainīt, cik jūs maksājat par esošo abonementu, izpildiet instrukcijas [šeit](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Ja vēlaties mainīt pašreizējā abonementa apmaksas veidu, izpildiet [šeit](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide) sniegtos norādījumus.
   
- **Papildus info**
+ **Papildinformācija**
   
-[Maksāt par jūsu Office 365 biznesa parakstīšanās](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Maksāšana par savu Office 365 darbam abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

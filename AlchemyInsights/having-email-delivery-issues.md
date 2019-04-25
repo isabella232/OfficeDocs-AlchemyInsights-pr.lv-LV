@@ -1,5 +1,5 @@
 ---
-title: E-pasta piegādes problēmas?
+title: Vai radās problēmas ar e-pasta nosūtīšanu?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
 ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405438"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400508"
 ---
-# <a name="having-email-delivery-issues"></a>E-pasta piegādes problēmas?
+# <a name="having-email-delivery-issues"></a>Vai radās problēmas ar e-pasta nosūtīšanu?
 
-Ir atklāts, ka lietotāji nevar saņemt e-pastu nosūtīja šādus domain(s):
+Esam noteikuši, ka jūsu lietotāji nevar saņemt e-pasta ziņojumus, kas nosūtīti uz šādiem domēniem:
   
 {HealthCheckString}
   
-E-pasta piegādei uz Office 365 pakalpojums (DNS) domēna iestatījumi NS vai MX ieraksti nav pareizi konfigurēts. Jūs varat atsaukties uz [atjaunināt DNS ierakstu programmā Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) detalizētas instrukcijas. 
+Domēna (DNS) iestatījumu NS vai MX ieraksti nav pareizi konfigurēti, lai piegādātu e-pasta ziņojumus jūsu pakalpojumam Office 365. Detalizētus norādījumus skatiet rakstā [DNS ierakstu atjaunināšana pakalpojumā Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Salabot, lūdzu, dodieties uz [Domains](https://admin.microsoft.com/adminportal/home#/Domains) lapā Microsoft 365 administrēšanas centrā, un mēs jums palīdzēsim ar to. 
+Lai novērstu šo problēmu, atveriet [domēnu](https://admin.microsoft.com/adminportal/home#/Domains) lapu Microsoft 365 administrēšanas centrā, un mēs jums palīdzēsim. 
   
-[Pārbaudīt FAQ domēni](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) , citiem kopīgiem risinājumiem. 
+Citus vispārējus risinājumus skatiet [bieži uzdotajos jautājumos par domēniem](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 
