@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767435"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400030"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Kā pievienot vai samazināt licences
 
 Lūk, kā noņemt vai_ar ī jāiegādājas papildu licences.
   
-1. Admin Center, dodieties uz [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu** \> **abonementu**.
+1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
     
 2. Kreisajā pusē izvēlieties abonēšanas, no kuriem jūs vēlaties pievienot vai noņemt licences
     
