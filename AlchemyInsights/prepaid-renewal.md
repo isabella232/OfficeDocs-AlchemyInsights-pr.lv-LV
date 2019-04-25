@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: 2ebf127b0c66b34e2a9cc492542c48e2f854c3c9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767075"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371883"
 ---
 # <a name="prepaid-renewal"></a>Priekšapmaksas atjaunošanas
 
-1. Admin Center, dodieties uz [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu** \> **abonementu**.
+1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
     
 2. Izvēlas priekšapmaksas abonementu, jūs vēlētos, lai paplašinātu un pēc tam noklikšķiniet uz **paplašināt**.
     

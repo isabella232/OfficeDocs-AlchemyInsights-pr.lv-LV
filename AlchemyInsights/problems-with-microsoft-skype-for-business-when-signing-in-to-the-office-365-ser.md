@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Ja rodas problēmas ar pierakstīšanos uz Skype uzņēmējdarbībai, var novērst ar atbalstu un piedziņas asistentu (SaRA). Šis rīks palīdz automātiski noteikt un izlabot zināmas problēmas, iesaistot pierakstīšanās Skype biznesa klāstu.
 ms.openlocfilehash: a081cc87071e678eb70531249da84c1fc0443717
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905371"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372675"
 ---
 Ja rodas problēmas ar pierakstīšanos uz Skype uzņēmējdarbībai, var novērst ar atbalstu un piedziņas asistentu (SaRA). Šis rīks palīdz automātiski noteikt un izlabot zināmas problēmas, iesaistot pierakstīšanās Skype biznesa klāstu.
   
