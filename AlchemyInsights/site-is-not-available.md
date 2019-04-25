@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
 ms.openlocfilehash: 95911bd58f39ff45e68313a18f167e8ba91b0070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911599"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370190"
 ---
-# <a name="site-is-not-available"></a><span data-ttu-id="4f770-102">Vietne nav pieejama</span><span class="sxs-lookup"><span data-stu-id="4f770-102">Site is not available</span></span>
+# <a name="site-is-not-available"></a><span data-ttu-id="d1239-102">Vietne nav pieejama</span><span class="sxs-lookup"><span data-stu-id="d1239-102">Site is not available</span></span>
 
-<span data-ttu-id="4f770-p101">Ja jūsu SharePoint vai OneDrive vietā nav pieejams vairākiem lietotājiem, var būt pagaidu pakalpojumu jautājums. Pārbaudiet[Pakalpojumu veselības Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) redzēt, ja jūsu īrnieks ir ietekmētas.</span><span class="sxs-lookup"><span data-stu-id="4f770-p101">If your SharePoint or OneDrive site is not available to multiple users, there may be a temporary service issue. Check the[Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your tenant is impacted.</span></span> 
+<span data-ttu-id="d1239-103">Ja jūsu SharePoint vai OneDrive vietā nav pieejams vairākiem lietotājiem, var būt pagaidu pakalpojumu jautājums.</span><span class="sxs-lookup"><span data-stu-id="d1239-103">If your SharePoint or OneDrive site is not available to multiple users, there may be a temporary service issue.</span></span> <span data-ttu-id="d1239-104">Pārbaudiet[Pakalpojumu veselības Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) redzēt, ja jūsu īrnieks ir ietekmētas.</span><span class="sxs-lookup"><span data-stu-id="d1239-104">Check the[Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your tenant is impacted.</span></span> 
   
 
