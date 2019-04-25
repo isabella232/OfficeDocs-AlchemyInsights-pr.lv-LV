@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
 ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762323"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423514"
 ---
 # <a name="update-dns-records"></a>DNS ierakstu atjaunināšana
 Lai jūsu Office 365 abonements darbotos ar jūsu pielāgoto domēna nosaukumu, ir svarīgi iestatīt DNS ierakstus. Izmantojiet tālāk norādītās saites, lai pievienotu vai atjauninātu DNS ierakstus.
