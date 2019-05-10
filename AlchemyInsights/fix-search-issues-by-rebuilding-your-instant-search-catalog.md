@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401191"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867945"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Noteikt meklēšanas jautājumiem pēc pārbūves tūlītējās meklēšanas katalogs
+# <a name="troubleshoot-search-issues"></a>Meklēšanas problēmu novēršana
 
-1. Aizveriet programmu Outlook un atveriet **Vadības paneli**.
-    
-    > [!NOTE]
-    > Atkarībā no lietotās Office versijas, iespējams, vajadzēs noklikšķiniet uz pogas **Sākt** un izvēlnes **Sākt** , ar peles labo pogu noklikšķiniet uz **Vadības panelis**. 
-  
-2. Veiciet vienu no šīm darbībām:
-    
-  - **Indeksēšanas opcijas**izvēle
-    
-  - **Meklēšanas** lodziņā ierakstiet *indeksēšanas* un pēc tam izvēlieties **Indeksēšanas opcijas**.
-    
-3. **Indeksētajās vietās** dialoglodziņa sadaļā **Mainīt atlasītās atrašanās vietas**, atzīmējiet izvēles rūtiņu blakus atrašanās vietu, kuru vēlaties modificēt, un pēc tam noklikšķiniet uz **Labi**.
-    
-4. Dialoglodziņā **Papildu opcijas** cilnes **Indeksa iestatījumi** sadaļā **problēmu novēršana**, noklikšķiniet uz **atjaunot**.
-    
-    > [!NOTE]
-    > **Atjaunot indeksā** dialoglodziņš brīdinājums, kas atver "indekss var aizņemt ilgu laiku." Izvēlieties **Labi** , lai sāktu atjaunot indeksu. 
-  
-Plašāku informāciju skatiet zināmo problēmu [meklēšanai nav rezultātu, POP/IMAP kontiem](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Ja tev rodas problēmas ar meklēšanas, lūdzu skatīt zemāk saites uz problēmu novēršanas palīdzība.
 
+Šie ir visbiežāk sastopamie jautājumi, un ir laba vieta, kur sākt:
+- [Programma Outlook meklēšana neatgriež nekādus rezultātus](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Programmas Outlook meklēšanas atgriež rezultātus, nepilnīga](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Programmas Outlook meklēšanas nevar atrast vecāku e-pastus](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Mazāk vispārējās problēmas iespējamos risinājumus, ir atrodams šeit:
+- [Tikai Outlook 2016: cilnes meklēšana ir pelēkots](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Koplietota pastkaste: Problēmas ar meklēšanas rezultātiem](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Kļūda: Meklēšanas veiktspēja netiks ietekmētas, jo radusies problēma ar to, kā Outlook ir konfigurēts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Meklēšanas mapes rādīt negaidīti PersonMetadata vienumus, kuros nav tēmas](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
