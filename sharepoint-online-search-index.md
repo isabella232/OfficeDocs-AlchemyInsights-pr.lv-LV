@@ -1,0 +1,22 @@
+---
+title: Pārvaldīt meklēšanas vārdnīcas SharePoint Online
+ms.author: kirks
+author: Techwriter40
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
+ms.openlocfilehash: 4b51c6d44940c1a65ecf93a149430f05882452ba
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34715358"
+---
+# <a name="search-in-sharepoint-online"></a>Meklēt SharePoint tiešsaistē
+
+<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black; background: white;">Saturs pārmeklēts un pievienoti lietotāji atrast to, ko viņi meklē ar SharePoint Online meklēšanas indekss. Tiek automātiski pārmeklēts saturs balstoties uz iepriekš definētajiem pārmeklēšanas grafiku (pārmeklēšanas grafiku nevar mainīt). Kāpurķēžu paceļ saturu, kas mainīts, kopš pēdējās pārmeklēšanas un atjaunina indekss.</span> Lai nodrošinātu saturs tiek pārmeklēts un indekss tiek atjaunināts, izpildiet tālāk norādītās darbības.</p> <ol style="margin-top: 0in;" start="1" type="1"> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;">Pārliecinieties, ka saturs var atrast, veicot meklēšanu vietnes satura. Lai iegūtu vairāk informācijas, skatiet <a href="https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable">iespējot satura vietnē ir meklējams</a>. <br /><br /></span></li> <li style="color: black; ; font-size: 11pt; font-style: normal; font-weight: 400; margin-left: 0in;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: white;"><span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Mainoties pārvaldīto rekvizītu vai mainot pārmeklētā un pārvaldīto rekvizītu kartēšana, <strong>vietā ir jāpārmeklē vēlreiz</strong> , pirms izmaiņas tiks atspoguļotas meklēšanas indeksā. <span style="display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">, Jo izmaiņas veiktas meklēšanas shēmas un ne uz faktisko lapā, kāpurķēžu būs netiek automātiski atkārtoti indeksēt vietni.</span> </span> </span> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: windowtext;">Iegūtu vairāk informācijas, skatiet <a href="https://docs.microsoft.com/en-us/sharepoint/crawl-site-content">manuāli pieprasīt pārmeklēšanas un indeksēšanas atkārtoti, vietni, bibliotēku vai sarakstu</a>.&nbsp;<br /><br /></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Piezīme:</span> </strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"> gaidīt vismaz 24 stundas pēc tam, kad manuāli pieprasīt pārmeklēšanas un pilnu Pārindeksēt redzēt, ja joprojām rodas jautājums. <span style="color: black; background: white;">Ja ilgāk par 24 stundām, ir pagājuši, kopš esat sācis rāpot un pilnu Pārindeksēt, lūdzu, piesakieties atbalsta gadījumu. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.<br /><br /></span></span><strong style="mso-bidi-font-weight: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Svarīgi:</span></strong> <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">, Ja vietne, dokumentu (bibliotēka) vai saraksts tika izdzēsts un joprojām rāda meklēšanas rezultātus, lietotājiem vajadzētu saņemt kļūda 404 fails nav atrasts mēģinot piekļūt. Šis jautājums būtu pieteicies kā atbalsta gadījumā turpmākas izmeklēšanas veikšanai. </span></li> </ol>
+
+
+
