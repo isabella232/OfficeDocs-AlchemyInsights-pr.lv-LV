@@ -1,24 +1,26 @@
 ---
-title: 8000048 nevar atlasīt kontaktpersonas, sastādot e-pastu Outlook.com
+title: Nevar atlasīt kontaktpersonas, sastādot e-pastu Outlook.com
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000048
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 1ff45a8f7e3f774864050f091604e896ecacc596
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000048"
+- "818"
+- "879"
+- "880"
+ms.openlocfilehash: 4353fc8c043524f15b24e1949bed47d1ad1c5023
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32395588"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34703125"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="6f0f8-102">Nevar atlasīt kontaktpersonas, sastādot e-pasta</span><span class="sxs-lookup"><span data-stu-id="6f0f8-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="9082c-102">Nevar atlasīt kontaktpersonas, sastādot e-pasta</span><span class="sxs-lookup"><span data-stu-id="9082c-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="6f0f8-103">Sastādot jaunu e-pastu un noklikšķinot uz pogas **kam** vai **kopija** , daži klienti, iespējams, neredzēsiet savu kontaktpersonu sarakstu.</span><span class="sxs-lookup"><span data-stu-id="6f0f8-103">When composing a new email and clicking the **To** or **Cc** buttons, some customers might not see their list of contacts.</span></span> <span data-ttu-id="6f0f8-104">Lai atlasītu nosaukumus, sāciet rakstīt, **lai** vai **Cc** laukos un saistītās kontaktpersonas tiks rādīti.</span><span class="sxs-lookup"><span data-stu-id="6f0f8-104">To select names, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span> 
-  
-
+<span data-ttu-id="9082c-103">Sastādot jaunu e-pastu, daži klienti neredzu to kontaktu sarakstu, noklikšķinot uz pogas **kam** vai **kopija** .</span><span class="sxs-lookup"><span data-stu-id="9082c-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="9082c-104">Atlasiet kontaktpersonu, sāciet rakstīt **ar** vai **Cc** laukos un saistītās kontaktpersonas tiks parādītas.</span><span class="sxs-lookup"><span data-stu-id="9082c-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
