@@ -1,23 +1,23 @@
 ---
-title: Nocirstas migrāciju uz Office 365
+title: Pārslēgšanas migrācija uz pakalpojumu Office 365
 ms.author: dstrome
 author: dstrome
-manager: serdars
+manager: dansimp
 ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: a48304c7f654af5b040c0b8ce8b78c7f25a35f7d
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 00ea61d7931c6016fa1e1019a1cc83bf78ff8f58
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405258"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753142"
 ---
-# <a name="cutover-migrations-to-office-365"></a>Nocirstas migrāciju uz Office 365
+# <a name="cutover-migrations-to-office-365"></a>Pārslēgšanas migrācija uz pakalpojumu Office 365
 
-Kad reģistrējaties Office 365, lietotāju pastkastu saturu no lokālā Exchange organizācija var migrēt uz Office 365. Ja jums tas viss vienā reizē, tā saukto nocirstas migrāciju. Nocirstas migrācija varētu būt piemērots tieši jums, ja jums darbojas Exchange atbalstītā versija un ir mazāk nekā 2000 pastkastēm. Lai uzzinātu vairāk par nocirstas migrāciju, ieskatieties: [Cutover migrācija uz Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
+Reģistrējoties pakalpojumam Office 365, varat migrēt lietotāju pastkastu saturu no lokālās Exchange organizācijas uz pakalpojumu Office 365. Veicot visas šīs darbības vienlaikus, tā tiek dēvēta par pārslēgšanas migrāciju. Pārslēgšanas migrācija varētu būt jums piemērota, ja izmantojat atbalstītu Exchange versiju un jums ir mazāk par 2000 pastkastēm. Lai iegūtu papildinformāciju par pārslēgšanas migrāciju, skatiet: [Pārslēgšanas migrācija uz pakalpojumu Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
   
 
