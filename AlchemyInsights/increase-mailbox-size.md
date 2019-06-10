@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412497"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769902"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Slēdzis plāno palielināt pastkastes lielumu
 
@@ -34,4 +34,4 @@ Ja pastkastes lielums ir 50 GB, var palielināt tā 100GB, pārejot uz [Office 3
     
 Lai iegūtu sīkāku informāciju, skatiet sadaļā [Pārslēgšanās uz citu Office 365 plānu](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Ja jums ir [O365 plāns, kas nodrošina In-place Arhīvs](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), jūs varat arī saņemt papildu e-pasta glabāšanas, ļaujot arhīva pastkasti.  Arhīvs pastkastes dod jums papildu uzglabāšanas un ļauj pārvietot, kopēt un meklēt ziņojumus gan primārajā, gan arhīva pastkastes. Soļus, ļaujot arhīva pastkasti, skatiet [Iespējot arhīva pastkastes](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Ja jums ir [O365 plāns, kas nodrošina In-place Arhīvs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), jūs varat arī saņemt papildu e-pasta glabāšanas, ļaujot arhīva pastkasti.  Arhīvs pastkastes dod jums papildu uzglabāšanas un ļauj pārvietot, kopēt un meklēt ziņojumus gan primārajā, gan arhīva pastkastes. Soļus, ļaujot arhīva pastkasti, skatiet [Iespējot arhīva pastkastes](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

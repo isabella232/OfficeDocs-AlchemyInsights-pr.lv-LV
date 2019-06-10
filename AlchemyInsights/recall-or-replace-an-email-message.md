@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096558"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770815"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Atsauktu vai aizstātu e-pasta ziņojumu
 
@@ -36,7 +36,7 @@ Lai iegūtu vairāk informācijas, tai skaitā pārbaudīt atsaukšanu, skatiet 
 
 ***Meklēt un dzēst e-pasta ziņojumus savā uzņēmumā*** Meklēt un dzēst e-pasta ziņojumus savā uzņēmumā, tas ir vieglākais, ja tu esi pasaules admin. Ja jūs neesat globālās administrēšanas, jūsu kontā jābūt pievienotiem eDiscovery Manager lomu grupai vai meklēt atbilstības pārvaldības lomu. Lai izdzēstu ziņas, jums pievienoties uzņēmuma pārvaldības lomu grupas vai meklēšanas un iztīrīs pārvaldības lomu. Tiesības piešķirt šiem posteņiem tiek piešķirtas [drošības & atbilstības centrā](https://protection.office.com/).
 
-1. [Izveidošana satura meklēšanu](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) , lai atrastu ziņai un izdzēsiet.
-2. [Drošības & Center izpildes PowerShell savienojumu](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Izveidošana satura meklēšanu](https://docs.microsoft.com/office365/securitycompliance/content-search) , lai atrastu ziņai un izdzēsiet.
+2. [Drošības & Center izpildes PowerShell savienojumu](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ja jūs izmantojat MFA, skatiet [Office 365 drošības & atbilstības centrā PowerShell savienojuma izveidei, izmantojot vairāku faktoru autentifikaciju](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ja jūs izmantojat MFA, skatiet [Office 365 drošības & atbilstības centrā PowerShell savienojuma izveidei, izmantojot vairāku faktoru autentifikaciju](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
