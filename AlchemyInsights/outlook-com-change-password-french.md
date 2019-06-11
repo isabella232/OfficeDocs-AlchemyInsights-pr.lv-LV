@@ -1,26 +1,29 @@
 ---
-title: 8000075 Outlook.com paroles maiņa - franču
+title: Outlook.com paroles maiņa - franču
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388460"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820191"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Mainītājs jūsu mot de pabalējis dans Outlook.com
 
 Jūsu mot de pabalējis Outlook.com est le même que jūsu mot de pabalējis pārskata Microsoft.
 
-1. Accédez ą [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **modifikators le mot de pabalējis**.
+1. Accédez ą [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de pabalējis**.
 2. Nominālvērtības attiecībā de sécurité, vous pouvez être invité à confirmer jūsu identité ą l'aide d'un kods de sécurité.
 3. Entrez jūsu mot de pabalējis actuel, jūsu nouveau mot de pabalējis, puis sélectionnez **Enregistrer**.
 
