@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753714"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199280"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Izveidojiet SharePoint vietnes, izmantojot veidnes
 
@@ -31,7 +31,7 @@ Administratoriem būs nepieciešams pielāgots skripts ļauj iespējot veidnes l
 
 - Saglabāt vietni kā veidni komanda netiek atbalstīta, un var radīt problēmas uz vietām, kas izmanto SharePoint Server publicēšanas infrastruktūru.
 
-Vietnes veidne nevar izveidot vai nedarbojas pareizi.
+**Vietnes veidne nevar izveidot vai nedarbojas pareizi**
 
 Veidni var trūkt [līdzekli](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) un nevar aktivizēt. Ja šī funkcija nav pieejama, lai aktivizētu vietņu kolekcijā, vietnes veidne nevar izmantot, lai izveidotu vietni.
 

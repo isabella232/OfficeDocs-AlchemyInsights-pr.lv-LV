@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709023"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957387"
 ---
 # <a name="print-email-and-calendars"></a>Drukāt e-pastu un kalendāru
 
 Drukāt e-pasta ziņojumu:
   
 1. Atlasiet ziņojumu, kuru vēlaties drukāt.
-1. Virs lasīšanas rūts, atlasiet trīs punkti un pēc tam **Drukāt**.
+1. Ziņojuma augšējā labajā stūrī, izvēlieties daudzpunkti un pēc tam izvēlieties **Drukāt**.
 
 Kalendāra drukāšana
 

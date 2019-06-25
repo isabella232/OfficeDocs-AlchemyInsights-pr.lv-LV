@@ -1,35 +1,33 @@
 ---
-title: 8000035, taisīt jaunu Outlook.com izskatīties kā veco
+title: Kā veikt veco jauno Outlook.com izskatās
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409409"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117620"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kā padarīt jauno Outlook.com izskatīties kā veco versiju
 
-Šeit ir daži iestatījumi un veikt jaunu Outlook.com izskatīties kā veco versiju var mainīt viedokli.
+Piedāvājam dažus iestatījumus var mainīt veikt jaunu Outlook.com izskatīties kā veco versiju:
 
-1. Atlasiet rīku ikona atvērt iestatījumu lapas augšdaļā.
-2. Atlasiet vēlamo **dizainu**.
-3. Mainīt **skatu saruna** **jaunākās ziņas uz augšu**.
-4. Mainīt **lasīšanas rūts** **paslēpšana**.
-5. **Mērķtiecīgs iesūtnē** , pārslēdzieties uz **Off**.
-6. Pārslēdzieties uz **Off** **sūtītājam attēls** . 
-7. **Grupēt ziņojumus pēc datuma** , pārslēdzieties uz **Off**. 
-8. Pārslēdzieties uz **izslēgt** **pielikumu priekšskatītāju** . 
-9. Pārslēdzieties uz **uz** **teksta ziņojuma priekšskatījumā** .
+1. Pāriet uz [izkārtojuma iestatījumus](https://outlook.live.com/mail/options/mail/layout).
+1. Zem **mērķtiecīgi iesūtnes**, atlasiet **nav kārtot maniem vēstījumiem**.
+1. Saskaņā ar **ziņu organizācijas**, atlasiet **jaunākās ziņas uz augšu**.
+1. Atbilstoši **sūtītājam attēls**, atlasiet **Nerādīt attēlus sūtītājs**.
+1. Zem **lasīšanas rūts**atzīmējiet **Paslēpt lasīšanas rūti**.
+1. Zem **teksta ziņojuma priekšskatījumā**izvēlieties **Rādīt teksta priekšskatījumā**.
+1. Zem **iekļautās priekšskatījumi**, atlasiet **Nerādīt ziņojumu saraksta pielikumus**.
 
-Piezīme: Šie ir tikai daži ieteicamos iestatījumus, kas var nodrošināt tuvāko iespējamo izkārtojumu uz klasisko versiju Outlook.com. Tā joprojām būs atkarīga vēlamos iestatījumus.
-
-Lai mainītu jūsu e-pasta iestatījumi, lai iesūtnē izskatās un uzvedas tā, kā jūs vēlaties, lai redzētu [personalizēt savu jauno pasta pieredzi Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Mainīt jūsu e-pasta iestatījumi, lai iesūtnē izskatās un uzvedas tā, kā jūs to vēlaties, skatiet [mainīt izskatu jūsu pastkastes Outlook.com un jaunu Outlook Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

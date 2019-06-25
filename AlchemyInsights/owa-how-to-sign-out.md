@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643498"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273612"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>ĢKā izrakstītos no Outlook Web
 
-1. Atlasītu vārdu vai attēlu augšējā labajā stūrī.
-    
-    Ja neredzat attēlu ekrāna augšdaļā, pārbaudiet, vai ir ieslēgta reklāmu bloķēšanu. Dažreiz tas novērš attēla rādīšanu.
-    
-2. Izvēlieties **Izrakstīties**. 
-    
-    Pārtraukt automātiski pierakstīties jūsu darba vai skolas konts, neatķeksējiet kastē **turēt man uzdāvināja dāvanu sunim Patriks Gabrieri Li** lapā, kur jāievada parole. 
-    
+Lai izrakstītos no Outlook Web, atlasiet vārdu vai attēlu augšējā labajā stūrī un **Izrakstīties**.
+
+Pārtraukt automātiski pierakstīties uz darbu vai skolu kontu:
+
+1. Atlasiet vārdu vai attēlu un **Izrakstīties**.
+1. Dodieties uz [Outlook.office.com](https://outlook.office.com/) un atlasiet **lietot citu kontu**.
+1. Pierakstīties ar e-pasta adresi, kuru vēlaties izmantot.
+
 Lai uzzinātu vairāk, skatiet [kā pierakstīties uz, vai no Outlook Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
