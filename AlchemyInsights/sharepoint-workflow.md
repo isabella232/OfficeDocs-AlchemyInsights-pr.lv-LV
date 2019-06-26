@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 299a31719696778d66afc4f1c4f9b7c3ff3970f3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e083431df1a86aad3d428901754f8150f5059b45
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758072"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223179"
 ---
 # <a name="workflows-in-sharepoint"></a>Darbplūsmas, koplietošanas vidē SharePoint
 
 SharePoint darbplūsmas ir ieprogrammēta pieteikumus, kas racionalizēt un automatizēt dažādas biznesa procesus. Darbplūsmas var svārstīties no kolektīvā parakstiem, atsauksmi vai apstiprinājumus par plānu vai dokumentu, uz kārtējo procedūru pašreizējā statusa izsekošana.
 
-Darba sākšana: Ja jūs esat tikai iesākumam ar SharePoint darbplūsmām, skatiet [saiti Introduction to SharePoint darbplūsmas, lai iegūtu vairāk informācijas](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+**Ievads:** Ja jūs esat tikai iesākumam ar SharePoint darbplūsmām, skatiet [saiti Introduction to SharePoint darbplūsmas, lai iegūtu vairāk informācijas](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
 **Microsoft plūsmas**: apsveriet iespēju izmantot nevis klasisko SharePoint darbplūsmas risinājumus Microsoft Flow. Lai iegūtu vairāk informācijas, skatiet [Create sarakstā vai bibliotēkā no SharePoint Online vai OneDrive plūsma](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 

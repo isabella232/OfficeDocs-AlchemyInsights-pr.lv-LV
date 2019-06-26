@@ -1,5 +1,5 @@
 ---
-title: Atveriet SharePoint bibliotēkas failu pārlūks
+title: Problēmas, atverot failu no Sharepoint vai OneDrive
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: a67fdd7e44ed5651135443b68998a3c61886d133
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 58ee71bfc802bdd6fe1f1d892399dff4f71641fe
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762194"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223683"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint--onedrive"></a>Atvērt Office failus un dokumentus no SharePoint & OneDrive
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problēmas, atverot failu no Sharepoint vai OneDrive 
+
 
 Ja jums ir problēmas, atverot Office failus un dokumentus no dokumentu bibliotēkas SharePoint vai OneDrive, šeit ir daži ieteikumi, lai palīdzētu jums noteikt tos.
 
