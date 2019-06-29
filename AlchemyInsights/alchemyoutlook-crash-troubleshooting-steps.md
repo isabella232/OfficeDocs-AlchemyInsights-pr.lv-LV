@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883134"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357576"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Programmas Outlook avāriju novēršana soļi
 
@@ -25,10 +27,9 @@ Ja jums ir problēmas Outlook darbvirsmas avāriju, jāsāk ar 3 veiciet tālāk
   
 1. solis: Izpētīt iespējamās problēmas, kas saistītas ar pievienojumprogrammas.
   
-2. solis: Remonts Outlook un skarto mašīnu palaist [atbalstu un palīgu atkopšanas rīks Outlook startup kļūdas novērst](https://aka.ms/SaRA-OutlookWontStart) . 
+2. solis: Remonts Outlook un skarto mašīnu palaist [atbalstu un palīgu atkopšanas rīks Outlook startup kļūdas novērst](https://aka.ms/SaRA-OutlookWontStart) .
   
-3. solis: Izveidojiet jaunu Outlook profilu vai [Outlook profila rīku](https://aka.ms/SaRA-OutlookSetupProfile) var palaist uz skarto mašīna. 
+3. solis: Izveidojiet jaunu Outlook profilu vai [Outlook profila rīku](https://aka.ms/SaRA-OutlookSetupProfile) var palaist uz skarto mašīna.
   
 Ja problēma radās pēc update nedarbojas iepriekš aprakstītās darbības, jums atgriezties uz iepriekšējo kompilāciju. Redzētu, [kā atgriešanos pie agrākām versijām Office 2013 vai Office 2016 noklikšķiniet uz palaist](https://support.microsoft.com/help/2770432).
   
-
