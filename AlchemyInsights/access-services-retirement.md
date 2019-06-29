@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769450"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359360"
 ---
 # <a name="access-services-retirement"></a>Piekļuves pakalpojumu pensijas
 
@@ -24,7 +27,7 @@ Sākot no jūnija 2019, mēs pieturas izveidi jaunās Access datu bāzēs, Share
 
 **Kas man jādara, lai sagatavotos šīs izmaiņas?**
 
-Mēs iesakām jums izveidot pārejas plānu, jūsu organizāciju Access web datu bāzēm. Admins var izmantot [SharePoint piekļuves app skeneris](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) iegūst piekļūt progr, ka vietas ir, izmantojot inventarizāciju. 
+Mēs iesakām jums izveidot pārejas plānu, jūsu organizāciju Access web datu bāzēm. Admins var izmantot [SharePoint piekļuves app skeneris](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) iegūst piekļūt progr, ka vietas ir, izmantojot inventarizāciju.
 
 Ir vairāki veidi, kā Access web datu bāzes datu migrēšana:
 
