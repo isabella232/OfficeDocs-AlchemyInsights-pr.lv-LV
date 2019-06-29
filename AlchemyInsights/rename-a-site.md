@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "977"
+- "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ca0d8b3181ea06a4e1ce9877843ed0eb5196b334
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388404"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370105"
 ---
-# <a name="rename-a-site"></a><span data-ttu-id="d9ecd-102">Pārdēvēt vietu</span><span class="sxs-lookup"><span data-stu-id="d9ecd-102">Rename a site</span></span>
+# <a name="rename-a-site"></a><span data-ttu-id="c81ee-102">Pārdēvēt vietu</span><span class="sxs-lookup"><span data-stu-id="c81ee-102">Rename a site</span></span>
 
-<span data-ttu-id="d9ecd-103">Mainīt vietnes nosaukumu, piemēram, no https://contoso.sharepoint.com/sites/sample1 uz https://contoso.sharepoint.com/sites/sample2, jums ir nepieciešams, lai izveidotu jaunu Web vietu un pēc tam pārvietojiet visu saturu no vecās vietnes uz jauno.</span><span class="sxs-lookup"><span data-stu-id="d9ecd-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="d9ecd-104">Info par vienumu pārvietošana dokumentu bibliotēkās, skatīt [pārvietot vai kopēt vienumus SharePoint dokumentu bibliotēkā](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="d9ecd-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
+<span data-ttu-id="c81ee-103">Mainīt vietnes nosaukumu, piemēram, no https://contoso.sharepoint.com/sites/sample1 uz https://contoso.sharepoint.com/sites/sample2, jums ir nepieciešams, lai izveidotu jaunu Web vietu un pēc tam pārvietojiet visu saturu no vecās vietnes uz jauno.</span><span class="sxs-lookup"><span data-stu-id="c81ee-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="c81ee-104">Info par vienumu pārvietošana dokumentu bibliotēkās, skatīt [pārvietot vai kopēt vienumus SharePoint dokumentu bibliotēkā](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="c81ee-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
   
-<span data-ttu-id="d9ecd-105">Piezīme: Ja jūs mēģināt mainīt SharePoint Online URL domēna nosaukumu (t.i., contoso daļu URL iepriekš), tas nav iespējams.</span><span class="sxs-lookup"><span data-stu-id="d9ecd-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="d9ecd-106">Skatīt, [mainīt savu domēnu](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="d9ecd-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
+<span data-ttu-id="c81ee-105">Piezīme: Ja jūs mēģināt mainīt SharePoint Online URL domēna nosaukumu (t.i., contoso daļu URL iepriekš), tas nav iespējams.</span><span class="sxs-lookup"><span data-stu-id="c81ee-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="c81ee-106">Skatīt, [mainīt savu domēnu](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="c81ee-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
   
-
