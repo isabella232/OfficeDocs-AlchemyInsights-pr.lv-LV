@@ -1,26 +1,34 @@
 ---
-title: Outlook.com pieturas ziņas no došanās uz liekpasta mapi
+title: Apturētu ziņojumu no došanās uz mapi Nevēlamais e-pasts Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373251"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371800"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a><span data-ttu-id="945aa-102">Apturētu ziņojumu iet uz mapi Nevēlamais e-pasts</span><span class="sxs-lookup"><span data-stu-id="945aa-102">Stop messages going to your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="bbaad-102">Apturētu ziņojumu no nevēlamā e-pasta mapi, kas</span><span class="sxs-lookup"><span data-stu-id="bbaad-102">Stop messages from going to your Junk Email folder</span></span>
 
-<span data-ttu-id="945aa-103">Ja jūs atklājat, ka e-pasta ziņojumu mapē Nevēlamais e-pasts nav surogātpasta vai nevēlamā:</span><span class="sxs-lookup"><span data-stu-id="945aa-103">If you discover that an email message in your Junk Email folder was not spam or junk:</span></span>
+<span data-ttu-id="bbaad-103">Ja jūs atklājat, ka nav nevēlamā e-pasta ziņojumu mapē Nevēlamais e-pasts:</span><span class="sxs-lookup"><span data-stu-id="bbaad-103">If you discover that an email message in your Junk Email folder isn't junk:</span></span>
 
-1. <span data-ttu-id="945aa-104">Atveriet jūsu [nevēlamā e-pasta mapes](https://outlook.live.com/mail/junkemail) un atlasiet ziņojumu.</span><span class="sxs-lookup"><span data-stu-id="945aa-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select the message.</span></span> <span data-ttu-id="945aa-105">(Nevēlamā e-pasta mapē esošie vienumi tiek izdzēsti pēc 30 dienām).</span><span class="sxs-lookup"><span data-stu-id="945aa-105">(Items in your Junk Email folder are deleted after 30 days.)</span></span>
-1. <span data-ttu-id="945aa-106">Virs ziņojuma saraksta, atzīmējiet **vajadzīgus** > **nav nevēlams**.</span><span class="sxs-lookup"><span data-stu-id="945aa-106">Above the message list, select **Not junk** > **Not junk**.</span></span>
-1. <span data-ttu-id="945aa-107">Atveriet jūsu [nevēlamā e-pasta uzstādījumus](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="945aa-107">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-1. <span data-ttu-id="945aa-108">Saskaņā ar **drošo sūtītāju**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot, un izvēlieties **Pievienot**.</span><span class="sxs-lookup"><span data-stu-id="945aa-108">Under **Safe senders**, enter the email address or domain you want to add, and select **Add**.</span></span> <span data-ttu-id="945aa-109">E-pasta adreses vai domēni ir drošo sūtītāju sarakstā nav pārvietoti uz mapi Nevēlamais e-pasts.</span><span class="sxs-lookup"><span data-stu-id="945aa-109">Email from addresses or domains on the safe senders list don't get moved to your Junk Email folder.</span></span>
+1. <span data-ttu-id="bbaad-104">Atveriet jūsu [nevēlamā e-pasta mapi](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="bbaad-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
+1. <span data-ttu-id="bbaad-105">Atlasiet ziņojumu.</span><span class="sxs-lookup"><span data-stu-id="bbaad-105">Select the message.</span></span> <span data-ttu-id="bbaad-106">(*Piezīme:* nevēlamā e-pasta mapē esošie vienumi tiek izdzēsti pēc 30 dienām.)</span><span class="sxs-lookup"><span data-stu-id="bbaad-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="bbaad-107">Virs ziņojuma saraksta, atzīmējiet **vajadzīgus** > **nav nevēlams**.</span><span class="sxs-lookup"><span data-stu-id="bbaad-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
+
+<span data-ttu-id="bbaad-108">Ja nevēlaties, lai visus ziņojumus no jūsu norādīta sūtītāja iet uz mapi Nevēlamais e-pasts, pievienot sūtītāju drošo sūtītāju sarakstam:</span><span class="sxs-lookup"><span data-stu-id="bbaad-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
+
+1. <span data-ttu-id="bbaad-109">Atveriet jūsu [nevēlamā e-pasta uzstādījumus](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="bbaad-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+1. <span data-ttu-id="bbaad-110">Saskaņā ar **drošo sūtītāju un domēniem**, izvēlieties **Pievienot**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot un izvēlieties **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="bbaad-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
+
+<span data-ttu-id="bbaad-111">Lai uzzinātu vairāk, izlasiet [atzīmēt e-pastu kā nevēlams vai bloķējiet sūtītāju Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="bbaad-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
