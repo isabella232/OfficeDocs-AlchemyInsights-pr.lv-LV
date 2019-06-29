@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 125
+ms.custom:
+- "125"
+- "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 87b682599fcedb1fb35a3c612de968c5aca9630b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62ddd64bf9e12c0b2acd35dfb09d301ab99cfa8a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400688"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386632"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Programmā Outlook Web kļūst nederīgs licences kļūda?
 
 Ja izmantojat Outlook Web un jums **kaut kas nogāja greizi** kļūda, kas satur **X OWA kļūda: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online licences nav pareizi piešķirtas vai nesen beidzies derīgums. Jūsu admin var piešķirt licenci jūs rīkojieties šādi:
   
 1. Atveriet [Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/homepage) un zem **aktīvos lietotājus**, atlasiet **Rediģēt lietotāju**.
-    
-2. **Rediģēt lietotāja** lapā, kas atveras, atlasiet lietotāju. Lietotāja rekvizītu lapā, kas atveras, par **produktu licencēm,** noklikšķiniet uz **Rediģēt** .
-    
-3. Atvērtajā lapā **produktu licencēm** izvēlieties atbilstošo **atrašanās vietu** vērtības un piešķirt licences, kas satur Exchange Online (paplašināt licences, lai redzētu tās detaļas). Kad esat beidzis, noklikšķiniet uz **Saglabāt**.
-    
 
+2. **Rediģēt lietotāja** lapā, kas atveras, atlasiet lietotāju. Lietotāja rekvizītu lapā, kas atveras, par **produktu licencēm,** noklikšķiniet uz **Rediģēt** .
+
+3. Atvērtajā lapā **produktu licencēm** izvēlieties atbilstošo **atrašanās vietu** vērtības un piešķirt licences, kas satur Exchange Online (paplašināt licences, lai redzētu tās detaļas). Kad esat beidzis, noklikšķiniet uz **Saglabāt**.
