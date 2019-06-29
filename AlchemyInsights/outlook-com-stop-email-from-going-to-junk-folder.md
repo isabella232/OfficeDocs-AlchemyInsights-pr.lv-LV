@@ -1,26 +1,34 @@
 ---
-title: Outlook.com pieturas ziņas no došanās uz liekpasta mapi
+title: Apturētu ziņojumu no došanās uz mapi Nevēlamais e-pasts Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373251"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371800"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Apturētu ziņojumu iet uz mapi Nevēlamais e-pasts
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Apturētu ziņojumu no nevēlamā e-pasta mapi, kas
 
-Ja jūs atklājat, ka e-pasta ziņojumu mapē Nevēlamais e-pasts nav surogātpasta vai nevēlamā:
+Ja jūs atklājat, ka nav nevēlamā e-pasta ziņojumu mapē Nevēlamais e-pasts:
 
-1. Atveriet jūsu [nevēlamā e-pasta mapes](https://outlook.live.com/mail/junkemail) un atlasiet ziņojumu. (Nevēlamā e-pasta mapē esošie vienumi tiek izdzēsti pēc 30 dienām).
+1. Atveriet jūsu [nevēlamā e-pasta mapi](https://outlook.live.com/mail/junkemail).
+1. Atlasiet ziņojumu. (*Piezīme:* nevēlamā e-pasta mapē esošie vienumi tiek izdzēsti pēc 30 dienām.)
 1. Virs ziņojuma saraksta, atzīmējiet **vajadzīgus** > **nav nevēlams**.
+
+Ja nevēlaties, lai visus ziņojumus no jūsu norādīta sūtītāja iet uz mapi Nevēlamais e-pasts, pievienot sūtītāju drošo sūtītāju sarakstam:
+
 1. Atveriet jūsu [nevēlamā e-pasta uzstādījumus](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Saskaņā ar **drošo sūtītāju**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot, un izvēlieties **Pievienot**. E-pasta adreses vai domēni ir drošo sūtītāju sarakstā nav pārvietoti uz mapi Nevēlamais e-pasts.
+1. Saskaņā ar **drošo sūtītāju un domēniem**, izvēlieties **Pievienot**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot un izvēlieties **Saglabāt**.
+
+Lai uzzinātu vairāk, izlasiet [atzīmēt e-pastu kā nevēlams vai bloķējiet sūtītāju Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

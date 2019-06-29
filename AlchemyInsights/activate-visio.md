@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883167"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358908"
 ---
 # <a name="activate-visio"></a>Aktivizēt Visio
 
@@ -27,8 +27,8 @@ Pirms lietotājs var instalēt un aktivizēt darbvirsmas Visio darbvirsmas app, 
 
 Lai aktivizētu Visio:
 
-1. [Jāinstalē Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) , ja tā jau nav instalēta.
-2. Kad instalēšana ir pabeigta, atveriet lietojumprogrammu Visio. Daudzos gadījumos app automātiski aktivizē un varat sākt lietot uzreiz Visio. Ja tiek prasīts, lai pierakstītos, noteikti pierakstīties, izmantojot vienu un to pašu darbu vai skolas konts, kas tika piešķirta licence Visio. 
+1. Jāinstalē Visio no [mana konta portālā](https://portal.office.com/account#installs) , ja tas jau nav instalēts. Palīdzību, skatiet [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Kad instalēšana ir pabeigta, atveriet Visio app. Visio automātiski visticamāk aktivizēs un jūs varat sākt lietot uzreiz. Ja tā nav, iespējams, tiks lūgts pierakstīties. Pārliecinieties, lai pierakstītos, izmantojot vienu un to pašu darbu vai skolas konts, kas tika piešķirta licence Visio. Sekojiet uzvednēm, lai turpinātu aktivizāciju. 
 
 Par aktivizācijas problēmas skarto datorā palaidiet [aktivizācijas problēmu risinātāju](https://aka.ms/SARA-OfficeActivation-Alchemy) .
 

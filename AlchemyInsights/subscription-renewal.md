@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "493"
+- "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370081"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354084"
 ---
 # <a name="subscription-recurring-billing"></a>Abonementa periodisku norēķinu
 
-Ja jūs vēlaties zināt, kad jūsu mēneša vai gada abonementu tiks nosūtīts rēķins (ja ir ieslēgts **periodisks norēķinu** ) vai beidzas (ja **norēķinu periodiski** tiek izslēgts): 
+Ja jūs vēlaties zināt, kad jūsu mēneša vai gada abonementu tiks nosūtīts rēķins (ja ir ieslēgts **periodisks norēķinu** ) vai beidzas (ja **norēķinu periodiski** tiek izslēgts):
   
 1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
-    
-2. Izvēlieties abonēšanas, ko vēlaties uzzināt vairāk par.
-    
-3. Abonementa kartes labajā pusē ir informācija par abonementa statusu, **periodiski norēķiniem** noteikšanu un nākamo rēķinu vai derīguma termiņa beigu datumu. 
-    
-4. Turpināt, izmantojot pakalpojumu garām šo datumu, pieslēdzieties **periodisks norēķinu iestatījumu** pārslēgšanas **uz**. Statuss rādīs nākamās norēķinu dienas abonementa.
-    
-5. Šajā datumā pārtraukt pakalpojumu, pieslēdzieties **periodisks norēķinu** pārslēgšanas **Off**. Statuss rādīt datumu abonementa derīguma termiņš ir beidzies.
-    
 
+2. Izvēlieties abonēšanas, ko vēlaties uzzināt vairāk par.
+
+3. Abonementa kartes labajā pusē ir informācija par abonementa statusu, **periodiski norēķiniem** noteikšanu un nākamo rēķinu vai derīguma termiņa beigu datumu.
+
+4. Turpināt, izmantojot pakalpojumu garām šo datumu, pieslēdzieties **periodisks norēķinu iestatījumu** pārslēgšanas **uz**. Statuss rādīs nākamās norēķinu dienas abonementa.
+
+5. Šajā datumā pārtraukt pakalpojumu, pieslēdzieties **periodisks norēķinu** pārslēgšanas **Off**. Statuss rādīt datumu abonementa derīguma termiņš ir beidzies.

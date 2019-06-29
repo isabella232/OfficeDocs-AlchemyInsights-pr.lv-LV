@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373323"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371440"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanu un meklēšanu eDiscovery
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373323"
 2. Noklikšķiniet uz **Search & izmeklēšanas > satura meklēšanu**.
 3. Noklikšķiniet uz **Jauna meklēšana** , lai izveidotu jaunu meklēšanu.
 4. Ievadiet nepieciešamo meklēšanas nosacījumus, tai skaitā atslēgvārdi un satura atrašanās vietu.  
-5. Noklikšķiniet uz **Saglabāt & palaist** vārdu meklēšanas, sākt to un pēc tam priekšskatīt rezultātus. 
- 
+5. Noklikšķiniet uz **Saglabāt & palaist** vārdu meklēšanas, sākt to un pēc tam priekšskatīt rezultātus.
+
 Detalizētas instrukcijas par izveidi meklējumiem un eksportēšanas rezultātus, skatiet [šajā rakstā](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **eDiscovery meklēšanu**

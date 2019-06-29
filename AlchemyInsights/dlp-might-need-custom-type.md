@@ -9,19 +9,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1647"
+- "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770323"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389692"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP, iespējams, ir pielāgota tipa
 
 Ar datu zaudējumu novēršanas (DLP) politiku, var identificēt un aizsargāt sensitīvus datus jūsu uzņēmumā. Dažos gadījumos, iespējams, vajadzēs izveidot savu **pielāgoto** konfidenciālas informācijas tipu, lai aizsargātu uzņēmuma datus.
 
-Piemēram, uzņēmumam vajadzēs identificēt un aizsargāt darbinieku ID vai citus datus, daži specifiski jūsu org. formātā Ja tas tā ir, skatiet tālāk esošajos rakstus plašāku informāciju. 
+Piemēram, uzņēmumam vajadzēs identificēt un aizsargāt darbinieku ID vai citus datus, daži specifiski jūsu org. formātā Ja tas tā ir, skatiet tālāk esošajos rakstus plašāku informāciju.
   
  **Pielāgotu iebūvēto konfidenciālas informācijas tipu**
   
@@ -29,10 +32,8 @@ Ja iebūvēto sensitīvu informāciju tipa tiksies ar tikai dažas tweaks jūsu 
   
  **Izveidot pielāgotu jutīgas informācijas tipu**
   
-Bet, ja nepieciešams identificēt un aizsargāt sensitīvu informāciju cita veida vispār, jūs varat [izveidot pielāgotu jutīgas informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) UI & drošības atbilstības centrā. 
+Bet, ja nepieciešams identificēt un aizsargāt sensitīvu informāciju cita veida vispār, jūs varat [izveidot pielāgotu jutīgas informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) UI & drošības atbilstības centrā.
   
 **Izveidotu pielāgotu sensitīvu informāciju tipa drošības & atbilstības centrā PowerShell**
 
 Visbeidzot, ja UI nenodrošina nepieciešamās opcijas, varat [izveidot pielāgotu sensitīvu informāciju tipa drošības & atbilstības centrā PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Sākot ar XML failu, varat izmantot katru iespēju, kas pieejama.
-
-    
