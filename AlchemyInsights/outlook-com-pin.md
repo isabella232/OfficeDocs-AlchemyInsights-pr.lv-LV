@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392395"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373456"
 ---
 # <a name="change-your-pin"></a>Mainīt PIN
 
 Outlook.com doesn't izmantot PIN kodu, taču iespējams pierakstīties jūsu datoru ar PIN kodu vai Windows Hello. Lai mainītu PIN Windows 10:
 
-1. Dodieties uz Sākt, pēc tam izvēlieties **Iestatījumi** > **kontiem** > **pieteikšanās opcijām**.
+1. Atlasiet pogas Sākt vai Windows taustiņu uz tastatūras nospiediet un pēc tam atlasiet **iestatījumus** > **kontiem** > **pieteikšanās opcijām**.
 2. Atlasiet pogas **mainīt** saskaņā ar **PIN**.
 3. Ievadiet pašreizējo PIN, tad ievadiet un apstipriniet jauno PIN zem.
 

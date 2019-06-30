@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914113"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381880"
 ---
 # <a name="install-visio"></a>Jāinstalē Visio
 
 Visio tiek pārdota kā atsevišķa lietojumprogramma, tāpēc, ja neesat to vēl [pirkt vai mēģiniet Visio](https://products.office.com/visio). 
 
-Ja jums ir abonementu uz Visio Online plāns 2, lietotāji neredzēs ir iespēja instalēt Visio no **mana instalē** [manā kontā portālā](https://portal.office.com/account#installs) vien [viņiem piešķirta licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Piezīme**: Visio Online plāns 1 neietver darbvirsmas versijai Visio, tāpēc nav iespējams instalācija.
 
-Īpašas instrukcijas, lejupielādējot un instalējot Visio, skatiet [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Ja jums ir abonementu uz Visio Online plāns 2, ir [piešķirt licenci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) , lai lietotājs vai viņiem nebūs iespēja uzstādīt Visio no **mana instalē** [manā kontā portālā](https://portal.office.com/account#installs). 
 
-Ja jums ir derīgs abonements/licences un nokļūšanu jautājumi uzstādīšanas laikā, mēģiniet instalēt, izmantojot [atbalstu un palīgu atkopšanas](https://aka.ms/SaRA-VisioSetupScenario)Visio.
+Non-lielapjoma licences versijai Visio Standard vai Visio Professional ir saistītas ar Microsoft kontu un nevar pārvaldīt administrēšanas centrā. Lai instalētu šos variantus, lietotājiem ir jāpiesakās, lai varētu [account.microsoft.com](https://account.microsoft.com) ar Microsoft kontu, kas saistīts ar šajā Visio versijā.
+
+Iegūtu detalizētāku palīdzību skatiet [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) un izpildiet savai versijai Visio.
 
 Lai iegūtu vairāk informācijas, skatiet:<br>
 [Izvietošanas rokasgrāmata programmai Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

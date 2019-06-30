@@ -1,28 +1,31 @@
 ---
-title: 8000061 Outlook.com trūkstošās mapes
+title: Outlook.com trūkst mapes
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000061
+ms.custom:
+- "1066"
+- "1067"
+- "1068"
+- "1134"
+- "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 7fb0b01b88b04f11804e415a5a43d5abec364591
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1940b650ca61907fa9121cba4c67aa932086b108
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392249"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373960"
 ---
-# <a name="find-missing-folders-in-outlookcom"></a>Atrast trūkstošās mapes Outlook.com
+# <a name="find-missing-folders"></a>Trūkstošās mapes atrašana
 
-Ja jūs nevarat redzēt mapes Outlook.com beta, pārbaudiet mapes nav sabrukusi. Atlasiet bultiņu blakus **mapes** navigācijas rūtī. 
+Ja jūs nevarat redzēt jūsu mapēm, pārbaudiet mapes nav sabrukusi. Uz bultiņas blakus **mapes** atlasiet kreisajā rūtī.
   
-Ja nejauši izdzēšat kaut kas Outlook.com, varat atgūt, ja tā joprojām atrodas Izdzēstie vienumi vai nevēlamā e-pasta mapes. Dažos gadījumos varat atkopt vienumus, pēc tam, kad ir iztukšota mape Izdzēstie vienumi, izmantojot [atkopšanas e-pasta pievienojumprogrammu](https://appsource.microsoft.com/product/office/WA104380447) (tikai klasiskās Outlook.com). Lasīt vairāk par [atjaunošana izdzēstos e-pasta ziņojumus](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50) un [izmantojot pievienojumprogrammas programmā Outlook.com](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf).
+Ja nejauši izdzēšat mapi, to var atkopt, ja tā joprojām atrodas mapē Izdzēstie vienumi. Lai uzzinātu vairāk, izlasiet [atjaunošana dzēst e-pasta ziņojumus Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
   
-Dažos gadījumos trūkst mapes. Mēs strādājam, lai atrisinātu šo problēmu. Jūs varat atrast trūkstošos izmantojot **meklēšanas**mapēs saglabātos vienumus, un tas var palīdzēt, ja jums jāizrakstās un vēlreiz jāpierakstās. [Uzklikšķināt šeit, lai Izrakstīties.](https://login.live.com/logout.srf)
-  
-
+Tur ir zināma problēma, kur trūkst mapes. Mēs strādājam, lai atrisinātu šo problēmu. Jūs varat atrast trūkstošos izmantojot **meklēšanas**mapēs saglabātos vienumus, un tas var palīdzēt, ja jums jāizrakstās un vēlreiz jāpierakstās. [Uzklikšķināt šeit, lai Izrakstīties.](https://login.live.com/logout.srf)

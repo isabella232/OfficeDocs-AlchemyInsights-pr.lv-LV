@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "645"
+- "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 518261787b1b0df99ee7b3dc3e51dec70e4373bc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b014e350d5f6f1a61feb223e3d3fd0a1f56f5872
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398347"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357972"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>Federācijas ADF beidzas sertifikātu
 
 Lai atrisinātu šo problēmu, rīkojieties šādi:
   
 1. Datorā, instalējiet Microsoft Azure Active Directory moduli par Windows PowerShell (ja jau nav instalēta modulis). Lai to izdarītu, _ pārejiet uz [pārvaldīt debeszils reklāmu, izmantojot programmu Windows PowerShell](https://aka.ms/aadposh).
-    
-2. Izpildiet norādījumus sadaļā "scenārijs 1: AD FS pilnvaru paraksta sertifikāta derīgums" sadaļā ["Tur bija problēma, lai piekļūtu vietnei" kļūda no AD FS kad Federatīvas lietotājs pierakstās pakalpojumā Office 365, debeszils, vai Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
-    
-3. Izpildiet norādījumus sadaļā [kā jāatjaunina vai jālabo Federatīvas domēnu pakalpojumā Office 365, debeszils, vai Intune iestatījumus](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
-    
-    Lai uzzinātu vairāk par Federācijas apliecības atjaunošanu, skatiet [atjaunot Federācijas sertifikātus Office 365 un debeszils Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
-    
 
+2. Izpildiet norādījumus sadaļā "scenārijs 1: AD FS pilnvaru paraksta sertifikāta derīgums" sadaļā ["Tur bija problēma, lai piekļūtu vietnei" kļūda no AD FS kad Federatīvas lietotājs pierakstās pakalpojumā Office 365, debeszils, vai Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+
+3. Izpildiet norādījumus sadaļā [kā jāatjaunina vai jālabo Federatīvas domēnu pakalpojumā Office 365, debeszils, vai Intune iestatījumus](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+
+    Lai uzzinātu vairāk par Federācijas apliecības atjaunošanu, skatiet [atjaunot Federācijas sertifikātus Office 365 un debeszils Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

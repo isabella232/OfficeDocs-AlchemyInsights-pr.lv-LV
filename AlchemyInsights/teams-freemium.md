@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771421"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354012"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Vēlos pierakstīties uz bezmaksas komandām, bet es nevaru.
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771421"
 - Augstākās izglītības iestādēm nav pretendēt uz šo bezmaksas piedāvājumu. Skolotājiem un skolēniem, tomēr varat saņemt bezmaksas versiju Office 365, kas ietver pilnu versiju Microsoft Teams. Skatiet [Office 365 licencēšanas Microsoft komandām](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 
 - ASV valdības institūcijām nav pretendēt uz šo bezmaksas piedāvājumu. Uzziniet par Office 365 plāni valdības organizācijas (ieskaitot bezmaksas izmēģinājums), lasīt [Office 365 licencēšanas Microsoft komandām](https://docs.microsoft.com/microsoftteams/office-365-licensing).
-
-
