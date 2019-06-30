@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA paraugnovilkumiem
+title: Outlook.com MSA paraugnovilkumiem
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392368"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373888"
 ---
-# <a name="security-info-and-security-codes"></a><span data-ttu-id="39099-102">Informācija par drošību un drošības kodus</span><span class="sxs-lookup"><span data-stu-id="39099-102">Security info and security codes</span></span>
+# <a name="security-info-and-security-codes"></a><span data-ttu-id="ec3e4-102">Informācija par drošību un drošības kodus</span><span class="sxs-lookup"><span data-stu-id="ec3e4-102">Security info and security codes</span></span>
 
-1. <span data-ttu-id="39099-103">Pierakstieties, lai jūsu [drošības pamati](https://account.microsoft.com/security) lapu ar jūsu Microsoft kontu.</span><span class="sxs-lookup"><span data-stu-id="39099-103">Sign in to your [Security basics](https://account.microsoft.com/security) page with your Microsoft account.</span></span> 
-    
-2. <span data-ttu-id="39099-104">Atlasiet **atjaunināt informāciju**.</span><span class="sxs-lookup"><span data-stu-id="39099-104">Select **Update info**.</span></span> 
-    
-3. <span data-ttu-id="39099-105">Iespējams, tiks prasīts ievadīt drošības kodu, lai turpinātu.</span><span class="sxs-lookup"><span data-stu-id="39099-105">You may be asked to enter a security code to continue.</span></span> <span data-ttu-id="39099-106">Ja jums nav pieejas jūsu alternatīvo e-pasta vai tālruņa numuru, izvēlēties, **man nav neviena no šiem** un izpildiet norādījumus, lai aizstātu drošības info.</span><span class="sxs-lookup"><span data-stu-id="39099-106">If you don't have access to your alternate email or phone number, choose **I don't have any of these** and follow the instructions to replace your security info.</span></span> 
-    
-4. <span data-ttu-id="39099-107">Atlasiet **Pievienot drošības informācija** , pēc tam sekojiet instrukcijām, lai ievadītu jaunu e-pasta vai tālruņa numuru.</span><span class="sxs-lookup"><span data-stu-id="39099-107">Select **Add security info** then follow the instructions to enter a new email or phone number.</span></span> 
-    
-5. <span data-ttu-id="39099-108">Mēs jums nosūtīsim drošības kodu uz šo jauno e-pasta vai tālruņa numuru.</span><span class="sxs-lookup"><span data-stu-id="39099-108">We'll send a security code to that new email or phone number.</span></span> <span data-ttu-id="39099-109">Ievadiet šī drošības kodu un izvēlieties **nākamo**.</span><span class="sxs-lookup"><span data-stu-id="39099-109">Enter that security code, and select **Next**.</span></span> <span data-ttu-id="39099-110">Jaunu drošības info parādīsies jūsu sarakstā.</span><span class="sxs-lookup"><span data-stu-id="39099-110">Your new security info will appear in your list.</span></span> 
-    
-6. <span data-ttu-id="39099-111">Izvēlieties **Noņemt** kādu vēlaties noņemt.</span><span class="sxs-lookup"><span data-stu-id="39099-111">Choose **Remove** for any you want to remove.</span></span> 
-    
-7. <span data-ttu-id="39099-112">Ja vēlaties atjaunināt kas drošības informāciju, mēs jums nosūtīsim brīdinājumus, **mainītu brīdinājuma opcijas** atlasīt un noņemt atlasi izvēles rūtiņu jums vairs vēlaties saņemt brīdinājumus, ja vien tie nav kritiska.</span><span class="sxs-lookup"><span data-stu-id="39099-112">If you want to update which security info we'll send alerts to, select **Change alert options** and deselect the checkbox for the one you no longer want to receive alerts for, unless they're critical.</span></span> 
-    
-<span data-ttu-id="39099-113">Uzziniet vairāk par [drošības informācija un drošības kodus](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="39099-113">Read more about [Security info and security codes](https://support.microsoft.com/help/12428/).</span></span>
-  
+<span data-ttu-id="ec3e4-103">Lai kontam pievienotu drošības info:</span><span class="sxs-lookup"><span data-stu-id="ec3e4-103">To add security info to your account:</span></span>
 
+1. <span data-ttu-id="ec3e4-104">Pierakstieties pakalpojumā [drošības pamati](https://account.microsoft.com/security) ar jūsu Microsoft kontu.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-104">Sign in to [Security basics](https://account.microsoft.com/security) with your Microsoft account.</span></span>
+1. <span data-ttu-id="ec3e4-105">Atlasiet **drošības kontaktinformāciju**.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-105">Select **Security contact info**.</span></span>
+1. <span data-ttu-id="ec3e4-106">Atlasiet **Pievienot drošības informācija** un sekojiet instrukcijām, lai ievadītu tālruņa numuru vai e-pasta adresi.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-106">Select **Add security info** and follow the instructions to enter a phone number or email address.</span></span>
+1. <span data-ttu-id="ec3e4-107">Jūs saņemsiet drošības kodu, tālruņa numuru vai e-pasta adresi.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-107">You will receive a security code at that phone number or email address.</span></span> <span data-ttu-id="ec3e4-108">Ievadiet drošības kodu, kuru jūs saņēmāt **Pievienot drošības informācijas** logā un izvēlēties **nākamo**.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-108">Enter the security code you received in the **Add security info** window and select **Next**.</span></span>
+
+<span data-ttu-id="ec3e4-109">Ja vēlaties noņemt tālruņa numuru vai e-pasta adresi, izvēlieties **Noņemt** tai blakus.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-109">If you want to remove a phone number or email address, select **Remove** next to it.</span></span>
+
+<span data-ttu-id="ec3e4-110">Ja vēlaties mainīt tālruņa numuru vai e-pasta adresi saņem drošības brīdinājumu, atlasiet **brīdinājuma opciju mainīšana**.</span><span class="sxs-lookup"><span data-stu-id="ec3e4-110">If you want to change which phone number or email address receives security alerts, select **Change alert options**.</span></span>
+
+<span data-ttu-id="ec3e4-111">Lai uzzinātu vairāk, izlasiet [Microsoft konta drošības informācija un pārbaudes kodus](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="ec3e4-111">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
