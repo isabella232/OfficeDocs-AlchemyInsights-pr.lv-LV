@@ -1,5 +1,5 @@
 ---
-title: Migrē no IMAP e-pasta
+title: Migrēt e-pastu no IMAP
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "732"
+- "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 075c0aef5ce46fdd25926cee7aaf1a45794423b6
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404898"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379936"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Kad jums "Nav akceptēts domēns" kļūda
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Ja tiek parādīta kļūda "Domēns nav akceptēts"
 
-Mēģinot pievienot e-pasta adresi lietotājam vai grupai vai pastkastes migrācijas laikā, jūs varētu saņemt šādu kļūdu: **domēna nevar izmantot, jo tā vēl nav akceptēts domēns sistēmu apmaiņai.**
+Mēģinot pievienot e-pasta adresi lietotājam vai grupai, vai pastkastu migrēšanas laikā, iespējams, tiks parādīta šāda kļūda: **Domēnu nevar izmantot, jo tas vēl nav akceptēts Exchange sistēmas domēns.**
   
-Vairumā gadījumu šī kļūda ir domēna vārds rezultāts * (piemēram, contoso.com) * nav pilnībā iestatīts jūsu uzņēmumam. 
+Lielākajā daļā gadījumu, šī kļūda rodas dēļ domēna nosaukuma *(kā piemēram contoso.com)*, kurš jūsu organizācijai nav pilnībā iestatīts.
   
-Lūdzu, pārbaudiet, vai domēna ir pilnībā iestatīšanas norādījumiem, [Pievienot domēnu uz Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+Lūdzu pārbaudiet, vai domēns pilnībā iestatīts, izpildot norādījumus, kas atrodami sadaļā [Domēna pievienošana pakalpojumā Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
   
-
