@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 77ae61c4c92497fe35cea8f0be18f90385d38df5
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372556"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35613997"
 ---
 # <a name="replying-in-outlookcom"></a>Atbildot Outlook.com
 
@@ -37,6 +37,6 @@ Automātiski atbildēt uz visiem ziņojumiem:
     - Noraidīt un atcelt manas tikšanās šajā periodā
 4. Lodziņā ziņojums ievadiet ziņojumu, kuru nosūtīt personām laikā, kad jūs esat prom.
 5. Tikai nosūtīt atbildes uz kontaktpersonas, atzīmējiet izvēles rūtiņu **sūtīt atbildes tikai kontaktiem** .
-6. Izvēlieties **Saglabāt**.
+6. Izvēlieties **saglabāt**.
 
-Papildinformāciju par [automātisko pārsūtīšanu Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0).
+Papildinformāciju par [automātisko pārsūtīšanu Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy).
