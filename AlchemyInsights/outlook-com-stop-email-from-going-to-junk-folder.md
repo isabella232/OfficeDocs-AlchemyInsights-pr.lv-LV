@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371800"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696949"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Apturētu ziņojumu no nevēlamā e-pasta mapi, kas
 
@@ -29,6 +29,6 @@ Ja jūs atklājat, ka nav nevēlamā e-pasta ziņojumu mapē Nevēlamais e-pasts
 Ja nevēlaties, lai visus ziņojumus no jūsu norādīta sūtītāja iet uz mapi Nevēlamais e-pasts, pievienot sūtītāju drošo sūtītāju sarakstam:
 
 1. Atveriet jūsu [nevēlamā e-pasta uzstādījumus](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Saskaņā ar **drošo sūtītāju un domēniem**, izvēlieties **Pievienot**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot un izvēlieties **Saglabāt**.
+1. Saskaņā ar **drošo sūtītāju un domēniem**, izvēlieties **pievienot**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot un izvēlieties **saglabāt**.
 
-Lai uzzinātu vairāk, izlasiet [atzīmēt e-pastu kā nevēlams vai bloķējiet sūtītāju Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Lai uzzinātu vairāk, izlasiet [atzīmēt e-pastu kā nevēlams vai bloķējiet sūtītāju Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

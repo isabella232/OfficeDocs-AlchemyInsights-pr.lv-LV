@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376768"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697198"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Nevar nosūtīt e-pastu Outlook.com
 
@@ -28,6 +28,6 @@ Ja jums rodas problēmas, nosūtot ziņojumus Outlook.com, izmēģiniet šādus 
 1. Ja jūsu Iesūtne ir pilna, nevarēsit nosūtīt vai saņemt jaunas ziņas. Iztukšot jūsu [nevēlamā e-pasta mapes](https://outlook.live.com/mail/junkemail) , noklikšķinot ar peles labo pogu uz nevēlamā e-pasta mapes un atlasot **tukšu mapi**.
 1. Pārliecinieties, vai cilvēki, ko cenšaties nosūtīt uz e-pasta adreses tiek pareizi formatēta.
 1. Ja jums ir vairāk nekā 20 [saistīts kontiem](https://outlook.live.com/mail/options/mail/accounts/connected), nevarēsit nosūtīt vai saņemt pastu.
-1. Jūsu konts var īslaicīgi bloķēts, jo mēs pamanījuši neparastu pierakstīšanās aktivitātes. [Atbloķēt manu Outlook.com kontu](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)sk.
+1. Jūsu konts var īslaicīgi bloķēts, jo mēs pamanījuši neparastu pierakstīšanās aktivitātes. [Atbloķēt manu Outlook.com kontu](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)sk.
 
-Uzziniet vairāk par to, kā [novērst sinhronizācijas jautājumu Outlook.com e-pastu](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Uzziniet vairāk par to, kā [novērst sinhronizācijas jautājumu Outlook.com e-pastu](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
