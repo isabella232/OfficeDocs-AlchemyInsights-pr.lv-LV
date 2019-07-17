@@ -20,9 +20,9 @@ ms.locfileid: "35379936"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Ja tiek parādīta kļūda "Domēns nav akceptēts"
 
-Mēģinot pievienot e-pasta adresi lietotājam vai grupai, vai pastkastu migrēšanas laikā, iespējams, tiks parādīta šāda kļūda: **Domēnu nevar izmantot, jo tas vēl nav akceptēts Exchange sistēmas domēns.**
+Mēģinot pievienot e-pasta adresi lietotājam vai grupai vai pastkastu migrēšanas laikā var tikt parādīta šāda kļūda: **Domēnu nevar izmantot, jo tas vēl nav akceptēts Exchange sistēmas domēns.**
   
-Lielākajā daļā gadījumu, šī kļūda rodas dēļ domēna nosaukuma *(kā piemēram contoso.com)*, kurš jūsu organizācijai nav pilnībā iestatīts.
+Lielākajā daļā gadījumu šī kļūda rodas tādēļ, ka domēna nosaukums *(piemēram, contoso.com)* jūsu organizācijai nav pilnībā iestatīts.
   
-Lūdzu pārbaudiet, vai domēns pilnībā iestatīts, izpildot norādījumus, kas atrodami sadaļā [Domēna pievienošana pakalpojumā Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+Lūdzu, pārbaudiet, vai domēns ir pilnībā iestatīts, izpildot norādījumus, kas atrodami sadaļā [Domēna pievienošana pakalpojumā Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
   

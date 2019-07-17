@@ -20,7 +20,7 @@ ms.locfileid: "35370934"
 ---
 # <a name="prepare-for-use-of-tls-12-in-office-365"></a>Gatavošanās TLS 1.2 lietošanai pakalpojumā Office 365
 
-Sākot ar 2018. gada 31. oktobri, Office 365 turpinās pāreju uz TLS 1.2. Tas nozīmē, ka Microsoft nenovērsīs jaunas problēmas, kas tiks novērotas klientiem, ierīcēm un pakalpojumiem, kas veido savienojumu ar Office 365, izmantojot TLS 1.0 un 1.1. **Tas nenozīmē, ka Office 365 bloķēs TLS 1.0 un 1.1 savienojumus.** Galīgais atbalsta pārtraukšanas datums tiks noteikts, pamatojoties uz klientu lietojumu un pašreizējo TLS drošības statusu. Pēc lēmuma pieņemšanas, par to tiks paziņots sešus mēnešus iepriekš, ja vien mēs neatklāsim zināmu apdraudējumu. Tādā gadījumā mums, iespējams, nāksies rīkoties ātrāk par sešiem mēnešiem, lai aizsargātu lietotājus, kuri izmanto šos pakalpojumus.
+Sākot ar 2018. gada 31. oktobri, Office 365 turpinās pāreju uz TLS 1.2. Tas nozīmē, ka Microsoft nenovērsīs jaunas problēmas, kas tiks novērotas klientiem, ierīcēm un pakalpojumiem, kas veido savienojumu ar Office 365, izmantojot TLS 1.0 un 1.1. **Tas nenozīmē, ka Office 365 bloķēs TLS 1.0 un 1.1 savienojumus.** Galīgais atbalsta pārtraukšanas datums tiks noteikts, pamatojoties uz klientu lietojumu un pašreizējo TLS drošības statusu. Pēc lēmuma pieņemšanas par to tiks paziņots sešus mēnešus iepriekš, ja vien mēs neatklāsim zināmu apdraudējumu. Tādā gadījumā mums, iespējams, nāksies rīkoties ātrāk par sešiem mēnešiem, lai aizsargātu lietotājus, kuri izmanto šos pakalpojumus.
   
 Visiem serveriem un klientiem, kas veido savienojumu ar Office 365, stingri ieteicams pēc iespējas drīzāk iespējot TLS 1.2.
   
