@@ -3,7 +3,7 @@ title: Nodarbojas ar surogātpastu un nevēlamā Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697126"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800088"
 ---
-# <a name="mark-email-messages-as-junk"></a>Mark e-pasta ziņojumu kā nevēlamā
+# <a name="spam-and-junk-email-in-outlookcom"></a>Surogātpasta un Nevēlamais e-pasts ir Outlook.com
 
-Lai atzīmētu ziņojumu kā nevēlamā vai surogātpastu, ziņojumu sarakstā atlasiet ziņojumu un atlasiet **nevēlamo** > **Junk**.
+Ja jūs kļūst pārāk daudz junk vai surogātpastu, mēģiniet šīs metodes:
 
-Lai bloķētu visus ziņojumus no īpašu e-pasta adresi, ziņojumu sarakstā atlasiet ziņojumu vai ziņojumus, un pēc tam atlasiet **nevēlamo** > **bloku**.
+1. **Atzīmēt kā nevēlamo e-pastu**
+    1. Atlasiet ziņojumu.
+    1. Atlasiet **nevēlamo** > **Junk** , lai pārvietotu ziņojumu uz mapi Nevēlamais e-pasts.
+    1. [Uzziniet vairāk par to, kā palīdzēt aizsargāt surogātpastu un nevēlamo e-pastu no jūsu iesūtnē.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Ja jūs nejauši atzīmētu ziņojumu kā nevēlamā e-pasta ziņojumu, jūsu [nevēlamā e-pasta mapē](https://outlook.live.com/mail/junkemail) atlasiet ziņojumu, un izvēlieties **nav nevēlams** > **nav nevēlams**. (*Piezīme:* nevēlamā e-pasta mapē esošie vienumi tiek izdzēsti pēc 30 dienām.)
+1. **Bloķētu sūtītāju no iesūtnes**
+    1. Atlasiet ziņojumu.
+    1. Atlasiet **nevēlamo** > **bloka** > **OK**.
+    1. [Uzziniet vairāk par to, kā bloķēt vai atbloķēt sūtītājiem.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Lai uzzinātu vairāk, izlasiet [atzīmēt e-pastu kā nevēlams vai bloķējiet sūtītāju Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Sūtītāja pievienošana bloķēto sūtītāju sarakstam**
+    1. Atveriet jūsu [nevēlamā e-pasta uzstādījumus](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. , **Bloķētie sūtītāji un domēni**, izvēlieties **pievien**.
+    1. Ierakstiet e-pasta adreses vai domēna, kuru vēlaties bloķēt, un nospiediet taustiņu Enter.
+    1. Sadaļā **filtri**, izvēlēties, vai uzticēties e-pasta adreses drošo sūtītāju un domēniem drošo adrešu sarakstiem.
+    1. Izvēlieties **saglabāt**.
+
+1. **Iesūtnes kārtulas izveide**
+    1. Ar peles labo pogu noklikšķiniet uz ziņojuma ziņojumu sarakstā un izvēlieties **izveidot kārtulu**.
+    1. Izvēlieties mapi, kurā vēlaties visus ziņojumus no šī sūtītāja jāpārvieto, un izvēlieties **Labi** > **OK**.
+    1. [Papildinformāciju par iesūtnes kārtulas Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
