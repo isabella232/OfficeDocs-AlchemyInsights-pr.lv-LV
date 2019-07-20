@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 07b60aa96a42511f3bfbfe0d63b8107a0cfd87e2
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752883"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800124"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>OneNote sinhronizācijas problēmu novēršana
+
+* Lielākā daļa kopējā pievērsties jautājumiem, kas saistīti ar OneNote sinhronizācijas, lūdzu izpildiet [novērst problēmu, kad programma OneNote nevar sinhronizēt](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
 Ja piezīmju grāmatiņa, kas nebūs sinhronizēti glabājas OneDrive vai uz jaunāku SharePoint versiju, mēģiniet atvērt piezīmju grāmatiņu programmā OneNote Online (pie www.onenote.com). Tas var palīdzēt noteikt, ja problēma ir izraisījusi servera vai OneNote.
 
@@ -33,5 +35,3 @@ Ja piezīmju grāmatiņa, kas nebūs sinhronizēti glabājas OneDrive vai uz jau
 Ja jūs nevar atvērt piezīmju grāmatiņu programmā OneNote Online un izmaiņas tiek parādītas, šo problēmu var izraisīt darbvirsmas programmas OneNote versiju. Aizverot un atverot notebook parasti notīra un sekmīgi atjaunojot savienojumu.
 
 * Mēs iesakām pēc darbības [instalēt Office atjauninājumus,](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) lai instalētu jaunākos atjauninājumus, OneNote savā datorā. Ja jūs par Mac, izpildiet norādījumus sadaļā [automātiski pārbaudīt atjauninājumus Office Mac](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
-
-* Lielākā daļa kopējā pievērsties jautājumiem, kas saistīti ar OneeNote sinhronizācijas, lūdzu izpildiet [novērst problēmu, kad programma OneNote nevar sinhronizēt](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
