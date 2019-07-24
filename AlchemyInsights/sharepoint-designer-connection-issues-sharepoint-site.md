@@ -1,7 +1,7 @@
 ---
-title: SharePoint Online atļauju līmeņus
-ms.author: kirks
-author: Techwriter40
+title: SharePoint Designer savienojuma problēmas
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,41 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 356fef8e02f2c1fd9d209c68194685bb0acaa367
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1d3f6ad3128292a9dbcc46cc7da23af59a63fbb4
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760699"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840558"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer savienojuma problēmas 
 
-Ja SharePoint Designer radušās savienojuma problēmas SharePoint vietnēm, lūdzu, mēģiniet šādus kopīgus risinājumus.
+Ja SharePoint Designer radušās savienojuma problēmas SharePoint vietnēm, lūdzu, izmēģiniet šādus risinājumus, kopīgi.
 
-1. darbība: Pārliecinieties, vai SharePoint Designer tiek atjaunināts.
+1. darbība: Pārliecinieties, ka SharePoint Designer 2013 tiek papildināta ar [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) un [2 augusts 2016 atjaunināt SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
-- [SharePoint Designer 2013.](https://www.microsoft.com/download/details.aspx?id=35491)
 
-- [SharePoint Designer 1. servisa pakotne (SP1)](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1)
 
-- [Atjauninājums programmai SharePoint Designer 2013 (KB3114721)](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)
+2. solis: Notīrīt lokālajā kešatmiņā failus:
 
-2. solis: Notīrīt lokālajā kešatmiņā failus
+1. Tuvu SharePoint Designer 2013.
 
-- Tuvu SharePoint Designer 2013.
+2. Lokālajā datorā noņemtu visus failus, kas atrodas katrā no šīm mapēm.
 
-- Lokālajā datorā, dodieties uz šīm mapēm, lai dzēstu kešatmiņā failus.
+    - %AppData%\Microsoft\Web server Extensions\Cache
+    - %AppData%\Microsoft\SharePoint Designer\ProxyAssemblyCache
+    - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-- Noklikšķiniet uz Sākt, palaist, kā _ arī izdzēst visus failus atrast katrā no vietām zemāk.
+3. Atveriet SharePoint Designer 2013 un ievadiet kontu vēlreiz, lai redzētu, vai tas darbojas.
 
-%AppData%\Microsoft\Web servera Extensions\Cache %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
+3. solis: [Iespējot mūsdienu biroja 2013 ierīcēs, izmantojot Windows autentifikāciju](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
 
-Atveriet SharePoint Designer 2013 un ievadiet kontu vēlreiz, lai redzētu, vai tas darbojas.
-
-3. solis: [Iespējot mūsdienu biroja 2013 ierīcēs, izmantojot Windows autentifikāciju](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)
-
-4. solis: Administratoriem būs nepieciešams pielāgots skripts ļauj atļaut savienojumu SharePoint Designer.
-
-Detalizētām darbībām, piemērus un apsvērumi sk [Atļaut vai aizliegt pielāgotu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+4. solis: Administratoriem būs nepieciešams **Pielāgots skripts ļauj** SharePoint administrēšanas centru iestatījumos atļaut savienojumu SharePoint Designer. Sk [Atļaut vai aizliegt pielāgots skripts](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) plašāku informāciju.
 
 
