@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757333"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903711"
 ---
 # <a name="upgrade-to-visio-2019"></a>Jauniniet uz Visio 2019
 

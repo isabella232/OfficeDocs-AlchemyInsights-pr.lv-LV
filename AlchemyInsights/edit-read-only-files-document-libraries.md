@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132729"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903945"
 ---
 # <a name="edit-a-read-only-file"></a>Tikai lasāma faila rediģēšana
 
@@ -25,7 +25,7 @@ Tā vietā, noklikšķinot uz dokumenta nosaukuma, noklikšķiniet uz **Atvērtu
 
 Piezīmes:
 
-- Ja jūs drīzāk ir dokumentu atvērtu rediģēšanai programmā Office Online, kad jūs noklikšķiniet uz nosaukuma, bibliotēkā var iestatīt darīt (ja vien jums ir atļauja mainīt bibliotēkas iestatījumus).
+- Ja jūs drīzāk ir dokumentu atvērtu rediģēšanai programmā Office, kad jūs noklikšķiniet uz nosaukuma, bibliotēkā var iestatīt darīt (ja vien jums ir atļauja mainīt bibliotēkas iestatījumus).
 
 - Ja bibliotēkas ar Checkout, obligātajās kolonnās vai ja tikai tie lietotāji, kas var labot SharePoint versiju iestatījumus dokumentu bibliotēkā, šie vienumi tiks sinhronizēts kā tikai lasāmu.
 
