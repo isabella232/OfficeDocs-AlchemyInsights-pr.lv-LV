@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353184"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925292"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Saglabāt jūsu mājas lapā ar savu pašreizējo hostinga sniedzēja DNS ieraksti tiks atjaunināti
 
-1. Lapā [Domēni](https://portal.office.com/adminportal/home#/Domains) domēnu, sarakstā atlasiet domēna jūs izmantojat jūsu mājas lapā un pēc tam atlasiet **DNS iestatījumus** rūts vadība.
+1. Lapā [Domēni](https://portal.office.com/adminportal/home#/Domains) domēnu sarakstā atlasiet domēns, ko izmantojat jūsu mājas lapā.
 
 2. Atlasiet **+ jaunu pielāgotu ierakstu** un ievadiet šādu formulu:
 
@@ -35,7 +35,7 @@ ms.locfileid: "35353184"
 
     Šim ir jābūt *statiskā* IP adrese tīmekļa vietni, nevis *dinamisko* IP adresi. Sazinieties ar vietu, kur jūsu mājas lapā tiek izvietots, lai pārliecinātos, jūs varat saņemt statisko IP adresi jūsu publiskajā vietnē.
 
-3. Izvēlieties **Saglabāt**.
+3. Izvēlieties **saglabāt**.
 
 Turklāt varat izveidot CNAME ierakstu, lai palīdzētu klientiem atrast jūsu mājas lapā.
   
@@ -47,4 +47,4 @@ Turklāt varat izveidot CNAME ierakstu, lai palīdzētu klientiem atrast jūsu m
 
   - **Norāda uz adresi**, ievadiet pilnībā kvalificētu domēna nosaukumu (FQDN) jūsu mājas lapā (piemēram, contoso.com).
 
-2. Izvēlieties **Saglabāt**.
+2. Izvēlieties **saglabāt**.
