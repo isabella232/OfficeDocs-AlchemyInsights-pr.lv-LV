@@ -13,34 +13,38 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 3d8316502b4e51a101197a908cf691f0ab7f845a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389620"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941075"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nedarbojas, kā paredzēts
 
 Vai jums ir problēmas ar **Datu zaudējumu novēršanas (DLP)** programmā Office 365 nedarbojas, kā paredzēts? Šādā gadījumā pārliecinieties, vai jūsu **DLP politika** ir iestatīta pareizi un datos ir kādas **DLP politika** meklē, kad tas tiek vērtēts.
   
- **DLP izveidošanu:**
+ **Ar ko izveido DLP**
   
 DLP politika ļauj identificēt un aizsargāt sensitīvu informāciju savā uzņēmumā. Lai uzstādīšanas DLP politikai, izmantot informācijas [šeit](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Meklēt kādu DLP politiku:**
+ **DLP politiku meklējiet**
   
 Lietojot **iebūvēto konfidenciālas informācijas tipiem** Office 365 drošības un saskaņotības centrs, DLP politiku izskatīsies noteiktiem rakstiem un elementu atklāšanu jutīgu šādas.
   
-- **Iebūvēts jutīgas informācijas veidus:**
+- **Iebūvēts jutīgas informācijas veidus**
 
     Par iebūvēto paaugstināta riska veidiem un kas DLP politika meklē, kad atklāt slepenu tipa informāciju meklējiet: [Meklēt kādus sensitīvu informāciju](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Pielāgota jutīga informācija veidus:**
+- **Pielāgota jutīga informācija veidus**
 
     Ja jūs mēģināt izveidot pielāgotus jutīgas informācijas veidus, izmantot raksta informāciju, kā izveidot pielāgotu paaugstināta riska veids: [izveidot pielāgotu jutīgas informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
- **Ziņojumi:**
+**Testēt DLP politikas**
+
+Pārbaudīt datus, izmantojot iebūvētos vai pielāgotos jutīgas informācijas veidu, izmantot **testa tipa** opcijai **klasifikācijas** > **jutīga informācija veidus**. Papildinformāciju skatiet [testa pielāgota jutīga informācija veidus](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+
+ **Ziņojumi**
   
 - Iegūtu precīzus datus atziņas ar [DLP ziņojumus.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
