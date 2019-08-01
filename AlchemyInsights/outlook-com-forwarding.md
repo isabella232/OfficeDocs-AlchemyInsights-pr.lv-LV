@@ -11,19 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: 47798351cec9a4ef1296052fac1ae76d40966916
-ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
+ms.openlocfilehash: 601c8022355122d163db84aca5c623b5a65ac622
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35614069"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044571"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Nosūtot e-pastu Outlook.com
 
 Nosūtīt vienu ziņojumu vienlaicīgi:
 
 1. Ziņojumu sarakstā, izvēlieties ziņojumu, kuru vēlaties pārsūtīt.
-2. Pēc ziņojuma rūts augšējā stūrī, izvēlieties bultiņas **uz priekšu** .
+2. Pēc ziņojuma rūts augšējā stūrī, izvēlieties bultiņas **uz priekšu** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
+.
 3. Uzrakstiet savu ziņojumu un pēc tam atlasiet **nosūtīt**.
 
 Automātiski pārsūtīt visus ziņojumus:
