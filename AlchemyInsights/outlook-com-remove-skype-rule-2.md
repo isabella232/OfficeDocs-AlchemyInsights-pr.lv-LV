@@ -9,18 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
-ms.openlocfilehash: 9fdc5860e2327b753829bda0b1e3687a6c014cc3
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 00dd77f64497b1c0e7f1f2b3be414b804a20f626
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34873864"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36048679"
 ---
-# <a name="how-do-i-turn-off-skype-in-outlookcom"></a><span data-ttu-id="1d7a7-102">Kā izslēgt Skype Outlook.com?</span><span class="sxs-lookup"><span data-stu-id="1d7a7-102">How do I turn off Skype in Outlook.com?</span></span>
+# <a name="how-do-i-turn-off-skype-in-outlookcom"></a><span data-ttu-id="f8d85-102">Kā izslēgt Skype Outlook.com?</span><span class="sxs-lookup"><span data-stu-id="f8d85-102">How do I turn off Skype in Outlook.com?</span></span>
 
-<span data-ttu-id="1d7a7-103">Nevar noņemt Skype Outlook.com, bet jūs varat atslēgt paziņojumus:</span><span class="sxs-lookup"><span data-stu-id="1d7a7-103">You can't remove Skype from Outlook.com, but you can disable notifications:</span></span>
+<span data-ttu-id="f8d85-103">Nevar noņemt Skype Outlook.com, bet jūs varat atslēgt paziņojumus:</span><span class="sxs-lookup"><span data-stu-id="f8d85-103">You can't remove Skype from Outlook.com, but you can disable notifications:</span></span>
 
-1. <span data-ttu-id="1d7a7-104">Atvērt **uzstādījumus** > **Vispārējā** > **[paziņojumus](https://outlook.live.com/mail/options/general/notifications)**.</span><span class="sxs-lookup"><span data-stu-id="1d7a7-104">Open **Settings** > **General** > **[Notifications](https://outlook.live.com/mail/options/general/notifications)**.</span></span> 
-2. <span data-ttu-id="1d7a7-105">**Tērzēšana un zvanu**, atspējot paziņojumu veidiem, vairs nav nepieciešams.</span><span class="sxs-lookup"><span data-stu-id="1d7a7-105">Under **Chat and call**, disable the notification types you no longer want.</span></span>
+1. <span data-ttu-id="f8d85-104">Atvērts</span><span class="sxs-lookup"><span data-stu-id="f8d85-104">Open</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="f8d85-105">**Iestatījumi** > **Vispārējā** > **[paziņojumus](https://outlook.live.com/mail/options/general/notifications)**.</span><span class="sxs-lookup"><span data-stu-id="f8d85-105">**Settings** > **General** > **[Notifications](https://outlook.live.com/mail/options/general/notifications)**.</span></span> 
+2. <span data-ttu-id="f8d85-106">**Tērzēšana un zvanu**, atspējot paziņojumu veidiem, vairs nav nepieciešams.</span><span class="sxs-lookup"><span data-stu-id="f8d85-106">Under **Chat and call**, disable the notification types you no longer want.</span></span>
 
-<span data-ttu-id="1d7a7-106">Papildinformāciju par to, izmantojot Skype, lasīt, [runāt ar ģimeni un draugiem uz Skype Outlook.com](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa).</span><span class="sxs-lookup"><span data-stu-id="1d7a7-106">For more information on using Skype, read [Talk to family and friends on Skype in Outlook.com](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa).</span></span>
+<span data-ttu-id="f8d85-107">Papildinformāciju par to, izmantojot Skype, lasīt, [runāt ar ģimeni un draugiem uz Skype Outlook.com](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f8d85-107">For more information on using Skype, read [Talk to family and friends on Skype in Outlook.com](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
