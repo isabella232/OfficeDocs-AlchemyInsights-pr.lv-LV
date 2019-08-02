@@ -1,0 +1,40 @@
+---
+title: Izvietot komandas kā savrupajam vai ar jaunu vai esošu Office instalāciju
+ms.author: danbrown
+author: DHB-MSFT
+manager: laurawi
+ms.date: 08/01/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000660"
+- "2509"
+ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
+ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054237"
+---
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a><span data-ttu-id="62dff-102">Izvietot komandas kā savrupajam vai ar jaunu vai esošu Office instalāciju</span><span class="sxs-lookup"><span data-stu-id="62dff-102">Deploying Teams as standalone or with new or existing Office installations</span></span>
+
+<span data-ttu-id="62dff-103">Microsoft Teams tagad ir iekļauta kā daļa no ***jaunām iekārtām*** Office 365 ProPlus, Office 365 Business un Office Mac.</span><span class="sxs-lookup"><span data-stu-id="62dff-103">Microsoft Teams is now included as part of ***new installations*** of Office 365 ProPlus, Office 365 Business, and Office for Mac.</span></span> <span data-ttu-id="62dff-104">Lai iegūtu papildinformāciju, skatiet [kad Microsoft Teams sāks netiktu iekļauts jaunās Office instalācijas?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="62dff-104">For more information, see [When will Microsoft Teams start being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span></span>
+
+<span data-ttu-id="62dff-105">Turklāt sākot ar versiju 1906 ikmēneša kanālā, komandām būs ***pievienots esošajām iekārtām*** Office 365 ProPlus (un Office 365 Business) ierīces, kurās darbojas Windows, kad savai esošajai instalācijai atjaunināt ar jaunāko versiju.</span><span class="sxs-lookup"><span data-stu-id="62dff-105">Additionally, starting with Version 1906 in Monthly Channel, Teams will be ***added to existing installations*** of Office 365 ProPlus (and Office 365 Business) on devices running Windows when you update your existing installation to the latest version.</span></span> <span data-ttu-id="62dff-106">Lai iegūtu papildinformāciju, skatiet [kas par esošās iekārtas biroja?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="62dff-106">For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="62dff-107">Ja nevēlaties gaidīt šo ieviešanas grafiku, varat izvietot komandas kā savrupu lietotāju, [izpildot šos norādījumus](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) vai arī jums var būt jūsu lietotājiem instalēt sevi no komandas [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span><span class="sxs-lookup"><span data-stu-id="62dff-107">If you don't want to wait for this rollout schedule, you can deploy Teams as standalone for your users by [following these instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) or you can have your users install Teams for themselves from [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span></span>
+
+<span data-ttu-id="62dff-108">Ja uzņēmumā nav gatava izvietot komandas, mums ir darbības, kuras varēsit veikt, lai ***izslēgtu komandu*** no [jauna](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) vai [esoša](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) biroja iekārtām.</span><span class="sxs-lookup"><span data-stu-id="62dff-108">If your organization isn't ready to deploy Teams, we have the steps you can take to ***exclude Teams*** from [new](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) or [existing](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installations of Office.</span></span> <span data-ttu-id="62dff-109">Ja vēlaties instalēt, bet gribu komandas, lai sāktu darboties automātiski, lietotājam pēc tam, kad tā ir uzstādīta, sk. [Novērst Microsoft komandas startēties automātiski pēc uzstādīšanas](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)komandas.</span><span class="sxs-lookup"><span data-stu-id="62dff-109">If you want Teams to be installed, but don't want Teams to start automatically for the user after it's installed, see [Prevent Microsoft Teams from starting automatically after installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span></span>
+
+<span data-ttu-id="62dff-110">***Atinstalēt komandām*** no ierīces, kurā darbojas Windows, skatiet [Atinstalēt Microsoft komandām](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span><span class="sxs-lookup"><span data-stu-id="62dff-110">To ***uninstall Teams*** from a device running Windows, see [Uninstall Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span></span> <span data-ttu-id="62dff-111">Tīrīšanas Microsoft Teams no vairākiem mērķa mašīnas vai lietotājiem, skatiet [Microsoft brigāžu izvietošanu sakopt](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span><span class="sxs-lookup"><span data-stu-id="62dff-111">To cleanup Microsoft Teams from multiple target machines or users, see [Microsoft Teams deployment clean up](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span></span>
+
+<span data-ttu-id="62dff-112">Ja izmantojat koplietojamu datoru, attālo darbvirsmas pakalpojumi (RDS) vai virtuālo Desktop infrastruktūru (VDI), sk. [koplietotā datorā un VDI vidēs ar Microsoft komandas](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="62dff-112">If you're using shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+
+<span data-ttu-id="62dff-113">Ja jūs izmantojat Office Mac, skatiet [Microsoft grupas iekārtām uz Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span><span class="sxs-lookup"><span data-stu-id="62dff-113">If you're using Office for Mac, see [Microsoft Teams installations on a Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="62dff-114">Pēc komandas instalēšanas tā ir [automātiski atjaunināta](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) apmēram ik pēc divām nedēļām ar jauniem līdzekļiem un kvalitāti atjauninājumus.</span><span class="sxs-lookup"><span data-stu-id="62dff-114">After Teams is installed, it's [automatically updated](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) approximately every two weeks with new features and quality updates.</span></span> 
