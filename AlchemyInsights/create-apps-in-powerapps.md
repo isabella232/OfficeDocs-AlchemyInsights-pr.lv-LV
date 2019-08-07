@@ -1,5 +1,5 @@
 ---
-title: Izveidotu apps PowerApps
+title: Programmu izveide rīkā PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404970"
 ---
-# <a name="create-apps-with-powerapps"></a>Radītu progr ar PowerApps
+# <a name="create-apps-with-powerapps"></a>Programmu izveide ar rīku PowerApps
 
-PowerApps ir izstrādes platformu biznesa Apps. Tai ir trīs galvenie komponenti: 
+PowerApps ir izstrādes platforma biznesa lietojumprogrammām. Tajā ir trīs galvenie komponenti: 
   
-- [Kanvas apps](https://go.microsoft.com/fwlink/?linkid=874495) sākt ar jūsu lietotāja pieredzi crafting augsti pielāgotus saskarne ar varu tukšs kanvas un savienojot to ar savu izvēli 200 datu avotiem. Jūs varat veidot gleznas progr par web, mobilo un planšetdatora lietojumprogrammas. 
+- [Pamatnes programmas](https://go.microsoft.com/fwlink/?linkid=874495) sāk ar jūsu lietošanas iespējām, veidojot īpaši pielāgotu interfeisu ar tukšas pamatnes iespējām un savienojot to ar jūsu izvēli no 200 datu avotiem. Varat veidot pamatnes programmas tīmeklim, mobilajām ierīcēm un planšetdatoriem. 
     
-- [Orientētu modeli apps](https://go.microsoft.com/fwlink/?linkid=874496) sākt ar jūsu datu modelis - veidotos no galvenajiem biznesa datus un procesus kopēju datu pakalpojumu formas veidlapu paraugus, viedokli un citi komponenti. Orientētu modeli apps automātiski ģenerētu liels UI, ka visās ierīcēs ir atsaucīgi. 
+- [Modeļa virzītas programmas](https://go.microsoft.com/fwlink/?linkid=874496) sāk ar jūsu datu modeli, par pamatu ņemot jūsu pamatbiznesa datus un procesus no platformas Common Data Service, lai modelētu veidlapas, skatus un citus komponentus. Modeļa virzītas programmas automātiski ģenerē lielisku lietotāja interfeisu, kas darbojas dažādās ierīcēs. 
     
-- [Kopējo datu pakalpojums](https://go.microsoft.com/fwlink/?linkid=874497) ir datu platforma, kas nāk ar PowerApps un ļauj uzglabāt un biznesa datu modelis. Tā ir platforma, uz kura tiek veidotas lietojumprogrammas Dynamics 365. Ja jūs esat Dynamics klients, dati jau ir kopīgas datu pakalpojums. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) ir datu platforma, kas tiek nodrošināta kopā ar PowerApps un ļauj glabāt un modelēt biznesa datus. Tā ir platforma, kurā tiek veidotas Dynamics 365 programmas. Ja esat Dynamics klients, jūsu dati jau ir iekļauti platformā Common Data Service. 
     
-[Vairāk info par PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Papildinformācija par PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

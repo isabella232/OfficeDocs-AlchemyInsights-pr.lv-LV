@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701330"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36166087"
 ---
 # <a name="see-your-own-email-address"></a>Skatiet e-pasta adresi
 
@@ -25,7 +25,8 @@ Lai apskatītu noklusēto e-pasta adresi, kuru izmantojat, sūtot e-pastu, dodie
 
 Ja citu e-pasta kontu esat savienots ar Outlook.com kontu, varat sūtīt e-pastu no šīs adreses.
 
-1. Atlasiet daudzpunkti sastādīšanas loga apakšā un izvēlieties **Rādīt** redzēt no līniju.
+1. Atlasiet trīs punkti <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ sastādīšanas logā un atlasiet **Show no**apakšā redzēt no līniju.
 2. Virs rindiņā, atlasiet **no** un izvēlēties, kuras e-pasta adresi, ko vēlaties izmantot.
 
 Uzziniet vairāk par [nosūtot e-pastu no citas adreses programmā Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
