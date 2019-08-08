@@ -20,7 +20,7 @@ ms.locfileid: "35388828"
 ---
 # <a name="email-forwarding-report"></a>E-pasta pārsūtīšanas atskaite
 
-Lai skatītu atskaiti par to, cik daudz automātiski pārsūtīto ziņojumu ir jūsu organizācijā, skatiet rakstu [Pasta plūsmas ieskati](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) sadaļā [Office 365 drošība &amp; Atbilstības centrā](https://protection.office.com/#/homepage).
+Lai skatītu atskaiti par to, cik daudz automātiski pārsūtīto ziņojumu ir jūsu organizācijā, skatiet rakstu [Pasta plūsmas ieskati](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) [Office 365 drošības un atbilstības centrā](https://protection.office.com/#/homepage).
   
-Ņemiet vērā: ja šī ir pirmā reize, kad pierakstāties Drošības &amp; atbilstības centrā, pēc dažām minūtēm, iespējams, būs jāatsvaidzina pārlūks, lai skatītu visas pieejamās opcijas.
+Ņemiet vērā: ja šī ir pirmā reize, kad pierakstāties drošības un atbilstības centrā, pēc dažām minūtēm, iespējams, būs jāatsvaidzina pārlūks, lai skatītu visas pieejamās opcijas.
   
