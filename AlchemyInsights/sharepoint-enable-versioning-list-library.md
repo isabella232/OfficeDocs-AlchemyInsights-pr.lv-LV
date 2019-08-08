@@ -1,20 +1,24 @@
 ---
-title: Iespējot versiju izveidi, sarakstā vai bibliotēkā
-ms.author: kirks
-author: Techwriter40
+title: Versiju izveide SharePoint un OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223611"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232665"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Iespējot versiju izveidi, par koplietošanas vides SharePoint sarakstā vai bibliotēkā
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Versiju izveide SharePoint un OneDrive 
 
 
 Ja versijas ir iespējotas koplietošanas vides SharePoint sarakstā vai bibliotēkā, var glabāt, izsekot un atjaunot saraksta elementus un failus bibliotēkā, ikreiz, kad tās maina. Versiju izveide, kopā ar citiem iestatījumiem, piemēram, paņemšanu, sniedz jums daudz kontroli pār saturu, kas ir ievietojis savā portālā un var sniegt reālas vērtības, ja jums kādreiz ir nepieciešams apskatīt vai atjaunot veco vienumu vai failu versiju.
