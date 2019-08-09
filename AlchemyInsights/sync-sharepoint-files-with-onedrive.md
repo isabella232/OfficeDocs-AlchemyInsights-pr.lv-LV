@@ -1,9 +1,9 @@
 ---
 title: “Atvērt ar Explorer“ problēmu novēršana pakalpojumā SharePoint darbam tiešsaistē
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803045"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270715"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>“Atvērt ar Explorer“ problēmu novēršana pakalpojumā SharePoint darbam tiešsaistē
 
@@ -31,9 +31,9 @@ Ja izvēlējāties izmantot Explorer skatu, nevis izmantot jauno OneDrive sinhro
 
 > [!Note]  
 > Poga **Atvērt ar Explorer** nav redzama jaunākajā bibliotēku pieredzē. Atlasiet uz nolaižamās izvēlnes **Skats** augšējā labajā stūrī (nolaižamās izvēlnes nosaukums mainās, atkarībā no pašreizējā skata), un pēc tam atlasiet **Skatīt failu pārlūkā**.
-
+>
  >SharePoint Atvērt ar Explorer izmanto ActiveX vadīklas, tāpēc to atbalsta tikai pārlūkprogramma Internet Explorer 10 vai 11. Atvērt ar Explorer nedarbojas operētājsistēmā Windows ar pārlūkprogrammām Microsoft Edge, Google Chrome un Mozilla Firefox, kā arī platformā Mac. Šī iemesla dēļ pārlūka skata opcija var būt pelēkota.
-
+>
 > - [Kāpēc SharePoint lentes pogas nav pieejamas vai ir pelēkotas](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 

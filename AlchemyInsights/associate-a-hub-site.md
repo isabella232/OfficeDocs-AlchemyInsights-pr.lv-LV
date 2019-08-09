@@ -1,21 +1,22 @@
 ---
 title: Saistīt rumbas vietā
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903044"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270174"
 ---
 # <a name="associate-a-hub-site"></a>Saistīt rumbas vietā
 
@@ -27,6 +28,6 @@ Lai saistītu esošu vietni rumbas vietā, rīkojieties šādi:
 
  > [!Note]
 >Ja rumbas vietā asociācijas opcija nav klāt vai nav vietnēm ir uzskaitīti tur, rumbas vietās, iespējams, nav iespējota vai arī jums nav atļaujas vietnēm ir jāsaista ar centrmezglu vietu. Lai iegūtu papildinformāciju, sazinieties ar administratoru.
-
+>
 >Nav nekādu ierobežojumu par to, cik vietnēm, kas var būt saistīta ar rumbas vietā.
   
