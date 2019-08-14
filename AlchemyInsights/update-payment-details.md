@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903714"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387767"
 ---
 # <a name="update-payment-details"></a>Detalizētās informācijas par maksājumu atjaunināšana
 
-1. Administrēšanas centrā dodieties uz [maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapu vai izvēlieties **Norēķini** \> **Maksāšanas metodes**.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Ja rodas cilpa, kas nosūta jūs atpakaļ uz administrēšanas sākumlapu, pirms tiek pabeigti atjauninājumi, mēģiniet izmantot Inprivate vai inkognito režīmu.
@@ -37,4 +37,4 @@ ms.locfileid: "35903714"
 
 5. Lai noņemtu šo maksāšanas metodi, izvēlieties **Dzēst**.
 
-Papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) un [Kredītkaršu un bankas kontu problēmu novēršana](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://docs.microsoft.com/lv-LV/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) un [Kredītkaršu un bankas kontu problēmu novēršana](https://docs.microsoft.com/lv-LV/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
