@@ -13,23 +13,25 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354084"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388199"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="52bd6-102">Abonementa periodisku norēķinu</span><span class="sxs-lookup"><span data-stu-id="52bd6-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="c469c-102">Abonementa periodisku norēķinu</span><span class="sxs-lookup"><span data-stu-id="c469c-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="52bd6-103">Ja jūs vēlaties zināt, kad jūsu mēneša vai gada abonementu tiks nosūtīts rēķins (ja ir ieslēgts **periodisks norēķinu** ) vai beidzas (ja **norēķinu periodiski** tiek izslēgts):</span><span class="sxs-lookup"><span data-stu-id="52bd6-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
+<span data-ttu-id="c469c-103">Ja jūs vēlaties zināt, kad jūsu mēneša vai gada abonementu tiks nosūtīts rēķins (ja ir ieslēgts **periodisks norēķinu** ) vai beidzas (ja **norēķinu periodiski** tiek izslēgts):</span><span class="sxs-lookup"><span data-stu-id="c469c-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
   
-1. <span data-ttu-id="52bd6-104">Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.</span><span class="sxs-lookup"><span data-stu-id="52bd6-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="c469c-104">Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.</span><span class="sxs-lookup"><span data-stu-id="c469c-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="52bd6-105">Izvēlieties abonēšanas, ko vēlaties uzzināt vairāk par.</span><span class="sxs-lookup"><span data-stu-id="52bd6-105">Choose the subscription that you want to know more about.</span></span>
+2. <span data-ttu-id="c469c-105">Izvēlieties abonēšanas, ko vēlaties uzzināt vairāk par.</span><span class="sxs-lookup"><span data-stu-id="c469c-105">Choose the subscription that you want to know more about.</span></span>
 
-3. <span data-ttu-id="52bd6-106">Abonementa kartes labajā pusē ir informācija par abonementa statusu, **periodiski norēķiniem** noteikšanu un nākamo rēķinu vai derīguma termiņa beigu datumu.</span><span class="sxs-lookup"><span data-stu-id="52bd6-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span>
+3. <span data-ttu-id="c469c-106">Abonementa kartes labajā pusē ir informācija par abonementa statusu, **periodiski norēķiniem** noteikšanu un nākamo rēķinu vai derīguma termiņa beigu datumu.</span><span class="sxs-lookup"><span data-stu-id="c469c-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span>
 
-4. <span data-ttu-id="52bd6-107">Turpināt, izmantojot pakalpojumu garām šo datumu, pieslēdzieties **periodisks norēķinu iestatījumu** pārslēgšanas **uz**.</span><span class="sxs-lookup"><span data-stu-id="52bd6-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="52bd6-108">Statuss rādīs nākamās norēķinu dienas abonementa.</span><span class="sxs-lookup"><span data-stu-id="52bd6-108">The status will show the next billing date for the subscription.</span></span>
+4. <span data-ttu-id="c469c-107">Turpināt, izmantojot pakalpojumu garām šo datumu, pieslēdzieties **periodisks norēķinu iestatījumu** pārslēgšanas **uz**.</span><span class="sxs-lookup"><span data-stu-id="c469c-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="c469c-108">Statuss rādīs nākamās norēķinu dienas abonementa.</span><span class="sxs-lookup"><span data-stu-id="c469c-108">The status will show the next billing date for the subscription.</span></span>
 
-5. <span data-ttu-id="52bd6-109">Šajā datumā pārtraukt pakalpojumu, pieslēdzieties **periodisks norēķinu** pārslēgšanas **Off**.</span><span class="sxs-lookup"><span data-stu-id="52bd6-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="52bd6-110">Statuss rādīt datumu abonementa derīguma termiņš ir beidzies.</span><span class="sxs-lookup"><span data-stu-id="52bd6-110">The status will show the date the subscription expires.</span></span>
+5. <span data-ttu-id="c469c-109">Šajā datumā pārtraukt pakalpojumu, pieslēdzieties **periodisks norēķinu** pārslēgšanas **Off**.</span><span class="sxs-lookup"><span data-stu-id="c469c-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="c469c-110">Statuss rādīt datumu abonementa derīguma termiņš ir beidzies.</span><span class="sxs-lookup"><span data-stu-id="c469c-110">The status will show the date the subscription expires.</span></span>
+
+<span data-ttu-id="c469c-111">Jūs lietojat jaunu administrēšanas centrs</span><span class="sxs-lookup"><span data-stu-id="c469c-111">Are you using the new admin center?</span></span> <span data-ttu-id="c469c-112">Jaunas darbības, skatiet [Ieslēgt periodisko norēķinu vai izslēgtu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="c469c-112">For new steps, see [Turn recurring billing off or on](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>
