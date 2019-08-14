@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>01 jūlijs 2019 nedēļa
-
-
-| Publicēts |Tēmas nosaukums | Izmaiņas |
-|------|------------|--------|
-| 1/7/2019 | [Klasisks SharePoint audita žurnāla ziņojumi](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificēta |
-| 2/7/2019 | [Vairāk info par saglabāšanas politika](/AlchemyInsights/office-security-compliance-retention-policy) | modificēta |
-
-
 ## <a name="week-of-july-08-2019"></a>08 Jūlijs 2019 nedēļa
 
 
@@ -220,3 +211,69 @@
 | 2/8/2019 | [Organizēt e-pasta ziņojumu programmā Outlook Web](/AlchemyInsights/owa-organize-email) | modificēta |
 | 2/8/2019 | [Drukāšanai, e-pastu, kalendāru un pielikumiem programmā Outlook Web](/AlchemyInsights/owa-print-email-calendars-attachments) | modificēta |
 | 2/8/2019 | [Lasīšanas apliecinājumi programmā Outlook Web](/AlchemyInsights/owa-read-receipts) | modificēta |
+
+
+## <a name="week-of-august-05-2019"></a>05 augusts 2019 nedēļa
+
+
+| Publicēts |Tēmas nosaukums | Izmaiņas |
+|------|------------|--------|
+| 8/5/2019 | [Kā atbildēt vai pārsūtīt ziņojumus programmā Outlook Web](/AlchemyInsights/owa-reply-forward-messages) | modificēta |
+| 8/5/2019 | [8000003 meklēt pastu un cilvēki savā Outlook Web](/AlchemyInsights/owa-search-mail-and-people) | modificēta |
+| 8/5/2019 | [Paraksta izveidošana programmā Outlook Web](/AlchemyInsights/owa-signature) | modificēta |
+| 8/5/2019 | [S/MIME programmā Outlook Web](/AlchemyInsights/owa-smime) | modificēta |
+| 8/5/2019 | [Apturētu ziņojumu no došanās uz mapi Nevēlamais e-pasts, Outlook Web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | modificēta |
+| 8/5/2019 | [Izslēgt koncentrēta Iesūtne](/AlchemyInsights/owa-turn-off-focused-inbox) | modificēta |
+| 8/5/2019 | [1332 OWA - iesūtnes kārtula ir nav izpildes pastkastes](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | modificēta |
+| 8/6/2019 | [Alchemy inline attēlus testēšana](/AlchemyInsights/testing-alchemy-inline-images) | modificēta |
+| 8/6/2019 | [Papildu draudus aizsardzības SharePoint un OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificēta |
+| 8/6/2019 | [Ransomware uzbrukums SharePoint vai OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificēta |
+| 8/6/2019 | [Mūsdienu vietni kā saknes vietni](/AlchemyInsights/modern-site-as-the-root-site) | modificēta |
+| 8/6/2019 | [Jautājumus tiešsaistē SharePoint datu migrēšanas laikā](/AlchemyInsights/sharepoint-data-size-migration-issues) | modificēta |
+| 8/6/2019 | [Lejupielādēt vai novērstu lejupielādēt failus no OneDrive vai SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificēta |
+| 8/6/2019 | [Problēmu novēršanas pieeja liegta ziņojumus OneDrive darba vietām](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | modificēta |
+| 8/6/2019 | [Atjaunot izdzēstu failu vai mapi](/AlchemyInsights/sharepoint-deleted-items-restore) | modificēta |
+| 8/6/2019 | [Versiju izveide SharePoint un OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificēta |
+| 8/6/2019 | [Saglabāšanas un dzēšanas OneDrive informācija](/AlchemyInsights/one-drive-retention-and-deletion) | modificēta |
+| 7/8/2019 | [Neļautu faili tiek lejupielādēti no SharePoint vai OneDrive](/AlchemyInsights/prevent-download) | modificēta |
+| 7/8/2019 | [Atjaunot izdzēstu failu vai mapi](/AlchemyInsights/sharepoint-deleted-items-restore) | modificēta |
+| 7/8/2019 | [Iespējojiet ārējo koplietošana SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | modificēta |
+| 7/8/2019 | [Noteikt OneDrive sinhronizācijas problēmas](/AlchemyInsights/fix-onedrive-sync-issues) | modificēta |
+| 7/8/2019 | [Fix OneDrive sinhronizācijas problēmas](/AlchemyInsights/fix-onedrive-sync-problems) | modificēta |
+| 7/8/2019 | [Darbplūsmu, e-pasts netiek nosūtīts](/AlchemyInsights/workflow-email-not-being-sent) | modificēta |
+| 7/8/2019 | [Darbplūsmu nevar sākt](/AlchemyInsights/workflow-is-not-starting) | modificēta |
+| 7/8/2019 | [Papildu draudus aizsardzības SharePoint un OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificēta |
+| 7/8/2019 | [Saistīt rumbas vietā](/AlchemyInsights/associate-a-hub-site) | modificēta |
+| 7/8/2019 | [Izveidotu SharePoint vietni](/AlchemyInsights/create-a-sharepoint-site) | modificēta |
+| 7/8/2019 | [Mūsdienu vietni kā saknes vietni](/AlchemyInsights/modern-site-as-the-root-site) | modificēta |
+| 7/8/2019 | [OneDrive saglabāšanas un dzēšanas](/AlchemyInsights/one-drive-retention-and-deletion) | modificēta |
+| 7/8/2019 | [OneDrive bieži sastopamām problēmām, kā _ arī izšķirtspēju](/AlchemyInsights/onedrive-common-issues-and-resolutions) | modificēta |
+| 7/8/2019 | [Ransomware uzbrukums SharePoint vai OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificēta |
+| 7/8/2019 | [Ārējās koplietošanas vidē SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | modificēta |
+| 7/8/2019 | [Versiju izveide SharePoint un OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | modificēta |
+| 7/8/2019 | [Ārēja kontaktpersona nespēj pieņemt koplietošanas uzaicināt](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | modificēta |
+| 7/8/2019 | [SharePoint Online bieži sastopamām problēmām, kā _ arī izšķirtspēju](/AlchemyInsights/sharepoint-get-started-faq) | modificēta |
+| 7/8/2019 | [Mūsdienu vietni kā saknes vietni](/AlchemyInsights/sharepoint-modernize-classic-site) | modificēta |
+| 7/8/2019 | [Lejupielādēt vai novērstu lejupielādēt failus no OneDrive vai SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificēta |
+| 7/8/2019 | [Instalēt, uzstādīšana, un sinhronizēt OneDrive vai SharePoint failus uz Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | modificēta |
+| 7/8/2019 | ["Open ar Explorer" problēmu novēršana programmā SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificēta |
+| 8/8/2019 | [Papildu draudus aizsardzības SharePoint un OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | modificēta |
+| 8/8/2019 | [Saistīt rumbas vietā](/AlchemyInsights/associate-a-hub-site) | modificēta |
+| 8/8/2019 | [Izveidotu SharePoint vietni](/AlchemyInsights/create-a-sharepoint-site) | modificēta |
+| 8/8/2019 | [404 kļūda: Fails nav atrasts](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | modificēta |
+| 8/8/2019 | [Noteikt OneDrive sinhronizācijas problēmas uz Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | modificēta |
+| 8/8/2019 | [Koplietošanas vides SharePoint bibliotēkā Kartēt tīkla disku](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | modificēta |
+| 8/8/2019 | [Mūsdienu vietni kā saknes vietni](/AlchemyInsights/modern-site-as-the-root-site) | modificēta |
+| 8/8/2019 | [OneDrive saglabāšanas un dzēšanas](/AlchemyInsights/one-drive-retention-and-deletion) | modificēta |
+| 8/8/2019 | [Ransomware uzbrukums SharePoint vai OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | modificēta |
+| 8/8/2019 | [Atjaunot izdzēstu failu vai mapi](/AlchemyInsights/sharepoint-deleted-items-restore) | modificēta |
+| 8/8/2019 | [Ārējais lietotājs nespēj piekļūt saturu SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | modificēta |
+| 8/8/2019 | [SharePoint rumbas vietnes pārskats](/AlchemyInsights/sharepoint-hub-sites) | modificēta |
+| 8/8/2019 | [Lejupielādēt vai novērstu lejupielādēt failus no OneDrive vai SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | modificēta |
+| 8/8/2019 | [Pārvaldīt meklēšanas shēmas SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | modificēta |
+| 8/8/2019 | [Darbības, lai izveidotu SharePoint darbplūsmu](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | modificēta |
+| 8/8/2019 | [Apmainiet savu klasisko saknes vietni ar mūsdienu vietā](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | modificēta |
+| 8/8/2019 | ["Open ar Explorer" problēmu novēršana programmā SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | modificēta |
+| 8/8/2019 | [Darbplūsmas Traucējummeklēšana](/AlchemyInsights/workflow-troubleshooting) | modificēta |
+| 8/8/2019 | [Iespējot un meklēšanas audita žurnāla](/AlchemyInsights/enable-auditing) | modificēta |
+| 8/8/2019 | [Iespējojiet un meklēt audita žurnālā](/AlchemyInsights/enable-auditing) | modificēta |

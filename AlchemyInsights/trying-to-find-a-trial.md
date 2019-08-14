@@ -13,23 +13,23 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366756"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387851"
 ---
 # <a name="trying-to-find-a-trial"></a>Mēģinot atrast izmēģinājuma versiju?
 
-Ja vēlaties izmēģināt jauno pakalpojumu, jūs varat atrast sarakstu ar abonementu pieejams izmēģinājuma versijā Microsoft 365 administrēšanas centrā.
+Ja vēlaties izmēģināt jauno pakalpojumu, jūs varat atrast sarakstu ar abonementu pieejams izmēģinājuma versijā administrēšanas centrā.
   
-1. Dodieties uz lappusi [Pakalpojumi iepirkuma](https://go.microsoft.com/fwlink/p/?linkid=868433) vai izvēlēties **norēķinu** \> **pirkšanas pakalpojumus**.
+1. Admin Center, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
 
-2. Abonements, kas atbilst jūsu vajadzībām, peli pār to, atrast un izvēlēties **Sākt bezmaksas izmēģinājuma**.
+2. Abonements, kas atbilst jūsu vajadzībām, peli pār to, atrast un izvēlēties **sākt bezmaksas izmēģinājuma**.
 
     > [!NOTE]
-    > Ne visi abonementi ir pieejams kā izmēģinājuma versiju. Ja neredzat pogu **Sākt bezmaksas izmēģinājuma** , kad jūs peli abonements, tas nozīmē, ka trial pašlaik nav pieejams.
+    > Ne visi abonementi ir pieejams kā izmēģinājuma versiju. Ja neredzat pogu **sākt bezmaksas izmēģinājuma** , kad jūs peli abonements, tas nozīmē, ka trial pašlaik nav pieejams.
   
 3. Iespējams, tiks prasīts ievadīt kredītkartes vai cita maksājumu metode, kas ļauj nodrošināt papildu pārbaudi, kā drošības līdzekli. Jums nebūs jāmaksā par šo bezmaksas izmēģinājumu. Mēs saglabās jūsu maksājumu informāciju par failu, un paradis izmantot jebkuru pirkumu bez jūsu apstiprinājuma.
 

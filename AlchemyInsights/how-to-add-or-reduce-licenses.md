@@ -13,18 +13,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385660"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388823"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Kā pievienot vai samazināt licences
 
 Lūk, kā noņemt vai_ar ī jāiegādājas papildu licences.
   
-1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
+1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
 
 2. Kreisajā pusē izvēlieties abonēšanas, no kuriem jūs vēlaties pievienot vai noņemt licences
 
@@ -38,13 +38,15 @@ Lūk, kā noņemt vai_ar ī jāiegādājas papildu licences.
 
 > [!NOTE]
 > Jebkuru jaunu maksas (licences palielinājums) vai kredītu (licences samazinājums) parādīsies uz jūsu nākamo likumprojektu.
-  
+
+Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [nopirkt jūsu Office 365 biznesa abonementa licences](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+
  **Resursi**
   
-- [Jūsu Office 365 biznesa abonēšanas licences noņemšana](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [Jūsu Office 365 biznesa abonēšanas licences noņemšana](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Iegādāties Office 365, biznesa abonēšanas licences](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Iegādāties Office 365, biznesa abonēšanas licences](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
 
-- [Atcelt biroja 365 uzņēmējdarbībai](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Atcelt biroja 365 uzņēmējdarbībai](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Iegādāties citu Office 365 biznesa abonēšana](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Iegādāties citu Office 365 biznesa abonēšana](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)

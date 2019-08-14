@@ -14,18 +14,18 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 8b125fb798829f7e67ffc670d9d38dc50bb2d21a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383896"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390915"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Kā iegādāties Office 365 izglītības plāni
 
 Ir apstiprināti Office 365 izglītībai. Lai iegādātos:
   
-1. Admin Center, dodieties uz lappusi [Pakalpojumi iepirkuma](https://go.microsoft.com/fwlink/p/?linkid=868433) vai izvēlēties **norēķinu** \> **Pirkšanas pakalpojumus**.
+1. Admin Center, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
 
 2. Izvēlieties no saraksta zem **Izglītības plānus**.
 

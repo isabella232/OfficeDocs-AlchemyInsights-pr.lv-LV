@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371211"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388607"
 ---
 # <a name="prepaid-renewal"></a>Priekšapmaksas atjaunošanas
 
-1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
+1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
 
 2. Izvēlas priekšapmaksas abonementu, jūs vēlētos, lai paplašinātu un pēc tam noklikšķiniet uz **paplašināt**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371211"
 5. Pārliecinieties, vai informācija ir pareiza un pēc tam noklikšķiniet uz **Tālāk**.
 
 6. Izvēlieties radio pogu lai paplašinātu esošās licences beigu datumu un pēc tam noklikšķiniet uz **Nākamais**.
+
+Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

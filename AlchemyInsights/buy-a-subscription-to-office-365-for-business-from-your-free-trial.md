@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359361"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386879"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Iegādāties abonementu Office 365 no jūsu bezmaksas izmēģinājuma
 
@@ -26,18 +26,16 @@ Esmu mēģinājis Office 365, un tagad jūs esat gatavi pirkt. Pērkot Office 36
   
  **Jūs varat iegādāties pašu plānu kā izmēģinājuma versiju**
   
-1. Administrēšanas centrā dodieties uz lapu [Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **Norēķini** \> **Abonementi**.
+1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
 
 2. Izmēģinājuma abonementu, kuru vēlaties izvēlēties **iegādāties tūlīt** un izpildiet norādījumus, lai izbraukšana.
 
 vai arī **jūs varat iegādāties dažādas abonēšanas**
   
-1. Pierakstīties programmā Office 365 ar jūsu darba vai skolas konts kā globālo admin. [Uzziniet, kā pieteikties](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
 
-2. Izvēlieties **Office 365** sākumlapā.
+2. **Abonementa** lapā atzīmējiet **Pievienot abonementu**.
 
-3. Lappusē, zem navigācijas joslu labajā augšējā stūrī izvēlieties **iegādes**.
+3. Atrast abonements, ko vēlaties pirkt, **Nopirkt tagad**izvēlēties un izpildiet norādījumus, lai izbraukšana.
 
-4. **Iepirkuma abonēšanas** lapā jūs cenšaties plāns ir **Šajā pētījumā** banner.
-
-5. Izmēģinājuma abonementu, kuru vēlaties izvēlēties **iegādāties tūlīt** un izpildiet norādījumus, lai izbraukšana.
+Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [iegādāties Office 365 uzņēmumu no jūsu bezmaksas izmēģinājuma abonementu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358836"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385872"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivizējot Microsoft Office 365 lielapjoma licences abonementa
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358836"
 
 5. Pierakstīties pakalpojumā Office 365 ([https://portal.office.com](https://portal.office.com)) izmantojot esošās biroja 365 administratora akreditācijas datus. Pēc tam, kad esat veiksmīgi pierakstījies, jūs saņemsit vēl vienu e-pastu, kas apstiprina jūsu pirkumu.
 
-6. Pēc tam, kad esat pierakstījies, varat doties uz [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu**  - \> **abonementus** , lai pārbaudītu iegādāto biroja 365 abonementus aktivizēti pēc jūsu īrnieks. (Jūs varat arī izvēlēties **abonēšanas** cilni VLSC skatīt detaļas, kas pārbauda jūsu abonementa glabāšanā.) 
+6. Pēc tam, kad esat pierakstījies, varat doties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lappusi, lai pārbaudītu jūsu iegādāto biroja 365 abonementus aktivizēti laikā jūsu īrnieks. (Jūs varat arī izvēlēties **abonēšanas** cilni VLSC skatīt detaļas, kas pārbauda jūsu abonementa glabāšanā.)
