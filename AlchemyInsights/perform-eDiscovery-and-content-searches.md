@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371440"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444779"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanu un meklēšanu eDiscovery
 
-**Satura meklēšana**
+Izmantot satura meklēšanas rīkā & drošības atbilstības centru, lai ātri atrastu e-pasta Exchange pastkastēm, SharePoint vietņu un OneDrive kontu un tūlītējās ziņojumapmaiņas sarunas ar Skype biznesa dokumentus. Satura meklēšanas rīku var izmantot arī, lai meklētu e-pastu, dokumentus un tūlītējās ziņojumapmaiņas sarunas Office 365 sadarbības instrumentus, piemēram, Microsoft Teams un biroja 365 grupas.
+
+**Lai veiktu satura meklēšanu**
 
 1. Dodieties uz [drošības & Center izpildes](https://protection.office.com) un pierakstieties.
-2. Noklikšķiniet uz **Search & izmeklēšanas > satura meklēšanu**.
+2. Noklikšķiniet uz **Meklēt > saturu**.
 3. Noklikšķiniet uz **Jauna meklēšana** , lai izveidotu jaunu meklēšanu.
 4. Ievadiet nepieciešamo meklēšanas nosacījumus, tai skaitā atslēgvārdi un satura atrašanās vietu.  
-5. Noklikšķiniet uz **Saglabāt & palaist** vārdu meklēšanas, sākt to un pēc tam priekšskatīt rezultātus.
+5. Noklikšķiniet uz **saglabāt & palaist** vārdu meklēšanas, sākt to un pēc tam priekšskatīt rezultātus.
 
-Detalizētas instrukcijas par izveidi meklējumiem un eksportēšanas rezultātus, skatiet [šajā rakstā](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Detalizētas instrukcijas par satura meklēšanu, eksportējot rezultātus un radot eDiscovery gadījumos, lai ietvertu datus, skatiet [Satura meklēšanu](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) un [eDiscovery gadījumos](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**eDiscovery meklēšanu**
-
-1. Dodieties uz [drošības & Center izpildes](https://protection.office.com) un pierakstieties.
-2. Noklikšķiniet uz **Search & izmeklēšanas > eDiscovery**.
-3. Atvērt esošu lietu vai izveidot jaunu lietojumprogrammu pūlu.
-4. Lieta mājas lapā noklikšķiniet uz cilnes **meklēšana** .  
-5. Noklikšķiniet uz **Jauna meklēšana** , lai izveidotu jaunu meklēšanu.
-6. Ievadiet nepieciešamo meklēšanas nosacījumus, tai skaitā atslēgvārdi un satura atrašanās vietu.  
-7. Noklikšķiniet uz **Saglabāt & palaist** vārdu meklēšanas, sākt to un pēc tam priekšskatīt rezultātus.
-
-Detalizētas instrukcijas par radot meklējumus, kas saistīti ar eDiscovery lietu un eksportēšanas rezultātus, skatiet [šajā rakstā](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Saprast vairāk par satura meklēšanu, pārskatot [prasības un ierobežojumus](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) un [izmeklēt daļēji indeksē vienumus](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) un citiem rezultāti būtu zināmi.
