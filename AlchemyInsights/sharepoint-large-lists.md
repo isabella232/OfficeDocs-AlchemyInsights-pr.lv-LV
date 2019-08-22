@@ -13,16 +13,16 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: defb8213c48cec39fca124b8e9751945d7ce5a82
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f900287067e7f570de770f7e2098ba62b8086ef8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368808"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508574"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a><span data-ttu-id="c8152-102">Strādātu ar lieliem saraksti un bibliotēkas SharePoint</span><span class="sxs-lookup"><span data-stu-id="c8152-102">Work with large lists and libraries in SharePoint</span></span>
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a><span data-ttu-id="dfbc7-102">Strādātu ar lieliem saraksti un bibliotēkas SharePoint</span><span class="sxs-lookup"><span data-stu-id="dfbc7-102">Work with large lists and libraries in SharePoint</span></span>
 
-<span data-ttu-id="c8152-103">SharePoint sarakstiem un bibliotēkām, var saturēt ne vairāk kā 30 miljonus vienības, bet ja tie ir vairāk nekā 5000 preces, var redzēt saraksta skata sliekšņa kļūda mēģinot strādāt ar tiem.</span><span class="sxs-lookup"><span data-stu-id="c8152-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a List View Threshold error when you try to work with them.</span></span> <span data-ttu-id="c8152-104">Šis slieksnis ir vieta, kur saglabāt pakalpojumu sniegšanu.</span><span class="sxs-lookup"><span data-stu-id="c8152-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="c8152-105">To nevar mainīt.</span><span class="sxs-lookup"><span data-stu-id="c8152-105">It can't be changed.</span></span> <span data-ttu-id="c8152-106">Lai izvairītos no hitting šis slieksnis, varat [pievienot indeksu](https://go.microsoft.com/fwlink/?linkid=867784), [lietotāja filtru, lai mainītu skatu](https://go.microsoft.com/fwlink/?linkid=867786), elementu organizēšana mapēs, vai strādāt ar sinhronizētu dokumentu bibliotēkas lokāli savā datorā.</span><span class="sxs-lookup"><span data-stu-id="c8152-106">To avoid hitting this threshold, you can [add an index](https://go.microsoft.com/fwlink/?linkid=867784), [user filters to change the view](https://go.microsoft.com/fwlink/?linkid=867786), organize items into folders, or work with synced document libraries locally on your computer.</span></span>
+<span data-ttu-id="dfbc7-103">SharePoint sarakstiem un bibliotēkām, var saturēt ne vairāk kā 30 miljonus vienības, bet ja tie ir vairāk nekā 5000 preces, var redzēt saraksta skata sliekšņa kļūda mēģinot strādāt ar tiem.</span><span class="sxs-lookup"><span data-stu-id="dfbc7-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a List View Threshold error when you try to work with them.</span></span> <span data-ttu-id="dfbc7-104">Šis slieksnis ir vieta, kur saglabāt pakalpojumu sniegšanu.</span><span class="sxs-lookup"><span data-stu-id="dfbc7-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="dfbc7-105">To nevar mainīt.</span><span class="sxs-lookup"><span data-stu-id="dfbc7-105">It can't be changed.</span></span> <span data-ttu-id="dfbc7-106">Lai izvairītos no hitting šis slieksnis, varat [pievienot indeksu](https://go.microsoft.com/fwlink/?linkid=867784), [lietotāja filtru, lai mainītu skatu](https://go.microsoft.com/fwlink/?linkid=867786), elementu organizēšana mapēs, vai strādāt ar sinhronizētu dokumentu bibliotēkas lokāli savā datorā.</span><span class="sxs-lookup"><span data-stu-id="dfbc7-106">To avoid hitting this threshold, you can [add an index](https://go.microsoft.com/fwlink/?linkid=867784), [user filters to change the view](https://go.microsoft.com/fwlink/?linkid=867786), organize items into folders, or work with synced document libraries locally on your computer.</span></span>
   
-[<span data-ttu-id="c8152-107">Vairāk padomus darbam robežvērtību sarakstu skatīt</span><span class="sxs-lookup"><span data-stu-id="c8152-107">More tips for working within the List View Threshold</span></span>](https://go.microsoft.com/fwlink/?linkid=867787)
+[<span data-ttu-id="dfbc7-107">Vairāk padomus darbam robežvērtību sarakstu Skatīt</span><span class="sxs-lookup"><span data-stu-id="dfbc7-107">More tips for working within the List View Threshold</span></span>](https://go.microsoft.com/fwlink/?linkid=867787)
   
