@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: bf6d6736eaf281bcd03f2fe8a204c8e42c81822f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3597dd795138af78a2b4cc547deb603fe66593f9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398157"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494170"
 ---
 # <a name="change-your-password"></a>Mainīt paroli
 
@@ -24,9 +24,9 @@ Ja esat aizmirsis savu paroli, dodieties uz [Microsoft konta, paroli atiestatīt
   
 1. Atlasiet vārdu vai profila attēls augšējā labajā stūrī un **skatītu konta**. 
     
-2. Saskaņā ar Hello! banneris, izvēlieties **Mainīt paroli**. 
+2. Saskaņā ar Hello! banneris, izvēlieties **mainīt paroli**. 
     
-3. Izvēlieties jaunu paroli un izvēlieties **Saglabāt**. 
+3. Izvēlieties jaunu paroli un izvēlieties **saglabāt**. 
     
 Lai uzzinātu vairāk, skatiet [mainīt savu paroli Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
   
