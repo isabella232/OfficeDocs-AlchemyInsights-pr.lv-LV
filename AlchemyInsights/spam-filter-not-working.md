@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 642b17adc4c362394995ff78dfc8a237a6484a12
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704633"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501302"
 ---
 # <a name="spam-filter-not-working"></a>Surogātpasta filtrs nedarbojas
 
-Ja jūs uzskatāt, ka esat saņēmis ziņojumu, ir pikšķerēšanas vai izlikšanos scam, atzīmēt ziņojumu kā nevēlamā e-pasta ziņojumu, tad iet uz **Nevēlamā e-pasta**, atlasiet ziņojumu un **vajadzīgus** \> **pikšķerēšanu** , lai atzīmētu to kā pikšķerēšanas scam. Lai uzzinātu vairāk par ļaunprātīgu izmantošanu, pikšķerēšanas un izlikšanos, [izlasiet šo](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Bloķēt e-pasta adreses, adreses vai domēnus, pievienojiet to savam drošo sūtītāju sarakstam vai lietot citas nevēlamā e-pasta opcijas, atlasiet **nevēlamā e-pasta opcijas**.
+Ja jūs uzskatāt, ka jūs esat saņēmis Outlook.com ziņojums ir pikšķerēšanas vietne vai izlikšanos scam, atlasiet šo ziņojumu un atlasiet **nevēlamo** \> **pikšķerēšanu** , lai atzīmētu to kā pikšķerēšanas scam. Lai uzzinātu vairāk par ļaunprātīgu izmantošanu, pikšķerēšanas un izlikšanos, [izlasiet šo](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Bloķēt e-pasta adreses, adreses vai domēnus, pievienojiet to savam drošo sūtītāju sarakstam vai lietot citas nevēlamā e-pasta opcijas, atlasiet **nevēlamā e-pasta opcijas**.
   

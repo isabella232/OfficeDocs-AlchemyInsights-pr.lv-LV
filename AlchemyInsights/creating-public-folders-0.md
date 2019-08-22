@@ -12,12 +12,12 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 9c7a673eeacb2c67422ff58cd96724212a21151a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363228"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514878"
 ---
 # <a name="creating-public-folders"></a>Izveidojot publiskās mapes
 
@@ -25,7 +25,7 @@ Lai jūsu lietotāji varētu izmantot publiskās mapes programmā Office 365, ju
   
 1. O365 portālā, izmantojot izvēlni kreisajā navigācijas rūtī naviģējiet uz **Admin centri** \> **apmaiņu**.
 
-2. Naviģējiet uz **publiskajām mapēm** \> **pastkastes publiskās mapes**un pēc tam noklikšķiniet uz **Pievienot**.
+2. Naviģējiet uz **publiskajām mapēm** \> **pastkastes publiskās mapes**un pēc tam noklikšķiniet uz **pievienot**.
 
 3. **Publiskās mapes pastkastē**, sniegt tai publiskajai mapei nosaukumu.
 

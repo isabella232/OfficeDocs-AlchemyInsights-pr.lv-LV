@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389731"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496118"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Atsauktu vai aizstātu e-pasta ziņojumu
+# <a name="recall-or-replace-an-outlook-email-message"></a>Atsauktu vai aizstātu Outlook e-pasta ziņojumu
 
 - Kā administrators, varat **Atsaukt ziņojumus, izmantojot programmu PowerShell lietotāju vārdā**. Ziņas no admin center nevar atsaukt.
 - Jūs varat **tikai atsaukt ziņojumus, kas nosūtīti cilvēkiem jūsu organizācijā**. Ja ziņojums tika nosūtīts Gmail adresi, piemēram, nevaru atcerēties to.

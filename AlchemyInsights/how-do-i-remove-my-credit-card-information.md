@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390303"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523158"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kā noņemt manas kredītkartes informāciju?
 
-1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
+1. Microsoft 365 admin Center, dodieties uz **norēķinu** \> [maksāšanas](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapu.
 
-2. Izvēlēties jebkuru abonementu un pēc tam izvēlieties **atjaunināt maksājuma detaļas**.
+2. Lapā **maksājumu metodes** izvēlēties kredītkarti vai bankas kontu izdzēst.
 
-3. Izvēlieties nolaižamās bultiņas sadaļā **pievienot, vai atlasiet maksāšanas metodi**, izvēlieties kredītkartes vai bankas konta, kuru vēlaties dzēst un pēc tam izvēlieties **Noņemt**.
-
-4. Izvēlēties **Noņemt** vēlreiz, lai dzēstu kredītkartes vai bankas konta.
+3. Lai noņemtu kredītkartes vai bankas kontu, atlasiet **Dzēst maksāšanas.**
 
 > [!NOTE]
-> Kredītkartes vai bankas konta, varat noņemt, kamēr jums nav kredītkartes vai bankas konta atlikumu un jūs to izmantojat nav jāmaksā par aktīvu abonements.
+> Jūs nevarēsiet noņemt kredītkartes vai bankas konta, ja pašreiz tas tiek izmantots abonementu apmaksai.
 
-Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [pievienot, atjaunināt, vai izņemt kredītkarti vai bankas konta Office 365 uzņēmējdarbībai](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+4. **Dzēst maksāšanas** rūtī atlasiet **Dzēst**.
+
+Papildinformāciju skatiet sadaļā [pievienot, atjaunināt, vai izņemt kredītkarti vai bankas konta Office 365 uzņēmējdarbībai](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
