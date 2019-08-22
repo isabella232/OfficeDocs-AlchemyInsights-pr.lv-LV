@@ -13,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359412"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496348"
 ---
 # <a name="office-365-alert-policies"></a>Biroja 365 brīdinājuma noteikumi
 
@@ -32,7 +32,7 @@ _AMP_ Office 365 drošības ievērošanu centrs piedāvā [noklusējuma brīdin�
 Lai pārskatītu un rīkoties saskaņā ar brīdinājumu:
 
 1. Dodieties uz [drošības & Center izpildes](https://protection.office.com) un pierakstieties.
-2. Noklikšķiniet uz **brīdinājumi > skatīt brīdinājumus**.
+2. Noklikšķiniet uz **brīdinājumi > Skatīt brīdinājumus**.
 3. Noklikšķiniet uz brīdinājuma, lai parādītu flyout lapu ar informāciju par brīdinājumu.
 
 Var rīkoties pēc brīdinājumu, piemēram, [iztukšo aizdomīgu iesūtnes kārtulu](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Vai varat vienkārši aizvērt brīdinājuma **atrisināt** lapā noklikšķinot uz brīdinājuma flyout.

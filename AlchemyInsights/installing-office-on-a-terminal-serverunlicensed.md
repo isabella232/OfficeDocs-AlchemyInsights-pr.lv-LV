@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381736"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498422"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalējot Office termināļu serverī
 
@@ -26,7 +26,7 @@ Par to, kā izvietot Office 365 ProPlus Windows serverī, izmantojot attālās d
 
 - Ir jāiespējo [koplietojamās datora aktivizāciju](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ja vēlaties instalēt Office 365 ProPlus RDS no portāla Office 365 * * *kas izmanto instalācijas noklusējuma iestatījumus* * *, rīkojieties šādi:
+Ja vēlaties instalēt Office 365 ProPlus RDS Office 365 portālā, ***kas izmanto instalācijas noklusējuma iestatījumus***, rīkojieties šādi:
   
 1. Pārbaudiet, kāda Office 365 plānu, kas jums ir. [Uzziniet, kā](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Ja vēlaties instalēt Office 365 ProPlus RDS no portāla Office 365 * * *kas iz
 
 4. RDS serverī, pierakstieties pakalpojumā Office 365 portāls ar administratora kontu un [instalēt Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Pēc tam, kad ir instalēta Office * * *nav atvērts vai pierakstieties* * * lai visas Office lietojumprogrammas.
+5. Pēc tam, kad ir instalēta Office, ***nav jāatver vai pierakstīties*** uz jebkuru Office lietojumprogrammām.
 
 6. Serverī RDS iespējotu koplietojamās datora aktivizāciju, rediģējot reģistru, veicot šādas darbības:
 
@@ -46,7 +46,7 @@ Ja vēlaties instalēt Office 365 ProPlus RDS no portāla Office 365 * * *kas iz
 
 3. Reģistra redaktoru, pievienot virknes vērtība ir **SharedComputerLicensing** , kurā 1 zem HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Serverī RDS * * *, pierakstieties kā lietotājs* * * un [pārbaudīt, ka koplietojama datora aktivizēšana ir iespējota Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS serverī, ***jāpierakstās kā lietotājam*** un [pārbaudīt, ka koplietojama datora aktivizēšana ir iespējota Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Sīkāku informāciju par priekšnoteikumiem, uzstādīšanas instrukcijas un norādījumi par pielāgoto instalāciju, izmantojot rīku Office izvietošanu, lūdzu skatīt [Izvietot Office 365 ProPlus, izmantojot attālās darbvirsmas pakalpojumu](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

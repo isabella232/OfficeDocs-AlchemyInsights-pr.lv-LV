@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387760"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506126"
 ---
 # <a name="view-my-bill"></a>Skatīt manu rēķinu
 
-1. Admin Center, dodieties uz **norēķinu** \> [rēķinus](https://go.microsoft.com/fwlink/p/?linkid=848039) lapu.
+1. Microsoft 365 admin Center, dodieties uz **norēķinu** \> [rēķinus & maksājumu](https://go.microsoft.com/fwlink/p/?linkid=848039) lapā.
 
-2. Izvēlēties mēnesi un datumu vēlaties rēķina un pēc tam izvēlieties **skatu**.
+2. Nolaižamajā sarakstā atlasiet datu diapazonu, un pēc tam izvēlieties pasūtījumu, kuru vēlaties skatīt.
 
-3. Izvēlieties rīkojumu, un pēc tam **Skatīt detaļas**.
-
-Plašāku informāciju skatiet [rēķinu vai rēķinu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Plašāku informāciju skatiet [rēķinu vai rēķinu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

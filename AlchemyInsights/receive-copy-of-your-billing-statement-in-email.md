@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385835"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510090"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Saņemt kopiju no jūsu rēķinu pa e-pastu
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Saņemt kopiju no jūsu biroja 365 rēķinu pa e-pastu
 
 Varat izvēlēties saņemt kopiju no jūsu rēķinu kā e-pasta pielikumu. Ja jums jāapzinās, ka:
   
@@ -32,4 +32,4 @@ Lai saņemtu savu rēķinu pa e-pastu:
   
 1. Admin Center, dodieties uz **norēķinu** \> lapu [norēķinu paziņojumi](https://go.microsoft.com/fwlink/p/?linkid=853212) .
 
-2. Saskaņā ar **vai vēlaties saņemt rēķinu kā e-pasta pielikumu?**, pārslēgšanas slēdzi **on**. Varat apturēt norēķinu e-pasta paziņojumu saņemšanas jebkurā brīdī, pārslēdzoties pārslēgšanas uz **Off**.
+2. Saskaņā ar **saņemt rēķinu kā e-pasta pielikumu?**, pārslēgšanas slēdzi **on**. Varat apturēt norēķinu e-pasta paziņojumu saņemšanas jebkurā brīdī, pārslēdzoties pārslēgšanas uz **Off**.

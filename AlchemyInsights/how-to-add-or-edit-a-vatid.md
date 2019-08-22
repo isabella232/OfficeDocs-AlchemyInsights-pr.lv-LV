@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386411"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522618"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Kā pievienot vai rediģēt VatID
 
-- Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
+1.  Microsoft 365 admin Center, dodieties uz **norēķinu** \> [produkti & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
 
-- **Abonēšanas** lapā izvēlieties abonementu, kuru vēlaties rediģēt, un pēc tam izvēlieties **Vairāk darbības** \> **labot PVN reģistrācijas numuru**.
+2. Atrast abonementa karte abonementu, kuru vēlaties atjaunināt.
 
-- **Rediģēt adrešu pakalpojuma lietošanas** rūts apakšā, ievadīt vai labot PVN ID, **PVN numurs** lodziņā un pēc tam izvēlieties **iesniegt**.
+3. Sadaļā **Iestatījumi & darbības** atlasiet **Rediģēt pakalpojuma lietošanas adresi**.
+
+4. Lapā **Rediģēt pakalpojuma lietošanas adrese** , **PVN maksātāja numurs** lodziņā ievadiet PVN ID un pēc tam atlasiet **saglabāt**.
 
     Kad pabeigts, PVN nav jāmaksā par nākamo likumprojektu.
 
-Lai iegūtu papildinformāciju, skatiet [kāda nodokļa man būs jāmaksā par biroja 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [pievienot PVN ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Lai iegūtu papildinformāciju, skatiet [kāda nodokļa man būs jāmaksā par biroja 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) vai [pievienot PVN ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
