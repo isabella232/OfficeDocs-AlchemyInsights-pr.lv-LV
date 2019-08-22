@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369060"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509115"
 ---
 # <a name="set-passwords-to-never-expire"></a>Iestatīt paroles, lai nekad beidzas
 
-Lai iestatītu visas paroles nekad beidzas, dodieties uz [drošību &amp; privātuma](https://portal.office.com/adminportal/home#/settings/security). Noklikšķiniet uz **Rediģēt** blakus **Paroļu politika**, un savukārt **par**slīdni.
+Noteikt visas paroles nekad beidzas Microsoft 365 admin Center, dodieties uz **Iestatījumi** > [drošību &amp; konfidencialitātes](https://portal.office.com/adminportal/home#/settings/security) lapā. Izvēlieties **Rediģēt** blakus **paroļu politika**, un savukārt **par**slīdni.
   
 Sīkāku informāciju skatiet: [iestatīt paroli termiņa politika uzņēmumā.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

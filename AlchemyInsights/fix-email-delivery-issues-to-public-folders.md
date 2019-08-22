@@ -12,12 +12,12 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: e24a4db2deb3f691209a1634d932ed277a79c868
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387712"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525124"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Noteikt e-pasta piegādes jautājumiem pasta publiskajās mapēs
 
@@ -27,7 +27,7 @@ Ja ārējiem sūtītājiem ziņas nevar nosūtīt pasta publiskajām mapēm un s
 
 2. Dodieties uz **pasta plūsmu** \> **akceptēts domēni**atlasiet akceptēto domēnu un pēc tam noklikšķiniet uz **Rediģēt**.
 
-3. Rekvizītu lapa kas tiek atvērts, ja domēna tips ir iestatīts kā **Authoritative**, mainiet vērtību uz **iekšējo pārraides** un pēc tam noklikšķiniet uz **Saglabāt**.
+3. Rekvizītu lapa kas tiek atvērts, ja domēna tips ir iestatīts kā **Authoritative**, mainiet vērtību uz **iekšējo pārraides** un pēc tam noklikšķiniet uz **saglabāt**.
 
 Ja ārējiem sūtītājiem saņemtu, **jums nav atļaujas (550 5.7.13)** kļūda, palaidiet tālāk norādīto komandu [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) , lai redzētu, kādas atļaujas par anonīmiem lietotājiem publiskajā mapē.
 

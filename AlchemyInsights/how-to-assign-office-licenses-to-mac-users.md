@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385391"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522510"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Kā piešķirt licences Office Mac lietotājiem
 
-- Microsoft 365 admin Center, dodieties uz lapu, [Aktīvie lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) vai izvēlieties **lietotājus** \> **aktīvi lietotāji**.
+1. Admin Center, dodieties uz **lietotāju** \> [Aktīvie lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) lapā.
 
-- Atzīmējiet rūtiņu blakus lietotājam, kuram vēlaties piešķirt licenci.
+2. Atlasiet lietotāju, kuram vēlaties piešķirt, mainīt vai noņemt licenci nosaukumu.
 
-- Labajā pusē rindā **produktu licences** , izvēlieties **Rediģēt**.
+3. Par **licencēm un progr** cilni, izvēlieties licences, kuru vēlaties piešķirt šim lietotājam.
 
-- **Produkta licences**s rūtī pārslēgt pārslēgšanas **par** nostāju par licenci, kuru vēlaties piešķirt šim lietotājam.
+    Pēc noklusējuma visi pakalpojumi, kas saistīti ar šo licenci automātiski piešķirti lietotājam. Lai ierobežotu, kuri pakalpojumi ir pieejami lietotājam, notīriet izvēles rūtiņu pakalpojumu, ka jūs nevēlaties, ka lietotājam ir.
 
-- **Produktu licencēm** rūts apakšā, izvēlēties, **Saglabāt** \> **tuvu** \> **tuvu**.
+4. Rūts apakšā, izvēlieties **saglabāt izmaiņas**.
 
 Lai iegūtu vairāk informācijas: [piešķirt licences Office 365 biznesa lietotājiem](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407143"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516324"
 ---
 # <a name="create-an-office-365-group-connected-team-site"></a>Izveidot Office 365 grupu saistītas grupas vietnē
 
@@ -22,7 +22,7 @@ ms.locfileid: "32407143"
 2. SharePoint mājas lapas augšdaļā, noklikšķiniet uz **izveidot vietni** un izvēlieties opciju **grupas vietnē** . 
     
     > [!NOTE]
-    > Ja neredzat komandu izveidot vietni, vietņu izveidei, iespējams, nav iespējota jūsu uzņēmumā. Lai to iespējotu, skatiet [Pārvaldīt vietnes izveidei](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Ja neredzat komandu izveidot vietni, vietņu izveidei, iespējams, nav iespējota jūsu uzņēmumā. Lai to iespējotu, skatiet [pārvaldīt vietnes izveidei](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
 3. Sekojiet ekrānā redzamajiem norādījumiem, lai vietnes nosaukumu un izveidotu Office 365 grupas e-pasta adresi un pēc tam noklikšķiniet uz **Tālāk**. Var pievienot arī citas grupas īpašniekiem un dalībniekiem. Noklikšķiniet uz **Finish (pabeigt**).
   

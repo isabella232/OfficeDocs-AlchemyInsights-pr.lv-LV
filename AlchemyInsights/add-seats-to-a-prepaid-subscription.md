@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385619"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495038"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Vietas pievienošana apmaksāto abonementu
 
-1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
+Priekšapmaksas Office 365 licences tiek izsniegtas uz jums kā 25 rakstzīmju burtciparu kodu. Pēc tam, kad esat iegādājies licences, jums ir nepieciešams, to var pievienot savu abonementu. 
 
-2. Izvēlas priekšapmaksas abonementu jūs vēlētos pievienot lietotājus.
+1. Admin Center, dodieties uz **norēķinu** > [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
 
-3. **Citas darbības** izvēlnē izvēlēties **atjaunot vai papildināt licenci ar tiesībām**.
+2. Atrast, kurai vēlaties pievienot licences abonementa. Atlasiet nolaižamajā sarakstā **papildu darbības** un pēc tam izvēlieties **atjaunot vai papildināt licenci ar tiesībām**.
 
-4. Atlasiet opciju **Jauns un neizmantoto produkta atslēgu** . (Ja šī abonēšanas izveidots ar produkta atslēgu iegādāties mazumtirdzniecības vietā, varētu būt iespēja pievienot lietotājus ar citu maksājumu metodes.)
+3. Par **atjaunot vai papildināt lietotāju licences** lapa, izvēlieties **lietot jaunas un neizmantoto produkta atslēgu**un pēc tam atlasiet **nākamo**.
 
-5. Izvēlēties **nākamo**.
+4. Ievadiet produkta atslēgu un pēc tam atlasīt **nākamo**.
 
-6. Ievadiet produkta atslēgu un pēc tam noklikšķiniet uz **Tālāk**.
+    > [!NOTE]
+    > Ja jums ir vairāk nekā viena produkta atslēgu, atlasiet **pievienot citu produkta atslēgu** , ievadiet tos.
 
-7. Izvēlieties opciju, lai pievienotu vairāk lietotāju, izvēlēties **nākamo**, pēc tam izvēlieties **izpirktu**.
+5. Izvēlēties lietotāju pievienošana abonēšanas un pēc tam atlasiet **nākamo**.
 
-Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Pārskatiet savu pasūtījumu detaļas un pēc tam atlasiet **izpirktu**.
+
+Papildinformāciju skatiet sadaļā [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

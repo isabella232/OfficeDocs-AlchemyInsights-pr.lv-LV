@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 87b42d343fc93304254bf55bca03083c2f75bab6
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065670"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518802"
 ---
 # <a name="change-your-profile-name"></a>Mainīt profila nosaukumu
 
@@ -24,7 +24,7 @@ ms.locfileid: "35065670"
     
 2. Atlasiet **rediģēt nosaukumu**. 
     
-3. Ievadiet vārdu un uzvārdu, un izvēlieties **Saglabāt**. 
+3. Ievadiet vārdu un uzvārdu, un izvēlieties **saglabāt**. 
     
 Lūdzu atļaut izmaiņas profila nosaukumu, lai stātos spēkā līdz 24 stundām.
   

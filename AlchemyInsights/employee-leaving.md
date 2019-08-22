@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386375"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527838"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Būt darbinieks, atstājot un nepieciešamība bloķēt piekļuvi datiem un e-pasta?
+# <a name="block-access-to-a-former-employee"></a>Bloķēt piekļuvi bijušais darbinieks
+
+Būt darbinieks, atstājot un nepieciešamība bloķēt piekļuvi Office 365 datus un e-pasta? Veiciet šādas darbības.
   
 1. Admin Center, dodieties uz **lietotāju** \> [Aktīvie lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) lapā.
 
-2. Atlasiet lietotāju, kuru vēlaties bloķēt.
+2. Atlasiet nosaukumu, ko lietotājs, kuru vēlaties bloķēt.
 
-3. Blakus pierakstīšanās statusu, izvēlieties **Rediģēt**.
+3. Sadaļā lietotāja vārda, atlasiet **bloķēt šo lietotāju**.
 
-4. Izvēlieties **Bloķēt lietotāju no pierakstīšanās** \> **saglabāt**.
+4. Izvēlieties **Bloķēt lietotāju no pierakstīšanās** \> **saglabāt izmaiņas**.
 
-**Piezīme**: Izrakstīties, jo daži apps var nebūt tūlītēja. Sekot līdzi citas darbības šajā rakstā: [noņemšana no Office 365 bijušo darbinieku](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Piezīme**: Izrakstīties, jo daži apps var nebūt tūlītēja. Sekot līdzi citas darbības šajā rakstā: [noņemšana no Office 365 bijušo darbinieku](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
