@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: fceb8656ed6f7b59492b63208475051b5f37d209
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 43df8ff77c26e7f5068bb99aaef5260b86acb807
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223467"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535290"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problēmas, atverot Office failus no SharePoint
 
@@ -25,7 +25,7 @@ Ja jums ir problēmas, atverot Office failus un dokumentus no SharePoint vietēj
 
 - [Dzēst kešatmiņu biroja dokumentu](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
 
-- [Palaidiet Office remonts](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Palaidiet Office Remonts](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
 Lai iegūtu vairāk informācijas vai detalizētu informāciju, lūdzu, norādi rakstu, [noteikt problēmas, atverot dokumentus SharePoint bibliotēkās](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 

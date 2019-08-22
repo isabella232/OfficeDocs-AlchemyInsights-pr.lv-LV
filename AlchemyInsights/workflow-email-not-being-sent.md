@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270679"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530888"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Darbplūsmu, e-pasts netiek nosūtīts
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Darbplūsmu, e-pasts netiek nosūtīts uz koplietošanas vides SharePoint sarakstā vai bibliotēkā
 
 1. E-pastu no darbplūsmas netiek nosūtītas visiem lietotājiem vai tikai noteiktiem lietotājiem, vai jūs redzat kļūdu **, e-pasta ziņojumu nevar nosūtīt. Pārliecinieties, vai e-pasts ir derīgs adresāts**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270679"
     - Ja lietotāju grupas atļaujas, pārliecinieties, vai e-pasta adrese ir pareiza.
     - Ja šeit nav iestatīti lietotāju e-pasta adresi, pēc tam izveidojiet brīdinājuma paraugu šī lietotāja, kas liek šī lietotāja konta sinhronizācijas no lietotāju profiliem, SharePoint šai vietņu kolekcijai.
  
-2. E-pastu no darbplūsmas tiek nosūtīti vietņu kolekcijas administratorus, bet ne citiem lietotājiem un redzēt kļūdas **HTTP aizliegts uz <spam> <spam> ** <spam> <spam>.
+2. E-pastu no darbplūsmas tiek nosūtīti vietņu kolekcijas administratorus, bet ne citiem lietotājiem un redzēt kļūdas **HTTP aizliegts uz <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Sk. [Liegta piekļuve, kad nosūtītie e-pasta grupas](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Sk. [Liegta piekļuve, kad sūtāt e-pasta ziņojumu SharePoint grupai](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Arī, pārliecinieties, vai **ierobežotu piekļuvi lietotāja atļauju slēgts režīmā** vietņu kolekcijas līdzekli nav aktīvs.
 

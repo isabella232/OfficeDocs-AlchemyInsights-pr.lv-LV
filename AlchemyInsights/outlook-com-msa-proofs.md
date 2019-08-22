@@ -15,21 +15,21 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373888"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535974"
 ---
 # <a name="security-info-and-security-codes"></a>Informācija par drošību un drošības kodus
 
-Lai kontam pievienotu drošības info:
+Lai pievienotu drošības info jūsu Microsoft kontu:
 
 1. Pierakstieties pakalpojumā [drošības pamati](https://account.microsoft.com/security) ar jūsu Microsoft kontu.
 1. Atlasiet **drošības kontaktinformāciju**.
-1. Atlasiet **Pievienot drošības informācija** un sekojiet instrukcijām, lai ievadītu tālruņa numuru vai e-pasta adresi.
-1. Jūs saņemsiet drošības kodu, tālruņa numuru vai e-pasta adresi. Ievadiet drošības kodu, kuru jūs saņēmāt **Pievienot drošības informācijas** logā un izvēlēties **nākamo**.
+1. Atlasiet **pievienot drošības informācija** un sekojiet instrukcijām, lai ievadītu tālruņa numuru vai e-pasta adresi.
+1. Jūs saņemsiet drošības kodu, tālruņa numuru vai e-pasta adresi. Ievadiet drošības kodu, kuru jūs saņēmāt **pievienot drošības informācijas** logā un izvēlēties **nākamo**.
 
 Ja vēlaties noņemt tālruņa numuru vai e-pasta adresi, izvēlieties **Noņemt** tai blakus.
 

@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418476"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538763"
 ---
-# <a name="monitoring-conditional-access"></a>Ierobežotas piekļuves kontroli
+# <a name="monitoring-conditional-access-for-exchange"></a>Ierobežotas piekļuves uzraudzību apmaiņai
 
 Lietotāju mērķauditorija ar ierobežotas piekļuves saņems paziņojumu e-pastu, ja tās neatbilst jūsu uzņēmuma piekļuves prasības. Lai atrisinātu, mēs iesakām vienu vai vairākus no šiem risinājumiem:
   
-- Ja tiek uzskatīts, ka ierīce tiks uzņemti, konsultēt lietotāja Web vietas uzņēmuma portāls app iet un pārbaudiet, vai tas parādās uzņēmuma portālā. Ja tā nav, lietotājam vajadzētu uzņemt ierīci.
+- Ja tiek uzskatīts, ka ierīce tiks uzņemti, konsultēt lietotāja Web vietas Uzņēmuma portāls app iet un pārbaudiet, vai tas parādās uzņēmuma portālā. Ja tā nav, lietotājam vajadzētu uzņemt ierīci.
     
 - Debeszils portālā iet uz **Intune \> ierīces atbilstību**. Zem **monitora** noklikšķiniet uz **ierīces atbilstību**. Skatīt ierīces atbilstības ziņojumu, pārliecināties, ka lietotāja ierīces ir atzīmēta kā atbilstošu. 
     
-- Debeszils portālā iet uz **Intune \> ierīces atbilstību**. Zem **Pārvaldīt**noklikšķiniet uz **politiku**. Atbilstības politikas sarakstā pārliecinieties, ka profils ir piešķirts jūsu lietotāja ierīces. Ja ir piešķirts neviens profils, tad Intune nevarēs apstiprināt ierīces atbilstības statusu. 
+- Debeszils portālā iet uz **Intune \> ierīces atbilstību**. Zem **pārvaldīt**noklikšķiniet uz **politiku**. Atbilstības politikas sarakstā pārliecinieties, ka profils ir piešķirts jūsu lietotāja ierīces. Ja ir piešķirts neviens profils, tad Intune nevarēs apstiprināt ierīces atbilstības statusu. 
     
 - Rediģēt lietotāja nosacījuma piekļuves piešķiršana.
     
