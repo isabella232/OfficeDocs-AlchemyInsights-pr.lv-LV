@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405815"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514140"
 ---
 # <a name="delete-a-communication-site"></a>Dzēstu saziņas vietne
 
@@ -25,14 +25,12 @@ Lai dzēstu saziņas vietne, rīkojieties šādi:
   
 3. Sadaļā **Vietnes informāciju**, noklikšķiniet uz **Dzēst šo vietu**un pēc tam noklikšķiniet uz **Dzēst**. 
   
-Administratori var dzēst saziņas vietne no mūsdienu administrēšanas centrs arī veicot šādas darbības: 
+Administratori var dzēst saziņas vietne no jauna administrēšanas centrs arī veicot šādas darbības: 
   
-1. Izmēģināt jauno Admin Center, noklikšķinot uz **mēģināt to tagad** pogu augšējā labajā stūrī. 
+1. Kreisajā pusē atlasiet **Active sites** . 
   
-2. Atlasiet **aktīvo vietām**. 
+2. Noklikšķiniet uz tālāk, lai dzēstu vietni un **Dzēst** opcija parādīsies augšējā izvēlnē. 
   
-3. Noklikšķiniet uz tālāk, lai dzēstu vietni un **Dzēst** opcija parādīsies augšējā izvēlnē. 
-  
- **Piezīme:** Ja jūs vēlētos, lai neatgriezeniski dzēstu saziņas vietne (noņemot to no atkritnes) lai varētu atkārtoti izmantot vietnes URL, lietojiet [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) novērtēt atkritni un [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) noņemt vietni no atkritnes. 
+ **Piezīme:** Ja jūs vēlētos, lai neatgriezeniski dzēstu saziņas vietne (noņemot to no atkritnes) lai varētu atkārtoti izmantot vietnes URL, izmantojiet [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) , lai novērtētu atkritni un [Noņemt SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) noņemt vietni no atkritnes. 
   
 

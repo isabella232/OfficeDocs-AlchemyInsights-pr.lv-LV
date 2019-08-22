@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364659"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516750"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Izveidotu SharePoint vietni, rumbas
 
@@ -27,7 +27,7 @@ ms.locfileid: "35364659"
 3. Ievadiet parādāmo vārdu rumbas vietā un norādītu atsevišķus lietotājus vai drošības grupām, kuras vēlaties atļaut vietnēm saistīt ar centrmezglu.
 
     > [!NOTE]
-    >  Mēs iesakām izvēlēties saziņas vietne vai darba grupas vietni, kas izmanto jauno veidni. Ja izmantojat klasisko komandas vietu, rumbas navigācijas parādīsies tikai mūsdienu lapās un rumbas vietnes iestatījumi parādīsies tikai mūsdienu lapās. > vietās, kas jau ir saistīta ar citu centrmezglu nevar reģistrēt kā rumbas vietā.
+    >  Mēs iesakām izvēlēties saziņas vietne vai darba grupas vietni, kas izmanto jauno veidni. Ja izmantojat klasisko komandas vietu, rumbas navigācijas parādīsies tikai mūsdienu lapās un rumbas vietnes iestatījumi parādīsies tikai mūsdienu lapās. Vietnes, kas jau ir saistīta ar citu centrmezglu nevar reģistrēt kā rumbas vietā.
   
 [Uzziniet vairāk par rumbas vietās](https://go.microsoft.com/fwlink/?linkid=869149)
   

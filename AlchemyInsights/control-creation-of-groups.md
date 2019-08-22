@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364020"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516678"
 ---
-# <a name="control-creation-of-o365-groups"></a>Kontroles O365 grupu izveidi
+# <a name="control-creation-of-office-365-groups"></a>Vadīklas izveide no Office 365 grupām
 
-Pēc noklusējuma visiem lietotājiem uzņēmumā ir iespēja izveidot O365 grupām. Nepieciešamības gadījumā jums ir iespēja mainīt šo un piešķirt tiesības izveidot O365 grupas noteiktiem cilvēkiem jūsu uzņēmumā. Ņemiet vērā, ka tas ietekmēs veidot grupas no jebkura O365 pakalpojumu (piemēram, Outlook, komandām, plānotāja u. tml.).
+Pēc noklusējuma visiem lietotājiem uzņēmumā ir iespēja veidot grupas. Ja nepieciešams, jums ir iespēja mainīt šo un piešķirt tiesības izveidot grupu cilvēkiem, jūsu uzņēmumu kopu. Ņemiet vērā, ka tas ietekmēs veidot grupas no jebkuras Office 365 pakalpojumu (piemēram, Outlook, komandām, plānotāja u. tml.).
   
 Instrukcijas: [kurš var izveidot Office 365 grupām pārvaldīt](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

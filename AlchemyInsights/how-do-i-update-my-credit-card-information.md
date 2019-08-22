@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389003"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522798"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kā atjaunināt savu kredītkartes informāciju?
 
-1. Administrēšanas centrā dodieties uz lapu** Norēķini **\>[Abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **Norēķini** \> [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Atlasiet abonementu, kuru iegādājāties ar kredītkarti vai bankas kontu, kuru vēlaties atjaunināt, un pēc tam izvēlieties **Atjaunināt maksājuma datus**.
+2. Lapā **Maksāšanas metodes** izvēlieties kredītkarti vai bankas kontu, lai to atjauninātu.
 
-3. Izvēlieties nolaižamo bultiņu zem **Pievienojiet vai atlasiet maksāšanas metodi** un atlasiet kredītkarti vai bankas kontu, kuru vēlaties atjaunināt, pēc tam izvēlieties **Rediģēt detaļas**.
+3. Lai mainītu kredītkartes vai bankas konta informāciju, atlasiet **Rediģēt informāciju par maksājumu**.
 
-4. Atjauniniet savas kredītkartes vai bankas konta informāciju (ar kredītkarti vai bankas kontu saistītais vārds, norēķinu adrese, tālruņa numurs vai derīguma termiņš) pēc nepieciešamības un pēc tam izvēlieties **Iesniegt**.
+> [!NOTE]
+> Ja abonementu ir iegādājies cits administrators, jūs nevarēsiet atjaunināt kredītkartes informāciju šim abonementam. Ja kredītkartei drīz beigsies derīguma termiņš un otrs administrators nevar atjaunināt šo informāciju, varat izvairīties no traucējumiem pakalpojuma darbībā, abonementam pievienojot citu kredītkarti vai jaunu bankas kontu.
 
-5. Tiek parādīts apstiprinājuma ziņojums.
+4. Atjauniniet savas kredītkartes vai bankas konta informāciju (kredītkartes vai bankas konta īpašības vārds, norēķinu adrese, tālruņa numurs vai derīguma termiņš) pēc nepieciešamības un pēc tam izvēlieties **Saglabāt** > **Gatavs**.
 
-Papildinformāciju skatiet rakstā [Kredītkaršu un bankas kontu problēmu novēršana](https://docs.microsoft.com/lv-LV/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Vai izmantojat jauno administrēšanas centru? Jaunās veicamās darbības skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://docs.microsoft.com/lv-LV/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Jaunās veicamās darbības skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
