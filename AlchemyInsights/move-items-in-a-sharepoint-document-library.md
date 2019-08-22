@@ -13,24 +13,24 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: af0421ff0734829e2b9f9455ecc98960db4b7ae2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379360"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549046"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="8fe7d-102">Pārvietot vienumus SharePoint dokumentu bibliotēkā</span><span class="sxs-lookup"><span data-stu-id="8fe7d-102">Move items in a SharePoint document library</span></span>
+# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="1092c-102">Pārvietot vienumus SharePoint dokumentu bibliotēkā</span><span class="sxs-lookup"><span data-stu-id="1092c-102">Move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="8fe7d-103">Vienumus var pārvietot uz citu vietu dokumentu bibliotēkas ietvaros.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-103">You can move items to different locations within a document library.</span></span> <span data-ttu-id="8fe7d-104">Ja jūs esat [iestatīt mērķa atbrīvošanas iespēju](https://go.microsoft.com/fwlink/?linkid=622980), vienumus var arī pārvietot, vairākās vietnēs.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-104">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites.</span></span> <span data-ttu-id="8fe7d-105">Pārvietojot dokumentus, tiek pārvietoti arī savu vēsturi.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-105">When you move documents, their history is also moved.</span></span>
+<span data-ttu-id="1092c-103">Vienumus var pārvietot uz citu vietu dokumentu bibliotēkas ietvaros.</span><span class="sxs-lookup"><span data-stu-id="1092c-103">You can move items to different locations within a document library.</span></span> <span data-ttu-id="1092c-104">Ja jūs esat [iestatīt mērķa atbrīvošanas iespēju](https://go.microsoft.com/fwlink/?linkid=622980), vienumus var arī pārvietot, vairākās vietnēs.</span><span class="sxs-lookup"><span data-stu-id="1092c-104">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites.</span></span> <span data-ttu-id="1092c-105">Pārvietojot dokumentus, tiek pārvietoti arī savu vēsturi.</span><span class="sxs-lookup"><span data-stu-id="1092c-105">When you move documents, their history is also moved.</span></span>
   
-1. <span data-ttu-id="8fe7d-106">Web pārlūkprogrammā, atrodiet failus, mapes vai saites, kuru vēlaties pārvietot, un pēc tam noklikšķiniet uz **Pārvietot uz**.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
+1. <span data-ttu-id="1092c-106">Web pārlūkprogrammā, atrodiet failus, mapes vai saites, kuru vēlaties pārvietot, un pēc tam noklikšķiniet uz **Pārvietot uz**.</span><span class="sxs-lookup"><span data-stu-id="1092c-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="8fe7d-107">**Pārvietot uz** nav pieejama, ja lietojat klasisko SharePoint Online pieredzi.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
+    > <span data-ttu-id="1092c-107">**Pārvietot uz** nav pieejama, ja lietojat klasisko SharePoint Online pieredzi.</span><span class="sxs-lookup"><span data-stu-id="1092c-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
   
-2. <span data-ttu-id="8fe7d-108">Sadaļā **Izvēlieties galamērķi**, izvēlieties vietu, kurā vēlaties pārvietot vienumus.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-108">Under **Choose a destination**, select the location to which you want to move the items.</span></span> <span data-ttu-id="8fe7d-109">Ja pārvietojat uz citu vietu vai apakšvietnes un neredzu tā sarakstā, noklikšķiniet uz **Pārlūkot vietnes** , lai redzētu pilnu vietņu sarakstu, kas var pārvietot.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-109">If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span>
+2. <span data-ttu-id="1092c-108">Sadaļā **izvēlieties galamērķi**, izvēlieties vietu, kurā vēlaties pārvietot vienumus.</span><span class="sxs-lookup"><span data-stu-id="1092c-108">Under **Choose a destination**, select the location to which you want to move the items.</span></span> <span data-ttu-id="1092c-109">Ja pārvietojat uz citu vietu vai apakšvietnes un neredzu tā sarakstā, noklikšķiniet uz **Pārlūkot vietnes** , lai redzētu pilnu vietņu sarakstu, kas var pārvietot.</span><span class="sxs-lookup"><span data-stu-id="1092c-109">If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span>
 
-    <span data-ttu-id="8fe7d-110">Lai izveidotu jaunu mapi pārvietot failus, atlasiet atrašanās vietu mapju hierarhiju, noklikšķiniet uz **Jauna mape**, ievadiet mapes nosaukumu un noklikšķiniet uz atzīmes, lai saglabātu nosaukumu.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="1092c-110">Lai izveidotu jaunu mapi pārvietot failus, atlasiet atrašanās vietu mapju hierarhiju, noklikšķiniet uz **Jauna mape**, ievadiet mapes nosaukumu un noklikšķiniet uz atzīmes, lai saglabātu nosaukumu.</span><span class="sxs-lookup"><span data-stu-id="1092c-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
 
-3. <span data-ttu-id="8fe7d-111">Noklikšķiniet uz **Pārvietot šeit**.</span><span class="sxs-lookup"><span data-stu-id="8fe7d-111">Click **Move here**.</span></span>
+3. <span data-ttu-id="1092c-111">Noklikšķiniet uz **Pārvietot šeit**.</span><span class="sxs-lookup"><span data-stu-id="1092c-111">Click **Move here**.</span></span>

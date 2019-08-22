@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 69f43d060d4ca8d99f25cf6813baa1b2fb35125f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758877"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534606"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="cec62-102">Publiskās tīmekļa vietnēs ir pārtraukta SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="cec62-102">SharePoint Online public websites have been discontinued</span></span>
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="373ea-102">Publiskās tīmekļa vietnēs ir pārtraukta SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="373ea-102">SharePoint Online public websites have been discontinued</span></span>
 
-<span data-ttu-id="cec62-103">Publiskās vietnēs SharePoint Online ir izbeigti.</span><span class="sxs-lookup"><span data-stu-id="cec62-103">SharePoint Online public websites have been discontinued.</span></span>
+<span data-ttu-id="373ea-103">Publiskās vietnēs SharePoint Online ir izbeigti.</span><span class="sxs-lookup"><span data-stu-id="373ea-103">SharePoint Online public websites have been discontinued.</span></span>
 
-<span data-ttu-id="cec62-104">Ja esat izveidojis SharePoint Online sabiedrības tīmekļa vietnē, jums bija iespēja turpināt izmantot līdz 2018. gada 31 marts.</span><span class="sxs-lookup"><span data-stu-id="cec62-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="cec62-105">Ja vēlaties turpināt, kam valsts mājas lapā, jums nepieciešams izveidot jaunu ar jaunu nodrošinātāju.</span><span class="sxs-lookup"><span data-stu-id="cec62-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="cec62-106">Jūsu SharePoint Online publiskās tīmekļa vietnes saturam ir izdzēsts.</span><span class="sxs-lookup"><span data-stu-id="cec62-106">The content on your SharePoint Online public website has been deleted.</span></span>
+<span data-ttu-id="373ea-104">Ja esat izveidojis SharePoint Online sabiedrības tīmekļa vietnē, jums bija iespēja turpināt izmantot līdz 2018. gada 31 marts.</span><span class="sxs-lookup"><span data-stu-id="373ea-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="373ea-105">Ja vēlaties turpināt, kam valsts mājas lapā, jums nepieciešams izveidot jaunu ar jaunu nodrošinātāju.</span><span class="sxs-lookup"><span data-stu-id="373ea-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="373ea-106">Jūsu SharePoint Online publiskās tīmekļa vietnes saturam ir izdzēsts.</span><span class="sxs-lookup"><span data-stu-id="373ea-106">The content on your SharePoint Online public website has been deleted.</span></span>
 
-<span data-ttu-id="cec62-107">Info par publiskas vietnes pārtraukšanas, skatiet [detaļas par funkciju pārtraukšanas procesu](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="cec62-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>
+<span data-ttu-id="373ea-107">Info par publiskas vietnes pārtraukšanas, skatiet [detaļas par funkciju pārtraukšanas procesu](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="373ea-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>
