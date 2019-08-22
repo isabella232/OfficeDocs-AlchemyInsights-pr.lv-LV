@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e6eeeeb0452176d2795a0a5aa533d5333df61f80
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373042"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511357"
 ---
-# <a name="change-my-profile-picture-or-name"></a><span data-ttu-id="c9077-102">Mainiet savu profila attēlu vai nosaukumu</span><span class="sxs-lookup"><span data-stu-id="c9077-102">Change my profile picture or name</span></span>
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="a78ea-102">Mainiet savu profila attēlu vai nosaukumu Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a78ea-102">Change my profile picture or name in Outlook.com</span></span>
 
-1. <span data-ttu-id="c9077-103">Iet uz [jūsu Microsoft kontu info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="c9077-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-1. <span data-ttu-id="c9077-104">Atlasiet **rediģēt nosaukumu** vai **Mainīt attēlu**.</span><span class="sxs-lookup"><span data-stu-id="c9077-104">Select **Edit name** or **Change picture**.</span></span>
+1. <span data-ttu-id="a78ea-103">Iet uz [jūsu Microsoft kontu info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="a78ea-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="a78ea-104">Atlasiet **rediģēt nosaukumu** vai **Mainīt attēlu**.</span><span class="sxs-lookup"><span data-stu-id="a78ea-104">Select **Edit name** or **Change picture**.</span></span>
 
-<span data-ttu-id="c9077-105">Lūdzu, pagaidiet līdz 24 stundām izmaiņas profila fotoattēla vai nosaukumu, lai tie stātos spēkā.</span><span class="sxs-lookup"><span data-stu-id="c9077-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="a78ea-105">Lūdzu, pagaidiet līdz 24 stundām izmaiņas profila fotoattēla vai nosaukumu, lai tie stātos spēkā.</span><span class="sxs-lookup"><span data-stu-id="a78ea-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>

@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 76d234e4a5c0ea69fcb9c5f529568c192d00d3c0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7e8c31c8a1047c669cd4a8f551d8f9c8bff0dd4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391986"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520350"
 ---
-# <a name="check-in-several-files-at-once"></a><span data-ttu-id="db214-102">Pārbaudīt vienlaicīgi ar vairākiem failiem</span><span class="sxs-lookup"><span data-stu-id="db214-102">Check in several files at once</span></span>
+# <a name="check-in-several-files-at-once"></a><span data-ttu-id="631d5-102">Pārbaudīt vienlaicīgi ar vairākiem failiem</span><span class="sxs-lookup"><span data-stu-id="631d5-102">Check in several files at once</span></span>
 
-<span data-ttu-id="db214-103">Pārbaudīt vairākus failus no vairākām mapēm, atlasiet **Rādīt visus vienumus bez mapēm** sadaļā **mapes** **Skata rediģēšanas** lapā.</span><span class="sxs-lookup"><span data-stu-id="db214-103">To check in several files in several folders, select **Show all items without folders** under **Folders** on the **Edit View** page.</span></span> 
+<span data-ttu-id="631d5-103">Pārbaudīt vairākus failus no vairākām mapēm, atlasiet **Rādīt visus vienumus bez mapēm** sadaļā **mapes** **Skata rediģēšanas** lapā.</span><span class="sxs-lookup"><span data-stu-id="631d5-103">To check in several files in several folders, select **Show all items without folders** under **Folders** on the **Edit View** page.</span></span> 
   
- <span data-ttu-id="db214-104">**Piezīme**: SharePoint Online un biroja 365 pašlaik neatļauj vairākus failus, pārbaudot ar mūsdienu režīmā.</span><span class="sxs-lookup"><span data-stu-id="db214-104">**Note**: SharePoint Online and Office 365 do not currently allow multiple files when checking in with modern mode.</span></span> 
+ <span data-ttu-id="631d5-104">**Piezīme**: SharePoint Online un biroja 365 pašlaik neatļauj vairākus failus, pārbaudot ar mūsdienu režīmā.</span><span class="sxs-lookup"><span data-stu-id="631d5-104">**Note**: SharePoint Online and Office 365 do not currently allow multiple files when checking in with modern mode.</span></span> 
   
-<span data-ttu-id="db214-105">Skatīt biežāk uzdotie jautājumi par reģistrēšanās/izrakstīšanās, skatīt [biežāk uzdoto jautājumu par pārbaudi, veic pārbaudi, un versijas](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="db214-105">See more frequently asked questions about check-in/check-out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="631d5-105">Skatīt biežāk uzdotie jautājumi par reģistrēšanās/izrakstīšanās, skatīt [biežāk uzdoto jautājumu par pārbaudi, veic pārbaudi, un versijas](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="631d5-105">See more frequently asked questions about check-in/check-out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 

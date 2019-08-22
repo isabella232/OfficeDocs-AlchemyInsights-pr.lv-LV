@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 509b539b80d9dcbb10ec3b7ed294cbc2280b7f7f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388360"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527514"
 ---
-# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="10122-102">Kļūda 0 1036 instalējot office</span><span class="sxs-lookup"><span data-stu-id="10122-102">Error 0-1036 when installing office</span></span>
+# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="1d2ba-102">Kļūda 0 1036 instalējot office</span><span class="sxs-lookup"><span data-stu-id="1d2ba-102">Error 0-1036 when installing office</span></span>
 
-<span data-ttu-id="10122-103">Izmēģiniet tālāk minētos risinājumus, lai novērstu Office kļūdu 0 1036:</span><span class="sxs-lookup"><span data-stu-id="10122-103">Try these solutions to fix your Office error 0-1036:</span></span>
+<span data-ttu-id="1d2ba-103">Izmēģiniet tālāk minētos risinājumus, lai novērstu Office kļūdu 0 1036:</span><span class="sxs-lookup"><span data-stu-id="1d2ba-103">Try these solutions to fix your Office error 0-1036:</span></span>
   
-- <span data-ttu-id="10122-104">Restartējiet datoru un vēlreiz mēģiniet [instalēt Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="10122-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
+- <span data-ttu-id="1d2ba-104">Restartējiet datoru un vēlreiz mēģiniet [instalēt Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="1d2ba-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
 
-- <span data-ttu-id="10122-105">Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="10122-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="1d2ba-105">Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1d2ba-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="10122-106">Atveroties, no **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt, un izvēlēties **nākamo**.</span><span class="sxs-lookup"><span data-stu-id="10122-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
+1. <span data-ttu-id="1d2ba-106">Atveroties, no **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt, un izvēlēties **nākamo**.</span><span class="sxs-lookup"><span data-stu-id="1d2ba-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
 
-2. <span data-ttu-id="10122-107">Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.</span><span class="sxs-lookup"><span data-stu-id="10122-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="1d2ba-107">Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.</span><span class="sxs-lookup"><span data-stu-id="1d2ba-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="10122-108">Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.</span><span class="sxs-lookup"><span data-stu-id="10122-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="1d2ba-108">Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.</span><span class="sxs-lookup"><span data-stu-id="1d2ba-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="10122-109">Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizvērt palīga.</span><span class="sxs-lookup"><span data-stu-id="10122-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="1d2ba-109">Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizvērt palīga.</span><span class="sxs-lookup"><span data-stu-id="1d2ba-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-- <span data-ttu-id="10122-110">[Izmantojiet Office bezsaistes uzstādītājs](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) instalēt Office</span><span class="sxs-lookup"><span data-stu-id="10122-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
+- <span data-ttu-id="1d2ba-110">[Izmantojiet Office bezsaistes uzstādītājs](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) instalēt Office</span><span class="sxs-lookup"><span data-stu-id="1d2ba-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
