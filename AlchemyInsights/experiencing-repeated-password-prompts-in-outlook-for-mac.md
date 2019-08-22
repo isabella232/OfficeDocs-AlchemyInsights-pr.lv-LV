@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 5459a2d29fd5847f5841142d77d84805c3d12b01
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526614"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="54237-102">Vērojama atkārtota paroles uzvednēm Outlook Mac?</span><span class="sxs-lookup"><span data-stu-id="54237-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="4c07d-102">Vērojama atkārtota paroles uzvednēm Outlook Mac?</span><span class="sxs-lookup"><span data-stu-id="4c07d-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
 
-<span data-ttu-id="54237-103">Mēs varam palīdzēt nodrošināt vairāk specializēto Mac palīdzību tieši no programmas Outlook.</span><span class="sxs-lookup"><span data-stu-id="54237-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
+<span data-ttu-id="4c07d-103">Mēs varam palīdzēt nodrošināt vairāk specializēto Mac palīdzību tieši no programmas Outlook.</span><span class="sxs-lookup"><span data-stu-id="4c07d-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
   
-<span data-ttu-id="54237-104">Lūdzu, dodieties uz skarto lietotāju Mac atvērtu Outlook un noklikšķiniet uz **palīdzība** \> **Contact Support**.</span><span class="sxs-lookup"><span data-stu-id="54237-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
+<span data-ttu-id="4c07d-104">Lūdzu, dodieties uz skarto lietotāju Mac atvērtu Outlook un noklikšķiniet uz **palīdzība** \> **Contact Support**.</span><span class="sxs-lookup"><span data-stu-id="4c07d-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
   
-<span data-ttu-id="54237-105">Lai uzzinātu vairāk par to, izmantojot Outlook Mac-app klientu atbalstu, skatiet šajā rakstā: [jaunu kontaktu atbalsta līdzekli programmā Outlook 2016 Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="54237-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="4c07d-105">Lai uzzinātu vairāk par to, izmantojot Outlook Mac-app klientu atbalstu, skatiet šajā rakstā: [jaunu kontaktu atbalsta līdzekli programmā Outlook 2016 Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="4c07d-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 
