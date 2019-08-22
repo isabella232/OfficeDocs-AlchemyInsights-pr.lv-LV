@@ -13,12 +13,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359253"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496361"
 ---
 # <a name="office-365-import-service"></a>Office 365 importēšanas pakalpojumā
 
@@ -36,4 +36,4 @@ Lai piekļūtu pakalpojumu importa un importēšanas procesa sākšana:
 
 **Svarīgi**: piekļūt drošības & Center izpildes **importa** lapas, tiks piešķirtas [atbilstošas atļaujas](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Ja jūs vienkārši vēlaties importēt PST failu uz jūsu pastkasti, skatiet [šajā rakstā](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Ja jūs vienkārši vēlaties importēt pst failu uz jūsu pastkasti, skatiet [šajā rakstā](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

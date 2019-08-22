@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388192"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534174"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Pārslēgties uz citu Office 365 biznesa plāna
 
-Kad biznesa izmaiņas, vai vajag vairāk Office 365 funkcijas, jūs varat pārslēgties plānus.
+Kad jūsu biznesa izmaiņas, vai vajag vairāk Office 365 funkcijas, varat jaunināt uz jaunu plānu.
   
-1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
+1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
 
-2. Izvēlēties **slēdzis plānus** , lai skatītu sarakstu ar jauniem plāniem, kas ir pieejami.
+2. Atlasiet abonementu, kurā vēlaties jaunināt.
 
-3. Izvēlēties plānu, lai redzētu jaunās kopējās izmaksas mēnesī. Pārliecinieties, lai izlasītu galveno informāciju un pēc tam izvēlieties **Nākamā** izbraukšana.
+3. Abonementa informācijas lapā izvēlieties **Upgrade**.
 
-Pogas Pārslēgt plāni nav atbalstīts visās situācijās. Dažos gadījumos, iespējams, var manuāli pārslēgt plānus.
-  
-Ja poga **Pārslēgt plāni** nav pieejama, varat mēģināt [manuāli](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) pārslēgties plānus vai izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri.
-  
-Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [jaunināt uz citu plānu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Atrast plānu, kuram vēlaties atjaunināt, un pēc tam izvēlieties **Upgrade** pogas.
+
+5. Ievadiet numuru, licences, kas ir nepieciešams izvēlēties, vai maksāt katru mēnesi vai visu gadu, un pēc tam atlasiet **Checkout**.
+   
+Papildinformāciju skatiet sadaļā [jaunināšana uz citu plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

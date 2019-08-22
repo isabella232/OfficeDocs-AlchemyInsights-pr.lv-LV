@@ -11,16 +11,16 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 7a0cd68d672c49c9d049611cbc4b6ee0ee5c001c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380368"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497050"
 ---
 # <a name="managing-yammer-users"></a>Yammer lietotāju pārvaldība
 
-1. Informāciju par pārvaldi Yammer lietotājiem no Office 365, lūdzu, skatiet [Pārvaldīt Yammer lietotājiem visā to dzīves ciklā no Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Tā ietver detalizētu informāciju par:
+1. Informāciju par pārvaldi Yammer lietotājiem no Office 365, lūdzu, skatiet [pārvaldīt Yammer lietotājiem visā to dzīves ciklā no Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Tā ietver detalizētu informāciju par:
 
   - Veidojot lietotāja
 

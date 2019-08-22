@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387851"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533094"
 ---
 # <a name="trying-to-find-a-trial"></a>Mēģinot atrast izmēģinājuma versiju?
 
-Ja vēlaties izmēģināt jauno pakalpojumu, jūs varat atrast sarakstu ar abonementu pieejams izmēģinājuma versijā administrēšanas centrā.
+Ja vēlaties izmēģināt jaunu pakalpojumu, jūs varat atrast sarakstu ar abonementu pieejams izmēģinājuma versijā Microsoft 365 administrēšanas centrā.
   
 1. Admin Center, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
 
-2. Abonements, kas atbilst jūsu vajadzībām, peli pār to, atrast un izvēlēties **sākt bezmaksas izmēģinājuma**.
+2. Atlasiet parakstīšanās, kas atbilst jūsu vajadzībām un pēc tam **saņemt bezmaksas izmēģinājums**.
 
     > [!NOTE]
-    > Ne visi abonementi ir pieejams kā izmēģinājuma versiju. Ja neredzat pogu **sākt bezmaksas izmēģinājuma** , kad jūs peli abonements, tas nozīmē, ka trial pašlaik nav pieejams.
+    > Ne visi abonementi ir pieejams kā izmēģinājuma versiju. Ja neredzat pogu **iegūt bezmaksas izmēģinājuma versijas** , kad jūs peli abonements, tas nozīmē, ka trial pašlaik nav pieejams.
   
 3. Iespējams, tiks prasīts ievadīt kredītkartes vai cita maksājumu metode, kas ļauj nodrošināt papildu pārbaudi, kā drošības līdzekli. Jums nebūs jāmaksā par šo bezmaksas izmēģinājumu. Mēs saglabās jūsu maksājumu informāciju par failu, un paradis izmantot jebkuru pirkumu bez jūsu apstiprinājuma.
 
-4. Izvēlēties **vietu secību**.
+4. Izvēlieties **mēģināt tagad**.
