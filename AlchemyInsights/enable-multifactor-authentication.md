@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403682"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527478"
 ---
 # <a name="enable-multi-factor-authentication"></a>Iespējotu vairāku faktoru autentifikaciju
 
-1. Naviģētu uz **lietotāju** \> **Aktīvie lietotāji**
+Lai iespējotu vairāku faktoru autentifikaciju Microsoft 365 administrēšanas centrā:
+
+1. Doties uz **lietotāju** \> **Aktīvie lietotāji** lapā.
     
-2. Noklikšķiniet uz **vairāk** \> **uzstādīšanas Azure vairāku faktoru autentificēšana**. 
+2. Lapas augšdaļā atlasiet **vairāku faktoru autentifikaciju**. 
     
-3. Atrast lietotāju vai lietotājiem, kuri vēlas, lai ļautu MFA. Lai varētu redzēt visiem lietotājiem, iespējams, būs jāmaina vairāku faktoru autentificēšana statusu skata augšpusē.
+3. Atrast lietotāju vai lietotājiem, kam vēlaties iespējot vairāku faktoru autentifikaciju. Redzēt visiem lietotājiem, iespējams, būs jāmaina **vairāku faktoru autentificēšana statusa** filtrs augšpusē.
     
-4. Atzīmējiet izvēles rūtiņu blakus lietotājus, kurus vēlaties iespējot.
+4. Atzīmējiet izvēles rūtiņas lietotājiem, kurus vēlaties iespējot.
     
-5.  Uz pareizo lietotāja informācijas rūts sadaļā **ātrās darbības** jūs redzēsiet iespējošana un pārvaldīt lietotāja iestatījumus. Izvēlieties **Aktivizēt**. 
+5.  Pareizo lietotāja informācijas rūtī zem **ātrās darbības**, izvēlieties **Aktivizēt**. 
     
-6. Dialoglodziņā, kas atveras, **noklikšķiniet uz Iespējot vairāku faktoru autentificēšana**. 
+6. Dialoglodziņā, kurš atveras, atlasiet **Iespējot vairāku faktoru autentificēšana**. 
     
 
