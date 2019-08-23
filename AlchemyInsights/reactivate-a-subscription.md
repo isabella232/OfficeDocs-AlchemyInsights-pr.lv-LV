@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391059"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553367"
 ---
-# <a name="reactivate-a-subscription"></a><span data-ttu-id="80971-102">Aktivizēt abonementu</span><span class="sxs-lookup"><span data-stu-id="80971-102">Reactivate a subscription</span></span>
+# <a name="reactivate-an-office-365-subscription"></a><span data-ttu-id="19129-102">Atkārtoti aktivizēt Office 365 abonements</span><span class="sxs-lookup"><span data-stu-id="19129-102">Reactivate an Office 365 subscription</span></span>
 
-<span data-ttu-id="80971-103">Ja jūsu abonementa derīguma termiņš ir beidzies, ir atspējojis Microsoft, vai tiek anulēta, vidū abonēšanas termiņš, lai to atkal aktivizētu, administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="80971-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="19129-103">Ja jūsu abonementa derīguma termiņš ir beidzies, ir atspējojis Microsoft, vai tiek anulēta, vidū abonēšanas termiņš, lai to atkal aktivizētu, administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="19129-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
   
-1. <span data-ttu-id="80971-104">Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.</span><span class="sxs-lookup"><span data-stu-id="80971-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="19129-104">Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.</span><span class="sxs-lookup"><span data-stu-id="19129-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="80971-105">Izvēlieties abonēšanas, kuru vēlaties aktivizēt no jauna un pēc tam noklikšķiniet uz **Aktivizēt**.</span><span class="sxs-lookup"><span data-stu-id="80971-105">Choose the subscription that you want to reactivate, then choose **Reactivate**.</span></span>
+2. <span data-ttu-id="19129-105">Izvēlieties abonēšanas, ko vēlaties atkārtoti aktivizēt.</span><span class="sxs-lookup"><span data-stu-id="19129-105">Choose the subscription that you want to reactivate.</span></span> <span data-ttu-id="19129-106">Sadaļā norēķinu izvēlieties **Aktivizēt**.</span><span class="sxs-lookup"><span data-stu-id="19129-106">In the Billing section, select **Reactivate**.</span></span>
 
-    <span data-ttu-id="80971-106">Ja neredzat **Aktivizēt** kā pieejamās darbības, izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri, lai aktivizētu savu abonementu.</span><span class="sxs-lookup"><span data-stu-id="80971-106">If you do not see **Reactivate** as an available action, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span>
+    <span data-ttu-id="19129-107">Ja jūs neredzat, **Aktivizēt** kā pieejamo darbību, [sazinieties ar atbalsta darbiniekiem](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) , lai aktivizēt abonementu.</span><span class="sxs-lookup"><span data-stu-id="19129-107">If you don't see **Reactivate** as an available action, [call support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="80971-107">Ievadiet maksājuma informāciju.</span><span class="sxs-lookup"><span data-stu-id="80971-107">Enter your payment details.</span></span> <span data-ttu-id="80971-108">Varat atjaunināt šeit esošo maksājumu informāciju.</span><span class="sxs-lookup"><span data-stu-id="80971-108">You can update your existing payment information here.</span></span>
+3. <span data-ttu-id="19129-108">Jāapstiprina maksājuma detaļas.</span><span class="sxs-lookup"><span data-stu-id="19129-108">Confirm your payment details.</span></span> <span data-ttu-id="19129-109">Varat atjaunināt šeit esošo maksājumu informāciju.</span><span class="sxs-lookup"><span data-stu-id="19129-109">You can update your existing payment information here.</span></span> <span data-ttu-id="19129-110">Kad esat pabeidzis ievadīt savu maksājuma veidu, izvēlieties **Aktivizēt**.</span><span class="sxs-lookup"><span data-stu-id="19129-110">When you're finished entering your payment method, select **Reactivate**.</span></span>
 
-<span data-ttu-id="80971-109">Jūs lietojat jaunu administrēšanas centrs</span><span class="sxs-lookup"><span data-stu-id="80971-109">Are you using the new admin center?</span></span> <span data-ttu-id="80971-110">Jaunas darbības, sk. [Aktivizēt abonementu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="80971-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="19129-111">Papildinformāciju skatiet sadaļā [Aktivizēt abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="19129-111">For more information, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>

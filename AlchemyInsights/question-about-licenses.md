@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388463"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553583"
 ---
-# <a name="question-about-licenses"></a><span data-ttu-id="c5eac-102">Jautājums par licencēm</span><span class="sxs-lookup"><span data-stu-id="c5eac-102">Question about licenses</span></span>
+# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="7b556-102">Uzdotiem jautājumiem par Office 365 licences</span><span class="sxs-lookup"><span data-stu-id="7b556-102">Questions about your Office 365 license</span></span>
 
-<span data-ttu-id="c5eac-103">Ja jūs vēlaties zināt, cik licences ir iegādātas vai cik licences tiek piešķirtas no abonementu:</span><span class="sxs-lookup"><span data-stu-id="c5eac-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="7b556-103">Ja jūs vēlaties zināt, cik licences ir iegādātas vai cik licences tiek piešķirtas no abonementu:</span><span class="sxs-lookup"><span data-stu-id="7b556-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="c5eac-104">Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.</span><span class="sxs-lookup"><span data-stu-id="c5eac-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="7b556-104">Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.</span><span class="sxs-lookup"><span data-stu-id="7b556-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="c5eac-105">Izvēlaties abonementu, jūs vēlaties uzzināt vairāk par.</span><span class="sxs-lookup"><span data-stu-id="c5eac-105">Choose the subscription you want to know more about.</span></span>
+2. <span data-ttu-id="7b556-105">Abonementu, jūs vēlaties uzzināt vairāk par nosaukumu, jūs varat redzēt jūs maksājat par licencēm un cik pieejami ir piešķirts numurs.</span><span class="sxs-lookup"><span data-stu-id="7b556-105">Under the name of the subscription you want to know more about, you can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-3. <span data-ttu-id="c5eac-106">Abonementa kartes kreisajā pusē ir informāciju par savām licencēm:</span><span class="sxs-lookup"><span data-stu-id="c5eac-106">On the left side of the subscription card is information about your licenses:</span></span>
-
-  - <span data-ttu-id="c5eac-107">**Nopirkts** numurs ir jūs maksājat par licenču skaitu.</span><span class="sxs-lookup"><span data-stu-id="c5eac-107">The **Purchased** number is the number of licenses you are paying for.</span></span>
-
-  - <span data-ttu-id="c5eac-108">**Piešķirts** skaitlis ir piešķirt lietotāja licenču skaitu.</span><span class="sxs-lookup"><span data-stu-id="c5eac-108">The **Assigned** number is the number of licenses assigned to a user.</span></span>
-
-4. <span data-ttu-id="c5eac-109">Ja vēlaties pievienot vairākas licences, vai ja jums ir pārāk daudz, izvēlieties **Add/Remove licences** koriģēt summu iegādātas.</span><span class="sxs-lookup"><span data-stu-id="c5eac-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="7b556-106">Ja vēlaties pievienot vairākas licences, vai ja jums ir pārāk daudz, izvēlieties **Add/Remove licences** koriģēt summu iegādātas.</span><span class="sxs-lookup"><span data-stu-id="7b556-106">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>

@@ -12,22 +12,22 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 58e43416a86dd3fb478dbb89e3ea3a8953a01c2f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d317791c4710453abe0a6eaa4f3e8a5b907c9cf5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385247"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542060"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a><span data-ttu-id="79bad-102">Kā iegādāties Office 365 biznesa abonēšanas licences</span><span class="sxs-lookup"><span data-stu-id="79bad-102">How to buy licenses for your Office 365 business subscription</span></span>
+# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a><span data-ttu-id="27114-102">Kā iegādāties Office 365 biznesa abonēšanas licences</span><span class="sxs-lookup"><span data-stu-id="27114-102">How to buy licenses for your Office 365 business subscription</span></span>
 
-<span data-ttu-id="79bad-103">Kad Office 365 licences piešķiršana lietotājiem, jūs varat atrast jums ir nepieciešams iegādāties papildu licences.</span><span class="sxs-lookup"><span data-stu-id="79bad-103">When assigning Office 365 licenses to your users, you may find you have the need to buy additional licenses.</span></span> <span data-ttu-id="79bad-104">Lai to izdarītu:</span><span class="sxs-lookup"><span data-stu-id="79bad-104">To do this:</span></span>
+<span data-ttu-id="27114-103">Kad Office 365 licences piešķiršana lietotājiem, jūs varat atrast jums ir nepieciešams iegādāties papildu licences.</span><span class="sxs-lookup"><span data-stu-id="27114-103">When assigning Office 365 licenses to your users, you may find you have the need to buy additional licenses.</span></span> <span data-ttu-id="27114-104">Lai to izdarītu:</span><span class="sxs-lookup"><span data-stu-id="27114-104">To do this:</span></span>
   
-- <span data-ttu-id="79bad-105">Microsoft 365 admin Center, dodieties uz [abonēšanas]( https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu** \> **abonementu**.</span><span class="sxs-lookup"><span data-stu-id="79bad-105">In the Microsoft 365 admin center, go to the [Subscriptions]( https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1.  <span data-ttu-id="27114-105">Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.</span><span class="sxs-lookup"><span data-stu-id="27114-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-- <span data-ttu-id="79bad-106">**Abonēšanas** lapā, izvēlēties, kuru vēlaties pievienot licences un pēc tam izvēlieties **Add/Remove licences**abonementa.</span><span class="sxs-lookup"><span data-stu-id="79bad-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.</span></span>
+2. <span data-ttu-id="27114-106">Kurai vēlaties pievienot licences abonementa atrast un pēc tam atlasiet **Add/Remove licences**.</span><span class="sxs-lookup"><span data-stu-id="27114-106">Find the subscription to which you want to add licenses, and then select **Add/Remove licenses**.</span></span>
 
-- <span data-ttu-id="79bad-107">**Kopējais licenču** lodziņā ievadiet licences, ka jums nepieciešams šo abonementu un pēc tam izvēlieties **iesniegšanas** kopskaits \> **tuvu**.</span><span class="sxs-lookup"><span data-stu-id="79bad-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit** \> **Close**.</span></span> <span data-ttu-id="79bad-108">Piemēram, ja jums ir 100 licences un jāpievieno 5 vairāk ievadiet 105.</span><span class="sxs-lookup"><span data-stu-id="79bad-108">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
+3. <span data-ttu-id="27114-107">**Kopējais licenču** lodziņā ievadiet licences, ka jums ir nepieciešams šīs abonēšanas un pēc tam atlasiet **iesniegt mainīt**kopējo skaitu.</span><span class="sxs-lookup"><span data-stu-id="27114-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then select **Submit change**.</span></span> <span data-ttu-id="27114-108">Piemēram, ja jums ir 100 licences un jāpievieno 5 vairāk ievadiet 105.</span><span class="sxs-lookup"><span data-stu-id="27114-108">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
 
-<span data-ttu-id="79bad-109">Lai iegūtu vairāk informācijas: [nopirkt jūsu Office 365 biznesa abonēšanas licences](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span><span class="sxs-lookup"><span data-stu-id="79bad-109">For more information: [Buy licenses for your Office 365 for business subscription](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span></span>
+<span data-ttu-id="27114-109">Papildinformāciju skatiet sadaļā [nopirkt jūsu Office 365 biznesa abonementa licences](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1).</span><span class="sxs-lookup"><span data-stu-id="27114-109">For more information, see [Buy licenses for your Office 365 for business subscription](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1).</span></span>
   

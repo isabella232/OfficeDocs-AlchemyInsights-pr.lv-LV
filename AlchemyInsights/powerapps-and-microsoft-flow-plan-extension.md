@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2ed0157aff72c42a63898b03cdf8bd5ea3f980a5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371207"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554730"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="5114c-102">PowerApps un Flow Microsoft plānu extension</span><span class="sxs-lookup"><span data-stu-id="5114c-102">PowerApps and Microsoft Flow plan extension</span></span>
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="8c931-102">PowerApps un Flow Microsoft plānu extension</span><span class="sxs-lookup"><span data-stu-id="8c931-102">PowerApps and Microsoft Flow plan extension</span></span>
 
-<span data-ttu-id="5114c-103">Ja jūs plānojat pieprasījumu plāna paplašinājums **Microsoft plūsmas** vai **PowerApps** un jūsu īrnieks jau ir aktīvi lietotāji, viens no šādiem līdzekļiem, nav nepieciešams iesniegt atbalsta pieprasījumu.</span><span class="sxs-lookup"><span data-stu-id="5114c-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
+<span data-ttu-id="8c931-103">Ja jūs plānojat pieprasījumu plāna paplašinājums **Microsoft plūsmas** vai **PowerApps** un jūsu īrnieks jau ir aktīvi lietotāji, viens no šādiem līdzekļiem, nav nepieciešams iesniegt atbalsta pieprasījumu.</span><span class="sxs-lookup"><span data-stu-id="8c931-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
 
-- <span data-ttu-id="5114c-104">Izveidi un publicēšanu pielāgotu savienotāji PowerApps un Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="5114c-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
-- <span data-ttu-id="5114c-105">Integrēts plūsmu ārpus SharePoint un OneDrive HTTP pielāgotās darbības</span><span class="sxs-lookup"><span data-stu-id="5114c-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
-- <span data-ttu-id="5114c-106">Lokālajiem datiem caur vārteju uz lokālajiem datu integrācija</span><span class="sxs-lookup"><span data-stu-id="5114c-106">Integration of on-premises data through the on-premises  data gateway</span></span>
+- <span data-ttu-id="8c931-104">Izveidi un publicēšanu pielāgotu savienotāji PowerApps un Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="8c931-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
+- <span data-ttu-id="8c931-105">Integrēts plūsmu ārpus SharePoint un OneDrive HTTP pielāgotās darbības</span><span class="sxs-lookup"><span data-stu-id="8c931-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
+- <span data-ttu-id="8c931-106">Lokālajiem datiem caur vārteju uz lokālajiem datu integrācija</span><span class="sxs-lookup"><span data-stu-id="8c931-106">Integration of on-premises data through the on-premises  data gateway</span></span>
 
-<span data-ttu-id="5114c-107">Klienti ar aktīvu lietotāju šos līdzekļus saņems automātisku pagarināšanu līdz 2020. gada 31. janvārī, vai viņu esošo Office 365 abonementa derīguma termiņa beigām, atkarībā no tā, kas ir garāks.</span><span class="sxs-lookup"><span data-stu-id="5114c-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>
+<span data-ttu-id="8c931-107">Klienti ar aktīvu lietotāju šos līdzekļus saņems automātisku pagarināšanu līdz 2020. gada 31. janvārī, vai viņu esošo Office 365 abonementa derīguma termiņa beigām, atkarībā no tā, kas ir garāks.</span><span class="sxs-lookup"><span data-stu-id="8c931-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>

@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: d2fb9f5bd458844ee002423e46a8f22415b4031b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374392"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536550"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="1f136-102">Iekšējas servera kļūdas Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1f136-102">Internal server errors in Outlook.com</span></span>
+# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="8c36e-102">Iekšējas servera kļūdas Outlook.com</span><span class="sxs-lookup"><span data-stu-id="8c36e-102">Internal server errors in Outlook.com</span></span>
 
-<span data-ttu-id="1f136-103">Ak nē!</span><span class="sxs-lookup"><span data-stu-id="1f136-103">Oh no!</span></span> <span data-ttu-id="1f136-104">Ja jūs redzat "Error 500" vai "Internal Server Error" ziņojumu, tas ir mums un jums - atvainojos par to.</span><span class="sxs-lookup"><span data-stu-id="1f136-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
+<span data-ttu-id="8c36e-103">Ak nē!</span><span class="sxs-lookup"><span data-stu-id="8c36e-103">Oh no!</span></span> <span data-ttu-id="8c36e-104">Ja jūs redzat "Error 500" vai "Internal Server Error" ziņojumu, tas ir mums un jums - atvainojos par to.</span><span class="sxs-lookup"><span data-stu-id="8c36e-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
 
-<span data-ttu-id="1f136-105">Pārbaudīt [Office servisa statusa lapu](https://portal.office.com/servicestatus) , lai pārliecinātos, nekas vēl notiek, bet labākais risinājums ir paņemt pārtraukumu uz pāris minūtēm un pēc tam atsvaidziniet pārlūkprogrammu, nospiežot **taustiņu CTRL** un **taustiņu F5**.</span><span class="sxs-lookup"><span data-stu-id="1f136-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>
+<span data-ttu-id="8c36e-105">Pārbaudīt [Office servisa statusa lapu](https://portal.office.com/servicestatus) , lai pārliecinātos, nekas vēl notiek, bet labākais risinājums ir paņemt pārtraukumu uz pāris minūtēm un pēc tam atsvaidziniet pārlūkprogrammu, nospiežot **taustiņu CTRL** un **taustiņu F5**.</span><span class="sxs-lookup"><span data-stu-id="8c36e-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>
