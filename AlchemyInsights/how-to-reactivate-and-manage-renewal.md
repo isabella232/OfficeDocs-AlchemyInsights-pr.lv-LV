@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f6ecb4c2db6f7fc8165089a5c3b8483c6b11558
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540044"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kā aktivizēt un pārvaldīt periodisku norēķinu
 
@@ -42,4 +42,4 @@ Pārvaldīt, katru mēnesi vai katru gadu rēķina, jūs varat pārslēgties **p
 
 3. **Periodisks norēķinu** pārslēgšanas pārslēgties uz **ieslēgts** vai **izslēgts**.
 
-Lai iegūtu papildinformāciju, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lai iegūtu papildinformāciju, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

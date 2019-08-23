@@ -13,31 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390987"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540296"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Kā padarīt Office 365 pirkšanas
 
 Pirkumiem biroja 365 var veikt administrēšanas centrā.
   
-- Lai iegādātos Office 365 abonēšanas doties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
+- Lai iegādātos Office 365 subscriptio, dodieties uz **norēķinu** \> lapu [pirkt pakalpojumus](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- Jāiegādājas papildu licences, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā. **Abonēšanas** lapā, izvēlēties, kuru vēlaties pievienot licences abonementa un pēc tam izvēlieties **Add/Remove licences**.
-
-- Pārslēgties uz citu barošanas plānu:
-
-  - Izvēlēties **slēdzis plānus** , lai skatītu sarakstu ar jauniem plāniem, kas ir pieejami.
-
-  - Izvēlēties plānu, lai redzētu jaunās kopējās izmaksas mēnesī. Pārliecinieties, lai izlasītu galveno informāciju un pēc tam izvēlieties **Nākamā** izbraukšana.
-
-Jūs lietojat jaunu administrēšanas centrs Jaunas darbības, skatiet [jaunināt uz citu plānu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+- Jāiegādājas papildu licences, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu. Izvēlieties pievienojamo licences abonementa un pēc tam atlasiet **Add/Remove licences**.
   
  **Papildu resursi**
   
-- [Licences piešķiršana lietotājiem Office 365 uzņēmējdarbībai](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licences piešķiršana lietotājiem Office 365 uzņēmējdarbībai](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Atcelt Office 365 biznesa](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Atcelt Office 365 biznesa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

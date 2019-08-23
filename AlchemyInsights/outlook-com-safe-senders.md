@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602006"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535362"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Apturētu ziņojumu nonākšanu jūsu nevēlamā e-pasta mapi
 
-Ir reizes, kad jūs nevēlaties, lai ziņojumiem no konkrētas personas vai domēna nonāk mapē Nevēlamais e-pasts. Ziņojumi no adreses vai domēni ir drošo sūtītāju sarakstā netiks pārvietoti uz mapi Nevēlamais e-pasts.
+Ir brīži, kad jūs nevēlaties, lai ziņojumiem no konkrētas personas vai domēna nonāk mapē Nevēlamais e-pasts ar Outlook.com. Ziņojumi no adreses vai domēni ir drošo sūtītāju sarakstā netiks pārvietoti uz mapi Nevēlamais e-pasts.
 
 1. Atveriet jūsu [drošo sūtītāju iestatījumus](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Saskaņā ar **drošo sūtītāju un jomām**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot un izvēlieties **pievienot**.

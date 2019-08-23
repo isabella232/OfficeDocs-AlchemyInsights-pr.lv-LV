@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388391"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551530"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Nosūtīt e-pasta aizstājvārdu vai sekundāro adresi, kas
 
@@ -26,4 +26,4 @@ Biroja 365 pašlaik neatbalsta nosūtot e-pasta aizstājvārdu vai sekundāro e-
   
 - [Go šeit, lai izveidotu kopīgu pastkasti](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Jūs varat arī izlasīt [koplietojamo pastkastes izveide](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) rakstu, kas pateiks visu, kas jums būtu jāzina par kopīgu pastkastēm, ieskaitot to, kā tos izmantot.
+Jūs varat arī izlasīt [koplietojamo pastkastes izveide](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) rakstu, kas pateiks visu, kas jums būtu jāzina par kopīgu pastkastēm, ieskaitot to, kā tos izmantot.

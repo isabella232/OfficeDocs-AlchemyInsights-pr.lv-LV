@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382960"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539036"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificē IP adrese un klienta audita žurnālos
 
-IP adrese, kas atbilst darbībai, kuru lietotājs vai administrators ir redzams audita žurnālus. Klienta informācija arī pieteicies. Šeit ir soļi, lai apzinātu šādas informācijas
+IP adrese, kas atbilst Office 365 lietotāja vai administratora darbība tiek rādīts audita žurnālus. Klienta informācija arī pieteicies. Šeit ir soļi, lai apzinātu šādas informācijas
 
-1. [Office drošības 365 & atbilstību centra](https://protection.office.com/) pieteikties
+1. [Office drošības 365 & atbilstību centra](https://protection.office.com/)pieteikties.
 
-2. Noklikšķiniet uz **meklēšanas un izmeklēšanas** un atlasiet **Audita žurnālu meklēšana**.
+2. Iet uz **meklēšanas** > **audita žurnālu meklēšanas** lapu.
 
    Ja jūs interesē konkrētas aktivitātes, atlasiet to no **darbību** saraksta. Ja nav, tad visas darbības, kas tiks atgriezta atlasītā lietotāja (noklusētais uzstādījums).
 

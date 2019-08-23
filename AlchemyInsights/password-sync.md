@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372963"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555384"
 ---
 # <a name="enable-password-sync"></a>Jāiespējo paroles sinhronizācija
 
-1.  Izvēlieties **DirSync statusu** O365 administrēšanas centra mājas lapā. 
+1.  **DirSync statuss** izvēlieties Microsoft 365 admin centra mājas lapā. 
     
-     * Pārmaiņus, jūs varat doties uz **lietotāju** \> * * Aktīvie lietotāji **, un Aktīvie lietotāji lapā izvēlieties **vairāk** \> **Directory sinhronizācija.** * 
+     *Pārmaiņus, jūs varat doties uz **lietotāju** \> **Aktīvie lietotāji**, un Aktīvie lietotāji lapā izvēlieties **vairāk** \> **Directory sinhronizācija.*** 
     
 2. Direktoriju sinhronizācijas rūtī izvēlieties **iet uz DirSync vadības**. 
     

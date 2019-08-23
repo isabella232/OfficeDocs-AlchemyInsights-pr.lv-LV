@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444779"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555240"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanu un meklēšanu eDiscovery
 
@@ -32,6 +32,6 @@ Izmantot satura meklēšanas rīkā & drošības atbilstības centru, lai ātri 
 4. Ievadiet nepieciešamo meklēšanas nosacījumus, tai skaitā atslēgvārdi un satura atrašanās vietu.  
 5. Noklikšķiniet uz **saglabāt & palaist** vārdu meklēšanas, sākt to un pēc tam priekšskatīt rezultātus.
 
-Detalizētas instrukcijas par satura meklēšanu, eksportējot rezultātus un radot eDiscovery gadījumos, lai ietvertu datus, skatiet [Satura meklēšanu](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) un [eDiscovery gadījumos](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Detalizētas instrukcijas par satura meklēšanu, eksportējot rezultātus un radot eDiscovery gadījumos, lai ietvertu datus, skatiet [Satura meklēšanu](https://docs.microsoft.com/office365/securitycompliance/content-search) un [eDiscovery gadījumos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Saprast vairāk par satura meklēšanu, pārskatot [prasības un ierobežojumus](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) un [izmeklēt daļēji indeksē vienumus](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) un citiem rezultāti būtu zināmi.
+Saprast vairāk par satura meklēšanu, pārskatot [prasības un ierobežojumus](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) un [izmeklēt daļēji indeksē vienumus](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) un citiem rezultāti būtu zināmi.
