@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356100"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551854"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Atjaunotu izdzēsto pastkasti
 
@@ -33,7 +33,7 @@ Kad lietotājs zaudē savu tiešsaistes valūtas maiņas licence, savas pastkast
 
 2. Nospiediet **Rediģēt** , lai modificētu produktu licencēm
 
-3. Piešķirt licenci Exchange Online un nospiediet **Saglabāt**
+3. Piešķirt licenci Exchange Online un nospiediet **saglabāt**
 
-Ja jūs mēģināt atkopt Shared pastkasti, ir arī atlīdzināmi 30 dienas. Jūs varat atrast tos sadaļā **lietotāji** \> **dzēsts** lietotājiem; koplietojamo pastkastēm nav nepieciešama licence. Ja tu saproti, ka jums ir nepieciešams, lai atjaunotu Svītrots lietotājs, lūdzu, skatiet [atjaunot lietotāja Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Ja jūs mēģināt atkopt Shared pastkasti, ir arī atlīdzināmi 30 dienas. Jūs varat atrast tos sadaļā **lietotāji** \> **dzēsts** lietotājiem; koplietojamo pastkastēm nav nepieciešama licence. Ja tu saproti, ka jums ir nepieciešams, lai atjaunotu Svītrots lietotājs, lūdzu, skatiet [atjaunot lietotāja Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   

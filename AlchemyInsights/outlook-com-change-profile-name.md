@@ -13,17 +13,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062103"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546727"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Mainīt sava profila nosaukumu Outlook.com
 
 1. Iet uz [jūsu Microsoft kontu info](https://go.microsoft.com/fwlink/p/?linkid=860841).
 2. Atlasiet **rediģēt nosaukumu**.
-3. Ievadiet vārdu un uzvārdu, un izvēlieties **Saglabāt**.
+3. Ievadiet vārdu un uzvārdu, un izvēlieties **saglabāt**.
 
 Atļaujiet veikt izmaiņas profila nosaukumu, lai tie stātos spēkā līdz 24 stundām.

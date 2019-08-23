@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: ce088227a3206fa05b99331fdb022fbe4886203f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543932"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Trūkst darbplūsmas neizdevās aktivizēt
 
@@ -29,9 +29,9 @@ Lai atrisinātu šo problēmu, rīkojieties šādi:
   
 4. Formā **Izveidot izmantojama darbplūsmas** ievadiet nosaukumu * * *Repair2010* * *. **Platformas tips**noklikšķiniet uz **SharePoint 2010 darbplūsma**un pēc tam noklikšķiniet uz **Labi**. 
   
-1. Sadaļā **Saglabāt** **darbplūsmas** lentes, atlasiet **publicēt**. 
+1. Sadaļā **saglabāt** **darbplūsmas** lentes, atlasiet **publicēt**. 
   
-2. **Darbplūsmā** lentei sadaļā **Pārvaldīt** atlasiet **Publicēt globāli**. Apstiprinājuma dialoglodziņā, kas parādās, izvēlieties **Labi**. 
+2. **Darbplūsmā** lentei sadaļā **pārvaldīt** atlasiet **Publicēt globāli**. Apstiprinājuma dialoglodziņā, kas parādās, izvēlieties **Labi**. 
   
 3. Web pārlūkprogrammā, atrast saknes tīmekļa vietņu kolekcijas, un pēc tam piekļūt **Vietnes iestatījumus** \> **Vietņu kolekcijas līdzekļus**. Tad, pretēji **darbplūsmas** līdzeklis: 
   

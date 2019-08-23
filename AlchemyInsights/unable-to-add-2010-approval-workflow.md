@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 3741b1169ddf731725c18fbaed80bfb321e5db46
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366842"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558624"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Nevar pievienot 2010 apstiprinājuma darbplūsmu
 
@@ -29,9 +29,9 @@ Lai atrisinātu šo problēmu, rīkojieties šādi:
   
 4. Formā **Izveidot izmantojama darbplūsmas** ievadiet nosaukumu * * *Repair2010* * *. **Platformas tips**noklikšķiniet uz **SharePoint 2010 darbplūsma**un pēc tam noklikšķiniet uz **Labi**. 
   
-1. Sadaļā **Saglabāt** **darbplūsmas** lentes, atlasiet **publicēt**. 
+1. Sadaļā **saglabāt** **darbplūsmas** lentes, atlasiet **publicēt**. 
   
-2. **Darbplūsmā** lentei sadaļā **Pārvaldīt** atlasiet **Publicēt globāli**. Apstiprinājuma dialoglodziņā, kas parādās, izvēlieties **Labi**. 
+2. **Darbplūsmā** lentei sadaļā **pārvaldīt** atlasiet **Publicēt globāli**. Apstiprinājuma dialoglodziņā, kas parādās, izvēlieties **Labi**. 
   
 3. Web pārlūkprogrammā, atrast saknes tīmekļa vietņu kolekcijas, un pēc tam piekļūt **Vietnes iestatījumus** \> **Vietņu kolekcijas līdzekļus**. Pārslēgt **darbplūsmas** līdzeklis: 
   

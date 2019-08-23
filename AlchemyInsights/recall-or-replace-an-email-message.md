@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356604"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553439"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Atsauktu vai aizstātu e-pasta ziņojumu
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Atsauktu vai aizstātu e-pasta ziņojumam programmā Office 365
 
 - Jūs varat **tikai atsaukt ziņojumus, kas nosūtīti cilvēkiem jūsu organizācijā**. Ja ziņojums tika nosūtīts Gmail adresi, piemēram, nevaru atcerēties to.
 - Jūs varat **tikai atsaukt ziņojumus, kas nosūtīti no Outlook 2016 PC**. Ja lietotājs nosūta īsziņu, izmantojot Mac programmu Outlook vai Outlook Web, to nevar atsaukt.
 - Ja esat admin, jūs varat **Atsaukt ziņojumus, izmantojot programmu PowerShell lietotāju vārdā**. Ziņas no admin center nevar atsaukt. Ritiniet uz leju, lai "Meklēt un dzēst e-pasta ziņojumus savā uzņēmumā" lai iegūtu vairāk informācijas.
 
-***Atsauktu vai aizstātu e-pasta ziņojumu, ko nosūtījāt***
+**Atsauktu vai aizstātu e-pasta ziņojumu, ko nosūtījāt**
 
 1. Mapju rūtī Outlook loga kreisajā pusē, izvēlieties mapi Nosūtītie vienumi.
 2. Atveriet ziņojumu, kuru vēlaties atsaukt. Jums jābūt veiciet dubultklikšķi, lai atvērtu ziņojumu. Atzīmējot ziņojumu, lai tas tiek parādīts lasīšanas rūtī neļaus jums atsaukt ziņojumu.

@@ -12,18 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.openlocfilehash: e760a0f4037dc626a08e17a3f0e5ac57f51b2859
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: c7ed1f7286fb62a552c21d7a20d7c85111656058
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430617"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556619"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a>Mainīt valodu, datuma un laika formātu vai laika joslu
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Mainīt valodu, datuma un laika formātu vai laika joslu programmā Outlook Web
 
-1. Lapas augšdaļā atlasiet **iestatījumus** > **Outlook iestatījumu skatīšana**.
+1. Lappuses augšā atlasiet <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Iestatījumi** > **Outlook iestatījumu skatīšana**.
 2. Izvēlieties **vispārējo** > **valodas un laika**.
 3. Atlasiet vēlamo valodu.
-4. Izvēlieties **Saglabāt**.
+4. Izvēlieties **saglabāt**.
 
 Lai uzzinātu vairāk, skatiet [Mainīt laika joslu un valodas iestatījumus Outlook Web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).

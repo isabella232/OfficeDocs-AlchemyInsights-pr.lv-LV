@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269491"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553403"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware uzbrukums SharePoint vai OneDrive
 
@@ -36,12 +36,12 @@ Lai iegūtu papildinformāciju par to, kā atjaunot, skatiet sadaļu:
 - [Atjaunot dokumentu bibliotēkā](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 Lai iegūtu papildinformāciju par papildu draudus aizsardzība (ATP), skatīt:
-- [ATP SharePoint, OneDrive un komandas](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Draudu Explorer viedokli](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [ATP SharePoint, OneDrive un komandas](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Draudu Explorer viedokli](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Papildu informācija:
 
-- [Vīrusu noteikšanai SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Datu šifrēšana ODB un SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Vīrusu noteikšanai SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Datu šifrēšana ODB un SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Ransomware atklāšanas un atgūt failus](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Draudu Explorer un reālā konstatēšanu](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Draudu Explorer un reālā konstatēšanu](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

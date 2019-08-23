@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388463"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553583"
 ---
-# <a name="question-about-licenses"></a>Jautājums par licencēm
+# <a name="questions-about-your-office-365-license"></a>Uzdotiem jautājumiem par Office 365 licences
 
 Ja jūs vēlaties zināt, cik licences ir iegādātas vai cik licences tiek piešķirtas no abonementu:
   
-1. Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.
+1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
 
-2. Izvēlaties abonementu, jūs vēlaties uzzināt vairāk par.
+2. Abonementu, jūs vēlaties uzzināt vairāk par nosaukumu, jūs varat redzēt jūs maksājat par licencēm un cik pieejami ir piešķirts numurs.
 
-3. Abonementa kartes kreisajā pusē ir informāciju par savām licencēm:
-
-  - **Nopirkts** numurs ir jūs maksājat par licenču skaitu.
-
-  - **Piešķirts** skaitlis ir piešķirt lietotāja licenču skaitu.
-
-4. Ja vēlaties pievienot vairākas licences, vai ja jums ir pārāk daudz, izvēlieties **Add/Remove licences** koriģēt summu iegādātas.
+Ja vēlaties pievienot vairākas licences, vai ja jums ir pārāk daudz, izvēlieties **Add/Remove licences** koriģēt summu iegādātas.
