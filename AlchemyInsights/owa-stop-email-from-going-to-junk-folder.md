@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 8749b365638a2c5441743cd6d58f2728a36914ef
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204139"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555744"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Apturētu ziņojumu no nevēlamā e-pasta mapi, kas
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Apturētu ziņojumu no došanās uz nevēlamā e-pasta mapi, Outlook Web
 
 Ja jūs atklājat, ka nav nevēlamā e-pasta ziņojumu mapē Nevēlamais e-pasts:
 

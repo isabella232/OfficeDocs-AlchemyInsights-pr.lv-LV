@@ -12,12 +12,12 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 6cf996e6d0a2698a5ce2bb57251de7c61d248d2a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382672"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499609"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pasta plūsmas noteikumi (pazīstams arī kā pārvadāšanas noteikumiem)
 
@@ -25,7 +25,7 @@ ms.locfileid: "35382672"
 
 - Pasta plūsmas kārtulu iestatīšana: [pasta plūsma pants procedūra Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Veidot, modificēt un dzēst pasta plūsmas noteikumi: [Pārvaldīt pasta plūsmas kārtulas](https://technet.microsoft.com/library/jj657505.aspx)
+- Veidot, modificēt un dzēst pasta plūsmas noteikumi: [pārvaldīt pasta plūsmas kārtulas](https://technet.microsoft.com/library/jj657505.aspx)
 
 Jūs varat arī pārvaldīt pasta plūsmas kārtulas Exchange Online PowerShell. Plašāku informāciju skatiet [Iegūt TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (skats), [New TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (izveidot), [Noņemt TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (DEL), [Kopā-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modificēt esošos) [Disable TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (atspējot esošo), un [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (iespējot esošo).
 

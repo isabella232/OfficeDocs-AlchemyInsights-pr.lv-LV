@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271901"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558084"
 ---
 # <a name="workflow-troubleshooting"></a>Darbplūsmas Traucējummeklēšana
 
-Darbplūsmu, problēmu novēršanu un atkļūdošana:
+Papildinformāciju par SharePoint darbplūsmas atkļūdošana, pārskatiet šos elementus:
 - Atkļūdošanas darbplūsmas atgādina, ka visas iepriekšējās versijas.  Lai iegūtu papildu informāciju, skatiet [Debugging SharePoint darbplūsmas](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 - Plašāku informāciju par problēmu novēršanu, skatiet [problēmu novēršana SharePoint Server darbplūsmas validācijas kļūdas](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
