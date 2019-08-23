@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab392a174358fc9c3da7a3c7272973743a6c4002
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371125"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553511"
 ---
-# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="70922-102">Problēmas, kas saistītas ar telpas pastkastēm</span><span class="sxs-lookup"><span data-stu-id="70922-102">Issues with room mailboxes</span></span>
+# <a name="about-room-mailboxes"></a><span data-ttu-id="2ebcf-102">Par istabu pastkastēm</span><span class="sxs-lookup"><span data-stu-id="2ebcf-102">About room mailboxes</span></span>
 
-<span data-ttu-id="70922-103">Papildinformāciju par istabu pastkastēm, skatiet [izveidot un pārvaldīt vietas pastkastes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="70922-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="2ebcf-103">Istabas pastkaste ir resursu pastkastē, kas piešķirta fizisko atrašanās vietu, piemēram, konferenču telpa, auditorijā vai mācību telpā.</span><span class="sxs-lookup"><span data-stu-id="2ebcf-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="2ebcf-104">Papildinformāciju par istabu pastkastēm, skatiet [izveidot un pārvaldīt vietas pastkastes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="2ebcf-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>

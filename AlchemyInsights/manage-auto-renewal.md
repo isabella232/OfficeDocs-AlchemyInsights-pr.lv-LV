@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389799"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542445"
 ---
-# <a name="manage-recurring-billing"></a><span data-ttu-id="56f1a-102">Pārvaldīt periodisku norēķinu</span><span class="sxs-lookup"><span data-stu-id="56f1a-102">Manage recurring billing</span></span>
+# <a name="manage-recurring-billing"></a><span data-ttu-id="c48c8-102">Pārvaldīt periodisku norēķinu</span><span class="sxs-lookup"><span data-stu-id="c48c8-102">Manage recurring billing</span></span>
 
-<span data-ttu-id="56f1a-103">Vadīt norēķinu atkārtojas, var pārslēgties, **periodiska norēķinu** ieslēgšana vai izslēgšana.</span><span class="sxs-lookup"><span data-stu-id="56f1a-103">To manage recurring billing, you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="c48c8-103">Var ieslēgt periodisko norēķinu ieslēgšana vai izslēgšana Microsoft 365 administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="c48c8-103">You can turn recurring billing on or off in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="56f1a-104">Admin Center, dodieties uz **norēķinu** \> [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā.</span><span class="sxs-lookup"><span data-stu-id="56f1a-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="c48c8-104">Dodieties uz **norēķinu** > [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.</span><span class="sxs-lookup"><span data-stu-id="c48c8-104">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="56f1a-105">Izvēlieties, kuram jūs gribētu pārvaldīt periodisku norēķinu abonēšanas.</span><span class="sxs-lookup"><span data-stu-id="56f1a-105">Choose the subscription for which you want to manage recurring billing.</span></span>
+2. <span data-ttu-id="c48c8-105">Sadaļā **norēķinu**, blakus **Renews,** vai **uz Expiring**, atlasiet **Rediģēt**.</span><span class="sxs-lookup"><span data-stu-id="c48c8-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
 
-3. <span data-ttu-id="56f1a-106">**Periodisks norēķinu** pārslēgšanas pārslēgties uz **ieslēgts** vai **izslēgts**.</span><span class="sxs-lookup"><span data-stu-id="56f1a-106">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
+3. <span data-ttu-id="c48c8-106">**Periodisks norēķinu iestatījumi** rūtī atlasiet **periodisks norēķinu OFF** , lai to izslēgtu.</span><span class="sxs-lookup"><span data-stu-id="c48c8-106">In the **Recurring billing settings** pane, select **Recurring billing OFF** to turn it off.</span></span> <span data-ttu-id="c48c8-107">Ja **periodisks norēķinu** jau ir izslēgta, atlasiet **mēnesi** vai **reizi** to ieslēgt.</span><span class="sxs-lookup"><span data-stu-id="c48c8-107">If **Recurring billing** is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-<span data-ttu-id="56f1a-107">Lai iegūtu papildinformāciju, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="56f1a-107">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span></span>
+4. <span data-ttu-id="c48c8-108">Atlasiet **iesniegt mainīt**.</span><span class="sxs-lookup"><span data-stu-id="c48c8-108">Select **Submit change**.</span></span>
+
+<span data-ttu-id="c48c8-109">Lai iegūtu papildinformāciju, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="c48c8-109">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).</span></span>
