@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543860"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620766"
 ---
 # <a name="modern-site-as-root-site"></a>Mūsdienu vietni kā saknes
 
-Mēs esam sākuši izvēršana jauns līdzeklis, kas ļaus apmainīties ar klasisko vietnes saknes vietne, ar mūsdienu vietā. Izmantot [Izsaukums SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) swap atrašanās vietu ar citu vietā vienlaikus arhivē sākotnējā vietā. Pieejama gan darba grupas vietni (nav pievienots grupai) un saziņas vietne. 
+Mēs esam sākuši izvēršana jauns līdzeklis, kas ļaus apmainīties ar klasisko vietnes saknes vietne, ar mūsdienu vietā. Izmantot [Izsaukums SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) swap atrašanās vietu ar citu vietā vienlaikus arhivē sākotnējā vietā. Pieejama gan darba grupas vietni (nav pievienots grupai) un saziņas vietne. 
 
 >[!Important]
 > Klasisks saknes vietne, lai izveidotu mūsdienīgu saziņas vietne nevar dzēst. Šī korporācija Microsoft to neatbalsta. Saknes vietnes dzēšana padarīs visas SharePoint vietnes organizācijā nepieejama visiem lietotājiem, kamēr vietā atjaunot vai izveidot jaunu vietni ar tādu pašu URL. Mums būs sazināties šo iespēju, izmantojot ziņu centru. Iespēja ieslēgt savu īrnieka drīzumā vajadzētu sagaidīt.

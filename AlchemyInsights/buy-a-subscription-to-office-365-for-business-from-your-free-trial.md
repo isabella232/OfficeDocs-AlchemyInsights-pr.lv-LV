@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7d1624fdf71c33f8f04e2dc5e8f02f5ca74881e1
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518010"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575748"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Iegādāties abonementu Office 365 no jūsu bezmaksas izmēģinājuma
 
@@ -36,4 +36,4 @@ vai arī **jūs varat iegādāties dažādas abonēšanas**
 
 3. Atrast abonementu, kuru vēlaties iegādāties, izvēlēties, **iegādāties**un izpildiet norādījumus, lai izbraukšana.
 
-Papildinformāciju skatiet sadaļā [nopirkt Office 365 uzņēmumu no jūsu bezmaksas izmēģinājuma abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [iegādāties Office 365 uzņēmumu no jūsu bezmaksas izmēģinājuma abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

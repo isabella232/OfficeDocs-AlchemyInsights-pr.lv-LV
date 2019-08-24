@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840522"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620730"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Tikai lasāms par tehniskās apkopes ziņojumu Mēģinot izmantot SharePoint vai OneDrive
 
-Lietotāji var saņemt **Tikai lasāms apkopes** ziņojumu Mēģinot izmantot SharePoint vai OneDrive.  Ja ir, pārbaudiet, ja ir aktīva uzturēšana notiek uz jūsu īrnieks ar navigāciju uz [īsziņu centru](https://portal.office.com/adminportal/home#/MessageCenter). Tāpat pārliecinieties, lai pārbaudītu [Veselības pakalpojumu](https://portal.office.com/adminportal/home#/servicehealth) vadības paneli, lai meklētu visus padomus/incidentiem, kas var būt sastopami.
+Lietotāji var saņemt **Tikai lasāms apkopes** ziņojumu Mēģinot izmantot SharePoint vai OneDrive par vienu no šiem scenārijiem. 
 
-Ja ne ziņu centrs vai pakalpojuma veselības informācijas paneļa ir jāatzīmē neko par kārtējo apkopi jūsu īrnieks, tas var būt pārlūkprogrammas caching jautājums.
+-   Plānotā vai aktīva tehniskās apkopes darbība.  Pārbaudiet tos ar navigāciju uz [Īsziņu centru](https://portal.office.com/adminportal/home#/messagecenter).
+-   Augstas prioritātes, aktīvajā karadienestā incidents, kas var būt sastopami. Jebkurš padomus/incidentu ar navigāciju uz [Servisa veselības](https://portal.office.com/adminportal/home#/servicehealth)pārbaudi.
+-   Nelielas auto sadzīšana atjaunošanas scenāriju, kas varētu notikt sakarā ar jebkādu negaidītu notikumu serveros, kas varētu ilgt mazāk par 30 min, vai arī tā. 
+    
+    Nav nekādu ziņu centru vai pakalpojumu veselības grāmato šo nepilngadīgais atgūtās summas, bet jūs būtu atpakaļ uz normālo ļoti drīz.
+
+Ļoti dažas reizes mēs novērota vienu no trim scenārijiem, kas uzskaitīti iepriekš bijis cēlonis, un pakalpojums ir atjaunota, bet lietotāju pārlūka kešatmiņa nav izlabota.
 
 Lūdzu, mēģiniet notīrīt pārlūkprogrammas kešatmiņu pirms vietnes navigāciju.
 

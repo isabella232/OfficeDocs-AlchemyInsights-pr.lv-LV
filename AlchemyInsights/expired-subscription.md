@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526686"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575595"
 ---
 # <a name="expired-subscription"></a>Beidzies abonements
 
@@ -28,14 +28,22 @@ ms.locfileid: "36526686"
   
 1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
 
-2. Izvēlieties abonementa atkārtotu aktivizāciju.
+2. Atrast abonements, ko vēlaties atkārtoti aktivizēt. Sadaļā **norēķinu** , izvēlieties **Aktivizēt**.
 
-3. Sadaļā **norēķinu** izvēlieties **Aktivizēt**.
+Ja neredzat **Aktivizēt** kā pieejamo darbību, sazinieties ar atbalsta darbiniekiem atkārtoti jāaktivizē abonements.
 
-Papildinformāciju skatiet sadaļā [Aktivizēt abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+3. Jāapstiprina maksājuma detaļas. Varat atjaunināt šeit esošo maksājumu informāciju. Kad esat pabeidzis ievadīt savu maksājuma veidu, izvēlieties **Aktivizēt**.
+
+Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Izveidotu jaunu pirkšanas**
   
 1. Admin Center, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
 
-2. Izvēlieties jūs vēlētos iegādāties un pēc tam atlasiet **iegādāties**abonementu.
+2. Izvēlēties, kuru vēlaties nopirkt, tad izvēlas **iegādāties**abonementu.
+
+3. Ievadiet numuru, licences, jums ir nepieciešams, un izvēlēties, vai maksāt katru mēnesi vai visu gadu. Izvēlieties, vai vēlaties, lai automātiski piešķirtu licences ikvienam, kurš pašlaik nav licences. Pēc tam izvēlieties **pārbaudīt, kas tagad**.
+
+4. Izpildiet pārējās darbības, lai pabeigtu izbraukšana.
+
+Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [nopirkt vēl vienu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

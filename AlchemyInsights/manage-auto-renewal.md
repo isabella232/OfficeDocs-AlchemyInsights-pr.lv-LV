@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542445"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576027"
 ---
 # <a name="manage-recurring-billing"></a>Pārvaldīt periodisku norēķinu
 
 Var ieslēgt periodisko norēķinu ieslēgšana vai izslēgšana Microsoft 365 administrēšanas centrā.
   
-1. Dodieties uz **norēķinu** > [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
 
 2. Sadaļā **norēķinu**, blakus **Renews,** vai **uz Expiring**, atlasiet **Rediģēt**.
 
-3. **Periodisks norēķinu iestatījumi** rūtī atlasiet **periodisks norēķinu OFF** , lai to izslēgtu. Ja **periodisks norēķinu** jau ir izslēgta, atlasiet **mēnesi** vai **reizi** to ieslēgt.
+3. **Periodisks norēķinu iestatījumi** rūtī atlasiet **Izslēgt,** lai to izslēgtu. Ja periodisko norēķinu jau ir izslēgta, atlasiet **reizi mēnesī** vai **vienu reizi** , lai to ieslēgtu.
 
 4. Atlasiet **iesniegt mainīt**.
 
-Lai iegūtu papildinformāciju, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
