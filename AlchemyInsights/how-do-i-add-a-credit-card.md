@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523050"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575666"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="f21e2-102">Kā pievienot kredītkarti?</span><span class="sxs-lookup"><span data-stu-id="f21e2-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="b7476-102">Kā pievienot kredītkarti?</span><span class="sxs-lookup"><span data-stu-id="b7476-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="f21e2-103">Microsoft 365 administrēšanas centrā dodieties uz lapu **Norēķini** \> [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="f21e2-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="b7476-103">Microsoft 365 administrēšanas centrā dodieties uz lapu **Norēķini** \> [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="b7476-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="f21e2-104">Atlasiet **Pievienot maksāšanas metodi**.</span><span class="sxs-lookup"><span data-stu-id="f21e2-104">Select **Add a payment method**.</span></span>
+2. <span data-ttu-id="b7476-104">Atlasiet **Pievienot maksāšanas metodi**.</span><span class="sxs-lookup"><span data-stu-id="b7476-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="f21e2-105">Lapā **Maksāšanas metodes** nolaižamajā izvēlnē izvēlieties maksāšanas metodi.</span><span class="sxs-lookup"><span data-stu-id="f21e2-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="b7476-105">Lapā **Maksāšanas metodes** nolaižamajā izvēlnē izvēlieties maksāšanas metodi.</span><span class="sxs-lookup"><span data-stu-id="b7476-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="f21e2-106">Ievadiet informāciju par jauno kredītkarti vai bankas kontu un pēc tam izvēlieties **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="f21e2-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="b7476-106">Ievadiet jaunās kredītkartes vai bankas konta informāciju un pēc tam izvēlieties **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="b7476-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="f21e2-107">Papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="f21e2-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
+<span data-ttu-id="b7476-107">Vai joprojām lietojat veco administrēšanas centru?</span><span class="sxs-lookup"><span data-stu-id="b7476-107">Are you using the old admin center?</span></span> <span data-ttu-id="b7476-108">Vecās veicamās darbības vai papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="b7476-108">For old steps, or to learn more, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
