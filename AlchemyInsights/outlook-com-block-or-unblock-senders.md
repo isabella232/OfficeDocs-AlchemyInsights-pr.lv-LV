@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537883"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643701"
 ---
 # <a name="block-or-unblock-senders"></a>Bloķēt vai atbloķēt sūtītāju
 
-Ziņojumus no e-pasta adresēm un domēniem, kuri iekļauti jūsu bloķēto sūtītāju iet tieši uz mapi Nevēlamais e-pasts. E-pasts tiek automātiski noņemta no mapes Nevēlamais e-pasts, pēc 14 dienām, un nav atgūstams.
+Ziņojumus no e-pasta adresēm un domēniem, kuri iekļauti jūsu bloķēto sūtītāju iet tieši uz mapi Nevēlamais e-pasts. E-pasts tiek automātiski noņemta no mapes Nevēlamais e-pasts, pēc 30 dienām, un nav atgūstams. SE; ect vienumu, lai redzētu, kad tas tiks noņemts.
 
 **No jūsu iesūtni:**
 
 - Ziņojumu sarakstā atlasiet ziņojumu un pēc tam atlasiet **nevēlamo** > **bloku**.
+- **Piezīme:** Bloķē krājumu jau savā mapē Nevēlamais e-pasts nevar izdzēst to.
 
 **No iestatījumi:**
 
