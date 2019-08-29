@@ -2,7 +2,6 @@
 title: Dzēstās pastkastes
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551854"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666379"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Atjaunotu izdzēsto pastkasti
 
-Kad lietotājs zaudē savu tiešsaistes valūtas maiņas licence, savas pastkastes tiek saglabāta uz 30 dienām un var atgūt, vienkārši atkārtoti piešķirot licences lietotājs.
+Kad lietotājs zaudē Exchange Online licenci, savas pastkastes tiek saglabāta uz 30 dienām un var atgūt, vienkārši atkārtoti piešķirot licences lietotājs.
   
- *Tas darbosies tikai 30 dienu laikā.*  Admin portālā, apmeklējiet:
+ *Tas darbosies tikai 30 dienu laikā.*  
   
-1. **Lietotājiem** \> **Aktīvi** lietotāji. Atlasiet attiecīgo lietotāju.
+1. Microsoft 365 admin Center, dodieties uz **lietotāju** \> **Aktīvie lietotāji** lapā. Atlasiet attiecīgo lietotāju.
 
-2. Nospiediet **Rediģēt** , lai modificētu produktu licencēm
+2. Cilnē **licences un progr** piešķirt Exchange Online licenci un izvēlieties **saglabāt izmaiņas**.
 
-3. Piešķirt licenci Exchange Online un nospiediet **saglabāt**
-
-Ja jūs mēģināt atkopt Shared pastkasti, ir arī atlīdzināmi 30 dienas. Jūs varat atrast tos sadaļā **lietotāji** \> **dzēsts** lietotājiem; koplietojamo pastkastēm nav nepieciešama licence. Ja tu saproti, ka jums ir nepieciešams, lai atjaunotu Svītrots lietotājs, lūdzu, skatiet [atjaunot lietotāja Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
+Ja jūs mēģināt atkopt Shared pastkasti, ir arī atlīdzināmi 30 dienas. Jūs varat atrast tos sadaļā **lietotāji** \> **dzēsts lietotājiem**; koplietojamo pastkastēm nav nepieciešama licence. Ja tu saproti, ka jums ir nepieciešams, lai atjaunotu Svītrots lietotājs, lūdzu, skatiet [atjaunot lietotāja Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
