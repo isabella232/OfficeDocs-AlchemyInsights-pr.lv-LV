@@ -1,9 +1,8 @@
 ---
-title: Mainīt maksāšanas metodi
+title: Mainīt maksājuma veidu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519234"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665355"
 ---
-# <a name="change-payment-method"></a>Mainīt maksāšanas metodi
+# <a name="change-payment-method"></a>Mainīt maksājuma veidu
 
-Jūs varat pārbaudīt maksājumu metodi, kas ir konfigurēts Microsoft 365 administrēšanas centrā. Izvēlieties abonēšanas, kuru vēlaties pārbaudīt. Maksāšanas metode, kas ir konfigurēta abonēšanas parādās zem **norēķinu**. 
+Varat pārbaudīt un mainīt maksāšanas metodi, kas ir konfigurēts Microsoft 365 administrēšanas centrs. Izvēlieties abonementu, kuru vēlaties pārbaudīt. Maksāšanas metode, kas ir konfigurēta abonementam, ir redzama sadaļā **norēķini**. 
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Līdzās abonementu, kurā vēlaties mainīt maksāšanas metodi maksājuma metodi, atlasiet **Rediģēt**.
+2. Blakus tā abonementa maksāšanas metodei, kura maksāšanas metodi vēlaties mainīt, atlasiet **Rediģēt**.
 
-3. Izpildiet ekrānā, lai pabeigtu izmaiņu.
+3. Lai pabeigtu izmaiņas, izpildiet ekrānā norādītās darbības.
 
-Lai iegūtu sīkākas instrukcijas, skatiet: [mainīt maksāšanas metodi, uz Office 365 biznesa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Vai jūs izmantojat veco administrēšanas centru? Vecos soļus vai lai uzzinātu vairāk, skatiet sadaļu [maksājuma veida mainīšana Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method) uzņēmumiem

@@ -3,21 +3,28 @@ title: S/MIME programmā Outlook Web
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511578"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666847"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Šifrētu e-pasta ziņojumus programmā Outlook
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">365 biroja ziņojumu šifrēšana ir veidota uz Microsoft Azure piekļuves tiesību pārvaldība (Azure RMS) kas ir debeszils informācijas aizsardzības daļa. Ja jūsu abonements ietver debeszils tiesību pārvaldību vai Azure informācijas aizsardzību, <strong style="mso-bidi-font-weight: normal;">jums nav nepieciešams veikt jebkādas darbības, lai manuāli jāiespējo vai aktivizēt</strong> tiesību pārvaldības pakalpojums.</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Pamatojoties uz klientu atsauksmēm, mēs būs vairs būt dodot Exchange pasta plūsmas kārtulas, lai automātiski Šifrēt izejošo e-pastu, kurā noteikta veida konfidenciālu informāciju jūsu īrnieks pēc noklusējuma. &nbsp; Tā vietā, mēs sniedzam detalizētas instrukcijas par to, kā varat to izdarīt paši. &nbsp;Papildu informāciju par to, kā izveidot transporta kārtulu šifrēt konfidenciālus datus, skatiet <a href="https://aka.ms/OmeEtr">rakstā</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;&nbsp; &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">, Ja izmantojat Outlook Web (agrāk <strong style="mso-bidi-font-weight: normal;">OWA</strong>): sastādot e-pasta ziņojumu, vienkārši noklikšķiniet uz <strong>aizsargāt</strong> programmā OWA. Pēc noklusējuma tiks lietoti &lsquo;Nepārsūtīt&rsquo; atļauju. Noklikšķiniet uz <strong>mainīt atļaujas</strong> un izvēlieties <strong>Šifrēt</strong> tikai šifrētu ziņojumu.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; &nbsp; Ja lietojat <strong style="mso-bidi-font-weight: normal;">Outlook klients</strong>: nosūtīt šifrētu ziņojumu no 2013 vai 2016 Outlook vai Outlook 2016 Mac, izvēlieties opcijas &agrave; atļaujas, pēc tam atlasiet aizsardzības iespēja, kas jums nepieciešams.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; <strong style="mso-bidi-font-weight: normal;">Automātiski šifrēt visu e-pastu</strong> nosūtīja uz noteiktiem saņēmējiem vai ārējo partneru organizācijām, ir jāizveido pasta plūsmu transporta kārtulas Exchange administrēšanas centrā. Ir sniegtas detalizētas instrukcijas šo <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">pantu atbalstīt</a></span></span></li> </ul>
+365 biroja ziņojumu šifrēšana ir veidota uz Microsoft Azure piekļuves tiesību pārvaldība (Azure RMS), kas ir daļa no Azure informācijas aizsardzību. Ja jūsu abonements ietver debeszils tiesību pārvaldību vai Azure informācijas aizsardzību, **jums nav nepieciešams veikt jebkādas darbības, lai manuāli jāiespējo vai aktivizēt** tiesību pārvaldības pakalpojums.
+
+Pamatojoties uz klientu atsauksmēm, mēs būs vairs būt dodot Exchange pasta plūsmas kārtulas, lai automātiski Šifrēt izejošo e-pastu, kurā noteikta veida konfidenciālu informāciju jūsu īrnieks pēc noklusējuma. Tā vietā mēs sniedzam detalizētas instrukcijas par to, kā varat to izdarīt paši. Papildu informāciju par to, kā izveidot transporta kārtulu, lai šifrētu sensitīvu informāciju, izlasiet [šo rakstu](https://aka.ms/OmeEtr).
+
+- Ja izmantojat Outlook Web (agrāk **OWA**): sastādot e-pasta ziņojumu, vienkārši noklikšķiniet uz **aizsargāt** programmā OWA. Tas attieksies atļauja "Nepārsūtīt". Noklikšķiniet uz **mainīt atļaujas** un izvēlieties **Šifrēt** tikai šifrētu ziņojumu.
+
+- Ja lietojat **Outlook klients**: lai nosūtītu šifrētu ziņojumu no Outlook 2013 vai 2016 vai Outlook 2016 Mac, izvēlieties **iespējas** > **atļaujas**un pēc tam atlasiet aizsardzības iespēja, kas jums nepieciešams.
+
+- **Automātiski šifrēt visu e-pastu** nosūtīja uz noteiktiem saņēmējiem vai ārējo partneru organizācijām, jums ir nepieciešams, lai izveidotu pasta plūsmu transporta kārtulas Exchange administrēšanas centrā. [Atbalsta rakstā](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)sniegtas detalizētas instrukcijas.
 

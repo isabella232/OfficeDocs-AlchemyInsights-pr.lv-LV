@@ -1,9 +1,8 @@
 ---
-title: Augšupielādēt failus uz OneDrive vai SharePoint
+title: Failu augšupielāde pakalpojumā OneDrive vai SharePoint
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 3/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 38390bc510a96e5fdf7f06099ca0382be9e2335c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ddb29e04597e86ee4e54d700666548b5d2b30a81
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506270"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660835"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Augšupielādēt failus uz OneDrive vai SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failu augšupielāde pakalpojumā OneDrive vai SharePoint
 
-Jūs varat augšupielādēt failus dokumentu bibliotēkā SharePoint Online tikai velkot tos no sava datora un nometot tos dokumentu bibliotēkā. Ar OneDrive, var sinhronizēt failus starp jūsu datoru un mākonis, lai jūs varētu saņemt saviem failiem no jebkuras vietas. Varat arī strādāt ar sinhronizētu failus tieši File Explorer un piekļūt failiem, pat tad, ja esat bezsaistē. Plašāku informāciju par augšupielādi un sinhronizāciju, lūdzu, apmeklējiet zemāk esošajām saitēm.
+Varat augšupielādēt failus SharePoint Online dokumentu bibliotēkā, vienkārši velkot tos no datora un nometot dokumentu bibliotēkā. Izmantojot OneDrive, varat sinhronizēt failus datorā un mākonī, lai failus varētu piekļūt no jebkuras vietas. Sinhronizētos failus varat arī strādāt tieši failu pārlūkā un piekļūt failiem pat tad, ja esat bezsaistē. Lai iegūtu vairāk informācijas par augšupielādēšanu un sinhronizāciju, lūdzu, apmeklējiet saites zemāk.
 
-- [Mapi vai failu augšupielāde bibliotēkā](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Mapes vai failu augšupielāde bibliotēkā](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [Augšupielādēt, izmantojot sinhronizācijas](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Augšupielāde, izmantojot sinhronizāciju](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [Failu ierobežojumiem (nederīgās rakstzīmes, failu augšupielādes lielums, ceļu garumus, utt..)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Failu ierobežojumi (nederīgas rakstzīmes, failu augšupielādes lielums, ceļa garums utt.)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-- [Fix OneDrive sinhronizācijas problēmas](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [OneDrive sinhronizācijas problēmu novēršana](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [Novērst problēmas, augšupielādējot failus tīmekļa vietnē OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [Failu augšupielādes problēmu novēršana OneDrive vietnē](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
 - [Maksimizēt augšupielādes un lejupielādes ātrumu](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)

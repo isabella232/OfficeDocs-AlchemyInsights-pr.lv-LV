@@ -1,9 +1,8 @@
 ---
-title: Pārslēgties uz citu Office 365 biznesa plāna
+title: Pārslēgšanās uz citu Office 365 biznesa plānam
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575991"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665983"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Pārslēgties uz citu Office 365 biznesa plāna
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Pārslēgšanās uz citu Office 365 biznesa plānam
 
-Kad jūsu biznesa izmaiņas, vai vajag vairāk Office 365 funkcijas, varat jaunināt uz jaunu plānu.
+Kad jūsu uzņēmums mainās vai jums ir nepieciešams vairāk Office 365 līdzekļu, varat jaunināt uz jaunu plānu.
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Atlasiet abonementu, kurā vēlaties jaunināt.
+2. Atlasiet abonementu, kuru vēlaties jaunināt.
 
-3. Abonementa informācijas lapā izvēlieties **Upgrade**.
+3. Abonēšanas informācijas lapā atlasiet **jaunināt**.
 
-4. Atrast plānu, kuram vēlaties atjaunināt, un pēc tam izvēlieties **Upgrade** pogas.
+4. Atrodiet plānu, ar kuru vēlaties jaunināt, un pēc tam atlasiet pogu **jaunināt** .
 
-5. Ievadiet numuru, licences, kas ir nepieciešams izvēlēties, vai maksāt katru mēnesi vai visu gadu, un pēc tam atlasiet **Checkout**.
-   
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [jaunināt uz citu plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+5. Ievadiet nepieciešamo licenču skaitu, izvēlieties, vai maksājat katru mēnesi vai par visu gadu, un pēc tam atlasiet **izrakstīt**.
+
+Papildinformāciju skatiet sadaļā [jaunināšana uz citu plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

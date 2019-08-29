@@ -1,24 +1,23 @@
 ---
-title: 665 jūs saņem pārāk daudz phish vai surogātpastu savā pastkastītē?
+title: 665 vai pastkastē esat saņēmis pārāk daudz phish vai spam?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ba020a25c1220a8a018709995e59709850911f75
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ed84484431d430840c5c31c4275e366758f508f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500510"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665911"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ir pārāk daudz phish saņem vai surogātpastu jūsu pastkastē
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Vai pastkastē esat saņēmis pārāk daudz phish vai spam?
 
-Kā Microsoft 365 admin, labākais veids, kā noteikt, kāpēc pikšķerēšanas vai surogātpasts ziņojums tika piegādāts, ir jāiesniedz parauga Microsoft [Internet Explorer iesniegumi](https://protection.office.com/reportsubmission). Jūs saņemsiet tūlītēju atgriezenisko saiti, kas saistīti ar ziņojumu filtrēšana un kāpēc tur ir jautājumi.
+Kā Microsoft 365 admin, labākais veids, kā noteikt, kāpēc pikšķerēšanas vai surogātpasta ziņojums tika piegādāts ir iesniegt paraugu Microsoft [iesniegumi Explorer](https://protection.office.com/reportsubmission). Jūs saņemsiet tūlītēju atsauksmes, kas saistītas ar ziņojumu filtrēšana un kāpēc ir problēmas.
 
-Lai tā easer, varat atļaut lietotājiem ziņot Microsoft, izmantojot [pievienojumprogrammu atskaites ziņojumu](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Lai to padarītu vieglāku, varat ļaut lietotājiem tieši ziņot korporācijai Microsoft, izmantojot [atskaišu ziņojumu pievienojumprogrammu](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
