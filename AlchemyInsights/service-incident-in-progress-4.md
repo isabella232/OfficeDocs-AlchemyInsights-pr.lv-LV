@@ -1,8 +1,7 @@
 ---
-title: Pakalpojumu starpgadījuma norisi
+title: Nepabeigtā servisa incidents
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 05120f32c56d0b0d2299ccb7528fc174c853ff0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550666"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666307"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="9c57a-102">Pakalpojumu starpgadījuma norisi</span><span class="sxs-lookup"><span data-stu-id="9c57a-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="bcc4e-102">Nepabeigtā servisa incidents</span><span class="sxs-lookup"><span data-stu-id="bcc4e-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="9c57a-103">Jūs varētu ietekmēt starpgadījumiem, kas saistīti ar pakalpojumu vai padomdevēju, kas šobrīd tiek pētīts.</span><span class="sxs-lookup"><span data-stu-id="9c57a-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="9c57a-104">Jaunāko statusu var pārbaudīt, atverot lappusi [Pakalpojumi veselības](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="9c57a-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="bcc4e-103">Jūs varētu ietekmēt pakalpojumu incidents vai konsultatīvs, kas pašlaik tiek pētīts.</span><span class="sxs-lookup"><span data-stu-id="bcc4e-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="bcc4e-104">Varat pārbaudīt jaunāko statusu, dodoties uz lapu [servisa veselība](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="bcc4e-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="9c57a-105">Jūsu ērtībai, varat atrast kopsavilkumu par šo incidentu zemāk:</span><span class="sxs-lookup"><span data-stu-id="9c57a-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="bcc4e-105">Jūsu ērtībai, jūs varat atrast kopsavilkumu par šo incidentu zemāk:</span><span class="sxs-lookup"><span data-stu-id="bcc4e-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="9c57a-106">**Incidentu skaits:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="9c57a-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="bcc4e-106">**Atgadījuma numurs:** [{Incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="bcc4e-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="9c57a-107">Ietekmes apraksts: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="9c57a-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="bcc4e-107">Ietekmes apraksts: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="bcc4e-107">Impact description: {ImpactDescription}</span></span>
