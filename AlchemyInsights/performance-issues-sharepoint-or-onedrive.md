@@ -2,7 +2,6 @@
 title: Veiktspējas problēmas-SharePoint vai OneDrive
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554987"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666739"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="ff9a5-102">SharePoint vai OneDrive lēni, nepieejama vai pieejams vairākiem lietotājiem</span><span class="sxs-lookup"><span data-stu-id="ff9a5-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="6cea2-102">SharePoint vai OneDrive lēns, nepieejams vai nav pieejams vairākiem lietotājiem</span><span class="sxs-lookup"><span data-stu-id="6cea2-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
 
-<span data-ttu-id="ff9a5-103">SharePoint vai OneDrive var būt lēna, nepieejama vai nepieejams vairāku iemeslu dēļ:</span><span class="sxs-lookup"><span data-stu-id="ff9a5-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
+<span data-ttu-id="6cea2-103">SharePoint vai OneDrive var būt lēns, nepieejams vai nav pieejams vairāku iemeslu dēļ:</span><span class="sxs-lookup"><span data-stu-id="6cea2-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
   
-- <span data-ttu-id="ff9a5-104">Ja jūsu SharePoint vai OneDrive vietā ir lēns vai kavējas vairāku lietotāju, var būt pagaidu pakalpojumu jautājumu kur lietotāju pieredzi intermitējošs kavēšanos vai navigācijas kļūdas, piekļūstot SharePoint vietnēs vai OneDrive saturu.</span><span class="sxs-lookup"><span data-stu-id="ff9a5-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="ff9a5-105">Pārbaudiet [pakalpojumu veselības informācijas paneļa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) redzēt, ja jūsu organizācija ir ietekmētas.</span><span class="sxs-lookup"><span data-stu-id="ff9a5-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+- <span data-ttu-id="6cea2-104">Ja SharePoint vai OneDrive vietne ir lēna vai aizkavēta vairākiem lietotājiem, var būt pagaidu pakalpojumu problēma, kad lietotājiem rodas intermitējošas aizkaves vai navigācijas kļūdas, piekļūstot SharePoint vietnes vai OneDrive saturu.</span><span class="sxs-lookup"><span data-stu-id="6cea2-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="6cea2-105">Pārbaudiet [pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noskaidrotu, vai jūsu organizācija ir ietekmēta.</span><span class="sxs-lookup"><span data-stu-id="6cea2-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
   
-- <span data-ttu-id="ff9a5-106">Ja jums rodas lēnu veiktspēju ar **klasisko** SharePoint vietni vai lapu, izmantot [Page diagnostikas rīks](https://aka.ms/perftool) , lai analizētu lapas.</span><span class="sxs-lookup"><span data-stu-id="ff9a5-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
+- <span data-ttu-id="6cea2-106">Ja sistēma darbojas ļoti lēni ar **klasisko** SharePoint vietni vai lapu, izmantojiet [lapu diagnostikas rīku](https://aka.ms/perftool) , lai analizētu lapas.</span><span class="sxs-lookup"><span data-stu-id="6cea2-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
   
-- <span data-ttu-id="ff9a5-107">Ja joprojām rodas vispārējo lēnu veiktspēju, lūdzu, pārskatiet resursu apakšā šo rakstu: [Ievads veiktspējas regulēšana SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="ff9a5-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
+- <span data-ttu-id="6cea2-107">Ja joprojām rodas vispārīga lēna veiktspēja, lūdzu, pārskatiet resursus šī raksta apakšā: [Ievads SharePoint Online veiktspējas precizēšana](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="6cea2-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
   
