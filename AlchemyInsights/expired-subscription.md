@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575595"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665047"
 ---
 # <a name="expired-subscription"></a>Beidzies abonements
 
@@ -34,7 +34,7 @@ Ja neredzat **Aktivizēt** kā pieejamo darbību, sazinieties ar atbalsta darbin
 
 3. Jāapstiprina maksājuma detaļas. Varat atjaunināt šeit esošo maksājumu informāciju. Kad esat pabeidzis ievadīt savu maksājuma veidu, izvēlieties **Aktivizēt**.
 
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Izveidotu jaunu pirkšanas**
   
@@ -46,4 +46,4 @@ Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skat
 
 4. Izpildiet pārējās darbības, lai pabeigtu izbraukšana.
 
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [nopirkt vēl vienu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Lai uzzinātu vairāk, skatiet sadaļu [nopirkt vēl vienu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

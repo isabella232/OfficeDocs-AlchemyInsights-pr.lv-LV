@@ -1,45 +1,44 @@
 ---
-title: Ārējo lietotāju pievienošana adresātu grupu
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/22/2017
+title: Ārējo lietotāju pievienošanu adresātu grupai
+ms.author: chrisda
+author: chrisda
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce0c589e1661fb4607452fe2e8f897758b2718e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494534"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660799"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Ārējo lietotāju pievienošana adresātu grupu?
+# <a name="add-external-users-to-a-distribution-group"></a>Ārējo lietotāju pievienošana adresātu grupai
 
-Pievienošanu izplatīšanas grupa (DG) ārējā kontaktpersona ir 2-pakāpju process:
+Ārēja kontakta pievienošana adresātu grupai (DG) ir divpakāpju process:
   
 1. Ārējā lietotāja pasta kontaktpersonas izveide:
     
-    1. Admin Center, dodieties uz **lietotāju** > [kontaktu](https://admin.microsoft.com/adminportal/home#/Contact) lapu. 
+    1. Administrēšanas centrā atveriet lapu **lietotāju** > [kontaktpersonas](https://admin.microsoft.com/adminportal/home#/Contact) . 
     
-    2. Izvēlieties **Pievienot kontaktam**.
+    2. Atlasiet **Pievienot kontaktpersonu**.
     
-    3. Ievadiet informāciju par kontaktpersonu, un izvēlieties **pievienot**.
+    3. Ierakstiet kontaktpersonas informāciju un atlasiet **pievienot**.
     
-2. Pievienot pasta kontaktpersona jūsu ģenerāldirektorāts:
+2. Pievienot pasta kontaktpersona jūsu ĢD:
     
-    1. Admin Center, dodieties uz **grupas** > [grupas](https://admin.microsoft.com/adminportal/home#/groups) lapā. 
+    1. Administrēšanas centrā pārejiet[uz lapu](https://admin.microsoft.com/adminportal/home#/groups) **grupu** > grupas. 
     
-    2. Atrast DG vēlaties pievienot ārējo lietotāju, un atlasiet to, lai atvērtu dialoglodziņu labot.
+    2. Atrodiet ĢD, kuram vēlaties pievienot ārējo lietotāju, un atlasiet to, lai atvērtu rediģēšanas dialogu.
     
-    3. Zīmnē **dalībnieki** atlasiet **visu apskatīt un pārvaldīt locekļi**. 
+    3. Cilnē **dalībnieki** atlasiet **Skatīt visu un pārvaldīt dalībniekus**. 
     
-    4. Atlasiet **pievienot dalībniekus**.
+    4. Atlasiet vienumu **pievienot dalībniekus**.
     
-    5. Atlasiet pasta kontaktpersonu, kas izveidots uz iepriekšējo soli un pēc tam **saglabāt**.
+    5. Atlasiet iepriekšējā solī izveidoto pasta kontaktpersonu un pēc tam atlasiet **saglabāt**.
     
-Ja pēc šādas darbības ārējie lietotāji nevar nosūtīt e-pastus ģenerāldirektorātam vai nesaņem e-pastus no tā, tas varētu būt, ka ĢD ir atzīmēts kā tikai ļauj e-pastus no iekšējiem lietotājiem. Jūs varat pārbaudīt šo konfigurāciju un noteikt to izpildot dotās norādes [šeit](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).
+Ja pēc šīs darbības jūsu ārējie lietotāji nevar nosūtīt e-pastus DG vai nesaņem e-pastus no tā, tas varētu būt, ka ĢD ir atzīmēts atļaut tikai e-pastus no iekšējiem lietotājiem. Jūs varat pārbaudīt šo konfigurāciju un noteikt to pēc virzienos [šeit](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).
   
- **Piezīme:** Šie norādījumi nav piemērojams, ja jūsu grupa tips ir "Office 365 grupa", nevis "Adresātu grupai." Ja tas tā ir gadījumā, grupai var pievienot ārējo lietotāju tieši no programmas Outlook. Detalizēta informācija par Office 365 grupu viesiem, kā arī instrukcijas pievienošanai ārējiem viesi var atrast [šajā](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)pantā.
+ **Piezīme:** Šīs instrukcijas neattiecas, ja grupas tips ir "Office 365 grupas" nevis "adresātu grupa". Šādā gadījumā ārējo lietotāju var pievienot tieši grupai no programmas Outlook. Detalizēta informācija par Office 365 grupām viesi, kā arī instrukcijas, lai pievienotu ārējos viesi var atrast [šajā rakstā](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

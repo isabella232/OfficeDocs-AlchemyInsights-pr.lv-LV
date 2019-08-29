@@ -1,5 +1,5 @@
 ---
-title: Kā iegādāties izglītības piedāvājums
+title: Kā iegādāties izglītības piedāvājumu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574805"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663931"
 ---
-# <a name="how-to-purchase-education-offer"></a>Kā iegādāties izglītības piedāvājums
+# <a name="how-to-purchase-education-offer"></a>Kā iegādāties izglītības piedāvājumu
 
-Ir apstiprināti Office 365 izglītībai. Lai iegādātos:
+Jums ir apstiprināta Office 365 Education. Lai iegādātos:
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Izvēlēties pētījuma par **studentiem un mācībspēkiem**.
+2. Izvēlieties **studentu vai mācībspēku**izmēģinājuma versiju.
 
-3. **Licences** sadaļā izvēlieties **abonementa iegādi**.
+3. Sadaļā **licences** izvēlieties **iegādāties abonementu**.
 
-4. Izpildiet tālāk minētās darbības, lai pārbaudītu out.
+4. Izpildiet atlikušās darbības, lai pārbaudītu.
 
-Ja jūs vēlaties iegādāties abonementu, nevis to, kas ir izmēģinājuma versija, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumiem](https://go.microsoft.com/fwlink/p/?linkid=868433) lapu un izvēlēties no saraksta zem **Izglītības plānus**.
+Ja vēlaties iegādāties abonementu, nevis to, kas ir izmēģinājuma versija, pārejiet uz lapu **norēķinu** \> [iegādes pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) un izvēlieties sarakstā **izglītības plāni**.
 
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [nopirkt pašu plānu kā izmēģinājuma versiju](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Lai uzzinātu vairāk, skatiet sadaļu [iegādāties tādu pašu plānu kā izmēģinājumversijai](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).

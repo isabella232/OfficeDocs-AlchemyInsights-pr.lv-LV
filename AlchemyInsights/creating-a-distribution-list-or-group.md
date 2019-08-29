@@ -1,9 +1,8 @@
 ---
-title: Izveidot adresātu sarakstu vai grupas 711
+title: 711 adresātu saraksta vai grupas izveide
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 706cc34ddef79c519e7afc7cbf1d10621ffcf4d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515022"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665263"
 ---
-# <a name="create-distribution-groups"></a>Veidojot adresātu grupas
+# <a name="create-distribution-groups"></a>Izveidot adresātu grupas
 
-Adresātu grupas (pazīstams arī kā adresātu saraksti) izmantojat e-pasta ziņojumu nogādāt cilvēkiem jūsu organizācijā, gan ārpus grupas. Tās izveide ir vienkārša! Norādījumus skatiet sadaļā [veidot adresātu sarakstu Microsoft 365 administrēšanas centrā](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Office 365 izmantot adresātu grupas (zināms arī kā adresātu saraksti), lai piegādātu e-pasta ziņojumus personu grupām gan jūsu organizācijā, gan ārpus tās. Radīt viņiem ir viegli! Instrukcijas skatiet sadaļā [adresātu sarakstu izveide Microsoft 365 administrēšanas centrā](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
 
-**Piezīme**: admin ir nepieciešams pārvaldīt adresātu grupu sastāvā. Ja vēlaties lietotājiem pārvaldīt savas grupas biedru sarakstus, jūs varētu vēlēties apsvērt [Biroja 365 grupu](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) vietā.
+**Piezīme**: administratoram ir jāpārvalda adresātu grupas dalība. Ja vēlaties, lai lietotāji pārvaldītu savus grupas dalībnieku sarakstus, apsveriet iespēju to vietā apsvērt [Office 365 grupas](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .

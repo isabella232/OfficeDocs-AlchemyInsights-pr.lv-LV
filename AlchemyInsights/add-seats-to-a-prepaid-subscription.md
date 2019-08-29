@@ -13,12 +13,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495038"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661015"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Vietas pievienošana apmaksāto abonementu
 
@@ -26,17 +26,15 @@ Priekšapmaksas Office 365 licences tiek izsniegtas uz jums kā 25 rakstzīmju b
 
 1. Admin Center, dodieties uz **norēķinu** > [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
 
-2. Atrast, kurai vēlaties pievienot licences abonementa. Atlasiet nolaižamajā sarakstā **papildu darbības** un pēc tam izvēlieties **atjaunot vai papildināt licenci ar tiesībām**.
+2. Vēlaties pievienot licences abonementa atrast. **Licences** sadaļā atlasiet **pievienot vairākām licencēm**.
 
-3. Par **atjaunot vai papildināt lietotāju licences** lapa, izvēlieties **lietot jaunas un neizmantoto produkta atslēgu**un pēc tam atlasiet **nākamo**.
+3. Rūtī **pievienotu vairākas licences** , izvēlieties **lietot jaunas un neizmantoto produkta atslēgu**, pēc tam atlasiet **nākamo**.
 
 4. Ievadiet produkta atslēgu un pēc tam atlasīt **nākamo**.
 
     > [!NOTE]
     > Ja jums ir vairāk nekā viena produkta atslēgu, atlasiet **pievienot citu produkta atslēgu** , ievadiet tos.
 
-5. Izvēlēties lietotāju pievienošana abonēšanas un pēc tam atlasiet **nākamo**.
+5. Pārskatiet savu pasūtījumu detaļas un pēc tam atlasiet **izpirktu**.
 
-6. Pārskatiet savu pasūtījumu detaļas un pēc tam atlasiet **izpirktu**.
-
-Papildinformāciju skatiet sadaļā [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Lai uzzinātu vairāk, skatiet sadaļu [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

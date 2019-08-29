@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554628"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666703"
 ---
 # <a name="prepaid-office-365-renewal"></a>Priekšapmaksas Office 365 atjaunošanu
 
@@ -35,4 +35,4 @@ ms.locfileid: "36554628"
 
 5. Pārskatiet savu pasūtījumu detaļas un pēc tam atlasiet **izpirktu**.
 
-Papildinformāciju skatiet sadaļā [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Lai uzzinātu vairāk, skatiet sadaļu [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

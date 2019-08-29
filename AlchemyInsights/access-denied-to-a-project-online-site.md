@@ -1,9 +1,8 @@
 ---
-title: Liegta piekļuve projektam Web App vietnes
+title: Access liegta Project Web App vietnes
 ms.author: efrene
 author: efrene
 manager: pamg
-ms.date: 4/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495902"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661231"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Dotu atļaujas lietotājiem projekts Online
+# <a name="give-users-permissions-in-project-online"></a>Piešķirt lietotājiem atļaujas programmā Project Online
 
-Projekta Web App vietā, izmantojot SharePoint atļauju režīms ļauj lietotājiem piekļūt:
+Piešķiriet lietotājiem piekļuvi Project Web App vietnei, izmantojot SharePoint atļauju režīmu:
 
-1. Piesakieties tiešsaistē projektu kā admin.
-2. Projekta Web App mājas lapā atlasiet **daļu**, pieejams augšējā labajā stūrī.
-3. Dialoglodziņā **Koplietot projektu Web App** ierakstiet personu, kurai vēlaties piešķirt piekļuvi **Uzaicināt cilvēkus** lodziņā lietotājvārds.
-4. Atlasiet **Rādīt opcijas**un **atlasiet atļaujas līmeni** izvēlnē atlasiet **Projektu vadītāji projektu Web App**.
-5. Atlasiet **daļu**.
+1. Piesakieties Project Online kā admin.
+2. Project Web App mājas lapā augšējā labajā stūrī atlasiet **kopīgot** .
+3. **Koplietot Project Web App** dialoglodziņā ierakstiet lietotāja vārdu personai, kurai vēlaties piešķirt piekļuvi lodziņā **uzaicināt personas** .
+4. Atlasiet **Rādīt opcijas**, un izvēlnē **atlasiet atļaujas līmeni** atlasiet **projektu vadītāji Project Web App**.
+5. Atlasiet **kopīgot**.
 
-Ja izmantojat projekta atļaujas režīmu vai saņemtu plašāku informāciju, lūdzu skatīt [Pievienot personas tiešsaistes projektu](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Ja izmantojat projekta atļauju režīmu vai plašāku informāciju, lūdzu, skatiet sadaļu [personu pievienošana projektam tiešsaistē](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

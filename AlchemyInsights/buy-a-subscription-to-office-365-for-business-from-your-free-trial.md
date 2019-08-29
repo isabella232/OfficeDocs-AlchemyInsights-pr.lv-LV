@@ -1,9 +1,8 @@
 ---
-title: Iegādāties abonementu Office 365 uzņēmējdarbībai no jūsu bezmaksas izmēģinājuma
+title: Office 365 abonementa iegāde no bezmaksas izmēģinājumversijas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +12,27 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 7d1624fdf71c33f8f04e2dc5e8f02f5ca74881e1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575748"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664759"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Iegādāties abonementu Office 365 no jūsu bezmaksas izmēģinājuma
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Iegādāties Office 365 abonementu no bezmaksas izmēģinājumversijas
 
-Esmu mēģinājis Office 365, un tagad jūs esat gatavi pirkt. Pērkot Office 365 savu izmēģinājuma versiju, jums ir divas iespējas.
+Jūs esat mēģinājuši Office 365, un tagad jūs esat gatavi pirkt. Iegādājoties Office 365 no izmēģinājuma versijas, jums ir divas iespējas:
   
- **Jūs varat iegādāties pašu plānu kā izmēģinājuma versiju**
+ **Iegādāties to pašu plānu kā izmēģinājuma**
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Atrast, kuru vēlaties iegādāties abonementu. **Licences** sadaļā izvēlieties **abonementa iegādi**un izpildiet izbraukšana.
+2. Atrodiet abonementu, kuru vēlaties iegādāties. Sadaļā **licences** atlasiet **iegādāties abonementu**un izpildiet norādījumus, lai to pārbaudītu.
 
-vai arī **jūs varat iegādāties dažādas abonēšanas**
+**Iegādāties citu abonementu**
   
-1. Admin Center, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [iegādes pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-3. Atrast abonementu, kuru vēlaties iegādāties, izvēlēties, **iegādāties**un izpildiet norādījumus, lai izbraukšana.
+3. Atrodiet abonementu, kuru vēlaties iegādāties, atlasiet **pirkt**un izpildiet norādījumus, lai to pārbaudītu.
 
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [iegādāties Office 365 uzņēmumu no jūsu bezmaksas izmēģinājuma abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Lai uzzinātu vairāk, skatiet sadaļu [Office 365 abonementa iegāde no bezmaksas izmēģinājumversijas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

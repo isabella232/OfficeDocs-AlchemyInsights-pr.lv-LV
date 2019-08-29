@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501372"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666019"
 ---
 # <a name="subscription-recurring-billing"></a>Abonementa periodisku norēķinu
 
@@ -30,4 +30,4 @@ Ja jūs vēlaties zināt, kad jūsu katru mēnesi vai katru gadu Office 365 abon
 
 4. Lai veiktu izmaiņas, izvēlieties **Rediģēt** un pēc tam **periodiski norēķinu** iestatījumi rūtī atlasiet **Izslēgt,** lai to izslēgtu. Ja periodisko norēķinu jau ir izslēgta, atlasiet **reizi mēnesī** vai **vienu reizi** , lai to ieslēgtu.
 
-Lai iegūtu papildinformāciju, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Lai uzzinātu vairāk, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

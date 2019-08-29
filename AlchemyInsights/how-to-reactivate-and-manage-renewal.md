@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574549"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663967"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kā aktivizēt un pārvaldīt periodisku norēķinu
 
@@ -32,7 +32,7 @@ Izskatās, ka abonements ir beidzies. Ja jūs vēlētos, lai no jauna aktivizēt
 
 3. Jāapstiprina maksājuma detaļas. Varat atjaunināt šeit esošo maksājumu informāciju. Kad esat pabeidzis ievadīt savu maksājuma veidu, izvēlieties **Aktivizēt**.
 
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Pārvaldīt, katru mēnesi vai katru gadu rēķina, jūs varat pārslēgties **periodisks norēķinu** ieslēgšana vai izslēgšana.
   
@@ -46,4 +46,4 @@ Pārvaldīt, katru mēnesi vai katru gadu rēķina, jūs varat pārslēgties **p
 
 5. Atlasiet **iesniegt mainīt**.
 
-Jūs izmantojat veco admin center Veco darbības vai lai uzzinātu vairāk, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lai uzzinātu vairāk, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
