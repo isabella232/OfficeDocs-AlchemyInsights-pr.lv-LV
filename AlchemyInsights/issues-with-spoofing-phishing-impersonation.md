@@ -1,5 +1,5 @@
 ---
-title: Problēmas, kas saistītas ar izlikšanos, pikšķerēšanas vai personifikācija?
+title: Problēmas ar izlikšanos, pikšķerēšanu vai personificēšanu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661483"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716110"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a><span data-ttu-id="27bb5-102">Problēmas, kas saistītas ar izlikšanos, pikšķerēšanas vai personifikācija?</span><span class="sxs-lookup"><span data-stu-id="27bb5-102">Issues with spoofing, phishing, or impersonation?</span></span>
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a><span data-ttu-id="3d252-102">Problēmas ar izlikšanos, pikšķerēšanu vai personificēšanu?</span><span class="sxs-lookup"><span data-stu-id="3d252-102">Issues with spoofing, phishing, or impersonation?</span></span>
 
-<span data-ttu-id="27bb5-103">Uzziniet, kā Office 365 aizsargā jūs no:</span><span class="sxs-lookup"><span data-stu-id="27bb5-103">Learn how Office 365 protects you from:</span></span>
+<span data-ttu-id="3d252-103">Uzziniet, kā Office 365 aizsargā jūs no:</span><span class="sxs-lookup"><span data-stu-id="3d252-103">Learn how Office 365 protects you from:</span></span>
 
-- [<span data-ttu-id="27bb5-104">Izlikšanās</span><span class="sxs-lookup"><span data-stu-id="27bb5-104">Spoofing</span></span>](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [<span data-ttu-id="3d252-104">Izlikšanās</span><span class="sxs-lookup"><span data-stu-id="3d252-104">Spoofing</span></span>](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [<span data-ttu-id="27bb5-105">Pikšķerēšana un personifikācija</span><span class="sxs-lookup"><span data-stu-id="27bb5-105">Phishing and impersonation</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [<span data-ttu-id="3d252-105">Pikšķerēšana un personificēšana</span><span class="sxs-lookup"><span data-stu-id="3d252-105">Phishing and impersonation</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
-<span data-ttu-id="27bb5-106">Papildu ieteikumi:</span><span class="sxs-lookup"><span data-stu-id="27bb5-106">Additional recommendations:</span></span>
+<span data-ttu-id="3d252-106">Papildu ieteikumi:</span><span class="sxs-lookup"><span data-stu-id="3d252-106">Additional recommendations:</span></span>
 
-- <span data-ttu-id="27bb5-107">Viltots sūtītājiem, kas, šķiet, nāk no sava domēna, SPF un DKIM var palīdzēt.</span><span class="sxs-lookup"><span data-stu-id="27bb5-107">For spoofed senders that appear to come from your own domain, SPF and DKIM can help.</span></span>
+- <span data-ttu-id="3d252-107">Viltotiem sūtītājiem, kas šķietami nāk no sava domēna, var palīdzēt [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) un [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) .</span><span class="sxs-lookup"><span data-stu-id="3d252-107">For spoofed senders that appear to come from your own domain, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) and [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) can help.</span></span>
 
-- <span data-ttu-id="27bb5-108">Pārbaudiet, vai sūtītājiem savā domēnā nav konfigurēta apiet anti-spam filtrēšana, izmantojot plūsmas noteikumi (pazīstams arī kā pārvadāšanas noteikumiem) vai atļaut saraksta ievadnes.</span><span class="sxs-lookup"><span data-stu-id="27bb5-108">Verify senders in your own domain aren't configured to bypass anti-spam filtering using flow rules (also known as transport rules) or allow list entries.</span></span>
+- <span data-ttu-id="3d252-108">Pārbaudiet, vai sūtītāji jūsu domēnā nav konfigurēti tā, lai apietu pretsurogātpasta filtrēšanu, izmantojot pasta plūsmas kārtulas (zināmas arī kā transportēšanas kārtulas) vai atļauto sarakstu ierakstus.</span><span class="sxs-lookup"><span data-stu-id="3d252-108">Verify senders in your own domain aren't configured to bypass anti-spam filtering using mail flow rules (also known as transport rules) or allow list entries.</span></span> <span data-ttu-id="3d252-109">Plašāku informāciju skatiet [brīdinājumi pret Office 365 surogātpasta filtriem](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span><span class="sxs-lookup"><span data-stu-id="3d252-109">For more information, see [Cautions against bypassing Office 365 spam filters](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
 
-- <span data-ttu-id="27bb5-109">Pārbaudiet, vai neesat konfigurējis lietotājiem atļautu saraksta ievadnes, kas ļautu pikšķerēšanas uzbrukumiem.</span><span class="sxs-lookup"><span data-stu-id="27bb5-109">Verify that users haven't configured allow list entries that could allow phishing attacks.</span></span>
+- <span data-ttu-id="3d252-110">Pārbaudiet, vai lietotāji nav konfigurējuši [drošo sūtītāju saraksta](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) ievadnes, kas atļautu pikšķerēšanas uzbrukumus.</span><span class="sxs-lookup"><span data-stu-id="3d252-110">Verify that users haven't configured [Safe Senders list](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) entries that could allow phishing attacks.</span></span>
 
-- <span data-ttu-id="27bb5-110">Apsvērt, nodrošinot augstas ticamības surogātpasta un pikšķerēšanas ziņojumus karantīnai, nevis nevēlamā e-pasta mapi.</span><span class="sxs-lookup"><span data-stu-id="27bb5-110">Consider delivering high-confidence spam and phishing messages to quarantine instead of the Junk Email folder.</span></span>
+- <span data-ttu-id="3d252-111">Apsveriet iespēju piegādāt augstas ticamības surogātpastu un pikšķerēšanas ziņojumus karantīnā, nevis mapē Nevēlamais e-pasts.</span><span class="sxs-lookup"><span data-stu-id="3d252-111">Consider delivering high-confidence spam and phishing messages to quarantine instead of the Junk Email folder.</span></span> <span data-ttu-id="3d252-112">Lai iegūtu papildinformāciju, skatiet [karantīnas e-pasta ziņojumus Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).</span><span class="sxs-lookup"><span data-stu-id="3d252-112">For more information, see [Quarantine email messages in Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).</span></span>
 
-<span data-ttu-id="27bb5-111">**[Pārskata ziņojumi korporācijai Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ir labākais veids, kā ļaut mums zināt, kā darbojas filtri.**</span><span class="sxs-lookup"><span data-stu-id="27bb5-111">**[Reporting messages to Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) is the best way to let us know how the filters are performing.**</span></span>
+<span data-ttu-id="3d252-113">**Ziņojumu [sniegšana korporācijai Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ir labākais veids, kā ļaut mums uzzināt, kā darbojas filtri.**</span><span class="sxs-lookup"><span data-stu-id="3d252-113">**[Reporting messages to Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) is the best way to let us know how the filters are performing.**</span></span>
