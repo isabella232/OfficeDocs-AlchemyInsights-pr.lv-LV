@@ -1,6 +1,6 @@
 ---
-title: Novērst problēmas ziņojumu piekļuve liegta
-ms.author: kirks
+title: Ziņojumu par piekļuvi liegta problēmu novēršana
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549118"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751787"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Novērst problēmas ziņojumu piekļuve liegta
+# <a name="troubleshoot-access-denied-messages"></a>Ziņojumu par piekļuvi liegta problēmu novēršana
 
-Ja saņemat ziņojumu par liegtu piekļuvi, mēģinot meklēt Sharepoint Online vietnē, lūdzu, skatiet zemāk izstrādājumi.
+Ja saņemat ziņojumu par liegtu piekļuvi, mēģinot pārlūkot SharePoint Online vietnes, lūdzu, skatiet tālāk rakstos.
 
-**Pievienot un licence lietotājam**
+**Pievienot un licencēt lietotāju**
 
-Nodrošinātu jums [piešķirt licences Office 365 biznesa lietotājiem](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Pārliecinieties, ka [piešķirat licences lietotājiem Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)uzņēmumiem.
 
 **Piešķirt atļaujas**
 
-Ja lietotājam ir piešķirta Sharepoint licenci un joprojām saņem ziņojumu par liegtu piekļuvi, pārliecinieties, vai tiem ir [piešķirts atbilstošu atļauju līmeni](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Ja lietotājam ir piešķirta SharePoint licence un joprojām tiek saņemts ziņojums par liegtu piekļuvi, lūdzu, pārliecinieties, vai viņiem ir [piešķirts atbilstošs atļaujas līmenis](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Apsveriet iespēju izmantot piekļuves pieprasījuma funkcija**
+**Apsveriet iespēju izmantot piekļuves pieprasījuma līdzekli**
 
-[Piekļuves pieprasījuma](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkcija ļauj cilvēkiem, lai pieprasītu piekļuvi saturam, kas viņiem pašlaik nav atļaujas skatīt. 
+[Piekļuves pieprasījuma](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) līdzeklis ļauj lietotājiem pieprasīt piekļuvi saturam, kas viņiem pašlaik nav atļauts skatīt. 
 
-**Ļautu, pielāgots skripts var izraisīt piekļuves liegšanas problēmas**
+**Atļaut pielāgotu skriptu var izraisīt piekļuves liegta problēmas**
 
-Pastāv noteiktu scenāriju, kur "Ļaut pielāgotu skriptu" funkciju var iesniegt liegta. Ietekmēto līdzekļu uzskaitījums, drošības apsvērumi un iespēja atspējot šo līdzekli. Lūdzu apmeklējiet [Atļaut vai aizliegt pielāgots skripts](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Ir daži scenāriji, kur "atļaut pielāgotu skriptu" līdzekli var iesniegt liegta piekļuve. Ietekmēto līdzekļu saraksts, drošības apsvērumi un iespēja atspējot šo līdzekli. Lūdzu, apmeklējiet, [Atļaut vai aizliegt pielāgotu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Piezīme: Ja ir OneDrive vai SharePoint vietne nav pieejama vairākiem lietotājiem, kas iepriekš bija pieejams, tur var būt pagaidu pakalpojumu jautājums. [Pārbaudiet pakalpojumu veselības vadības paneli](https://portal.office.com/adminportal/home#/servicehealth).
+Piezīme: ja OneDrive vai SharePoint vietne nav pieejama vairākiem lietotājiem, kas iepriekš bija piekļuve, var būt pagaidu pakalpojumu problēmu. [Pārbaudiet pakalpojuma darbspējas informācijas paneli](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

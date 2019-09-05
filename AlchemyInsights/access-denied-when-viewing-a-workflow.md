@@ -1,6 +1,6 @@
 ---
-title: Liegta piekļuve, skatot darbplūsmas
-ms.author: kirks
+title: Piekļuve liegta, skatot darbplūsmu
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495830"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747755"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Liegta piekļuve, skatot darbplūsmas
+# <a name="access-denied-when-viewing-a-workflow"></a>Piekļuve liegta, skatot darbplūsmu
 
-Mēģinājums nosūtīt e-pastu SharePoint grupas SharePoint 2013 darbplūsmas ar kļūdas ziņojumu "Piekļuve liegta" var neizdoties, ja SharePoint grupas sastāvs nav iestatīta lietošanai ikvienam.
+SharePoint 2013 darbplūsmas, kas mēģina nosūtīt e-pasta ziņojumu SharePoint grupai var neizdoties "piekļuve liegta" kļūdas ziņojums, ja SharePoint grupas dalība nav iestatīta uz visiem.
   
- **Lai atrisinātu šo problēmu, veiciet šādas darbības:**
+ **Lai novērstu šo problēmu, rīkojieties šādi:**
   
- 1. Atļaut visiem skatīt SharePoint grupas dalībnieku.
+ 1. Ļaut visiem skatīt SharePoint grupas dalībniekus.
   
- 2. Noņemtu SharePoint grupas no, kam vai kopija līniju e-pastu.
+ 2. Noņemiet SharePoint grupu no e-pasta ziņojuma rindiņā Kam vai kopija.
   
- 3. Tieši uz Kam vai Kopija pievienojiet lietotājus rindā ja dalības redzamību nevar mainīt SharePoint grupai.
+ 3. Tieši pievienot lietotājus rindiņā Kam vai kopija, ja dalības redzamību nevar mainīt SharePoint grupai.
   
-Lai skatītu sīkāku informāciju skatiet [HTTP Unauthorized uz /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Lai skatītu plašāku informāciju, lūdzu, skatiet [http nesankcionētu/_vti_bin/Client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

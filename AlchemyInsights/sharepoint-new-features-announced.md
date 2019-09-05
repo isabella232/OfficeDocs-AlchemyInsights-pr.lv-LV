@@ -1,6 +1,6 @@
 ---
-title: SharePoint jaunās iezīmes paziņoja
-ms.author: kirks
+title: SharePoint jaunie līdzekļi paziņoti
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/27/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 7aecd959cd2fca7049dfb55c1f18d593a95712a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4640873c2bd75773aad129b6556fbe4ab270162
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508538"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751319"
 ---
-# <a name="sharepoint-new-features-announced"></a>SharePoint jaunās iezīmes paziņoja
+# <a name="sharepoint-new-features-announced"></a>SharePoint jaunie līdzekļi paziņoti
 
-Konferencē Ignite 2018 Microsoft paziņoja par jaunu SharePoint, ieskaitot jaunas funkcijas mūsdienu portāli, jaunas web daļas, daudzus uzlabojumus rumbas vietās, jaunumi saite, mērķauditoriju, pieejamību jaunu mobilo progr saistībā ar inovācijas Komandas, un vēl...
+Pie Ignite 2018 konferencē, Microsoft paziņoja par jauniem jauninājumiem SharePoint, ieskaitot jaunas funkcijas mūsdienu portāliem, jaunas tīmekļa daļas, daudzi uzlabojumi, lai Hub Sites, ziņu saites, auditorijas adresēšanu, pieejamība jaunu mobilo progr, saistībā ar Komandas un vēl...
   
-Papildinformāciju par šīm funkcijām, skatīt blog post [jaunu inovāciju programmā SharePoint &amp; Microsoft 365 piegādāt jaudu un vienkāršība satura sadarbībai.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Lai iegūtu papildinformāciju par šiem līdzekļiem, skatiet emuāra ziņu [jauni jauninājumi programmā SharePoint &amp; Microsoft 365 nodrošina satura sadarbības jaudu un vienkāršību.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Jūsu organizācija var pievienoties mērķa realizācijas programmas sākumā piekļuvi jaunas funkcijas. Skatiet [Office 365 standarta vai mērķa atbrīvošanu opciju iestatīšana](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Jūsu organizācija var pievienoties mērķa laidiena programmai, lai agrīni piekļūtu jaunajām funkcijām. Skatiet sadaļu [standarta vai mērķtiecīgu laidiena opciju iestatīšana pakalpojumā Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).

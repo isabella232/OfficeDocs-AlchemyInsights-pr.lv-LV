@@ -1,6 +1,6 @@
 ---
-title: Ziņojumu "OneDrive konti tiks izdzēsti"
-ms.author: kirks
+title: Ziņojums "OneDrive konts tiks dzēsts"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 93d86ecb14623480f8566b9b20372a9688e76d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521394"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753515"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Ziņojumu "OneDrive konti tiks izdzēsti"
+# <a name="onedrive-account-will-be-deleted-message"></a>Ziņojums "OneDrive konts tiks dzēsts"
 
-Ja esat saņēmis e-pastu no email@mail.onedrive.com brīdina, ka "OneDrive konts tiek dzēsts" Lūdzu, ņemiet vērā, tas ir personas OneDrive.com kontu, nav jūsu OneDrive uzņēmuma kontam. 
+Ja saņēmāt e-pasta ziņojumu no email@mail.onedrive.com brīdinājuma par to, ka "jūsu OneDrive konts tiks dzēsts", lūdzu, ņemiet vērā, ka šis ir jūsu personiskais OneDrive.com konts, nevis OneDrive darbam konts. 
   
-Ja neesat pārliecināts, vai jūs izmantojat personisko OneDrive, pierakstieties onedrive.com aktivizēt un pārskatīt savu kontu.
+Ja neesat pārliecināts, vai izmantojat personisko OneDrive, pierakstieties onedrive.com, lai atkārtoti aktivizētu un pārskatītu savu kontu.
   
-Lai iegūtu papildinformāciju, skatiet [Kāpēc netika saņemtu e-pastu sakot, jūsu konts tiks dzēsti?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Papildinformāciju skatiet sadaļā [Kāpēc es saņemu e-pasta ziņojumu, ka jūsu konts tiks dzēsts?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 
