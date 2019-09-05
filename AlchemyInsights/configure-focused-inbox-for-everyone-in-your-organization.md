@@ -1,5 +1,5 @@
 ---
-title: 912 Configure mērķtiecīgi iesūtne visiem jūsu organizācijā
+title: 912 konfigurējiet fokusēta iesūtne visiem jūsu organizācijā
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504722"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738420"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="b58af-102">Savukārt ikvienam vērsta Inbox ieslēgšana vai izslēgšana</span><span class="sxs-lookup"><span data-stu-id="b58af-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="31972-102">Fokusēta iesūtnes ieslēgšana un izslēgšana ikvienam lietotājam</span><span class="sxs-lookup"><span data-stu-id="31972-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="b58af-103">Norādījumus skatiet sadaļā [Konfigurēt vērsta iesūtne visiem jūsu uzņēmumā](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="b58af-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="31972-103">Norādījumus skatiet sadaļā [fokusēta iesūtnes konfigurēšana visiem jūsu organizācijā](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="31972-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="b58af-104">**Piezīme**: šī procedūra prasa Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="b58af-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="b58af-105">Vai vēlaties tā vietā izdarīt Microsoft 365 administrēšanas centrā</span><span class="sxs-lookup"><span data-stu-id="b58af-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="b58af-106">Balsojiet šeit!</span><span class="sxs-lookup"><span data-stu-id="b58af-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="31972-104">**Piezīme**: šī procedūra ir nepieciešama Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="31972-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="31972-105">Vai vēlaties to darīt Microsoft 365 administrēšanas centrā tā vietā?</span><span class="sxs-lookup"><span data-stu-id="31972-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="31972-106">Balsojums šeit!</span><span class="sxs-lookup"><span data-stu-id="31972-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

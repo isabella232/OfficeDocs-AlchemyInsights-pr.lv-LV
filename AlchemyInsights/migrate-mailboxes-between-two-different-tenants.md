@@ -1,5 +1,5 @@
 ---
-title: Pastkastu starp diviem dažādiem īrniekiem
+title: Pastkastu migrēšana starp diviem dažādiem nomniekiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544654"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734460"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="4d763-102">Pastkastu starp diviem dažādiem īrniekiem</span><span class="sxs-lookup"><span data-stu-id="4d763-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="066e1-102">Pastkastu migrēšana starp diviem dažādiem nomniekiem</span><span class="sxs-lookup"><span data-stu-id="066e1-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="4d763-103">Jums var būt nepieciešams migrēt pastkastes starp diviem dažādiem nomniekiem, Office 365, piemēram, ja ir organizāciju apvienošanos.</span><span class="sxs-lookup"><span data-stu-id="4d763-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="4d763-104">Šo migrāciju būtu rūpīgi plānots.</span><span class="sxs-lookup"><span data-stu-id="4d763-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="4d763-105">Lūdzu, skatiet šādas vadlīnijas:</span><span class="sxs-lookup"><span data-stu-id="4d763-105">Please see the following guidance:</span></span>
+<span data-ttu-id="066e1-103">Iespējams, vajadzēs migrēt pastkastu starp diviem dažādiem Office 365 nomniekiem, piemēram, ja ir organizāciju apvienošanās.</span><span class="sxs-lookup"><span data-stu-id="066e1-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="066e1-104">Šīs migrācijas būtu rūpīgi jāplāno.</span><span class="sxs-lookup"><span data-stu-id="066e1-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="066e1-105">Lūdzu, skatiet šādus norādījumus:</span><span class="sxs-lookup"><span data-stu-id="066e1-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="4d763-106">Kā migrēt pastkastes no viena biroja 365 īrnieks uz citu</span><span class="sxs-lookup"><span data-stu-id="4d763-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[<span data-ttu-id="066e1-106">Kā migrēt pastkastes no viena Office 365 nomnieka uz citu</span><span class="sxs-lookup"><span data-stu-id="066e1-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

@@ -1,9 +1,8 @@
 ---
-title: Dzēst lietotājus
+title: Lietotāju dzēšana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: 96559948c0c7c127f3ccf6e00be4485ffe3df883
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513063"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740508"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="7485b-102">Dzēst lietotājus</span><span class="sxs-lookup"><span data-stu-id="7485b-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="4d03d-102">Lietotāju dzēšana</span><span class="sxs-lookup"><span data-stu-id="4d03d-102">Deleting users</span></span>
 
-<span data-ttu-id="7485b-103">Ja vēlaties nekavējoties bloķēt lietotāja piekļuvi un nepieciešamība saglabāt savu informāciju, lūdzu, skatiet [ir darbinieks, atstājot un nepieciešamība bloķēt piekļuvi datiem, e?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span><span class="sxs-lookup"><span data-stu-id="7485b-103">If you want to immediately block user access and need to keep their information, please see [Have an employee leaving and need to block access to data an email?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span></span>
+<span data-ttu-id="4d03d-103">Ja vēlaties nekavējoties bloķēt lietotāju piekļuvi un nepieciešamību saglabāt savu informāciju, lūdzu, skatiet [bloķēt bijušā darbinieka piekļuvi Office 365 datiem](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span><span class="sxs-lookup"><span data-stu-id="4d03d-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Office 365 data](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span></span>
   
-<span data-ttu-id="7485b-104">Ja jūs vienkārši vēlaties dzēst lietotāju un nav saistītas ar savus datus, lūdzu, skatiet [Dzēst lietotāju no jūsu uzņēmuma](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span><span class="sxs-lookup"><span data-stu-id="7485b-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span></span> <span data-ttu-id="7485b-105">Tas nekavējoties atbrīvot savu licenci.</span><span class="sxs-lookup"><span data-stu-id="7485b-105">This will immediately free up their license.</span></span>
+<span data-ttu-id="4d03d-104">Ja jūs vienkārši vēlaties dzēst lietotāju un nav saistīti ar kādu no viņu datiem, lūdzu, skatiet [Dzēst lietotāju no jūsu organizācijas](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span><span class="sxs-lookup"><span data-stu-id="4d03d-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="4d03d-105">Tas nekavējoties atbrīvotu savu licenci.</span><span class="sxs-lookup"><span data-stu-id="4d03d-105">This will immediately free up their license.</span></span>
   

@@ -1,5 +1,5 @@
 ---
-title: Hybrid vides iestatīšana
+title: Hibrīds vides iestatīšana
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509151"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741012"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="fd2ee-102">Hibrīda vides iestatīšana</span><span class="sxs-lookup"><span data-stu-id="fd2ee-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="77d14-102">Hibrīds vides iestatīšana</span><span class="sxs-lookup"><span data-stu-id="77d14-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="fd2ee-103">Ļaut lietotājiem nevainojamai kopā neatkarīgi no tā, ja to dati tiek glabāti uz lokālajiem serveriem vai Office 365, var rasties nepieciešamība uzstādīt arī hibrīda vidē.</span><span class="sxs-lookup"><span data-stu-id="fd2ee-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="fd2ee-104">Lai iegūtu pārskatu par jūsu iespējām, izbraukšana [Office 365 integrācija ar lokālā vidē](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="fd2ee-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="77d14-103">Lai ļautu lietotājiem netraucēti strādāt kopā neatkarīgi no tā, vai viņu dati tiek glabāti lokālos serveros vai Office 365, iespējams, ir jāiestata hibrīds vidē.</span><span class="sxs-lookup"><span data-stu-id="77d14-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="77d14-104">Lai iegūtu pārskatu par opcijām, skatiet [Office 365 integrācija ar lokālajām vidēm](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="77d14-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
