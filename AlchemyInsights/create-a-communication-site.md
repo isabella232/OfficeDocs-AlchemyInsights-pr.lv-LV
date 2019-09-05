@@ -1,6 +1,6 @@
 ---
-title: Izveidot komunikācijas vietni
-ms.author: kirks
+title: Saziņas vietnes izveide
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/13/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516283"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755423"
 ---
-# <a name="create-a-communication-site"></a>Izveidot komunikācijas vietni
+# <a name="create-a-communication-site"></a>Saziņas vietnes izveide
 
-Lai izveidotu saziņas vietnes SharePoint Online, veiciet šādas darbības: 
+Izveidot saziņas vietnes SharePoint Online, veiciet šādas darbības: 
   
-1. Lappuses augšējā kreisajā stūrī, noklikšķiniet uz app ikonas un atlasiet SharePoint mozaīku. Ja SharePoint mozaīka nav redzama, noklikšķiniet uz **vietnes** vai **visās progr** ja SharePoint nav redzama. 
+1. Lapas augšējā kreisajā stūrī noklikšķiniet uz programmas palaidēja un atlasiet elementu SharePoint. Ja neredzat SharePoint elementu, noklikšķiniet uz **vietnes** vai **Visas programmas** , ja SharePoint nav redzama. 
     
-2. Koplietošanas vides SharePoint lapas augšpusē noklikšķiniet uz **izveidot vietni** un izvēlēties **Saziņas vietne**. Izpildiet vednī norādītās vietnes izveidei. 
+2. SharePoint lapas augšdaļā noklikšķiniet uz **izveidot vietni** un izvēlieties **saziņas vietne**. Izpildiet vietnes izveides vednī norādītās darbības. 
     
- **Piezīme**: ja jūs neredzat iespēju **izveidot**vietnei, pašapkalpošanās līdzekli vietnes izveidei var būt atspējotas Office 365. Sazinieties ar personu, kas Office 365 administrēšanu uzņēmumā, radiet darba grupas vietni. Ja jūs esat īrnieks administrators, skatiet [pārvaldīt vietņu izveide SharePoint Online un jāiespējo pašapkalpošanās vietņu izveide uzņēmumā.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Piezīme**: ja jūs neredzat opciju **izveidot vietni**, pašapkalpošanās vietnes izveide var atspējot Office 365. Sazinieties ar personu, kas administrē Office 365 jūsu organizācijā, lai izveidotu grupas vietni. Ja esat nomnieka administrators, skatiet [pārvaldīt vietnes izveide SharePoint Online iespējot pašapkalpošanās vietnes izveide organizācijā.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Piezīme:** Ja jūs cenšaties izveidot komunikācijas vietni, un URL kļūst papildināšanas ar dažādiem skaitļiem, visticamāk vietnes ar to pašu URL jau eksistē vidē SharePoint vai izdzēsta un joprojām pastāv dzēst vietņu (Recycle Bin). Izmantojiet [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) novērtēt atkritni un [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) noņemt vietni no atkritnes. 
+ **Piezīme:** Ja mēģināt izveidot saziņas vietni un URL tiek pievienots ar nejaušiem skaitļiem, iespējams, vietne ar tādu pašu vietrādi URL jau pastāv SharePoint vidē vai izdzēsta un joprojām pastāv dzēstās vietnēs (Atkritne). Izmantojiet [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) , lai novērtētu atkritni un [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) noņemtu vietni no atkritnes. 
   
 

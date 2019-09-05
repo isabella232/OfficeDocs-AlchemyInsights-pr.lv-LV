@@ -1,5 +1,5 @@
 ---
-title: Ļauj pastkastē auditēšana
+title: Iespējot pastkastes auditēšanu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527618"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736260"
 ---
-# <a name="enable-mailbox-auditing"></a>Ļauj pastkastē auditēšana
+# <a name="enable-mailbox-auditing"></a>Iespējot pastkastes auditēšanu
 
-Lai pastkastes atsevišķam lietotājam vai visam uzņēmumam šādas cmdlet jādarbojas no attālās enerģijas Shell:
+Lai iespējotu pastkastes auditēšanas vienam lietotājam vai visam uzņēmumam, no attālās barošanas čaulas ir jāpalaiž šādi cmdlet:
   
  **Viena lietotāja**
   
-Komplekts-Mailbox - identitāte "Jane Dow" - AuditEnabled $true
+Set-pastkaste-identitāte "Jane Dow"-AuditEnabled $true
   
  **Organizācija**
   
-Get-Pastkaste - ResultSize neierobežots - filtru {RecipientTypeDetails - eq "UserMailbox"} | Komplekts-Mailbox - AuditEnabled $true
+Get-Pastkaste-ResultSize neierobežots-filtrs {RecipientTypeDetails-EQ "UserMailbox"} | Set-pastkaste-AuditEnabled $true
   
-[apgūt vairāk](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[apgūt vairāk](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

@@ -1,6 +1,6 @@
 ---
 title: Tikai lasāma faila rediģēšana
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528126"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756107"
 ---
 # <a name="edit-a-read-only-file"></a>Tikai lasāma faila rediģēšana
 
-Jūs varat atrast, ka, atverot failus, tos atvērt kā tikai lasāmu. Dažos gadījumos tas ir papildu drošībai, piemēram, ja atverat failu no interneta, un citas reizes, tas var būt saistīts ar uzstādījumu, ka var mainīt. [Kāpēc nebija mans fails ir atvērts tikai lasāms](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) rakstā mēs paskaidrosim dažos scenārijos, ja fails tiek atvērts tikai lasāmā un dažas darbības, kuras varēsit veikt, lai to mainīt.
+Jūs varat konstatēt, ka, atverot failus, tie tiek atvērti kā tikai lasāmi. Dažos gadījumos tas ir papildu drošībai, piemēram, atverot failus no interneta un citos laikos, tas var būt saistīts ar iestatījumu, ko var mainīt. Rakstā [Kāpēc mans fails ir atvērts tikai lasāms](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) mēs izklāstām dažus scenārijus, kur fails tiek atvērts tikai lasāms, un dažas darbības, ko varat veikt, lai to mainītu.
 
-Lūk, kā atvērt office failus rediģēšanai.
+Lūk, kā atvērt Office failus rediģēšanai.
 
-Tā vietā, noklikšķinot uz dokumenta nosaukuma, noklikšķiniet uz **Atvērtu izvēlni** (trīs punkti) un pēc tam noklikšķiniet uz **Rediģēt**.
+Tā vietā, lai noklikšķētu uz dokumenta nosaukuma, noklikšķiniet uz **Atvērt izvēlni** (trīs punkti) un pēc tam noklikšķiniet uz **Rediģēt**.
 
 Piezīmes:
 
-- Ja jūs drīzāk ir dokumentu atvērtu rediģēšanai programmā Office, kad jūs noklikšķiniet uz nosaukuma, bibliotēkā var iestatīt darīt (ja vien jums ir atļauja mainīt bibliotēkas iestatījumus).
+- Ja vēlaties, lai dokumenti tiktu atvērti rediģēšanai programmā Office, noklikšķinot uz virsraksta, varat iestatīt bibliotēku, lai to paveiktu (ja vien jums ir atļauja mainīt bibliotēkas iestatījumus).
 
-- Ja bibliotēkas ar Checkout, obligātajās kolonnās vai ja tikai tie lietotāji, kas var labot SharePoint versiju iestatījumus dokumentu bibliotēkā, šie vienumi tiks sinhronizēts kā tikai lasāmu.
+- Ja jums ir bibliotēkas ar kases, nepieciešamās kolonnas vai tikai lietotāji, kas var rediģēt versiju iestatījumus SharePoint dokumentu bibliotēkā, šie vienumi tiks sinhronizēti kā tikai lasāms.
 
-- Office dokuments tiek atvērts skatā aizsargāta pat tad, ja iespējosit "Open Office dokumenti kā lasāmu/rakstāmu pārlūkošanas" politikas iestatījumu. Plašāku informāciju, lūdzu, skatiet šo [pantā.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Office dokuments tiek atvērts aizsargātajā skatā pat tad, ja iespējojat politikas iestatījumu "atvērt Office dokumentus kā lasīt/rakstīt pārlūkošanas laikā". Lai iegūtu vairāk informācijas, lūdzu, skatiet šo [rakstu.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

@@ -1,5 +1,5 @@
 ---
-title: Kļūdas kods 550 5.7.501 liegta piekļuve, surogātpasta ļaunprātīgu izmantošanu noteikta
+title: Kļūdas kods 550 5.7.501 piekļuve liegta, atklāta surogātpasta ļaunprātīga izmantošana
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527175"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740148"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>Piekļuve liegta 550 5.7.501, surogātpasta ļaunprātīgu atklāta
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 liegta piekļuve, atklāta surogātpasta ļaunprātīga izmantošana
 
-Parasti šis ziņojums parādās, kad lietotāji sūta e-pasta ziņojumus no IP adreses, izmantojot sākotnējās *. onmicrosoft.com* domēnu, kas piešķirti jauni nomnieki Office 365. Vienkāršākais veids, kā atrisināt šo problēmu, ir:
+Parasti šis ziņojums tiek rādīts, kad lietotāji sūta e-pasta ziņojumus no IP adresēm, izmantojot sākotnējo *. onmicrosoft.com* domēnu, kas ir piešķirts jauniem nomniekiem Office 365. Vieglākais veids, kā atrisināt šo problēmu, ir:
 
-1. [Pievienot domēnu jūsu īrnieks](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).
+1. [Pievienojiet nomniekam domēnu](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [Mainīt savu lietotāja primāro e-pasta adresi](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) jaunu pielāgotu domēnu, kuru tikko pievienojāt.
+2. [Mainiet savu lietotāju primāro e-pasta adresi](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) uz jauno pielāgoto domēnu, kuru tikko pievienojāt.

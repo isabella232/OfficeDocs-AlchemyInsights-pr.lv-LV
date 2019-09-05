@@ -1,5 +1,5 @@
 ---
-title: Onmicrosoft domēna pārdēvēšana
+title: Pārdēvējiet savu onmicrosoft domēnu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666487"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741228"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Onmicrosoft.com domēna pārdēvēšana
+# <a name="rename-your-onmicrosoftcom-domain"></a>Pārdēvēt savu onmicrosoft.com Domain
 
- **Nevar pārdēvēt onmicrosoft domēna pēc pierakstīšanās.** Piemēram, ja izvēlaties sākotnējo domēna bija *fourthcoffee.onmicrosoft.com*, nevar mainīt to be *fabrikam.onmicrosoft.com*. Izmantot citu onmicrosoft.com domēna, jums būtu sākt jaunu abonementu ar Office 365.
+ **Jūs nevarat pārdēvēt onmicrosoft domēnu pēc pierakstīšanās.** Piemēram, ja izvēlētais sākotnējais domēns ir *fourthcoffee.onmicrosoft.com*, to nevar mainīt par *fabrikam.onmicrosoft.com*. Lai izmantotu citu onmicrosoft.com domēnu, ir jāsāk jauns abonements, izmantojot Office 365.
   
-Ja vēlaties izmantot pielāgotu domēnu, piemēram, *contoso.com* , varat [pievienot vienu jums pieder](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) vai [nopirkt vienu no Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Ja vēlaties izmantot pielāgotu domēnu, piemēram, *contoso.com* , varat to [pievienot](https://docs.microsoft.com/office365/admin/setup/add-domain) vai [iegādāties vienu no Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

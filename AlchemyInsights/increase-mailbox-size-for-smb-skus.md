@@ -1,5 +1,5 @@
 ---
-title: Palielināt pastkastes lielumu SMB SKU
+title: Pastkastes lieluma palielināšana SMB SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499286"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739248"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Slēdzis plāno palielināt pastkastes lielumu
+# <a name="switch-plans-to-increase-mailbox-size"></a>Pārslēgt plānus, lai palielinātu pastkastes lielumu
 
-Ja pastkastes lielums ir 50 GB, var palielināt pastkastes lielumu līdz 100GB, pārejot uz [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vai [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Šeit ir soļi, lai pārslēgtos uz citu Office 365 plānu:
+Ja pastkastes lielums ir 50 GB, varat palielināt pastkastes lielumu 100 GB, pārejot uz [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vai [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tālāk ir norādītas darbības, kas jāveic, lai pārslēgtos uz citu Office 365 plānu.
   
-1. Microsoft 365 admin Center, dodieties uz [abonēšanas](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu vai izvēlēties **norēķinu** \> **abonementu**.
+1. Microsoft 365 administrēšanas centrā atveriet lapu [abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) vai izvēlieties **norēķinu** \> **abonementi**.
     
-2. Izvēlēties **slēdzis plānus** , lai skatītu sarakstu ar jauniem plāniem, kas ir pieejami. 
+2. Izvēlieties **Pārslēgt plānus** , lai skatītu pieejamo jauno plānu sarakstu. 
     
-3. Izvēlēties plānu, lai redzētu jaunās kopējās izmaksas mēnesī. Pārliecinieties, lai izlasītu **galveno informāciju**un pēc tam izvēlieties **Nākamā** izbraukšana. 
+3. Izvēlieties plānu, lai skatītu jaunās kopējās izmaksas mēnesī. Noteikti izlasiet **pamatinformāciju**, pēc tam izvēlieties **Tālāk** , lai pārbaudītu. 
     
-4. Pabeidzot paņemšanu, Office 365 aizņem dažas minūtes, lai pabeigtu pāreju. Jūs varat sākt lietot uzreiz savu jauno abonementu.
+4. Kad esat pabeidzis paņemšanu, Office 365 ilgst dažas minūtes, lai pabeigtu slēdzi. Varat uzreiz sākt lietot jauno abonementu.
     
-Lai iegūtu sīkāku informāciju, skatiet sadaļā [Pārslēgšanās uz citu Office 365 plānu](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Lai iegūtu sīkāku informāciju, skatiet sadaļu [Pārslēgšanās uz citu Office 365 plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

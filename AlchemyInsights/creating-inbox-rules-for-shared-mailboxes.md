@@ -1,5 +1,5 @@
 ---
-title: Izveidot iesūtnes kārtulas koplietojamo pastkastēm
+title: Iesūtnes kārtulu izveide koplietotām pastkastēm
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: d64e7441bb1a701144921b9b2345bfeea005d090
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514842"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740724"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Izveidot iesūtnes kārtulas koplietojamo pastkastēm
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Iesūtnes kārtulu izveide koplietotām pastkastēm
 
-Varat pievienot kārtulas uz koplietojamās pastkastes var piekļūt līdzīgi kā jūs pievienot kārtulas uz sava rēķina.
+Varat pievienot kārtulas koplietotai pastkastei, kurai ir piekļuve līdzīgā veidā, kā varat pievienot kārtulas savam kontam.
   
-Pārliecinieties, ka jūs esat dalībnieks attiecīgajā koplietojamās pastkasti un pēc tam izpildiet šajā pantā: [pievienot kārtulas, lai koplietojamās pastkastes](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
+Pārliecinieties, vai esat attiecīgās koplietojamās pastkastes dalībnieks un pēc tam izpildiet šajā rakstā aprakstītās darbības: [pievienot kārtulas koplietotai pastkastei](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
   

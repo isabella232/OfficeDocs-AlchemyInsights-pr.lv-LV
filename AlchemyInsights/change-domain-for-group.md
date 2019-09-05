@@ -1,5 +1,5 @@
 ---
-title: Mainiet Office 365 grupas domēns
+title: Domēna maiņa Office 365 grupas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519738"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736836"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Office 365 grupai mainīt domēna
+# <a name="change-the-domain-for-office-365-group"></a>Mainīt domēna Office 365 grupas
 
-Ja vēlaties mainīt domēna Office 365 grupas izveides laikā, izpildiet [izvēlēties domēna izmantot, veidojot Office 365 grupām](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Ja vēlaties mainīt domēnu Office 365 grupas izveides laikā, veiciet darbības, [Izvēlieties domēnu, ko izmantot, veidojot Office 365 grupas](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Pēc Biroja 365 grupu izveides jau pašlaik ir nekādā veidā mainīt domēna. Vienīgais veids ir izveidot jaunu Office 365 grupu un izdzēst veco, ja nepieciešams (ar [Exchange administratoru centrā](https://outlook.office365.com/ecp.aspx)var pievienot papildu e-pasta adreses).
+Pēc Office 365 grupa jau ir izveidota, pašlaik nav iespējams mainīt domēnu. Vienīgais veids ir izveidot jaunu Office 365 grupu un izdzēst veco, ja nepieciešams (papildu e-pasta adreses var pievienot, izmantojot [Exchange administrēšanas centrs](https://outlook.office365.com/ecp.aspx)).
