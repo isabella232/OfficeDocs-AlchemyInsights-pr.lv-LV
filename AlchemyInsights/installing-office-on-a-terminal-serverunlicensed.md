@@ -1,5 +1,5 @@
 ---
-title: Office instalēšanas termināla serverī - nelicencētu
+title: Office instalēšana termināļa serverī-nelicencēta
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498422"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735396"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Instalējot Office termināļu serverī
+# <a name="installing-office-on-a-terminal-server"></a>Office instalēšana termināļa serverī
 
-Par to, kā izvietot Office 365 ProPlus Windows serverī, izmantojot attālās darbvirsmas pakalpojumu (RDS), iepriekš dēvēts par termināļa pakalpojumi:
+Office 365 ProPlus izvietošanai Windows serverī, izmantojot attālās darbvirsmas pakalpojumus (RDS), iepriekš nosauktus termināļa pakalpojumus:
   
-- Datorā jābūt instalētai Office 365 plānu, kas ietver Office 365 ProPlus, piemēram, Office 365 Enterprise E3 vai uzņēmuma E5. Office 365 Business un Office 365 Business Premium plāni nav iekļauti Office 365 ProPlus.
+- Jums ir jābūt Office 365 plānu, kas ietver Office 365 ProPlus, piemēram, Office 365 Enterprise E3 vai Enterprise E5. Office 365 Business un Office 365 Business Premium plānos nav iekļauts Office 365 ProPlus.
 
-- Ir jāiespējo [koplietojamās datora aktivizāciju](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Ir jāiespējo [koplietojamā datora aktivizācija](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ja vēlaties instalēt Office 365 ProPlus RDS Office 365 portālā, ***kas izmanto instalācijas noklusējuma iestatījumus***, rīkojieties šādi:
+Ja vēlaties instalēt Office 365 ProPlus RDS no Microsoft 365 administrēšanas centrs, ***kas izmanto noklusējuma instalēšanas iestatījumus***, rīkojieties šādi:
   
-1. Pārbaudiet, kāda Office 365 plānu, kas jums ir. [Uzziniet, kā](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Pārbaudiet, kādi Office 365 plānu jums ir. [Uzziniet, kā](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
 2. Ja nepieciešams, pārslēdzieties uz citu Office 365 plānu. [Uzziniet, kā](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Ja RDS servera, izmantojot citas Office 365 plāni jau ir instalēta Office, noņemt tās instalāciju. Piemēram, dodoties uz Control Panel \> atinstalēt programmu. Atinstalējiet to, izmantojot [Microsoft atbalsts un palīgs atgūšanas](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ja jūs strādājat par jautājumiem.
+3. Ja Office jau ir instalēta RDS serverī, izmantojot citus Office 365 plānus, atinstalējiet to. Piemēram, atverot vadības paneli \> , atinstalējiet programmu. Atinstalējiet, izmantojot [Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ja rodas problēmas.
 
-4. RDS serverī, pierakstieties pakalpojumā Office 365 portāls ar administratora kontu un [instalēt Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Serverī RDS pierakstieties Microsoft 365 administrēšanas centrā, izmantojot administratora kontu, un [instalējiet Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Pēc tam, kad ir instalēta Office, ***nav jāatver vai pierakstīties*** uz jebkuru Office lietojumprogrammām.
+5. Pēc Office instalēšanas ***neatveriet vai pierakstieties*** nevienā no Office lietojumprogrammām.
 
-6. Serverī RDS iespējotu koplietojamās datora aktivizāciju, rediģējot reģistru, veicot šādas darbības:
+6. Serverī RDS iespējojiet koplietojamo datora aktivizāciju, rediģējot reģistru, veicot šādas darbības:
 
-1. Ar peles labo pogu noklikšķiniet uz Windows pogas ekrāna kreisajā apakšējā stūrī un izvēlieties Run. Lodziņā Atvērt ierakstiet **regedit**un pēc tam izvēlieties Labi.
+1. Ar peles labo pogu noklikšķiniet uz Windows pogas ekrāna kreisajā apakšējā stūrī un atlasiet palaist. Lodziņā Atvērt ierakstiet **regedit**un pēc tam atlasiet Labi.
 
-2. Izvēlieties Jā, ja tiek prasīts atļaut Registry Editor veikt izmaiņas jūsu ierīcē.
+2. Atlasiet Jā, kad tiek piedāvāts atļaut reģistra redaktoram veikt izmaiņas ierīcē.
 
-3. Reģistra redaktoru, pievienot virknes vērtība ir **SharedComputerLicensing** , kurā 1 zem HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Reģistra redaktorā pievienojiet virknes vērtību **Sharedcomputerlicensing** ar iestatījumu 1 zem HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. RDS serverī, ***jāpierakstās kā lietotājam*** un [pārbaudīt, ka koplietojama datora aktivizēšana ir iespējota Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS serverī, ***pierakstieties kā lietotājs*** un [Pārbaudiet, vai ir iespējots Office 365 ProPlus koplietojamo datora aktivizācija](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Sīkāku informāciju par priekšnoteikumiem, uzstādīšanas instrukcijas un norādījumi par pielāgoto instalāciju, izmantojot rīku Office izvietošanu, lūdzu skatīt [Izvietot Office 365 ProPlus, izmantojot attālās darbvirsmas pakalpojumu](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Lai iegūtu papildinformāciju par priekšnosacījumi, uzstādīšanas instrukcijas un norādījumus par pielāgoto instalāciju, izmantojot Office izvietošanas rīks, lūdzu, skatiet [izvietot office 365 ProPlus, izmantojot attālās darbvirsmas pakalpojumu](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Lai novērstu kļūdas, kas attiecas uz koplietojamās datora aktivizāciju, lūdzu, skatiet [novērst problēmas, kas saistītas ar koplietojama datora aktivizāciju Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Lai labotu kļūdas, kas saistītas ar koplietojamu datora aktivizāciju, lūdzu, skatiet [problēmu novēršana saistībā ar Office 365 ProPlus koplietojamo datora aktivizāciju](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

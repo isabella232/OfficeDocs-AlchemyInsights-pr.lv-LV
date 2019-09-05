@@ -1,6 +1,6 @@
 ---
-title: Koplietot ar komandas vietu ārējo
-ms.author: kirks
+title: Ārēja koplietošana ar grupas vietni
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525982"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755891"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Koplietot ar komandas vietu ārējo
+# <a name="external-sharing-with-a-team-site"></a>Ārēja koplietošana ar grupas vietni
 
-Lai ieslēgtu koplietošanu komandai vietu ārējā lietotāja, rīkojieties šādi: 
+Lai ieslēgtu ārējo lietotāju koplietošanu grupas vietnēm, rīkojieties šādi: 
   
-1. Jaunu SharePoint administrēšanas centrā noklikšķiniet uz **aktīvās vietās**.
+1. Jaunajā SharePoint administrēšanas centrā noklikšķiniet uz **aktīvās vietnes**.
   
-2. Izvēlieties vietni, kurā ir **Komanda vietnes** veidni. 
+2. Atlasiet vietni, kurā ir **komandas vietnes** veidne. 
   
-3. Atlasiet **koplietošanas** poga no augšas izvēlni. 
+3. Augšējā izvēlnē atlasiet pogu **koplietošana** . 
   
- **Piezīme**: pēc noklusējuma, veidojot mūsdienu komandas vietu ārējās koplietošanas opcija tiks iestatīts jauno un esošo ārējo lietotāju. 
+ **Piezīme**: pēc noklusējuma, kad tiek izveidota moderna darba grupas vietne, ārējā koplietošanas opcija tiks iestatīta uz jauni un esošie ārējie lietotāji. 
   
- **Piezīme:** Ja esat atlasījis vairāk nekā vienu vietu, **koplietošanas** pogu parādīsies invalīdiem. Atlasiet tikai vienu vietni. 
+ **Piezīme:** Ja ir atlasīta vairāk nekā viena vietne, poga **koplietošana** tiks rādīta kā atspējota. Atlasiet tikai vienu vietu. 
   
 

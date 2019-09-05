@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664651"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737376"
 ---
 # <a name="creating-email-signatures"></a>E-pasta parakstu izveide
 
@@ -29,7 +29,7 @@ ms.locfileid: "36664651"
 
 - Es vēlos izveidot e-pasta parakstu, izmantojot Outlook.com: [izveidojiet un pievienojiet e-pasta parakstu Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Vēlos izveidot globālu e-pasta parakstu visiem e-pasta ziņojumiem, kas tiek sūtīti no mana uzņēmuma: [izveidojiet uzņēmuma parakstu un atrunas Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Es vēlos izveidot globālu e-pasta parakstu visiem e-pasta ziņojumiem, kas tiek sūtīti no mana uzņēmuma: [izveidot organizācijas mēroga parakstus un atrunas](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
  **Padoms:** Organizācijas mēroga paraksti tiek saukti par "atrunām".
   

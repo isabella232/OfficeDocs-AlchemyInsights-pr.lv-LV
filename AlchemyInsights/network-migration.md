@@ -1,5 +1,5 @@
 ---
-title: Migrācijas tīkls
+title: Tīkla migrācija
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538475"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734712"
 ---
-# <a name="network-migration"></a>Migrācijas tīkls
+# <a name="network-migration"></a>Tīkla migrācija
 
-O365 īrnieks ir iespējams piesaistīt vairākus Yammer tīklus no 1 īrniekam: daudz tīklus konfigurāciju. Sākot ar 2018. gada 16. oktobrī, Yammer vairs atbalstīs vairākus Yammer tīklus, kas saistīti ar viena biroja 365 īrnieks. Varat veikt tīkla migrāciju, lai nokļūtu vēlamajā konfigurācijā 1:1.
+Jūsu O365 nomnieks, iespējams, ir saistīts ar vairākiem Yammer tīkliem 1 nomniekā: daudzi tīkli konfigurācija. Sākot ar 16 oktobris 2018, Yammer vairs atbalstīt vairākus Yammer tīklus, kas saistīti ar vienu Office 365 nomnieka. Varat veikt tīkla migrāciju, lai nokļūtu pie vēlamās 1:1 konfigurācijas.
   
-- Lai skatītu sarakstu tīklus, kas saistīti ar jūsu īrnieks, piesakieties kā administrators Office 365 Global Yammer un pārlūkot **Tīkla Admin**, tad **Migrācijas tīkls**. Izvēlēties **nākamo**.
+- Lai skatītu tīklu, kas saistīti ar jūsu nomnieka sarakstu, piesakieties Yammer kā Office 365 globālā administratora un atrodiet **tīkla administratoru**, pēc tam **tīkla migrācija**. Izvēlieties **Tālāk**.
 
-- Ja redzat vairākus tīklus, kas uzskaitīti 2. solis no 3, tad jums ir vairākas Yammer tīklus, kas saistīti ar O365 nomnieks.
+- Ja redzat vairākus tīklus, kas norādīti 2. darbībā 3, tad jums ir vairāki Yammer tīkliem, kas saistīti ar jūsu O365 nomnieka.
 
-- Lai labotu konfigurāciju 1:1 konfigurācija, turpināt izmantot tīkla migrēšanas rīku.
+- Lai labotu konfigurāciju 1:1 konfigurācijā, turpiniet izmantot tīkla migrācijas rīku.
 
-- Papildinformāciju par tīkla migrācijas lūdzu skatiet [migrācijas tīkls: konsolidēt vairākus Yammer tīklus](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Lai iegūtu papildinformāciju par tīkla migrāciju, skatiet [tīkla migrācija: konsolidēt vairākus Yammer tīklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Lūdzu, ņemiet vērā:
   
-- **Tīkla migrācijas migrē tikai aktīvo un līdz brīdim, kad lietotāji.** Kopā aktīvi lietotāji, lietotāju informāciju, piemēram, nosaukumu un profila attēlu, arī migrācija. Jebkurā tīkla satura, ieskaitot grupas nevar migrēt.
+- **Tīkla migrācija migrē tikai aktīvo un gaida lietotājiem.** Kopā ar aktīvajiem lietotājiem tiek pārvietoti arī lietotāju informācija, piemēram, vārds un profila attēls. Jebkurš tīkla saturs, ieskaitot grupas, netiek migrēts.
 
-- **Migrācijas tīklā nevar atsaukt.** Jūs nevarēsit piekļūt pēc migrācijas alternatīvā tīkla un tā saturu. Tātad pirms jūs uzskatāt migrāciju, jūs vēlaties, lai rūpīgi plānot.
+- **Tīkla migrāciju nevar atcelt.** Jūs nevarēsiet piekļūt savam meitas tīklam un tā saturam pēc migrēšanas. Tātad, pirms jūs uzskatāt par migrāciju, jūs vēlaties plānot uzmanīgi.

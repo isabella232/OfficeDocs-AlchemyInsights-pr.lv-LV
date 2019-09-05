@@ -1,5 +1,5 @@
 ---
-title: 912 Configure mērķtiecīgi iesūtne visiem jūsu organizācijā
+title: 912 konfigurējiet fokusēta iesūtne visiem jūsu organizācijā
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504722"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738420"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Savukārt ikvienam vērsta Inbox ieslēgšana vai izslēgšana
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Fokusēta iesūtnes ieslēgšana un izslēgšana ikvienam lietotājam
 
-Norādījumus skatiet sadaļā [Konfigurēt vērsta iesūtne visiem jūsu uzņēmumā](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Norādījumus skatiet sadaļā [fokusēta iesūtnes konfigurēšana visiem jūsu organizācijā](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Piezīme**: šī procedūra prasa Exchange Online PowerShell. Vai vēlaties tā vietā izdarīt Microsoft 365 administrēšanas centrā [Balsojiet šeit!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Piezīme**: šī procedūra ir nepieciešama Exchange Online PowerShell. Vai vēlaties to darīt Microsoft 365 administrēšanas centrā tā vietā? [Balsojums šeit!](https://go.microsoft.com/fwlink/p/?linkid=862489)

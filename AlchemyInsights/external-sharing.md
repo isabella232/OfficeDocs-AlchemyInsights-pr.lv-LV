@@ -1,5 +1,5 @@
 ---
-title: Ārējās koplietošanas
+title: Ārējā koplietošana
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,34 +12,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2389"
-ms.openlocfilehash: 25276298935449e93ac07d132e4ff4d726516c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f22e17b9951ee119093444a6d5d7e9a6087da646
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526074"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735936"
 ---
-# <a name="external-sharing"></a>Ārējās koplietošanas
+# <a name="external-sharing"></a>Ārējā koplietošana
 
-Ja jūsu organizācija veic darbu, kas saistīts ar dokumentu koplietošana vai sadarbojas tieši ar piegādātājiem, klientiem vai patērētājiem, tad jūs varat izmantot [ārējās koplietošanas līdzekļus SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) dalīties saturu ar cilvēkiem ārpus jūsu organizācija.
+Ja jūsu organizācija veic darbu, kas ietver dokumentu koplietošanu vai sadarbību tieši ar kreditoriem, klientiem vai klientiem, varat izmantot [SharePoint Online ārējos koplietošanas līdzekļus](https://docs.microsoft.com/sharepoint/external-sharing-overview) , lai koplietotu saturu ar cilvēkiem ārpus jūsu Organizācija.
 
-Lai iegūtu vairāk informācijas par ārējo sadali, lūdzu, apmeklējiet zemāk esošajām saitēm:
+Lai iegūtu vairāk informācijas par ārējo koplietošanu, lūdzu, apmeklējiet saites zemāk:
 
-- [Savukārt ārējās koplietošanas ieslēgšana vai izslēgšana SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Savukārt ārējās vietnes koplietošanas ieslēgšana vai izslēgšana](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Noklusējuma koplietošanas iestatījumus vienā vietā tips](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Izmantot Sharepoint Online bizness-biznesam (B2B) ārtīkla risinājumu](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [Dalīties ar SharePoint faili vai mapes](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [OneDrive vai SharePoint failu vai mapju koplietošanas pārtraukšana vai mainīt atļaujas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [Viesa piekļuve Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft Viesu koplietošanas iestatījumus atsauces (debeszils Active Directory, Microsoft 365 un SharePoint tiešsaistē)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Ārējās koplietošanas ieslēgšana un izslēgšana SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ārējās kopīgošanas ieslēgšana vai izslēgšana vietnei](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Noklusējuma koplietošanas iestatījumi katrā vietnes tipā](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Izmantojiet SharePoint Online kā Business-to-Business (B2B) ārtīkla risinājumu](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [SharePoint failu vai mapju koplietošana](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Kā pārtraukt OneDrive vai SharePoint failu vai mapju koplietošanu vai mainīt atļaujas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Viesu piekļuve Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Microsoft Viesu koplietošanas iestatījumu atsauce (Azure Active Directory, Microsoft 365 un SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Saņemot kļūdas ar ārējo lietotāju?Pārbaudiet zemāk esošajām saitēm:
+Vai saņemat kļūdu ārējam lietotājam?Pārbaudiet saites zemāk:
 
-- ["Piekļuve liegta", "Vajadzīga atļauja, lai piekļūtu šai vietnei", vai "Lietotājs nav atrasta direktorijā" kļūdas SharePoint Online un OneDrive biznesa](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Jūsu uzņēmuma politika neļauj jums dalīties ar šiem lietotājiem" kļūda, kad koplietošanas objektu vai SharePoint Online vai OneDrive darba vietā](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Koplietošanas opcijas ir pelēkā krāsā, koplietojot no SharePoint Online vai OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Kļūdas ziņojumu, kad ārējais lietotājs pieņem uzaicinājumu uz SharePoint Online, izmantojot citu kontu](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE koplietošana SharePoint un OneDrive kļūdas](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Piekļuve liegta", "jums ir nepieciešama atļauja, lai piekļūtu šai vietnei" vai "lietotājs nav atrodams direktorijā" kļūdas SharePoint Online un OneDrive uzņēmumiem](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Jūsu organizācijas politikas neļauj koplietot ar šiem lietotājiem" kļūda, koplietojot vienumu vai vietni SharePoint Online vai OneDrive uzņēmumiem](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Koplietošanas iespējas ir pelēkota, koplietojot no SharePoint Online vai OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Kļūdas ziņojums, ārējais lietotājs pieņem uzaicinājumu SharePoint Online, izmantojot citu kontu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE koplietošanas kļūdas pakalpojumā SharePoint un OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

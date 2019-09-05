@@ -1,5 +1,5 @@
 ---
-title: Palielināt pastkastes lielumu Enterprise SKU
+title: Palielināt pastkastes lielumu uzņēmuma SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499430"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739284"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Ko darīt, ja jūsu pastkastes lielums jau ir 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Kā rīkoties, ja pastkastes lielums jau ir 100GB
 
-E3 vai E5 plānu, pastkastes lielums jau 100GB, un nav tā, lai to palielinātu. Tā vietā, izdzēsiet veco e-pastu vai ieslēgtu e-pasta arhivēšanu, lai saglabātu tā mākonis. 
+Ar E3 vai E5 plānu pastkastes lielums jau ir 100 GB, un to nav iespējams palielināt. Tā vietā izdzēsiet veco e-pastu vai ieslēdziet e-pasta arhivēšanu, lai to glabātu mākonī. 
   
-Lai aktivizētu e-pasta arhivēšana:
+Lai iespējotu e-pasta arhivēšanu:
   
-1. Microsoft 365 admin Center, dodieties uz **Admin centri** \> **apmaiņu**. 
+1. Microsoft 365 administrēšanas centrā dodieties uz **administrēšanas centru** \> **apmaiņa**. 
     
-2. Izvēlieties **adresātu** \> **pastkastēm**un atlasiet pastkasti. 
+2. Izvēlieties **saņēmēji** \> **pastkastes**un izvēlieties pastkasti. 
     
-3. Detalizētās informācijas rūtī zem **Ievietotas arhīvā**, izvēlieties **Aktivizēt**. 
+3. Detalizētas informācijas rūtī zem **oriģinālu arhīva**izvēlieties **Iespējot**. 
     
-4. Pēc dažām minūtēm, jaunā mape parādīsies jūsu lietotāja Outlook tīmeklī sauc *Ievietotas arhīvā* , vai Outlook app sauc *Online Archive - \<nosaukums\> * . Jūsu lietotājs var velciet un nometiet e-pastu uz arhīva. 
+4. Pēc dažām minūtēm jaunā mape parādīsies jūsu lietotāja Outlook Web sauc par oriģinālu *arhīvu* , vai Outlook app sauc *Online Arhīvs- \<name\> * . Jūsu lietotājs var vilkt un nomest e-pastu uz arhīvu. 
     
-Jūs varat piekļūt neierobežotu uzglabāšanas, arhivēšanas. Lai uzzinātu vairāk, skatiet [ļauj neierobežots arhivēšanai](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Arhivēšanai varat piekļūt neierobežotu krātuves apjomu. Papildinformāciju skatiet sadaļā [Iespējot neierobežotu arhivēšanu](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

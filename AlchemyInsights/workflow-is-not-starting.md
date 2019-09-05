@@ -1,5 +1,5 @@
 ---
-title: Darbplūsmu nevar sākt
+title: Darbplūsma netiek sākta
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557985"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738096"
 ---
-# <a name="workflow-is-not-starting"></a>Darbplūsmu nevar sākt
+# <a name="workflow-is-not-starting"></a>Darbplūsma netiek sākta
 
-- SharePoint 2010 un SharePoint 2013 darbplūsmas nesākam.
+- SharePoint 2010 un SharePoint 2013 darbplūsmas nav sākuma.
 
-    - Ja darbplūsmas nav sākusies, var būt pagaidu pakalpojumu jautājumu, kur lietotāji var rasties intermitējošs kavēšanos ar darbplūsmas norisi. Pārbaudiet [Pakalpojumu veselības Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) redzēt, ja jūsu organizācija ir ietekmētas.
+    - Ja darbplūsma netiek sākta, iespējams, pastāv pagaidu pakalpojuma problēma, kuras dēļ lietotāji var saskarties ar neregulāru kavēšanos ar darbplūsmas norisi. Pārbaudiet [pakalpojuma darbspējas informācijas paneli](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noskaidrotu, vai jūsu organizācija ir ietekmēta.
 
-    - Ja ilgāk par 24 stundām, ir pagājuši, kopš tu pirmo reizi redzēji šo jautājumu, lūdzu, piesakieties support ticket. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
+    - Ja kopš pirmās šīs problēmas instalēšanas ir pagājušas vairāk nekā 24 stundas, lūdzu, piesakieties atbalsta biļetei. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
 
-- SharePoint 2010 darbplūsmas atlikta uz start.
+- SharePoint 2010 darbplūsmas kavējas sākuma.
 
-    - Tas notiek tad, ja darbplūsma tiek nosūtīts lielām partijām. (piemēram, kad vairāki krājumi tiek pievienoti uzreiz).
+    - Tā notiek, ja darbplūsma tiek aktivizēta lielās partijās. (piemēram, vienlaicīgi pievienojot vairākus elementus).
 
-    - Darbplūsmas nav paredzēts darboties reālā laikā, tāpēc kavēšanās ir pēc konstrukcijas uzvedība.
+    - Darbplūsmas nav paredzētas reāllaika palaišanai, tāpēc aizkavēšanās ir pēc noformējuma.
 
-   -  Ja darbplūsma ir komplekss paplašināmo objektu iezīmēšanas valodu (XMOL), apkopošanu var būt lēna. Pārbaudiet [šo](https://support.microsoft.com/en-us/kb/3043697) rakstu.
+   -  Ja darbplūsma ir sarežģīta paplašināmās objektu iezīmēšanas valoda (XMOL), kompilēšana var būt lēna. Pārbaudiet [šo](https://support.microsoft.com//kb/3043697) rakstu.
 
-    - Būtu vienkāršot darbplūsmas vai pārstrādāt to, izmantojot Microsoft SharePoint 2013 darbplūsmas platformas tipa.
+    - Jums vajadzētu vienkāršot darbplūsmu vai pārprojektējot to, izmantojot Microsoft SharePoint 2013 darbplūsmas platformas tips.
 
-    - Ja darbplūsmas vēsture izaugusi liela, jūs varat Iztīrīt vienumus vai izveidot jaunu vēstures sarakstu.
+    - Ja darbplūsmas vēsture ir pieaugusi, iespējams, vēlēsities iztīrīt vienumus vai izveidot jaunu vēstures sarakstu.
 
-        Vairāk informācijas: [darbplūsmas vēstures iztīrīšana](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Papildinformācija: [darbplūsmu vēstures iztīrīšanas](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Saistītās tēmas
-Vēlaties izmēģināt Microsoft SharePoint Online Flow?
-- [Radīt plūsmu](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Vai vēlaties izmēģināt Microsoft Flow pakalpojumā SharePoint Online?
+- [Izveidot plūsmu](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint un plūsmas](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

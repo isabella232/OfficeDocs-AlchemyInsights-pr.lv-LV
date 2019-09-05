@@ -1,5 +1,5 @@
 ---
-title: Kā aktivizēt un pārvaldīt atjaunošanas
+title: Kā atkārtoti aktivizēt un pārvaldīt atjaunošanu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663967"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739320"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kā aktivizēt un pārvaldīt periodisku norēķinu
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kā atkārtoti aktivizēt un pārvaldīt periodiskos norēķinus
 
-Izskatās, ka abonements ir beidzies. Ja jūs vēlētos, lai no jauna aktivizētu to, šeit kā.
+Izskatās, ka jums ir abonements, kas ir beidzies. Ja vēlaties to aktivizēt, Lūk, kā to darīt.
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Atrast abonements, ko vēlaties atkārtoti aktivizēt. Sadaļā **norēķinu** izvēlieties **Aktivizēt**.
+2. Atrodiet abonementu, kuru vēlaties atkārtoti aktivizēt. Sadaļā **norēķini** atlasiet **Aktivizēt**.
 
-    Ja neredzat **Aktivizēt** kā iespēja, izmantojiet pogu "Vajadzīga palīdzība" runāt ar atbalsta inženieri, lai aktivizētu savu abonementu.
+    Ja jūs neredzat **Aktivizēt** kā iespēju, izmantojiet "nepieciešama palīdzība" pogu, lai runātu ar atbalsta speciālistu, lai aktivizētu savu abonementu.
 
-3. Jāapstiprina maksājuma detaļas. Varat atjaunināt šeit esošo maksājumu informāciju. Kad esat pabeidzis ievadīt savu maksājuma veidu, izvēlieties **Aktivizēt**.
+3. Apstipriniet savu maksājuma informāciju. Varat atjaunināt esošo maksājuma informāciju šeit. Kad esat pabeidzis ievadīt maksājuma veidu, atlasiet **Aktivizēt**.
 
-Lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Papildinformāciju skatiet sadaļā [abonementa aktivizēšana](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Pārvaldīt, katru mēnesi vai katru gadu rēķina, jūs varat pārslēgties **periodisks norēķinu** ieslēgšana vai izslēgšana.
+Lai pārvaldītu ikmēneša vai gada rēķinus, varat ieslēgt vai izslēgt **periodiskos norēķinus** .
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Izvēlieties, kuram jūs gribētu pārvaldīt periodisku norēķinu abonēšanas.
+2. Izvēlieties abonementu, kuram vēlaties pārvaldīt periodiskos norēķinus.
 
-3. Sadaļā **norēķinu**, blakus **Renews,** vai **uz Expiring**, atlasiet **Rediģēt**.
+3. Sadaļā **norēķini**blakus **atkārtoti jaunumi** vai **beidzas**, atlasiet **Rediģēt**.
 
-4. **Periodisks norēķinu iestatījumi** rūtī atlasiet **Izslēgt,** lai to izslēgtu. Ja periodisko norēķinu jau ir izslēgta, atlasiet **reizi mēnesī** vai **vienu reizi** , lai to ieslēgtu.
+4. **Periodiskajā norēķinu iestatījumu** rūtī atlasiet **izslēgt** , lai to izslēgtu. Ja periodiskie norēķini jau ir izslēgti, atlasiet **katru mēnesi** vai **vienreiz** , lai to ieslēgtu.
 
-5. Atlasiet **iesniegt mainīt**.
+5. Atlasiet vienumu **iesniegt izmaiņas**.
 
-Lai uzzinātu vairāk, skatiet [izslēgt periodiskus norēķinu vai izslēgtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Papildinformāciju skatiet sadaļā [periodisko rēķinu izslēgšana vai ieslēgšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

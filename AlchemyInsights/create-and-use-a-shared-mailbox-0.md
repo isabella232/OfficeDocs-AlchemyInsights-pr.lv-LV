@@ -1,5 +1,5 @@
 ---
-title: Izveidot un izmantot koplietojamās pastkastes
+title: Koplietojamās pastkastes izveide un lietošana
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515958"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736512"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Izveidot un izmantot koplietojamās pastkastes
+# <a name="create-and-use-a-shared-mailbox"></a>Koplietojamās pastkastes izveide un lietošana
 
-Koplietota pastkaste ļauj vairāk nekā vienam cilvēkam, sūtīt un saņemt e-pasta aizstājvārdu, piemēram, **sales@contoso.com**, nepiešķirot citu licenci.
+Koplietojama pastkaste ļauj vairāk nekā vienai personai sūtīt un saņemt e-pasta aizstājvārdu, piemēram, **Sales@contoso.com**, nepiešķirot citu licenci.
   
-[Koplietojamo pastkastes izveide](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) skaidro kā: 
+[Koplietojamas pastkastes izveide](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) izskaidro, kā: 
   
 - Koplietojamas pastkastes izveide
     
-- Piešķirt lietotājiem atļaujas izmantot koplietojamās pastkastes
+- Piešķiriet lietotājiem atļauju izmantot koplietoto pastkasti
     
-- Piekļūt koplietojuma pastkasti programmā Outlook vai Outlook Web
+- Piekļuve koplietotai pastkastei programmā Outlook vai Outlook Web
     
 

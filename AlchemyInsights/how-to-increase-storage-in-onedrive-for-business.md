@@ -1,6 +1,6 @@
 ---
-title: Kā palielināt krātuves OneDrive biznesa
-ms.author: kirks
+title: Kā palielināt krātuves OneDrive uzņēmumiem
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540728"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755819"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kā palielināt krātuves OneDrive biznesa
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kā palielināt krātuves OneDrive uzņēmumiem
 
-Lai mainītu noklusējuma krātuves jaunajos un esošajos OneDrive lietotājiem:
+Lai mainītu noklusējuma krātuvi jauniem un esošiem OneDrive lietotājiem:
   
-- Dodieties uz [krātuves lapu administrēšanas centrs OneDrive](https://admin.onedrive.com/?v=StorageSettings)un pēc tam ievadiet jaunas summas GB.
+- Dodieties uz [OneDrive administrēšanas centra krātuves lapu](https://admin.onedrive.com/?v=StorageSettings)un pēc tam ievadiet jaunu summu GB.
     
-Šī glabāšanas vietas iestatījums attiecas uz visiem lietotājiem, kuriem nav noteikt īpašus glabāšanas ierobežojumus. Lai mainītu krātuves vieta īpašiem lietotājiem, ir jāizmanto Microsoft PowerShell. Info par to, kā to izdarīt, skatiet [mainīt lietotāju OneDrive krātuves vietu, izmantojot programmu PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
+Šis krātuves vietas iestatījums attiecas uz visiem lietotājiem, kuriem neesat iestatījis noteiktus krātuves ierobežojumus. Lai mainītu krātuves vietu konkrētiem lietotājiem, ir jāizmanto Microsoft PowerShell. Informāciju par to, kā to paveikt, skatiet sadaļā [lietotāju OneDrive krātuves vietas maiņa, izmantojot PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
   
- **Piezīme**: izskatās, ka jums nav plāna, kas ietver neierobežotu uzglabāšanas. Info par uzglabāšanu, kas nāk ar katru plānu, skatiet [OneDrive biznesa pakalpojumu apraksts](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **Piezīme**: izskatās, ka jums nav plānu, kas ietver neierobežotu uzglabāšanu. Lai iegūtu informāciju par katra plāna krātuvi, skatiet sadaļu [OneDrive darbam pakalpojuma apraksts](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Palielināt jūsu krātuves OneDrive uzņēmējdarbībai, izvēlieties Office 365 plānu, kas ietver vai nu **OneDrive biznesa plānu 2** vai **Office 365 Enterprise E3**. 
+Lai palielinātu krātuvi pakalpojumā OneDrive darbam, izvēlieties Office 365 plānu, kas ietver **OneDrive darbam plānu 2** vai **Office 365 Enterprise E3**. 
   
-Mainīt plānus, Microsoft 365 admin Center, dodieties uz **norēķinu** \> **abonementu**, un pēc tam izvēlieties **Pārslēgšanās plānus.**
+Lai mainītu plānus, Microsoft 365 administrēšanas centrā pārejiet uz sadaļu **norēķinu** \> **abonementi**un pēc tam izvēlieties **Pārslēgt plānus.**
   
-Plašāku informāciju par pārslēgšanās plānus un OneDrive biznesa uzglabāšanai, skatiet [pārslēgties uz citu Office 365 biznesa plānam](https://go.microsoft.com/fwlink/?LinkId=2031117) un [OneDrive biznesa pakalpojumu apraksts](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Lai iegūtu papildinformāciju par pārslēgšanas plāni un OneDrive darba krātuve, skatiet [pārslēgties uz citu Office 365 biznesa plānu](https://go.microsoft.com/fwlink/?LinkId=2031117) un [Onedrive darba pakalpojuma apraksts](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 

@@ -1,5 +1,5 @@
 ---
-title: '404 kļūda: Fails nav atrasts'
+title: 'Kļūda 404: fails nav atrasts'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527406"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740220"
 ---
-# <a name="error-404-file-not-found"></a>404 kļūda: Fails nav atrasts
+# <a name="error-404-file-not-found"></a>Kļūda 404: fails nav atrasts
 
-**404 kļūda: fails nav atrasts** saņemts mēģinot lietotājiem piekļūt vietnes vai failu SharePoint vai OneDrive. Tas bieži vien izraisa vietnē vai failu vai grupas kļūst pārdēvēts, pārvietots vai izdzēsts.
-Lietotājiem būs pieejama kļūdu, mēģinot piekļūt vietņu kolekcijas saknes un tā ir izdzēsta.
+**Kļūda 404: fails nav atrasts** tiek saņemts, kad lietotāji mēģina piekļūt vietnei vai failam SharePoint vai OneDrive. To bieži izraisa vietne vai fails vai grupa, kas kļūst pārdēvēta, pārvietota vai izdzēsta.
+Lietotājiem rodas kļūda, mēģinot piekļūt saknes vietņu kolekcijas un tas ir izdzēsts.
 
 Šādi var palīdzēt atrisināt šo problēmu:
-- [Skatīt un atjaunot dzēsuši jaunu SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): mūsdienu vietām (paziņojumu, kas pievienots grupai, vai citās vietās), kas pastāv jauns admin centrs priekšskatījumā.
-- [Vienumu atjaunošana atkritnē SharePoint vietnes](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): atrisināt failu (vai citu elementu), kas ir pārdēvēts, pārvietots vai dzēsts nokļūtu SharePoint vai OneDrive vietas un skatu Atkritne no vietnes saturu.
-- [Meklēt Office 365 drošības audita žurnālā &amp; Center izpildes](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): meklēt audita žurnālā (ja reģistrēšana ir iespējota), ja vēl joprojām nevarat atrast vienumu.
+- [Skatiet un atjaunojiet dzēstās vietnes jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): mūsdienu vietnēs (saziņa, grupas savienojums vai citas vietnes), kas pastāv jaunajā administrēšanas centra priekšskatījumā.
+- [Vienumu atjaunošana SharePoint vietnes atkritnē](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): lai atrisinātu failu (vai citu vienumu), kas ir pārdēvēts, pārvietots vai izdzēsts, dodieties uz SharePoint vai OneDrive vietni un skatiet atkritni no vietnes satura.
+- [Meklējiet audita žurnālu drošības &amp; atbilstības centrā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): meklēšana audita žurnālā (ja reģistrēšana ir iespējota), ja joprojām nevarat atrast vienumu.

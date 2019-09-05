@@ -1,5 +1,5 @@
 ---
-title: 1800018 Add/iestatītu e-pasta kontiem
+title: 1800018 pievienot/iestatīt e-pasta kontus
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494966"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737988"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problēmas, uzstādot Exchange e-pasta kontu programmā Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problēmas, iestatot Exchange e-pasta kontu programmā Outlook
 
-Ja jums rodas problēmas, uzstādot Exchange kontu programmā Outlook, [Outlook kontu iestatījumu rīku](https://aka.ms/SaRA-OutlookSetupProfile) var palaist skarto mašīna. Tā veic dažādas pārbaudes un sniedz konta iestatīšanas problēmu iespējamiem risinājumiem.
+Ja rodas problēmas, iestatot Exchange kontu programmā Outlook, varat palaist [rīku Outlook konta iestatīšana](https://aka.ms/SaRA-OutlookSetupProfile) attiecīgajā datorā. Tā veiks dažādas pārbaudes un sniegs iespējamos risinājumus jūsu konta iestatīšanas problēmai.
   
-Ja joprojām rodas problēmas, skatiet [Outlook nevar izveidot jaunu profilu, izmantojot Exchange noteikšanas pastkasti Exchange Online Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
+Ja joprojām ir problēmas, skatiet [Outlook nevar iestatīt jaunu profilu, izmantojot Exchange automātisko noteikšanu Exchange Online pastkastei Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   

@@ -1,26 +1,26 @@
 ---
-title: Ierobežotu piekļuvi ar Intune
-ms.author: kirks
+title: Ierobežotas piekļuves ar InTune
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520170"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755567"
 ---
 # <a name="conditional-access"></a>Ierobežotas piekļuves
 
-Azure Active Directory iespējas ir ierobežotas piekļuves. Ar ierobežotu piekļuvi, varat īstenot automatizēta piekļuve vadības lēmumus, lai piekļūtu jūsu mākonis progr, kas ir balstīti uz nosacījumu. Lai iegūtu vairāk informācijas, lūdzu apmeklējiet [Configuring Location-Based politiku](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Ierobežotas piekļuves ir iespēja Azure Active Directory. Izmantojot ierobežotu piekļuvi, varat ieviest automatizētus piekļuves vadības lēmumus, lai piekļūtu mākoņa lietotnēm, kuru pamatā ir nosacījumi. Lai iegūtu plašāku informāciju, lūdzu, apmeklējiet [konfigurēt uz atrašanās vietu balstītas politikas](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Kā IT administrators, jūs varat arī kontrolēt piekļuvi SharePoint un OneDrive resursus, balstoties uz noteiktiem tīkla vietās vai ierīcēm uzticaties. Lai iegūtu vairāk informācijas, lūdzu apmeklējiet šīs saites.
+Kā IT administrators varat arī kontrolēt piekļuvi SharePoint un OneDrive resursiem, pamatojoties uz definētajām tīkla vietām vai ierīcēm, kurām uzticaties. Lai iegūtu vairāk informācijas, lūdzu, apmeklējiet saites zemāk.
 
-- [Kontrolējiet piekļuvi SharePoint Online un OneDrive datus, pamatojoties uz tīkla atrašanās vietu](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Piekļuves kontrole SharePoint Online un OneDrive datiem, pamatojoties uz tīkla atrašanās vietu](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [No nepārvaldītiem ierīču piekļuves kontrole](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Piekļuves kontrole no nepārvaldītām ierīcēm](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

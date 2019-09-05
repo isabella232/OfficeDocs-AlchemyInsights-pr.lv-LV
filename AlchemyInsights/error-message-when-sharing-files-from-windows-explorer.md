@@ -1,6 +1,6 @@
 ---
-title: Kļūdas ziņojums, koplietojot failus no Windows Explorer
-ms.author: kirks
+title: Kļūdas ziņojums, koplietojot failus no programmas Windows Explorer
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/19/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527262"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755999"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Kļūdas ziņojums, koplietojot failus no Windows Explorer
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Kļūdas ziņojums, koplietojot failus no programmas Windows Explorer
 
-Mēģinot koplietot no programmas Windows Explorer, varat saņemt šādu kļūdas ziņojumu:
+Mēģinot koplietot programmā Windows Explorer, var saņemt šādu kļūdas ziņojumu:
   
-"Atvainojiet, mēs nevaram sasniegt serveri tiesības tagad. Lūdzu, mēģiniet vēlāk"
+"Atvainojiet, mēs nevaram sasniegt servera tiesības tagad. Lūdzu, vēlāk mēģiniet vēlreiz "
   
-Lai novērstu kļūdu ziņojumu, no Internet Explorer doties uz **Tools** \> **Interneta opcijas** \> noklikšķiniet uz zīmnes **papildu** un pēc tam notīriet izvēles rūtiņu **Nesaglabāt diskā šifrētās lappuses**nosaukumu.
+Lai novērstu kļūdas ziņojumu, programmā Internet Explorer atveriet **Rīki** \> **interneta opcijas** \> noklikšķiniet uz zīmnes **papildu** un pēc tam notīriet izvēles rūtiņu **Nesaglabāt diskā šifrētās lappuses**.
   
- **Piezīme**: iespējams, būs jārestartē pārlūkprogramma, lai tas stātos spēkā. Papildinformāciju skatiet ["Nevar sasniegt serveri šobrīd" kļūdas ziņojums, koplietojot failus](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Piezīme**: lai iestatījums stātos spēkā, iespējams, būs jārestartē pārlūkprogramma. Lai iegūtu papildinformāciju, skatiet ["nevar sasniegt servera tieši tagad" kļūdas ziņojums, koplietojot failus](https://go.microsoft.com/fwlink/?linkid=2022914).
   

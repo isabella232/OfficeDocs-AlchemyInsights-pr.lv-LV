@@ -1,5 +1,5 @@
 ---
-title: Kā atspējot ārējo grupu
+title: Kā atspējot ārējās grupas
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540908"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739500"
 ---
-# <a name="how-to-disable-external-groups"></a>Kā atspējot ārējo grupu
+# <a name="how-to-disable-external-groups"></a>Kā atspējot ārējās grupas
 
-Yammer ārējo ziņojumapmaiņas lieto Exchange transporta kārtulas (ETRs) kopa proaktīvas pārbaudes, lai nepieļautu uzņēmumu informāciju, neļaujot tos koplietot. Lai aizliegtu lietotājiem ārējo grupu veidošanu, jums nepieciešams konfigurēt Exchange pārvadājumu noteikumu (ETR) un pēc tam konfigurējiet Yammer lietot kārtulas Exchange transports, lai bloķētu ārēja ziņojumapmaiņas.
+Yammer ārējā ziņojumapmaiņa attiecas Exchange transporta kārtulas (ETRs), preventīvā kontrole, lai novērstu uzņēmuma informācijas koplietošanas. Lai aizliegtu lietotājiem izveidot ārēju grupu, ir jākonfigurē Exchange transporta kārtulu (ETR) un pēc tam jākonfigurē Yammer izmantot Exchange transporta kārtulu bloķēt ārējo ziņojumapmaiņu.
   
-Kad esat izveidojis kārtulu Exchange Online admin Center, izpildiet šos norādījumus, lai iestatītu ETR Yammer piemērot:
+Kad esat izveidojis kārtulu Exchange Online administrēšanas centrs, veiciet tālāk norādītās darbības, lai iestatītu ETR pieteikties Yammer:
   
-- Pieteikties kā pārbaudīta admin un **Yammer administrēšanas centrs**Yammer, dodieties uz C **saturu un drošības \> drošības iestatījumus.**
+- Piesakieties Yammer kā pārbaudīts admin un **Yammer administrēšanas centrs**, dodieties uz C ** \> satura un drošības drošības iestatījumus.**
 
-- Saskaņā ar **Ārējo ziņojumapmaiņu**, izvēlieties **realizēt jūsu Exchange Online apmaiņa transportēšanas noteikumiem (ETRs) Yammer.**
+- Sadaļā **ārējā ziņojumapmaiņa**atlasiet **ieviest Exchange Online Exchange transporta kārtulas (ETRs) Yammer.**
 
 - Izvēlieties **saglabāt**.
 
-Plašāku informāciju skatiet [kontrole ārējo ziņojumapmaiņas Yammer tīklā ar Exchange pārvadāšanas noteikumiem](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+Lai iegūtu papildinformāciju, skatiet [ārējās ziņojumapmaiņas atspējošana Yammer tīklā](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   
