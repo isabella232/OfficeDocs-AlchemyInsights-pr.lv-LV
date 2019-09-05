@@ -1,5 +1,5 @@
 ---
-title: Saglabāt jūsu mājas lapā ar savu pašreizējo hostinga sniedzēja DNS ieraksti tiks atjaunināti
+title: Atjauniniet DNS ierakstus, lai uzturētu jūsu vietni ar pašreizējo viesošanas pakalpojumu sniedzēju
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 7ca04d81dd4ca2e094b5ac14a2949ffa3a88e987
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532914"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742272"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="0107f-102">Saglabāt jūsu mājas lapā ar savu pašreizējo hostinga sniedzēja DNS ieraksti tiks atjaunināti</span><span class="sxs-lookup"><span data-stu-id="0107f-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="031d8-102">Atjauniniet DNS ierakstus, lai uzturētu jūsu vietni ar pašreizējo viesošanas pakalpojumu sniedzēju</span><span class="sxs-lookup"><span data-stu-id="031d8-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-<span data-ttu-id="0107f-103">Kā daļa no procesa, kas pārvietojas Office 365 publiskas vietnes uz citu hostinga pakalpojumu sniedzējs, jums iespējams vajadzēs veikt izmaiņas domēna ierakstos.</span><span class="sxs-lookup"><span data-stu-id="0107f-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
+<span data-ttu-id="031d8-103">Kā daļu no procesa pārvietojas jūsu Office 365 sabiedrības mājas lapā, lai citu hostinga pakalpojumu sniedzējs, jūs, iespējams, vajadzēs veikt izmaiņas jūsu domēna ierakstus.</span><span class="sxs-lookup"><span data-stu-id="031d8-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
   
-1. <span data-ttu-id="0107f-104">Admin Center, dodieties uz **Setup** \> **Domēni** un izvēlēties domēna nosaukumu, kuru vēlaties mainīt.</span><span class="sxs-lookup"><span data-stu-id="0107f-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
+1. <span data-ttu-id="031d8-104">Administrēšanas centrā dodieties uz **iestatījumu** \> **Domēni** un izvēlieties domēna nosaukumu, kuru vēlaties mainīt.</span><span class="sxs-lookup"><span data-stu-id="031d8-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
 
-2. <span data-ttu-id="0107f-105">Ievadiet informāciju, kas izlīdzina uz jūsu vietni ar savu jaunu hostinga pakalpojumu sniedzējs.</span><span class="sxs-lookup"><span data-stu-id="0107f-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
+2. <span data-ttu-id="031d8-105">Ievadiet informāciju, kas tiek pieskaņināta jūsu tīmekļa vietnei ar jauno viesošanas pakalpojumu sniedzēju.</span><span class="sxs-lookup"><span data-stu-id="031d8-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
 
-<span data-ttu-id="0107f-106">Lai iegūtu papildinformāciju, skatiet [atjauninājumu DNS ierakstus saglabāt savu mājas lapu ar jūsu pašreizējais hostinga sniedzējs](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span><span class="sxs-lookup"><span data-stu-id="0107f-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).</span></span>
+<span data-ttu-id="031d8-106">Lai uzzinātu vairāk, skatiet sadaļu [DNS ierakstu atjaunināšana, lai jūsu vietne būtu ar pašreizējo viesošanas pakalpojumu sniedzēju](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="031d8-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span></span>
   
-<span data-ttu-id="0107f-107">Lai uzzinātu vairāk par sabiedrisko vietu pārtraukšanas, skatiet [SharePoint Online publiskās tīmekļa vietnes, lai būtu jāpārtrauc](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="0107f-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+<span data-ttu-id="031d8-107">Lai iegūtu papildinformāciju par publiskās vietnes pārtraukšanu, skatiet [SharePoint Online publiskās vietnes jāpārtrauc](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span><span class="sxs-lookup"><span data-stu-id="031d8-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>
