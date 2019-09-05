@@ -1,6 +1,6 @@
 ---
-title: SharePoint un OneDrive kļūdām sadali OSE
-ms.author: kirks
+title: OSE koplietošanas kļūdas pakalpojumā SharePoint un OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543140"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752975"
 ---
-# <a name="ose-sharing-errors"></a>Sadali OSE kļūdas
+# <a name="ose-sharing-errors"></a>OSE koplietošanas kļūdas
 
-Pants attiecas uz dažādām kļūdām, kas var rasties koplietojot failus vai mapes no SharePoint Online vai OneDrive biznesa biroja 365. Jums ir globāla vai SharePoint administrēšanas jūsu organizācijai iespēju labot šīs kļūdas. Ja neesat administrators, sazinieties ar palīdzības dienestu un dot viņiem kļūdas kods.
+Rakstā ir ietvertas dažādas kļūdas, kas var rasties, koplietojot failus vai mapes no SharePoint Online vai OneDrive uzņēmumiem Office 365. Lai labotu šīs kļūdas, organizācijā ir jābūt globālam vai SharePoint administratoram. Ja neesat administrators, sazinieties ar savu palīdzības dienestu un piešķiriet tiem kļūdas kodu.
 
-Plašāku informāciju par kļūdu kodiem OSE, redz [kļūdas koplietošana SharePoint un OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Lai iegūtu papildinformāciju par OSE kļūdu kodiem, skatiet [koplietošanas kļūdas pakalpojumā SharePoint un OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

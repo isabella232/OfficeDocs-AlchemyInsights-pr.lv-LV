@@ -1,6 +1,6 @@
 ---
-title: Outlook.com iestatījumus
-ms.author: kirks
+title: Outlook.com iestatījumi
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535398"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752903"
 ---
-# <a name="settings-in-outlookcom"></a>Outlook.com iestatījumus
+# <a name="settings-in-outlookcom"></a>Iestatījumi programmā Outlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ja saņēmējs ir iekšējs vai ārējs uzņēmumā un ja tās izmanto Office 365 vai Outlook.com e-pasta kontu, šādiem klientiem nevajadzētu darīt kaut ko īpašu, lai atvērtu ziņu: <strong>Outlook 2016, Outlook Web / Outlook Web App,</strong> <strong>Outlook mobilo app</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Delegāti</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">lietotāju, ka aizsargātu e-pasts tika nosūtīts, nevar atvērt aizsargātas ziņas. Tikai sākotnējo adresātu (persona, kas sargās e-pasts tika nosūtīts uz), var apskatīt informāciju e-pasta ziņojumā.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ja saņēmējs ir par dažādiem interneta pakalpojumu sniedzēja, un tie ir&nbsp;nevar atvērt ziņojumu un redzēt &lsquo;rpmsg&rsquo; pielikums, lūdzu padomu, izpildiet tālāk minētos norādījumus:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">izvēlieties <strong style="mso-bidi-font-weight: normal;">lasīt</strong> ziņojumā.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Tie novirzīti uz lapu, kur viņi būtu izvēlēties &lsquo; <strong style="mso-bidi-font-weight: normal;">pierakstīties ar vienreizēju piekļuves kodu</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Vienreizējas lietošanas patentatslēga tiek nosūtīts uz to pašu e-pasta adresi. Sekojošo kodu ievadiet pārlūkprogrammas logu un pēc tam atlasiet <strong style="mso-bidi-font-weight: normal;">turpināt</strong> , lai lasītu ziņu.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ja nevarat šifrētus ziņojumus no citas Office 365 organizācijas, izpildiet rezolūcija norādīts šajā <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">pantā</span></a> .</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ja adresāta pastkastes ir <strong>Yahoo vai Gmail </strong> <span style="mso-bidi-font-weight: bold;">Lūdzu, izpildiet norādījumus,</span> atrada šo <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">rakstu</span></a>.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Aizsardzības politika attiecas tikai uz <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">zināma failu formātus</span></a>. PDF un OneDrive biznesa pielikums nav piemērota šifrēšanas.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Kopējās pastkastes</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">nevar atvērt šifrētos ziņojumus šobrīd caur jebkuru klientu.</span></li> </ul>
+Ja adresāts ir iekšēja vai ārēja jūsu organizācijai un ja viņi izmanto Office 365 vai Outlook.com e-pasta kontu, šādiem klientiem nav jādara nekas īpašs, lai atvērtu ziņojumu: **outlook 2016, Outlook Web/Outlook Web App, Outlook mobilā lietojumprogramma**
+
+Lietotāju **pārstāvjus** , kas aizsargāta e-pasta tika nosūtīts, nevar atvērt aizsargāto ziņojumu. E-pastā var skatīt tikai sākotnējos adresātus (personu, uz kuru tika nosūtīts aizsargātais e-pasts).
+
+- Ja adresāts atrodas citā interneta pakalpojumu sniedzēja serverī un viņi&nbsp;nevar atvērt ziņojumu un skatīt pielikumu "rpmsg", izpildiet tālāk sniegtos norādījumus.
+    - Atlasiet vienumu **lasīt** ziņojumu.
+    - Tie tiek novirzīti uz lapu, kurā ir jāizvēlas **pierakstīties, izmantojot vienu laika patentatslēgu**.
+    - Vienreizējas lietošanas patentatslēga tiek nosūtīta uz to pašu e-pasta adresi. Pārlūkprogrammas logā ievadiet kodu un pēc tam atlasiet **turpināt** , lai lasītu ziņojumu.
+- Ja nevarat šifrētu ziņojumu no citas Office 365 organizācijā, izpildiet šajā [rakstā](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)aprakstītās darbības.
+- Ja adresāta pastkaste ir **Yahoo vai Gmail**, lūdzu, sekojiet instrukcijām</span> , kas atrodamas šajā [rakstā](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+- Aizsardzības politikas attiecas tikai uz [zināmiem failu formātiem](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). PDF un OneDrive darbam pielikums netiek atbalstīti šifrēšanai.
+- Koplietotās pastkastes **nevar atvērt šifrētu ziņojumu pašlaik caur jebkuru klientu**. 

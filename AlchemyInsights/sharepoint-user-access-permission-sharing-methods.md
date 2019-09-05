@@ -1,6 +1,6 @@
 ---
-title: Ļauj lietotājiem piekļūt SharePoint un OneDrive
-ms.author: kirks
+title: Piešķirt lietotājiem piekļuvi SharePoint un OneDrive
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8d487ba57a63beb1910fe78652a7d83b0a2dba36
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695a179f60f73b21b2491256b8491c6c94d4bd1e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502585"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749735"
 ---
-# <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Koplietošana un atļauju metodes sniedz vai ierobežot lietotāju piekļuvi SharePoint vietnē
+# <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Koplietošanas un atļauju metodes, lai nodrošinātu vai ierobežotu lietotāju piekļuvi SharePoint vietnei
 
-Pēc tam, kad esat izveidojis SharePoint vietnē, jūs varat sniegt vai ierobežot lietotāju piekļuvi vietnes vai to saturu. To var izdarīt, izmantojot dažādas koplietošanas un atļauju metodes norādīts zemāk.
+Pēc SharePoint vietnes izveidošanas, iespējams, vēlēsities nodrošināt vai ierobežot lietotāju piekļuvi vietnei vai tās saturam. To var izdarīt, izmantojot dažādas sadales un atļauju metodes, kas norādītas zemāk.
 
-- [Koplietotu SharePoint faili vai mapes](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Koplietot SharePoint failus vai mapes](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Koplietot vietnes](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+- [Vietnes kopīgošana](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
 
-- [Mainīt noklusējuma saites tips, kad lietotājiem saņemt saites uz koplietošanas](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [Mainīt noklusējuma saites tipu, kad lietotāji saņem saites koplietošanai](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
 
-- [OneDrive vai SharePoint failu vai mapju koplietošanas pārtraukšana vai mainīt atļaujas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Kā pārtraukt OneDrive vai SharePoint failu vai mapju koplietošanu vai mainīt atļaujas](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Šana un atļaujas](https://support.office.com/article/Sharing-and-permissions-ac85fbf1-2431-49bf-8690-f1a2b98af65f#ID0EAABAAA=Manage_permissions)
+- [Koplietošana un atļaujas](https://support.office.com/article/Sharing-and-permissions-ac85fbf1-2431-49bf-8690-f1a2b98af65f#ID0EAABAAA=Manage_permissions)
 
-- [Savukārt ārējās koplietošanas ieslēgšana vai izslēgšana Sharepoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ārējās koplietošanas ieslēgšana un izslēgšana SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Sharepoint un OneDrive kļūdām sadali OSE](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE koplietošanas kļūdas pakalpojumā SharePoint un OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

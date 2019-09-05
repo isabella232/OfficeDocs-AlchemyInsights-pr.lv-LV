@@ -1,5 +1,5 @@
 ---
-title: Ieteikumus risināšanai "Nelicencētu produkts" kļūdas
+title: Ieteikumi "licencēta produkta" risināšanas kļūdu risināšanai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501050"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743280"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Ieteikumus risināšanai "Nelicencētu ražojumu" kļūdas
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Ieteikumi "licencēta produkta" problēmu risināšanai
 
-Pārliecinieties, ka jums ir nepieciešams abonements, kas nodrošina klienta licences, Office 365 biznesa vai Business Premium un [nodrošina lietotājam ir piešķirta licence](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deaktivizēt instalēt](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) , lai pārbaudītu, ja ir pārsniegts instalē jūsu abonements nodrošina numura.
+Pārliecinieties, vai jums ir abonements, kas atļauj klienta licences, piemēram, Office 365 Business vai Business Premium, un [pārliecinieties, vai lietotājam ir piešķirta licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deaktivizējiet instalāciju](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , lai pārbaudītu, vai esat pārsniedzis abonementa atbalstīto instalāciju skaitu.
   
-Nodrošina lietotājam ir pierakstīties ar vienu un to pašu kontu, kuram ir piešķirta licence.
+Pārliecinieties, vai lietotājs ir pierakstīšanās ar to pašu kontu, kuram ir piešķirta licence.
   
-Palaistu [aktivizācijas problēmu risinātāju](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Palaidiet [aktivizācijas problēmu risinātāju](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Pārbaudīt, ja jūsu abonementa statuss ir beidzies
+Pārbaudiet, vai abonementa statuss ir beidzies
   
-Pārbaudīt [Office 365 servisa veselības lapu](https://docs.microsoft.com/office365/enterprise/view-service-health) , lai redzētu, vai pastāv zināmas problēmas ar pakalpojumu.
+Pārbaudiet [Office 365 pakalpojuma darbspējas lapu](https://docs.microsoft.com/office365/enterprise/view-service-health) , lai redzētu, vai pastāv zināmas problēmas ar pakalpojumu.
   
-[Veikt tiešsaistē remontu dienesta](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Veikt Office tiešsaistes labošanu](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Papildu problēmu novēršanas risinājumi, sk.: [nelicencētu ražojumu un Office aktivizācijas kļūdu](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Papildu problēmu novēršanas risinājumus skatiet šeit: [nelicencēta produkta un Office aktivizācijas kļūdas](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

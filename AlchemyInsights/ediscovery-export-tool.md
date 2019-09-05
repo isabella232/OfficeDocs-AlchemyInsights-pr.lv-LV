@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528270"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736332"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nevar instalēt vai palaist eDiscovery eksportēšanas rīks?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nevar instalēt vai palaist eDiscovery eksportēšanas rīku?
 
-Ja jūs nevarat instalēt vai palaist Office 365 eDiscovery eksportēšanas rīks, lai lejupielādētu meklēšanas rezultātus, pārbaudiet šādas lietas:
+Ja nevarat instalēt vai palaist Office 365 eDiscovery eksportēšanas rīku, lai lejupielādētu meklēšanas rezultātus, pārbaudiet tālāk norādītās darbības.
   
-- Datoru, ko lietojat, atbilst šie priekšnosacījumi:
+- Dators, kuru izmantojat, atbilst šiem priekšnosacījumiem:
 
-  - 32 vai 64 bitu versijas Windows 7 un jaunākām versijām
+  - 32-vai 64 bitu versijas Windows 7 un jaunākas versijas
 
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
 
-  - Atbalstītās pārlūkprogrammas:
+  - Atbalstīta pārlūkprogramma:
 
-  - Microsoft malas
+  - Microsoft EDGE
 
     Vai
 
   - Internet Explorer 10 un jaunākas versijas
 
-    Citas pārlūkprogrammas, piemēram, Google Chrome un Mozilla Firefox netiek atbalstītas.
+    Citas pārlūkprogrammas, piemēram, Google Chrome un Mozilla Firefox, netiek atbalstītas.
 
-- Jūsu organizācija var savienot uz galapunktu Azure, kas ir ** \*. blob.core.windows.net** (aizstājējzīmes apzīmē izvešanas darbu unikālu identifikatoru).
+- Jūsu organizācija var izveidot savienojumu ar galapunktu pakalpojumā Azure, kas ir ** \*. BLOB.Core.Windows.NET** (aizstājējzīme atbilst jūsu eksportēšanas darba unikālajam identifikatoram).
 
-- Jums piešķirtā eksporta lomu drošības biroja 365 &amp; atbilstības centrā. Pēc noklusējuma, šī loma tiek piešķirta tikai eDiscovery Manager lomu grupai. Sk. [eDiscovery atļauju piešķiršanu](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Jums ir piešķirta eksporta loma Office 365 drošības &amp; atbilstības centrā. Pēc noklusējuma šī loma tiek piešķirta tikai eDiscovery Manager lomu grupai. Skatiet sadaļu [eDiscovery atļauju piešķiršana](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Papildinformāciju skatiet sadaļā [Eksportēt saturu meklēšanas rezultātiem](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Papildinformāciju skatiet sadaļā [satura meklēšanas rezultātu eksportēšana](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

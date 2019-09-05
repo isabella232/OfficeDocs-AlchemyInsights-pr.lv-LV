@@ -1,6 +1,6 @@
 ---
-title: Koplietošanas vides SharePoint vietņu kolekcijas dzēšanai
-ms.author: kirks
+title: Vietņu kolekcijas dzēšana programmā SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513114"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748187"
 ---
-# <a name="delete-a-site-collection"></a>Vietņu kolekcijas dzēšanai
+# <a name="delete-a-site-collection"></a>Vietņu kolekcijas dzēšana
 
-Kad jūs kā globāla vai SharePoint Office 365 admin izdzēst vietni (agrāk saukta "vietņu kolekciju"), tā ir pārvietota uz vietņu kolekcijas atkritni un saglabāja 93 dienas. 
+Ja jūs kā globālo vai SharePoint administrēšanas Office 365 dzēst vietni (iepriekš saukta par "vietņu kolekcijas"), tas tiek pārvietots uz vietņu kolekcijas atkritnes un saglabāta 93 dienas. 
 
-Dzēšot vietni, viss tajā tiek izdzēsta, tajā skaitā:
+Dzēšot vietni, tajā viss tiek dzēsts, tostarp:
 
-- Dokumentu bibliotēkām un failus.
-- Saraksti un saraksta dati.
-- Vietnes iestatījumus un vēsturi.
-- Visas apakšvietnes un to saturu.
+- Dokumentu bibliotēkās un failos.
+- Sarakstiem un sarakstu datiem.
+- Vietnes iestatījumi un vēsture.
+- Apakšvietnēm un to saturu.
 
-Vietnes administratori un jebkurā apakšvietnē īpašniekiem būtu jāinformē, pirms vietnes dzēšanas, tāpēc tās var pārvietot savus datus uz citu atrašanās vietu, un arī informētu lietotājus, kad vietām tiks dzēsti. 
+Pirms vietnes dzēšanas jums jāpaziņo vietnes administratoriem un apakšvietņu īpašniekiem, lai viņi varētu pārvietot savus datus uz citu atrašanās vietu, kā arī pastāstīt lietotājiem, kad vietnes tiks dzēstas. 
 
-Papildinformāciju skatiet [vietņu kolekcijas dzēšanai](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Papildinformāciju skatiet sadaļā [vietņu kolekcijas dzēšana](https://docs.microsoft.com/sharepoint/delete-site-collection). 

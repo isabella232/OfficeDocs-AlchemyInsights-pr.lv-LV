@@ -1,6 +1,6 @@
 ---
-title: Migrēt uz telpām uz SharePoint tiešsaistē
-ms.author: kirks
+title: Migrēt lokālas SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
-ms.openlocfilehash: 07b35405b6078f4940b87bd0d1c576164a478bad
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a063184a4662bc311c91b50a62456f40728b854d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544555"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754055"
 ---
-# <a name="migrate-on-premises-to-sharepoint-online"></a>Migrēt uz telpām uz SharePoint tiešsaistē
+# <a name="migrate-on-premises-to-sharepoint-online"></a>Migrēt lokālas SharePoint Online
 
-Migrēt no lokālā SharePoint fermu SharePoint tiešsaistē, varat izmantot SharePoint migrācijas rīku. Lai iegūtu papildinformāciju par rīku, skatiet [migrēšana uz SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)
+Migrēt no lokālā SharePoint fermas SharePoint Online, varat izmantot SharePoint migrācijas rīku. Lai iegūtu papildinformāciju par šo rīku, skatiet [migrēt uz SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)
   
 

@@ -1,6 +1,6 @@
 ---
-title: Pamati darbam ar SharePoint Online
-ms.author: kirks
+title: Darba sākšana ar SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504002"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751679"
 ---
-# <a name="workflows-in-sharepoint"></a>Darbplūsmas, koplietošanas vidē SharePoint
+# <a name="workflows-in-sharepoint"></a>Darbplūsmas SharePoint
 
-Ja SharePoint darbplūsmas nesūta e-pastu, jūsu organizācija ir konstatējis Exchange Online sūtītāja robežas.
+Ja SharePoint darbplūsmas nesūta e-pasta ziņojumus, jūsu uzņēmums var būt saskāries ar Exchange Online sūtītāja ierobežojumus.
 
-"Darba plūsma tiks pārtraukta" kļūdas ziņojums var rasties, ja esat viens no šiem vienumiem:
+"Darbplūsma ir apturēta" kļūdas ziņojums var rasties, ja jums ir kāds no šiem vienumiem:
 
-- Darbplūsma ir SharePoint Online, kas izmanto SharePoint 2010 vai SharePoint 2013 darbplūsmas platformas tipa.
+- Jums ir darbplūsma SharePoint Online, kas izmanto SharePoint 2010 vai SharePoint 2013 darbplūsmas platformas tips.
 
-- Darbplūsma ir konfigurēta, lai nosūtītu pielāgotus e-pasta ziņu vairāk nekā 200 lietotājiem laikā, vairāk nekā 10000 adresāti dienā vai vairāk nekā 30 ziņojumi minūtē.
+- Darbplūsma ir konfigurēta, lai nosūtītu pielāgotu e-pasta ziņojumu vairāk nekā 200 lietotājiem laikā, vairāk nekā 10 000 adresāti dienā vai vairāk nekā 30 ziņojumi minūtē.
 
-Kad tiek palaista darbplūsma, e-pasta ziņa nav nosūtīta un pamanāt kļūdas ziņojumu, iekšējais statuss ir iestatīts uz ir parādīts atliktās vai nevar nosūtīt adresātam.
+Palaižot darbplūsmu, e-pasta ziņojums netiek nosūtīts un pamanāt kļūdas ziņojumu, iekšējais statuss ir iestatīts uz apturēta vai nevar nosūtīt adresātam tiek parādīts.
 
-Lai iegūtu papildinformāciju, skatiet šādu [pantu](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Lai iegūtu papildinformāciju, lūdzu, skatiet šo [rakstu](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

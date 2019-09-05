@@ -1,5 +1,5 @@
 ---
-title: 1800014, kas izveidota e-pastu programmā Outlook mobilo app
+title: 1800014 e-pasta iestatīšana Outlook mobilajā lietotnē
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509187"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734172"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Iestatiet e-pasta programmā Outlook mobilo app
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>E-pasta iestatīšana Outlook mobilajā lietotnē
 
-1. Atlasiet **Sākt darbu** , ja tas ir jūsu pirmā laika izveidot mobilo app e-pastu. Pretējā gadījumā, pieskarieties **izvēlnei** un pieskarieties **Iestatījumi** \> **Pievienot kontu** \> **Pievienot e-pasta kontu**.
+1. Atlasiet darba **sākšana** , ja tā ir pirmā reize, kad iestatāt e-pasta ziņojumu mobilajā lietotnē. Pretējā gadījumā pieskarieties vienumam **izvēlne** un pēc tam pieskarieties vienumam **Iestatījumi** \> **pievienot konta** \> **pievienošanas e-pasta kontu**.
 
-2. Ievadiet pilnu e-pasta adresi un pieskarieties **turpināt** vai **Pievienot kontu**.
+2. Ievadiet pilnu e-pasta adresi un pieskarieties **Continue** vai **Add Account**.
 
-3. Ievadiet savu e-pasta konta paroli un pieskarieties **Pierakstīties** vai **Tālāk**.
+3. Ievadiet e-pasta konta paroli un pieskarieties vienumam **Pierakstīties** vai **Tālāk**.
 
-4. Ja ir iespējots [vairāku faktoru autentifikaciju](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , pārbaudiet, vai izmantojot metodi, kas jāiestata (6 ciparu kodu, tālruņa zvanu vai Microsoft Authenticator app).
+4. Ja ir iespējota [vairāku faktoru autentifikācija](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , pārbaudiet, izmantojot iestatīšanas metodi (6 ciparu kods, tālruņa zvans vai programma Microsoft Authenticator).
 
-5. Ja papildu IT admin politika ir vietā, pieskarieties, lai tos varētu **Aktivizēt** .
+5. Ja ir pieejamas papildu IT administrēšanas politikas, pieskarieties vienumam **Aktivizēt** , lai tos iespējotu.
 
-6. Programmu Outlook var pieprasīt atļauju piekļūt jūsu kalendāru, kontaktpersonas un citu informāciju. Atlasiet **Jā** , vai **Atļaut**.
+6. Programma Outlook var pieprasīt atļauju piekļūt jūsu kalendāram, kontaktpersonām un citai informācijai. Atlasiet **Jā** vai **Atļaut**.
 
-Saņemtu detalizētas instrukcijas par [Android programmas Outlook](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vai [Outlook iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) iestatīšana.
+Iegūstiet detalizētas iestatīšanas instrukcijas [Outlook Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vai [Outlook iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) šeit.
   
- **Vajadzīga palīdzība?**
+ **Vai nepieciešama palīdzība?**
   
-- [Problēmu novēršana darbā ar e-pasta iestatīšana mobilajā telefonā](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [E-pasta iestatījumu problēmu novēršana mobilajās ierīcēs](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Palīdzība-app par perspektīvu iOS un Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Iegūstiet programmas palīdzību saistībā ar Outlook iOS un Android ierīcēm](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

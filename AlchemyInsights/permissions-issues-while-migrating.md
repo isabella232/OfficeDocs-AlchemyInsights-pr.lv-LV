@@ -1,6 +1,6 @@
 ---
-title: Atļaujas jautājumi, kamēr notika migrācija
-ms.author: kirks
+title: Atļauju problēmas, migrējot
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554903"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752615"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Lietotāja profilu un foto sinhronizācija
+# <a name="user-profile-and-photo-synchronization"></a>Lietotāja profils un fotoattēlu sinhronizācija
 
- **Sinhronizācijas profila foto** - lietotāji var pamanīt savu profilu foto nenotiek sinhronizēšana ar SharePoint. Vai, iespējams, viņi mēģināja atjaunināt savu profilu foto un fotoattēls joprojām parādās kā veco foto. Lai nodrošinātu profila foto rāda, kā gaidīts, lietotājs būs uzsākt foto sinhronizācijas. 
+ **Profila fotoattēlu sinhronizācija** -lietotāji var pamanīt, ka viņu profila fotoattēls netiek sinhronizētas ar SharePoint. Vai arī viņi, iespējams, ir mēģinājuši atjaunināt savu profila fotoattēlu, un fotoattēls joprojām tiek rādīts kā vecais fotoattēls. Lai nodrošinātu, ka profila fotoattēls tiek rādīts, kā paredzēts, lietotājam ir jāuzsāk fotoattēlu sinhronizācija. 
   
-Plašāku informāciju par foto sinhronizāciju skatiet [informāciju par profila attēla sinhronizācijas Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Lai iegūtu papildinformāciju par fotoattēlu sinhronizēšanas procesu, skatiet [informāciju par profila attēlu sinhronizēšana Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profilu sinhronizācijas** - laiks, kas ir nepieciešams, lai pabeigtu profilu sinhronizācija ir atkarīgs no skaita izmaiņas (darbs) reklāmu importēšanas darbs ir procesā. Ja ir daudz izmaiņu, taimera darbs ir daudz jāstrādā un tas prasīs ilgāku veiktās izmaiņas tiktu atspoguļotas pieteikuma lietotāja profilu. Ja taimera darbs ir jāpaveic darbs... maza apjoma, izmaiņas tiks atspoguļotas lietotāja profila programmu daudz ātrāk. 
+- **Profila sinhronizācija** — laiks, kas nepieciešams, lai pabeigtu profila sinhronizāciju, ir atkarīgs no tā, cik izmaiņu (darba) ir jāapstrādā reklāmu importēšanas darbam. Ja ir daudz izmaiņu, taimera darbs ir daudz darba, un tas būs nepieciešams ilgāks laiks, lai izmaiņas, kas atspoguļojas lietotāja profila lietojumprogrammā. Ja taimera darbam ir mazs darba apjoms, izmaiņas tiks atspoguļotas lietotāja profila lietojumprogrammā daudz ātrāk. 
   
-Plašāku informāciju par profila sinhronizācijas procesu skatiet [informāciju par lietotāja profilu sinhronizāciju ar SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Lai iegūtu papildinformāciju par profila sinhronizēšana procesu, skatiet [informāciju par lietotāja profila sinhronizācija SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Atjauninājums Office rakņāties profils** - ieplaka lietotāji var pārvaldīt savus Office 365 profilu. Lai iegūtu papildinformāciju, skatiet [skata un atjaunināt savu profilu programmā Office rakņāties](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Atjaunināt profilu Office Delve** -Delve lietotāji var pārvaldīt savu Office 365 profilu. Papildinformāciju skatiet sadaļā [profila skatīšana un atjaunināšana programmā Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

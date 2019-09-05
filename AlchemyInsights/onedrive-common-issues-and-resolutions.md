@@ -1,5 +1,5 @@
 ---
-title: OneDrive bieži sastopamām problēmām, kā _ arī izšķirtspēju
+title: OneDrive bieži sastopamās problēmas un risinājumi
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,20 +11,20 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: ffd92db8c2ff810e1cc12dae3cf9a5cb559a8f9d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1aaac66a914b159dad64cce0950e46b04bf4685a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660871"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734280"
 ---
-# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive bieži sastopamām problēmām, kā _ arī izšķirtspēju
+# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive bieži sastopamās problēmas un risinājumi
 
-Šeit ir dažas biežāk pieprasītās tēmas par OneDrive jautājumiem:
+Tālāk ir norādītas dažas bieži pieprasītās tēmas par OneDrive problēmām.
 
-- **Setup OneDrive Sync**: [Sync jūsu OneDrive par uzņēmuma failiem](https://go.microsoft.com/fwlink/?linkid=533375) vai [SharePoint failu sinhronizēšana](https://go.microsoft.com/fwlink/?linkid=871666) ar Windows klientu OneDrive sinhronizācijas.  Izmantojot Mac? Var [sinhronizēt failus ar OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) ar to kā labi.
+- **Onedrive sinhronizācijas iestatīšana**: [sinhronizējiet onedrive darba failu](https://go.microsoft.com/fwlink/?linkid=533375) vai [sinhronizēt SharePoint failus](https://go.microsoft.com/fwlink/?linkid=871666) ar OneDrive sinhronizācijas klienta Windows.  Izmantojot Mac? Varat [sinhronizēt arī failus, izmantojot OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) .
 
-- **OneDrive sinhronizācijas problēmu novēršana**: ja OneDrive nav sinhronizē failus kā nākas, varat [OneDrive sinhronizācijas problēmu novēršana](https://go.microsoft.com/fwlink/?linkid=866431) Windows. Izmantojot Mac? Varat [novērst sinhronizēšanas problēmas](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&rs=en-US&ad=US) it kā labi.
-- **OneDrive ierobežojumi**: uzzināt par [ierobežojumi un ierobežojumi,](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) kas attiecas uz failu nosaukumi un failu tipus, kad sinhronizēšana ar OneDrive.
-- **OneDrive glabāšanas**: skatiet kā [mainīt konkrētu lietotāju OneDrive uzglabāšanas vietas](https://docs.microsoft.com/onedrive/change-user-storage) vai [pārvaldīt savu biznesu glabāšanai OneDrive](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **Audita žurnāli**: redzēt, kā jūs varat [izmantot audita žurnālu meklēšanu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) , lai pārbaudītu failu (s) /mapi (es), lietotāju (-s) vai atļaujas darbībai. 
+- **Problēmu novēršana saistībā ar Onedrive sinhronizāciju**: ja OneDrive nav sinhronizē failus, kā jūs sagaidāt, varat [novērst Onedrive sinhronizācijas problēmas](https://go.microsoft.com/fwlink/?linkid=866431) Windows. Izmantojot Mac? Varat arī [novērst sinhronizācijas problēmas](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) .
+- **Onedrive ierobežojumi**: Uzziniet par [ierobežojumiem un ierobežojumiem](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , kas attiecas uz failu nosaukumiem un failu tipiem, sinhronizējot ar OneDrive.
+- **Onedrive krātuve**: skatiet, kā [mainīt konkrēta lietotāja onedrive krātuves vietu](https://docs.microsoft.com/onedrive/change-user-storage) vai [pārvaldīt onedrive darbam krātuvi](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
+- **Audita žurnāli**: skatiet, kā varat [izmantot audita žurnāla meklēšanu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) , lai pārbaudītu faila (-u), mapes (u), lietotāja (u) darbību vai atļaujas. 

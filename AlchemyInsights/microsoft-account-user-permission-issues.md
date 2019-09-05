@@ -1,6 +1,6 @@
 ---
-title: Novērst problēmu - lietotājs nav atrodams directory
-ms.author: kirks
+title: Novērst problēmu-lietotājs nav atrasts direktorijā
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544870"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754199"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Novērst problēmu - lietotājs nav atrodams directory
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Novērst problēmu-lietotājs nav atrasts direktorijā
 
-Ja lietotāji saņem kļūdas ziņojumu "nevar atrast lietotāju" direktorijā. Lūdzu, mēģiniet vēlreiz kur jautājuma tipu nav lietotāja direktorijā.
+Ja lietotāji saņem kļūdas ziņojumu "lietotājs nevar atrast" direktorijā. Lūdzu, mēģiniet vēlreiz, ja problēmas tips ir lietotājs nav direktorijā.
 
-Šādas darbības var pabeigt risināt problēmu.
+Šīs darbības var izpildīt, lai novērstu šo problēmu.
 
-- Nodrošina to pašu kontu, kas tiek izmantots, lai pieteiktos vēlāk konta e-pasta uzaicinājumu pieņēma. Pārliecinieties, vai lietotājs izmanto vienu un to pašu kontu uzaicināt pieņemt un pierakstīties vietnē. 
+- Pārliecinieties, vai konts, kas akceptējis e-pasta uzaicinājumu, ir tas pats konts, kas tiek izmantots, lai pierakstītos vēlāk. Pārliecinieties, vai lietotājs izmanto to pašu kontu, lai akceptētu uzaicinājumu un pierakstītos vietnē. 
 
-Lai iegūtu vairāk informācijas, skatīt [kā pārvaldīt jūsu Microsoft kontu aizstājvārdi</a> pārvaldīt Office 365 pieteikšanās](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Papildinformāciju skatiet rakstā [kā pārvaldīt Microsoft konta</a> aizstājvārdus, lai pārvaldītu Office 365 pieteikšanos](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Atrodiet katru vieta (-as), kurā lietotājs saņem kļūdas. 
+- Atrodiet katru vietu (-as), kurā lietotājs saņem kļūdu. 
 
-Pievienot "/ _layouts/15/people.aspx/membershipgroupid=0" (pēc dubultās pēdiņas) vietnes URL beigās. 
+Pievienot "/_ layouts/15/People.aspx/membershipgroupid = 0" (dubultā pēdiņas) beigās vietnes vietrādi URL. 
 
-Piemērs: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Piemērs: https://< "contoso">. SharePoint. com/_layouts/15/People. aspx/membershipGroupId = 0.
 
 - Sarakstā atlasiet lietotāju.
 
-- Noklikšķiniet uz **Noņemt lietotāju atļaujas** no lentes. 
--  Pievienot atpakaļ lietotājam un atkārtoti uzaicināt lietotāju.
+- Lentē noklikšķiniet uz **Noņemt lietotāja atļaujas** . 
+-  Pievienojiet lietotāju atpakaļ un atkārtoti nosūtiet uzaicinājumu lietotājam.
 

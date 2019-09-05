@@ -1,30 +1,30 @@
 ---
-title: Profilu sinhronizācijas
-ms.author: kirks
+title: Profila sinhronizācija
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d3b8a40c0612ce76423d5adce02ebd6c597d2ad2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502922"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750071"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kad manu profilu izmaiņas sinhronizēt pieteikumu SharePoint lietotāja profilu?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kad mana profila izmaiņas sinhronizācija ar SharePoint lietotāja profila lietojumprogrammu?
 
-Profila attēlu sinhronizācijas SharePoint Online prasa lietotāja rīcība, lai uzsāktu savu foto sinhronizācijas. Nav nekādas automātiskās sinhronizācijas SharePoint Online fotogrāfijas. SharePoint Online sinhronizē tikai fotogrāfijas no Exchange Online, Azure Active Directory.
+Profila attēla sinhronizāciju pakalpojumā SharePoint Online ir nepieciešama lietotāja darbība, lai uzsāktu fotoattēla sinhronizāciju. Nav automātiskās sinhronizācijas fotogrāfijas SharePoint Online. SharePoint Online sinhronizē tikai fotoattēlus no Exchange Online, nevis Azure Active Directory.
 
-Ja lietotājs ir nekad nav veikta darbība, kas varētu pieprasīt sinhronizāciju vai tie esat atjauninājis savu profila attēlu un jauno viens netiek parādīti SharePoint Online, lietotājam, iespējams, vajadzēs prasīt to sinhronizēt. Lūk, kā viņi to var izdarīt:
+Ja lietotājs nekad nav veicis darbību, kas varētu piedāvāt sinhronizāciju vai viņi ir atjauninājusi savu profila attēlu un jaunu neparādās SharePoint Online, lietotājam, iespējams, vajadzēs sinhronizēt. Lūk, kā viņi var darīt šādi:
 
-- Atveriet web pārlūkprogrammu In Private vai inkognito sesiju un [doties uz Office.com](http://www.office.com/).
+- Atveriet tīmekļa pārlūkprogrammu in-Private vai inkognito sesijā un [dodieties uz Office.com](http://www.office.com/).
 
-- Pierakstieties ar savu darbu vai mācību kontu un noklikšķiniet uz OneDrive vai SharePoint mozaīku.
+- Pierakstieties, izmantojot savu darba vai mācību kontu, un noklikšķiniet uz OneDrive vai SharePoint mozaīka.
 
-- [Profila fotoattēla pievienošana Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+- [Pievienojiet sava profila fotoattēlu Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- [Info par profila attēla sinhronizācijas Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+- [Informācija par profila attēlu sinhronizāciju programmā Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
 

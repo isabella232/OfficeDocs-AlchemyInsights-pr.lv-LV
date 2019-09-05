@@ -1,34 +1,34 @@
 ---
-title: Ierobežot piekļuvi SharePoint vai OneDrive
-ms.author: kirks
+title: Piekļuves ierobežošana programmā SharePoint vai OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504218"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751751"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>IRM aizsardzību SharePoint faili
+# <a name="irm-protection-to-sharepoint-files"></a>IRM aizsardzība SharePoint failiem
 
 
-SharePoint Online, IRM aizsardzība tiek piemērota failu saraksta vai bibliotēkas līmenī. Pirms jūsu organizācija var lietot IRM aizsardzību, vispirms jāiestata piekļuves tiesību pārvaldību. IRM, kas balstās uz debeszils tiesību pārvaldības pakalpojumu no Azure informācijas aizsardzību šifrēšanai un piešķirt lietošanas ierobežojumus. Daži Office 365 plāni ietver debeszils tiesību pārvaldību, bet ne visi. 
+SharePoint Online, IRM aizsardzība tiek lietots failiem saraksta un bibliotēkas līmenī. Lai uzņēmums varētu izmantot IRM aizsardzību, vispirms ir jāiestata tiesību pārvaldība. IRM paļaujas uz Azure Rights Management pakalpojumu no Azure informācijas aizsardzības, lai šifrētu un piešķirtu lietošanas ierobežojumus. Daži Office 365 plāni ietver Azure Rights Management, bet ne visus. 
 
 Lai uzzinātu vairāk, skatiet:
 
-- , [Kā Office programmas un pakalpojumus nodrošina Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Kā Office lietojumprogrammas un pakalpojumi atbalsta Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Iestatīt līdz informācijas piekļuves tiesību pārvaldība (IRM) SharePoint administrēšanas centrā](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Iestatiet informācijas piekļuves tiesību pārvaldību (IRM) SharePoint administrēšanas centrā](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- [IRM ļauj SharePoint dokumentu bibliotēkām un sarakstiem](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM iespējot SharePoint dokumentu bibliotēkas un sarakstus](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [Informācijas piekļuves tiesību pārvaldība programmā Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Informācijas piekļuves tiesību pārvaldību programmā Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [Informācijas piekļuves tiesību pārvaldība programmā Exchange tiešsaistē](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [Informācijas piekļuves tiesību pārvaldību Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

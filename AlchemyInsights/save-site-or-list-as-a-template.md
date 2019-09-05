@@ -1,46 +1,46 @@
 ---
-title: Vietni vai sarakstu saglabātu kā veidni
-ms.author: kirks
+title: Saglabāt vietni vai sarakstu kā veidni
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551638"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752039"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Vietni vai sarakstu saglabātu kā veidni
+# <a name="save-site-or-list-as-a-template"></a>Saglabāt vietni vai sarakstu kā veidni
 
-SharePoint vietņu veidnes ir iebūvētām definīcijas, kas paredzēta ap konkrētu biznesa vajadzību. Plašāku informāciju skatiet [izmantojot veidnes, lai radītu dažādu veidu SharePoint vietnēs](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint vietnes veidnes ir iepriekš izveidotas definīcijas, kas izstrādātas ap konkrētu biznesa vajadzību. Papildinformāciju skatiet sadaļā [veidņu lietošana, lai izveidotu dažādu veidu SharePoint vietnes](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Šeit ir dažas kopējas problēmas/risinājumi attiecībā uz saglabāšanas vietu vai sarakstu kā veidni SharePoint Online.
+Tālāk ir norādītas dažas bieži sastopamas problēmas/risinājumi attiecībā uz vietnes vai saraksta saglabāšanu kā veidni programmā SharePoint Online.
 
-**Saglabāt sarakstā un vietnes veidnes poga ir nav pieejama vai tās trūkst**. 
+**Poga saglabāt vietnes/saraksta veidni nav pieejama vai tās trūkst**. 
 
-- Administratoriem būs nepieciešams pielāgots skripts ļauj iespējot veidnes līdzekļi. Detalizētām darbībām, piemērus un apsvērumi sk [Atļaut vai aizliegt pielāgotu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- Saglabāt vietni kā veidni komanda netiek atbalstīta, un var radīt problēmas uz vietām, kas izmanto SharePoint Server publicēšanas infrastruktūru.
+- Administratoriem ir jāatļauj pielāgots skripts, lai iespējotu veidnes līdzekļus. Detalizētas darbības, piemērus un apsvērumus skatiet sadaļā [Atļaut vai aizliegt pielāgotu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
 
-**Vietnes veidne nevar izveidot vai nedarbojas pareizi**
-
-- Veidni var trūkt [līdzekli](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) un nevar aktivizēt. Ja šī funkcija nav pieejama, lai aktivizētu vietņu kolekcijā, vietnes veidne nevar izmantot, lai izveidotu vietni.
+- Saglabāt vietni kā veidni komanda netiek atbalstīta un var radīt problēmas vietnēs, kas izmanto SharePoint Server publicēšanas infrastruktūra.
 
 
-- Pārbaudiet, lai redzētu, ja nevienu sarakstu vai bibliotēku pārsniegt 5000 vienumus [Saraksta skats ierobežojuma slieksni](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) , jo tas var bloķēt vietnes veidnes izveide.
+**Vietnes veidni nevar izveidot vai tā nedarbojas pareizi**
+
+- Iespējams, ka veidnei trūkst [līdzekļa](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) , un tā netiks aktivizēta. Ja līdzeklis nav pieejams, lai aktivizētu pašreizējā vietņu kolekcijā, vietnes veidni nevar izmantot, lai izveidotu vietni.
 
 
-- Vietne, iespējams, izmanto pārāk daudz resursu un tādēļ vietņu veidņu pārsniedz 50 megabaitu (MB) robežu.
+- Pārbaudiet, vai kādi saraksti vai bibliotēkas pārsniedz [saraksta skata ierobežojuma slieksnis](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 vienumus, jo tas var bloķēt vietnes veidnes izveide.
 
 
-- Pastāv problēmas attēlot datus no saraksta, kas izmanto uzmeklēšanas kolonnu. Papildinformāciju skatiet sadaļā [veidnes ģenerēts saraksts neparādās dati no SharePoint Online pareizo meklēšanas sarakstā](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Iespējams, ka vietne izmanto pārāk daudz resursu, tāpēc vietnes veidne pārsniedz 50 megabaitu (MB) ierobežojumu.
 
 
-Sīkāka informācija par bieži sastopamām problēmām un risinājumiem, lūdzu atsauci, [vietņu veidņu izveidošana un izmantošana](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Ir problēmas, parādot datus no saraksta, kas izmanto uzmeklēšanas kolonnu. Lai iegūtu papildinformāciju, skatiet [veidne ģenerēts saraksts netiek parādīts datus no pareizā uzmeklēšanas saraksta SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Sīkāku informāciju par kopīgām problēmām un risinājumiem, lūdzu, norādi, [izveidot un izmantot vietnes veidnes](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

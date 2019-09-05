@@ -1,5 +1,5 @@
 ---
-title: Ārējais lietotājs nespēj piekļūt saturu SharePoint Online
+title: Ārējais lietotājs nevar piekļūt saturam SharePoint Online
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503930"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744108"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Ārējais lietotājs nespēj piekļūt saturu SharePoint Online
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Ārējais lietotājs nevar piekļūt saturam SharePoint Online
 
-Ja ārējais lietotājs ir uzaicināts un nevar piekļūt saturu, lūdzu, mēģiniet apmeklējot zemāk esošajām saitēm.
+Ja ārējais lietotājs ir uzaicināts un nevar piekļūt saturam, lūdzu, mēģiniet apmeklēt tālāk norādītās saites.
 
-- [Kļūdas ziņojumu, kad ārējais lietotājs pieņem uzaicinājumu uz SharePoint Online, izmantojot citu kontu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Kļūdas ziņojums, ārējais lietotājs pieņem uzaicinājumu SharePoint Online, izmantojot citu kontu](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Liegta piekļuve koplietojamai mapei](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Piekļuve, kas ir liegta koplietojamai mapei](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE koplietošana Sharepoint un OneDrive kļūdas](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE koplietošanas kļūdas pakalpojumā SharePoint un OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

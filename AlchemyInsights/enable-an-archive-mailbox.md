@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665137"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736296"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
 
@@ -37,6 +37,6 @@ Varat arī lielapjoma iespējot arhīva pastkastes, atlasot vairākus lietotāju
   
 Papildinformāciju skatiet sadaļā
   
-- [Office 365 arhīva pastkastu iespējošana](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Office 365 arhīva pastkastu iespējošana](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Arhīva un dzēšanas politikas iestatīšana programmā Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Arhīva un dzēšanas politikas iestatīšana programmā Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

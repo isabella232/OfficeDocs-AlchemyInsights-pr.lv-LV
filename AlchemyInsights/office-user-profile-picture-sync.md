@@ -1,34 +1,34 @@
 ---
-title: Sinhronizēt ar lietotāja profila attēlu
-ms.author: kirks
+title: Lietotāja profila attēla sinhronizēšana
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f86606b86a4493730e68e50a6a965f1441556aed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 77b956c6239ee5d97e1358986807180055ee0525
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543698"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753695"
 ---
-# <a name="sync-a-users-profile-picture"></a>Sinhronizēt ar lietotāja profila attēlu
+# <a name="sync-a-users-profile-picture"></a>Lietotāja profila attēla sinhronizēšana
 
-Var pievienot vai mainīt jūsu profila fotoattēla Office 365 Office.com vai lietojot Office 365 lietojumprogrammas savā datorā vai tālruņa pārlūkā. Jūsu foto parādīsies visur ir aplī profila foto Office 365.
+Varat pievienot vai mainīt sava profila fotoattēlu programmā Office 365 no Office.com vai lietojot Office 365 lietojumprogrammas datorā vai tālruņa pārlūkprogrammā. Jūsu fotoattēls tiks parādīts visur, kur Office 365 ir profila fotoattēlu aplis.
 
-Pievienot savu profilu foto Office 365 uzņēmējdarbībai
+Lai pievienotu profila fotoattēlu Office 365 uzņēmumiem
 
-- Fotoattēla, kuru vēlaties lietot un saglabāt to datorā, OneDrive vai citā vietā, kas jums var atrast.
+- Atrodiet fotoattēlu, kuru vēlaties izmantot, un saglabājiet to savā datorā, pakalpojumā OneDrive vai citā vietā, kur varat piekļūt.
 
-- Office 365 pierakstīties ar savu darbu vai skolu [office.com](http://www.office.com)kontā.
+- Pierakstieties Office 365 ar savu darba vai skolas kontu [Office.com](http://www.office.com).
 
-- Atlasiet apļa augšējā labajā stūrī lapu, kas parāda jūsu iniciāļus vai ikonu persona.
+- Atlasiet apli lapas augšējā labajā stūrī, kurā redzami personas iniciāļi vai ikona.
 
-Ar manu kontu rūtī atlasīt apli, kas rāda savus iniciāļus vai personu ikonu. Mainīt savu foto uznirstošais logs, kas parādās.
+Rūtī mani konti atlasiet apli, kurā tiek rādīti jūsu iniciāļi vai personas ikona. Mainiet fotoattēlu, kas parādās uznirstošajā izvēlnē.
 
-Piezīme: Ja jau esat augšupielādējis attēlu jūs varat izmēģināt noklikšķinot uz SharePoint vai OneDrive flīžu atkārtoti sinhronizēt šo attēlu.
+Piezīme: ja esat jau augšupielādējis attēlu, iespējams, vēlēsities mēģināt noklikšķināt uz SharePoint vai OneDrive mozaīka, lai atkārtoti sinhronizētu šo attēlu.
 
-Lai iegūtu vairāk informācijas, lūdzu apmeklējiet [informāciju par profila attēla sinhronizācijas Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)
+Lai iegūtu papildinformāciju, lūdzu, apmeklējiet [informāciju par profila attēlu sinhronizāciju Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

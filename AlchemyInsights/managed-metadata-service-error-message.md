@@ -1,6 +1,6 @@
 ---
 title: Pārvaldīto metadatu pakalpojuma kļūdas ziņojums
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542014"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754307"
 ---
 # <a name="managed-metadata-service-error-message"></a>Pārvaldīto metadatu pakalpojuma kļūdas ziņojums
 
-Atverot terminu veikalu, iespējams, tiks parādīts kļūdas ziņojums: "pārzina metadatu pakalpojumu vai savienojuma pašlaik nav pieejams. Lietojumprogrammu pūlu vai pārvalda metadatu Web pakalpojumu var jau sākuši. Lūdzu, sazinieties ar administratoru."
+Atverot terminu krātuve, var tikt parādīts kļūdas ziņojums: "pārvaldīto metadatu pakalpojums vai savienojums pašlaik nav pieejams. Lietojumprogrammu pūla vai pārvaldīto metadatu tīmekļa pakalpojumu, iespējams, nav sākts. Lūdzu, sazinieties ar administratoru. "
   
-Ja ilgāk par 24 stundām, ir pagājuši, kopš tu pirmo reizi redzēji šo jautājumu, lūdzu, piesakieties atbalsta gadījumu. Mēs saprotam, ka 24 stundu laikā var šķist ilgs laiks. Daudzos gadījumos mēs jau strādājam pie risinājumu tik Lūdzu, sniedziet mums vismaz 24 stundas.
+Ja ir pagājušas vairāk nekā 24 stundas kopš pirmo reizi redzējāt šo problēmu, lūdzu, piesakieties atbalsta pieteikumu. Mēs saprotam, ka 24 stundas var šķist ilgu laiku. Daudzos gadījumos mēs esam jau strādā pie risinājuma, tāpēc, lūdzu, sniedziet mums vismaz 24 stundas.
   

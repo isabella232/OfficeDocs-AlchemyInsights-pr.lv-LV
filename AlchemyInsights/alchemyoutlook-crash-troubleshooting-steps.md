@@ -1,5 +1,5 @@
 ---
-title: Alķīmijas - Outlook avāriju novēršanas pasākumi
+title: Alchemy-Outlook avāriju problēmu novēršanas darbības
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664579"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737124"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Programmas Outlook avāriju novēršana soļi
+# <a name="outlook-crash-troubleshooting-steps"></a>Outlook avāriju problēmu novēršanas darbības
 
-Ja jums ir problēmas Outlook darbvirsmas avāriju, sāciet, izpildot trīs soļus, kas visi ir norādīti šajā rakstā sīkāk: [kā novērst problēmas, kas izraisa Outlook avāriju vai pārstāj reaģēt, lietojot kopā ar Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Ja jums ir Outlook Desktop crash problēmas, sākt, izpildot trīs soļus, kas visi ir uzskaitīti detalizēti šajā rakstā: [kā novērst problēmas, kas izraisa programmas Outlook avāriju vai pārstāj reaģēt, lietojot Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-1. solis: Izpētīt iespējamās problēmas, kas saistītas ar pievienojumprogrammas.
+1. darbība: Izpētiet iespējamās problēmas, kas saistītas ar pievienojumprogrammām.
   
-2. solis: Remonts Outlook un [atbalstu un palīgu atkopšanas rīku](https://aka.ms/SaRA-OutlookWontStart) palaist skarto datorā Outlook startup kļūdas novērst.
+Step 2: labojiet Outlook un palaidiet [atbalsta un atkopšanas palīgs rīku](https://aka.ms/SaRA-OutlookWontStart) , lai novērstu Outlook startēšanas kļūdas ietekmētā datorā.
   
-3. solis: Izveidojiet jaunu Outlook profilu vai palaidiet [Outlook profila rīks](https://aka.ms/SaRA-OutlookSetupProfile) skarto datorā.
+3. darbība: izveidot jaunu Outlook profilu vai palaist [rīku Outlook profila](https://aka.ms/SaRA-OutlookSetupProfile) attiecīgajā datorā.
   
-Ja problēma radās pēc update nedarbojas iepriekš aprakstītās darbības, jums atgriezties uz iepriekšējo kompilāciju. Redzētu, [kā atgriešanos pie agrākām versijām Office 2016 noklikšķiniet uz palaist](https://support.microsoft.com/help/2770432).
+Ja problēma radās pēc atjauninājuma un iepriekš aprakstītās darbības nedarbojas, iespējams, vajadzēs atgriezties pie iepriekšējā būvējuma. Skatiet, [kā atgriezties pie vecākas versijas Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   

@@ -1,5 +1,5 @@
 ---
-title: Atjaunot izdzēstu failu vai mapi
+title: Izdzēsta faila vai mapes atjaunošana
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,33 +12,33 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666127"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744576"
 ---
-# <a name="restore-deleted-items-from-sharepoint"></a>Atjaunot dzēstos vienumus no SharePoint
+# <a name="restore-deleted-items-from-sharepoint"></a>Izdzēsto vienumu atjaunošana no SharePoint
 
-Dzēšot vienumu vai vietnes Sharepoint, uzreiz netiek noņemta. Izdzēstie vienumi atkritnē iedziļināties laika periodu. Šajā laikā jūs Izdzēstie vienumi var atjaunot to sākotnējā atrašanās vietā. Lai iegūtu vairāk informācijas, lūdzu, apmeklējiet zemāk esošajām saitēm.
+Dzēšot vienumu vai vietu no SharePoint, tas netiek nekavējoties noņemts. Izdzēstie vienumi uz kādu laika posmu nokļūst atkritnē. Šajā laikā izdzēstos vienumus var atjaunot to sākotnējā atrašanās vietā. Lai iegūtu vairāk informācijas, lūdzu, apmeklējiet saites zemāk.
 
-- [Vienumu atjaunošana atkritnē SharePoint vietnes](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Vienumu atjaunošana SharePoint vietnes atkritnē](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Atjaunot dzēstos failus vai mapes, kas OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Izdzēsto failu vai mapju atjaunošana pakalpojumā OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 - [Dzēst vienumus vai iztukšot Atkritni](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [Atjaunot dzēstos vietņu kolekcijas (ieskaitot grupa, komunikācijas un citās vietās)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
+- [Atjaunot izdzēsto vietņu kolekciju (tostarp grupu, saziņu un citas vietnes)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
 
-- [Atjaunot dzēstos OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- [Dzēsta OneDrive atjaunošana](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-- [SharePoint tiešsaistē PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+- [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Failu atjaunošanas līdzekli**
+**Failu atjaunošanas līdzeklis**
 
-Ja partijām OneDrive vai Sharepoint faili saņemt dzēsts, pārrakstīts, bojāti vai inficēts ar ļaunprātīgu programmatūru, var atjaunot iepriekšējā laikā, izmantojot failu atjaunošanas līdzekli visu OneDrive vai Sharepoint bibliotēku.
+Ja daudz OneDrive vai SharePoint failu tiek izdzēsti, pārrakstīti, bojāti vai inficēti ar ļaunprogrammatūru, varat atjaunot visu OneDrive vai SharePoint bibliotēku iepriekšējā reizē, izmantojot failu atjaunošanas līdzekli.
 
-- [Atjaunot OneDrive bibliotēka](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [OneDrive bibliotēkas atjaunošana](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Atjaunot dokumentu bibliotēkā](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Dokumentu bibliotēkas atjaunošana](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

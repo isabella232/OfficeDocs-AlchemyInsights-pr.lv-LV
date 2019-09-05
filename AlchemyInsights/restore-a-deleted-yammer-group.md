@@ -1,5 +1,5 @@
 ---
-title: Atjaunot dzēstos Yammer grupa
+title: Atjaunot svītrots Yammer grupa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753259"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745152"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Atjaunot dzēstos Yammer grupa
+# <a name="restore-a-deleted-yammer-group"></a>Atjaunot svītrots Yammer grupa
 
-[Office 365 saistītas grupas Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) veicot šādas darbības, lai [atjaunotu dzēstos biroja 365 grupu](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54)var atjaunot 30 dienās pēc dzēšanas.
-Dažos gadījumos Yammer grupas var nebūt saistīti ar biroja 365 grupa. Ja tas tā ir gadījumā, nav iespējams automātiski atjaunot grupa, bet ir iespējams piekļūt dzēstos datus [datu eksports](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Yammer, iestatot *Soft*dzēst tīkla [datu glabāšanas politiku](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) . Sazinieties ar [Administratoru pārbaudīt](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) Yammer tīkla pārbaudīt datu glabāšanas politiku, vai lai veiktu datu eksportēšanai.
+[Office 365 saistītas grupas Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) var atjaunot 30 dienu laikā pēc dzēšanas, izpildot darbības, lai [atjaunotu dzēstu Office 365 grupas](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+Dažos gadījumos Yammer grupas nevar izveidot savienojumu ar Office 365 grupas. Ja tā notiek, nav iespējams automātiski atjaunot grupas, bet var būt iespējams piekļūt izdzēstos datus Yammer [datu eksportēšana](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) , ja tīkla [datu saglabāšanas politika](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) ir iestatīts uz *izvēles dzēst*. Sazinieties ar [verificēts administrators](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) Yammer tīkla pārbaudīt datu saglabāšanas politika vai veikt datu eksportēšana.

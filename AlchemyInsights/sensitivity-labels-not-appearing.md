@@ -1,5 +1,5 @@
 ---
-title: Jutības etiķetes netiek rādīta
+title: Jutīguma etiķetes nav redzamas
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504542"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744828"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Jutības etiķetes netiek rādīta
+# <a name="sensitivity-labels-not-appearing"></a>Jutīguma etiķetes nav redzamas
 
-Jutības etiķetes ļauj klasificēt un aizsargātu konfidenciālu saturu. Lai uzzinātu vairāk par šo līdzekli, skatiet [pārskatu jutības etiķetes](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Jutības etiķetes ļauj klasificēt un palīdzēt aizsargāt jūsu sensitīvo saturu. Papildinformāciju par šo līdzekli skatiet sadaļā [pārskats par jutības etiķetēm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Ja konfigurējāt jutības etiķetes, bet tās neparādās Office apps, veiciet šādas pārbaudes:
+Ja esat konfigurējis jutīguma etiķetes, bet tās neparādās Office programmās, pārbaudiet sekojošo:
 
-- Apstiprināt, ka jutības etiķetes ir bijis [publicēts](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) lietotājus un grupas, kuru vēlaties.
+- Apstipriniet, ka jutīguma etiķete ir [publicēta](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) lietotājiem un grupām, kuras vēlaties.
 
-- Apstipriniet, ka lietotājs izmanto app, kas atbalsta jutības etiķetes - skatīt [jutības etiķetes jūsu dokumentā](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Apstipriniet, ka lietotājs izmanto programmu, kas atbalsta jutīguma etiķetes-skatiet [dokumentā jutīguma etiķetes](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Ja jūs [migrē Azure informācijas aizsardzību etiķetes](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), esi informēts par apsvērumiem uzskaitīti [šeit](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Ja [migrējat Azure informācijas aizsardzības etiķetes](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ņemiet vērā [šeit](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)minētos apsvērumus.
 
-- Atbalstīt datu zaudējumu novēršanas (DLP): šobrīd tikai aiztures etiķetes var izmantot kā nosacījumu DLP politikā.  Vēl nav pieejams atbalsts jutības etiķetes DLP politikā, bet mēs strādājam pie tā.
+- Datu zuduma novēršana (DLP) atbalsts: pašlaik tikai saglabāšanas etiķetes var izmantot kā nosacījums DLP politiku.  Par jutīguma etiķetes DLP politika atbalsts nav pieejams vēl, bet mēs strādājam pie tā.
 
-Plašāku informāciju par iespējamām problēmām skatiet [zināmas problēmas ar jutības etiķetes](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Lai iegūtu papildinformāciju par iespējamās problēmas, skatiet [zināmās problēmas ar jutīguma etiķetes](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

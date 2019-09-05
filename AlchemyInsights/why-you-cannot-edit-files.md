@@ -1,6 +1,6 @@
 ---
-title: Failu rediģēšanai ir slēdzis
-ms.author: kirks
+title: Faili ir bloķēti rediģēšanai
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558336"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748367"
 ---
 # <a name="why-cant-i-edit-files"></a>Kāpēc nevar rediģēt failus?
 
-Ja dokumentu, darblapu vai prezentāciju rediģēšanai ir slēgts un to nevar atvērt Windows darbvirsmas lietojumprogrammas, iespējams, ka fails tiek rediģēts jau kāds cits, vai viņiem ir paņēmis failu. Let's pieņemt ātri apskatīt daži iemesli, [Kāpēc nav iespējams rediģēt failu](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Ja dokuments, darblapa vai prezentācija rediģēšanai ir bloķēta un to nevar atvērt Windows darbvirsmas lietojumprogrammās, iespējams, ka failu jau ir rediģējis kāds cits vai arī to ir paņēmis fails. Apskatīsim dažus no iemesliem, [Kāpēc, iespējams, nevarēsit rediģēt failu](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Ja jums ir bibliotēkas ar **Checkout, nepieciešama** vai **validācijas** kolonnu vai metadatus vai **Melnraksta vienumu drošība** ir iestatīta vai nu **tikai tie lietotāji, kuri var rediģēt** , vai **tikai tie lietotāji, kas var apstiprināt vienumus** versiju iestatījumus bibliotēka:
+Ja jums ir bibliotēkas ar **kases, nepieciešams** vai **validācijas** kolonnas vai metadatus, vai ja **Melnraksta vienumu drošības** ir iestatīts **tikai lietotājiem, kuri var rediģēt** vai **tikai lietotājiem, kuri var apstiprināt vienumus** versiju iestatījumus Bibliotēkas:
 
-- SharePoint dokumentu bibliotēkām, šie vienumi tiks sinhronizēts kā tikai lasāmu.
+- SharePoint dokumentu bibliotēkām, šie vienumi tiks sinhronizēti kā tikai lasāms.
 
-- OneDrive bibliotēkas OneDrive rādīs slēdzenes ikona (OneDrive fails bloķēts ikona) blakus sinhronizācijas statusu un lietotājs nevar sinhronizēt bibliotēkā līdz minēto iestatījumu, tiek noņemtas. 
+- OneDrive bibliotēkas OneDrive parādīs slēdzenes ikonas (OneDrive failu bloķēta ikona) blakus sinhronizācijas statusu un lietotājs nevarēs sinhronizēt bibliotēkas līdz minētie iestatījumi ir noņemti. 
 
-Sīkāku informāciju par slēgto failus uz Word vai Excel, lūdzu atsaukties rakstus zemāk.
+Lai iegūtu vairāk informācijas par bloķētiem failiem Word vai Excel, lūdzu, atsaukties uz pantiem zemāk.
 
-- [Excel failu ir bloķējis rediģēšanai cits lietotājs](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel failu rediģēšanai ir bloķējis cits lietotājs](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Word failu ir bloķējis rediģēšanai cits lietotājs](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word failu rediģēšanai ir bloķējis cits lietotājs](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

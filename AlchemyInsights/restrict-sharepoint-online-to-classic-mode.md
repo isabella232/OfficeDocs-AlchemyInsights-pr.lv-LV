@@ -1,6 +1,6 @@
 ---
-title: Klasiskajā režīmā ierobežot SharePoint Online
-ms.author: kirks
+title: Ierobežot SharePoint Online klasiskajā režīmā
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551566"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752075"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Klasiskajā režīmā ierobežot SharePoint Online
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Ierobežot SharePoint Online klasiskajā režīmā
 
-Daži uzņēmumi joprojām nepieciešama Classic režīmu pieredze. Kamēr nav plānots noņemt klasiskajā režīmā granulveida līmenī, tas vairs nav iespējams ierobežot visam uzņēmumam (nomniekam) klasiskajā režīmā sarakstiem un bibliotēkām.
+Daži uzņēmumi joprojām ir nepieciešama klasiskā režīma pieredzi. Lai gan nav plānots noņemt klasisko režīmu granulētā līmenī, vairs nav iespējams ierobežot visu organizāciju (nomnieku) klasiskajā režīmā sarakstiem un bibliotēkām.
 
-Admin ir šādas opcijas, lai pārvaldītu atsevišķus sarakstus un bibliotēkas klasiskajā režīmā izmantojot granulveida atteikšanās slēdžiem, kurus mēs sniedzam šādos līmeņos:
+Admin būs šādas iespējas, lai pārvaldītu atsevišķus sarakstus un bibliotēkas klasiskā režīmā, izmantojot granulu atteikšanās slēdžus, ko mēs nodrošinām šādos līmeņos:
 
-- vietņu kolekcijas
-- vieta
-- saraksts
-- bibliotēka
+- vietņu kolekciju
+- Vietnes
+- Sarakstu
+- Bibliotēkas
 
-Turklāt saraksti, kas noteiktu līdzekļu izmantošanai un pielāgojumi, kas nenodrošina mūsdienu tiks vēl automātiski pārslēgts uz klasiskajā režīmā.
+Turklāt saraksti, kas izmanto noteiktus līdzekļus un pielāgojumus, kurus neatbalsta mūsdienīga, joprojām automātiski pārslēgsies uz klasisko režīmu.
 
-April 1, 2019, procesu, lai atspējotu īrnieks līmenis sāk atteikties no mūsdienu saraksta un bibliotēkas sāksies un turpināsies līdz 2019. gada 31 maijs.  Sarakstiem un bibliotēkām, kas ir klasisks veids, kā rezultātā īrnieks atteikšanās tiks automātiski pārvietoti uz mūsdienu.
+Sākuma aprīlis 1, 2019, procesu, lai atspējotu nomnieka līmenī atteikties no mūsdienu sarakstu un bibliotēkas sāksies un turpināsies līdz maijam 31, 2019.  Saraksti un bibliotēkas, kas ir klasiskajā režīmā, kā rezultātā nomnieka atteikšanās tiks automātiski pārvietoti uz mūsdienu.
 
-Ja jums ir nepieciešama klasiskajā režīmā skatiet plašāku informāciju [šeit](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) un PnP Powershell instrukcija [šeit](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , kas raksturo iespējas un rīkus, ko var izmantot šodien izmantot klasiskās sapratnes pieredzi.
+Ja jums ir nepieciešama Classic mode Lūdzu, skatiet plašāku informāciju [šeit](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) un PNP PowerShell instrukcija [šeit](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , kas apraksta opcijas un rīki, kurus var izmantot šodien, lai izmantotu klasisko režīmu pieredzi.

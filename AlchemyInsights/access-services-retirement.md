@@ -1,6 +1,6 @@
 ---
-title: Piekļuves pakalpojumu pensijas
-ms.author: kirks
+title: Piekļuves pakalpojumu pensionēšanās
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495758"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747791"
 ---
-# <a name="access-services-retirement"></a>Piekļuves pakalpojumu pensijas
+# <a name="access-services-retirement"></a>Piekļuves pakalpojumu pensionēšanās
 
-Kā mēs sākotnēji paziņoja, MC97576, martā 2017 un turpināja sazināties vairāk nekā pagājušajā gadā piekļuves pakalpojumiem ir pensijā, no Office 365. Nākamais posms šajā procesā būs izņemšanas Access Web datu bāzes, kas izmanto SharePoint sarakstus kā to pamatā esošo datu krātuvi.
+Kā mēs sākotnēji paziņoja MC97576, martā 2017, un turpināja sazināties pēdējo gadu piekļuves pakalpojumi tiek pārtraukts no Office 365. Nākamā fāze šajā procesā būs Access Web datu bāzu noņemšana, kas izmanto SharePoint sarakstus kā pamatā esošo datu krātuvi.
 
-**Kā tas ietekmēs mani?**
+**Kā tas ietekmē mani?**
 
-Sākot no jūnija 2019, mēs pieturas izveidi jaunās Access datu bāzēs, SharePoint Online un jāslēdz pakalpojumu un visus pārējos apps aprīlī 2020.
+Sākot Jūnijs 2019, mēs pārtraukt jaunu Access datu bāzes izveide SharePoint Online un izslēdziet pakalpojumu un visas pārējās programmas gada 2020.
 
-**Kas man jādara, lai sagatavotos šīs izmaiņas?**
+**Kas man jādara, lai sagatavotos šīm izmaiņām?**
 
-Mēs iesakām jums izveidot pārejas plānu, jūsu organizāciju Access web datu bāzēm. Admins var izmantot [SharePoint piekļuves app skeneris](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) iegūst piekļūt progr, ka vietas ir, izmantojot inventarizāciju.
+Mēs aicinām jūs izveidot pārejas plānu jūsu organizācijas Access Web datu bāzēm. Administratori var izmantot [SharePoint Access lietojumprogrammas skeneri](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , lai iegūtu to piekļuves programmu sarakstu, kuras izmanto vietnes.
 
-Ir vairāki veidi, kā Access web datu bāzes datu migrēšana:
+Ir vairāki veidi, kā migrēt Access Web datu bāzes datus:
 
-- Importēšanu, vietējo Access datu bāzē (. ACCDB) vai Excel failu.
-- Mēs arī iesakām izpētīt Microsoft PowerApps kā alternatīva platforma izveidošanai bezkoda business solutions web un mobilo ierīču palīdzību.
+- Importēšana lokālā Access datu bāzē (. ACCDB) vai Excel failā.
+- Ieteicams arī izpētīt Microsoft PowerApps kā alternatīvu platformu, lai izveidotu bez koda biznesa risinājumus Web un mobilajām ierīcēm.

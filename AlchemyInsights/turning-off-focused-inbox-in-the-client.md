@@ -1,5 +1,5 @@
 ---
-title: 911 izslēgt koncentrēta klienta iesūtnē
+title: 911 izslēdzot fokusēta Iesūtne klientā
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 4c16029e3266638a618305d8e548172f48266f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559020"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742380"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Izslēgt koncentrēta Iesūtnes e-pasta klientu
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Fokusēta iesūtnes izslēgšana e-pasta klientos
 
-Lai izslēgtu vērsta Iesūtne programmā Outlook 2016, Outlook Web, Outlook.com/Hotmail.com, Outlook 2016 Mac vai pastu par Windows 10, sk. [izslēgt koncentrēta Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Lai izslēgtu fokusēta Iesūtne programmā Outlook 2016, Outlook Web, Outlook.com/Hotmail.com, Outlook 2016 For Mac vai Mail for Windows 10, skatiet sadaļu [fokusēta iesūtnes](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)izslēgšana.
 
-Izslēgt koncentrēta iesūtne visiem organizācijā, skatiet sadaļā [Konfigurēt vērsta iesūtne visiem jūsu uzņēmumā](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Lai izslēgtu fokusēta Iesūtne ikvienam organizācijas lietotājam, skatiet sadaļu [fokusēta iesūtnes konfigurēšana visiem jūsu uzņēmuma](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)darbiniekiem.

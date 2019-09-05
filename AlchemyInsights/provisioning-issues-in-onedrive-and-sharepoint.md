@@ -1,24 +1,21 @@
 ---
-title: Apgādes problēmas OneDrive un SharePoint
-ms.author: kirks
+title: OneDrive un SharePoint nodrošināšanas problēmas
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422384"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752471"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Apgādes problēmas OneDrive un SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>OneDrive un SharePoint nodrošināšanas problēmas
 
-Kad lietotājs ir pievienots esošā Office 365 īrnieks, viņi var redzēt SharePoint Online vai OneDrive Business ikonas minēti kā "Izveidošanu" līdz paplašināšanas process ir pabeigts. Tikko izveidoto kontu lietotājiem nepieciešams pierakstīties pakalpojumā Office 365 portāls, ar savām vajadzībām un pēc tam noklikšķiniet uz OneDrive manuāli jāstartē OneDrive vietu nodrošināšanu.
+Kad lietotājs ir pievienots esošo Office 365 nomnieka, tie var redzēt SharePoint Online vai OneDrive darba ikonas, kas norādītas kā "iestatīšana" līdz nodrošināšanas process ir pabeigts. Jaunizveidoto kontu, lietotājiem ir jāpierakstās Microsoft 365 administrēšanas centrs ar savu kontu un pēc tam noklikšķiniet uz OneDrive manuāli sākt OneDrive vietnes nodrošināšana.
   
-Ja ilgāk par 24 stundām, ir pagājuši, kopš tu pirmo reizi redzēji šo jautājumu, lūdzu, piesakieties atbalsta gadījumu. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
+Ja ir pagājušas vairāk nekā 24 stundas kopš pirmo reizi redzējāt šo problēmu, lūdzu, piesakieties atbalsta pieteikumu. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
   
-

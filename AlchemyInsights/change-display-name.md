@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519810"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736728"
 ---
-# <a name="change-your-display-name"></a>Mainīt displeja nosaukumu
+# <a name="change-your-display-name"></a>Displeja nosaukuma mainīšana
   
-Lai mainītu displeja nosaukumu programmā Outlook, veiciet šādas darbības.
+Lai mainītu parādāmo vārdu programmā Outlook, veiciet šādas darbības.
   
-1. Programmā Outlook izvēlieties **Fails** \> **Konta iestatījumu** \> **Konta iestatījumus**.
+1. Programmā Outlook, atlasiet **failu** \> **konta iestatījumu** \> **konta iestatījumi**.
 
-2. Atlasiet e-pasta kontu un pēc tam **mainīt**.
+2. Atlasiet e-pasta kontu un pēc tam atlasiet **mainīt**.
 
     > [!NOTE]
-    > Ja nav redzama opcija mainīt parādāmo vārdu, droši vien jūs izmantojat Microsoft Exchange e-pasta kontu. Šādā gadījumā jums jāsazinās ar administratoru, lai mainītu parādāmo vārdu. Skatiet [mainīt lietotājvārdu un e-pasta adresi programmā Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Ja neredzat opciju mainīt parādāmo vārdu, jūs, iespējams, izmantojat Microsoft Exchange e-pasta kontu. Šādā gadījumā, lai mainītu parādāmo vārdu, sazinieties ar administratoru. Skatiet [lietotāja vārda un e-pasta adreses maiņa Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Pēc tam, kad esat mainījis jūsu parādāmo vārdu, noklikšķiniet uz **Labi** , lai saglabātu izmaiņas. Tas var aizņemt pāris stundu izmaiņas atspoguļo visā jūsu organizācijā.
+3. Kad esat mainījis parādāmo vārdu, noklikšķiniet uz **Labi** , lai saglabātu izmaiņas. Lai izmaiņas tiktu atspoguļotas visā organizācijā, var paiet dažas stundas.
 
-Papildinformāciju skatiet sadaļā [mainīt parādāmo vārdu, kas e-pasta adresāti redz](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Papildinformāciju skatiet sadaļā [Parādāmais vārds, ko redz e-pasta adresāti](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

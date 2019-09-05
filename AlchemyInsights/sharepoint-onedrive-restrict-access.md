@@ -1,6 +1,6 @@
 ---
-title: Ierobežot piekļuvi SharePoint vai OneDrive
-ms.author: kirks
+title: Piekļuves ierobežošana programmā SharePoint vai OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559884"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750671"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ierobežot piekļuvi SharePoint vai OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Piekļuves ierobežošana programmā SharePoint vai OneDrive
 
-Ir daudzi veidi, kā ierobežot piekļuvi SharePoint Online/OneDrive pakalpojumus. Šīs dažādās piekļuves ierobežošanas metodes ir izklāstīti turpmāk. 
+Ir vairāki veidi, kā ierobežot piekļuvi SharePoint Online/OneDrive pakalpojumiem. Šīs dažādās pieejas ierobežošanas metodes ir izklāstītas turpmāk. 
 
-**Ierobežot atļaujas**
+**Atļauju ierobežojums**
 
-SharePoint Online un OneDrive uzņēmējdarbībai, mums ierobežot piekļuvi precēm, piemēram, vietnēm, failus un mapes tikai piešķirot piekļuvi šīm grupām/personām, vajadzētu būt pieejamai.
+SharePoint Online un OneDrive uzņēmumiem, mēs ierobežojam piekļuvi tādiem vienumiem kā vietnes, faili un mapes, piešķirot piekļuvi tikai tām grupām/personām, kurām ir jābūt piekļuvei.
 
-- [Pielāgot SharePoint saraksta vai bibliotēkas atļauju](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Atļauju pielāgošana SharePoint sarakstam vai bibliotēkai](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Pielāgot SharePoint vietnes atļaujas](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [SharePoint vietnes atļauju pielāgošana](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Mainīt atļaujas apakšmapi](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Mainīt atļaujas apakšmapē](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [No nepārvaldītiem ierīču piekļuves kontrole](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Piekļuves kontrole no nepārvaldītām ierīcēm](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Kā SharePoint vai globālās administrēšanas Office 365, var bloķēt vai ierobežot piekļuvi SharePoint un OneDrive saturu no nepārvaldītiem ierīču (tām nav hibrīds AD pievienojās vai atbilstošu Intune).
+SharePoint vai globālās administrēšanas Office 365, varat bloķēt vai ierobežot piekļuvi SharePoint un OneDrive saturu no nepārvaldīts ierīces (kas nav hibrīds AD pievienojās vai atbilst InTune).
 
 **Tīkla atrašanās vietas ierobežojums**
 
-Kā IT administrators, jūs varat kontrolēt piekļuvi SharePoint un OneDrive resursus, balstoties uz noteiktiem tīkla vietas, kurām uzticaties. Tas ir arī pazīstams kā politikas atkarībā no atrašanās vietas. Plašāku informāciju skatiet [SharePoint Online un OneDrive datus, pamatojoties uz tīkla atrašanās vietas piekļuves kontrole](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Kā IT administrators varat kontrolēt piekļuvi SharePoint un OneDrive resursiem, pamatojoties uz definētajām tīkla vietām, kurām uzticaties. Šī ir pazīstama arī kā politika, kuras pamatā ir atrašanās vieta. Lai iegūtu papildinformāciju, lūdzu, skatiet [piekļuves kontrole SharePoint Online un OneDrive datus, pamatojoties uz tīkla atrašanās vietu](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Bloķēt vietnes ierobežojumu** 
+**Vietnes bloķēšanas ierobežojums** 
 
-Programmā SharePoint Online, jums ir iespēja, lai bloķētu vietņu kolekciju, lai nevienam nav piekļuves. Tas tiek iestatīts, izmantojot PowerShell un [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) , izmantojot [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState īpašumu.
+Programmā SharePoint Online jums ir iespēja bloķēt vietņu kolekciju, tāpēc nevienam nav piekļuves. Tas ir iestatīts, izmantojot PowerShell un [SharePoint Online pārvaldības čaulu](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) , izmantojot rekvizītu [Set sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
 
-**Aizliegtu lietotājiem veidot vietnes vai apakšvietņu**
+**Aizliegt lietotājiem veidot vietnes vai apakšvietnes**
 
-Kā SharePoint administrēšanas vai Office 365 globālās administrēšanas, jūs varat ļaut lietotājiem izveidot un administrēt savas SharePoint vietnes, nosakiet, kāda veida portālos tie var radīt, un norādiet vietnes atrašanās vietu. Plašāku informāciju skatiet [Manage vietņu izveide SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Kā SharePoint admin vai Office 365 globālais administrators varat ļaut lietotājiem izveidot un pārvaldīt savas SharePoint vietnes, noteikt, kādas vietnes viņi var izveidot, un norādīt vietņu atrašanās vietu. Lai iegūtu papildinformāciju, lūdzu, skatiet [pārvaldīt vietnes izveide SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
