@@ -1,5 +1,5 @@
 ---
-title: 1800014, kas izveidota e-pastu programmā Outlook mobilo app
+title: 1800014 e-pasta iestatīšana Outlook mobilajā lietotnē
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509187"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734172"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="f4e07-102">Iestatiet e-pasta programmā Outlook mobilo app</span><span class="sxs-lookup"><span data-stu-id="f4e07-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="47803-102">E-pasta iestatīšana Outlook mobilajā lietotnē</span><span class="sxs-lookup"><span data-stu-id="47803-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="f4e07-103">Atlasiet **Sākt darbu** , ja tas ir jūsu pirmā laika izveidot mobilo app e-pastu.</span><span class="sxs-lookup"><span data-stu-id="f4e07-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="f4e07-104">Pretējā gadījumā, pieskarieties **izvēlnei** un pieskarieties **Iestatījumi** \> **Pievienot kontu** \> **Pievienot e-pasta kontu**.</span><span class="sxs-lookup"><span data-stu-id="f4e07-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="47803-103">Atlasiet darba **sākšana** , ja tā ir pirmā reize, kad iestatāt e-pasta ziņojumu mobilajā lietotnē.</span><span class="sxs-lookup"><span data-stu-id="47803-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="47803-104">Pretējā gadījumā pieskarieties vienumam **izvēlne** un pēc tam pieskarieties vienumam **Iestatījumi** \> **pievienot konta** \> **pievienošanas e-pasta kontu**.</span><span class="sxs-lookup"><span data-stu-id="47803-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="f4e07-105">Ievadiet pilnu e-pasta adresi un pieskarieties **turpināt** vai **Pievienot kontu**.</span><span class="sxs-lookup"><span data-stu-id="f4e07-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="47803-105">Ievadiet pilnu e-pasta adresi un pieskarieties **Continue** vai **Add Account**.</span><span class="sxs-lookup"><span data-stu-id="47803-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="f4e07-106">Ievadiet savu e-pasta konta paroli un pieskarieties **Pierakstīties** vai **Tālāk**.</span><span class="sxs-lookup"><span data-stu-id="f4e07-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="47803-106">Ievadiet e-pasta konta paroli un pieskarieties vienumam **Pierakstīties** vai **Tālāk**.</span><span class="sxs-lookup"><span data-stu-id="47803-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="f4e07-107">Ja ir iespējots [vairāku faktoru autentifikaciju](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , pārbaudiet, vai izmantojot metodi, kas jāiestata (6 ciparu kodu, tālruņa zvanu vai Microsoft Authenticator app).</span><span class="sxs-lookup"><span data-stu-id="f4e07-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="47803-107">Ja ir iespējota [vairāku faktoru autentifikācija](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , pārbaudiet, izmantojot iestatīšanas metodi (6 ciparu kods, tālruņa zvans vai programma Microsoft Authenticator).</span><span class="sxs-lookup"><span data-stu-id="47803-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="f4e07-108">Ja papildu IT admin politika ir vietā, pieskarieties, lai tos varētu **Aktivizēt** .</span><span class="sxs-lookup"><span data-stu-id="f4e07-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="47803-108">Ja ir pieejamas papildu IT administrēšanas politikas, pieskarieties vienumam **Aktivizēt** , lai tos iespējotu.</span><span class="sxs-lookup"><span data-stu-id="47803-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="f4e07-109">Programmu Outlook var pieprasīt atļauju piekļūt jūsu kalendāru, kontaktpersonas un citu informāciju.</span><span class="sxs-lookup"><span data-stu-id="f4e07-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="f4e07-110">Atlasiet **Jā** , vai **Atļaut**.</span><span class="sxs-lookup"><span data-stu-id="f4e07-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="47803-109">Programma Outlook var pieprasīt atļauju piekļūt jūsu kalendāram, kontaktpersonām un citai informācijai.</span><span class="sxs-lookup"><span data-stu-id="47803-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="47803-110">Atlasiet **Jā** vai **Atļaut**.</span><span class="sxs-lookup"><span data-stu-id="47803-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="f4e07-111">Saņemtu detalizētas instrukcijas par [Android programmas Outlook](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vai [Outlook iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) iestatīšana.</span><span class="sxs-lookup"><span data-stu-id="f4e07-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="47803-111">Iegūstiet detalizētas iestatīšanas instrukcijas [Outlook Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vai [Outlook iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) šeit.</span><span class="sxs-lookup"><span data-stu-id="47803-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="f4e07-112">**Vajadzīga palīdzība?**</span><span class="sxs-lookup"><span data-stu-id="f4e07-112">**Need help?**</span></span>
+ <span data-ttu-id="47803-112">**Vai nepieciešama palīdzība?**</span><span class="sxs-lookup"><span data-stu-id="47803-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="f4e07-113">Problēmu novēršana darbā ar e-pasta iestatīšana mobilajā telefonā</span><span class="sxs-lookup"><span data-stu-id="f4e07-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="47803-113">E-pasta iestatījumu problēmu novēršana mobilajās ierīcēs</span><span class="sxs-lookup"><span data-stu-id="47803-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="f4e07-114">Palīdzība-app par perspektīvu iOS un Android</span><span class="sxs-lookup"><span data-stu-id="f4e07-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="47803-114">Iegūstiet programmas palīdzību saistībā ar Outlook iOS un Android ierīcēm</span><span class="sxs-lookup"><span data-stu-id="47803-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

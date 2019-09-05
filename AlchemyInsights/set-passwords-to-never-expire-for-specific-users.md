@@ -1,5 +1,5 @@
 ---
-title: Iestatīt Office 365 SPF
+title: Iestatīt SPF Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509115"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744792"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="031ca-102">Iestatīt paroles, lai nekad beidzas</span><span class="sxs-lookup"><span data-stu-id="031ca-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="f5ad5-102">Paroļu iestatīšana, lai tā nekad nebeigtos</span><span class="sxs-lookup"><span data-stu-id="f5ad5-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="031ca-103">Noteikt visas paroles nekad beidzas Microsoft 365 admin Center, dodieties uz **Iestatījumi** > [drošību &amp; konfidencialitātes](https://portal.office.com/adminportal/home#/settings/security) lapā.</span><span class="sxs-lookup"><span data-stu-id="031ca-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="031ca-104">Izvēlieties **Rediģēt** blakus **paroļu politika**, un savukārt **par**slīdni.</span><span class="sxs-lookup"><span data-stu-id="031ca-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="f5ad5-103">Lai iestatītu, ka visām parolēm nekad nebeidzas, Microsoft 365 administrēšanas centrā atveriet lapu **iestatījumu** > [drošības &amp; konfidencialitāte](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="f5ad5-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="f5ad5-104">Atlasiet **Rediģēt** blakus **paroļu politika**un pagrieziet slīdni uz **ieslēgts**.</span><span class="sxs-lookup"><span data-stu-id="f5ad5-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="031ca-105">Sīkāku informāciju skatiet: [iestatīt paroli termiņa politika uzņēmumā.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="031ca-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="f5ad5-105">Sīkāku informāciju skatīt: [iestatiet paroles derīguma politiku jūsu organizācijai.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span><span class="sxs-lookup"><span data-stu-id="f5ad5-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span></span>
   
-[<span data-ttu-id="031ca-106">Uzstādīt paroli, lai nekad beidzas tikai noteiktiem lietotājiem</span><span class="sxs-lookup"><span data-stu-id="031ca-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="f5ad5-106">Iestatiet paroli, lai tā nekad nebeidzas konkrētiem lietotājiem</span><span class="sxs-lookup"><span data-stu-id="f5ad5-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   
