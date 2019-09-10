@@ -1,5 +1,5 @@
 ---
-title: Atriti uz klasisko Outlook Web
+title: Atritināt uz klasisko Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 036de86ef0d18869a47bed6306e2df1b711ee764
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b50d8c94d831a1836a65077bc33cd7665db9baa9
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556032"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822119"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Jaunu Outlook Web
+# <a name="the-new-outlook-on-the-web"></a>Jauno Outlook Web
 
-Tas vairs nav iespējams atgriezties uz klasisko perspektīvu uz interneta pieredzi. Ja jūs vēlētos sniegt atsauksmes par jaunu pieredzi, dodieties uz [UserVoice forums](https://outlook.uservoice.com/forums/313228--outlook-on-the-web-office-365). Jūs varat balsot par idejas vai risināt jautājumus, kas jūs vēlētos redzēt, un mēs jums atbildēt tieši uz augšu komentāri un ieteikumi.
+Vairs nav iespējams atgriezties pie klasiskās Outlook Web pieredzi. Ja jūs vēlaties sniegt atgriezenisko saiti par jaunu pieredzi, dodieties uz [Uservoice forumā](https://go.microsoft.com/fwlink/?linkid=2103182). Jūs varat balsot par idejām vai jautājumiem, kurus jūs vēlētos redzēt adresēts, un mēs atbildēsim tieši uz top komentāriem un ieteikumiem.
 
-[Palīdzība darbam ar jauno programmu Outlook Web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Saņemiet palīdzību par jauno Outlook tīmeklī](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

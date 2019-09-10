@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536982"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822106"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook paziņojumus, izmantojot Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook paziņojumi, izmantojot Outlook.com
 
-Ja jūs nevēlaties saņemt paziņojumus no Facebook, varat mainīt [Facebook iestatījumus](https://www.facebook.com/settings?tab=notifications) vai iestatītu iesūtnes kārtulu.
+Ja nevēlaties saņemt paziņojumus no Facebook, varat mainīt savus [Facebook iestatījumus](https://aka.ms/facebook-notifications-settings) vai iestatīt iesūtnes kārtulu.
 
-1. Dodieties uz [kārtulas iestatījumus](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Dodieties uz [kārtulu iestatījumi](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Atlasiet **Pievienot jaunu kārtulu**.
-1. Kārtulai "Facebook" nosaukumu.
-1. Pievienot nosacījumu "No" un "notification@facebookmail.com"
-1. Pievienot "Dzēst" darbību. Ja izvēlaties dzēst ziņojumus mapē Izdzēstie vienumi paliek un var atgūt. Atlasot "Zīmi kā Junk", ziņojumi tiek automātiski dzēsti un nevar atgūt.
-1. Izvēlieties **saglabāt**.
+1. Nosauciet kārtulu "Facebook".
+1. Pievienot nosacījumu "no" un ievadiet "notification@facebookmail.com"
+1. Pievienot darbību "Dzēst". Izvēloties DELETE nozīmē, ka ziņojumi paliek izdzēstos vienumus un tos var atkopt. Ja atlasīsit "atzīmēt kā nevēlamu", ziņojumi tiks automātiski dzēsti, un tos nevarēs atkopt.
+1. Atlasiet **saglabāt**.

@@ -1,5 +1,5 @@
 ---
-title: 1800029 pievienotajiem kontiem, kas netiek atbalstīti programmā Outlook Web
+title: 1800029 savienotie konti netiek atbalstīti programmā Outlook Web
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504778"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821809"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Pievienotajiem kontiem vairs netiek atbalstīti
+# <a name="connected-accounts-are-no-longer-supported"></a>Savienotie konti vairs netiek atbalstīti
 
-Microsoft ir izņemta iespēja pievienot jaunus kontus Outlook tīklā web, izmantojot funkciju pievienotajiem kontiem uz 15 septembris 2018 un tiks pārtraukta sinhronizēšana esošos kontus par 30 oktobris 2018 pieslēgto pirms 15 septembris 2018. Gada 15. novembrī, pievienotajiem kontiem opcija ( **Iestatījumi** \> **Mail** \> **kontiem**) tiks izņemts no Outlook Web.Plašāku informāciju skatiet [pievienotajiem kontiem vairs netiek atbalstīta programmā Outlook tīmeklī (Office 365 uzņēmumu kontiem)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft ir noņemta iespēja pievienot jaunu kontu Outlook tīmeklī, izmantojot pievienoto kontu funkciju 15. septembrī 2018 un pārtrauks sinhronizēt esošos kontus, 2018 October 30, kas tika savienots pirms 15 septembris 2018. Novembrī 15., pievienotā konti variants ( **Iestatījumi** \> **pasta** \> **konti**) tiks noņemts no Outlook tīmeklī.Papildinformāciju skatiet sadaļā [savienotie konti vairs netiek atbalstīti programmā Outlook tīmeklī (Office 365 biznesa kontiem)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Lai turpinātu skatīt e-pastu no citiem kontiem: joprojām ļauj pārsūtīt e-pastu no šiem kontiem Outlook Web. Papildinformāciju skatiet sadaļā
+Lai turpinātu skatīt e-pasta ziņojumu no citiem kontiem: joprojām varat pārsūtīt e-pastu no šiem kontiem uz programmu Outlook tīmeklī. Papildinformāciju skatiet sadaļā
   
-[Ieslēgtu vai izslēgtu automātisko pārsūtīšanu Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Automātiskās pārsūtīšanas ieslēgšana vai izslēgšana Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Automātiski Gmail e-pasta ziņojumu pārsūtīšana uz citu kontu](https://support.google.com/mail/answer/10957?hl=en)
+[Gmail ziņojumu automātiska pārsūtīšana uz citu kontu](https://aka.ms/forward-gmail-messages)
   
-[Automātisko e-pasta pāradresācija Yahoo Mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Automātiska e-pasta pārsūtīšana pakalpojumā Yahoo Mail](https://aka.ms/yahoo-email-forwarding)
   
