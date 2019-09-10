@@ -1,5 +1,5 @@
 ---
-title: GoDaddy domēna noņemšana no Office 365
+title: Noņemiet savu GoDaddy domēnu no Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/20/2018
@@ -11,16 +11,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: b2420aaf0d208042a0c2e260753ca62ed18f062c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af726a59e3488ba25651b066c5e141311b28dc71
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552790"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822081"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="e0362-102">GoDaddy domēna noņemšana no Office 365</span><span class="sxs-lookup"><span data-stu-id="e0362-102">Remove your GoDaddy domain from Office 365</span></span>
+# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="da153-102">Noņemiet savu GoDaddy domēnu no Office 365</span><span class="sxs-lookup"><span data-stu-id="da153-102">Remove your GoDaddy domain from Office 365</span></span>
 
-<span data-ttu-id="e0362-103">Mēs nevar noņemt jūsu GoDaddy domēna Office 365 jums.</span><span class="sxs-lookup"><span data-stu-id="e0362-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="e0362-104">Piezvanāt uz [klientu apkalpošanas centru GoDaddy](https://www.godaddy.com/contact-us.aspx.aspx) palīdzību.</span><span class="sxs-lookup"><span data-stu-id="e0362-104">Call [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) for help.</span></span>
+<span data-ttu-id="da153-103">Mēs nevaram noņemt jūsu GoDaddy domēnu no Office 365 jums.</span><span class="sxs-lookup"><span data-stu-id="da153-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="da153-104">Zvaniet [GoDaddy Customer Service](https://aka.ms/contact-godaddy) palīdzību.</span><span class="sxs-lookup"><span data-stu-id="da153-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   
-<span data-ttu-id="e0362-105">Ja uzņēmuma nosaukums nesatur "NETORG" vai nav iegādāta no GoDaddy, noņemt savu domēnu, veicot šos soļus [domēna noņemšana no Office 365.](https://support.office.com/article/f09696b2-8c29-4588-a08b-b333da19810c)</span><span class="sxs-lookup"><span data-stu-id="e0362-105">If the organization name does not contain "NETORG" or was not purchased from GoDaddy, remove your domain by following these steps [Remove a domain from Office 365.](https://support.office.com/article/f09696b2-8c29-4588-a08b-b333da19810c)</span></span>
+<span data-ttu-id="da153-105">Ja organizācijas nosaukums nesatur "NETORG" vai netika iegādāts no GoDaddy, noņemt domēnu, izpildot šīs darbības [Noņemt domēnā Office 365.](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span><span class="sxs-lookup"><span data-stu-id="da153-105">If the organization name does not contain "NETORG" or was not purchased from GoDaddy, remove your domain by following these steps [Remove a domain from Office 365.](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span></span>
   
