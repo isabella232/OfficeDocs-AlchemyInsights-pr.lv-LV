@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666811"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035762"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Programmā Outlook For Mac atbalsts lietotnē
 
 Lai saņemtu atbalstu programmā Outlook Mac problēmas, atveriet Outlook un noklikšķiniet uz **palīdzības** \> **sazināties ar atbalsta dienestu**. Ierakstiet savu jautājumu un Outlook Mac atbalsta komandas dalībnieks ar jums sazināties. 
 
-[Sazinieties ar atbalsta centru programmā Outlook operētājsistēmai Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Papildinformācija: [sazinieties ar atbalsta dienestu programmā Outlook operētājsistēmai Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
