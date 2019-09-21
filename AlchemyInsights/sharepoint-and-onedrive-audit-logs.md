@@ -1,5 +1,5 @@
 ---
-title: Klasisks SharePoint audita žurnāla ziņojumi
+title: Klasiskās SharePoint audita žurnāla atskaites
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504398"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068030"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint un OneDrive audita žurnālos
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint un OneDrive audita žurnāli
 
-**SharePoint un OneDrive mūsdienu vienota audita žurnālus no atbilstības**
+**SharePoint un OneDrive mūsdienu vienotā audita žurnālus no atbilstības**
 
-- [Ieslēgt/izslēgt vienota audita reģistrēšana](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Ieslēgt/izslēgt vienoto audita reģistrēšanu](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Ir nepieciešama SharePoint vai OneDrive bez papildu konfigurācijas.
+Nav nepieciešama papildu konfigurācija programmā SharePoint vai OneDrive.
 
-- Izmanto audita reģistrēšana meklēšanas pārbaudīt failu (s) /mapi (es), lietotāju (-s), atļaujas darbības:
+- Izmantojiet audita reģistrēšanas meklēšanu, lai pārbaudītu faila (-u), mapes (u), lietotāja (u) darbību, atļaujas:
 
-    - [Failu un lapu aktivitātes](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Mapē darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Koplietošana un piekļuves pieprasījumu darbībām](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Sinhronizācija darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Vietnes administrēšanas darbībās](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Papildinformāciju par to, kā atgūt šos notikumus redzēt [meklēšanas audita žurnālā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Failu un lappušu darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Mapes darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Koplietošanas un piekļuves pieprasījumu darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Sinhronizēšanas darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Vietnes administrēšanas darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Lai iegūtu papildinformāciju par to, kā izgūt šos notikumus, skatiet [Meklēt audita žurnālā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**SharePoint klasiskās audita žurnālus**
+**SharePoint Classic audita žurnāli**
 
-- [Skatā un iespējot klasiskās SharePoint audita žurnālos](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Mēs migrējuši SPO, veicot auditēšanu vienotā audita žurnālā (UAL). Tas būtībā nozīmē, ka visi SPO mantotie audita ziņojumi tagad tiks aprīkoti ar UAL un mantotie audita signāli ir pārvietoti uz UAL.
 
-Auditēšanas nepieciešams iespējot vienam katrā vietņu kolekcijā. 
+Galvenās izmaiņas:
 
-**Piezīme**: mēs iesakām izmantot mūsdienu vienota audita žurnālus par labāku un papildu audita iespējas nekā šīs klasiskās audita žurnālus.
+- Apgriešana kā iespēja nav pieejama.
+- Sadaļa, kurā izvēlaties konkrētus auditācijas notikumus, nav pieejama. Lūdzu, skatiet [šo dokumentu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) , lai iegūtu pilnu sarakstu ar auditētajiem notikumiem, kas pieejami pēc noklusējuma.
+- Opcija "atrašanās vieta" sadaļā **pielāgoti pārskati** nav pieejama. 
+- "Dokumentu atvēršana vai lejupielāde" pasākumi nav pieejami. 
 
