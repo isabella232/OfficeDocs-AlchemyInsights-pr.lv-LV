@@ -15,20 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f8b2bcebf875df2ff64521b0a489aa1aff50e0be
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741840"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122185"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Koplietojamas pastkastes lietošana mobilajā ierīcē
 
-Koplietotai pastkastei nevar piekļūt no programmas Outlook, kas ir instalēta mobilajā ierīcē. Vai vēlaties šo līdzekli? Ļaujiet Outlook inženieru komandai zināt. [Balsojums šeit](https://go.microsoft.com/fwlink/?linked=862116)!
+Lai izmantotu koplietojamās pastkastes mobilajā ierīcē, [Lejupielādējiet Outlook Mobile](https://products.office.com/en-us/outlook-mobile-for-android-and-ios) un pēc tam [pievienojiet koplietojamās pastkastes Outlook Mobile](https://support.office.com/en-us/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-Koplietotai pastkastei var izmantot tikai mobilajā ierīcē, atverot pārlūkprogrammu, pierakstoties Office 365 un pēc tam dodoties uz Outlook tīmeklī. Instrukcijas skatiet sadaļā [koplietojamās pastkastes pievienošana programmā Outlook tīmeklī](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
-  
-Ja jums ir piekļuve koplietotās pastkastes, izmantojot programmu Outlook mobilajā ierīcē, apsveriet iespēju izveidot Office 365 grupas, nevis izmantot koplietojamās pastkastes. Papildinformāciju skatiet sadaļā [grupu salīdzināšana](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
-  
-Uzzināt vairāk: [Iegūstiet lietotnes palīdzību programmai Outlook iOS un Android ierīcēm](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Lai saņemtu palīdzību: [Iegūstiet Outlook, iOS un Android lietojumprogrammu palīdzību](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
