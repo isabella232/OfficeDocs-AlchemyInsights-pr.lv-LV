@@ -1,5 +1,5 @@
 ---
-title: 2637 bypass surogātpasta filtrēšanu, lai atļautu noteiktas ziņas?
+title: 2637 apiet surogātpasta filtrēšanu, lai atļautu noteiktus ziņojumus?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406548"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122169"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a><span data-ttu-id="8b8cf-102">Apiet surogātpasta filtrēšanu, lai atļautu noteiktas ziņas?</span><span class="sxs-lookup"><span data-stu-id="8b8cf-102">Bypass spam filtering to allow specific messages?</span></span>
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a><span data-ttu-id="de5e7-102">Apiet surogātpasta filtrēšanu, lai atļautu noteiktus ziņojumus?</span><span class="sxs-lookup"><span data-stu-id="de5e7-102">Bypass spam filtering to allow specific messages?</span></span>
 
-<span data-ttu-id="8b8cf-103">Mēs iesakām [piesardzību](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) , veidojot atļauto lapu sarakstā.</span><span class="sxs-lookup"><span data-stu-id="8b8cf-103">We recommend [caution](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) when you create an allow list.</span></span> <span data-ttu-id="8b8cf-104">Piemēram, ļaujat sava domēna, ļaunprātīgu sūtītāju varēs mānīšanās un domēna nosūtīšana.</span><span class="sxs-lookup"><span data-stu-id="8b8cf-104">For example, if you allow your own domain, malicious senders will be able to spoof and send as your domain.</span></span>  <span data-ttu-id="8b8cf-105">Tā vietā, mēs iesakām šo [viltus pozitīvi traucējummeklēšanas rokasgrāmata](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), kas palīdzēs jums noteikt, kāpēc likumīgu ziņojums tika automātiski atzīmēts kā surogātpasts, un ko jūs varat darīt, lai droši varētu piegādāt ziņojumu.</span><span class="sxs-lookup"><span data-stu-id="8b8cf-105">Instead, we recommend this [false positives troubleshooting guide](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), which will help you to determine why a legitimate message was marked as spam, and what you can do to safely allow delivery of the message.</span></span>
+<span data-ttu-id="de5e7-103">Veidojot atļauto sarakstu, ieteicams [ievērot piesardzību](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) .</span><span class="sxs-lookup"><span data-stu-id="de5e7-103">We recommend [caution](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) when you create an allow list.</span></span> <span data-ttu-id="de5e7-104">Piemēram, ja atļaujat savu domēnu, ļaunprātīgi sūtītāji varēs mānīgs un nosūtīt kā jūsu domēnu.</span><span class="sxs-lookup"><span data-stu-id="de5e7-104">For example, if you allow your own domain, malicious senders will be able to spoof and send as your domain.</span></span>  <span data-ttu-id="de5e7-105">Tā vietā mēs iesakām šo [viltus pozitīvo problēmu novēršanas rokasgrāmatu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), kas palīdzēs noteikt, kāpēc likumīgs ziņojums tika atzīmēts kā surogātpasts, un ko varat darīt, lai droši atļautu ziņojuma piegādi.</span><span class="sxs-lookup"><span data-stu-id="de5e7-105">Instead, we recommend this [false positives troubleshooting guide](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), which will help you to determine why a legitimate message was marked as spam, and what you can do to safely allow delivery of the message.</span></span>
