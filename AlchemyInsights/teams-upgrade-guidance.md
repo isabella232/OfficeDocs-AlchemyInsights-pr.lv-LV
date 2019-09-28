@@ -1,8 +1,7 @@
 ---
-title: Darba grupas jaunināšanas norādījumus
+title: Teams jaunināšanas vadlīnijas
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533886"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305128"
 ---
-# <a name="upgrade-to-teams"></a><span data-ttu-id="d9968-102">Jauniniet uz komandas</span><span class="sxs-lookup"><span data-stu-id="d9968-102">Upgrade to Teams</span></span>
+# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="b43b0-102">Microsoft Teams jauninājums</span><span class="sxs-lookup"><span data-stu-id="b43b0-102">Microsoft Teams upgrade</span></span>
 
-<span data-ttu-id="d9968-103">Jūs varat atrast soli pa solim virzās no Skype uzņēmumam Microsoft Teams [šeit](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).</span><span class="sxs-lookup"><span data-stu-id="d9968-103">You can find a step-by-step guide for moving from Skype for Business to Microsoft Teams [here](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).</span></span>
-  
+<span data-ttu-id="b43b0-103">Neatkarīgi no tā, vai tikko sākāt darbu ar komandām, jau izmantojot komandas kopā ar Skype darbam vai esat gatavs jaunināt, mēs vēlamies nodrošināt jums visu nepieciešamo, lai virzītos uz veiksmīgu braucienu uz komandām.</span><span class="sxs-lookup"><span data-stu-id="b43b0-103">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="b43b0-104">Lai iegūtu vairāk informācijas, lūdzu, apmeklējiet saites zemāk.</span><span class="sxs-lookup"><span data-stu-id="b43b0-104">For more information please visit the links below.</span></span>
+
+[<span data-ttu-id="b43b0-105">Darba sākšana ar Microsoft Teams jauninājumu</span><span class="sxs-lookup"><span data-stu-id="b43b0-105">Getting started with your Microsoft Teams upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[<span data-ttu-id="b43b0-106">Plānojiet jaunināšanu</span><span class="sxs-lookup"><span data-stu-id="b43b0-106">Plan for your upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[<span data-ttu-id="b43b0-107">Izpratne par Microsoft Teams un Skype darbam līdzāspastāvēšanu</span><span class="sxs-lookup"><span data-stu-id="b43b0-107">Understand Microsoft Teams and Skype for Business coexistence</span></span>](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[<span data-ttu-id="b43b0-108">Veicot jaunināšanu no Skype Online Business komandām</span><span class="sxs-lookup"><span data-stu-id="b43b0-108">Performing the upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[<span data-ttu-id="b43b0-109">Veicot jaunināšanu no Skype biznesa lokālas grupas</span><span class="sxs-lookup"><span data-stu-id="b43b0-109">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
