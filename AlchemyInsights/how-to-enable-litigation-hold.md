@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-Litigation-Hold
+title: 976-kā-to-Enable-tiesvedība-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540764"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398634"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Aizturiet pastkastes juridisko
+# <a name="place-a-mailbox-on-legal-hold"></a>Novietot pastkasti juridiskā aizturī
 
-- Novietot pastkastes uz tiesāšanos turēt vai In-Place turēt, Exchange Online plāns 2 licence [Exchange Online plāns 2 licence](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ir nepieciešama. Ja pastkaste ir piešķirts 1 plāna licenci, var piešķirt atsevišķu Exchange Online arhivēšanas pievienojumprogrammu licenci [pievienojumprogrammu Exchange Online arhivēšanas licence](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Lai novietotu pastkasti, kas aizturē tiesvedību vai atrodas uz vietas, ir nepieciešams Exchange Online Plan 2 licences [Exchange Online 2. plāna licence](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ja pastkastei ir piešķirta 1. plāna licence, varat piešķirt atsevišķu Exchange Online arhivēšanas pievienojumprogrammu licences [Exchange Online arhivēšanas pievienojumprogrammu licenci](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Lai iespējotu tiesvedības turēt uz vienu lietotāju, [rīkojieties šādi](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Ja ir iespējota ar tiesāšanos turēt, tiek saglabāts visu pastkastes saturu.
+- Lai iespējotu viena lietotāja aizturēšana, [rīkojieties](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)šādi. Ja ir iespējota tiesas procesa aizturēšana, viss pastkastes saturs tiek saglabāts.
 
-- Jāievieto turēt uz visām pastkastēm jūsu uzņēmumā, var izmantot Office 365 saglabāšanas politiku, [rīkojieties šādi](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Ņemiet vērā, ka uzņēmuma saglabāšanas politiku, par jauniem lietotājiem tiks automātiski piešķirts politiku.
+- Lai saglabātu saturu visās uzņēmuma pastkastēs, varat izmantot [organizācijas mēroga Office 365 saglabāšanas politiku](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Ņemiet vērā, ka organizācijas mēroga saglabāšanas politikas, jaunu lietotāju tiks automātiski piešķirta politika.
