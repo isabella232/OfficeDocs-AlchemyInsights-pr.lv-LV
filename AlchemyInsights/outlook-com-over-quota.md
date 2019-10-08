@@ -1,5 +1,5 @@
 ---
-title: Outlook.com virs kvotas
+title: Outlook.com over kvota
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,23 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: b54c7d21dc3cc8f027f7c5d9136a361657d416f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bcfbe9cc479a36c4d1ffd9d19a403e146794f024
+ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546058"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "37414090"
 ---
-# <a name="email-and-storage-quota-in-outlookcom"></a>E-pasta adresi un krātuves kvotas Outlook.com
+# <a name="email-and-storage-quota-in-outlookcom"></a>E-pasta un krātuves kvota Outlook.com
 
 **Sūtīšanas ierobežojumi**
 
-Kas palīdz samazināt surogātpasta daudzumu, Outlook.com ir ikdienas e-pastu sūtīšanu robežu. Lai uzzinātu, kā jūs varat palielināt jūsu sūtīšanas dienas limitu, skatiet [sūtīšanu robežas Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai palīdzētu samazināt surogātpastu, Outlook.com ir ikdienas e-pasta sūtīšanas limitu. Lai uzzinātu, kā varat palielināt savu ikdienas sūtīšanas limitu, skatiet sadaļu [ierobežojumu sūtīšana Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Krātuves limitu**
+**Uzglabāšanas limiti**
 
-Ja jūsu Iesūtne ir pilna, nevarēsit nosūtīt vai saņemt ziņojumus, un cilvēkiem, kas sūta jums e-pastu saņemsiet kļūdas ziņojumu, ka jūsu Iesūtne ir pilna. Jūs varat redzēt, cik daudz jums ir pieejama, dodoties uz uzglabāšanas <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+Ja Iesūtne ir pilna, jūs nevarēsit nosūtīt un saņemt ziņojumus, un personas, kas sūta jums e-pasta ziņojumu, saņems kļūdas ziņojumu, ka Iesūtne ir pilna. Jūs varat redzēt, cik daudz atmiņas ir pieejams, dodoties uz <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
  [**Iestatījumi**
- > **Skatīt visus Outlook iestatījumus** > **vispārējās**> **uzglabāšanas**] (https://outlook.live.com/mail/options/general/storage), vai jūs varat [uzzināt, kā padarīt telpu jūsu pastkastē](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
+ > **Skatīt visus Outlook iestatījumus** > **General**> **Storage**] (https://outlook.live.com/mail/options/general/storage), vai jūs varat [uzzināt, kā padarīt telpu jūsu pastkastē](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Ja jums ir uzcenojums, var apskatīt jūsu krātuves, dodoties uz [ **iestatījumus** > **Outlook iestatījumu skatīšana** > **Premium**> funkcijas](https://outlook.live.com/mail/options/premium/features).
+**Izdzēsto vienumu iztukšojums** E-pasta Izdzēstie vienumi tiek ieskaitīti jūsu pastkastes lielumā. [Mapi Izdzēstie vienumi](https://go.microsoft.com/fwlink/?linkid=2029241) var iztukšot, atlasot mapi un izvēloties **Iztukšot mapi**.
+
+**Kā neatgriezeniski dzēst e-pastu** Lai neatgriezeniski izdzēstu e-pastu, atlasiet vai iezīmējiet ziņojumu un nospiediet **maiņa** un **del** uz klaviatūras.
+
+Ja jums ir Premium konts, varat skatīt savu krātuvi, dodoties uz [ **Iestatījumi** > , lai**skatītu visus Outlook iestatījumus** > **Premium**> līdzekļus](https://outlook.live.com/mail/options/premium/features).
