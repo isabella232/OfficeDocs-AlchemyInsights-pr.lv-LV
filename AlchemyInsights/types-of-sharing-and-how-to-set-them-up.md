@@ -21,14 +21,14 @@ ms.contentlocale: lv-LV
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742416"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="807e1-102">Dažādu Outlook koplietojamo kalendāru veidi un to iestatīšana</span><span class="sxs-lookup"><span data-stu-id="807e1-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="8206d-102">Dažādu Outlook koplietojamo kalendāru veidi un to iestatīšana</span><span class="sxs-lookup"><span data-stu-id="8206d-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="807e1-103">Koplietojamas pastkastes izveide</span><span class="sxs-lookup"><span data-stu-id="807e1-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="8206d-103">Koplietojamas pastkastes izveide</span><span class="sxs-lookup"><span data-stu-id="8206d-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="807e1-104">Telpu un aprīkojuma pastkastes</span><span class="sxs-lookup"><span data-stu-id="807e1-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="8206d-104">Telpu un aprīkojuma pastkastes</span><span class="sxs-lookup"><span data-stu-id="8206d-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="807e1-105">Kalendāra grupas izveide</span><span class="sxs-lookup"><span data-stu-id="807e1-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="8206d-105">Kalendāra grupas izveide</span><span class="sxs-lookup"><span data-stu-id="8206d-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="807e1-106">Outlook kalendāra koplietošana ar citiem lietotājiem</span><span class="sxs-lookup"><span data-stu-id="807e1-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="8206d-106">Outlook kalendāra koplietošana ar citiem lietotājiem</span><span class="sxs-lookup"><span data-stu-id="8206d-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="807e1-107">Ja nevarat skatīt kalendāra aizņemtības informāciju citos kalendāros vai ja citas personas nevar skatīt aizņemtības informāciju jūsu kalendārā, skatiet rakstu [Microsoft atbalsta un atkopšanas palīgs pakalpojumam Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="807e1-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="8206d-107">Ja nevarat skatīt kalendāra aizņemtības informāciju citos kalendāros vai ja citas personas nevar skatīt aizņemtības informāciju jūsu kalendārā, skatiet rakstu [Microsoft atbalsta un atkopšanas palīgs pakalpojumam Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="8206d-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
