@@ -1,5 +1,5 @@
 ---
-title: Visio darbojas uz Mac
+title: Vai Visio darbojas Mac datorā
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529674"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Visio darbojas uz Mac?
+# <a name="does-visio-work-on-a-mac"></a>Vai Visio darbojas Mac datorā?
 
-Tur ir Visio desktop pieteikumu par Mac. Ja vien lietotājs, kam nepieciešama app ir [Visio Online piešķirto licenci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), viņi var [Skatīt, izveidot un rediģēt diagrammām programmā Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) web pārlūkprogrammā.
+Nav Visio darbvirsmas lietojumprogrammu operētājsistēmai Mac. Tomēr, kamēr lietotājs, kuram ir nepieciešama programma ir [Visio Online licences piešķirtas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), viņi var [Skatīt, izveidot un rediģēt diagrammas programmā Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) Web pārlūkprogrammā.
   
   

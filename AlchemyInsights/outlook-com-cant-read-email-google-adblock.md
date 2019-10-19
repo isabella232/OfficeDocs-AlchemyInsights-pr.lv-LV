@@ -1,5 +1,5 @@
 ---
-title: Nevar nolasīt Outlook.com e-pastu Google Chrome ar AdBlock
+title: Nevar lasīt Outlook.com e-pastu Google Chrome ar AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537666"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>Nevar lasīt e-pastu Google Chrome ar AdBlock
 
-Ja nevar lasīt vai rakstīt e-pastu, izmantojot Google Chrome ar AdBlock paplašinājumu:
+Ja nevarat lasīt vai sastādīt e-pastu, izmantojot Google Chrome ar AdBlock paplašinājumu:
 
-- Izmantojiet [Microsoft malas](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) vai citu web pārlūkprogrammu.
-- AdBlock iestatījumiem neiekļaut Outlook.com. Google Chrome augšējā labajā stūrī, izvēlieties **AdBlock** un pēc tam atlasiet **neskrien lapās šajā domēnā**. Atsvaidziniet pārlūku, lai vēlreiz ielādēt Outlook.com.
+- Izmantojiet [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) vai citu tīmekļa pārlūkprogrammu.
+- Izslēgt Outlook.com AdBlock iestatījumus. Google Chrome augšējā labajā stūrī atlasiet **Adblock** un pēc tam atlasiet **nepalaist lapās šajā domēnā**. Atsvaidziniet pārlūkprogrammu, lai ielādētu Outlook.com vēlreiz.

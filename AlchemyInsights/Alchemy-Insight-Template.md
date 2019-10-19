@@ -1,5 +1,5 @@
 ---
-title: tāpat kā filename ir labākais
+title: pats, kas faila nosaukums ir labākais
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800052"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vajadzīga alķīmija Header H1, H2 ir nestrādā.
-Labāko praksi un pamatnostādnēm par alķīmiju autorēšanas:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Nepieciešamā Alchemy header H1, H2's nestrādā.
+Alchemy autorēšanas paraugprakse un vadlīnijas:
 
-1. **Neligzdo Alchemy atziņas mapēs**- tas saplīst url struktūru. Mēs meklēja šo noteikšanu.
-1. Failus mapē **AlchemyInsights** vajadzētu būt mazie filenames ar telpām ex pārnesumzīmes. ***how-to-enable-tiesvedības-turiet***.
-    1. Ietver kārtulas ID vai kopuma ID no [alķīmijas partneru portāla](https://alchemyportal.azurewebsites.net) ms.custom laukā. ex. ***MS.Custom: 100021***
-1. Izmantot metadatu atlikušo augšpusē šo failu kā veidnei.
-1. [Alchemy partneru portāla](https://alchemyportal.azurewebsites.net)virzītos uz leju līdz sadaļai **klientu ieskatu nosaukums:** un izmantot šo kā sākuma punkts H1 titra par ieskatu. 
+1. **Neligzdot Alchemy ieskatu mapēs**-tas būs pārtraukums URL struktūru. Mēs meklējam nosaka to.
+1. Failus mapē **Alchemyinsights** jābūt mazo failu nosaukumiem ar defises atstarpēm ex. ***kā-to-Enable-tiesvedība-turiet***.
+    1. Iekļaujiet kārtulas ID vai kopuma ID no [Alchemy partneru portāla](https://alchemyportal.azurewebsites.net) MS. Custom laukā. Ex. ***MS. Custom: 100021***
+1. Izmantot pārējos metadatus šī faila augšpusē kā veidni.
+1. [Alķīmijas partneru portālā](https://alchemyportal.azurewebsites.net)naviģējiet uz leju līdz sadaļai **Customer Insight nosaukums:** un izmantojiet to kā sākuma punktu savam H1 nosaukumam, lai iegūtu ieskatu. 
     > [!NOTE]
-    > Alķīmijas atziņas ir jābūt tikai vienu H1 augšpusē vai viņi pārtrauks ražošanu. H2s nepadara tik lietot **treknraksta** vai citām konvencijām neizsaka atsevišķās sekcijās.
-1. Pēc tam aizpildiet pamattekstu, izmantojot iesaukumam Alchemy noteikums lapas sadaļā klientu atziņas
-    1. Aizzīmētiem sarakstiem ir smalka
-    1. Numurētus sarakstus pārāk
-    1. **Treknraksts** un *kursīvs* , tiek a-ok
-    1. Saites, vienmēr ir jābūt vai nu **"uz web saites" / ārējo** vai **dziļas saites uz lietotāja interfeisa elementus**, nevis iekšējās saites.
-    1. Attēli nav oficiāli atbalstīti šajā laikā, bet tas ir par plānu.
+    > Alchemy ieskats ir jābūt tikai vienu H1 augšpusē vai tie saplīst ražošanā. H2s nepadara vai nu tik izmantot **treknrakstu** vai citas konvencijas, lai norādītu atsevišķas sadaļas.
+1. Pēc tam ievadiet pamattekstu, izmantojot melnrakstu materiālu sadaļā alķīmiju kārtulu lappuse
+    1. Aizzīmētie saraksti ir labi
+    1. Numurēti saraksti pārāk
+    1. **Treknraksts** un *Slīpraksts* ir-labi
+    1. Links vienmēr jābūt vai nu **"saites uz Web"/ārējo** vai **dziļi saites uz UI elementus**, nevis iekšējās saites.
+    1. Šajā laikā attēli nav oficiāli atbalstīti, bet tas ir ceļvedī.
 
-Un tas tiešām jau ir mazliet pārāk ilgi. Vislabākā prakse ir apmēram 400 rakstzīmēm--
+Un tas ir patiešām jau mazliet par garu. Labākā prakse ir aptuveni 400 rakstzīmes---------------------------------
 
-Kad jūsu lapa ir gatava, izvelciet to dzīvu zaru. Pēc tam [Alchemy partneru portālā](https://alchemyportal.azurewebsites.net) un url laukā ievadiet faila nosaukumu. 
+Kad saturs ir gatavs, izvelciet to uz tiešraides zaru. Pēc tam dodieties uz [Alchemy partneru portālu](https://alchemyportal.azurewebsites.net) un ievadiet faila nosaukumu laukā URL. 

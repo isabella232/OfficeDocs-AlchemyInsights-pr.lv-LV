@@ -1,5 +1,5 @@
 ---
-title: Kā pārbaudīt paroļu sinhronizācijas statuss
+title: Kā pārbaudīt paroles sinhronizācijas statusu
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555384"
 ---
-# <a name="enable-password-sync"></a>Jāiespējo paroles sinhronizācija
+# <a name="enable-password-sync"></a>Iespējot paroles sinhronizāciju
 
-1.  **DirSync statuss** izvēlieties Microsoft 365 admin centra mājas lapā. 
+1.  Izvēlieties **Dirsync statusu** Microsoft 365 administrēšanas centra sākumlapā. 
     
-     *Pārmaiņus, jūs varat doties uz **lietotāju** \> **Aktīvie lietotāji**, un Aktīvie lietotāji lapā izvēlieties **vairāk** \> **Directory sinhronizācija.*** 
+     *Varat arī doties uz **lietotāju** \> **aktīvajiem lietotājiem**un lapā Aktīvie lietotāji izvēlēties **vairāk** \> **direktorija sinhronizēšana.*** 
     
-2. Direktoriju sinhronizācijas rūtī izvēlieties **iet uz DirSync vadības**. 
+2. Direktorija sinhronizēšana rūtī izvēlieties **dodieties uz DirSync pārvaldība**. 
     
-3. Tagad jūs redzēsiet savu statusu, un veikt izmaiņas:
+3. Tagad jūs redzēsiet savu statusu un veikt izmaiņas:
     
-    **Iespējota paroles sinhronizācija:** (Patiess vai aplams). Norāda, vai jums ir parole sinhronizācijas aktivizē starp lokālajiem un biroja 365 īrnieks. 
+    **Iespējota paroles sinhronizācija:** (patiess vai aplams). Norāda, vai ir iespējota paroļu sinhronizēšana starp lokālas un Office 365 nomnieka. 
     
-    **Pēdējās sinhronizācijas parole:** (Pēdējo reizi skrēja paroles sinhronizācija). Tas parādīs brīdinājumu un saiti problēmu novēršanas rīks, ja pēdējās sinhronizēšanas bija vairāk nekā pirms trim dienām. 
+    **Pēdējās paroles sinhronizācija:** (pēdējo reizi paroļu sinhronizēšana ilga). Tas parādīs brīdinājumu un saiti uz problēmu novēršanas rīku, ja pēdējā sinhronizācija bija vairāk nekā pirms trim dienām. 
     
 

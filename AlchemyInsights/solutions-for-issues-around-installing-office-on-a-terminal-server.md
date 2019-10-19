@@ -1,5 +1,5 @@
 ---
-title: Risinājumu problēmām ap termināļa serverī instalēt office
+title: Risinājumi problēmām saistībā ar Office instalēšanu termināļa serverī
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501482"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Risinājumu problēmām ap termināļa serverī instalēt office
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Risinājumi problēmām saistībā ar Office instalēšanu termināļa serverī
 
-Lai izmantotu koplietojamās datora aktivizāciju, jums ir jābūt Office 365 plānu, kas ietver Office 365 ProPlus.
+Lai izmantotu koplietojamo datoru aktivizāciju, jums jābūt Office 365 plānam, kas ietver Office 365 ProPlus.
   
-- Pārliecinātos, ka koplietojama datora aktivizēšana ir iespējota Office 365 ProPlus
+- Pārbaudiet, vai ir iespējots Office 365 ProPlus koplietojamo datoru aktivizācija
     
-- Pārbaudiet, vai Office 365 ProPlus aktivizāciju izdevās
+- Pārbaudiet, vai Office 365 ProPlus aktivizācija izdevās
     
-- Pārskatīt kļūdu ziņojumus koplietojama datora aktivizācijai:
+- Pārskatīt koplietojamo datoru aktivizēšanas kļūdu ziņojumus:
     
-  - "Produktus, atradām jūsu kontā nevar izmantot koplietojamu datoru scenārijos aktivizēt Office"
+  - "Produktus, kurus mēs atradām jūsu kontā, nevar izmantot, lai aktivizētu Office koplietojamos datoru scenārijos."
   
 Šī kļūda nozīmē, ka jums nav Office 365 plānu, kas ietver Office 365 ProPlus.
     
-  - "Nelicencētu produkts"
+  - "Nelicencēts produkts"
     
-  - Pārbaudīt, ka lietotājs ir piešķirts licenci par biroja 365 ProPlus.
+  - Pārbaudiet, vai lietotājam ir piešķirta Office 365 ProPlus licence.
     
-  - Pārbaudiet, ka lietotājs paraksta ar savu lietotāja kontu par biroja 365
+  - Pārbaudiet, vai lietotājs pierakstās ar savu lietotāja kontu Office 365
     
-  - Pārbaudiet, vai ir savienojums starp koplietojamu datoru un internetu.
+  - Pārbaudiet, vai pastāv savienojums starp koplietojamo datoru un internetu.
     
-Par citām problēmu novēršanas padomus skatiet: [novērst problēmas, kas saistītas ar koplietojama datora aktivizāciju Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Citu problēmu novēršanas padomus, lūdzu, skatiet: [problēmu novēršana saistībā ar koplietojamo datoru aktivizācija Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

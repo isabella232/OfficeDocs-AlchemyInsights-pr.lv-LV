@@ -1,5 +1,5 @@
 ---
-title: Alķīmijas - Outlook meklēt nav idexing
+title: Alchemy-Outlook meklēšana nav idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505838"
 ---
-# <a name="outlook-search-not-indexing"></a>Programmas Outlook meklēšanas indeksācija nav
+# <a name="outlook-search-not-indexing"></a>Outlook meklēšanas nav indeksēšana
 
-Mēs esam informēti par Outlook meklēšanas jautājumiem saistībā ar neseno drošības atjauninājumi sistēmai Windows.
+Mums ir zināms par Outlook meklēšanas jautājumiem, kas saistīti ar jaunākajiem drošības atjauninājumiem operētājsistēmai Windows.
   
-Kad meklējat Outlook, jūs varat saņemt kādu no šiem kļūdas: **kaut kas nogāja greizi un meklēšanu nevarēja pabeigt**vai **meklēšanas rezultāti var būt nepilnīgi, jo vienumi joprojām tiek indeksēti**. Labojums tika izdots kā papildu Windows atjaunināšanu. Lūdzu, instalējiet atbilstošo versiju Windows jūs redzat šo jautājumu par vienu: 
+Meklējot programmā Outlook, var rasties kāda no šīm kļūdām: **kaut kļūme un meklēšanu nevar pabeigt**, vai **meklēšanas rezultāti var būt nepilnīgi, jo vienumi joprojām tiek indeksēti**. Labojums tika izdots kā neobligāts Windows atjauninājums. Lūdzu, instalējiet to, kas atbilst Windows versijai, kurai jūs redzat šo problēmu: 
   
-> [Windows 7 - June 27, 2017 atjaunināt](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-June 27, 2017 atjauninājumu](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8.1 - June 27, 2017 atjaunināt](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1-27 jūnijs 2017 atjauninājumu](https://support.microsoft.com/kb/4022720.aspx)
     
-> [10. Windows versija 1703 - June 27, 2017 atjauninājums](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 versija 1703-27 jūnijs 2017 atjauninājums](https://support.microsoft.com/kb/4022716.aspx)
     
-Jaunāko informāciju, skatiet rakstu: [Outlook zināmas problēmas jūnijā 2017 drošības atjauninājumos](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Issue #5. 
+Lai iegūtu jaunāko informāciju, lūdzu, skatiet rakstu: [Outlook zināmās problēmas jūnijā 2017 drošības atjauninājumu](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problēmu #5. 
   
 

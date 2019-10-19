@@ -1,5 +1,5 @@
 ---
-title: Ierobežotu piekļuvi ar Intune
+title: Ierobežotas piekļuves ar InTune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505001"
 ---
-# <a name="conditional-access-with-intune"></a>Ierobežotu piekļuvi ar Intune
+# <a name="conditional-access-with-intune"></a>Ierobežotas piekļuves ar InTune
 
-Izmantojot **Ierobežotas piekļuves** ar Intune prasa 3 soļi: 
+Izmantojot **ierobežotas piekļuves** ar InTune nepieciešams 3 soļi: 
   
-- Izveidot **Ierobežotas piekļuves politikas** , kas nosaka, kādi resursi ir aizsargāta un nosacījumu nepieciešamību, ir jāievēro, lai piekļūtu šiem resursiem. Piemēram, ierīcei jābūt atbilstošiem pirms piekļūstat korporatīvo e-pastu. 
+- Izveidojiet **ierobežotas piekļuves politiku** , kas definē, kādi resursi tiek aizsargāti, un kādi nosacījumi ir jāizpilda, lai piekļūtu šiem resursiem. Piemēram, ierīcei jābūt saderīgai pirms piekļūšanas korporatīvajam e-pastam. 
     
-- Izveidot **Atbilstība politikas** definēt uzstādījumus, kas jāizpilda, pirms ierīce tiek uzskatīta par atbilstošu. Piemēram, ierīce, pirms tas tiek uzskatīts par atbilstošu, jābūt vismaz 6 ciparu pin. 
+- Izveidojiet **atbilstības politiku** , lai definētu iestatījumus, kas jāizpilda, pirms ierīce tiek uzskatīta par atbilstošu. Piemēram, ierīcei jābūt vismaz 6 ciparu spraudkontaktam, pirms tas tiek uzskatīts par atbilstošu. 
     
-- Nodrošinot gan **Atbilstības** un **Ierobežotas piekļuves politiku** ir mērķētas uz vajadzīgo lietotāju grupām. Tas var prasīt konkrētu lietotāju grupas izveide Azure Active Directory. 
+- Gan **atbilstības politikas** , gan **ierobežotas piekļuves politikas** nodrošināšana ir vērsta uz vēlamajām lietotāju grupām. Tas var būt nepieciešams izveidot konkrētu lietotāju grupas pakalpojumā Azure Active Directory. 
     
 Lasīt vairāk:
   
-- [Ierobežotas piekļuves labākās prakses](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Ierobežotas piekļuves paraugprakse](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Darba sākšana ar ierobežotas piekļuves](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Darba sākšana ar ierobežotu piekļuvi](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

@@ -1,5 +1,5 @@
 ---
-title: Izveidot vietni, SharePoint Online
+title: Izveidot vietni SharePoint Online
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515922"
 ---
 # <a name="create-a-site"></a>Izveidot vietni
 
-Var izveidot dažādu tipu vietnēs SharePoint Online. Lai uzzinātu, kā to izdarīt jaunu SharePoint administrēšanas centrā, skatiet [izveidot vietni](https://go.microsoft.com/fwlink/?linkid=866295). Informācija par to, kas ļauj lietotājiem izveidot savas vietnes, skatiet [pārvaldīt vietņu izveide SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+SharePoint Online var izveidot dažādu tipu vietnes. Lai uzzinātu, kā to paveikt jaunajā SharePoint administrēšanas centrā, skatiet sadaļu [vietnes izveide](https://go.microsoft.com/fwlink/?linkid=866295). Lai iegūtu informāciju par to, kā atļaut lietotājiem izveidot savas vietnes, skatiet [vietni vietnes izveides pārvaldīšana SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Info par jauno vietu tipiem, skatiet [grupas pievienots komandu vietnes](https://go.microsoft.com/fwlink/?linkid=866292) vai [Saziņas vietnes](https://go.microsoft.com/fwlink/?linkid=866294).
+Informāciju par jaunajiem vietnes tipiem skatiet sadaļā [saistītu grupu vietņu](https://go.microsoft.com/fwlink/?linkid=866292) vai [saziņas vietņu](https://go.microsoft.com/fwlink/?linkid=866294)grupēšana.
     
 
 

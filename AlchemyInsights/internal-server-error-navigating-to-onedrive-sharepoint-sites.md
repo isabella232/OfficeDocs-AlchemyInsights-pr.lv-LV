@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754487"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Iekšēja servera kļūda, pārvietojoties SharePoint vai OneDrive vietnēs
@@ -22,7 +22,7 @@ Lietotāji var saņemt 500 iekšēja servera kļūda, mēģinot naviģēt uz Sha
 Lūdzu, mēģiniet notīrīt pārlūka kešatmiņu pirms navigāciju uz vietni.
 
 
-1. Pārlūkprogrammā Microsoft Edge atveriet sadaļu vairāk... _ Gt_ iestatījumi
+1. Pārlūkprogrammā Microsoft Edge atveriet sadaļu vairāk... > iestatījumi
 
 2. Sadaļā Notīrīt pārlūkošanas datus atlasiet **izvēlēties, ko notīrīt**
 
