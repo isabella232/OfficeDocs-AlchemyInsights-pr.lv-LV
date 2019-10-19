@@ -1,5 +1,5 @@
 ---
-title: 322 jautājumus, kad lietotājs ir problēmas nosūtīt
+title: 322 problēmas, kad lietotājs ir problēmas sūtīšana
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.custom:
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
 ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661519"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="38b5d-102">Lietotājs ir problēmas nosūtīt e-pasta ziņojumus</span><span class="sxs-lookup"><span data-stu-id="38b5d-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="bd991-102">Lietotājs ir problēmas nosūtot e-pasta ziņojumus</span><span class="sxs-lookup"><span data-stu-id="bd991-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="38b5d-103">Izskatās, ka jums ir pasta plūsmas problēmu.</span><span class="sxs-lookup"><span data-stu-id="38b5d-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="38b5d-104">Mums ir diagnostika, kas palīdzēs identificēt daudz kopīgu pasta plūsmas problēmu.</span><span class="sxs-lookup"><span data-stu-id="38b5d-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="38b5d-105">Noklikšķiniet uz **Palaist diagnostikas** zemāk.</span><span class="sxs-lookup"><span data-stu-id="38b5d-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="bd991-103">Izskatās, ka jums ir pasta plūsma jautājumu.</span><span class="sxs-lookup"><span data-stu-id="bd991-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="bd991-104">Mums ir diagnostika, kas palīdzēs identificēt daudzas bieži sastopamas pasta plūsmas problēmas.</span><span class="sxs-lookup"><span data-stu-id="bd991-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="bd991-105">Noklikšķiniet uz **palaist diagnostiku** .</span><span class="sxs-lookup"><span data-stu-id="bd991-105">Click **Run Diagnostics** below.</span></span>

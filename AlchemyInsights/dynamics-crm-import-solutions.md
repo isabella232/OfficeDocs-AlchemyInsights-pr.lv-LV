@@ -1,5 +1,5 @@
 ---
-title: Dynamics CRM importa risinājumiem
+title: Dynamics CRM importēšanas risinājumi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.custom:
 - "1078"
 - "6200003"
 ms.openlocfilehash: 0c705cda207c7696840a2cb1c773c643c60814b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528450"
 ---
-# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="575d6-102">Dynamics CRM importa risinājumiem</span><span class="sxs-lookup"><span data-stu-id="575d6-102">Dynamics CRM Import Solutions</span></span>
+# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="35b9d-102">Dynamics CRM importēšanas risinājumi</span><span class="sxs-lookup"><span data-stu-id="35b9d-102">Dynamics CRM Import Solutions</span></span>
 
-* [<span data-ttu-id="575d6-103">Risinājumu nevar dzēst, jo atkarības</span><span class="sxs-lookup"><span data-stu-id="575d6-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [<span data-ttu-id="35b9d-103">Risinājumu nevar dzēst atkarības dēļ</span><span class="sxs-lookup"><span data-stu-id="35b9d-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [<span data-ttu-id="575d6-104">Montāžas versiju kļūda importējot risinājums</span><span class="sxs-lookup"><span data-stu-id="575d6-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [<span data-ttu-id="35b9d-104">Montāžas versijas kļūda, importējot risinājumu</span><span class="sxs-lookup"><span data-stu-id="35b9d-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [<span data-ttu-id="575d6-105">Neizdevās eksportēt biznesa procesa kļūdu</span><span class="sxs-lookup"><span data-stu-id="575d6-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [<span data-ttu-id="35b9d-105">Neizdevās eksportēt biznesa procesa kļūdu</span><span class="sxs-lookup"><span data-stu-id="35b9d-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [<span data-ttu-id="575d6-106">Risinājumu instalēšana vai noņemšana neizdevās, jo instalēšanas vai noņemšanas no citu risinājumu, vienlaikus</span><span class="sxs-lookup"><span data-stu-id="575d6-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [<span data-ttu-id="35b9d-106">Risinājuma instalēšana vai noņemšana neizdevās cita risinājuma instalēšanas vai noņemšanas dēļ</span><span class="sxs-lookup"><span data-stu-id="35b9d-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
-* [<span data-ttu-id="575d6-107">Instalētu, atjauninātu vai noņemtu vēlamais risinājums</span><span class="sxs-lookup"><span data-stu-id="575d6-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
+* [<span data-ttu-id="35b9d-107">Vēlamā risinājuma instalēšana, atjaunināšana vai noņemšana</span><span class="sxs-lookup"><span data-stu-id="35b9d-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   

@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736908"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="1a566-102">Kļūsti admin</span><span class="sxs-lookup"><span data-stu-id="1a566-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="632a2-102">Kļūsti admin</span><span class="sxs-lookup"><span data-stu-id="632a2-102">Become an Admin</span></span>
 
-<span data-ttu-id="1a566-103">Uzņemties admin lomu šajā organizācijā, jums ir nepieciešams pārņemt nomnieka.</span><span class="sxs-lookup"><span data-stu-id="1a566-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
+<span data-ttu-id="632a2-103">Uzņemties admin lomu šajā organizācijā, jums ir nepieciešams pārņemt nomnieka.</span><span class="sxs-lookup"><span data-stu-id="632a2-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
   
-<span data-ttu-id="1a566-104">Izpildiet šajā rokasgrāmatā sniegtos norādījumus: [vai admin pārņemšanas Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="1a566-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="632a2-104">Izpildiet šajā rokasgrāmatā sniegtos norādījumus: [vai admin pārņemšanas Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="632a2-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
