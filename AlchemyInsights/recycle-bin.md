@@ -1,5 +1,5 @@
 ---
-title: Atkritne
+title: Atkritni
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552997"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Atjaunotu vienumus SharePoint Online
+# <a name="restore-items-in-sharepoint-online"></a>Vienumu atjaunošana SharePoint Online
 
-Dzēšot vienumus SharePoint Online, tie esam saglabāti kopā 93 dienas. Tie paliek vietnes atkritni visu laiku, ja vien iztukšot vai dzēst no tā vienumus. Šajā gadījumā krājumi iet uz vietņu kolekcijas atkritni, kur viņi paliek pārējā 93 dienas. Laiku beigās, vienumi tiek neatgriezeniski izdzēsti. Lai atjaunotu izdzēstos vienumus no vietnes atkritnes:
+Dzēšot vienumus SharePoint Online, tie tiek saglabāti kopā 93 dienas. Viņi uzturēties vietnes atkritni visu laiku, ja vien jūs iztukšot to vai izdzēst vienumus no tā. Šādā gadījumā vienumi pāriet uz vietņu kolekcijas atkritni, kur tie uzturēties atlikušo 93 dienu laikā. Laika beigās vienumi tiek neatgriezeniski dzēsti. Lai atjaunotu izdzēstos vienumus no vietnes atkritnes:
   
 1. Dodieties uz vietni un kreisajā rūtī noklikšķiniet uz **Atkritne** . 
     
-    Ja **Atkritne** nav redzama, kreisās rūts, noklikšķiniet uz uzstādījumi ikonas augšējā labajā pusē un pēc tam noklikšķiniet uz **vietnes saturu**. Atkritne atrodas labajā pusē uz komandjoslas augšpusē.
+    Ja kreisajā rūtī neredzat **Atkritne** , noklikšķiniet uz ikonas iestatījumi augšējā labajā stūrī un pēc tam noklikšķiniet uz **vietnes saturs**. Atkritne atrodas augšpusē pa labi no komandjoslas.
     
-2. Lapā **Atkritni** , atlasiet vienumus, kurus vēlaties atjaunot, norādot uz to un noklikšķinot uz atzīmes ikonas, kas parādās. 
+2. Lapā **Atkritne** atlasiet vienumus, kurus vēlaties atjaunot, norādot uz tiem un noklikšķinot uz atzīmes ikonas, kas tiek parādīta. 
     
 3. Noklikšķiniet uz **atjaunot**.
     
-[Izdzēsto vienumu atjaunošana no vietņu kolekcijas atkritni](https://go.microsoft.com/fwlink/?linkid=866439)
+[Izdzēsto vienumu atjaunošana vietņu kolekcijas atkritnē](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

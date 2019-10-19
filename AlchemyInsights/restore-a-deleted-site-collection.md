@@ -1,5 +1,5 @@
 ---
-title: Atjaunot dzēstu vietni
+title: Izdzēstas vietnes atjaunošana
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552479"
 ---
-# <a name="restore-a-deleted-site"></a>Atjaunot dzēstu vietni
+# <a name="restore-a-deleted-site"></a>Izdzēstas vietnes atjaunošana
 
-Kad admin dzēš vietni, tas tiek ievietots vietņu kolekcijas atkritni, kur to glabā 93 dienas, pirms tas tiek neatgriezeniski izdzēsts. Lai atjaunotu vietā:
+Kad administrators izdzēš vietni, tā tiek ievietota vietņu kolekcijas atkritnē, kur tā tiek glabāta 93 dienas pirms tā tiek neatgriezeniski dzēsta. Lai atjaunotu vietni:
   
-1. Jaunu SharePoint administrēšanas centrā, lentē noklikšķiniet uz **Atkritne** . 
+1. Jaunajā SharePoint administrēšanas centrā lentē noklikšķiniet uz **Atkritne** . 
     
-2. Atzīmējiet izvēles rūtiņu blakus vietņu kolekcijas, kuru vēlaties atjaunot.
+2. Atzīmējiet izvēles rūtiņu blakus vietņu kolekcijai, kuru vēlaties atjaunot.
     
 3. Noklikšķiniet uz **atjaunot izdzēstos vienumus**.
     
-Atjaunot dzēstu saziņas vietnes, varat izmantot jauno SharePoint administrēšanas centru. Pretējā gadījumā jums vajadzēs izmantot Microsoft PowerShell. Lai atjaunotu vietni Office 365 grupai, jums jāatjauno grupu apmaiņas administrēšanas centrā. Grupas var atjaunot 30 dienas pēc tam, kad tie esat izdzēsis.
+Lai atjaunotu dzēstu saziņas vietni, varat izmantot jauno SharePoint administrēšanas centru. Pretējā gadījumā jums ir nepieciešams, lai izmantotu Microsoft PowerShell. Lai atjaunotu vietni, kas pieder grupai Office 365, ir jāatjauno grupas Exchange administrēšanas centrs. Grupas var atjaunot 30 dienas pēc to dzēšanas.
   
 

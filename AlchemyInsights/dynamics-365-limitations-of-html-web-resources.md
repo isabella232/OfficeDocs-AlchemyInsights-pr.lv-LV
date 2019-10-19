@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 veidlapas XML shēmu
+title: Dynamics 365 veidlapas XML shēma
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528522"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Web lapu (HTML) web resursu ierobežojumi
+# <a name="webpage-html-web-resources-limitations"></a>Tīmekļa lapas (HTML) Web resursu ierobežojumi
 
-* HTML web resursu nevar saturēt kodu, kas jāizpilda serverī. ASP.NET lapās kā HTML web resursi nevar augšupielādēt.
+* HTML tīmekļa resurss nedrīkst saturēt nevienu kodu, kas jāizpilda serverī. ASP.NET lapas nevar augšupielādēt kā HTML tīmekļa resursus.
 
-* HTML web resursi var akceptēt tikai ierobežots skaits vaicājuma virknes parametriem. Vairāk informācijas: [nodotu parametrus, lai HTML web resursi](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML tīmekļa resursi var pieņemt tikai ierobežotu vaicājuma virknes parametru skaitu. Papildinformācija: [novirzīt PARAMETRUS HTML tīmekļa resursiem](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources) .
 
-[Web lapu (HTML) web resursi](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Tīmekļa lapas (HTML) tīmekļa resursi](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

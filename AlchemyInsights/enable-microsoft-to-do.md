@@ -1,5 +1,5 @@
 ---
-title: Iespējotu Microsoft uzdevumu
+title: Iespējot Microsoft to-do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527550"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Kā aktivizēt Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Kā iespējot Microsoft to-do
 
-Lai izmantotu Microsoft To-Do, admin jārada app katrā lietotāja kontā. Iet uz [pakalpojumus &amp; pievienojumprogrammas lapu](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) no Office 365 admin iestatījumu lapā, lai ļautu katram lietotājam uzdevumu. 
+Lai izmantotu Microsoft uzdevumu, administratoram ir jāiespējo lietotne katra lietotāja kontā. Dodieties uz sadaļu [pakalpojumu &amp; pievienojumprogrammas lapā](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Office 365 admin iestatījumu lapu, lai iespējotu katram lietotājam. 
   
-Microsoft To-Do izmantoti līdzekļi Exchange Online sinhronizācijas un glabāt lietotāju darāmos darbus. Lai izmantotu Microsoft To-Do, lietotājam ir nepieciešama derīga apmaiņu tiešsaistes pastkastes.
+Microsoft uzdevumu izmanto Exchange Online līdzekļus, lai sinhronizētu un uzglabātu lietotāju uzdevumu vienumus. Lai izmantotu Microsoft uzdevumu, lietotājam ir nepieciešama derīga Exchange Online pastkaste.
   
-Lai iegūtu papildu informāciju, skatiet [Microsoft uzdevumu Preview administrācija](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Lai iegūtu papildinformāciju, skatiet [Microsoft to-do preview administrācija](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Piezīme**: ja jūs saņemat 501 kļūda, mēģinot ieiet [http://todo.microsoft.com](http://todo.microsoft.com), mēģiniet [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Piezīme**: ja tiek parādīts 501 kļūdas [http://todo.microsoft.com](http://todo.microsoft.com), mēģinot pieteikties, mēģiniet. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 

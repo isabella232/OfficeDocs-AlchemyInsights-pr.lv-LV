@@ -1,5 +1,5 @@
 ---
-title: Atrast zaudēto vai trūkstošos failus OneDrive vai SharePoint
+title: Pazaudētu vai trūkstošu failu atrašana pakalpojumā OneDrive vai SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525426"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Atrast zaudēto vai trūkstošos failus OneDrive vai SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Pazaudētu vai trūkstošu failu atrašana pakalpojumā OneDrive vai SharePoint
 
-- Pārlūkojot jūsu OneDrive vai SharePoint vietnē tīmeklī un noklikšķinot uz atkritni, kreisajā rūtī pārbaudiet atkritnes. (Ja neredzat Recycle bin kreisajā rūtī noklikšķiniet uz ikonas iestatījumus un pēc tam atlasiet **vietnes saturu**. **Atkritne** atrodas labajā pusē augšā komandjoslas.) 
+- Pārbaudiet atkritni, pārlūkojot OneDrive vai SharePoint vietni tīklā Web un kreisajā rūtī noklikšķinot uz Atkritne. (Ja kreisajā rūtī nav redzama Atkritne, noklikšķiniet uz ikonas iestatījumi un pēc tam atlasiet **vietnes saturs**. **Recycle Bin** ir par tālu pa labi no komandjoslas augšpusē.) 
     
-- Ja esat sinhronizē failus datorā, pārbaudiet atkritnes jūsu datorā. 
+- Ja sinhronizējat failus datorā, pārbaudiet datora atkritni. 
     
-- Ja neredzat elementu jūs meklējat, un nesen tika izdzēsts, vietņu kolekcijas administrators, iespējams, var atjaunot no vietņu kolekcijas atkritni. Ja jūs esat vietņu kolekcijas administrators, skatiet [atjaunot dzēstos vienumus no vietņu kolekcijas atkritni](https://go.microsoft.com/fwlink/?linkid=866439).
+- Ja neredzat meklēto vienumu un tas tika izdzēsts nesen, vietņu kolekcijas administrators, iespējams, varēs to atjaunot no vietņu kolekcijas atkritnes. Ja esat vietņu kolekcijas administrators, skatiet sadaļu [izdzēsto vienumu atjaunošana vietņu kolekcijas atkritnē](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Vairāk palīdzēt atjaunot dzēst failus un mapes, kas OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Papildu palīdzība izdzēsto failu un mapju atjaunošanai pakalpojumā OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

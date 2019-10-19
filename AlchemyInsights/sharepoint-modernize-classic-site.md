@@ -1,5 +1,5 @@
 ---
-title: Mūsdienu vietni kā saknes vietni
+title: Modernu vietni kā saknes vietni
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503498"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576692"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernizēt klasiskās SharePoint vietnē
+# <a name="modernize-your-classic-sharepoint-site"></a>Modernizē savu klasisko SharePoint vietni
 
-Skatiet informāciju par izmantošanu jaunu modernu pieredzi:
+Lai pārslēgtos uz modernu lietotāja saskarni, jums ir jākoncentrējas uz šādiem:
 
-- Soli pa solim pārskatu par modernizētu SharePoint vietņu izveidošanas klasika, mūsdienu pieredzi, skatiet [Modernize klasiskās SharePoint vietnēs](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Pārejot uz **sarakstiem un bibliotēkām** , lai izmantotu moderno lietotāja interfeisu (saukts arī par moderno sarakstu un bibliotēkas pieredzi).
+- Pārveidot jūsu **vietnes lapas** no klasiskās Wiki un Web daļu lapas mūsdienu klienta puses lapās.
+- Izveidojot **modernas vietnes** (grupas vietne vai saziņas vietne).
 
-- Lai palielinātu mūsdienīgu lietotāja interfeisa izmantošanai jūsu vietnes lapas un saraksta vai bibliotēkas lapas, skatiet [Modernize lietotāja interfeisu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Modernizējiet savu pieredzi, izmantojot:
+- [Ļauj sarakstiem un bibliotēkām Rādīt mūsdienu lietotāja interfeisā](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) , aizstājot pielāgojumus, noņemot nesaderīgas kolonnas no izmantotajiem skatiem, vai (kā pēdējo līdzekli) pārvietojot datus uz mūsdienīgu ar lietotāja interfeisu saderīgu saraksta tipu.
+- [Savienojot vietni ar Office 365 grupu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), kas jūsu vietnei nodrošina mūsdienīgu sākumlapu un ļauj vietnei izmantot, piemēram, pastkasti vai Microsoft Planner. Tas ļauj izmantot mūsdienu kalendāra un uzdevumu saraksta versiju.
+- [Mūsdienīgu lapu izveide](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)ir lielisks veids, kā kopīgot idejas, izmantojot attēlus, Excel, Word un PowerPoint dokumentus, video un daudz ko citu.
+- [Radīt mūsdienu klienta puses lapas](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) un konfigurēšana tie ir "līdzīgs", lai jūsu galveno klasisko Wiki un Web daļu lapas. Programmatiska lapu transformācija ir jāveic galvenajās jūsu vietņu lapās, jo visu lapu pārveidošana ir resursu ietilpīga un bieži vien nav nepieciešama. Lai palīdzētu šī vecuma, SharePoint modernizācija skeneris var sniegt jums lietošanas informāciju par pašreizējo Wiki un Web daļu lapas.
+- [Radīt modernas vietas](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Vai ir jāizveido grupas vietne vai saziņas vietne?
 
-- Lai uzzinātu vairāk par to, kā atbloķēt jūsu sarakstiem un bibliotēkām, izmantojot mūsdienīgu lietotāja interfeisu, sk. [maksimizēt izmantošanu mūsdienu sarakstiem un bibliotēkām](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Papildu informācija: 
+- Lai iepazītos ar soli pa solim skatītu klasisko SharePoint vietņu modernizētu moderno pieredzi, skatiet sadaļu [modernizēt klasiskās SharePoint vietnes](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Skatiet [modernās pieredzes](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)rokasgrāmatu.
+- Skatiet [SharePoint klasisko un moderno pieredzi](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Papildinformāciju par Office 365 grupas savienojumu un veicot grupas savienojumu skatiet [savienojuma izveidošana ar Office 365 grupu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

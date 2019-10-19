@@ -1,5 +1,5 @@
 ---
-title: Kā atcelt app
+title: Kā atcelt lietotni
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542119"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kā atcelt pakalpojumu kā programmatūras progr 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Kā atcelt programmatūras pakalpojumu lietojumprogrammas 
 
-1. Microsoft 365 administrēšanas centrā, lai **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) lapa un pēc tam noklikšķiniet uz zīmnes **progr** .
+1. Lapā Microsoft 365 administrēšanas centrs lapu **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) , pēc tam izvēlieties cilni **programmas** .
 
-2. Atrodiet un atlasiet app vēlaties pārvaldīt.
+2. Atrodiet un atlasiet lietotni, kuru vēlaties pārvaldīt.
 
-3. **_AMP_ darbības iestatījumus**, atlasiet **atcelt abonementu**.
+3. Sadaļā **iestatījumi & darbības**atlasiet **atcelt abonementu**.

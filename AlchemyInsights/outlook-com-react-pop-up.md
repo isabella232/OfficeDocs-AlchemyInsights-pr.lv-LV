@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com reaģēt pop
+title: 8000091 Outlook.com reaģēt pop up
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545482"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ir gatavs prime laikā
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ir gatavs Prime Time
 
-Mēs zinām, ka daži klienti var redzēt "Outlook.com ir gatavs prime laikā" pop-up katru reizi, kad viņi pierakstīšanās, un mēs strādājam pie labojums.
+Mēs apzināmies, ka daži klienti var redzēt "Outlook.com ir gatavs Prime Time" pop-up katru reizi, kad viņi pierakstīšanās, un mēs strādājam pie fiksēt.
 
-Atvainojos par to.
+Žēl par to.
 
 [Uzziniet vairāk par jauno Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

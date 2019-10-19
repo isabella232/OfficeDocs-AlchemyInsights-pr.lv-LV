@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549226"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>OneDrive failus koplietot ar cilvēkiem ārpus jūsu organizācijas
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Failu koplietošana pakalpojumā OneDrive ar cilvēkiem ārpus jūsu organizācijas
 
-1. Izmantot app granātmetējs, lai dotos uz OneDrive web pārlūkprogrammā. 
+1. Izmantojiet lietojumprogrammas palaidēju, lai tīmekļa pārlūkprogrammā pārietu uz OneDrive. 
     
-2. Atlasiet failu vai mapi, kuru vēlaties koplietot, un pēc tam atlasiet **koplietot**. 
+2. Atlasiet failu vai mapi, kuru vēlaties kopīgot, un pēc tam atlasiet **kopīgot**. 
     
-3. Ja saites tips ir iestatīts uz "cilvēku \<jūsu organizācijas\>," noklikšķiniet uz lejupvērstās bultiņas un atlasiet vienu no šīm darbībām: 
+3. Ja saites tips ir iestatīts kā "cilvēki \<jūsu organizācijā\>", noklikšķiniet uz lejupvērstās bultiņas un atlasiet vienu no šīm darbībām: 
     
-  - **Ikvienam** piekļūt ikviens, kurš saņem šo saiti, vai viņi saņem to tieši no jums vai pārsūta no kāds cits. Tas var ietvert cilvēkiem ārpus jūsu organizācijas. 
+  - **Ikviens** var piekļūt jebkuram, kurš saņem šo saiti, neatkarīgi no tā, vai viņi to saņem tieši no jums vai pārsūta no kāda cita. Tas var ietvert cilvēkus ārpus jūsu organizācijas. 
     
-  - **Noteiktiem lietotājiem** piekļūt tikai, lai cilvēki norādāt, kaut arī citi cilvēki, iespējams, jau ir piekļuve. Ja cilvēki nosūtīt koplietošanas uzaicinājumu, tikai cilvēki, kuriem jau ir piekļuve krājuma varēs izmantot saiti. 
+  - **Noteiktas personas** var piekļūt tikai norādītajiem cilvēkiem, lai gan citiem lietotājiem, iespējams, jau ir piekļuve. Ja personas pārsūta koplietošanas uzaicinājumu, saiti var izmantot tikai personas, kurām jau ir piekļuve šim vienumam. 
     
     > [!NOTE]
-    > Ja viens no šiem variantiem nav pieejama vai citu saites tips parādās pēc noklusējuma, uzņēmuma iestatījumus var mainīt, dodoties uz OneDrive administrēšanas centrs un kreisajā rūtī noklikšķiniet uz **koplietošana** . [apgūt vairāk](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ja kāda no šīm opcijām nav pieejama vai vēlaties, lai pēc noklusējuma tiktu parādīts cits saites tips, varat mainīt organizācijas mēroga iestatījumus, dodoties uz OneDrive administrēšanas centru un noklikšķinot uz **koplietošana** kreisajā rūtī. [apgūt vairāk](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. **Atļaut rediģēšanu** ir ieslēgta pēc noklusējuma. Ja vēlaties, lai cilvēki varētu skatīt tikai failus, noņemiet atzīmi izvēles rūtiņā. 
+4. Pēc noklusējuma **Atļaut rediģēšanu** ir ieslēgta. Ja vēlaties, lai lietotāji varētu tikai skatīt jūsu failus, noņemiet atzīmi no izvēles rūtiņas. 
     
-5. Ievadiet nosaukumus vēlaties to koplietot ar citiem cilvēkiem un ziņu, ja jūs vēlaties.
+5. Ievadiet to personu vārdus, ar kurām vēlaties kopīgot, un, ja vēlaties, ziņojumu.
     
-6. Kad esat gatavs nosūtīt saiti, noklikšķiniet uz **nosūtīt**. 
+6. Kad esat gatavs nosūtīt saiti, noklikšķiniet uz **Sūtīt**. 
     
 [apgūt vairāk](https://go.microsoft.com/fwlink/?linkid=871861)
   

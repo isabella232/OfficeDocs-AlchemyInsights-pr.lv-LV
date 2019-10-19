@@ -15,16 +15,16 @@ ms.custom:
 - "9000203"
 - "9000215"
 ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546691"
 ---
-# <a name="filtering-in-outlookcom"></a>Filtrēšanas Outlook.com
+# <a name="filtering-in-outlookcom"></a>Filtrēšana Outlook.com
 
-Var filtrēt jūsu e-pasta ziņojumus dažādos veidos Outlook.com:
+E-pasta ziņojumus var filtrēt vairākos veidos Outlook.com:
 
-1. [Mainīt, kā tiek sakārtotas e-pasta](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
-2. [Bloķēt e-pasta adresi vai e-pasta adreses domēns](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [Lietot izvērstās meklēšanas vaicājumā, lai precizētu rezultātus](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [E-pasta kārtošanas maiņa](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+2. [Bloķēt e-pasta adresi vai e-pasta domēnu](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [Izmantot papildu vaicājuma meklēšanu, lai precizētu rezultātus](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)

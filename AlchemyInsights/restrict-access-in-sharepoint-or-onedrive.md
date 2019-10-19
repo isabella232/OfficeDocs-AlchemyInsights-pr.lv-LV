@@ -1,5 +1,5 @@
 ---
-title: Ierobežot piekļuvi SharePoint vai OneDrive
+title: Piekļuves ierobežošana programmā SharePoint vai OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 8/7/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551458"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ierobežot piekļuvi SharePoint vai OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Piekļuves ierobežošana programmā SharePoint vai OneDrive
 
-SharePoint un OneDrive, jūs ierobežojat piekļuvi precēm, piemēram, failus, mapes un sarakstus, piešķirot piekļuvi tikai uz grupām vai personām, kas vēlas piekļūt. Pēc noklusējuma SharePoint atļaujas tiek pārmantotas no hierarhijā augstāk. Tātad failu manto atļaujas no mapes, kas manto atļaujas no bibliotēkas, kas manto atļaujas no vietnes.
+Programmā SharePoint un OneDrive varat ierobežot piekļuvi tādiem vienumiem kā faili, mapes un saraksti, piešķirot piekļuvi tikai tām grupām vai personām, kurām vēlaties piekļūt. Pēc noklusējuma SharePoint atļaujas tiek pārmantotas no hierarhijas augstāk. Tāpēc fails pārmanto atļaujas no mapes, kura pārmanto atļaujas no bibliotēkas, kura pārmanto atļaujas no vietnes.
   
-Varat kopīgot augstākā līmenī (piemēram, daloties ar visu vietā) un pēc tam pārtraukt pārmantošanu, ja nevēlaties koplietot visus elementus lapā. Tomēr nav ieteicams to, jo tas padara uzturēšanas atļaujas nākotnē sarežģītu un neskaidru. Lūk, ko tu varētu darīt:
+Varat kopīgot augstākā līmenī (piemēram, koplietojot visu vietni) un pēc tam pārtraukt pārmantošanu, ja nevēlaties kopīgot visus vietnes vienumus. Tomēr mēs neiesakām šo, jo tas padara saglabāt atļaujas sarežģītāka un mulsinoša nākotnē. Lūk, ko jūs varētu darīt tā vietā:
   
-- Ja, piemēram, vēlaties koplietot visu saturu, izņemot vienu failu, mapi pārvietot šo failu uz jaunu atrašanās vietu, kas nav koplietots.
+- Ja, piemēram, vēlaties koplietot visu mapes saturu, izņemot vienu failu, pārvietojiet šo failu uz jaunu atrašanās vietu, kas netiek koplietota.
     
-- Ja jums ir divas apakšmapēm mapē un vēlaties koplietot vienu apakšmapi ar A un B grupas un atļaut tikai A grupa piekļuvi otrās apakšmapi, mātes mapi koplietot ar grupas A un B grupas pievienošana pirmo apakšmapi.
+- Ja mapē ir divas apakšmapes un vēlaties koplietot vienu apakšmapi ar A un B grupām un atļaut tikai grupēt piekļuvi otrajai apakšmapei, koplietojiet vecākmapi ar A grupu un pievienojiet B grupu pirmajai apakšmapei.
     
-[Lai beigtu sūtīt failu vai mapi](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Faila vai mapes koplietošanas pārtraukšana](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

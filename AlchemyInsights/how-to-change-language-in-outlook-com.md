@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541673"
 ---
-# <a name="change-your-language"></a>Valodas mainīšana
+# <a name="change-your-language"></a>Mainīt valodu
 
-1. Lai chang valodu programmā Outlook, dodieties uz [**valodu un laika**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) iestatījumi (**Iestatījumi** \> **Outlook iestatījumu skatīšana** > **Vispārējā** > **valodas un laika**).
+1. Lai Chang valodu programmā Outlook, dodieties uz [**valodas un laika**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) iestatījumi (**Iestatījumi** \> **Skatīt visus Outlook iestatījumus** > **Vispārējā** > **valoda un laiks**).
 
-2. Izvēlieties savu valodu.
+2. Izvēlieties valodu.
 
-3. Izvēlieties **saglabāt**.
+3. Atlasiet **saglabāt**.
 
-Lai uzzinātu vairāk, skatiet [Mainīt laika joslu un valodas iestatījumus Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Papildinformāciju skatiet sadaļā [laika joslas un valodas iestatījumu mainīšana programmā Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

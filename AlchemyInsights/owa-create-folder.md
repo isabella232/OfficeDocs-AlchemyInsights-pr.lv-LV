@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557256"
 ---
 # <a name="create-a-folder"></a>Izveidot mapi
 
-1. Programmā Outlook Web mapju rūts apakšā atlasiet **Jauna mape**. Iespējams, ka vajadzēs ritināt uz leju, lai redzētu **jaunās mapes** pogu mapju rūtī.
-1. Tekstlodziņā ievadiet mapes nosaukumu un pēc tam nospiediet taustiņu Enter.
+1. Mapju rūts apakšdaļā programmā Outlook Web atlasiet **Jauna mape**. Iespējams, mapju rūtī būs jāritina uz leju, lai redzētu pogu **Jauna mape** .
+1. Tekstlodziņā ievadiet mapes nosaukumu un pēc tam nospiediet taustiņu ENTER.
 
-Lai uzzinātu vairāk, skatiet [darbs ar ziņojumu mapēm Outlook Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Lai uzzinātu vairāk, skatiet [darbs ar ziņojumu mapēm programmā Outlook tīmeklī](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

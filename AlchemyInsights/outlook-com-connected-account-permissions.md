@@ -1,5 +1,5 @@
 ---
-title: 8000093 Outlook.com savienots konta atļaujas
+title: 8000093 Outlook.com savienojuma konta atļaujas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546894"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kā noteikt "Izskatās, ka mums nav atļauja"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kā Fix "izskatās, ka mums nav atļaujas"
 
-Ja redzat kļūdas ziņojumu "izskatās, ka mums nav tiesību saņemt e-pastu..." Lūdzu, rīkojieties šādi:
+Ja redzat kļūdas ziņojumu "izskatās, ka mums nav atļaujas saņemt e-pastu..." Lūdzu, rīkojieties šādi:
 
-1. Atvērt [kontu saistīti iestatījumi](https://outlook.live.com/mail/options/mail/accounts) , un to noņemt vai izdzēst pievienoto kontu sarakstā kļūdu.
-2. Vēlreiz pievienojiet pievienoto kontu.
-3. Iet [atpakaļ uz savu pastkasti](https://outlook.live.com/mail/inbox).
+1. Atveriet [pievienotā konta iestatījumus](https://outlook.live.com/mail/options/mail/accounts) un noņemiet vai dzēsiet pievienoto kontu, kas norādīts kļūdas.
+2. Pievienojiet pievienoto kontu vēlreiz.
+3. Atgriezieties [savā pastkastē](https://outlook.live.com/mail/inbox).
 
-Tas var aizņemt kādu laiku, visus e-pastus, veikt atkārtotu sinhronizāciju no pievienotā konta.
+Var paiet kāds laiks, līdz visi e-pasta ziņojumi atkārtoti sinhronizēti no pievienotā konta.
 
-Uzziniet vairāk par [noņemot](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) un [pievienojot](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) pievienotajiem kontiem.
+Uzziniet vairāk par pievienoto kontu [noņemšanu](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) un [pievienošanu](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .

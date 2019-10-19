@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554958"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Atļaujas Pārmantošanas darbība koplietošanas vidē SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kā atļauju pārmantošana darbojas SharePoint
 
-Pēc noklusējuma SharePoint atļaujas tiek pārmantotas no hierarhijā augstāk. Tātad failu manto atļaujas no mapes, kas manto atļaujas no bibliotēkas, kas manto atļaujas no vietnes, kas manto atļaujas no vietnes kolekcijas.
+Pēc noklusējuma SharePoint atļaujas tiek pārmantotas no hierarhijas augstāk. Tāpēc fails pārmanto atļaujas no mapes, kura pārmanto atļaujas no bibliotēkas, kura pārmanto atļaujas no vietnes, kura pārmanto atļaujas no vietņu kolekcijas.
   
-Info par unikālu atļauju noņemšana un atjaunošana mantojuma, redzēt, [Rediģēt un pārvaldīt atļaujas sarakstam vai bibliotēkai](https://go.microsoft.com/fwlink/?linkid=869946).
+Informāciju par unikālo atļauju noņemšanu un mantojuma atjaunošanu skatiet sadaļā [atļauju rediģēšana un pārvaldība sarakstam vai bibliotēkai](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

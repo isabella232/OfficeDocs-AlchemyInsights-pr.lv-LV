@@ -1,5 +1,5 @@
 ---
-title: Profilu sinhronizācijas
+title: Profila sinhronizācija
 ms.author: arnek
 author: arnek
 ms.date: 6/20/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.openlocfilehash: b9b90dad6c5fa41afcd4e4c9a929594735eca066
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554340"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kad manu profilu izmaiņas sinhronizēt pieteikumu SharePoint lietotāja profilu?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kad mana profila izmaiņas sinhronizācija ar SharePoint lietotāja profila lietojumprogrammu?
 
-SharePoint Online izmanto Active Directory importēšana taimera darbu (AD importa) importēt lietotāja profila programmu lietotājiem un grupām. 
+SharePoint Online izmanto Active Directory importēšanas taimera darbu (AD Import) importēt lietotāju un grupu lietotāja profila lietojumprogrammā. 
   
-1. Reklāmu importa sinhronizē izmaiņas no SharePoint Online Directory Store pieteikumu lietotāja profilu. Šīs izmaiņas tiek apstrādāti tikai partijas.
+1. REKLĀMAS importēšana sinhronizē izmaiņas no SharePoint Online Directory krātuves lietotāja profila lietojumprogrammu. Šīs izmaiņas tiek apstrādātas partijās.
     
-2. Taimera darbu vada, līdz tiek sinhronizētas izmaiņas.
+2. Taimera darbs tiek izpildīts, līdz tiek sinhronizētas izmaiņas.
     
 > [!NOTE]
-> Laiks, kas paiet veicamo darbu, ir atkarīgs no izmaiņu procesu skaits. Lielu skaitu izmaiņas prasa ilgāku laiku. Pakalpojuma līmeņa vienošanās (SLA) norāda, ka 24 stundu laikā mainīt SharePoint Online Directory lietotājam tiks atspoguļotas programmu lietotāja profilu. 
+> Laiks, kas nepieciešams darba palaišanai, ir atkarīgs no procesa izmaiņu skaita. Liels skaits izmaiņas ilgst ilgāk. Pakalpojumu līmeņa līgums (SLA) norāda, ka izmaiņas lietotājam SharePoint Online direktorijā tiks atspoguļotas lietotāja profila lietojumprogrammu 24 stundu laikā. 
   
-[Vairāk info par lietotāju profila sinhronizācijas SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Papildinformācija par lietotāja profila sinhronizācija SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

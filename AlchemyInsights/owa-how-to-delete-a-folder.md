@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556536"
 ---
 # <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kā izdzēst mapi programmā Outlook Web
 
-1. Mapju rūtī ar peles labo pogu noklikšķiniet uz mapi vai apakšmapi, kuru vēlaties dzēst.
+1. Mapju rūtī ar peles labo pogu noklikšķiniet uz mapes vai apakšmapes, kuru vēlaties dzēst.
 2. Atlasiet **Dzēst mapi**.
 3. Atlasiet **Labi** , lai apstiprinātu.
 
-Lai uzzinātu vairāk, skatiet [darbs ar ziņojumu mapēm Outlook Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Lai uzzinātu vairāk, skatiet [darbs ar ziņojumu mapēm programmā Outlook tīmeklī](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

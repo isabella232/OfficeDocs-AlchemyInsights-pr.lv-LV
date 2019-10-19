@@ -1,5 +1,5 @@
 ---
-title: Neļautu faili tiek lejupielādēti no SharePoint vai OneDrive
+title: Failu lejupielādēšanas no SharePoint vai OneDrive
 ms.author: efrene
 author: efrene
 manager: matteva
@@ -12,18 +12,18 @@ ms.custom:
 - "2523"
 - "9000213"
 ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554711"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Neļautu faili tiek lejupielādēti no SharePoint vai OneDrive
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Failu lejupielādēšanas no SharePoint vai OneDrive
 
-Ir dažādas metodes, ko var izmantot, lai novērstu vai bloķēt lejupielādes rašanos. Lūdzu, apmeklējiet zemāk saites uz attiecīgajām metodēm:
+Ir dažādas metodes, kas var tikt izmantoti, lai novērstu vai bloķēt downloads rašanos. Lūdzu, apmeklējiet zemāk esošajām saitēm, lai attiecīgās metodes:
 
-- [Bloķēt failu lejupielādes ar debeszils AD ierobežotas piekļuves](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Bloķēt failu lejupielādi, izmantojot Azure AD ierobežotu piekļuvi](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [No nepārvaldītiem ierīču piekļuves kontrole](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Piekļuves kontrole no nepārvaldītām ierīcēm](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [IRM politiku konfigurēšana ar SharePoint dokumentu bibliotēkām, lai ierobežotu satura lejupielāde](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [IRM politiku SharePoint dokumentu bibliotēkām konfigurēšana, lai ierobežotu satura lejupielādi](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

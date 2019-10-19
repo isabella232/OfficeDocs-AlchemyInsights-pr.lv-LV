@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545179"
 ---
 # <a name="issues-with-mfa"></a>Problēmas ar MFA
-Ir pāris lietas, lai pārbaudītu, ja lietotāji nevar reģistrēties sistēmā, izmantojot vairāku faktoru autentifikaciju (MFA)
+Ir dažas lietas, kas jāpārbauda, ja lietotāji nevar pieteikties, izmantojot vairāku faktoru autentifikāciju (MFA)
 
-1. Skarto lietotāju var tikt bloķēta Azure Active Directory portālā. Ja tas tā ir gadījumā, autentifikācijas mēģinājumus, ka konkrētu lietotāju būs automātiski noraidīja. [Lūdzu izpildiet šajā pantā atbloķēt tos.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Ietekmēto lietotāju var bloķēt Azure Active Directory portālā. Šādā gadījumā automātiski tiek liegta autentifikācijas mēģinājumi šim konkrētam lietotājam. [Lūdzu, veiciet šajā rakstā aprakstītās darbības, lai atbloķētu tos.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Ja atbloķēšanas lietotājam nepalīdzēja vai nav bloķēts lietotājs jūs varat mēģināt atiestatīt lietotāja MFA un viņi iet cauri procesam enroll atkal. [Lūdzu, izpildiet šajā rakstā aprakstītie soļi.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Ja atbloķēšanas lietotāja nepalīdzēja vai lietotājs nav bloķēts varat mēģināt atiestatīt MFA par lietotāju, un viņi iet caur reģistrēšanas procesu vēlreiz. [Lūdzu, veiciet šajā rakstā aprakstītās darbības.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Ja šī ir pirmā reize, kad ļāva MFA un lietotāji nevarat ieiet bez pārlūkprogrammas klientiem, piemēram, Outlook, Skype u.c., varbūt ADAL (aktīvajā direktorijā autentifikācijas bibliotēka) nav iespējota O365 abonementu. Šajā gadījumā jums būs nepieciešams pieslēgties Exchange Online Powershell un palaist šo cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Ja šī ir pirmā reize, kad iespējojat MFA un lietotāji nevar pieteikties-pārlūkprogrammas klientiem, piemēram, Outlook, Skype utt, varbūt ADAL (Active Directory autentifikācijas bibliotēka) nav iespējots O365 abonements. Šajā gadījumā jums būs nepieciešams, lai izveidotu savienojumu ar Exchange Online PowerShell un palaist šo cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $True*

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527020"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Kļūda: AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique kļūdas visbiežāk iemesls ir divi objekti ar dažādu SourceAnchor (immutableId) ir tāda pati vērtība atribūtu ProxyAddresses un/vai UserPrincipalName. Lai izlabotu kļūdu AttributeValueMustBeUnique:
+Visbiežāk iemesls AttributeValueMustBeUnique kļūda ir divi objekti ar citu SourceAnchor (immutableId) ir tāda pati vērtība ProxyAddresses un/vai UserPrincipalName atribūtus. Lai labotu AttributeValueMustBeUnique kļūdu:
   
-1. Identificētu dublicētās proxyAddresses, userPrincipalName vai citus atribūta vērtībai, kas izraisa kļūdu. Arī noteikt, kādi divas (vai vairāk) objekti ir iesaistītas konfliktā. Atskaiti, kas rada veselības Azure AD savienotu sinhronizācijai var palīdzēt identificēt divus objektus.
+1. Identificējiet dublikātu proxyAddresses, userPrincipalName vai citu atribūta vērtība, kas izraisa kļūdu. Arī noteikt, kuri divi (vai vairāk) objekti ir iesaistīti konfliktā. Azure AD Connect veselības sinhronizācijas ģenerēts ziņojums var palīdzēt identificēt divus objektus.
     
-2. Noteikt, kuru objektu turpmāk vajadzētu būt dublicētās vērtības un kuru objektu nevajadzētu būt.
+2. Noteikt, kurš objekts ir jāturpina dublēt vērtību un kuru objektu nedrīkst.
     
-3. Noņemiet objektu, kuram nav jābūt šo vērtību dublicētās vērtības. Ņemiet vērā, ka direktoriju, kurā objekts tiek iegūts no būtu jāveic izmaiņas. Dažos gadījumos, var rasties nepieciešamība dzēst kādu no objektiem konfliktā.
+3. Noņemiet dublēto vērtību no objekta, kuram nav šī vērtība. Ņemiet vērā, ka ir jāveic izmaiņas direktorijā, no kurienes tiek iegūts objekts. Dažos gadījumos, iespējams, būs jādzēš viens no konflikta objektiem.
     
-4. Ja veicāt izmaiņas par AD telpās, ļaujiet Azure AD pievienot sinhronizācijas kļūdu saņemt fiksētu izmaiņu.
+4. Ja veicāt izmaiņas telpās AD, ļaujiet Azure AD savienojumu sinhronizēt izmaiņas kļūdas iegūt fiksētu.
     
 

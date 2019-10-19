@@ -1,5 +1,5 @@
 ---
-title: Mainiet savu profila attēlu programmā Outlook Web
+title: Profila attēla mainīšana programmā Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557220"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Mainiet savu profila attēlu programmā Outlook Web
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Profila attēla mainīšana programmā Outlook tīmeklī
 
-1. Lapas augšdaļā atlasiet nosaukumu vai profila attēlu.
-1. **Mans konts** rūtī atlasiet savu profila bildi.
-1. Dialoglodziņā **mainīt fotoattēla** atzīmējiet **augšupielādēt jaunu fotoattēlu**.
-1. Izvēlieties fotoattēlu augšupielādes un izvēlieties **lietot**.
+1. Lapas augšdaļā atlasiet savu vārdu vai profila attēlu.
+1. Rūtī **Mans konts** atlasiet sava profila attēlu.
+1. Dialoglodziņā **fotoattēla maiņa** atlasiet **augšupielādēt jaunu fotoattēlu**.
+1. Izvēlieties augšupielādējamo fotoattēlu un atlasiet **lietot**.
 
-*Piezīme:* Nākamreiz, kad jūs pierakstīties programmā Office 365 parādīsies jauns fotoattēls.
+*Piezīme:* Jaunais fotoattēls tiks parādīts nākamajā reizē, kad pierakstīsies sistēmā Office 365.
 
-Lai iegūtu papildinformāciju, skatiet [mainīt savu foto un konta informāciju Outlook Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Papildinformāciju skatiet sadaļā [fotoattēla un konta informācijas mainīšana programmā Outlook tīmeklī](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

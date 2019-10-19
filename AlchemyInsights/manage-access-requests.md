@@ -1,5 +1,5 @@
 ---
-title: Pārvaldīt piekļuves pieprasījumus
+title: Piekļuves pieprasījumu pārvaldība
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542503"
 ---
-# <a name="manage-access-requests"></a>Pārvaldīt piekļuves pieprasījumus
+# <a name="manage-access-requests"></a>Piekļuves pieprasījumu pārvaldība
 
-Ja lietotājs mēģina piekļūt SharePoint vienumu un viņiem nav atļaujas, redz ziņojumu, ka viņiem vajadzīga atļauja, lai piekļūtu šim vienumam. Lietotājs var pieprasīt piekļuvi (dažos gadījumos, lai noteiktam krājumam vai pievienoties grupai), un vietnes īpašnieks var apstiprināt vai noraidīt pieprasījumu. Ja kāds, kurš nav vietnes īpašnieks atrodas vienā vietā ar citu personu, vietnes īpašnieks arī saņemt piekļuves pieprasījumu par jauno lietotāju. Apstiprināt vai noraidīt piekļuves pieprasījumi:
+Kad lietotājs mēģina piekļūt SharePoint vienumam un viņiem nav atļaujas, tiks parādīts ziņojums, ka viņiem ir nepieciešama atļauja, lai piekļūtu šim vienumam. Lietotājs var pieprasīt piekļuvi (dažos gadījumos, noteiktam vienumam vai pievienoties grupai), un vietnes īpašnieks var apstiprināt vai noraidīt pieprasījumu. Ja kāds, kurš nav vietnes īpašnieks, kopīgo vietni ar citu personu, vietnes īpašnieks iegūs arī piekļuves pieprasījumu jaunajam lietotājam. Lai apstiprinātu vai noraidītu piekļuves pieprasījumus:
   
-1. Dodieties uz vietni, noklikšķiniet uz uzstādījumi ikonas augšējā labajā pusē un pēc tam noklikšķiniet uz **Vietnes iestatījumi**. (Ja neredzat vietnes iestatījumus, noklikšķiniet uz **vietnes atļaujas**, un pēc tam noklikšķiniet uz **papildu atļaujas iestatījumus**. Meklējiet banner, kurā ir saites, sauc par "Parādīt piekļuves pieprasījumus un ielūgumiem.")
+1. Dodieties uz vietni, augšējā labajā stūrī noklikšķiniet uz ikonas iestatījumi un pēc tam noklikšķiniet uz **vietnes iestatījumi**. (Ja neredzat vietnes iestatījumus, noklikšķiniet uz **vietnes atļaujas**un pēc tam noklikšķiniet uz **papildu atļauju iestatījumi**. Meklējiet banner, kas ir saite sauc par "Rādīt piekļuves pieprasījumi un ielūgumi.")
     
-2. Sadaļā **lietotāji un atļaujas**noklikšķiniet uz **piekļuves pieprasījumiem un ielūgumus**. (Ja tas nav parādīts, nav piekļuves pieprasījumi netika veiktas.)
+2. Sadaļā **lietotāji un atļaujas**noklikšķiniet uz **piekļuves pieprasījumi un uzaicinājumi**. (Ja tas netiek parādīts, piekļuves pieprasījumi nav iesniegti.)
     
-3. Lai piešķirtu lietotājam atļauju individuāli, noklikšķiniet uz **Apstiprināt** vai **noraidīt**. Lai atlasītu īpašo atļauju līmenis, vispirms jānoklikšķina Daudzpunkte (…) blakus personas vārdam. Varat arī pievienot lietotāju grupa, kurai ir tiesības uz vietas. Par saziņas vietnēs un klasiskajā komanda vietām, to var izdarīt vietnes iestatījumu lapā. Vietnēm, kas pieder Office 365 grupai, varat pievienot lietotāju grupai.
+3. Lai lietotājam piešķirtu individuālu atļauju, noklikšķiniet uz **Apstiprināt** vai **noraidīt**. Lai atlasītu noteiktu atļauju līmeni, vispirms noklikšķiniet uz daudzpunktes (...) blakus personas vārdam. Vai arī pievienojiet lietotāju grupai, kurai ir vietnes atļaujas. Saziņas vietņu un klasisko grupu vietnēs to var izdarīt vietnes iestatījumu lapā. Vietnes, kas pieder grupai Office 365, varat pievienot lietotāju grupai.
     
-    [Pārvaldīt piekļuves pieprasījumus](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Piekļuves pieprasījumu pārvaldība](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Papildu informāciju par atļauju līmeņiem](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Papildinformācija par atļauju līmeņiem](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com pievienot aizstājvārdu
+title: 9000238 Outlook.com pievienot aizstājvārds
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542708"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Pievienot e-pasta aizstājvārdu Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Pievienojiet e-pasta aizstājvārdu programmā Outlook.com
 
-Aizstājvārds ir papildu e-pasta adresi, kas izmanto pašu Iesūtne, kontaktpersonu saraksts un konta iestatījumus, kā savu primāro e-pasta adresi. Varat izvēlēties, kuru e-pasta adresi, no kuras sūtīt pastu, un jūs varat pierakstīties Outlook.com kontu ar kādu no jūsu pseidonīmi — tie visi izmanto vienu un to pašu paroli.
+Aizstājvārds ir papildu e-pasta adrese, kas izmanto to pašu iesūtni, kontaktpersonu sarakstu un konta iestatījumus kā primāro e-pasta adresi. Varat izvēlēties, no kuras e-pasta adreses sūtīt pastu, un varat pierakstīties savā Outlook.com kontā ar jebkuru no saviem aizstājvārdiem — viņi visi izmanto vienu un to pašu paroli.
 
 Lai pievienotu e-pasta adresi:
 
-1. Iet uz [pievienot aizstājvārdu](https://go.microsoft.com/fwlink/p/?linkid=864833). Pierakstīties Microsoft kontā, ja tas tiek pieprasīts.
-2. Sadaļā **pievienot alias**, vai nu:
-    1. Izveidojiet jaunu e-pasta adresi Outlook.com un pievienojiet to kā aizstājvārdu.
-    2. Pievienot esošu e-pasta adresi kā aizstājvārdu.
+1. GO, lai [pievienotu aizstājvārdu](https://go.microsoft.com/fwlink/p/?linkid=864833). Ja tiek pieprasīts, pierakstieties savā Microsoft kontā.
+2. Sadaļā **pievienot aizstājvārdu**vai nu:
+    1. Izveidojiet jaunu Outlook.com e-pasta adresi un pievienojiet to kā aizstājvārdu.
+    2. Pievienojiet esošu e-pasta adresi kā aizstājvārdu.
 3. Atlasiet **pievienot aizstājvārdu**.
 
-Lasīt vairāk par to, kā [pievienot vai noņemt e-pasta aizstājvārds ir Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Lasiet vairāk par to, kā [pievienot vai noņemt e-pasta aizstājvārdu programmā Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Lasīt savu Outlook.com kontu [pievienošanu citu e-pasta kontu](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .
+Lasiet, [kā izveidot savienojumu ar savu Outlook.com kontu citā e-pasta kontā](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .

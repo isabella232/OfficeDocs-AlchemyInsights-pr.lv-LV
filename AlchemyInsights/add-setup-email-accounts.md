@@ -1,5 +1,5 @@
 ---
-title: 764 Add/iestatīšana e-pasta kontiem
+title: 764 pievienot/iestatīt e-pasta kontus
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -12,22 +12,22 @@ ms.custom:
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
 ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660907"
 ---
-# <a name="setup-email-accounts"></a>Iestatiet e-pasta kontiem
+# <a name="setup-email-accounts"></a>E-pasta kontu iestatīšana
 
-1. Programmā Outlook izvēlieties **Fails** > **Info** > **Konta pievienošana**.
+1. Programmā Outlook, atlasiet **failu** > **info** > **Pievienot kontu**.
 
-2. Ievadiet savu e-pasta adresi un pēc tam atlasiet **savienojumu**.
+2. Ievadiet savu e-pasta adresi un pēc tam atlasiet **izveidot savienojumu**.
 
-3. Ievadiet savu paroli un pēc tam izvēlieties **Labi**.
+3. Ievadiet paroli un pēc tam atlasiet **Labi**.
 
-4. Jūs varat atkārtot šos soļus, kā pievienot vairākus kontus.
+4. Šīs darbības var atkārtot, lai pievienotu vairākus kontus.
 
     > [!NOTE]
-    > Dažas e-pasta kontiem, piemēram, Gmail, Yahoo un iCloud, nepieciešams uzstādīt divu faktoru autentificēšana, lai varētu izmantot Outlook, lai nosūtītu un saņemtu e-pastu. Lai iegūtu papildinformāciju, skatiet [Outlook e-pasta konta pievienošana](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+    > Dažiem e-pasta kontiem, piemēram, Gmail, Yahoo un iCloud, ir jāiestata divu faktoru autentifikācija, lai varētu izmantot programmu Outlook e-pasta nosūtīšanai un saņemšanai. Papildinformāciju skatiet sadaļā [e-pasta konta pievienošana programmai Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   
