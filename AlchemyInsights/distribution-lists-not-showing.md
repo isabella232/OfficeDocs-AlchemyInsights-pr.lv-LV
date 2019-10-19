@@ -1,5 +1,5 @@
 ---
-title: Adresātu sarakstiem, kas nav redzami
+title: Adresātu saraksti netiek rādīti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530466"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="e4679-102">Adresātu grupu, grupu sarakstā neparādās</span><span class="sxs-lookup"><span data-stu-id="e4679-102">Distribution Group not showing in Groups list</span></span>
+# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="f8b89-102">Adresātu grupa netiek rādīta grupu sarakstā</span><span class="sxs-lookup"><span data-stu-id="f8b89-102">Distribution Group not showing in Groups list</span></span>
 
-<span data-ttu-id="e4679-103">To var veikt ne vairāk kā 60 minūtes pirms Exchange administratoru centrā centrā parādās jauns adresātu saraksts.</span><span class="sxs-lookup"><span data-stu-id="e4679-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
+<span data-ttu-id="f8b89-103">Tas var ilgt līdz 60 minūtes pirms jauno adresātu saraksts tiek parādīts Exchange administrēšanas centrs centrā.</span><span class="sxs-lookup"><span data-stu-id="f8b89-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
   
-<span data-ttu-id="e4679-104">Ja vēlaties pievienot dalībniekus vai veikt citus labojumus tieši tagad, lūdzu, izmantojiet funkciju grupas [Exchange administratoru centrā](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="e4679-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="f8b89-104">Ja vēlaties pievienot dalībniekus vai veikt citus labojumus tieši tagad, lūdzu, izmantojiet grupu funkciju [Exchange administrēšanas centrs](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="f8b89-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

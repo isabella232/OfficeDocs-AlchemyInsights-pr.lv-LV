@@ -1,5 +1,5 @@
 ---
-title: Noņemt rumbas vietā
+title: Centrmezgla vietnes noņemšana
 ms.author: kaarins
 author: kaarins
 ms.date: 12/28/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552862"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745368"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="b2e1c-102">Noņemt rumbas vietā</span><span class="sxs-lookup"><span data-stu-id="b2e1c-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="787a7-102">Centrmezgla vietnes noņemšana</span><span class="sxs-lookup"><span data-stu-id="787a7-102">Remove a hub site</span></span>
 
-<span data-ttu-id="b2e1c-103">Unregister rumbas vietā jaunu SharePoint administrēšanas centrā</span><span class="sxs-lookup"><span data-stu-id="b2e1c-103">Unregister a hub site in the new SharePoint admin center</span></span>
+<span data-ttu-id="787a7-103">Noņemiet reģistrācijas centrmezgla vietnes jaunā SharePoint administrēšanas centrs</span><span class="sxs-lookup"><span data-stu-id="787a7-103">Unregister a hub site in the new SharePoint admin center</span></span>
   
-1. <span data-ttu-id="b2e1c-104">Jaunu SharePoint administrēšanas centrā, **vietās**, noklikšķiniet uz **aktīvās vietās**.</span><span class="sxs-lookup"><span data-stu-id="b2e1c-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="787a7-104">Jaunajā SharePoint administrēšanas centrā sadaļā **vietnes**noklikšķiniet uz **aktīvās vietnes**.</span><span class="sxs-lookup"><span data-stu-id="787a7-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="b2e1c-105">Atlasiet vietni, noklikšķiniet uz **rumbas vietā**un pēc tam noklikšķiniet uz **Unregister kā rumbas vietā**.</span><span class="sxs-lookup"><span data-stu-id="b2e1c-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
+2. <span data-ttu-id="787a7-105">Atlasiet vietni, noklikšķiniet uz **centrmezgla vietne**un pēc tam noklikšķiniet uz **Noņemt reģistrāciju centrmezgla vietnē**.</span><span class="sxs-lookup"><span data-stu-id="787a7-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
 
-3. <span data-ttu-id="b2e1c-106">Noklikšķiniet uz **Labi**.</span><span class="sxs-lookup"><span data-stu-id="b2e1c-106">Click **OK**.</span></span>
+3. <span data-ttu-id="787a7-106">Noklikšķiniet uz **Labi**.</span><span class="sxs-lookup"><span data-stu-id="787a7-106">Click **OK**.</span></span>
 
-[<span data-ttu-id="b2e1c-107">Uzziniet vairāk par rumbas vietās</span><span class="sxs-lookup"><span data-stu-id="b2e1c-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[<span data-ttu-id="787a7-107">Papildinformācija par centrmezgla vietnēm</span><span class="sxs-lookup"><span data-stu-id="787a7-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   

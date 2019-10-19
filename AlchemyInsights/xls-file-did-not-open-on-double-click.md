@@ -1,5 +1,5 @@
 ---
-title: XLS fails nav atvērt, veicot dubultklikšķi
+title: XLS fails nav atvērts dubultklikšķa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530754"
 ---
-# <a name="excel-file-doesnt-open"></a><span data-ttu-id="e736b-102">Excel fails netiek atvērts</span><span class="sxs-lookup"><span data-stu-id="e736b-102">Excel file doesn't open</span></span>
+# <a name="excel-file-doesnt-open"></a><span data-ttu-id="4107d-102">Excel fails netiek atvērts</span><span class="sxs-lookup"><span data-stu-id="4107d-102">Excel file doesn't open</span></span>
 
-<span data-ttu-id="e736b-103">Izmēģiniet kādu no šiem ieteikumiem:</span><span class="sxs-lookup"><span data-stu-id="e736b-103">Try one of these suggestions:</span></span>
+<span data-ttu-id="4107d-103">Izmēģiniet kādu no šiem ieteikumiem:</span><span class="sxs-lookup"><span data-stu-id="4107d-103">Try one of these suggestions:</span></span>
 
-<span data-ttu-id="e736b-104">**Izvēlieties Excel pēc noklusējuma**</span><span class="sxs-lookup"><span data-stu-id="e736b-104">**Choose Excel as the default**</span></span>
+<span data-ttu-id="4107d-104">**Izvēlieties Excel kā noklusējumu**</span><span class="sxs-lookup"><span data-stu-id="4107d-104">**Choose Excel as the default**</span></span>
 
-* <span data-ttu-id="e736b-105">Ar peles labo pogu noklikšķiniet uz darblapas, izvēlieties **Atvērt ar**un pēc tam izvēlieties **Excel**</span><span class="sxs-lookup"><span data-stu-id="e736b-105">Right-click on the worksheet, choose **Open with**, and then choose **Excel**</span></span>
+* <span data-ttu-id="4107d-105">Ar peles labo pogu noklikšķiniet darblapā, izvēlieties **Atvērt ar**un pēc tam izvēlieties **Excel**</span><span class="sxs-lookup"><span data-stu-id="4107d-105">Right-click on the worksheet, choose **Open with**, and then choose **Excel**</span></span>
 
-<span data-ttu-id="e736b-106">**Palaist ātro remontu**</span><span class="sxs-lookup"><span data-stu-id="e736b-106">**Run a Quick Repair**</span></span>
+<span data-ttu-id="4107d-106">**Veikt ātro labošanu**</span><span class="sxs-lookup"><span data-stu-id="4107d-106">**Run a Quick Repair**</span></span>
 
-1. <span data-ttu-id="e736b-107">Dodieties uz **vadības paneļa > programmas > programmas un līdzekļi**.</span><span class="sxs-lookup"><span data-stu-id="e736b-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
+1. <span data-ttu-id="4107d-107">Pārejiet uz **vadības paneli > programmas > programmas un līdzekļi**.</span><span class="sxs-lookup"><span data-stu-id="4107d-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
 
-2. <span data-ttu-id="e736b-108">Atlasiet Office produktam, kuru vēlaties labot, un pēc tam izvēlieties **mainīt**.</span><span class="sxs-lookup"><span data-stu-id="e736b-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
+2. <span data-ttu-id="4107d-108">Atlasiet Office produktu, kuru vēlaties labot, un pēc tam izvēlieties **mainīt**.</span><span class="sxs-lookup"><span data-stu-id="4107d-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
 
-3. <span data-ttu-id="e736b-109">Izvēlieties **Ātrās labošanas** opciju, un pēc tam **izlabot**.</span><span class="sxs-lookup"><span data-stu-id="e736b-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
+3. <span data-ttu-id="4107d-109">Izvēlieties opciju **Ātrā labošana** un pēc tam izvēlieties **Labot**.</span><span class="sxs-lookup"><span data-stu-id="4107d-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
 
-<span data-ttu-id="e736b-110">**Atinstalēšana nav ieteicams lietot Office versijas**</span><span class="sxs-lookup"><span data-stu-id="e736b-110">**Uninstall versions of Office you don't use**</span></span>
+<span data-ttu-id="4107d-110">**Atinstalējiet Office versijas, kuras neizmantojat**</span><span class="sxs-lookup"><span data-stu-id="4107d-110">**Uninstall versions of Office you don't use**</span></span>
 
-1. <span data-ttu-id="e736b-111">Dodieties uz **vadības paneļa > atinstalēt programmu**, un pēc tam atlasiet jānoņem Office versijas.</span><span class="sxs-lookup"><span data-stu-id="e736b-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
+1. <span data-ttu-id="4107d-111">Pārejiet uz sadaļu **vadības panelis > atinstalējiet programmu**un pēc tam atlasiet noņemto Office versiju.</span><span class="sxs-lookup"><span data-stu-id="4107d-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
 
-2. <span data-ttu-id="e736b-112">Noklikšķiniet uz **atinstalēt**.</span><span class="sxs-lookup"><span data-stu-id="e736b-112">Click **Uninstall**.</span></span>
+2. <span data-ttu-id="4107d-112">Noklikšķiniet uz **atinstalēt**.</span><span class="sxs-lookup"><span data-stu-id="4107d-112">Click **Uninstall**.</span></span>
 
-3. <span data-ttu-id="e736b-113">Restartējiet datoru.</span><span class="sxs-lookup"><span data-stu-id="e736b-113">Restart your computer.</span></span>
+3. <span data-ttu-id="4107d-113">Restartēt datoru.</span><span class="sxs-lookup"><span data-stu-id="4107d-113">Restart your computer.</span></span>
 
-<span data-ttu-id="e736b-114">**Palaidiet šo problēmu risinātāju, lai iestatītu Office failu paplašinājumus, lai atvērtu Office**</span><span class="sxs-lookup"><span data-stu-id="e736b-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
+<span data-ttu-id="4107d-114">**Palaidiet šo problēmu risinātāju, lai iestatītu Office failu paplašinājumus, kas jāatver programmā Office**</span><span class="sxs-lookup"><span data-stu-id="4107d-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
 
-1. <span data-ttu-id="e736b-115">Šo problēmu risinātāja palaišana: https://aka.ms/diag_officefile.</span><span class="sxs-lookup"><span data-stu-id="e736b-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
+1. <span data-ttu-id="4107d-115">Palaist šo problēmu risinātāju https://aka.ms/diag_officefile:.</span><span class="sxs-lookup"><span data-stu-id="4107d-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
 
-2. <span data-ttu-id="e736b-116">Atkarībā no jūsu pārlūkprogrammā, **atvērts** vai **saglabāšanas** problēmu risinātāju, lai darbvirsmā, un pēc tam **palaist** to.</span><span class="sxs-lookup"><span data-stu-id="e736b-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>
+2. <span data-ttu-id="4107d-116">Atkarībā no pārlūkprogrammas **atveriet** vai **saglabājiet** problēmu risinātāju darbvirsmā un pēc tam **palaidiet** to.</span><span class="sxs-lookup"><span data-stu-id="4107d-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>

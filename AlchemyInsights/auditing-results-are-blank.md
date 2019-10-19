@@ -1,5 +1,5 @@
 ---
-title: Revīzijas rezultāti ir tukšs
+title: Auditēšanas rezultāti ir tukši
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517434"
 ---
-# <a name="auditing-results-are-blank"></a><span data-ttu-id="ab2d9-102">Revīzijas rezultāti ir tukšs</span><span class="sxs-lookup"><span data-stu-id="ab2d9-102">Auditing results are blank</span></span>
+# <a name="auditing-results-are-blank"></a><span data-ttu-id="3eeba-102">Auditēšanas rezultāti ir tukši</span><span class="sxs-lookup"><span data-stu-id="3eeba-102">Auditing results are blank</span></span>
 
- <span data-ttu-id="ab2d9-103">**Audita ziņojumi par klasisko vietām**</span><span class="sxs-lookup"><span data-stu-id="ab2d9-103">**Audit reports for classic sites**</span></span>
+ <span data-ttu-id="3eeba-103">**Audita ziņojumi Classic Sites**</span><span class="sxs-lookup"><span data-stu-id="3eeba-103">**Audit reports for classic sites**</span></span>
   
-<span data-ttu-id="ab2d9-104">Lai skatītu audita atskaiti SharePoint vietņu kolekcijai, jābūt vietņu kolekcijas administrators.</span><span class="sxs-lookup"><span data-stu-id="ab2d9-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="ab2d9-105">Pievienot sevi kā administrators, skatiet [pievienot vietņu kolekcijas admins kā globāla vai SharePoint administrēšanas](https://go.microsoft.com/fwlink/?linkid=869390). Info par darbu ar audita žurnālā skatiet [audita žurnāla ziņojumi](https://go.microsoft.com/fwlink/?linkid=395237).</span><span class="sxs-lookup"><span data-stu-id="ab2d9-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
+<span data-ttu-id="3eeba-104">Lai skatītu SharePoint vietņu kolekcijas audita ziņojumu, jums jābūt vietņu kolekcijas administratoram.</span><span class="sxs-lookup"><span data-stu-id="3eeba-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="3eeba-105">Pievienot sevi kā administratoram, skatiet [pievienot vietņu kolekcijas administratorus globālo vai SharePoint administrēšanas](https://go.microsoft.com/fwlink/?linkid=869390). Informāciju par darbu ar audita žurnālu skatiet sadaļā [audita žurnāla atskaišu skatīšana](https://go.microsoft.com/fwlink/?linkid=395237).</span><span class="sxs-lookup"><span data-stu-id="3eeba-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
   
- <span data-ttu-id="ab2d9-106">**Meklēt Office 365 audita žurnālā**</span><span class="sxs-lookup"><span data-stu-id="ab2d9-106">**Search the Office 365 audit log**</span></span>
+ <span data-ttu-id="3eeba-106">**Meklēšana Office 365 audita žurnālā**</span><span class="sxs-lookup"><span data-stu-id="3eeba-106">**Search the Office 365 audit log**</span></span>
   
-<span data-ttu-id="ab2d9-107">Jums ir globālās administrēšanas programmā Office 365 darbam ar audita žurnālā [drošību &amp; Center izpildes](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="ab2d9-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="ab2d9-108">Pirms sākat, savukārt par audita reģistrēšana.</span><span class="sxs-lookup"><span data-stu-id="ab2d9-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="ab2d9-109">Pēc tam varat palaist audita žurnālu meklēšana.</span><span class="sxs-lookup"><span data-stu-id="ab2d9-109">Then, you can run an audit log search.</span></span> 
+<span data-ttu-id="3eeba-107">Jums ir jābūt globālās administrēšanas Office 365 strādāt ar audita žurnālā [ &amp; drošības atbilstības centrs](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="3eeba-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="3eeba-108">Pirms sākat, ieslēdziet audita reģistrēšanu.</span><span class="sxs-lookup"><span data-stu-id="3eeba-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="3eeba-109">Pēc tam varat palaist audita žurnālu meklēšanu.</span><span class="sxs-lookup"><span data-stu-id="3eeba-109">Then, you can run an audit log search.</span></span> 
   
-<span data-ttu-id="ab2d9-110">[Iemācītos pārmeklēt audita žurnālā](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="ab2d9-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
+<span data-ttu-id="3eeba-110">[Uzziniet, kā meklēt audita žurnālā](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="3eeba-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Iesaka risinājumus Dynamics 365 uzglabāšanas problēmas
+title: Ieteikt risinājumus Dynamics 365 krātuves problēmas
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,20 @@ ms.custom:
 - "1429"
 - "6200006"
 ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36509873"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="db20c-102">Iesaka risinājumus Dynamics 365 uzglabāšanas problēmas</span><span class="sxs-lookup"><span data-stu-id="db20c-102">Recommend solutions for Dynamics 365 storage issues</span></span>
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="9a642-102">Ieteikt risinājumus Dynamics 365 krātuves problēmas</span><span class="sxs-lookup"><span data-stu-id="9a642-102">Recommend solutions for Dynamics 365 storage issues</span></span>
 
-* <span data-ttu-id="db20c-103">Kā pasaules administrators, skatiet krātuves iedalījums pēc vides un top 10 tabulas,</span><span class="sxs-lookup"><span data-stu-id="db20c-103">As a global administrator, view storage breakdown by environment, top 10 tables, and more</span></span>
+* <span data-ttu-id="9a642-103">Kā globālais administrators skatiet krātuves sadalījumu pēc vides, 10 populārākās tabulas un citas iespējas</span><span class="sxs-lookup"><span data-stu-id="9a642-103">As a global administrator, view storage breakdown by environment, top 10 tables, and more</span></span>
 
-* [<span data-ttu-id="db20c-104">Uzglabāšana rēķinu un parakstīšanās jautājumi</span><span class="sxs-lookup"><span data-stu-id="db20c-104">Storage billing and subscription questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [<span data-ttu-id="9a642-104">Krātuvju norēķinu un abonēšanas jautājumi</span><span class="sxs-lookup"><span data-stu-id="9a642-104">Storage billing and subscription questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [<span data-ttu-id="db20c-105">Dynamics 365 cenu veidošanas un licencēšanas rokasgrāmata</span><span class="sxs-lookup"><span data-stu-id="db20c-105">Dynamics 365 pricing and licensing guide</span></span>](https://dynamics.microsoft.com/pricing/)
+* [<span data-ttu-id="9a642-105">Dynamics 365 cenu noteikšanas un licencēšanas rokasgrāmata</span><span class="sxs-lookup"><span data-stu-id="9a642-105">Dynamics 365 pricing and licensing guide</span></span>](https://dynamics.microsoft.com/pricing/)
 
-* [<span data-ttu-id="db20c-106">Kā iegādāties papildu krātuves</span><span class="sxs-lookup"><span data-stu-id="db20c-106">How to purchase more storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [<span data-ttu-id="9a642-106">Kā iegādāties vairāk vietas krātuvē</span><span class="sxs-lookup"><span data-stu-id="9a642-106">How to purchase more storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [<span data-ttu-id="db20c-107">Kā atbrīvot uzglabāšanas</span><span class="sxs-lookup"><span data-stu-id="db20c-107">How to free up storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [<span data-ttu-id="9a642-107">Kā atbrīvot krātuvi</span><span class="sxs-lookup"><span data-stu-id="9a642-107">How to free up storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
