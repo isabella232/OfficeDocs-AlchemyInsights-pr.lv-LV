@@ -1,5 +1,5 @@
 ---
-title: 'Yammer - Office 365 grupu pārvaldība '
+title: 'Yammer-pārvaldīt Office 365 grupas '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.custom:
 - "995"
 - "6000003"
 ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530948"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>Pārvaldīt Office 365 grupas Yammer
+# <a name="manage-office-365-groups-in-yammer"></a>Office 365 grupas Yammer pārvaldīšana
 
-Piedāvājam dažas atbildes uz visbiežāk problēmas ar biroja 365 Yammer grupām.
+Šeit ir dažas atbildes uz visbiežāk sastopamās problēmas saistībā ar Office 365 grupas Yammer.
 
-* **Office 365 grupas** ir koplietojamās darbvietas e-pastu, sarunas, failiem un notikumiem, kur grupas dalībnieki var sadarboties. Ar Yammer, Office 365 grupās ir daudz priekšrocību, salīdzinot Yammer-saistītas grupas. Piemēram, var izveidot un dzīvot pasākumu rīkošanai, atjaunot dzēstos grupas, izmantot dinamiskās grupas piederību, automātiskā arhīva un piekļūt koplietojamiem resursiem, piemēram, Sharepoint, OneNote un plānotāju.
+* **Office 365 grupas** ir koplietojama darbvieta e-pastam, sarunām, failiem un notikumiem, kuros grupas dalībnieki var sadarboties. Izmantojot Yammer, Office 365 grupas ir daudz priekšrocību, izmantojot nesaistītas Yammer grupas. Piemēram, varat izveidot un viesot tiešraides notikumus, atjaunot dzēstās grupas, izmantot dinamisko grupu dalību, automātisko arhivēšanu un piekļūt koplietojamiem resursiem, piemēram, SharePoint, OneNote un plānotājam.
 
-* Jūs varat pateikt, ja Yammer grupas ir saistīts ar Office 365 grupām, kad jūs redzat **Office 365 resursi** sadaļu (Sharepoint, OneNote, plānotājs) labo navigācijas grupas. Ja līdzekļi nav pieejami, pārbaudiet šo.
+* Varat noteikt, ja Yammer grupa ir savienota ar Office 365 grupas, kad redzat **office 365 resursu** sadaļā (SharePoint, OneNote, plānotājs) labajā navigācijas grupas. Ja resursi nav pieejami, pārbaudiet tālāk minēto.
 
-  1. Yammer tīklam jābūt 1 īrnieks: 1 tīkla konfigurācijas. Pārliecinieties, vai jums ir 1:1 konfigurācijā, izmantot **tīkla migrēšanas rīks** , kā aprakstīts [migrācijas tīkls - konsolidēt vairākus Yammer tīklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Yammer tīklam jābūt 1 nomniekā: 1 tīkla konfigurācija. lai pārbaudītu, vai jums ir 1:1 konfigurācijas, izmantojiet **tīkla migrācijas rīku** , kā aprakstīts sadaļā [tīkla migrācija-konsolidēt vairākus Yammer tīklus](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. Atrodiet **tīkla Admin, drošības iestatījumu**un nodrošinātu **Office 365 identitāte** tiek realizēts, Yammer lietotājiem.
+  2. Atrodiet **tīkla administrators, drošības iestatījumu**un pārliecinieties, vai **Office 365 identitāte** ir ieviesta Yammer lietotājiem.
 
-Lai iegūtu vairāk informācijas par Office 365 grupām un Yammer, lūdzu, skatiet [Yammer un biroja 365 grupas](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Informāciju par vadības grupu skatiet [pārvaldīt Yammer grupa](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Lai iegūtu papildinformāciju par Office 365 grupas un Yammer, lūdzu, skatiet [Yammer un Office 365 grupas](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Informāciju par grupas pārvaldību skatiet sadaļā [grupas pārvaldīšana pakalpojumā Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

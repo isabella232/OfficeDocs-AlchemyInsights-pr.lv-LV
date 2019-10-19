@@ -1,5 +1,5 @@
 ---
-title: Outlook.com kā iegūt atbalstu
+title: Outlook.com kā saņemt atbalstu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536479"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Kā iegūt atbalstu Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Kā saņemt atbalstu Outlook.com
 
-Atvainojiet, Outlook.com nepiedāvā atbalstu pa tālruni, bet mums ir speciāla komandas, kas var jums palīdzēt.
-Ievadiet savu jautājumu vai aprakstīt savu jautājumu lodziņā **palīdzība** iepriekš un pēc tam atlasiet **palīdzība**.
+Atvainojiet, Outlook.com nepiedāvā atbalstu pa tālruni, bet mums ir veltīta komandas, kas var jums palīdzēt.
+Ievadiet jautājumu vai aprakstiet savu problēmu lodziņā **palīdzība** un pēc tam atlasiet **saņemt palīdzību**.
 
-[Saņemiet palīdzību darbā ar Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Saņemiet palīdzību par Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

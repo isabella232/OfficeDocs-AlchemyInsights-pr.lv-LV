@@ -1,5 +1,5 @@
 ---
-title: Pievienoties grupai klasiskās SharePoint grupas Web vietu
+title: Klasiskās SharePoint grupas vietnes savienošana ar grupu
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504779"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Klasisks SharePoint grupu vietnes pievienoties jaunas Office 365 grupas
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Klasiskās SharePoint grupas vietņu savienošana ar jaunajām Office 365 grupām
 
-Izvērtēt, vai SharePoint vietņu kolekcijas ir gatavi pieslēgties Office 365 grupas, izmantojiet [SharePoint modernizācija scanner rīks](https://go.microsoft.com/fwlink/?linkid=873066). Šis rīks palīdzēs jums izplānot savu vietu modernizācijas stratēģiju un radīs padziļinātu pārskatu, tostarp apgabali, kuriem jāpievērš uzmanība.
+Lai novērtētu, vai SharePoint vietņu kolekcijas ir gatavas izveidot savienojumu ar Office 365 grupas, izmantojiet [SharePoint modernizēšanas skenera rīku](https://go.microsoft.com/fwlink/?linkid=873066). Šis rīks var palīdzēt jums plānot savu vietni modernizēšanas stratēģiju un radīs padziļinātu ziņojumu, tostarp jomās, kas nepieciešama uzmanība.
   
-Ja vēlaties, lai vietņu kolekcijas administratori pieslēgties klasiskās grupu vietu jaunas grupas no jauna izvēlnes komandu mēs pievienojam, jums nav nepieciešams neko darīt. Ja tomēr vēlaties atspējot šo iespēju, jums būs nepieciešams mainīt šo noklusējuma iestatījumu. [Uzziniet kā](https://go.microsoft.com/fwlink/?linkid=2004316). Ņemiet vērā, ka globālā un SharePoint admins Office 365 vienmēr varēs savienojumu vietas jaunas grupas, izmantojot PowerShell cmdlet vai API.
+Ja vēlaties atļaut vietņu kolekciju administratoriem pievienot klasiskās grupas vietnes jaunajām grupām no jaunas izvēlnes komandas, ko pievienosim, jums nekas nav jādara. Ja tomēr vēlaties atspējot šo opciju, jums būs jāmaina noklusējuma iestatījums. [Uzziniet, kā](https://go.microsoft.com/fwlink/?linkid=2004316)to darīt. Ņemiet vērā, ka globālā un SharePoint Admins Office 365 vienmēr būs iespēja izveidot savienojumu vietnes jaunas grupas, izmantojot PowerShell cmdlet vai API.
   
 

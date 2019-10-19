@@ -1,5 +1,5 @@
 ---
-title: Dokumenta augšupielāde
+title: Dokumentu augšupielāde
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529447"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Augšupielādēt failus uz OneDrive vai SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Failu augšupielāde pakalpojumā OneDrive vai SharePoint
 
-1. Savā web pārlūkprogrammā dodieties uz vietu, kurā vēlaties augšupielādēt failus.
+1. Tīmekļa pārlūkā dodieties uz vietu, kur vēlaties augšupielādēt failus.
     
-2. Atveriet failu Explorer un atrodiet failus, kurus vēlaties augšupielādēt.
+2. Atveriet failu pārlūku un pārlūkojiet failus, kurus vēlaties augšupielādēt.
     
-3. Atlasiet šos failus un velciet tos uz OneDrive vai SharePoint vietu. Piezīme: Ja jūs izmantojat Microsoft Edge, Mozilla FireFox un Google Chrome, varat arī augšupielādēt mapi un visas tajā esošos failus.
+3. Atlasiet failus un velciet tos uz atrašanās vietu pakalpojumā OneDrive vai SharePoint. Piezīme: ja jūs izmantojat Microsoft EDGE, Mozilla FireFox vai Google Chrome, jūs varat arī augšupielādēt mapi un visus failus tajā.
     
 > [!NOTE]
->  Failus var augšupielādēt ne vairāk kā 15 GB lielumā. > pilnu ceļu (ieskaitot faila nosaukumu) failu nevar būt vairāk par 400 rakstzīmēm. Ja jums ir nepieciešams, lai augšupielādētu vairāk nekā 100 failus, [izmantojiet sinhronizācijas klienta OneDrive](https://go.microsoft.com/fwlink/?linkid=866427)>. 
+>  Varat augšupielādēt failus, kuru lielums ir līdz 15 GB. > pilnais ceļš uz failu (ieskaitot faila nosaukumu) nevar būt garāks par 400 rakstzīmēm. > ja nepieciešams augšupielādēt vairāk nekā 100 failus, [Izmantojiet OneDrive sinhronizācijas klienta](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

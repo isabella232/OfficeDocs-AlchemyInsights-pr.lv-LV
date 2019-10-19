@@ -1,5 +1,5 @@
 ---
-title: Pārvaldītu SharePoint vai OneDrive novietne
+title: SharePoint vai OneDrive krātuves pārvaldīšana
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497090"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Pārvaldītu SharePoint vai OneDrive novietne
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint vai OneDrive krātuves pārvaldīšana
 
- **SharePoint tiešsaistē**
+ **SharePoint Online**
   
-Lielākā daļa organizāciju SharePoint uzglabāšanas pārvalda automātiski, tāpēc jums nav nepieciešams noteikt ierobežojumus katrā vietņu kolekcijā. Lai pārbaudītu, cik daudz jums ir SharePoint uzglabāšanas:
+Lielākajai daļai organizāciju SharePoint krātuve tiek pārvaldīta automātiski, tāpēc nav jāiestata ierobežojumi katrai vietņu kolekcijai. Lai pārbaudītu, cik daudz SharePoint krātuves ir jūsu vietā:
   
-- Jaunu SharePoint administrēšanas centrā, augšējā labajā stūrī vietnes lapā meklēt pieejamo un kopējo krātuves.
+- Jaunajā SharePoint administrēšanas centrā lapas vietnes augšējā labajā stūrī atrodiet pieejamo un kopējo krātuvi.
     
-Info par savu robežu aprēķināšanu skatiet [SharePoint Online robežas](https://go.microsoft.com/fwlink/p/?LinkID=856113). Iegādāties papildu krātuves, skatiet [mainīt krātuves vietas jūsu abonementu](https://go.microsoft.com/fwlink/?linkid=866428).
+Lai iegūtu informāciju par limita aprēķināšanu, skatiet sadaļu [SharePoint Online ierobežojumi](https://go.microsoft.com/fwlink/p/?LinkID=856113). Lai iegādātos papildu krātuvi, skatiet sadaļu [abonementa krātuves vietas maiņa](https://go.microsoft.com/fwlink/?linkid=866428).
   
- **OneDrive**
+ **Onedrive**
   
-Lai mainītu noklusējuma krātuves jaunajos un esošajos OneDrive lietotājiem:
+Lai mainītu noklusējuma krātuvi jauniem un esošiem OneDrive lietotājiem:
   
-- Dodieties uz [krātuves lapu administrēšanas centrs OneDrive](https://admin.onedrive.com/?v=StorageSettings)un ievadiet jaunas summas GB.
+- Pārejiet uz [OneDrive administrēšanas centra krātuves lapu](https://admin.onedrive.com/?v=StorageSettings)un ievadiet jaunu summu GB.
     
-Lai pārbaudītu, cik daudz krātuves jūs izmantojat savu OneDrive, skatiet [saiti Manage jūsu OneDrive biznesa uzglabāšanai](https://go.microsoft.com/fwlink/?linkid=866429). Info par uzglabāšanu, kas nāk ar katru plānu, skatiet [OneDrive biznesa pakalpojumu apraksts](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Lai pārbaudītu, cik daudz krātuves izmantojat savā pakalpojumā OneDrive, skatiet sadaļu [OneDrive darbam krātuves pārvaldība](https://go.microsoft.com/fwlink/?linkid=866429). Lai iegūtu informāciju par katra plāna krātuvi, skatiet sadaļu [OneDrive darbam pakalpojuma apraksts](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

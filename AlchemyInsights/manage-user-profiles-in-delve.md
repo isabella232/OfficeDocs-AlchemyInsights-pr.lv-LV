@@ -1,5 +1,5 @@
 ---
-title: Pārvaldītu lietotāju profilus ieplaka
+title: Pārvaldīt lietotāju profilus Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497198"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Pārvaldītu lietotāju profilus ieplaka
+# <a name="manage-user-profiles-in-delve"></a>Pārvaldīt lietotāju profilus Delve
 
-Biroja rakt ļauj lietotājiem pārvaldīt savus Office 365 lietotāja profilu. Lietotāji var:
+Office Delve ļauj lietotājiem pārvaldīt savu Office 365 lietotāja profilu. Lietotāji var:
   
-- Skatīt un atjaunināt savu informāciju
+- Skatīt un atjaunināt informāciju
     
-- Nekoplietot informāciju
+- Saglabāt informāciju privātu
     
-- Mainīt sava profila vai vāka attēlu
+- Mainīt savu profilu vai vāka attēlu
     
-- Mainītu valodas un laika formātu ieplaka
+- Valodas un laika formāta maiņa Delve
     
 > [!NOTE]
-> Ja lietotājs atjaunina savu profila bildi un pārmaiņas nav parādītas SharePoint vai OneDrive, palūdziet, lai atvērtu web pārlūkprogrammu, [dodieties uz Office.com](https://www.office.com), pierakstieties ar savu darbu vai mācību kontu un pēc tam noklikšķiniet uz OneDrive vai SharePoint mozaīku. Tas liks uz sinhronizācijas profila bildi. Lietotājs, iespējams, vajadzēs izmēģināt pabeigsiet šos soļus ar privāto savas pārlūkprogrammas versiju. 
+> Ja lietotājs atjauna savu profila attēlu un izmaiņas netiek rādītas pakalpojumā SharePoint vai OneDrive, lūdziet atvērt tīmekļa pārlūkprogrammu, [dodieties uz Office.com](https://www.office.com), pierakstieties ar savu darba vai mācību kontu un pēc tam noklikšķiniet uz OneDrive vai SharePoint mozaīka. Tiks parādīts aicinājums sinhronizēt profila attēlu. Lietotājam, iespējams, būs jāmēģina pabeigt šīs darbības ar savas pārlūkprogrammas privāto versiju. 
   
-[Uzziniet vairāk par atjaunināšanas profilus ieplaka](https://go.microsoft.com/fwlink/?linkid=735070)
+[Papildinformācija par profilu atjaunināšanu programmā Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

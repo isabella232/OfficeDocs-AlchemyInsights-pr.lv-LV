@@ -1,5 +1,5 @@
 ---
-title: Programma Outlook darbvirsmas atcerēties vai aizstāt e-pasta ziņojumu
+title: Outlook darbvirsmas atsaukšana vai aizstājiet e-pasta ziņojumu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496118"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Atsauktu vai aizstātu Outlook e-pasta ziņojumu
+# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook e-pasta ziņojuma atsaukšana vai aizstāšana
 
-- Kā administrators, varat **Atsaukt ziņojumus, izmantojot programmu PowerShell lietotāju vārdā**. Ziņas no admin center nevar atsaukt.
-- Jūs varat **tikai atsaukt ziņojumus, kas nosūtīti cilvēkiem jūsu organizācijā**. Ja ziņojums tika nosūtīts Gmail adresi, piemēram, nevaru atcerēties to.
-- Jūs varat **tikai atsaukt ziņojumus, kas nosūtīti no Outlook 2016 uz PC**. Ja lietotājs nosūta īsziņu, izmantojot Mac programmu Outlook vai Outlook Web, to nevar atsaukt.
+- Kā admin, jūs varat **Atsaukt ziņojumus vārdā lietotājiem, izmantojot PowerShell**. Ziņojumus nevar atsaukt administrēšanas centrā.
+- Varat **atsaukt tikai tos ziņojumus, kas nosūtīti personām jūsu organizācijā**. Piemēram, ja ziņojums ir nosūtīts uz Gmail adresi, to nevar atsaukt.
+- **No datora var tikai atsaukt ziņojumus, kas nosūtīti no programmas Outlook 2016**. Ja lietotājs nosūta ziņojumu, izmantojot Outlook Mac vai Outlook Web, to nevar atsaukt.
 
 Lai atsauktu vai aizstātu e-pasta ziņojumu:
 
-1. Mapju rūtī Outlook loga kreisajā pusē, izvēlieties mapi Nosūtītie vienumi.
+1. Mapju rūtī, kas atrodas Outlook loga kreisajā pusē, atlasiet mapi Nosūtītie vienumi.
 1. Veiciet dubultklikšķi uz ziņojuma, kuru vēlaties atsaukt, lai to atvērtu.
-1. Atlasiet cilni **ziņojums** un pēc tam atlasiet **darbību** > **Atsaukt šo ziņojumu**.
-1. Atlasiet **Dzēst šī ziņojuma nelasītās kopijas** vai **Dzēst nelasītās kopijas un aizstāt ar jaunu ziņojumu**un pēc tam **Labi**.
-1. Ja sūtāt ziņojumu Nomaiņa, sastādīt ziņojumu un pēc tam atlasiet **nosūtīt**.
-1. Ziņojuma atsaukšanas izdošanās vai neizdošanās ir atkarīga no adresāta iestatījumus programmā Outlook. Darbības, lai pārbaudītu par atsaukšanu, skatiet [šajā rakstā](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Atlasiet cilni **ziņojums** un pēc tam atlasiet **darbības** > **Atsaukt šo ziņojumu**.
+1. Atlasiet **Dzēst šī ziņojuma nelasītās kopijas** vai **Dzēst nelasītās kopijas un aizstāt ar jaunu ziņojumu**un pēc tam atlasiet **Labi**.
+1. Ja sūtāt ziņojumu ar aizstājējziņu, Sastādiet ziņojumu un pēc tam atlasiet **Sūtīt**.
+1. Ziņojumu atsaukšanas izdošanās vai neveiksme ir atkarīga no adresāta iestatījumiem programmā Outlook. Lai pārbaudītu atsaukuma darbības, skatiet [šo rakstu](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Meklēt un dzēst e-pasta ziņojumus savā uzņēmumā
+E-pasta ziņojumu meklēšana un dzēšana organizācijā
 
-- Ja jūs neesat globālās administrēšanas, jūsu kontā jābūt pievienotiem eDiscovery Manager lomu vai atbilstības meklēšanas pārvaldības loma, lai meklētu ziņojumus. Lai izdzēstu ziņas, jums pievienoties uzņēmuma pārvaldības lomu grupas vai meklēšanas un iztīrīs pārvaldības lomu. Atļaujas šīs lomas tiek piešķirtas [drošības un saskaņotības centrs](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Izveidošana satura meklēšanu](https://docs.microsoft.com/office365/securitycompliance/content-search) , lai atrastu ziņai un izdzēsiet.
-- [Drošības un atbilstības centrā PowerShell savienojumu](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Ja neesat globālais administrators, jūsu konts ir jāpievieno lomai eDiscovery Manager loma vai atbilstības meklēšanas pārvaldība, lai meklētu ziņojumus. Lai dzēstu ziņojumus, ir jāpievienojas organizācijas pārvaldības lomu grupai vai lomai meklēšanas un tīrīšanas pārvaldība. Šo lomu atļaujas tiek piešķirtas [drošības un atbilstības centrā](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Izveidojiet satura meklēšanu](https://docs.microsoft.com/office365/securitycompliance/content-search) , lai atrastu dzēšamo ziņojumu.
+- [Izveidot savienojumu ar drošības un atbilstības centra PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Ja jūs izmantojat vairāku faktoru autentifikaciju, skatiet [Office 365 drošību un atbilstību centra PowerShell savienojuma izveide, izmantojot vairāku faktoru autentifikaciju](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Ja izmantojat vairāku faktoru autentifikāciju, skatiet [izveidot savienojumu ar Office 365 drošības un atbilstības centrs PowerShell, izmantojot vairāku faktoru autentifikācija](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

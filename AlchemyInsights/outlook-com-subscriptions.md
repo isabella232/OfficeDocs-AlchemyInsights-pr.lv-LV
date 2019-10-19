@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511818"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonementi un Atrakstīšanās
+# <a name="subscriptions-and-unsubscribing"></a>Abonementi un abonēšanas atabonēšana
 
-Ja jūs vairs nevēlaties saņemt jaunumus vai akcijas, ir divi veidi, kā jūs varat atrakstīties Outlook.com:
+Ja vēlaties pārtraukt jaunumu vai akciju saņemšanu, varat atteikties no Outlook.com:
 
-1. Savā iesūtnē atlasiet biļetenus vai reklāmas e-pastu. Lasīšanas rūts augšdaļā atlasiet **Atcelt abonēšanu**.
-2. Atvērt savu [Outlook.com abonēšanas iestatījumi](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**iestatījumus** > **Outlook iestatījumu skatīšana** > **Email** > **abonementi**) un izvēlieties **atteikties**.
+1. Iesūtnē atlasiet biļetenu vai reklāmas e-pastu. Lasīšanas rūts augšdaļā atlasiet **Anulēt abonementu**.
+2. Atveriet savu [Outlook.com abonementu iestatījumus](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Iestatījumi** > **Skatīt visus Outlook iestatījumus** > **e-pasta** > **abonementus**) un atlasiet **anulēt**abonementu.
 
 Piezīmes:
 
-- Ne visi klienti var gūt labumu no šīs funkcijas šobrīd.
-- Šis līdzeklis redzami tikai tad, ja esat saņēmis e-pastu no uzņēmuma parakstītā e-pastu.
+- Ne visi klienti var gūt labumu no šo funkciju brīdī.
+- Šis līdzeklis ir redzams tikai tad, ja esat saņēmis e-pasta ziņojumu no uzņēmuma, kas sūta abonēto e-pasta ziņojumu.

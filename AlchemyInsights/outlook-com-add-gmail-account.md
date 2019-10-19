@@ -1,5 +1,5 @@
 ---
-title: Gmail konta pievienošana Outlook.com
+title: Pievienot Gmail kontu, lai Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538135"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Pievienojiet savu Gmail kontu ar Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Pievienot savu Gmail kontu, lai Outlook.com
 
-1. Atveriet [e-pasta sinhronizācijas uzstādījumus](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Sadaļā **saistīts kontiem**, atlasiet **Gmail**.
-3. Ievadiet parādāmo vārdu (vārdu adresāts redzēs, saņemot no tās saņemt e-pasta ziņu no jums).
-4. Izvēlieties, ja Outlook.com importēt savu e-pastu no Gmail un kur tiks glabāti importētie e-pastu.
-5. Atlasiet **Labi** , lai dotos uz pierakstīšanās lapu Google.
+1. Atveriet [sinhronizācijas e-pasta iestatījumus](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Sadaļā **savienotie konti**atlasiet **Gmail**.
+3. Ievadiet parādāmo vārdu (nosaukums adresāti redzēs, saņemot e-pasta ziņojumu no jums).
+4. Izvēlieties, vai Outlook.com vajadzētu importēt e-pastu no Gmail un kur tiks glabāts importētais e-pasts.
+5. Atlasiet **Labi** , lai pārietu uz Google pierakstīšanās lapu.
 
-Sinhronizēšana no pievienotā konta uz savu Outlook.com kontu ir vienvirziena. E-pasts, kas sūtīts no jūsu Gmail kontu, izmantojot Outlook.com neparādās mapē Nosūtītie vienumi, Gmail.
+Sinhronizēšana no pievienotā konta uz jūsu Outlook.com kontu ir tikai vienvirziena. E-pasts, kas nosūtīts no jūsu Gmail konta, izmantojot Outlook.com, netiks rādīts Gmail nosūtītos vienumus.
 
-Jūs varat sūtīt e-pastu Outlook.com no pievienotā Gmail konta. Sastādot e-pastu, **izvēlēties** un izvēlēties savu Gmail adresi, vai [atjaunināt jūsu noklusējuma no adreses](https://go.microsoft.com/fwlink/?linkid=875264).
+Varat sūtīt e-pastu Outlook.com no pievienotā Gmail konta. Sastādot e-pasta ziņojumu, izvēlieties **no** un izvēlieties savu Gmail adresi vai [atjauniniet savu noklusējuma adresi](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Plašāku informāciju skatiet [Add jūsu citām e-pasta konti, lai Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai iegūtu papildinformāciju, skatiet [citu e-pasta kontu pievienošana Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

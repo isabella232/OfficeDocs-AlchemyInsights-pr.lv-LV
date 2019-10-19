@@ -1,5 +1,5 @@
 ---
-title: SharePoint rumbas vietnes pārskats
+title: SharePoint centrmezgla vietņu pārskats
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503569"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818901"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>SharePoint rumbas vietnes pārskats
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint centrmezgla vietņu pārskats
 
-SharePoint rumbas vietām palīdzēt jums sasniegt jūsu organizācijas prasībām savienojot un sakārtojot vietām, pamatojoties uz projektu, departaments, nodaļa, reģionā u.c. atvieglo:
+SharePoint centrmezgla vietnes palīdz apmierināt jūsu organizācijas vajadzības, savienojot un organizējot vietnes, kas balstītas uz projektu, struktūrvienību, nodaļu, reģionu utt., atvieglojot:
 
-- Atklāt saistīto saturu, piemēram, ziņas un citu vietnes darbību.
+- Atklājiet saistītu saturu, piemēram, ziņu un citas vietnes aktivitātes.
 
-- Piemērot kopēju navigācijas un zīmolu saistītās vietnēs. 
+- Lietojiet kopīgu navigāciju un zīmolradi visās saistītajās vietnēs. 
 
-- Meklēt visas saistītās vietnēs.
+- Meklēt visās saistītajās vietnēs.
 
-Skatiet papildinformāciju par rumbas vietās:
-- [Create rumbas vietas savā SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Uzziniet, kā izveidot jaunu administrēšanas centrs vai PowerShell rumbas vietā.
+Papildinformāciju par centrmezgla vietnēm skatiet tālāk minētajās vietnēs.
+- [Izveidot centrmezgla vietne SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Uzziniet, kā izveidot centrmezgla vietni no jauna administrēšanas centrs vai PowerShell.
 
-- [Saistīt ar SharePoint vietnē ar rumbas vietā](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): uzzināt par piesaistīšana esošajās vietnēs rumbas vietā no jauna administrēšanas centrs vai PowerShell.
+- [Saistiet SharePoint vietni ar centrmezgla vietni](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Uzziniet par esošo vietņu piesaisti centrmezgla vietnei no jaunā administrēšanas centra vai PowerShell.
 
-- [Noņemt rumbas vietā](https://docs.microsoft.com/sharepoint/remove-hub-site): Uzziniet, kā novērst esošā rumbas vietā jaunu administrēšanas centrs vai PowerShell.
+- [Centrmezgla vietnes noņemšana](https://docs.microsoft.com/sharepoint/remove-hub-site): Uzziniet, kā noņemt esošu centrmezgla vietni jaunajā administrēšanas centrā vai PowerShell.
 

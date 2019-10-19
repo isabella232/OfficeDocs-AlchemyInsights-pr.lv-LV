@@ -1,5 +1,5 @@
 ---
-title: Limiti un lielu failu koplietošanas vidē SharePoint
+title: Ierobežojumiem un lieliem failiem SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497594"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Failiem, kurus nevar tikt augšupielādēti SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Faili, kurus nevar augšupielādēt SharePoint Online
 
-Ja nebūs augšupielādēt failu SharePoint Online, pārliecinieties, vai:
+Ja failu nevar augšupielādēt SharePoint Online, pārliecinieties, vai:
   
-- Tas ir mazāk nekā 15 GB lielumā.
+- Tas ir mazāks par 15 GB lieluma.
     
-- Viss ceļš, ieskaitot faila nosaukumu, ir mazāk nekā 400 rakstzīmēm.
+- Viss ceļš, ieskaitot faila nosaukumu, ir mazāks par 400 rakstzīmēm.
     
-- Faila nosaukums nesatur rakstzīmes " \* : \< \> ? / \ | un nav sarakstā, kur norādīti [nederīgi nosaukumi](https://go.microsoft.com/fwlink/?linkid=866430).
+- Faila nosaukumā nav rakstzīmju " \* :? \< \> / \ | un nav [nederīgu nosaukumu](https://go.microsoft.com/fwlink/?linkid=866430)sarakstā.
     
-Ja jūs mēģināt augšupielādēt failu, izmantojot OneDrive desktop app, skatiet [ierobežojumi un ierobežojumi, kad sinhronizējat failus un mapes](http://go.microsoft.com/fwlink/p/?LinkID=717734) vai [OneDrive labotu sinhronizācijas problēmas](https://go.microsoft.com/fwlink/?linkid=866431).
+Ja mēģināt augšupielādēt failu, izmantojot OneDrive datora programmu, skatiet sadaļu [ierobežojumi un ierobežojumi, sinhronizējot failus un mapes](http://go.microsoft.com/fwlink/p/?LinkID=717734) vai [labojot OneDrive sinhronizācijas problēmas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

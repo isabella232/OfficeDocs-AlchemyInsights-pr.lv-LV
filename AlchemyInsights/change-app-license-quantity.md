@@ -1,5 +1,5 @@
 ---
-title: Mainīt daudzumu app licences
+title: Lietotnes licences daudzuma maiņa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519774"
 ---
-# <a name="change-app-license-quantity"></a>Mainīt daudzumu app licences
+# <a name="change-app-license-quantity"></a>Lietotnes licences daudzuma maiņa
 
-Varat apskatīt un mainīt vairāk licenču, jums ir, un tos piesaistīt lietotājiem Microsoft 365 administrēšanas centrā. 
+Varat skatīt vai mainīt licenču skaitu un piešķirt lietotājiem Microsoft 365 administrēšanas centrā. 
 
-## <a name="to-change-license-quantity"></a>Lai mainītu licences daudzums
+## <a name="to-change-license-quantity"></a>Lai mainītu licenču daudzumu
 
-1. Dodieties uz **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) lapa un pēc tam noklikšķiniet uz zīmnes **progr** .
+1. Atveriet lapu **norēķinu** > [produktu & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) un pēc tam izvēlieties cilni **programmas** .
 
-2. Atrodiet un atlasiet app vēlaties pārvaldīt.  
+2. Atrodiet un atlasiet lietotni, kuru vēlaties pārvaldīt.  
 
 3. Atlasiet **Pievienot/noņemt licences**.
 
-4. Ievadiet jaunu licences nepieciešamas. Piemēram, ja pašlaik ir 5 licences, un ir nepieciešama tikai 4, **kopējais licenču** lodziņā ievadiet 4. Ja jums pašlaik ir 5 licences un 10, kopējais licenču nepieciešamību, **kopējais licenču** lodziņā ievadiet 10.
+4. Ievadiet jauno nepieciešamo licenču skaitu. Piemēram, ja jums pašlaik ir 5 licences un ir nepieciešama tikai 4, ievadiet 4 lodziņā **kopējās licences** . Ja jums pašlaik ir 5 licences un ir nepieciešamas 10 licences kopā, ievadiet 10 lodziņā **kopējās licences** .
 
-## <a name="to-assign-app-licenses"></a>Lai piešķirtu app licences
+## <a name="to-assign-app-licenses"></a>Lai piešķirtu lietotņu licences
 
-1. Dodieties uz **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) lapa un pēc tam noklikšķiniet uz zīmnes **progr** .
+1. Atveriet lapu **norēķinu** > [produktu & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) un pēc tam izvēlieties cilni **programmas** .
 
-2. Atrodiet un atlasiet app vēlaties pārvaldīt.  
+2. Atrodiet un atlasiet lietotni, kuru vēlaties pārvaldīt.  
 
-3. **_AMP_ darbības iestatījumus**, atlasiet saiti uz **pārvaldīt portāla izdevēja**.
+3. Sadaļā **iestatījumi & darbības**atlasiet saiti, ko **pārvaldīt Publisher portālā**.

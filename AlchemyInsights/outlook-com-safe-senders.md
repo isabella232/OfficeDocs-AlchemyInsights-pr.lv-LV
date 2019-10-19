@@ -12,19 +12,19 @@ ms.custom:
 - "1400"
 - "8000089"
 ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535362"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Apturētu ziņojumu nonākšanu jūsu nevēlamā e-pasta mapi
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Ziņojumu apturēšana no došanās uz nevēlamā e-pasta mapi
 
-Ir brīži, kad jūs nevēlaties, lai ziņojumiem no konkrētas personas vai domēna nonāk mapē Nevēlamais e-pasts ar Outlook.com. Ziņojumi no adreses vai domēni ir drošo sūtītāju sarakstā netiks pārvietoti uz mapi Nevēlamais e-pasts.
+Ir reizes, kad jūs nevēlaties, lai ziņojumi no konkrētas personas vai domēna, lai galu galā jūsu nevēlamā e-pasta mapē Outlook.com. Ziņojumi no drošo sūtītāju sarakstā iekļautajām adresēm vai domēniem netiks pārvietoti uz mapi Nevēlamais e-pasts.
 
-1. Atveriet jūsu [drošo sūtītāju iestatījumus](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Saskaņā ar **drošo sūtītāju un jomām**, ievadiet e-pasta adreses vai domēna, kuru vēlaties pievienot un izvēlieties **pievienot**.
-3. Adresātu sarakstu pievienošana drošo sūtītāju, ievadiet adresātu sarakstu, sadaļā **drošo adresātu sarakstu** un izvēlieties **pievienot**.
-4. Izvēlieties **saglabāt**.
+1. Atveriet [drošo sūtītāju iestatījumus](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Sadaļā **Drošie sūtītāji un domēni**ievadiet e-pasta adresi vai domēnu, ko vēlaties pievienot, un atlasiet **pievienot**.
+3. Lai pievienotu adresātu sarakstu drošo sūtītāju sarakstam, ievadiet adresātu sarakstu sadaļā **drošo adrešu saraksti** un atlasiet **pievienot**.
+4. Atlasiet **saglabāt**.
 
-Lasīt vairāk pie [bloķēt vai atbloķēt sūtītāju Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lasīt vairāk pie [bloķēt vai atbloķēt sūtītājus Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

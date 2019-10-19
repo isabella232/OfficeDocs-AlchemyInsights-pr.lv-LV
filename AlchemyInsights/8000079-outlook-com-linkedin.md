@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494354"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problēmas ar nevēlamā e-pasta apgalvo, ka no LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problēmas ar nevēlamo e-pastu, apgalvojot, ka no LinkedIn
 
-Ja saņemat nevēlamo e-pastu, kas apgalvo, ka no LinkedIn, var izveidot kārtulu, lai filtrētu šiem e-pastiem.
-Plašāku informāciju skatiet sadaļā [lietot Iesūtnes kārtulas Outlook.com](https://aka.ms/OutlookComInboxRules) .
+Ja saņemat nevēlamo e-pastu, kas apgalvo, ka ir no LinkedIn, varat izveidot kārtulu, lai filtrētu šos e-pastus.
+Papildinformāciju skatiet sadaļā [iesūtnes kārtulu izmantošana Outlook.com](https://aka.ms/OutlookComInboxRules) .
 
 

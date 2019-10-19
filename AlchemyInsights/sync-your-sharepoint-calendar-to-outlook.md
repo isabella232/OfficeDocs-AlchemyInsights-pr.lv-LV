@@ -1,5 +1,5 @@
 ---
-title: Sinhronizēt ar Outlook kalendāru SharePoint
+title: SharePoint kalendāra sinhronizēšana ar Outlook
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,24 +13,24 @@ ms.custom:
 - "9000677"
 - "2586"
 ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507350"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problēmas, sinhronizējot kalendāru ar ierīces
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problēmas ar kalendāra sinhronizēšanu ierīcēs
 
-SharePoint kalendāriem ir klasiskais saraksta tipi, kas dažreiz jauc ar Office 365 grupas kalendārus.
+SharePoint kalendāri ir klasiski sarakstu tipi, kas dažreiz tiek sajaukti ar Office 365 grupas kalendāriem.
 
-Lai SharePoint kalendāru programmai Outlook sinhronizāciju, lūdzu, rīkojieties šādi:
+Lai sinhronizētu SharePoint kalendāru ar Outlook, lūdzu, rīkojieties šādi:
 
-1. Noklikšķiniet uz ikonas **iestatījumu** rīku un pēc tam noklikšķiniet uz **Vietnes saturu**.
-2. Atvērt kalendāru vēlaties sinhronizēt (kas ir notikumu saraksta tips).
-3. Klasisks lente izvēlnē noklikšķiniet uz **Kalendārs**, pēc tam noklikšķiniet uz **savienot ar Outlook**.
-4. Pop-up lūdzot apstiprināt sinhronizācijas, noklikšķiniet uz **Atļaut**.
+1. Noklikšķiniet uz **Settings** Gear ikonas un pēc tam noklikšķiniet uz **vietnes saturs**.
+2. Atveriet kalendāru, kuru vēlaties sinhronizēt (tas ir notikumu saraksta tips).
+3. Klasiskajā lentes izvēlnē noklikšķiniet uz **Kalendārs**, pēc tam noklikšķiniet uz **izveidot savienojumu ar Outlook**.
+4. Uznirstošajā izvēlnē, lūdzot apstiprināt sinhronizēšanu, noklikšķiniet uz **Atļaut**.
 
 >[!Note]
-> Kad jūs veicat izmaiņas sinhronizētu Outlook kalendārā, tas parādīsies SharePoint kalendārā, un vice versa.
+> Veicot izmaiņas sinhronizētajā Outlook kalendārā, tas tiks parādīts SharePoint kalendārā un otrādi.
 
-Plašāku informāciju par Office 365 grupām skatiet šajā [rakstā](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Lai iegūtu papildinformāciju par Office 365 grupas, skatiet šo [rakstu](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
