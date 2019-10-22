@@ -1,26 +1,26 @@
 ---
 title: Sekot vai ANO sekot SharePoint vietnei
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755711"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611704"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Sekot vai ANO sekot SharePoint vietnei
 
-Ir vairāki veidi, kā sekot vietnei, kas jūs interesē SharePoint. Tas ļaus jums viegli atrast vietu savā sarakstā un ļaut jums redzēt darbību no vietnes. 
+Ir vairāki veidi, kā atrast un sekot vietnes, ziņas un saturu, kas interesē jūs SharePoint. Tas ļaus jums viegli atrast informāciju savā sarakstā un ļauj skatīt darbības no SharePoint.
 
-Noskatieties video, lai [sekotu SharePoint vietnei](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Noskatieties video, lai [atrastu un sekotu vietnēm un jaunumiem](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
 
-Ja nevarat sekot vai ANO sekot vietni un šķiet, ka rezultāti nav to, kas ir paredzēts, skatiet, ja problēma ir saistīta ar vienu lietotāju vai visiem lietotājiem organizācijā. Ja problēma ir radusies visiem lietotājiem, var būt pagaidu pakalpojumu problēma. 
+Ja nevarat sekot vai ANO sekot vietnei, ziņām vai saturam un uzskatāt, ka rezultāti nav gaidāmais, skatiet, vai problēma ir saistīta ar atsevišķu lietotāju vai visiem lietotājiem jūsu organizācijā. Ja problēma ir radusies visiem lietotājiem, var būt pagaidu pakalpojumu problēma.
 
 Pārbaudiet [pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noskaidrotu, vai jūsu organizācija ir ietekmēta.
