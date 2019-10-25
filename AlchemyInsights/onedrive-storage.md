@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661051"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658300"
 ---
 # <a name="manage-your-onedrive-storage"></a>OneDrive krātuves pārvaldība
 
-Lai mainītu noklusējuma krātuvi jauniem un esošiem OneDrive lietotājiem:
-  
-- Dodieties uz [OneDrive administrēšanas centra krātuves lapu](https://admin.onedrive.com/?v=StorageSettings)un pēc tam ievadiet jaunu summu GB.
+OneDrive krātuves vieta netiek ieskaitītu kopējā nomnieka kvota. 
 
-Šis krātuves vietas iestatījums attiecas uz visiem lietotājiem, kuriem neesat iestatījis noteiktus krātuves ierobežojumus. Lai mainītu krātuves vietu konkrētiem lietotājiem, ir jāizmanto Microsoft PowerShell. Informāciju par to, kā to paveikt, skatiet sadaļā [lietotāju OneDrive krātuves vietas maiņa, izmantojot PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Lai pārbaudītu, cik daudz krātuves izmantojat savā pakalpojumā OneDrive, skatiet sadaļu [OneDrive darbam krātuves pārvaldība](https://go.microsoft.com/fwlink/?linkid=866429). Lai iegūtu informāciju par katra plāna krātuvi, skatiet sadaļu [OneDrive darbam pakalpojuma apraksts](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Uzziniet, [kā tiek sadalīta OneDrive krātuves vieta katram lietotājam/plānam](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Uzziniet [, cik daudz krātuves tiek izmantots pakalpojumā OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Uzziniet [, kā iegūt OneDrive krātuves kvotu, izmantojot PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Microsoft sākotnēji nodrošina 1 TB vienam lietotājam, ko administratori var palielināt līdz 5 TB vienam lietotājam. Uzziniet, kā [iestatīt noklusējuma krātuves vietu OneDrive lietotājiem](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Uzziniet [, kā mainīt konkrēta lietotāja OneDrive krātuves vietu](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Uzziniet [, kā globālā administratori var iestatīt OneDrive krātuves kvotu visiem lietotājiem, izmantojot PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

@@ -3,7 +3,6 @@ title: SharePoint krātuves
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502726"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658264"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Pārvaldītu SharePoint Online uzglabāšanas
+# <a name="manage-your-sharepoint-online-storage"></a>Pārvaldiet savu SharePoint Online Storage
 
-Lielākā daļa organizāciju SharePoint uzglabāšanas pārvalda automātiski, tāpēc jums nav nepieciešams noteikt ierobežojumus katrā vietņu kolekcijā. Lai pārbaudītu, cik daudz jums ir SharePoint uzglabāšanas:
-  
-- Jaunu SharePoint administrēšanas centrā, augšējā labajā stūrī vietnes lapā meklēt pieejamo un kopējo krātuves.
+Uzziniet, kā [tiek aprēķināta nomnieka krātuve](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) , pamatojoties uz jūsu plānu.
 
-Info par savu robežu aprēķināšanu skatiet [SharePoint Online robežas](https://go.microsoft.com/fwlink/p/?LinkID=856113). Iegādāties papildu krātuves, skatiet [mainīt krātuves vietas jūsu abonementu](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Info par pārraudzības atsevišķas vietnes krātuves, izmantojot PowerShell un pārvaldīt vietņu kolekcijas krātuves manuāli, skatiet [pārvaldīt vietņu kolekcijas krātuves limitu](https://go.microsoft.com/fwlink/?linkid=867833)
+Lielākajai daļai organizāciju SharePoint krātuve tiek pārvaldīta automātiski, tāpēc nav nepieciešams iestatīt ierobežojumus katrai vietņu kolekcijai.
+
+Uzziniet, kā [Skatīt uzņēmuma kopējo un pieejamo krātuves vietu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Uzziniet, kā [pārvaldīt atsevišķu vietņu kolekcijas krātuves ierobežojumus](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Ja jūsu vietnei nepietiek vietas vai vēlaties uzzināt, kura bibliotēka vai saraksts izmanto šo vietu, dodieties uz **vietnes iestatījumu** > **krātuves metrika** (nepieciešams vietņu kolekcijas administratora atļaujas).
+
+Uzziniet, kā [pārraudzīt vietnes krātuves ierobežojumus, izmantojot PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Uzziniet, kā [iegādāties papildu krātuvi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   

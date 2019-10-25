@@ -2,7 +2,6 @@
 title: Vietnes pārdēvēšana
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752183"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658372"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePoint vietnes pārdēvēšana
 
-Lai mainītu vietnes nosaukumu, piemēram, no https://contoso.sharepoint.com/sites/sample1 kam https://contoso.sharepoint.com/sites/sample2, ir jāizveido jauna vietne un pēc tam viss saturs jāpārvieto no vecās vietnes uz jauno. Informāciju par vienumu pārvietošanu dokumentu bibliotēkās skatiet sadaļā [vienumu pārvietošana vai kopēšana no SharePoint dokumentu bibliotēkas](https://go.microsoft.com/fwlink/?Linkid=2018691).
-  
-Piezīme: ja mēģināt mainīt domēna nosaukumu (tas ir, Contoso daļa URL iepriekš) SharePoint Online URL, tas nav iespējams. Skatiet sadaļu [domēnu mainīšana](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Izpildiet [šajā rakstā](https://docs.microsoft.com/sharepoint/change-site-address) aprakstītās darbības, lai mainītu vietnes nosaukumu, piemēram, no https://contoso.sharepoint.com/sites/sample1 kam. https://contoso.sharepoint.com/sites/sample2
+
+**Piezīme:** Nevar mainīt domēna nosaukumu (iepriekš minētajā piemērā Contoso daļa URL) SharePoint Online URL. Papildinformāciju skatiet sadaļā [domēnu mainīšana](https://go.microsoft.com/fwlink/?Linkid=2018696) .
   

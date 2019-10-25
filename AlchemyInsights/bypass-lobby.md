@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637784"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654263"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrolēt vestibila iestatījumus un dalības līmeni
 
@@ -24,7 +24,7 @@ Ja vēlaties atļaut ikvienam, ieskaitot iezvanes, ārējo un anonīmo lietotāj
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šī cmdlet pašlaik ir nepieciešams izmantot Skype biznesa PowerShell modulis. Lai iegūtu setup izmantot šo cmdlet, izbraukšana pārvaldības politiku, izmantojot PowerShell.
+Šī cmdlet pašlaik ir nepieciešams izmantot Skype biznesa PowerShell modulis. Lai iegūtu setup izmantot šo cmdlet, izbraukšana [pārvaldības politiku, izmantojot PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Varat iestatīt jaunu politiku, kas pēc tam ir jālieto lietotājiem. Ja modificēsit globālo politiku, tā automātiski tiks piemērota lietotājiem. Visām politikas izmaiņām jums ir jāgaida vismaz 4 stundas un līdz 24 stundām, lai politikas stātos spēkā.
 
