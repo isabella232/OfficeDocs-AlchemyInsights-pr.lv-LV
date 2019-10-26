@@ -13,21 +13,21 @@ ms.custom:
 - "9000191"
 - "2383"
 ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36735900"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="56389-102">Ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu</span><span class="sxs-lookup"><span data-stu-id="56389-102">External user is unable to accept a sharing invitation</span></span>
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="c2390-102">Ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu</span><span class="sxs-lookup"><span data-stu-id="c2390-102">External user is unable to accept a sharing invitation</span></span>
 
-<span data-ttu-id="56389-103">Ja ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu, lūdzu, mēģiniet apmeklēt saites zemāk:</span><span class="sxs-lookup"><span data-stu-id="56389-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
+<span data-ttu-id="c2390-103">Ja ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu, lūdzu, mēģiniet apmeklēt saites zemāk:</span><span class="sxs-lookup"><span data-stu-id="c2390-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
 
-- [<span data-ttu-id="56389-104">"Piekļuve liegta", "jums ir nepieciešama atļauja, lai piekļūtu šai vietnei" vai "lietotājs nav atrodams direktorijā" kļūdas SharePoint Online un OneDrive uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="56389-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="56389-105">"Jūsu organizācijas politikas neļauj koplietot ar šiem lietotājiem" kļūda, koplietojot vienumu vai vietni SharePoint Online vai OneDrive uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="56389-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="56389-106">Koplietošanas iespējas ir pelēkota, koplietojot no SharePoint Online vai OneDrive</span><span class="sxs-lookup"><span data-stu-id="56389-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="56389-107">Kļūdas ziņojums, ārējais lietotājs pieņem uzaicinājumu SharePoint Online, izmantojot citu kontu</span><span class="sxs-lookup"><span data-stu-id="56389-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="56389-108">OSE koplietošanas kļūdas pakalpojumā SharePoint un OneDrive</span><span class="sxs-lookup"><span data-stu-id="56389-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="c2390-104">"Piekļuve liegta", "jums ir nepieciešama atļauja, lai piekļūtu šai vietnei" vai "lietotājs nav atrodams direktorijā" kļūdas SharePoint Online un OneDrive uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="c2390-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="c2390-105">"Jūsu organizācijas politikas neļauj koplietot ar šiem lietotājiem" kļūda, koplietojot vienumu vai vietni SharePoint Online vai OneDrive uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="c2390-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="c2390-106">Koplietošanas iespējas ir pelēkota, koplietojot no SharePoint Online vai OneDrive</span><span class="sxs-lookup"><span data-stu-id="c2390-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="c2390-107">Kļūdas ziņojums, ārējais lietotājs pieņem uzaicinājumu SharePoint Online, izmantojot citu kontu</span><span class="sxs-lookup"><span data-stu-id="c2390-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="c2390-108">OSE koplietošanas kļūdas pakalpojumā SharePoint un OneDrive</span><span class="sxs-lookup"><span data-stu-id="c2390-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
