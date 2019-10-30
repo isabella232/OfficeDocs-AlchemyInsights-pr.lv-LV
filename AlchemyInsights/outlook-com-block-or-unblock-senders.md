@@ -1,5 +1,5 @@
 ---
-title: Bloķēt vai atbloķēt sūtītāju Outlook.com
+title: Bloķēt vai atbloķēt sūtītājus Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643701"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768735"
 ---
-# <a name="block-or-unblock-senders"></a>Bloķēt vai atbloķēt sūtītāju
+# <a name="block-or-unblock-senders"></a>Bloķēt vai atbloķēt sūtītājus
 
-Ziņojumus no e-pasta adresēm un domēniem, kuri iekļauti jūsu bloķēto sūtītāju iet tieši uz mapi Nevēlamais e-pasts. E-pasts tiek automātiski noņemta no mapes Nevēlamais e-pasts, pēc 30 dienām, un nav atgūstams. SE; ect vienumu, lai redzētu, kad tas tiks noņemts.
+Ziņojumi no jūsu bloķēto sūtītāju e-pasta adresēm vai domēniem ir tieši jūsu Outlook nevēlamā e-pasta mapē. E-pasts tiek automātiski noņemts no nevēlamā e-pasta mapes pēc 30 dienām un nav atgūstams. Atlasiet vienumu, lai redzētu, kad tas tiks noņemts.
 
-**No jūsu iesūtni:**
+**No iesūtnes:**
 
-- Ziņojumu sarakstā atlasiet ziņojumu un pēc tam atlasiet **nevēlamo** > **bloku**.
-- **Piezīme:** Bloķē krājumu jau savā mapē Nevēlamais e-pasts nevar izdzēst to.
+- Ziņojumu sarakstā atlasiet ziņojumu un pēc tam atlasiet **Nevēlamais** > **bloks**.
+- **Piezīme:** Bloķējot vienumu, kas jau atrodas nevēlamā e-pasta mapē, tas netiks izdzēsts.
 
-**No iestatījumi:**
+**No iestatījumiem:**
 
-1. Atvērtu [nevēlamā e-pasta](https://outlook.live.com/mail/options/mail/junkEmail) iestatījumus.
-2. , **Bloķētie sūtītāji un domēni**, izvēlieties **pievien**.
-3. Ierakstiet e-pasta adrese, domēna, kuru vēlaties bloķēt, un nospiediet taustiņu Enter.
-4. Izvēlieties **saglabāt**.
+1. Atveriet [nevēlamā e-pasta](https://outlook.live.com/mail/options/mail/junkEmail) iestatījumus.
+2. Sadaļā **Bloķētie sūtītāji un domēni**atlasiet **pievienot**.
+3. Ierakstiet domēna e-pasta adresi, kuru vēlaties bloķēt, un nospiediet taustiņu ENTER.
+4. Atlasiet **saglabāt**.
 
-Lai atbloķētu sūtītāju, atlasiet miskasti ikonas blakus e-pasta adreses vai domēna, kuru vēlaties atbloķēt.
+Lai atbloķētu sūtītāju, atlasiet atkritnes ikonu blakus e-pasta adresei vai domēnam, ko vēlaties atbloķēt.
 
-Lai uzzinātu vairāk, skatiet [atzīmēt e-pastu kā nevēlams vai bloķējiet sūtītāju Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai uzzinātu vairāk, skatiet [atzīmēt e-pastu kā nevēlamu vai bloķēt sūtītājus Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

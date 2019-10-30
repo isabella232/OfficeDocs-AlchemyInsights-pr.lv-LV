@@ -3,7 +3,6 @@ title: Aktivizēt jaunu abonementu ar produkta atslēgu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495650"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766394"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivizēt jaunu abonementu ar produkta atslēgu
 
-1. Lai aktivizētu jaunu abonementu ar produkta atslēgu, dodieties uz [https://office.com/setupkey](https://office.com/setupkey) lapā.
+1. Lai aktivizētu jaunu Office 365 abonementu ar savu produkta atslēgu, dodieties uz [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Ievadiet produkta atslēgu Office 365 un sekojiet uzvednēm, lai aktivizētu savu abonementu. Ja jums ir problēmas ar aktivizēšanu, pārbaudiet šo [sarakstu kopējā produkta galvenās kļūdas un risinājumi](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Ievadiet savu Office 365 produkta atslēgu un sekojiet uzvednēm, lai aktivizētu abonementu. Ja rodas problēmas ar aktivizēšanu, skatiet šo [sarakstu ar Izplatītākajās produkta atslēgas kļūdām un risinājumiem](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

@@ -1,8 +1,7 @@
 ---
-title: 1800021 kā izveidojiet kārtulu programmā Outlook izmanto Mac
+title: 1800021 kā izveidot kārtulu programmā Outlook operētājsistēmai Mac
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541124"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769094"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kā izveidot kārtulu programmā Outlook Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kā izveidot kārtulu programmā Outlook operētājsistēmai Mac
 
-1. Lai izveidotu mapi, kurā atradīsies kārtulas e-pasta ziņojumus, izvēlieties saknes pastkasti, **organizēt** cilnē, noklikšķiniet uz **Jauna mape**, ierakstiet mapes nosaukumu un nospiediet taustiņu Enter.
+1. Lai izveidotu mapi, kurā turēt kārtulas nosūtītos e-pasta ziņojumus, atlasiet saknes pastkasti, cilnē **organizēšana** noklikšķiniet uz **Jauna mape**, ierakstiet mapes nosaukumu un nospiediet taustiņu ENTER.
 
-    Ja jūs 
+2. Ziņojumu sarakstā noklikšķiniet uz e-pasta ziņojuma, kuram vēlaties o izveidot kārtulu.
 
-2. Ziņojumu sarakstā noklikšķiniet uz e-pasta ziņojumam, kuram o izveidot kārtulu.
+3. Cilnē **Sākums** noklikšķiniet uz **kārtulas**un pēc tam noklikšķiniet uz **izveidot kārtulu**.
 
-3. Cilnē **Sākums** noklikšķiniet uz **kārtulas**un pēc tam noklikšķiniet uz **Izveidot kārtulu**.
+4. Zem **kad pienāk jauns ziņojums** rediģējiet kritērijus atbilstoši savām vajadzībām. 
 
-4. Sadaļā **kad pienāk jauns** rediģējiet kritērijus, lai atbilstu jūsu vajadzībām. 
-
-Detalizētas instrukcijas par to, kā izveidot pielāgotu normas, skatiet [izveidojiet kārtulu programmā Outlook Mac](https://aka.ms/AA1uy0v)
+Detalizētas instrukcijas par pielāgotu kārtulu izveidi skatiet sadaļā [kārtulas izveide programmā Outlook operētājsistēmai Mac](https://aka.ms/AA1uy0v)
   

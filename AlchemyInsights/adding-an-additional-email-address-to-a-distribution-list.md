@@ -1,9 +1,8 @@
 ---
-title: 713, pievienojot papildu e-pasta adresi adresātu sarakstam
+title: 713 papildu e-pasta adreses pievienošana adresātu sarakstam
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494786"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766214"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Pievienot e-pasta adresi adresātu grupu
+# <a name="add-an-email-address-for-a-distribution-group"></a>E-pasta adreses pievienošana adresātu grupai
 
-Lai pievienotu e-pasta adreses esošo adresātu grupu, rīkojieties šādi:
+Lai pievienotu esošo adresātu grupas e-pasta adreses, rīkojieties šādi:
 
-1. [Exchange administratoru centrā](https://outlook.office365.com/ecp/), dodieties uz **adresātu** \> **grupām**.
+1. [Exchange administrēšanas centrs](https://outlook.office365.com/ecp/), dodieties uz **adresātu** \> **grupas**.
 
 2. Atlasiet adresātu grupu, kuru vēlaties modificēt, un pēc tam noklikšķiniet uz **Rediģēt**.
 
-3. Grupas rekvizīti, atveriet **e-pasta opcijas** cilni, lai pievienotu e-pasta adreses. 
+3. Grupas rekvizītos pārejiet uz **e-pasta opcijas** cilni, lai pievienotu e-pasta adreses. 
 
-Papildinformāciju skatiet [e-pasta opcijas](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Papildinformāciju skatiet sadaļā [e-pasta opcijas](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

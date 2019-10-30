@@ -2,7 +2,6 @@
 title: Ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735900"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769130"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu
 
-Ja ārējais lietotājs nevar akceptēt koplietošanas uzaicinājumu, lūdzu, mēģiniet apmeklēt saites zemāk: 
+Ja ārējais lietotājs nevar akceptēt SharePoint vai OneDrive koplietošanas uzaicinājumu, lūdzu, mēģiniet apmeklēt tālāk norādītās saites: 
 
 - ["Piekļuve liegta", "jums ir nepieciešama atļauja, lai piekļūtu šai vietnei" vai "lietotājs nav atrodams direktorijā" kļūdas SharePoint Online un OneDrive uzņēmumiem](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["Jūsu organizācijas politikas neļauj koplietot ar šiem lietotājiem" kļūda, koplietojot vienumu vai vietni SharePoint Online vai OneDrive uzņēmumiem](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

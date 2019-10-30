@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654263"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768447"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrolēt vestibila iestatījumus un dalības līmeni
 
-Ja vēlaties atļaut ikvienam, ieskaitot iezvanes, ārējo un anonīmo lietotāju apiet vestibilā, varat izmantot PowerShell, lai to izdarītu. Tālāk ir piemērs, kā modificēt organizācijas globālo sapulču politiku.
+Ja vēlaties atļaut visiem, tostarp iezvanes, ārējiem un anonīmajiem lietotājiem apiet vestibilā Microsoft Teams, varat izmantot PowerShell, lai to izdarītu. Tālāk ir piemērs, kā modificēt organizācijas globālo sapulču politiku.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

@@ -1,9 +1,8 @@
 ---
-title: Kur ir varas Pivot?
+title: Kur ir Power Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530962"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769850"
 ---
-# <a name="where-is-power-pivot"></a>Kur ir varas Pivot?
+# <a name="where-is-power-pivot"></a>Kur ir Power Pivot?
 
-Ir trīs iemesli, kāpēc jūs neredzat Power Pivot:
+Ir trīs iemesli, kāpēc jūs nevarēsiet redzēt Power Pivot:
   
-**Jūsu Excel versijā nav iekļauta to**
+**Jūsu programmas Excel versija to neietver**
   
-Ne visas programmas Excel versijas arī varas Pivot. Jāveic tā jaunināšana uz Office, kas ietver enerģijas Pivot versijā. [Pārbaudiet, vai saraksts atbalstītās redakcijas.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Ne visas Excel versijas ietver Power Pivot. Jums vajadzēs jaunināt uz Office versiju, kas ietver Power Pivot. [Pārbaudiet atbalstīto versiju sarakstu.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Nav iespējota Power Pivot**
+**Barošanas Rakurstabula nav iespējota**
   
-Ja strādājat programmā Excel, kas nodrošina strāvas Pivot, pārbaudi, lai pārliecinātos, ka pievienojumprogramma ir iespējota versiju:
+Ja strādājat ar programmas Excel versiju, kas atbalsta enerģijas Rakurstabula, pārbaudiet, vai ir iespējota pievienojumprogramma:
   
-1. Izvēlieties **failu** \> **Opcijas** \> **Pievienojumprogrammas**.
+1. Izvēlieties **failu** \> **opciju** \> **pievienojumprogrammas**.
 
-2. **Manage** nolaižamo lodziņu, izvēlieties **COM pievienojumprogrammas** un noklikšķiniet uz **aiziet**.
+2. Nolaižamajā lodziņā **pārvaldīt** izvēlieties **COM pievienojumprogrammas** un noklikšķiniet uz **aiziet**!.
 
-3. Dialoglodziņā **Com pievienojumprogrammas** atzīmējiet izvēles rūtiņu blakus **Microsoft Power Pivot Excel**un pēc tam noklikšķiniet uz **Labi**.
+3. Dialoglodziņā **COM pievienojumprogrammas** atzīmējiet izvēles rūtiņu blakus **Microsoft Power Pivot programmai Excel**un pēc tam noklikšķiniet uz **Labi**.
 
-**Jums ir vairākas abonementu vai kontiem**
+**Jums ir vairāki abonementi vai konti**
   
-Jums varētu būt dažādas Office 365 abonementus piešķirti dažādiem lietotāju kontiem. Pārliecinieties, vai esat pierakstījies uz kontu ar Excel, kas atbalsta varas Pivot versijā. Pārbaudiet, vai saraksts atbalstītās [versijas](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)un izpildiet norādījumus, lai [pārslēgtos starp dažādiem Office kontiem](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Jums var būt dažādi Office 365 abonementi, kas piešķirti dažādiem lietotāju kontiem. Pārliecinieties, vai esat pierakstījies kontā ar Excel versiju, kas atbalsta Power Pivot. Pārbaudiet [atbalstīto versiju](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)sarakstu un izpildiet norādījumus, lai [pārslēgtos starp dažādiem Office kontiem](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

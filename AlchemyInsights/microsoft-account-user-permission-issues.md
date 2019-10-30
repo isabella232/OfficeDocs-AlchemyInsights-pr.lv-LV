@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754199"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768808"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Novērst problēmu-lietotājs nav atrasts direktorijā
 
-Ja lietotāji saņem kļūdas ziņojumu "lietotājs nevar atrast" direktorijā. Lūdzu, mēģiniet vēlreiz, ja problēmas tips ir lietotājs nav direktorijā.
+Ja lietotāji saņem kļūdas ziņojumu "lietotājs nevar atrast" direktorijā, lūdzu, mēģiniet vēlreiz, ja problēmas tips ir lietotāja nav direktorijā.
 
 Šīs darbības var izpildīt, lai novērstu šo problēmu.
 
@@ -27,9 +27,9 @@ Papildinformāciju skatiet rakstā [kā pārvaldīt Microsoft konta</a> aizstāj
 
 - Atrodiet katru vietu (-as), kurā lietotājs saņem kļūdu. 
 
-Pievienot "/_ layouts/15/People.aspx/membershipgroupid = 0" (dubultā pēdiņas) beigās vietnes vietrādi URL. 
+Pievienot "/_layouts/15/People.aspx/membershipgroupid = 0" (dubultā pēdiņas) beigās vietnes URL. 
 
-Piemērs: https://< "contoso">. SharePoint. com/_layouts/15/People. aspx/membershipGroupId = 0.
+Piemērs: https://< "Contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Sarakstā atlasiet lietotāju.
 

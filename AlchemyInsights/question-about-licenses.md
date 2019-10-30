@@ -3,7 +3,6 @@ title: Jautājums par licencēm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666667"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768627"
 ---
-# <a name="questions-about-your-office-365-license"></a>Uzdotiem jautājumiem par Office 365 licences
+# <a name="questions-about-your-office-365-license"></a>Jautājumi par jūsu Office 365 License
 
-Ja jūs vēlaties zināt, cik licences ir iegādātas vai cik licences tiek piešķirtas no abonementu:
+Ja vēlaties uzzināt, cik daudz licenču esat iegādājies vai cik daudz licenču ir piešķirtas no abonementa:
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Abonementu, jūs vēlaties uzzināt vairāk par atrast. Jūs varat redzēt jūs maksājat par licencēm un cik pieejami ir piešķirts numurs.
+2. Atrodiet abonementu, par kuru vēlaties uzzināt vairāk. Jūs varat redzēt, cik licences jūs maksājat, un cik daudz ir iespējams piešķirt.
 
-Ja vēlaties pievienot vairākas licences, vai ja jums ir pārāk daudz, izvēlieties **Add/Remove licences** koriģēt summu iegādātas.
+Ja vēlaties pievienot vairāk licenču vai ja jums ir pārāk daudz, izvēlieties **Pievienot/noņemt licences** , lai koriģētu iegādāto summu.
