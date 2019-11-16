@@ -14,12 +14,12 @@ ms.custom:
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
 ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738348"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="38ac6-102">Adresātu grupas konvertēšana Office 365 grupas</span><span class="sxs-lookup"><span data-stu-id="38ac6-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="869c0-102">Adresātu grupas konvertēšana Office 365 grupas</span><span class="sxs-lookup"><span data-stu-id="869c0-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="38ac6-103">Adresātu grupas var pārvērst par Office 365 grupām, ja tās atbilst noteiktiem kritērijiem.</span><span class="sxs-lookup"><span data-stu-id="38ac6-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="38ac6-104">Lai konvertētu grupu vai novērstu reklāmguvumu problēmas, skatiet sadaļu [jaunināšanas adresātu saraksti uz Office 365 grupām programmā Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="38ac6-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="869c0-103">Adresātu grupas var pārvērst par Office 365 grupām, ja tās atbilst noteiktiem kritērijiem.</span><span class="sxs-lookup"><span data-stu-id="869c0-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="869c0-104">Lai konvertētu grupu vai novērstu reklāmguvumu problēmas, skatiet sadaļu [jaunināšanas adresātu saraksti uz Office 365 grupām programmā Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="869c0-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
