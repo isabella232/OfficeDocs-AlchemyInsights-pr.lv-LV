@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499646"
 ---
 # <a name="inbox-rules"></a>Iesūtnes kārtulas
@@ -27,4 +27,4 @@ Papildinformāciju par iesūtnes kārtulu lietošanu savā pastkastē skatiet:
 
 - [Ziņojumu pārvaldīšana, izmantojot Outlook Web iesūtnes kārtulas](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Varat arī pārvaldīt iesūtnes kārtulas programmā Exchange Online PowerShell. Lai iegūtu papildinformāciju, skatiet [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (skats), [Jauns-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (izveidot), [Noņemt-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (dzēst), [Set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modificēt esošo), [atspējojiet-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (atspējot esošo) un [inboxrule iespējošana ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(iespējot esošo).
+Varat arī pārvaldīt iesūtnes kārtulas programmā Exchange Online PowerShell. Lai iegūtu papildinformāciju, skatiet [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (skats), [Jauns-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (izveidot), [Noņemt-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (dzēst), [Set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modificēt esošo), [atspējojiet InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (atspējot esošo) un [Iespējot inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (iespējot esošo).
