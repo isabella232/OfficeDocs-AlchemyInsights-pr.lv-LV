@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36528981"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a><span data-ttu-id="11cba-102">Pilna nosaukuma lauks netiek atbalstīts kopā ar Unified inteface lietotnēm</span><span class="sxs-lookup"><span data-stu-id="11cba-102">Full Name field not supported with unified inteface apps</span></span>
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a><span data-ttu-id="76c90-102">Pilna nosaukuma lauks netiek atbalstīts kopā ar Unified inteface lietotnēm</span><span class="sxs-lookup"><span data-stu-id="76c90-102">Full Name field not supported with unified inteface apps</span></span>
 
-<span data-ttu-id="11cba-103">Darbības vai nosacījumi, kas izmanto lauku **Pilns vārds** (fullname), netiek atbalstīti programmās, kuru pamatā ir vienotais interfeiss.</span><span class="sxs-lookup"><span data-stu-id="11cba-103">Actions or conditions that use a **Full Name** (fullname) field aren’t supported in apps based on the unified interface.</span></span> <span data-ttu-id="11cba-104">Varat arī izmantot darbības vai **nosacījumus ar laukiem vārds (** FirstName) un **Uzvārds** (LastName).</span><span class="sxs-lookup"><span data-stu-id="11cba-104">Alternatively, you can use actions or conditions with **First Name** (firstname) and **Last Name** (lastname) fields.</span></span>
+<span data-ttu-id="76c90-103">Darbības vai nosacījumi, kas izmanto lauku **Pilns vārds** (fullname), netiek atbalstīti programmās, kuru pamatā ir vienotais interfeiss.</span><span class="sxs-lookup"><span data-stu-id="76c90-103">Actions or conditions that use a **Full Name** (fullname) field aren’t supported in apps based on the unified interface.</span></span> <span data-ttu-id="76c90-104">Varat arī izmantot darbības vai **nosacījumus ar laukiem vārds (** FirstName) un **Uzvārds** (LastName).</span><span class="sxs-lookup"><span data-stu-id="76c90-104">Alternatively, you can use actions or conditions with **First Name** (firstname) and **Last Name** (lastname) fields.</span></span>
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)
