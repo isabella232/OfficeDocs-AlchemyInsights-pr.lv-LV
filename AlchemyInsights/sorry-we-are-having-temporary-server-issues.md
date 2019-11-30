@@ -1,0 +1,39 @@
+---
+title: Labošana Office Apps Atvainojiet, mums ir pagaidu servera problēmas ziņojums
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "3420"
+- "9001430"
+ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627997"
+---
+# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Office lietojumprogrammu labošana "Atvainojiet, mums ir pagaidu servera problēmas" ziņojums
+
+Ja saņemat šo ziņojumu, mēģiniet veikt šādas darbības:
+
+1. Pārbaudiet ugunsmūra, pretvīrusu programmatūras un starpniekservera iestatījumus, lai pārliecinātos, vai tie nebloķē interneta piekļuvi Office lietojumprogrammām. Skatiet [Office 365 vietrāžus URL un IP adrešu diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+
+2. Dodieties uz **Sākt** > **palaišanu**un pēc tam ierakstiet **Services. msc**. Pārliecinieties, vai darbojas šādi pakalpojumi:
+    - Tīklam pievienotās ierīces automātiskā iestatīšana
+    - Tīkla saraksta pakalpojums
+    - Tīkla atrašanās vietas apzināšana
+    - Windows notikumu žurnālā
+
+Ja kāds no šiem pakalpojumiem nedarbojas, mēģiniet to startēt. Ja jums ir problēma, startējot pakalpojumu, izpildiet šādu komandu, atverot komandu uzvedni ar paaugstinātām atļaujām:
+
+**sfc/scannow**
+
+Pēc tam, kad šī komanda ir pabeigta, restartējiet datoru.
+
+Lai iegūtu detalizētu informāciju, skatiet sadaļu ["Atvainojiet, mēs nevaram izveidot savienojumu ar jūsu kontu. Lūdzu, vēlāk mēģiniet vēlreiz "kļūda, aktivizējot Office no Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

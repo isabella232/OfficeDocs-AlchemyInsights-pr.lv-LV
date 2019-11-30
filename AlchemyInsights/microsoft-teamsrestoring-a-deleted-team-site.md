@@ -1,5 +1,5 @@
 ---
-title: Microsoft grupas - atjaunot dzēsto darba grupas vietni
+title: Microsoft Teams — izdzēstas grupas vietnes atjaunošana
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666955"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627473"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Atjaunot dzēstos komanda Microsoft Teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Izdzēstas grupas atjaunošana programmā Microsoft Teams
 
-Bija nejauši izdzēšat komanda Ja tas ir mazāks par 30 dienām, kopš esat izdzēsis grupas, tu esi veiksmi; to var atjaunot. Lai to izdarītu, izpildiet šeit aprakstītās darbības: [atjaunot dzēstos komanda](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+Vai nejauši izdzēšat komandu? Ja tas ir bijis mazāks par 30 dienām, kopš esat izdzēsis komandu, tu esi luck; to var atjaunot. Lai to paveiktu, izpildiet tālāk aprakstītās darbības. [atjaunot izdzēstu komandu](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
