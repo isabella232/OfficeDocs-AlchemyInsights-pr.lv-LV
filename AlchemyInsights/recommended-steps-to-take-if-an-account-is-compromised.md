@@ -30,5 +30,5 @@ ms.locfileid: "36745440"
 
 5. Noņemiet lietotāja kontu no visām [administratīvās lomas grupām](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), līdz esat drošs, ka konts vairs nav apdraudēts.
 
-Lai turpmāk samazinātu datu pārkāpumu vai konta uzlaušanas iespējamību, iesakām izlasīt mūsu [Office 365 drošības ceļvedi](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Lai turpmāk pēc iespējas samazinātu datu drošības pārkāpuma vai konta apdraudēšanas risku, iesakām izlasīt mūsu [Office 365 drošības ceļvedi](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
