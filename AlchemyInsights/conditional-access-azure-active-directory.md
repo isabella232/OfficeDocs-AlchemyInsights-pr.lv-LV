@@ -1,26 +1,26 @@
 ---
 title: Ierobežotas piekļuves ar InTune
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b5c5e86a2239a31a6edaa5d6a90273a3f593777d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36755567"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050064"
 ---
-# <a name="conditional-access"></a><span data-ttu-id="d57ec-102">Ierobežotas piekļuves</span><span class="sxs-lookup"><span data-stu-id="d57ec-102">Conditional Access</span></span>
+# <a name="conditional-access"></a><span data-ttu-id="bfe0b-102">Ierobežotas piekļuves</span><span class="sxs-lookup"><span data-stu-id="bfe0b-102">Conditional Access</span></span>
 
-<span data-ttu-id="d57ec-103">Ierobežotas piekļuves ir iespēja Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d57ec-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="d57ec-104">Izmantojot ierobežotu piekļuvi, varat ieviest automatizētus piekļuves vadības lēmumus, lai piekļūtu mākoņa lietotnēm, kuru pamatā ir nosacījumi.</span><span class="sxs-lookup"><span data-stu-id="d57ec-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="d57ec-105">Lai iegūtu plašāku informāciju, lūdzu, apmeklējiet [konfigurēt uz atrašanās vietu balstītas politikas](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="d57ec-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
+<span data-ttu-id="bfe0b-103">Ierobežotas piekļuves ir iespēja Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="bfe0b-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="bfe0b-104">Izmantojot ierobežotu piekļuvi, varat ieviest automatizētus piekļuves vadības lēmumus, lai piekļūtu mākoņa lietotnēm, kuru pamatā ir nosacījumi.</span><span class="sxs-lookup"><span data-stu-id="bfe0b-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="bfe0b-105">Lai iegūtu plašāku informāciju, lūdzu, apmeklējiet [konfigurēt uz atrašanās vietu balstītas politikas](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="bfe0b-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
 
-<span data-ttu-id="d57ec-106">Kā IT administrators varat arī kontrolēt piekļuvi SharePoint un OneDrive resursiem, pamatojoties uz definētajām tīkla vietām vai ierīcēm, kurām uzticaties.</span><span class="sxs-lookup"><span data-stu-id="d57ec-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="d57ec-107">Lai iegūtu vairāk informācijas, lūdzu, apmeklējiet saites zemāk.</span><span class="sxs-lookup"><span data-stu-id="d57ec-107">For more information, please visit the links below.</span></span>
+<span data-ttu-id="bfe0b-106">Kā IT administrators varat arī kontrolēt piekļuvi SharePoint un OneDrive resursiem, pamatojoties uz definētajām tīkla vietām vai ierīcēm, kurām uzticaties.</span><span class="sxs-lookup"><span data-stu-id="bfe0b-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="bfe0b-107">Lai iegūtu vairāk informācijas, lūdzu, apmeklējiet saites zemāk.</span><span class="sxs-lookup"><span data-stu-id="bfe0b-107">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="d57ec-108">Piekļuves kontrole SharePoint Online un OneDrive datiem, pamatojoties uz tīkla atrašanās vietu</span><span class="sxs-lookup"><span data-stu-id="d57ec-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [<span data-ttu-id="bfe0b-108">Piekļuves kontrole SharePoint Online un OneDrive datiem, pamatojoties uz tīkla atrašanās vietu</span><span class="sxs-lookup"><span data-stu-id="bfe0b-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [<span data-ttu-id="d57ec-109">Piekļuves kontrole no nepārvaldītām ierīcēm</span><span class="sxs-lookup"><span data-stu-id="d57ec-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="bfe0b-109">Piekļuves kontrole no nepārvaldītām ierīcēm</span><span class="sxs-lookup"><span data-stu-id="bfe0b-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

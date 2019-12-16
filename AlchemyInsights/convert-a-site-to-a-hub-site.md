@@ -1,7 +1,7 @@
 ---
-title: Pārvērst vietā rumbas vietā
-ms.author: kaarins
-author: kaarins
+title: Vietnes pārvēršana centrmezgla vietnē
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516750"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049956"
 ---
-# <a name="create-a-sharepoint-hub-site"></a><span data-ttu-id="1473b-102">Izveidotu SharePoint vietni, rumbas</span><span class="sxs-lookup"><span data-stu-id="1473b-102">Create a SharePoint hub site</span></span>
+# <a name="create-a-sharepoint-hub-site"></a><span data-ttu-id="fb144-102">SharePoint centrmezgla vietnes izveide</span><span class="sxs-lookup"><span data-stu-id="fb144-102">Create a SharePoint hub site</span></span>
 
-1. <span data-ttu-id="1473b-103">Jaunu SharePoint administrēšanas centrā, **vietās**, noklikšķiniet uz **aktīvās vietās**.</span><span class="sxs-lookup"><span data-stu-id="1473b-103">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="fb144-103">Jaunajā SharePoint administrēšanas centrā sadaļā **vietnes**noklikšķiniet uz **aktīvās vietnes**.</span><span class="sxs-lookup"><span data-stu-id="fb144-103">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="1473b-104">Atlasiet vietni, jūs vēlaties būt rumbas vietā, **rumbas vietā**un pēc tam noklikšķiniet uz **reģistrēties kā rumbas vietā**.</span><span class="sxs-lookup"><span data-stu-id="1473b-104">Select the site you want to be a hub site, click **Hub site**, and then click **Register as hub site**.</span></span>
+2. <span data-ttu-id="fb144-104">Atlasiet vietni, kurai vēlaties būt centrmezgla vietne, noklikšķiniet uz **centrmezgla vietne**un pēc tam uz **reģistrēt kā centrmezgla vietni**.</span><span class="sxs-lookup"><span data-stu-id="fb144-104">Select the site you want to be a hub site, click **Hub site**, and then click **Register as hub site**.</span></span>
 
-3. <span data-ttu-id="1473b-105">Ievadiet parādāmo vārdu rumbas vietā un norādītu atsevišķus lietotājus vai drošības grupām, kuras vēlaties atļaut vietnēm saistīt ar centrmezglu.</span><span class="sxs-lookup"><span data-stu-id="1473b-105">Enter a display name for the hub site and specify the individual users or security groups you want to allow to associate sites with the hub.</span></span>
+3. <span data-ttu-id="fb144-105">Ievadiet centrmezgla vietnes parādāmo nosaukumu un norādiet atsevišķus lietotājus vai drošības grupas, kuras vēlaties atļaut saistīt vietnes ar centrmezglu.</span><span class="sxs-lookup"><span data-stu-id="fb144-105">Enter a display name for the hub site and specify the individual users or security groups you want to allow to associate sites with the hub.</span></span>
 
     > [!NOTE]
-    >  <span data-ttu-id="1473b-106">Mēs iesakām izvēlēties saziņas vietne vai darba grupas vietni, kas izmanto jauno veidni.</span><span class="sxs-lookup"><span data-stu-id="1473b-106">We recommend that you select a communication site, or a team site that uses the new template.</span></span> <span data-ttu-id="1473b-107">Ja izmantojat klasisko komandas vietu, rumbas navigācijas parādīsies tikai mūsdienu lapās un rumbas vietnes iestatījumi parādīsies tikai mūsdienu lapās.</span><span class="sxs-lookup"><span data-stu-id="1473b-107">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span> <span data-ttu-id="1473b-108">Vietnes, kas jau ir saistīta ar citu centrmezglu nevar reģistrēt kā rumbas vietā.</span><span class="sxs-lookup"><span data-stu-id="1473b-108">Sites that are already associated with another hub can't be registered as a hub site.</span></span>
+    >  <span data-ttu-id="fb144-106">Ieteicams atlasīt saziņas vietni vai darba grupas vietni, kas izmanto jauno veidni.</span><span class="sxs-lookup"><span data-stu-id="fb144-106">We recommend that you select a communication site, or a team site that uses the new template.</span></span> <span data-ttu-id="fb144-107">Ja izmantojat klasisko grupas vietni, centrmezgla navigācija tiek rādīta tikai modernām lappusēm, un centrmezgla vietnes iestatījumi tiek rādīti tikai modernās lapās.</span><span class="sxs-lookup"><span data-stu-id="fb144-107">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span> <span data-ttu-id="fb144-108">Vietnes, kas jau ir saistītas ar citu centrmezglu, nevar reģistrēt kā centrmezgla vietnes.</span><span class="sxs-lookup"><span data-stu-id="fb144-108">Sites that are already associated with another hub can't be registered as a hub site.</span></span>
   
-[<span data-ttu-id="1473b-109">Uzziniet vairāk par rumbas vietās</span><span class="sxs-lookup"><span data-stu-id="1473b-109">Learn more about hub sites</span></span>](https://go.microsoft.com/fwlink/?linkid=869149)
+[<span data-ttu-id="fb144-109">Papildinformācija par centrmezgla vietnēm</span><span class="sxs-lookup"><span data-stu-id="fb144-109">Learn more about hub sites</span></span>](https://go.microsoft.com/fwlink/?linkid=869149)
   
