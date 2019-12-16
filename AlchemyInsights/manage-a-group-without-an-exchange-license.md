@@ -1,7 +1,7 @@
 ---
-title: Pārvaldīt grupas bez Exchange licences
-ms.author: dianef
-author: dianef77
+title: Pārvaldīt grupu bez Exchange licences
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497467"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049272"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Pārvaldīt grupas bez Exchange licences
+# <a name="manage-a-group-without-an-exchange-license"></a>Pārvaldīt grupu bez Exchange licences
 
-Ja Office 365 admin konts nav pastkastes, kad mēģināt rediģēt Office 365 grupas varētu saņemt kļūda par trūkstošo produkta licenci.
+Ja jūsu Office 365 administratora kontam nav pastkastes, var tikt parādīts kļūdas ziņojums par trūkstošu produkta licenci, kad mēģināt rediģēt Office 365 grupu.
   
-Jo jūs esat īrnieks admin, ir iespējams, lai jūs varētu rediģēt grupu, pat ja jums nav Exchange licences. Dodieties uz [Exchange administratoru centrs](https://outlook.office365.com/ecp.aspx) \> **grupām** , lai pārvaldītu Office 365 grupā.
+Tā kā jūs esat nomnieka administrators, ir iespējams rediģēt grupu, pat ja jums nav Exchange licences. Dodieties uz [Exchange administrēšanas centrs](https://outlook.office365.com/ecp.aspx) \> **grupas** pārvaldīt Office 365 grupas.
   
-Ja vēlaties rediģēt grupas administrēšanas centrā, pievienot Exchange licences jūsu admin kontā. Jums būs jāgaida, līdz pastkastes pilnībā izveidots, pirms jūs varat rediģēt grupu.
+Ja vēlaties rediģēt grupas administrēšanas centrs, pievienojiet Exchange licences administratora kontu. Lai varētu rediģēt grupu, ir jāgaida, līdz pastkaste ir pilnībā izveidota.
   

@@ -1,7 +1,7 @@
 ---
 title: OneDrive PUID neatbilstība
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521358"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049092"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID neatbilstība
-Šķiet, ka tu piedzīvo [PUID neatbilstība](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive uzņēmējdarbībai. Lūdzu, izpildiet tālāk norādītās darbības, lai mēs varētu jums palīdzēt, cik drīz vien iespējams:
+Šķiet, ka jums rodas [PUID neatbilstība](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive uzņēmumiem. Lūdzu, veiciet tālāk norādītās darbības, lai mēs varētu jums palīdzēt pēc iespējas ātrāk.
 
-1. Noklikšķiniet uz **jāsazinās ar atbalsta centru**un pēc tam uz **jauna pakalpojuma pieprasījumu**.
-2. Atstāt nosaukumu un aprakstu, kā **PUID nesakritība vietnē OneDrive**.
-3. Pēc tam, kad iesniegta biļeti, lūdzu, atjauniniet to ar šādu informāciju:
-    - OneDrive vietnes URL, kas tiek ietekmēts.
-    - Lietotāja pamatnosaukums (UPN) ietekmē lietotāja.
+1. Noklikšķiniet uz **sazināties ar atbalsta dienestu**un pēc tam uz **Jauns pakalpojuma pieprasījums**.
+2. Atstājiet nosaukumu un aprakstu kā **PUID neatbilstība OneDrive vietnē**.
+3. Kad biļete ir iesniegta, lūdzu, atjauniniet to ar šādu informāciju:
+    - OneDrive vietnes URL, kas tiek ietekmēta.
+    - Lietotāja pamatnosaukums (UPN) attiecīgā lietotāja.
 
 
 
