@@ -1,7 +1,7 @@
 ---
-title: Pārvērst vietā rumbas vietā
-ms.author: kaarins
-author: kaarins
+title: Vietnes pārvēršana centrmezgla vietnē
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516750"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049956"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Izveidotu SharePoint vietni, rumbas
+# <a name="create-a-sharepoint-hub-site"></a>SharePoint centrmezgla vietnes izveide
 
-1. Jaunu SharePoint administrēšanas centrā, **vietās**, noklikšķiniet uz **aktīvās vietās**.
+1. Jaunajā SharePoint administrēšanas centrā sadaļā **vietnes**noklikšķiniet uz **aktīvās vietnes**.
 
-2. Atlasiet vietni, jūs vēlaties būt rumbas vietā, **rumbas vietā**un pēc tam noklikšķiniet uz **reģistrēties kā rumbas vietā**.
+2. Atlasiet vietni, kurai vēlaties būt centrmezgla vietne, noklikšķiniet uz **centrmezgla vietne**un pēc tam uz **reģistrēt kā centrmezgla vietni**.
 
-3. Ievadiet parādāmo vārdu rumbas vietā un norādītu atsevišķus lietotājus vai drošības grupām, kuras vēlaties atļaut vietnēm saistīt ar centrmezglu.
+3. Ievadiet centrmezgla vietnes parādāmo nosaukumu un norādiet atsevišķus lietotājus vai drošības grupas, kuras vēlaties atļaut saistīt vietnes ar centrmezglu.
 
     > [!NOTE]
-    >  Mēs iesakām izvēlēties saziņas vietne vai darba grupas vietni, kas izmanto jauno veidni. Ja izmantojat klasisko komandas vietu, rumbas navigācijas parādīsies tikai mūsdienu lapās un rumbas vietnes iestatījumi parādīsies tikai mūsdienu lapās. Vietnes, kas jau ir saistīta ar citu centrmezglu nevar reģistrēt kā rumbas vietā.
+    >  Ieteicams atlasīt saziņas vietni vai darba grupas vietni, kas izmanto jauno veidni. Ja izmantojat klasisko grupas vietni, centrmezgla navigācija tiek rādīta tikai modernām lappusēm, un centrmezgla vietnes iestatījumi tiek rādīti tikai modernās lapās. Vietnes, kas jau ir saistītas ar citu centrmezglu, nevar reģistrēt kā centrmezgla vietnes.
   
-[Uzziniet vairāk par rumbas vietās](https://go.microsoft.com/fwlink/?linkid=869149)
+[Papildinformācija par centrmezgla vietnēm](https://go.microsoft.com/fwlink/?linkid=869149)
   
