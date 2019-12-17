@@ -12,20 +12,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 8e5e674c2e214c6c4d8f964006853d7ab18527e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661771"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068315"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Pārslēgt plānus, lai palielinātu pastkastes lielumu
 
-Ja jūsu Office 365 pastkastes lielums jau ir 100 GB, to nav iespējams palielināt. Tādā gadījumā izpildiet [šo ieteikumu](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
+Ja jūsu Office 365 pastkastes lielums jau ir 100 GB, to nav iespējams palielināt.
   
 Ja pastkastes lielums ir 50 GB, varat to palielināt līdz 100 GB, pārejot uz [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vai [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tālāk ir norādītas darbības, kas jāveic, lai pārslēgtos uz citu Office 365 plānu.
   
-1. Microsoft 365 administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** \> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Atlasiet abonementu, kuru vēlaties jaunināt.
 
@@ -37,6 +37,4 @@ Ja pastkastes lielums ir 50 GB, varat to palielināt līdz 100 GB, pārejot uz [
 
 Plašāku informāciju skatiet sadaļā [jaunināšana uz citu plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Vai jūs izmantojat veco administrēšanas centru? Plašāku informāciju skatiet sadaļā [Pārslēgšanās uz citu plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan). 
-  
-Ja jums ir [O365 plāns, kas atbalsta oriģinālu arhīvu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), varat arī saņemt papildu e-pasta krātuvi, iespējojot arhīva pastkasti.  Arhīva pastkaste nodrošina papildu krātuvi un ļauj pārvietot, kopēt un meklēt ziņojumus gan primārajā, gan arhīva pastkastē. Norādījumus par arhīva pastkastes iespējošanu skatiet sadaļā [arhīva pastkastes iespējošana](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Ja jums ir [Office 365 plāns, kas atbalsta oriģinālu arhīvu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), varat arī saņemt papildu e-pasta krātuvi, iespējojot arhīva pastkasti. Arhīva pastkaste nodrošina papildu krātuvi un ļauj pārvietot, kopēt un meklēt ziņojumus gan primārajā, gan arhīva pastkastē. Darbības, kā iespējot arhīva pastkaste, skatiet [Iespējot arhīva pastkaste](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
