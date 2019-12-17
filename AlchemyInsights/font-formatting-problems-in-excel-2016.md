@@ -1,7 +1,7 @@
 ---
-title: Fonta formatēšanas problēmas Excel 2016
-ms.author: dludwig
-author: dludwig
+title: Fontu formatēšanas problēmas programmā Excel 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524634"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051972"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Fonta formatēšanas problēmas programmā Excel
+# <a name="font-formatting-problems-in-excel"></a>Fontu formatēšanas problēmas programmā Excel
 
-Programmā Excel 2016 fonta formatējums var nebūt pareizi attēloti šūnā. Tas var notikt, ja šūna satur vairāk nekā viena veida fontu formatējumu. Piemēram, ja dažas rakstzīmes ir izcelti, un citi nav treknrakstā, jūs varat neredzēt treknraksta formatējums parādās. Vai ja jums ir atšķirīgas krāsas tajā pašā šūnā, jūs varat neredzēt krāsas tiek parādīti pareizi. Mūsu inženieru komanda ir informēts par šo problēmu un pašlaik strādā pie risinājuma. Ar laiku, mēģiniet izmantot citu fontu. Vai mēģināt izvairīties no vairāku veidu formatēšanas laikā vienu un to pašu šūnu, līdz šī problēma tiek atrisināta.
+Programmā Excel 2016 fonta formatējums var neparādīties pareizi šūnā. Tā var notikt, ja šūnā ir vairāk nekā viena veida fonta formatējums. Piemēram, ja dažas rakstzīmes ir treknrakstā un citi nav treknrakstā, parādās treknraksta formāts. Vai arī, ja tajā pašā šūnā ir dažādas krāsainas rakstzīmes, iespējams, ka krāsas nebūs redzamas pareizi. Mūsu inženieru komanda ir informēta par šo problēmu un pašlaik strādā pie Fix. Tikmēr mēģiniet izmantot citu fontu. Vai Centieties izvairīties no vairāku veidu formatējuma izmantošanas tajā pašā šūnā, līdz šī problēma tiek atrisināta.
   

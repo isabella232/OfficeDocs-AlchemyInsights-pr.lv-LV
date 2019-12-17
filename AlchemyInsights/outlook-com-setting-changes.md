@@ -1,7 +1,7 @@
 ---
 title: Outlook.com iestatījumi
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386372"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053268"
 ---
 # <a name="settings-in-outlookcom"></a>Iestatījumi programmā Outlook.com
 
-Ja adresāts ir iekšēja vai ārēja jūsu organizācijai un ja viņi izmanto Office 365 vai Outlook.com e-pasta kontu, šādiem klientiem nav jādara nekas īpašs, lai atvērtu ziņojumu: **outlook 2016, Outlook Web/Outlook Web App, Outlook mobilā lietojumprogramma**
+Ja adresāts ir iekšēja vai ārēja jūsu organizācijai un ja viņi izmanto Office 365 vai Outlook.com e-pasta kontu, šādiem klientiem nevajadzētu darīt neko īpašu, lai atvērtu ziņojumu: **outlook 2016, Outlook Web/Outlook Web App, Outlook mobilā lietojumprogramma**
 
 Lietotāju **pārstāvjus** , kas aizsargāta e-pasta tika nosūtīts, nevar atvērt aizsargāto ziņojumu. E-pastā var skatīt tikai sākotnējos adresātus (personu, uz kuru tika nosūtīts aizsargātais e-pasts).
 

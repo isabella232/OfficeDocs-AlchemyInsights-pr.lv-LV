@@ -1,34 +1,34 @@
 ---
-title: Novērst problēmas ziņojumu piekļuve liegta
-ms.author: kaarins
-author: kaarins
+title: Ziņojumu par piekļuvi liegta problēmu novēršana
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500418"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050712"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Novērst problēmas ziņojumu piekļuve liegta
+# <a name="troubleshoot-access-denied-messages"></a>Ziņojumu par piekļuvi liegta problēmu novēršana
 
-Ja kāds got "Piekļuve liegta" ziņojuma izveidotu par koplietojamu mapi SharePoint, vietņu kolekcijas administrators, iespējams, ir iespējota "ierobežota piekļuve lietotāja atļauju lockdown režīms." Lai izslēgtu šo opciju: 
+Ja kāds ir ziņojums "piekļuve liegta" koplietojamo mapi SharePoint, vietņu kolekcijas administrators, iespējams, ir iespējota "ierobežotas piekļuves lietotāja atļaujas noslēgšanas režīmā." Lai izslēgtu šo opciju: 
   
-1. Atrodiet vietni, noklikšķiniet uz ikonas iestatījumus un pēc tam noklikšķiniet uz **Vietnes iestatījumi**.
+1. Atrodiet vietni, noklikšķiniet uz ikonas iestatījumi un pēc tam noklikšķiniet uz **vietnes iestatījumi**.
     
-2. Sadaļā **Vietņu kolekcijas administrators**, noklikšķiniet uz **vietņu kolekcijas līdzekļus**.
+2. Sadaļā **vietņu kolekcijas administrēšana**noklikšķiniet uz **vietņu kolekcijas līdzekļi**.
     
-3. Blakus **ierobežotu piekļuvi lietotāja atļauju slēgts režīmā**, noklikšķiniet uz **deaktivizēt**.
+3. Blakus **ierobežotas piekļuves lietotāja atļaujas noslēgšanas režīmam**noklikšķiniet uz **deaktivizēt**.
     
-Ziņojumu par liegtu piekļuvi var notikt arī uz koplietojamās mapes, ja vieta ir publicēšanas vietnē. Informācijas, skatiet [Piekļūstot koplietojamo mapi, liegta piekļuve](https://go.microsoft.com/fwlink/?linkid=2004317).
+Ziņojumu par liegtu piekļuvi var rasties arī koplietojamās mapes, ja vietne ir publicēšanas vietne. Lai iegūtu informāciju, skatiet sadaļu [piekļuve liegta, piekļūstot koplietojamai mapei](https://go.microsoft.com/fwlink/?linkid=2004317).
   
-Ja kāds saņēmu ziņojumu "Piekļuve liegta", mēģinot apskatīt piekļuves pieprasījumus, lietotāju vajadzībām pievieno kā vietu kolekcijas administratoru vai vietnes īpašnieku grupas loceklis. Lai iegūtu vairāk informācijas, skatiet [Piekļuve liegta piekļuves pieprasījumu saraksts](https://go.microsoft.com/fwlink/?linkid=2004220).
+Ja kāds ir saņēmis ziņojumu "piekļuve liegta", mēģinot skatīt piekļuves pieprasījumus, lietotājam ir jāpievieno kā vietņu kolekcijas administrators vai vietnes īpašnieku grupas dalībnieks. Lai iegūtu papildinformāciju, skatiet [piekļuve liegta piekļuves pieprasījumu sarakstam](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Ja lietotājs saņēmu ziņojumu "Piekļuve liegta", pēc tam, kad tie tika izņemti no Active Directory uz telpām un pēc tam pievieno atpakaļ, sk. [Kad lietotāja konts ir synced Office 365 liegta piekļuve](https://go.microsoft.com/fwlink/?linkid=2004318).
+Ja lietotājs saņēma ziņojumu "piekļuve liegta" pēc tās noņemšanas no Active Directory lokālas un pēc tam pievienot atpakaļ, skatiet [piekļuve liegta, kad lietotāja konts ir sinhronizēts ar Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

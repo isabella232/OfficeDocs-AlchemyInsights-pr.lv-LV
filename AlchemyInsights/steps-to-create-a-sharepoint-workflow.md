@@ -1,7 +1,7 @@
 ---
 title: Darbības, lai izveidotu SharePoint darbplūsmu
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,29 +12,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559636"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053556"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Darbības, lai izveidotu SharePoint darbplūsmu
 
-- Redzēt, ja jūs nevarat pievienot SharePoint 2010 apstiprinājuma darbplūsmu, [nevar pievienot noklusējuma apstiprinājuma darbplūsma 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- Ja nevarat pievienot SharePoint 2010 apstiprinājuma darbplūsmu, skatiet [nevar pievienot noklusējuma 2010 apstiprinājuma darbplūsmu](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
 - Kā izveidot darbplūsmas:
-    - [2013. gadam darbplūsmu programmā SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [No SharePoint Designer 2010 darbplūsma](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Iepazīšanās ar SharePoint darbplūsmas](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+    - [2013 darbplūsmu no SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [2010 darbplūsmu no SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [Iepazīšanās ar SharePoint darbplūsmu](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Darbplūsmu, problēmu novēršanu un atkļūdošana:
-    - Atkļūdošanas darbplūsmas atgādina, ka visas iepriekšējās versijas.  Lai iegūtu papildu informāciju, skatiet [Debugging SharePoint darbplūsmas](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Plašāku informāciju par problēmu novēršanu, skatiet [problēmu novēršana SharePoint Server darbplūsmas validācijas kļūdas](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Darbplūsmu problēmu novēršana un atkļūdošana:
+    - Atkļūdošanas darbplūsmas atgādina iepriekšējās versijas.  Papildinformāciju skatiet sadaļā [SharePoint darbplūsmu atkļūdošana](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+    - Papildinformāciju par problēmu novēršanu skatiet sadaļā [SharePoint Server darbplūsmas validācijas kļūdu novēršana](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Saistītās tēmas
-Vēlaties izmēģināt Microsoft SharePoint Online Flow?
-- [Radīt plūsmu](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Vai vēlaties izmēģināt Microsoft Flow pakalpojumā SharePoint Online?
+- [Izveidot plūsmu](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint un plūsmas](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

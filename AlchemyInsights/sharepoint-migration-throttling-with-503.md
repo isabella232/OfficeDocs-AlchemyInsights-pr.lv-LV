@@ -1,7 +1,7 @@
 ---
-title: SharePoint migrācijas droselēšanas, kļūdaino 503
-ms.author: efrene
-author: efrene
+title: SharePoint migrācijas ierobežošana ar 503 kļūdas
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503606"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054060"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migrācijas droselēšanas, kļūdaino 503
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migrācijas ierobežošana ar 503 kļūdas
 
-Šķiet, ka jūs migrē uz SharePoint Online un saņem 503 kļūdas. Lūdzu, izpildiet tālāk norādītās darbības, lai mēs varētu jums palīdzēt, cik drīz vien iespējams. 
+Šķiet, jums ir migrācija uz SharePoint Online un saņem 503 kļūdas. Lūdzu, veiciet tālāk norādītās darbības, lai mēs varētu jums palīdzēt pēc iespējas ātrāk. 
 
-1. Noklikšķiniet uz **jāsazinās ar atbalsta centru**un pēc tam uz **jauna pakalpojuma pieprasījumu**.
-2. Nosaukums un apraksts ierakstiet **SharePoint migrācijas droselēšanas ar 503**.
-3. Pēc tam, kad iesniegta biļeti, lūdzu, atjauniniet to ar šādu informāciju:
-    - Cik daudz pa kreisi migrācijas (piemēram, cik daudz TBs?).
+1. Noklikšķiniet uz **sazināties ar atbalsta dienestu**un pēc tam uz **Jauns pakalpojuma pieprasījums**.
+2. Nosaukumu un aprakstu, ierakstiet **SharePoint migrācijas ierobežošana ar 503**.
+3. Kad biļete ir iesniegta, lūdzu, atjauniniet to ar šādu informāciju:
+    - Cik kreisi no migrācijas (piemēram, cik TBs?).
     - Migrācijas sākuma un beigu datumu.
-    - Aprakstīt, kur jums ir jūsu satura migrēšana no, piemēram, SharePoint serveris, rūtiņa, GDrive, failu koplietošanām, utt...
-    - Budžeta droselēšanas kļūdu (piemēram, x droseles stundā?) skaits un kad notika droselēšanas notikt.
-    - Kura migrācijas rīku jūs izmantojat (piemēram, SPMT vai ShareGate).
+    - Aprakstiet, kur jūs migrējat saturu no, piemēram, SharePoint Server, Box, GDrive, failu koplietojumos utt.
+    - Novērtēt ierobežošanas kļūdu skaitu (piemēram, x droseli stundā?) un kad notika ierobežošana.
+    - Kuru migrācijas rīku lietojat (piemēram, SPMT vai ShareGate).
 
 

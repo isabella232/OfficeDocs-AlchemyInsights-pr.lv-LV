@@ -1,7 +1,7 @@
 ---
-title: DLP, iespējams, ir pielāgota tipa
-ms.author: stephow
-author: stephow-MSFT
+title: DLP var būt nepieciešams pielāgots tips
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530358"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052908"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP, iespējams, ir pielāgota tipa
+# <a name="dlp-might-need-a-custom-type"></a>DLP var būt nepieciešams pielāgots tips
 
-Ar datu zaudējumu novēršanas (DLP) politiku, var identificēt un aizsargāt sensitīvus datus jūsu uzņēmumā. Dažos gadījumos, iespējams, vajadzēs izveidot savu **pielāgoto** konfidenciālas informācijas tipu, lai aizsargātu uzņēmuma datus.
+Ar datu zuduma novēršanas (DLP) politiku jūs varat identificēt un aizsargāt sensitīvus datus savā organizācijā. Dažos gadījumos, lai aizsargātu savas organizācijas datus, iespējams, vajadzēs izveidot **pielāgotu** sensitīvo informācijas tipu.
 
-Piemēram, uzņēmumam vajadzēs identificēt un aizsargāt darbinieku ID vai citus datus, daži specifiski jūsu org. formātā Ja tas tā ir, skatiet tālāk esošajos rakstus plašāku informāciju.
+Piemēram, jūsu organizācijai var būt nepieciešams identificēt un aizsargāt darbinieku ID vai citus datus noteiktā formātā, kas specifisks jūsu organizācijai. Ja tā ir, skatiet šos rakstus, lai iegūtu papildinformāciju.
   
- **Pielāgotu iebūvēto konfidenciālas informācijas tipu**
+ **Iebūvēta sensitīva informācijas tipa pielāgošana**
   
-Ja iebūvēto sensitīvu informāciju tipa tiksies ar tikai dažas tweaks jūsu vajadzībām, varat [pielāgotu iebūvēto konfidenciālas informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Piemēram, var pievienot vai noņemt atslēgvārdus, vai pievienot vai noņemt apstiprinošus pierādījumus, piemēram datuma vai adrese.
+Ja iebūvētais sensitīvo informācijas tips atbilst jūsu vajadzībām, izmantojot tikai dažas tweaks, varat [pielāgot iebūvēto sensitīvo informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Piemēram, varat pievienot vai noņemt atslēgvārdus vai pievienot vai noņemt apstiprinošus pierādījumus, piemēram, datumu vai adresi.
   
- **Izveidot pielāgotu jutīgas informācijas tipu**
+ **Pielāgota sensitīva informācijas tipa izveide**
   
-Bet, ja nepieciešams identificēt un aizsargāt sensitīvu informāciju cita veida vispār, jūs varat [izveidot pielāgotu jutīgas informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) UI & drošības atbilstības centrā.
+Tomēr, ja jums ir jāidentificē un jāaizsargā cita veida sensitīva informācija, varat [izveidot pielāgotu sensitīvo informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) drošības & atbilstības centra lietotāja interfeisā.
   
-**Izveidotu pielāgotu sensitīvu informāciju tipa drošības & atbilstības centrā PowerShell**
+**Pielāgota sensitīva informācijas tipa izveide drošības & atbilstības centra PowerShell**
 
-Visbeidzot, ja UI nenodrošina nepieciešamās opcijas, varat [izveidot pielāgotu sensitīvu informāciju tipa drošības & atbilstības centrā PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Sākot ar XML failu, varat izmantot katru iespēju, kas pieejama.
+Visbeidzot, ja UI nesniedz visas jums nepieciešamo opciju, [drošības & atbilstības centra PowerShell var izveidot pielāgotu sensitīvu informācijas tipu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Sākot ar XML failu, var izmantot visas pieejamās opcijas.

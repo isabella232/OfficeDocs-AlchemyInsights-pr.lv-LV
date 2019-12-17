@@ -1,37 +1,37 @@
 ---
-title: Meklēt SharePoint tiešsaistē
-ms.author: efrene
-author: efrene
+title: Meklēt SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507638"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044050"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Satura pārmeklēšanas un indeksēšanas SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Satura indeksēšanu un indeksēšanu SharePoint Online
 
-Saturs pārmeklēts un pievienoti lietotāji atrast to, ko viņi meklē ar SharePoint Online meklēšanas indekss. Tiek automātiski pārmeklēts saturs balstoties uz iepriekš definētajiem pārmeklēšanas grafiku (pārmeklēšanas grafiku nevar mainīt). Kāpurķēžu paceļ saturu, kas mainīts, kopš pēdējās pārmeklēšanas un atjaunina indekss. Lai nodrošinātu saturs tiek pārmeklēts un indekss tiek atjaunināts, ievērojiet sekojošo:
+Saturs ir jāpārmeklē un jāpievieno meklēšanas indeksam, lai lietotāji varētu atrast to, ko viņi meklē SharePoint Online. Saturs tiek automātiski pārmeklēts, pamatojoties uz iepriekš definētu pārmeklēšanas grafiku (pārmeklēšanas grafiku nevar mainīt). Kāpurķēžu paceļ saturu, kas ir mainījies kopš pēdējās pārmeklēšanas un atjaunina indeksu. Lai nodrošinātu, ka saturs tiek pārmeklēts un indekss tiek atjaunināts, ņemiet vērā tālāk minēto.
 
-- Pārliecinieties, ka saturs var atrast, [veicot meklēšanu vietnes saturu](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Pārliecinieties, vai saturu var atrast, [padarot vietnes saturu meklējamu](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Mainoties pārvaldīto rekvizītu, vai ja jūs esat mainījis kartēšanu, pārmeklēts un pārvalda īpašības, vietā jābūt atkārtoti pārmeklēto pirms jūsu veiktās izmaiņas tiks atspoguļotas meklēšanas indeksā. 
+- Kad esat mainījis pārvaldīto rekvizītu vai esat mainījis pārmeklēto un pārvaldīto rekvizītu kartēšanu, vietne ir atkārtoti jāindeksē, pirms izmaiņas tiks atspoguļotas meklēšanas indeksā. 
 
-    Jo izmaiņas veiktas meklēšanas shēmas, un nevis uz reālo vietu, kāpurķēžu tiks automātiski atkārtoti indeksēt vietni. 
+    Tāpēc, ka veiktās izmaiņas tiek veiktas meklēšanas shēmā, nevis faktiskajā vietā, rāpuļprogramma automātiski neindeksēs vietni. 
 
-    Lai iegūtu vairāk informācijas, skatiet [manuāli pieprasīt pārmeklēšanas un indeksēšanas atkārtoti, vietni, bibliotēku vai sarakstu](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Papildinformāciju skatiet sadaļā [manuāla pieprasījuma pārmeklēšanas un atkārtotas indeksēšanas vietnei, bibliotēkai vai sarakstam](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Pagaidiet vismaz 24 stundas pēc tam, kad manuāli pieprasīt pārmeklēšanas un pilnu Pārindeksēt redzēt, ja joprojām rodas jautājums. 
+- Uzgaidiet vismaz 24 stundas pēc manuālas pārmeklēšanas un pilna atkārtotas indeksa pieprasīšanas, lai redzētu, vai problēma joprojām pastāv. 
 
-    Ja ilgāk par 24 stundām, ir pagājuši, kopš esat sācis rāpot un pilnu Pārindeksēt, lūdzu, piesakieties atbalsta gadījumu. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
+    Ja vairāk nekā 24 stundas ir pagājis kopš sākāt pārmeklēšanas un pilnu re-Index, lūdzu, piesakieties atbalsta pieteikumu. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
 
 > [!IMPORTANT]
-> Ja vietni, dokumentu (bibliotēka) vai saraksta tika izdzēsta un joprojām rāda meklēšanas rezultātos, lietotājiem vajadzētu saņemt **404 failā nav atrasta kļūda** mēģinot piekļūt. Šis jautājums būtu pieteicies kā atbalsta gadījumā turpmākas izmeklēšanas veikšanai. 
+> Ja vietne, dokumentu (bibliotēka) vai saraksts ir izdzēsts un joprojām rāda meklēšanas rezultātos, lietotājiem ir jāsaņem **kļūda 404 fails nav atrasts** , mēģinot piekļūt. Šī problēma ir jāpiesakās kā atbalsta gadījumu tālākai izmeklēšanai. 
 
 
 

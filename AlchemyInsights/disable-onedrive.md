@@ -1,7 +1,7 @@
 ---
 title: Atspējot OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512897"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052944"
 ---
 # <a name="disable-onedrive"></a>Atspējot OneDrive
 
-Ir vairāki veidi, kā var atspējot piekļuvi OneDrive un tās pakalpojumiem, atkarībā no jūsu uzņēmuma vajadzībām:
+Ir vairāki veidi, kā varat atspējot piekļuvi OneDrive un tā pakalpojumiem atkarībā no jūsu uzņēmuma vajadzībām:
 
-[Noņemt, paslēpt vai atinstalēt programmu OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Atsaistīt, paslēpt vai atinstalēt programmu OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Atļaut tikai konkrētu organizāciju sinhronizēšana](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Atļaut sinhronizēšanu tikai noteiktām organizācijām](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[Atspējotu vietņu izveides OneDrive dažiem lietotājiem](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[Atspējojiet OneDrive vietnes izveidi dažiem lietotājiem](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Kontrolējiet piekļuvi SharePoint Online un OneDrive datus, pamatojoties uz tīkla atrašanās vietu](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Piekļuves kontrole SharePoint Online un OneDrive datiem, pamatojoties uz tīkla atrašanās vietu](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Personas OneDrive sinhronizācija](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Personiskās OneDrive sinhronizēšanas atspējošana](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Pārvaldīt savienojumus no Windows ierīču OneDrive un citiem pakalpojumiem](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Pārvaldiet savienojumus no Windows ierīcēm uz OneDrive un citiem pakalpojumiem](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 
