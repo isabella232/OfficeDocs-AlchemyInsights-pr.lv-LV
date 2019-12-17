@@ -1,7 +1,7 @@
 ---
 title: Problēmas ar failu atvēršanu no SharePoint vai OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 4/5/2018
 ms.audience: Admin
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e1aa019f45d16070463567213cb6baaa9766a357
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36753047"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052512"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a><span data-ttu-id="7bf3b-102">Problēmas ar failu atvēršanu no SharePoint vai OneDrive</span><span class="sxs-lookup"><span data-stu-id="7bf3b-102">Problems opening files from Sharepoint or OneDrive</span></span> 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a><span data-ttu-id="d23ba-102">Problēmas ar failu atvēršanu no SharePoint vai OneDrive</span><span class="sxs-lookup"><span data-stu-id="d23ba-102">Problems opening files from Sharepoint or OneDrive</span></span> 
 
 
-<span data-ttu-id="7bf3b-103">Ja rodas problēmas, atverot Office failus un dokumentus no SharePoint vai OneDrive dokumentu bibliotēkām, piedāvājam dažus ieteikumus, kas palīdzēs tos novērst.</span><span class="sxs-lookup"><span data-stu-id="7bf3b-103">If you have problems opening Office files and documents from SharePoint or OneDrive document libraries, here are some suggestions to help you fix them.</span></span>
+<span data-ttu-id="d23ba-103">Ja rodas problēmas, atverot Office failus un dokumentus no SharePoint vai OneDrive dokumentu bibliotēkām, piedāvājam dažus ieteikumus, kas palīdzēs tos novērst.</span><span class="sxs-lookup"><span data-stu-id="d23ba-103">If you have problems opening Office files and documents from SharePoint or OneDrive document libraries, here are some suggestions to help you fix them.</span></span>
 
-- [<span data-ttu-id="7bf3b-104">Failu ierobežojumu pārbaude, lai pārliecinātos, vai fails tiek atbalstīts</span><span class="sxs-lookup"><span data-stu-id="7bf3b-104">Check file limitations to ensure the file is supported</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [<span data-ttu-id="d23ba-104">Failu ierobežojumu pārbaude, lai pārliecinātos, vai fails tiek atbalstīts</span><span class="sxs-lookup"><span data-stu-id="d23ba-104">Check file limitations to ensure the file is supported</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [<span data-ttu-id="7bf3b-105">Lejupielādēt un pārbaudīt failu bojājumu jūsu lokālajā datorā</span><span class="sxs-lookup"><span data-stu-id="7bf3b-105">Download and check for file corruption on your local machine</span></span>](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [<span data-ttu-id="d23ba-105">Lejupielādēt un pārbaudīt failu bojājumu jūsu lokālajā datorā</span><span class="sxs-lookup"><span data-stu-id="d23ba-105">Download and check for file corruption on your local machine</span></span>](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [<span data-ttu-id="7bf3b-106">Office dokumentu kešatmiņas dzēšana</span><span class="sxs-lookup"><span data-stu-id="7bf3b-106">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [<span data-ttu-id="d23ba-106">Office dokumentu kešatmiņas dzēšana</span><span class="sxs-lookup"><span data-stu-id="d23ba-106">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [<span data-ttu-id="7bf3b-107">Office labošanas palaišana</span><span class="sxs-lookup"><span data-stu-id="7bf3b-107">Run a repair on Office</span></span>](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [<span data-ttu-id="d23ba-107">Office labošanas palaišana</span><span class="sxs-lookup"><span data-stu-id="d23ba-107">Run a repair on Office</span></span>](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-<span data-ttu-id="7bf3b-108">Plašāku informāciju vai informāciju, lūdzu, pārbaudiet rakstā [problēmu atvēršana SharePoint bibliotēkās](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span><span class="sxs-lookup"><span data-stu-id="7bf3b-108">For more information or details, please check the article [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span></span>
+<span data-ttu-id="d23ba-108">Plašāku informāciju vai informāciju, lūdzu, pārbaudiet rakstā [problēmu atvēršana SharePoint bibliotēkās](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span><span class="sxs-lookup"><span data-stu-id="d23ba-108">For more information or details, please check the article [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span></span>
 

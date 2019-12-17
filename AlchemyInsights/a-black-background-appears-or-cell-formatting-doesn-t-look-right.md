@@ -1,7 +1,7 @@
 ---
 title: Parādās melns fons, vai šūnu formatējums neizskatās pareizi
-ms.author: dludwig
-author: dludwig
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f48094aae7e2d9e4c738da05412f812c15771cf9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495974"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050604"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="246dd-102">Parādās melns fons, vai šūnu formatējums neizskatās pareizi</span><span class="sxs-lookup"><span data-stu-id="246dd-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="21f29-102">Parādās melns fons, vai šūnu formatējums neizskatās pareizi</span><span class="sxs-lookup"><span data-stu-id="21f29-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="246dd-103">Programmā Excel 2016, var tikt parādīts negaidīts melns fons, vai var redzēt šūnas formatējumu, kas neparādās pareizi.</span><span class="sxs-lookup"><span data-stu-id="246dd-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="246dd-104">Tas var notikt pēc galvenes vai kājenes pievienošanas lappuses izkārtojuma skatā un raksta aizpildījuma lietošana šūnā.</span><span class="sxs-lookup"><span data-stu-id="246dd-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="246dd-105">Šī problēma tika novērsta 1708 versijā (būvējums 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="246dd-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="246dd-106">Lai novērstu šo problēmu, atjauniniet uz jaunāko Office versiju.</span><span class="sxs-lookup"><span data-stu-id="246dd-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="246dd-107">Atlasiet **failu** \> **konta** \> **atjaunināšanas opcijas** \> **Atjaunināt tūlīt**.</span><span class="sxs-lookup"><span data-stu-id="246dd-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="21f29-103">Programmā Excel 2016, var tikt parādīts negaidīts melns fons, vai var redzēt šūnas formatējumu, kas neparādās pareizi.</span><span class="sxs-lookup"><span data-stu-id="21f29-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="21f29-104">Tas var notikt pēc galvenes vai kājenes pievienošanas lappuses izkārtojuma skatā un raksta aizpildījuma lietošana šūnā.</span><span class="sxs-lookup"><span data-stu-id="21f29-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="21f29-105">Šī problēma tika novērsta 1708 versijā (būvējums 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="21f29-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="21f29-106">Lai novērstu šo problēmu, atjauniniet uz jaunāko Office versiju.</span><span class="sxs-lookup"><span data-stu-id="21f29-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="21f29-107">Atlasiet **failu** \> **konta** \> **atjaunināšanas opcijas** \> **Atjaunināt tūlīt**.</span><span class="sxs-lookup"><span data-stu-id="21f29-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
