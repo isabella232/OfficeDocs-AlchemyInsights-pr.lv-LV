@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626355"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889089"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Kontrolēt vestibila iestatījumus un dalības līmeni
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrolējiet vestibila iestatījumus un dalības līmeni darba grupās
 
-Ja vēlaties atļaut visiem, tostarp iezvanes, ārējiem un anonīmajiem lietotājiem apiet vestibilā Microsoft Teams, varat izmantot PowerShell, lai to izdarītu. Tālāk ir piemērs, kā modificēt organizācijas globālo sapulču politiku.
+Ja vēlaties atļaut visiem, tostarp iezvanes, ārējiem un anonīmajiem lietotājiem, **apiet vestibilā**, izmantojiet PowerShell, lai veiktu šo uzdevumu. Tālāk ir piemērs, kā modificēt organizācijas globālo sapulču politiku.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šī cmdlet pašlaik ir nepieciešams izmantot Skype biznesa PowerShell modulis. Lai iegūtu setup izmantot šo cmdlet, izbraukšana [pārvaldības politiku, izmantojot PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Šī cmdlet pašlaik ir nepieciešams izmantot Skype biznesa PowerShell modulis. Lai iegūtu, kas izveidota, lai izmantotu šo cmdlet, izbraukšana [pārvaldības politiku, izmantojot PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Varat iestatīt jaunu politiku, kas pēc tam ir jālieto lietotājiem. Ja modificēsit globālo politiku, tā automātiski tiks piemērota lietotājiem. Visām politikas izmaiņām jums ir jāgaida vismaz 4 stundas un līdz 24 stundām, lai politikas stātos spēkā.
+Kad esat iestatījis politiku, jums tā ir jāpiemēro lietotājiem; vai, ja modificējat globālo politiku, tā automātiski tiks piemērota lietotājiem. Visām politikas izmaiņām ir jāgaida vismaz **4 stundas līdz 24 stundām** , lai politikas stātos spēkā. 
 
 Noteikti pārskatīt dokumentāciju, pirms veikt šīs izmaiņas, lai saprastu, ko tieši tas ļauj.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Izpratne komandas sanāksme Lobby politikas kontrole
+
+Šie iestatījumi nosaka, kuri sapulces dalībnieki gaida vestibilā, pirms tie tiek uzņemti sapulcē, un līdzdalības līmenis, kas ir atļauts sapulcē. Varat izmantot PowerShell atjaunināt sapulču politikas iestatījumus, kas vēl nav ieviesti (ar nosaukumu "drīzumā") komandu administrēšanas centrs. Skatiet tālāk piemēru PowerShell cmdlet, kas ļauj visiem lietotājiem apiet vestibilā.
 
 - [Automātiski uzņemt cilvēki](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) ir per-organizators politika, kas kontrolē to, vai cilvēki pievienoties sapulcei tieši vai gaidīt vestibilā līdz tos atzīst autentificēts lietotājs.
 
