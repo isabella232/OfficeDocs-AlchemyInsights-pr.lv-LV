@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741039"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886408"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Konts ir bloķēts, jo ir izsūtījis pārāk daudz surogātpasta
 
-Ja pārāk liela surogātpasta apjoma sūtīšanas dēļ tiek bloķēts Office 365 konts, iespējams, surogātpastu sūtošais konts ir uzlauzts. Veiciet kādu no šīm darbībām:
-  
-1. [Nosakiet, vai konts ir apdraudēts](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Ja konts ir apdraudēts, izpildiet rakstā [Atbildēšana uz e-pasta konta apdraudējumu pakalpojumā Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) norādītās darbības.
+Ja kādam no jūsu lietotājiem ir aizliegts nosūtīt e-pasta ziņojumus, kā administratoram jums ir tiesības [atbloķēt kontu pašam](https://protection.office.com/?hash=/restrictedusers) **neatverot atbalsta pieteikumu**. Stundas laikā pēc ierobežojuma noņemšanas lietotājs varēs sūtīt e-pasta ziņojumus.
 
-2. Lai **[atbloķētu kontu](https://protection.office.com/?hash=/restrictedusers)**, drošības un &amp;atbilstības centrā dodieties uz sadaļu Lietotāji ar ierobežotām tiesībām. Kad tas paveikts, *vienas stundas laikā* jūs varēsiet atsākt sūtīt ziņojumus.
-
-3. Lai novērstu turpmāku konta kompromitēšanu, izpildiet [Office 365 drošības ceļvedī](https://docs.microsoft.com/office365/securitycompliance/security-roadmap) sniegtos ieteikumus.
-  
+Pakalpojums neļauj lietotājam nosūtīt e-pasta ziņojumus pēc tam, kad ir konstatēti pierādījumi par kompromitētu kontu un/vai izejošu surogātpastu. Piesardzības nolūkā, izpildiet rakstā [Atbildēšana uz e-pasta konta apdraudējumu pakalpojumā Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) norādītās darbības.
