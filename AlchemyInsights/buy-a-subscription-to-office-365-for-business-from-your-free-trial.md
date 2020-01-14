@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664759"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104664"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Iegādāties Office 365 abonementu no bezmaksas izmēģinājumversijas
 
@@ -25,7 +25,7 @@ Jūs esat mēģinājuši Office 365, un tagad jūs esat gatavi pirkt. Iegādājo
   
  **Iegādāties to pašu plānu kā izmēģinājuma**
   
-1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Atrodiet abonementu, kuru vēlaties iegādāties. Sadaļā **licences** atlasiet **iegādāties abonementu**un izpildiet norādījumus, lai to pārbaudītu.
 
@@ -36,3 +36,7 @@ Jūs esat mēģinājuši Office 365, un tagad jūs esat gatavi pirkt. Iegādājo
 3. Atrodiet abonementu, kuru vēlaties iegādāties, atlasiet **pirkt**un izpildiet norādījumus, lai to pārbaudītu.
 
 Lai uzzinātu vairāk, skatiet sadaļu [Office 365 abonementa iegāde no bezmaksas izmēģinājumversijas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**Problēmu novēršana**
+
+Ja rodas problēmas saistībā ar lapas ielādi, mēģiniet atvērt tīmekļa lapu citā pārlūkprogrammā vai atvērt lapu privātā pārlūkprogrammas logā, piemēram, InPrivate logā programmā Microsoft Edge vai inkognito logā pārlūkprogrammā Google Chrome.
