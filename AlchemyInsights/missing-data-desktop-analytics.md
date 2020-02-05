@@ -1,5 +1,5 @@
 ---
-title: Nevar izveidot savietojamības novērtējums
+title: Nevar izveidot saderības novērtējumu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800466"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771078"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Nevar izveidot savietojamības novērtējums
+# <a name="cant-create-a-compatibility-assessment"></a>Nevar izveidot saderības novērtējumu
 
-Konfigurācijas pārvaldnieks veiksmīgi konfigurējis ierīci, bet Analytics darbvirsma nevar izveidot savietojamības novērtējums. Tas nav pilnīgu datu kopas par ierīces konfigurāciju (tautas skaitīšanas) vai uzstādītas progr (noliktava).
+Microsoft galapunkta konfigurācijas pārvaldnieks ir veiksmīgi konfigurējis ierīci, bet darbvirsmas analīze nevar izveidot saderības novērtējumu. Tam nav pilnīgas datu kopas par ierīces konfigurāciju (skaitīšana) vai instalētās lietotnes (inventārs).
 
-Šis jautājums bieži nosaka automātiski, kad ierīce mēģina atkārtoti. Ja tas atkārtojas, pārliecinieties, vai ierīce var sazināties, izmantojot pakalpojumu. Lai iegūtu papildinformāciju, skatiet [galapunktiem](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) un [Trūkstošos datus](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Šī problēma bieži tiek noteikta automātiski, kad ierīce mēģina atkārtoti. Ja tas atkārtojas, pārliecinieties, vai ierīce var sazināties ar pakalpojumu. Plašāku informāciju skatiet [Galapunkti](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) un [trūkstošie dati](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049416"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771150"
 ---
 # <a name="why-cant-i-edit-files"></a>Kāpēc nevar rediģēt failus?
 
-Ja dokuments, darblapa vai prezentācija rediģēšanai ir bloķēta un to nevar atvērt Windows darbvirsmas lietojumprogrammās, iespējams, ka failu jau ir rediģējis kāds cits vai arī to ir paņēmis fails. Apskatīsim dažus no iemesliem, [Kāpēc, iespējams, nevarēsit rediģēt failu](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Ātri apskatiet dažus no iemesliem, [Kāpēc, iespējams, nevarēsit rediģēt failu](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Ja jums ir bibliotēkas ar **kases, nepieciešams** vai **validācijas** kolonnas vai metadatus, vai ja **Melnraksta vienumu drošības** ir iestatīts **tikai lietotājiem, kuri var rediģēt** vai **tikai lietotājiem, kuri var apstiprināt vienumus** bibliotēkas versiju iestatījumus:
 

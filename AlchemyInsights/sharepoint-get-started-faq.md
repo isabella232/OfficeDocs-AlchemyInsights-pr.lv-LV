@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051540"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771186"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online bieži sastopamās problēmas un risinājumi
 
 Šeit ir daži bieži pieprasīto tēmu SharePoint Online problēmas:
+
+- **Darba sākšana**: izmantojiet [SharePoint meklēt grāmatu](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , lai izveidotu skaistu, jaudīgu iekštīklu, kas savieno darbvietu. Skatiet [piemērus](https://lookbook.microsoft.com/) un iegūstiet [dizaina ieteikumus](https://spdesign.azurewebsites.net/). Skatiet [iepazīšanās ar SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) vispārēju iepazīšanās ar SharePoint Online.
 
 - **Atļaujas**: [izveidojiet atļauju stratēģiju](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) un [izprotiet atļauju līmeņus](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051540"
 
 - **Modernizējiet SharePoint**: pārskatiet [ceļvedi, lai mūsdienīga pieredze SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) un [modernizētu klasiskās SharePoint vietnes](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , lai sāktu pārvietot.
 
-- **Darba sākšana**: Uzziniet, kā sākt [darbu ar SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) , izmantojot vietņu pārvaldības stratēģijas.
+**Piezīme:** Lai iegūtu konkrētu atbildi par SharePoint problēmu, īsumā Pārfrāzējiet jautājumu un iekļaujiet visas kļūdas, ko esat skatījis, vai funkcijas, ko izmantojat.

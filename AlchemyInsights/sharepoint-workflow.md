@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050928"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770466"
 ---
 # <a name="workflows-in-sharepoint"></a>Darbplūsmas SharePoint
 
-SharePoint darbplūsmas ir iepriekš ieprogrammētas mazas lietojumprogrammas, kas racionalizē un automatizē visdažādākos biznesa procesus. Darbplūsmas var būt diapazonā no parakstu, atsauksmju vai apstiprinājumu iegūšanas plānam vai dokumentam, lai izsekotu rutīnas procedūras pašreizējo statusu.
+SharePoint darbplūsmas ir iepriekš ieprogrammētas programmas, kas racionalizē visdažādākos biznesa procesus. Lai iegūtu papildinformāciju, skatiet tālāk norādītās saites.
 
-**Darba sākšana:** Ja tikko sākāt darbu ar SharePoint darbplūsmām, papildinformāciju skatiet rakstā [Ievads SharePoint darbplūsmās](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Sākšana
 
-**Microsoft Flow**: Apsveriet iespēju izmantot Microsoft Flow klasiskās SharePoint darbplūsmas risinājumu vietā. Papildinformāciju skatiet sadaļā [plūsmas izveide SharePoint Online vai OneDrive sarakstam vai bibliotēkai](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Ja tikko sākāt darbu ar SharePoint darbplūsmām, skatiet sadaļu [Ievads SharePoint darbplūsmās](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Darbplūsmu problēmu novēršana un atkļūdošana**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>SharePoint darbplūsmas problēmu novēršana un atkļūdošana
 
-Atkļūdošanas darbplūsmas atgādina iepriekšējās versijas. Papildinformāciju skatiet rakstā [SharePoint darbplūsmu atkļūdošana](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Papildinformāciju par problēmu novēršanu skatiet rakstā [SharePoint Server darbplūsmas validācijas kļūdu novēršana](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Skatiet rakstu [SharePoint darbplūsmas validācijas kļūdu novēršana](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) un [SharePoint darbplūsmu atkļūdošana](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Power automatizēt
+
+Apsveriet iespēju izmantot [enerģijas automatizēšana](https://docs.microsoft.com/power-automate/modern-approvals) , nevis klasiskās SharePoint darbplūsmas risinājumus.

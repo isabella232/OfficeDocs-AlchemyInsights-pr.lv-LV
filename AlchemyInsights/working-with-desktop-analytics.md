@@ -1,5 +1,5 @@
 ---
-title: Kā darbvirsmas Analytics konta slēgšana
+title: Kā slēgt darbvirsmas Analytics kontu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800460"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771114"
 ---
-# <a name="working-with-desktop-analytics"></a>Strādāt ar darbvirsmas Analytics
+# <a name="working-with-desktop-analytics"></a>Darbs ar darbvirsmas analīzi
 
-Izskatās, ka jūs uzdodat par darbvirsmas Analytics. Mēs, iespējams, var palīdzēt ar precīzāku atbildi, ja jūs formulējiet savu jautājumu citādi.
+Izskatās, ka jums jautā par Desktop Analytics. Mēs, iespējams, varētu palīdzēt ar precīzāku atbildi, ja jūs pārfrāzēt savu jautājumu.
 
-- [Kas ir Desktop Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Kā uzstādīt Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Bieži uzdotie jautājumi](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Problēmu novēršana darbā ar darbvirsmas Analytics](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Kas ir darbvirsmas analīze?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Kā iestatīt darbvirsmas analīzi](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Bieži uzdotie jautājumi](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Darbvirsmas analīzes problēmu novēršana](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
