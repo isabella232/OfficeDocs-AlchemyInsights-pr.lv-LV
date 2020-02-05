@@ -1,5 +1,5 @@
 ---
-title: Gaida iesaistīšanās valsts atrodas ierīces
+title: Ierīces gaida iesaistīšanās statusu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800461"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770322"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="70ee8-102">Ierīces ir "Gaida iesaistīšanās" stāvoklī</span><span class="sxs-lookup"><span data-stu-id="70ee8-102">Devices are in "Awaiting Enrollment" state</span></span>
+# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="1e336-102">Ierīces ir "gaida reģistrācija" valsts</span><span class="sxs-lookup"><span data-stu-id="1e336-102">Devices are in "Awaiting Enrollment" state</span></span>
 
-<span data-ttu-id="70ee8-103">Diagnostikas datus, šai ierīcei nav darbvirsmas Analytics.</span><span class="sxs-lookup"><span data-stu-id="70ee8-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
+<span data-ttu-id="1e336-103">Darbvirsmas analīzē nav diagnostikas datu par šo ierīci.</span><span class="sxs-lookup"><span data-stu-id="1e336-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
 
-<span data-ttu-id="70ee8-104">Šī problēma var rasties, jo nesen ierīcei pievienots kolekcijai mērķa un tas vēl nav sūtīts dati.</span><span class="sxs-lookup"><span data-stu-id="70ee8-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="70ee8-105">Tas var nozīmēt arī ierīce nav pareizi sazinoties ar pakalpojumu un jaunākās diagnostikas datus ir vairāk nekā 28 dienas vecs.</span><span class="sxs-lookup"><span data-stu-id="70ee8-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
+<span data-ttu-id="1e336-104">Šī problēma var rasties, jo nesen pievienojāt ierīci mērķa kolekciju un vēl nav nosūtīti dati.</span><span class="sxs-lookup"><span data-stu-id="1e336-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="1e336-105">Tas var nozīmēt arī to, ka ierīce nav pareizi sazinājas ar pakalpojumu, un jaunākie diagnostikas dati ir vairāk nekā 28 dienas veci.</span><span class="sxs-lookup"><span data-stu-id="1e336-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
 
-<span data-ttu-id="70ee8-106">Pārliecinieties, vai ierīce var sazināties, izmantojot pakalpojumu.</span><span class="sxs-lookup"><span data-stu-id="70ee8-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="70ee8-107">Plašāku informāciju skatiet [galapunktiem](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="70ee8-107">For more information, see [Endpoints](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).</span></span>
+<span data-ttu-id="1e336-106">Pārliecinieties, vai ierīce var sazināties ar pakalpojumu.</span><span class="sxs-lookup"><span data-stu-id="1e336-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="1e336-107">Plašāku informāciju skatiet [Galapunkti](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="1e336-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span></span>
 
-<span data-ttu-id="70ee8-108">Plašāku informāciju par awainting pieteikšanās statusu skatiet [Monitora savienojumu veselību](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span><span class="sxs-lookup"><span data-stu-id="70ee8-108">For more information about the awainting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>
+<span data-ttu-id="1e336-108">Papildinformāciju par to, kā tiek gaidīta pieteikšanās statusa, skatiet [monitora savienojuma veselība](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span><span class="sxs-lookup"><span data-stu-id="1e336-108">For more information about the awaiting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>
