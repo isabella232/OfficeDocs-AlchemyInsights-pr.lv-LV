@@ -3,7 +3,7 @@ title: “Atvērt ar Explorer“ problēmu novēršana pakalpojumā SharePoint d
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/7/19
+ms.date: 08/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,26 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 21a0c193b752342d47189dda73d171249153f7fc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 09d0d76f8c61f7fcd21a58527e220b65f123654d
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050820"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770286"
 ---
-# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a><span data-ttu-id="ad551-102">“Atvērt ar Explorer“ problēmu novēršana pakalpojumā SharePoint darbam tiešsaistē</span><span class="sxs-lookup"><span data-stu-id="ad551-102">Troubleshoot “Open with Explorer” issues in SharePoint Online</span></span>
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a><span data-ttu-id="f46f4-102">“Atvērt ar Explorer“ problēmu novēršana pakalpojumā SharePoint darbam tiešsaistē</span><span class="sxs-lookup"><span data-stu-id="f46f4-102">Troubleshoot “Open with Explorer” issues in SharePoint Online</span></span>
 
-<span data-ttu-id="ad551-103">Komanda Atvērt ar Explorer atver Windows Explorer lokālo instanci, kas parāda mapju struktūru serverī, kas vieso SharePoint vietni.</span><span class="sxs-lookup"><span data-stu-id="ad551-103">The Open with Explorer command opens a local instance of Windows Explorer that displays the folder structure on the server that hosts the SharePoint site.</span></span> <span data-ttu-id="ad551-104">Tas nozīmē, ka ieteicams [sinhronizēt SharePoint failus, izmantojot jauno OneDrive sinhronizācijas klientu](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, kas nodrošina [failus pēc pieprasījuma](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), jo tas nodrošina lokālu piekļuvi jūsu failiem un sniedz vislabāko veiktspēju.</span><span class="sxs-lookup"><span data-stu-id="ad551-104">This being said, we recommend [syncing SharePoint files with the new OneDrive sync client](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> which provides [Files On-Demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) because it provides local access to your files and offers the best performance.</span></span>
+<span data-ttu-id="f46f4-103">Ir ieteicams [sinhronizēt SharePoint failus, izmantojot jauno OneDrive sinhronizācijas klientu](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), kas nodrošina [failus pēc pieprasījuma](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), jo tas sniedz lokālu piekļuvi jūsu failiem un labāko veiktspēju.</span><span class="sxs-lookup"><span data-stu-id="f46f4-103">We recommend [syncing SharePoint files with the new OneDrive sync client](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) which provides [Files On-Demand](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) because it provides local access to your files and offers the best performance.</span></span>
 
+<span data-ttu-id="f46f4-104">Lai novērstu “Atvērt ar Explorer” problēmas, ievērojiet norādes un labāko praksi, kas izklāstītas šajos rakstos:</span><span class="sxs-lookup"><span data-stu-id="f46f4-104">To troubleshoot Open with Explorer issues, follow the steps and best practices in the following articles:</span></span>
 
-<span data-ttu-id="ad551-105">Ja izvēlējāties izmantot Explorer skatu, nevis izmantot jauno OneDrive sinhronizācijas klientu, turpmākajos rakstos sekojiet darbībām un paraugpraksei.</span><span class="sxs-lookup"><span data-stu-id="ad551-105">If you chose to use Explorer view instead of using the new OneDrive sync client, make sure you follow the steps and best practices in the following articles:</span></span>
+- [<span data-ttu-id="f46f4-105">Kā izmantot komandu "Atvērt ar Explorer", lai novērstu problēmas ar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="f46f4-105">How to use the "Open with Explorer" command to troubleshoot issues in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
+- [<span data-ttu-id="f46f4-106">Bibliotēkas failu kopēšana vai pārvietošana, izmantojot komandu Atvērt ar Explorer</span><span class="sxs-lookup"><span data-stu-id="f46f4-106">Copy or move library files by using Open with Explorer</span></span>](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
-- [<span data-ttu-id="ad551-106">Kā izmantot komandu "Atvērt ar Explorer", lai novērstu problēmas ar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ad551-106">How to use the "Open with Explorer" command to troubleshoot issues in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
-
-- [<span data-ttu-id="ad551-107">Bibliotēkas failu kopēšana vai pārvietošana, izmantojot komandu Atvērt ar Explorer</span><span class="sxs-lookup"><span data-stu-id="ad551-107">Copy or move library files by using Open with Explorer</span></span>](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
-
-> [!Note]  
-> <span data-ttu-id="ad551-108">Poga **Atvērt ar Explorer** nav redzama jaunākajā bibliotēku pieredzē.</span><span class="sxs-lookup"><span data-stu-id="ad551-108">The **Open with Explorer** button doesn't appear in the new library experience.</span></span> <span data-ttu-id="ad551-109">Atlasiet uz nolaižamās izvēlnes **Skats** augšējā labajā stūrī (nolaižamās izvēlnes nosaukums mainās, atkarībā no pašreizējā skata), un pēc tam atlasiet **Skatīt failu pārlūkā**.</span><span class="sxs-lookup"><span data-stu-id="ad551-109">Select the **View** drop-down in the upper right (the name of the drop-down changes depending on your current view), and then select **View in File Explorer**.</span></span>
+> <span data-ttu-id="f46f4-107">**Piezīme.**</span><span class="sxs-lookup"><span data-stu-id="f46f4-107">**Note:**</span></span>
 >
- ><span data-ttu-id="ad551-110">SharePoint Atvērt ar Explorer izmanto ActiveX vadīklas, tāpēc to atbalsta tikai pārlūkprogramma Internet Explorer 10 vai 11.</span><span class="sxs-lookup"><span data-stu-id="ad551-110">SharePoint Open with Explorer uses ActiveX controls, so it's only supported in Internet Explorer 10 or 11.</span></span> <span data-ttu-id="ad551-111">Atvērt ar Explorer nedarbojas operētājsistēmā Windows ar pārlūkprogrammām Microsoft Edge, Google Chrome un Mozilla Firefox, kā arī platformā Mac.</span><span class="sxs-lookup"><span data-stu-id="ad551-111">Open with Explorer doesn't work in Windows with Microsoft Edge, Google Chrome, Mozilla Firefox, or on the Mac platform.</span></span> <span data-ttu-id="ad551-112">Šī iemesla dēļ pārlūka skata opcija var būt pelēkota.</span><span class="sxs-lookup"><span data-stu-id="ad551-112">Due to this reason, the Explorer View option may be grayed out.</span></span>
+>- <span data-ttu-id="f46f4-108">Poga “Atvērt ar Explorer” nav redzama jaunajā bibliotēku veidolā.</span><span class="sxs-lookup"><span data-stu-id="f46f4-108">The Open with Explorer button doesn't appear in the new library experience.</span></span> <span data-ttu-id="f46f4-109">Atlasiet uz nolaižamās izvēlnes **Skats** augšējā labajā stūrī (nolaižamās izvēlnes nosaukums mainās, atkarībā no pašreizējā skata), un pēc tam atlasiet **Skatīt failu pārlūkā**.</span><span class="sxs-lookup"><span data-stu-id="f46f4-109">Select the **View** drop-down in the upper right (the name of the drop-down changes depending on your current view), and then select **View in File Explorer**.</span></span>
 >
-> - <span data-ttu-id="ad551-113">[Kāpēc SharePoint lentes pogas nav pieejamas vai ir pelēkotas](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).</span><span class="sxs-lookup"><span data-stu-id="ad551-113">[Why SharePoint ribbon buttons are unavailable or grayed out](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).</span></span>
-  
+>- <span data-ttu-id="f46f4-110">Iespēju “Atvērt ar Explorer” var izmantot tikai ar Internet Explorer 10 vai 11.</span><span class="sxs-lookup"><span data-stu-id="f46f4-110">Open with Explorer is only supported in Internet Explorer 10 or 11.</span></span> <span data-ttu-id="f46f4-111">Atvērt ar Explorer nedarbojas operētājsistēmā Windows ar pārlūkprogrammām Microsoft Edge, Google Chrome un Mozilla Firefox, kā arī platformā Mac.</span><span class="sxs-lookup"><span data-stu-id="f46f4-111">Open with Explorer doesn't work in Windows with Microsoft Edge, Google Chrome, Mozilla Firefox, or on the Mac platform.</span></span> <span data-ttu-id="f46f4-112">Šī iemesla dēļ pārlūka skata opcija var būt pelēkota.</span><span class="sxs-lookup"><span data-stu-id="f46f4-112">Due to this reason, the Explorer View option may be grayed out.</span></span>
+
 
