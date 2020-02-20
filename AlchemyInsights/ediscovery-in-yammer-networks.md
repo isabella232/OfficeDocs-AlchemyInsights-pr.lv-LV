@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033887"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162919"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery Yammer tīklos
 
 Tagad varat veikt eDiscovery meklē Yammer saturu Office 365.  Veicot eDiscovery meklēšanu vai eksportēt Yammer saturā ir nepieciešama šāda:
 
-1. Vispirms ir migrēt Yammer uzņēmuma tīkla vietējā režīmā, lai Yammer ziņojumi un faili atklājamu.
-
-   > [!NOTE] 
-   >Ja jums ir Office 365 jaunu klientu no 9 janvāris 2020 un jūsu Yammer tīkls jau vietējā režīmā, jūsu dati tagad atklājamu ar eDiscovery.
+1. Vispirms ir migrēt Yammer uzņēmuma tīkla vietējā režīmā, lai Yammer ziņojumi un faili atklājamu. **Piezīme: ja esat jauns Office 365 klientu no 9 janvāris 2020 un jūsu Yammer tīkls jau vietējā režīmā, jūsu dati tagad ir atklājamu ar eDiscovery**.
 
 2. Izejot no klientiem, eDiscovery Yammer būs pieejams, kad tiek izlaists vietējā režīma līdzinājums rīks un vietējā režīma migrācijas pabeidz Yammer nomnieka.
 
