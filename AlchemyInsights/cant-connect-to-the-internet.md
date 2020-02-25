@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627961"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265059"
 ---
-# <a name="fix-network-connection-issues"></a>Tīkla savienojuma problēmu novēršana
+# <a name="fix-network-connection"></a>Tīkla savienojuma labošana
 
 Lai atrisinātu tīkla savienojuma problēmas, vispirms mēģiniet palaist tīkla problēmu risinātāju. 
 
-Uzdevumjoslas meklēšanas lodziņā ierakstiet **tīkla problēmu risinātājs**un pēc tam atlasiet **pārbaudīt un izlabot tīkla problēmas**.
+1. [Atveriet iestatījumu problēmu novēršana](ms-settings:troubleshoot).
 
-**Piezīme:** Ja nepieciešama palīdzība saistībā ar interneta savienojumu, izmantojot datoru, kurā darbojas operētājsistēma Windows 7 vai Windows 8,1, skatiet sadaļu [tīkla savienojuma problēmu novēršana sistēmā Windows](https://support.microsoft.com/help/15287) 
+2. Sadaļā **interneta savienojumi**atlasiet **palaist problēmu risinātāju**.
 
-Ja izmantojat bezvadu (Wi-Fi) savienojumu, pārliecinieties, vai ierīcē ir ieslēgts Wi-Fi (tostarp fiziskais Wi-Fi slēdzis) un vai nav ieslēgts lidmašīnas režīms.
+Ja izmantojat Wi-Fi savienojumu, pārliecinieties, vai ierīcē ir ieslēgts Wi-Fi (tostarp fiziskais Wi-Fi slēdzis) un vai nav ieslēgts lidmašīnas režīms.
 
-Ja izmantojat vadu (Ethernet) savienojumu, pārliecinieties, vai kabelis ir droši pievienots datoram un maršrutētājam vai modemam.
+Ja izmantojat Ethernet savienojumu, pārliecinieties, vai kabelis ir droši pievienots datoram un maršrutētājam vai modemam.
 
 Ja tas nelīdz, mēģiniet restartēt datoru, modemu un maršrutētāju (ja tāds ir):
 
 1. Atvienojiet strāvas padevi modemam un maršrutētājam. Ja modemam ir rezerves akumulators, akumulators ir jānoņem, lai pilnībā izslēgtu strāvas padevi.
+
 2. Pagaidiet aptuveni 30 sekundes. Ja akumulatoru izņēmāt no modema, ievietojiet to atpakaļ.
+
 3. Pievienojiet modema un maršrutētāja strāvas kabeli.
-4. Kamēr gaidāt modema un maršrutētāja pilnīgu enerģijas padevi, restartējiet datoru. Izvēlieties **Sākt** > **enerģijas** > **restartēšanu**. (Pārliecinieties, vai atlasāt **Restartēt**, nevis **Beidzēt**.)
+
+4. Kamēr jūs gaidāt modemu un maršrutētāju, lai pilnībā ieslēgtu, restartējiet datoru: **Sākt** > **jaudas** > **restartēšanu**.
 
 **Papildu traucējummeklēšana**
 
-Papildu problēmu novēršanas darbības skatiet sadaļā [tīkla savienojuma problēmu novēršana operētājsistēmā Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). Šajā rakstā ir iekļauta tehniskā informācija par to, kā novērst interneta savienojumu, piemēram:
+Lai iegūtu papildu problēmu novēršanas darbības, skatiet [Wi-Fi savienojuma problēmu novēršana sistēmā Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-- Komandu uzvednes izmantošana tīklošanas komandu palaišanai
-- Tīkla adaptera draivera atjaunināšana
-- Pārbaude, lai redzētu, vai ugunsmūra vai pretvīrusu programmatūra traucē interneta savienojumu
-- Tīkla atiestatīšanas izmantošana tīkla ierīču atkārtotai instalēšanai
-
-**Piezīme:** Ja neesat apmierināts, izmantojot vairāk tehnisku problēmu novēršanas darbības, varat runāt ar personu, lai saņemtu papildu palīdzību, izvēloties pogu **sazināties ar mums** .
+Ja neesat apmierināts, izmantojot vairāk tehnisku problēmu novēršanas darbības, [sazinieties ar mums](https://support.microsoft.com/contactus).
