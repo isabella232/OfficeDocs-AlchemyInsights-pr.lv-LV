@@ -3,6 +3,7 @@ title: Iztukšot mapi Izdzēstie vienumi Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768699"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277938"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Iztukšot mapi Izdzēstie vienumi
 
-Lai iztīrītu visus izdzēstos Outlook ziņojumus, dodieties uz [mapi Izdzēstie vienumi](https://outlook.live.com/mail/deleteditems)un atlasiet **Iztukšot mapi**, pēc tam atlasiet **atkopt vienumus, kas dzēsti no šīs mapes** virs ziņojumu saraksta, un vēlreiz izvēlieties **Iztukšot mapi** .
+1. Atveriet mapi Izdzēstie vienumi un atlasiet **Iztukšot mapi**.
+2. Lapas augšdaļā atlasiet **atkopt vienumus** un vēlreiz atlasiet **Iztukšot mapi** .
 
-Ja esat izdzēsis daudz ziņojumu, var paiet zināms laiks, līdz šie vienumi tiek pārvietoti vai dzēsti no mapes Izdzēstie vienumi. Lūdzu, atstājiet pārlūka logu atvērtu, līdz vienumi tiek izdzēsti.
+**Nevar iztukšot mapi Izdzēstie vienumi**
 
-Ja ziņojumi netiek pareizi dzēsti, mēģiniet izdzēst mazāku ziņojumu skaitu.
+- Ja esat izdzēsis daudz e-pasta ziņojumu, var paiet zināms laiks, līdz šie vienumi tiek pārvietoti vai izdzēsti no mapes Izdzēstie vienumi. Atstājiet pārlūka logu atvērtu, kamēr notiek dzēšana.
+- Ja e-pasta ziņojumu joprojām neizdodas izdzēst, atlasiet mazāku paketi Dzēst.
+- Ja svītrots e-pasts nāk atpakaļ, tas varētu būt tāpēc, ka esat svītrots daudz e-pastu nesen. Lūdzu, vēlāk mēģiniet vēlreiz.
