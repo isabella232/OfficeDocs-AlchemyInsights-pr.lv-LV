@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274925"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599959"
 ---
 # <a name="teams-policies"></a>Teams politikas
 
@@ -27,7 +27,7 @@ Microsoft Teams iestatījumus kontrolē politikas. Lai veiktu izmaiņas, ir jāk
 Teams politika ir sadalīta šādās jomās:
 
 - [Grupu politikas](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontrolē lietotāju atklāšanu privātām komandām, meklējot un izveidojot privātus kanālus.  
-- [Sapulču politika](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolē to, ko lietotāji var paveikt ar komandām, tostarp kontrolēt vestibilu. Lai saņemtu palīdzību saistībā ar vestibila jautājumiem, piemēram, konfigurējot komandas uzņemt ikvienu, skatiet sadaļu [vestibila iestatījumu kontrole un līdzdalības līmenis](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Sapulču politika](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolē to, ko lietotāji var paveikt ar komandām, tostarp kontrolēt vestibilu. Lai saņemtu palīdzību saistībā ar vestibila jautājumiem, piemēram, konfigurējot komandas uzņemt ikvienu, skatiet sadaļu [vestibila iestatījumu kontrole un līdzdalības līmenis](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Ziņojumapmaiņas politikas](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrolē to, ko lietotāji var darīt ar tērzēšanu un ziņojumiem, tostarp ieslēdzot vai izslēdzot tērzēšanu, dzēšot tērzēšanu, pieprasot lasīšanas apliecinājumus, izmantojot giphys un uzlīmes, un daudz ko citu.
 - [Programmu iestatīšanas politikas](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrolē, kuras programmas ir pieejamas lietotājiem, tostarp pielāgotās un trešo personu programmas, un secība, kādā tās parādās.  
 - Datu [saglabāšanas politikas](https://docs.microsoft.com/microsoftteams/retention-policies) komandām ir atrodami Office 365 drošības un atbilstības centrā.

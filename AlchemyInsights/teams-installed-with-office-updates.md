@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908751"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599491"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Ar Office atjauninājumiem instalētās Microsoft Teams
 
@@ -32,6 +32,6 @@ Ja jūsu organizācija nav gatava izvietot darba grupas, varat ***izslēgt darba
 
 Lai ***atinstalētu darba grupas*** no ierīces, kurā darbojas sistēma Windows, skatiet sadaļu [Microsoft Teams atinstalēšana](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Lai attīrītu Microsoft Teams no vairākām mērķa mašīnām vai lietotājiem, skatiet [Microsoft Teams izvietošanas tīrīšana](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Ja izmantojat koplietojamos datorus, attālās darbvirsmas pakalpojumus (RDS) vai virtuālās darbvirsmas infrastruktūru (VDI), skatiet sadaļu [koplietojamā datora un VDI vide, izmantojot Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Ja izmantojat Office for Mac, skatiet [Microsoft Teams instalācijas Mac datorā](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Ja izmantojat koplietojamos datorus, attālās darbvirsmas pakalpojumus (RDS) vai virtuālās darbvirsmas infrastruktūru (VDI), skatiet sadaļu [koplietojamā datora un VDI vide, izmantojot Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Ja izmantojat Office for Mac, skatiet [Microsoft Teams instalācijas Mac datorā](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Piezīme:** Kad komandas ir instalētas, tās tiek [automātiski atjauninātas](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) aptuveni ik pēc divām nedēļām ar jaunām funkcijām un kvalitātes atjauninājumiem. 

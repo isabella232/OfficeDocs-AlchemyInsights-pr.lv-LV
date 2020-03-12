@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 2fe3226c542ba3778751c7f20aa2daa421743354
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564371"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599383"
 ---
 # <a name="teams-supported-web-browsers"></a>Teams atbalstītās tīmekļa pārlūkprogrammas
 
-Teams pilnībā atbalsta interneta pārlūkprogrammas, kas norādītas rakstā, [Microsoft Teams ierobežojumi un specifikācijas](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), ar atzīmējusi izņēmumus zvanīšanai un sanāksmēm.
+Teams pilnībā atbalsta interneta pārlūkprogrammas, kas norādītas rakstā, [Microsoft Teams ierobežojumi un specifikācijas](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), ar atzīmējusi izņēmumus zvanīšanai un sanāksmēm.

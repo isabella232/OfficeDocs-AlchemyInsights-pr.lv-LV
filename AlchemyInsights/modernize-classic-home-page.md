@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322761"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600571"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernizē klasisko mājas lapu
 
 Klasiskās SharePoint grupas vietnes sākumlapu jaunāko atjauninājumu ietekmē klasiskās grupas vietnes (STS # 0) sākumlapu, ja sākumlapā ir *tikai standarta noklusējuma Web daļas* , piemēram, darba sākšana, dokumentu bibliotēka un jaunumu plūsma.
 
-View staigāt-through no izmaiņām [šeit](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+View staigāt-through no izmaiņām [šeit](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Piezīme: klasiskās komandas vietnes, kurās ir pielāgots saturs, netiks automātiski atjauninātas.**
 

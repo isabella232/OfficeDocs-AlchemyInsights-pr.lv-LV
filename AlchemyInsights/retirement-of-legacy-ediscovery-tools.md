@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157644"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600383"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Iepriekšējās paaudzes eDiscovery rīku norakstīšanas
 
@@ -37,7 +37,7 @@ Jaunā un uzlabotā e-datu atklāšanas funkcionalitātes rezultātā Microsoft 
     - [Setholdonpastkastēm](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonpastkastēm](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Pensionēšanās grafiks**:
 - April 1, 2020: jūs nevarēsiet izveidot jaunu meklēšanu un tilpnēs, bet jūs joprojām varat palaist, rediģēt un dzēst esošo meklēšanu uz savu risku. Microsoft Support vairs neatbalsta in-place eDiscovery & pieder EAC.
@@ -46,9 +46,9 @@ Jaunā un uzlabotā e-datu atklāšanas funkcionalitātes rezultātā Microsoft 
 
 Papildinformāciju **skatiet**:
 
- - [Mantotā eDiscovery meklēšanas un aizturēšanas migrēt uz Microsoft 365 atbilstības centrs](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Iepriekšējās paaudzes eDiscovery rīku norakstīšanas](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [BUJ par in-place eDiscovery un oriģinālu tur](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Mantotā eDiscovery meklēšanas un aizturēšanas migrēt uz Microsoft 365 atbilstības centrs](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Iepriekšējās paaudzes eDiscovery rīku norakstīšanas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [BUJ par in-place eDiscovery un oriģinālu tur](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
