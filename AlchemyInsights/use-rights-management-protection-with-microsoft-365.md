@@ -1,30 +1,30 @@
 ---
-title: Lietot tiesību pārvaldības aizsardzību ar Microsoft 365
+title: Microsoft 365 izmantošanas tiesību pārvaldības aizsardzība
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632674"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707379"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>Lietot tiesību pārvaldības aizsardzību ar Microsoft 365
+# <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365 izmantošanas tiesību pārvaldības aizsardzība
 
-Lai varētu izmantot informācijas piekļuves tiesību pārvaldības (IRM) līdzekļus Office 365 lietojumprogrammās un pakalpojumos, ir jāaktivizē [tiesību pārvaldības pakalpojums (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) .
+Jums ir jāaktivizē Informācijas [Tiesību Pārvaldības (IRM)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) pakalpojums, lai jūs varētu izmantot Office 365 lietojumprogrammu un pakalpojumu Informācijas Tiesību Pārvaldības (IRM) līdzekļus.
 
-1. Lai iegūtu licences prasības un aktivizāciju no **microsoft 365 administrēšanas centra**, skatiet sadaļu [kā aktivizēt tiesību pārvaldības aizsardzību no Microsoft 365 administrēšanas centra](https://docs.microsoft.com/azure/information-protection/activate-office365). **Piezīme**: nepieciešams globālais administrēšanas konts.
+1. Lai saņemtu licences prasības un aktivizāciju no **Microsoft 365 administrēšanas centra**, skatiet rakstu [Kā aktivizēt Tiesību Pārvaldības Aizsardzību Microsoft 365 administrēšanas centrā](https://docs.microsoft.com/azure/information-protection/activate-office365). **Piezīme**: nepieciešams globālais administratora konts.
 
-2. Licences prasības un aktivizēšana no **Azure portāls**, skatiet [kā aktivizēt tiesību pārvaldības aizsardzības pakalpojums no Azure portāls](https://docs.microsoft.com/azure/information-protection/activate-azure). **Piezīme**: nav nepieciešama globālā administratora kontu.
- 
+2. Lai saņemtu licences prasības un aktivizāciju no**Azure Portal**, skatiet rakstu [Kā aktivizēt tiesību pārvaldības aizsardzības pakalpojumu no Azure portāla](https://docs.microsoft.com/azure/information-protection/activate-azure). **Piezīme**: nav nepieciešams globālais administratora konts.
 
-Papildinformāciju skatiet rakstā [norādes uz informāciju par tiesību pārvaldību administrēšanas centrā](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
+Lai uzzinātu vairāk, skatiet [Norādes uz informāciju par tiesību pārvaldību administrēšanas centrā](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
