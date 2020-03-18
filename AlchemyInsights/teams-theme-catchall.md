@@ -1,40 +1,49 @@
 ---
-title: Komandas Theme catchall
+title: Teams temata sauklis
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371529"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707486"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Darba grupas bieži sastopamas problēmas un rezolūcijas
+# <a name="teams-common-issues-and-resolutions"></a>Teams bieži sastopamās problēmas un risinājumi
 
-Lai iegūtu konkrētu atbildi par Microsoft Teams problēmu, īsumā Pārfrāzējiet jautājumu un iekļaujiet visas kļūdas, ko esat skatījis, vai funkcijas, ko izmantojat.
+Lai saņemtu precīzāku atbildi, mēģiniet pārfrāzēt jautājumu, lai tas iekļautu kļūdas, ar kurām sastopaties, vai Teams līdzekļus, kurus izmantojat.
 
-Ja jums ir nepieciešama palīdzība attālos darbiniekus (WFH) ar darba grupām, lūdzu, pārskatiet [atbalsta attālos darbiniekus, izmantojot Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+Ja jums ir nepieciešama palīdzība, lai izvietotu Teams attālināto darbinieku atbalstam (WFH) COVID-19 dēļ, lūdzu, pārskatiet [Attālināto darbinieku atbalsts ar Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Iespējams, ka jums ir tiesības saņemt izvietošanas atbalstu programmas Microsoft 365 FastTrack ietvaros. Lūdzu, apmeklējiet [FastTrack centru](https://www.microsoft.com/fasttrack), lai iesniegtu pieprasījumu.
 
-Tālāk ir norādīti daži papildu resursi.
+Visiem Teams klientiem:
 
-- **Iespējot darba grupu viesu piekļuvi:** Pārskatiet [komandu Viesu piekļuves kontrolsarakstu](https://docs.microsoft.com/microsoftteams/guest-access-checklist) un pārliecinieties, vai visas darbības ir pabeigtas.
-- **Problēmu novēršana Teams pierakstīšanās:** Vispirms pārliecinieties, vai [Microsoft Teams pakalpojums ir vesels](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Pēc tam meklējiet bieži sastopamus kļūdu kodus un pārskatiet [Kāpēc rodas problēmas, pierakstoties Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Iespējams, Microsoft Teams būs jāpārskata arī [identitātes modeļi un autentifikācija](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
-- **Izdzēstās grupas vai kanāla atjaunošana:** 
-    - Skatiet sadaļu [izdzēstas grupas atjaunošana programmā Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
-    - Dzēstie kanāli komandā var tikt atjaunoti līdz 21 dienai pēc kanāla dzēšanas. 
-    - Lai atkoptu izdzēstu kanālu, skatiet sadaļu [komandas arhivēšana vai atjaunošana](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
-- **Atjaunot izdzēstos failus:** Skatiet sadaļā [izdzēsto failu atkopšana grupās](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
-- **Trūkstoša numura sastādīšanas bloka problēmu novēršana:**  
-    - Pārliecinieties, vai lietotājam ir piešķirta [darba grupu licence](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Pārliecinieties, vai lietotājam ir piešķirts [zvanīšanas plāns](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Iespējojiet [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)lietotājus.
-- **Zināmās problēmas, kas saistītas ar darba grupām:** Lasiet [Microsoft Teams zināmās problēmas](https://docs.microsoft.com/microsoftteams/known-issues).
+- **Iesācējs darbā ar Teams?** Izlasiet [Darba sākšana ar Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+
+- **Teams viespiekļuves iespējošana:** lasiet [Teams viespiekļuves kontrolsarakstu](https://docs.microsoft.com/microsoftteams/guest-access-checklist) un pārliecinieties par to, ka ir izpildītas visa darbības.
+
+- **[Teams audio konferenču iestatīšana](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **Trūkstošās ciparu tastatūras problēmas novēršana:**  
+
+    - Pārliecinieties par to, ka lietotājam ir piešķirta [Teams licence](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+
+    - Pārliecinieties par to, ka lietotājam ir piešķirts [zvanu plāns](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
+
+    - Iespējojiet lietotājiem līdzekli [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+
+- **Teams pierakstīšanās problēmu novēršana:** vispirms pārliecinieties par to, ka [Microsoft Teams pakalpojums ir darbspējīgs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Pēc tam pārbaudiet, vai nav kādu bieži sastopamu kļūdu kodu, un izlasiet [Kāpēc rodas problēmas ar pierakstīšanos Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Iespējams, jums būs lietderīgi izlasīt arī rakstu [Microsoft Teams identitātes modeļi un autentifikācija](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+
+**Izglītības iestādēm:**
+
+Ja jūsu lietotājiem tiek parādīts ziņojums "Jūs palaižat iespēju!" Pārliecinieties par to, ka [Microsoft Teams ir iespējots jūsu skolai](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). EDU nomniekiem Microsoft Teams nav iespējotas pēc noklusējuma. Jums tas būs jāieslēdz vispirms.
+
+Pēc tam lasiet rakstu [Attālinātā mācīšana un mācīšanās Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), lai uzzinātu jaunākos norādījumus jūsu skolas iestatīšanai, stundu plānošanai, virtuālajām tikšanās reizēm un satura kopīgošanai ar skolēniem. 
