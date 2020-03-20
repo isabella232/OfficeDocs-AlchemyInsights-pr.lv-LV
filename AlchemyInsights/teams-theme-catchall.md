@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745011"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856474"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams bieži sastopamās problēmas un risinājumi
 
@@ -36,11 +36,11 @@ Visiem Teams klientiem:
 
     Lai pārliecinātos par to, ka lietotājs ir licencēts audio konferenču izmantošanai un viņam ir noklusējuma maksas numurs:
     1.    Dodieties uz Aktīvie lietotāji un atlasiet attiecīgo lietotāju.
-    2.    Atkarībā no administrēšanas centra versijas, izvēlieties Licences un lietojumprogrammas vai noklikšķiniet uz Rediģēt sadaļā Produktu licences.
+    2.    Atkarībā no administrēšanas centra versijas, izvēlieties **Licences un lietojumprogrammas** vai noklikšķiniet uz **Rediģēt** sadaļā**Produktu licences**.
     3.    Pārbaudiet, vai lietotājs ir atlasījis audio konferences, Microsoft Teams un Skype darbam tiešsaistē (2. plāns).
-    4.    Lietotāju administrēšanas centrā noklikšķiniet uz Rādīt visus, pēc tam uz Grupas.
-    5.    Microsoft Teams administrēšanas centrā noklikšķiniet uz Mantotās versijas portāls.
-    6.    Skype darbam administrēšanas centrā noklikšķiniet uz audio konferences un pēc tam uz lietotāji.
+    4.    Lietotāju administrēšanas centrā noklikšķiniet uz **Rādīt visu**, pēc tam uz **Grupas**.
+    5.    Microsoft Teams administrēšanas centrā noklikšķiniet uz **Mantotās versijas portāls**.
+    6.    Skype darbam administrēšanas centrā noklikšķiniet uz **audio konferences** un pēc tam uz **lietotāji**.
     7.    Atlasiet attiecīgo lietotāju un pārbaudiet, vai lietotājam ir noklusējuma maksas tālruņa numurs.
     
     Lai uzzinātu vairāk, skatiet [Office 365 zvanu plāni](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) vai zvaniet Microsoft komerciālo maksājumu komandai, lai saņemtu palīdzību ar licencēšanu saistītos jautājumos.
