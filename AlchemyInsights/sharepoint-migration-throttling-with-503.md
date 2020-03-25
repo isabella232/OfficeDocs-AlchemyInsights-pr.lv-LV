@@ -12,14 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054060"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931665"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migrācijas ierobežošana ar 503 kļūdas
+
+**Svarīgi**: daudzi SharePoint Online un OneDrive klienti darbojas kritiskās biznesa lietojumprogrammas pret pakalpojumu, kas darbojas fonā. Tie ietver satura migrācija, datu zuduma novēršana (DLP) un dublēšanas risinājumi. Šo bezprecedenta reižu laikā mēs rīkojam, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami un uzticami lietotājiem, kuri ir atkarīgi no pakalpojuma vairāk nekā jebkad agrāk attālos darba scenārijos.
+
+Lai atbalstītu šo mērķi, mēs esam ieviesuši stingrākus ierobežošanas ierobežojumus fona lietotnēs (migrācija, DLP un dublēšanas risinājumi) darba dienās dienas laikā. Jums vajadzētu sagaidīt, ka šīs lietojumprogrammas šajā laikā sasniegs ļoti ierobežotu caurlaidspēju. Tomēr reģiona vakara un nedēļas nogales stundās pakalpojums būs gatavs apstrādāt ievērojami lielāku pieprasījumu apjomu no fona lietotnēm.
+
+**503 kļūdas, migrējot uz SharePoint Online**
 
 Šķiet, jums ir migrācija uz SharePoint Online un saņem 503 kļūdas. Lūdzu, veiciet tālāk norādītās darbības, lai mēs varētu jums palīdzēt pēc iespējas ātrāk. 
 

@@ -1,5 +1,5 @@
 ---
-title: DLP kārtula nedarbojas SSN
+title: Nav darba SSN kārtula DLP
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,40 +12,46 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 757136c39700f12f40f839b29277a59b0e436f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b83a858975ffe1bb70f16a7452a13d57dff5340
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529868"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932535"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP problēmas, kas saistītas ar sociālās apdrošināšanas numurus
+# <a name="dlp-issues-with-social-security-numbers"></a>DLP jautājumi ar sociālās apdrošināšanas numuriem
 
-Vai jums ir problēmas ar **Datu zaudējumu novēršanas (DLP)** saturu, lietojot Office 365 konfidenciālas informācijas tips, kas satur **Sociālās apdrošināšanas numurs (SAN)** nedarbojas? Šādā gadījumā pārliecinieties, ka jūsu saturs satur nepieciešamo informāciju par to, ko meklē DLP politiku. 
+**Svarīgi**: daudzi SharePoint Online un OneDrive klienti darbojas kritiskās biznesa lietojumprogrammas pret pakalpojumu, kas darbojas fonā. Tie ietver satura migrācija, datu zuduma novēršana (DLP) un dublēšanas risinājumi. Šo bezprecedenta reižu laikā mēs rīkojam, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami un uzticami lietotājiem, kuri ir atkarīgi no pakalpojuma vairāk nekā jebkad agrāk attālos darba scenārijos.
+
+Lai atbalstītu šo mērķi, mēs esam ieviesuši stingrākus ierobežošanas ierobežojumus fona lietotnēs (migrācija, DLP un dublēšanas risinājumi) darba dienās dienas laikā. Jums vajadzētu sagaidīt, ka šīs lietojumprogrammas šajā laikā sasniegs ļoti ierobežotu caurlaidspēju. Tomēr reģiona vakara un nedēļas nogales stundās pakalpojums būs gatavs apstrādāt ievērojami lielāku pieprasījumu apjomu no fona lietotnēm.
+
+**DLP problēmas ar SSNs**
+
+Vai jums ir problēmas ar **datu zuduma novēršana (DLP)** nestrādā saturu, kas satur **sociālās apdrošināšanas numurs (SSN)** , izmantojot sensitīvu informācijas tipa Office 365? Ja tā ir, pārliecinieties, ka jūsu saturs satur nepieciešamo informāciju par to, ko DLP politika meklē. 
   
-Piemēram, SSN politikai, kas konfigurēts ar ticamības līmeni, 85 %, šādi tiek novērtētas un ir noteikusi kārtulas, lai iedarbinātu:
+Piemēram, SSN politika, kas konfigurēta ar ticamības līmeni 85%, tiek novērtēti un ir jānosaka kārtulu aktivizācijai:
   
-- **[Formāts:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 cipari, kas var būt paraugs formatētu vai neformatētu
+- **[Formāts:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 cipari, kas var būt formatēts vai Neformatēts raksts
 
-- **[Modelis:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Četras funkcijas meklēt SSNs četrus dažādus modeļus:
+- **[Modelis:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Četras funkcijas meklē SSNs četros dažādos modeļos:
 
-  - Func_ssn atrod SSNs ar pre-2011 spēcīgu formatējumu, kas ir formatētas defises vai atstarpes (ddd dd dddd OR ddd dd dddd)
+  - Func_ssn atrod SSNs ar Pre-2011 spēcīgu formatējumu, kas formatēts domuzīmes vai atstarpes (DDD-dd-dddd vai DDD dd dddd)
 
-  - Func_unformatted_ssn atrod SSNs ar pre-2011 spēcīgu formatējumu, kas ir formatēta kā deviņus secīgus ciparus (ddddddddd)
+  - Func_unformatted_ssn atrod SSNs ar Pre-2011 spēcīgu formatējumu, kas ir Neformatēts kā deviņus secīgus ciparus (ddddddddd)
 
-  - Func_randomized_formatted_ssn atrod amatā 2011 SSNs, kas ir formatētas defises vai atstarpes (ddd dd dddd OR ddd dd dddd)
+  - Func_randomized_formatted_ssn atrod pēc-2011 SSNs, kas formatēti ar domuzīmes vai atstarpes (DDD-dd-dddd vai DDD dd dddd)
 
-  - Func_randomized_unformatted_ssn atrod amatā 2011 SSNs, kas ir formatēta kā deviņus secīgus ciparus (ddddddddd)
+  - Func_randomized_unformatted_ssn atrod post-2011 SSNs, kas ir Neformatēts kā deviņus secīgus ciparus (ddddddddd)
 
-- **[Kontrolsumma:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Nē, nav neviena kontrolsumma
+- **[Kontrolsumma:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Nē, nav kontrolsummas
 
-- **[Definīcija:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP politika ir 85 % ir pārliecināti, ka tas ir konstatējusi šāda veida konfidenciālu informāciju, ja laikā tuvumu 300 rakstzīmes:
+- **[Definīcija:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP politika ir 85% pārliecināta, ka tā tiek atklāta šāda veida sensitīva informācija, ja tuvums 300 rakstzīmes:
 
-  - [Func_ssn funkcija](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) atrod saturu, kas atbilst rakstam.
+  - [Funkcija Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) atrod saturu, kas atbilst paraugam.
 
-  - No [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) atslēgvārds ir atrasts. Atslēgvārdi piemēri ietver: *sociālās apdrošināšanas, sociālās nodrošināšanas #, Soc. Sec, SSN* . Piemēram, šādas izlases izraisītu DLP SSN politikā: **SSN: 489-36-8350**
+  - Tiek atrasts atslēgvārds no [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) . Atslēgvārdu piemēri ietver: *sociālo nodrošinājumu, sociālo nodrošinājumu #, SOC SEC, SSN* . Piemēram, šāda parauga izraisītu DLP SSN politika: **SSN: 489-36-8350**
   
-Papildinformāciju par to, kādām ir jābūt SSNs tiktu atrasta jūsu saturu, skatiet šī raksta sadaļā šādi: [Kāda jutīgas informācijas tipus meklēt SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+Lai iegūtu papildinformāciju par to, kas ir nepieciešams noteikt SSNs saturu, skatiet šajā sadaļā šo rakstu: [kāda sensitīva informācijas tipi meklē SSN](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
   
-Izmantojot dažādas iebūvētas sensitīvu informāciju tipu, skatiet šajā rakstā informāciju par to, kas ir nepieciešami citi veidi: [meklēt ko jutīgas informācijas veidus](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Izmantojot citu iebūvētu sensitīvo informācijas tipu, skatiet šo rakstu, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: [, kāda veida sensitīvo informācijas veidu meklē](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   

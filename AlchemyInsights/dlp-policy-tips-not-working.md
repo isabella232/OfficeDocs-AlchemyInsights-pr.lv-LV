@@ -1,5 +1,5 @@
 ---
-title: DLP politikas padomi, nedarbojas
+title: DLP politikas padomi nedarbojas
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530320"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932593"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP Padoms politikas jautājumiem
+# <a name="dlp-policy-tip-issues"></a>DLP politikas Padoms problēmas
 
-Lietojot **DLP politikām**, lietotāji var paziņot **politikas**padomi politikas pārkāpums. Administratori var konfigurēt politikas padomi, lai parādītu vienlaikus testēšana to DLP politiku vai politika ir pilna izpildes režīmā.
+**Svarīgi**: daudzi SharePoint Online un OneDrive klienti darbojas kritiskās biznesa lietojumprogrammas pret pakalpojumu, kas darbojas fonā. Tie ietver satura migrācija, datu zuduma novēršana (DLP) un dublēšanas risinājumi. Šo bezprecedenta reižu laikā mēs rīkojam, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami un uzticami lietotājiem, kuri ir atkarīgi no pakalpojuma vairāk nekā jebkad agrāk attālos darba scenārijos.
+
+Lai atbalstītu šo mērķi, mēs esam ieviesuši stingrākus ierobežošanas ierobežojumus fona lietotnēs (migrācija, DLP un dublēšanas risinājumi) darba dienās dienas laikā. Jums vajadzētu sagaidīt, ka šīs lietojumprogrammas šajā laikā sasniegs ļoti ierobežotu caurlaidspēju. Tomēr reģiona vakara un nedēļas nogales stundās pakalpojums būs gatavs apstrādāt ievērojami lielāku pieprasījumu apjomu no fona lietotnēm.
+
+**DLP politikas padomi**
+
+Izmantojot **DLP politiku**, lietotājiem var tikt paziņots par politikas pārkāpumu ar **politikas padomiem**. Administratori var konfigurēt politikas padomus, kas tiek rādīti, pārbaudot to DLP politiku vai kad politika ir pilnā izpildes režīmā.
   
-Lai konfigurētu politikas padomi, DLP politiku drošības un saskaņotības centrā pilnu izpildes režīmā, rīkojieties šādi:
+Lai konfigurētu politikas padomus DLP politikā drošības un atbilstības centrā pilnā izpildes režīmā, rīkojieties šādi:
   
-- Nodrošināt politikas padomi ir **iespējota** DLP kārtulu, izmantojot darbības [šeit](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Nodrošināt politikas padomi ir **iespējoti** DLP kārtulu, izmantojot darbības [šeit](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-- Nodrošinātu jūsu **saturs atbilst** ir **nepieciešama** lai iedarbinātu noteikums, kas izklāstīts šajā pantā [šeit](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Pārliecinieties, ka jūsu **saturs atbilst** kas ir **nepieciešams** , lai izraisītu noteikumu, kas izklāstīti šajā rakstā [šeit](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- Politikas tips parādīt OWA, gan Outlook. Tomēr, lietojot **Outlook 2013 vai jaunāku versiju**, politikas padomi tiek rādītas tikai konkrētos apstākļos. Šie nosacījumi ir uzskaitītas šeit: [Atbalstītās nosacījumi Outlook 2013 vai vēlāk parādītu politikas padomi](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Politikas padomi parādīt gan OWA un Outlook. Tomēr, izmantojot **Outlook 2013 vai jaunāku versiju**, politikas padomi tiek parādīti tikai konkrētos apstākļos. Šie nosacījumi ir norādīti šeit: [atbalstītie nosacījumi programmai Outlook 2013 vai jaunākai versijai par politikas padomu parādīšanu](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
 
-Skatiet papildu informāciju par DLP politikas padomi,: [Parādīt DLP politikas politikas padomi](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Lai iegūtu papildinformāciju par DLP politikas tips, skatiet: [Rādīt politikas padomi DLP politikas](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
