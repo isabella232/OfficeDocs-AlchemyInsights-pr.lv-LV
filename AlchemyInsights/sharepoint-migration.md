@@ -10,18 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: d54d3adbaa697c4abda7cb52214c79f136b37daa
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932737"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958617"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Opciju migrēšana uz SharePoint Online
 
-**Svarīgi**: daudzi SharePoint Online un OneDrive klienti darbojas kritiskās biznesa lietojumprogrammas pret pakalpojumu, kas darbojas fonā. Tie ietver satura migrācija, datu zuduma novēršana (DLP) un dublēšanas risinājumi. Šo bezprecedenta reižu laikā mēs rīkojam, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami un uzticami lietotājiem, kuri ir atkarīgi no pakalpojuma vairāk nekā jebkad agrāk attālos darba scenārijos.
-
-Lai atbalstītu šo mērķi, mēs esam ieviesuši stingrākus ierobežošanas ierobežojumus fona lietotnēs (migrācija, DLP un dublēšanas risinājumi) darba dienās dienas laikā. Jums vajadzētu sagaidīt, ka šīs lietojumprogrammas šajā laikā sasniegs ļoti ierobežotu caurlaidspēju. Tomēr reģiona vakara un nedēļas nogales stundās pakalpojums būs gatavs apstrādāt ievērojami lielāku pieprasījumu apjomu no fona lietotnēm.
+**Svarīgi**: šo bezprecedenta laikos, mēs veikt pasākumus, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami-Lūdzu, apmeklējiet [SharePoint Online pagaidu līdzekļu korekcijas](https://aka.ms/ODSPAdjustments) , lai iegūtu vairāk informācijas.
 
 **Migrācijas opcijas**
 
@@ -31,11 +29,11 @@ Lai iegūtu plašāku informāciju par satura migrāciju, lūdzu, apmeklējiet t
 
 - [SharePoint migrācijas rīks](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [Sākt darbu ar migrācijas pārvaldnieku](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [Darba sākšana ar migrācijas pārvaldnieku](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
 - [SharePoint Online un ODB migrācijas ātrums](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [Izvairīties no ierobežotas vai bloķēts SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Izvairīšanās no ierobežošanas vai bloķēšanas pakalpojumā SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
 - [SharePoint migrācijas novērtēšanas rīks (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
