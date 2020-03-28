@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: 812444589d5a5bf766bbc6f466077d4ca829d79f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932241"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958761"
 ---
 # <a name="sharepoint-migration-performance"></a>SharePoint migrācijas veiktspēja
 
-**Svarīgi**: daudzi SharePoint Online un OneDrive klienti izmanto uzņēmumam kritiski svarīgas lietojumprogrammas pakalpojumā, kas darbojas fonā. Tostarp satura migrēšanu, datu zuduma novēršanu (DLP) un dublējumkopiju izveides risinājumus. Šajos bezprecedenta laikos mēs veicam pasākumus, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami un uzticami lietotājiem, kuri, strādājot attālināti, vairāk nekā jebkad agrāk ir atkarīgi no šī pakalpojuma.
-
-Šī mērķa atbalstam esam ieviesuši stingrākus ierobežojumus fona lietojumprogrammām (migrēšana, DLP un dublējumkopiju izveides risinājumi) darbdienu dienas stundās. Paredzams, ka šo lietojumprogrammu caurlaidspēja šajā laikā būs ļoti ierobežota. Tomēr vakara un nedēļas nogales stundās reģionā pakalpojums būs gatavs apstrādāt ievērojami lielāku pieprasījumu daudzumu no fona lietojumprogrammām.
+**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 **Migrācijas veiktspēja**
 
