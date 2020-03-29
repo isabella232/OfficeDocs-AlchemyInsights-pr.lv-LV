@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856474"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030407"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams bieži sastopamās problēmas un risinājumi
+
+**Svarīgi**: pēdējā Teams lietojuma palielināšanās dēļ, kad piešķirat Teams licenci lietotājam, var paiet 24 stundas, pirms lietotāji tiks pilnībā iestatīti. Līdz tam jūs nevarēsiet piešķirt Teams politikas, un viņiem, iespējams, nebūs piekļuves dažiem Teams līdzekļiem, piemēram, zvanīšanai un audiokonferencēm.
+
+**Bieži sastopamās problēmas un risinājumi**
 
 Lai saņemtu precīzāku atbildi, mēģiniet pārfrāzēt jautājumu, lai tas iekļautu kļūdas, ar kurām sastopaties, vai Teams līdzekļus, kurus izmantojat.
 
@@ -66,7 +70,7 @@ Visiem Teams klientiem:
     - [Privāto kanālu dalība un iestatījumi](https://docs.microsoft.com/microsoftteams/private-channels#manage-private-channel-membership-and-settings)
 
 - **Sapulču politikas**: sapulces politikas tiek izmantotas, lai kontrolētu līdzekļus, kas ir pieejami sapulces dalībniekiem jūsu organizācijas lietotāju ieplānoto sapulču laikā. Pēc politikas izveides un izmaiņu ieviešanas, varat politikai pievienot lietotājus. 
-    - **Sapulču politikas izveide vai maiņa**: lai veiktu izmaiņas vai izveidotu sapulču politiku, dodieties uz **Microsoft Teams administrēšanas centru > Sapulces > Sapulču politikas**. Atlasiet politiku no saraksta vai atlasiet Pievienot. Ja veidojat jaunu politiku, pievienojiet nosaukumu un aprakstu. Nosaukums nedrīkst saturēt speciālās rakstzīmes un būt garāks par 64 rakstzīmēm Atlasiet vēlamos iestatījumus un pēc tam noklikšķiniet uz **Saglabāt**.
+    - **Sapulču politikas izveide vai maiņa**: lai veiktu izmaiņas vai izveidotu sapulču politiku, dodieties uz **Microsoft Teams administrēšanas centru > Sapulces > Sapulču politikas**. Atlasiet politiku no saraksta vai atlasiet Pievienot. Ja veidojat jaunu politiku, pievienojiet nosaukumu un aprakstu. Nosaukums nedrīkst saturēt speciālās rakstzīmes un būt garāks par 64 rakstzīmēm. Atlasiet vēlamos iestatījumus un pēc tam noklikšķiniet uz **Saglabāt**.
 
         Piemēram, jums ir vairāki lietotāji un jūs vēlaties ierobežot viņu sapulcēm nepieciešamo datu pārraides joslas platumu. Jūs varat izveidot jaunu pielāgoto politiku ar nosaukumu “Ierobežotais joslas platums” un atspējot sekojošus iestatījumus:
 
