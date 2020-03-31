@@ -12,20 +12,24 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664327"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059743"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Kā pievienot vai rediģēt VatID
 
-1. Microsoft 365 administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**Piezīme**: ja atrodaties valstī, kurā tiek izmantots pievienotās vērtības nodoklis (PVN), piemēram, Apvienotajā Karalistē, Microsoft rēķinu izrakstīšana aprēķina jūsu PVN un rēķina summu. Papildinformāciju skatiet rakstā Eiropas Komisijas publicētā [VIES atruna](https://go.microsoft.com/fwlink/?LinkID=841741) .
+
+**Pievienot vai rediģēt VatID**
+
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** \> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Atrodiet abonementa karti, kuru vēlaties atjaunināt.
 
-3. Sadaļā **Settings _ Amp_ Actions** atlasiet **Rediģēt pakalpojuma lietojuma adresi**.
+3. Sadaļā **iestatījumu & darbības** atlasiet **Rediģēt pakalpojuma lietojuma adresi**.
 
 4. Lapā **pakalpojuma lietojuma adreses rediģēšana** ievadiet PVN ID lodziņā **PVN numurs** un pēc tam atlasiet **saglabāt**.
 
