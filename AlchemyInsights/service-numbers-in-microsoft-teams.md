@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954010"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105318"
 ---
 # <a name="service-numbers-in-teams"></a>Pakalpojumu numuri Teams
 
 Pakalpojuma tālruņa numuriem ir lielāka vienlaicīgas zvanīšanas kapacitāte nekā lietotāja vai abonenta tālruņa numuriem. 
 
-- [Pārskatiet dažādus veidus, kā **saņemt pakalpojumu numuru**](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
+- [Pārskatiet dažādus veidus, kā saņemt pakalpojumu numuru](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
 
-- [Pārskatiet, kā **pārvērst lietotāja numuru uz pakalpojumu numuru,**](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+- [Pārskatiet, kā pārvērst lietotāja numuru uz pakalpojumu numuru](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+
+Papildinformāciju skatiet rakstā [Organizācijas tālruņu numuru pārvaldība](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).
