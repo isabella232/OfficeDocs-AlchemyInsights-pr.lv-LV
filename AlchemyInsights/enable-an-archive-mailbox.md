@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736296"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132618"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
 
-Arhīva pastkastes Office 365 (saukta arī par *tiešsaistes arhīviem*) nodrošināt lietotājiem papildu e-pasta krātuvi. Lietotāji var pārvietot vai kopēt vienumus uz to arhīva pastkaste un administratori var izveidot arhīva politika, kas automātiski pārvieto vienumus arhīva pastkastes.
+Arhīva pastkastes Office 365 (saukta arī par *tiešsaistes arhīviem* vai *oriģinālu arhīvu*) lietotājiem nodrošina papildu e-pasta krātuvi. Lietotāji var pārvietot vai kopēt vienumus uz to arhīva pastkaste un administratori var izveidot arhīva politika, kas automātiski pārvieto vienumus arhīva pastkastes.
   
 Lai izveidotu arhīva pastkasti, ir šādi:
   
@@ -27,15 +27,29 @@ Lai izveidotu arhīva pastkasti, ir šādi:
 
 2. Pierakstieties pakalpojumā Office 365, izmantojot savu administratora kontu.
 
-3. Drošības &amp; atbilstības centra kreisajā rūtī atlasiet **datu pārvaldības** \> **Arhīvs**.
+3. Drošības &amp; atbilstības centra kreisajā rūtī atlasiet **informācijas pārvaldības** \> **Arhīvs**.
 
 4. Atlasiet lietotāju, kura arhīva pastkasti vēlaties iespējot.
 
-5. Detalizētās informācijas rūtī pa labi atlasiet **Iespējot** un pēc tam atlasiet **Jā** brīdinājuma ziņojumā, lai iespējotu arhīva pastkaste.
+5. Detalizētās informācijas rūtī pa labi noklikšķiniet uz **Iespējot** un pēc tam brīdinājuma ziņojumā, lai iespējotu arhīva pastkaste noklikšķiniet uz **Jā** .
 
-Varat arī lielapjoma iespējot arhīva pastkastes, atlasot vairākus lietotājus (izmantojot taustiņus **Shift** vai **CTRL** ) un pēc tam atlasot **Iespējot** detalizētās informācijas rūtī.
+Jūs varat arī lielapjoma iespējot arhīva pastkastes, atlasot vairākus lietotājus (izmantojot taustiņus **Shift** vai **CTRL** ) un pēc tam noklikšķinot uz **Iespējot** detalizētās informācijas rūtī.
   
-Papildinformāciju skatiet sadaļā
+### <a name="shared-mailboxes"></a>Koplietotās pastkastes
+
+Lai iespējotu arhivēšanu koplietotai pastkastei, ir nepieciešama Exchange Online 2. plāna licence vai Exchange Online Plan 1 licence ar Exchange Online arhivēšanas licenci.  
+
+Lai iespējotu arhivēšanu koplietotai pastkastei:
+
+1. Dodieties uz [Exchange administrēšanas centrs](https://outlook.office365.com/ecp) un pierakstieties, izmantojot savu administratora kontu.
+
+2. Dodieties uz **adresātiem** > , kas**kopīgoti**.
+
+3. Atlasiet koplietoto pastkasti.
+
+4. Detalizētās informācijas rūtī pa labi, sadaļā oriģinālu **Arhīvs**noklikšķiniet uz **Iespējot**un pēc tam noklikšķiniet uz **Jā** , lai iespējotu arhīva pastkasti.
+
+Lai uzzinātu vairāk, lasiet:
   
 - [Office 365 arhīva pastkastu iespējošana](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
