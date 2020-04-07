@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164126"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160823"
 ---
-# <a name="update-or-add-a-new-payment-method"></a>Atjauniniet vai pievienojiet jaunu maksājuma veidu
+# <a name="payment-declined"></a>Maksājums noraidīts
 
-1. Pārejiet uz lapu **norēķinu** > **rēķini & maksājumu** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">apmaksas veidi</a> .
-2. Atlasiet **pievienot maksājuma veidu** vai izvēlēties karti vai bankas kontu, lai atjauninātu un atlasītu **Rediģēt**.
-3. Atjauniniet savu maksājuma veida informāciju (nosaukums uz kartes vai bankas konta, rēķina adreses, tālruņa numura vai beigu datuma), pēc tam atlasiet **saglabāt**.
-4. Neaizmirstiet mainīt veidu, kādā maksājat par abonementu (-iem) ar šo jauno maksājuma veidu. Instrukcijas par to, kā to izdarīt, ir nākamajā sadaļā.
+Microsoft mēģinās iekasēt karti vairākas reizes 3-4 nedēļas pēc rēķina datuma.  Ja šim norēķinu periodam esat saņēmis tikai vienu vai divus paziņojumus par noraidīšanu, korporācija Microsoft automātiski mēģinās iekasēt maksu no jūsu maksājumu instrumenta.  
 
-Ja esat pievienojis jaunu karti un joprojām saņemat paziņojumu par samazināšanos vecajā Kredītkartē, iespējams, šī jaunā karte ir jāpiesaista abonementam.
+**Svarīgi**: ja esat pievienojis jaunu karti un joprojām saņemat paziņojumu par samazināšanos vecajā Kredītkartē, iespējams, šī jaunā karte ir jāsaista ar abonementu.
 
-1. Doties uz **norēķinu** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">produktiem & pakalpojumiem</a>
-2. Atlasiet abonementu, kuru vēlaties apmaksāt ar jauno karti vai bankas kontu. Sadaļā " **norēķini** " blakus maksājuma metodei atlasiet **Rediģēt**.
-3. Atlasiet **mainīt** blakus pašreizējam maksājuma metodei.
+1. Pārejiet uz sadaļu **norēķini > [produktiem & pakalpojumiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+
+2. Atlasiet abonementu, kuru vēlaties apmaksāt ar jauno karti vai bankas kontu. Sadaļā " **norēķini** " blakus maksājuma metodei noklikšķiniet uz **Rediģēt**.
+
+3. Noklikšķiniet uz **mainīt** blakus pašreizējam apmaksas metodei.
+
 4. Nolaižamajā izvēlnē atlasiet alternatīvu maksājuma veidu vai pievienojiet jaunu maksājuma veidu.
 
-[Maksājumu metožu pievienošana, atjaunināšana vai noņemšana](https://go.microsoft.com/fwlink/?linkid=2118133)
+**Atjauniniet vai pievienojiet jaunu maksājuma veidu**
+
+1. Pārejiet uz lapu **norēķinu > rēķini & maksājumi > [maksājumu veidi](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+
+2. Noklikšķiniet uz **pievienot maksājuma veidu**, izvēlieties karti vai bankas kontu, lai atjauninātu un noklikšķiniet uz **Rediģēt**.
+
+3. Atjauniniet maksājuma veida informāciju (kartes vai bankas konta nosaukums, rēķina adrese, tālruņa numurs vai derīguma termiņš), pēc tam noklikšķiniet uz **saglabāt**.
+
+4. Neaizmirstiet mainīt veidu, kādā maksājat par abonementu (-iem) ar šo jauno maksājuma veidu. Lai uzzinātu vairāk, lasiet rakstu [Maksāšanas metožu pievienošana, atjaunināšana vai dzēšana](https://go.microsoft.com/fwlink/?linkid=2118133). 
