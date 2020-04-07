@@ -11,14 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002304"
 - "4473"
-ms.openlocfilehash: 3f45d9dca00804cacb4063a41a2bba5a375df643
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+- "9001497"
+- "4736"
+- "3551"
+ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116518"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160859"
 ---
 # <a name="reactivate-your-subscription"></a>Abonementa atkārtota aktivizēšana
+
+Ja jūsu abonementa derīgums beidzas vai korporācija Microsoft ir atspējojusi jūsu abonementu, vai arī esat to atcēlis abonementa darbības laikā, varat to aktivizēt atkārtoti administrēšanas centrā. 
 
 1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
@@ -27,3 +32,19 @@ ms.locfileid: "43116518"
 3. Apstipriniet maksājuma informāciju.  Šeit varat arī atjaunināt esošo maksājuma informāciju.  Kad esat ievadījis maksāšanas metodi, noklikšķiniet uz **Atkārtoti aktivizēt**.
 
 Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+
+**Abonementa atjaunošanas pārvaldība**
+
+Lai pārvaldītu mēneša vai gada abonementus, jūs varat ieslēgt vai izslēgt periodiskos norēķinus.
+
+1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+
+2. Izvēlieties abonementu, kuram vēlaties pārvaldīt periodiskos norēķinus. 
+
+3. Sadaļā Norēķini, pie Tiks atjaunots vai Beigsies, noklikšķiniet uz **rediģēt**.
+
+4. Periodisko norēķinu iestatījumu rūtī, atlasiet **IZSLĒGT**, lai to izslēgtu. Ja periodiskie norēķini jau ir izslēgti, noklikšķiniet uz **Mēneša** vai **Vienreizējs**, lai ieslēgtu. 
+
+5. Noklikšķiniet **Iesniegt izmaiņas**.
+
+Lai uzzinātu vairāk, lasiet [Periodisko norēķinu izslēgšana vai ieslēgšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
