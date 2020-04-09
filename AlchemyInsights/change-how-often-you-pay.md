@@ -1,5 +1,5 @@
 ---
-title: Mainīt, cik bieži jūs maksājat
+title: Mainīt to, cik bieži maksājat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386908"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195025"
 ---
-# <a name="change-how-often-you-pay"></a>Mainīt, cik bieži jūs maksājat
+# <a name="change-how-often-you-pay"></a>Mainīt to, cik bieži maksājat
 
- **Vēlaties mainīt maksājumu biežumu?** Ja jūs vēlaties mainīt, cik bieži jums ir jāmaksā par jūsu Office 365 biznesa abonementu, vai nu no gada, mēneša vai mēnešu līdz ikgadējā, mēs varam jums palīdzēt ar to. Jums vajadzēs iegādāties pašu abonementu ar jaunu maksājumu biežumu un atcelt veco abonementu. Aprunāties ar atbalsta inženieri, lūdzu, izmantojiet opciju "Ļaujiet mums piezvanīt jums".
+Iegādājoties abonementu, varat izvēlēties mēneša vai gada rēķinus. Lai mainītu, cik bieži tiek izrakstīts rēķins par abonementu, veiciet tālāk norādītās darbības.
+
+1. Administrēšanas centrā atveriet lapu **norēķinu> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+
+2. Atrodiet abonementu, kuru vēlaties mainīt. Sadaļā **norēķini** noklikšķiniet uz **Rediģēt**, kas atrodas blakus **rēķinā katru mēnesi** vai **katru gadu**.
+
+3. Izvēlieties opciju, cik bieži vēlaties izrakstīt rēķinu, un pēc tam atlasiet **mainīt**.
