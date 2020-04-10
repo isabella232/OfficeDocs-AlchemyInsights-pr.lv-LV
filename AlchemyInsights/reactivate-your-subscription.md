@@ -23,7 +23,7 @@ ms.locfileid: "43160859"
 ---
 # <a name="reactivate-your-subscription"></a>Abonementa atkārtota aktivizēšana
 
-Ja jūsu abonementa derīgums beidzas vai korporācija Microsoft ir atspējojusi jūsu abonementu, vai arī esat to atcēlis abonementa darbības laikā, varat to aktivizēt atkārtoti administrēšanas centrā. 
+Ja jūsu abonementa derīgums beidzas vai korporācija Microsoft ir atspējojusi jūsu abonementu, vai arī esat to atcēlis abonementa darbības laikā, varat abonementu aktivizēt atkārtoti administrēšanas centrā. 
 
 1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
@@ -35,15 +35,15 @@ Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://do
 
 **Abonementa atjaunošanas pārvaldība**
 
-Lai pārvaldītu mēneša vai gada abonementus, jūs varat ieslēgt vai izslēgt periodiskos norēķinus.
+Lai pārvaldītu mēneša vai gada norēķinus, jūs varat ieslēgt vai izslēgt periodiskos norēķinus.
 
 1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Izvēlieties abonementu, kuram vēlaties pārvaldīt periodiskos norēķinus. 
 
-3. Sadaļā Norēķini, pie Tiks atjaunots vai Beigsies, noklikšķiniet uz **rediģēt**.
+3. Sadaļā “Norēķini” blakus opcijai “Tiks atjaunots” vai “Derīguma beigas” noklikšķiniet uz **rediģēt**.
 
-4. Periodisko norēķinu iestatījumu rūtī, atlasiet **IZSLĒGT**, lai to izslēgtu. Ja periodiskie norēķini jau ir izslēgti, noklikšķiniet uz **Mēneša** vai **Vienreizējs**, lai ieslēgtu. 
+4. Periodisko norēķinu iestatījumu rūtī atlasiet **IZSLĒGT**, lai to izslēgtu. Ja periodiskie norēķini jau ir izslēgti, noklikšķiniet uz **Katru mēnesi** vai **Vienreizējs**, lai ieslēgtu. 
 
 5. Noklikšķiniet **Iesniegt izmaiņas**.
 
