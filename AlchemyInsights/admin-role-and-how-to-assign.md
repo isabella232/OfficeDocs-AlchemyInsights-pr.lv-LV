@@ -1,5 +1,5 @@
 ---
-title: Administratora lomu un to, kā piešķirt
+title: Administratora loma un tās piešķiršana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737088"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183404"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Kas ir administratora lomas un kā tās var piešķirt?
+# <a name="admin-roles"></a>Administratoru lomas
 
-Izskatās, ka jums ir daži jautājumi par admin lomām. Šie panti ir jāatbild uz visiem jūsu jautājumiem.
-  
-- [Par administratora lomām](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- Atlasiet [Lomas](https://admin.microsoft.com/Adminportal/Home#/roles) administrēšanas centrā, lai piešķirtu vai uzzinātu vairāk par administratora lomām.
 
-- [Piešķirt administratora lomas](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-Neatbildēja uz jūsu jautājumu? nav problēmu! Izmantojiet opciju "piezvaniet jums", lai runātu ar atbalsta speciālistu.
-  
+- Pēc tam atlasiet lomas nosaukumu(s) un noklikšķiniet uz **Piešķirt lomu**vai noklikšķiniet uz **Salīdzināt lomas**, lai uzzinātu vairāk.
