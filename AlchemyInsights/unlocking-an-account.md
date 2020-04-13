@@ -11,27 +11,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 7a1629c43fbb263439515e5e2c9dff53ab26d667
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: f66eb26df12412162e6f092c2528138bb30b7eb2
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211616"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231426"
 ---
-# <a name="unlocking-an-account"></a><span data-ttu-id="7eb33-102">Konta atbloķēšana</span><span class="sxs-lookup"><span data-stu-id="7eb33-102">Unlocking an account</span></span>
+# <a name="unlocking-an-account"></a><span data-ttu-id="be98a-102">Konta atbloķēšana</span><span class="sxs-lookup"><span data-stu-id="be98a-102">Unlocking an account</span></span>
 
-<span data-ttu-id="7eb33-103">Iespējams, ka lietotājiem ir bloķēta piekļuve Office 365 nepareizas paroles ievadīšanas mēģinājumu dēļ.</span><span class="sxs-lookup"><span data-stu-id="7eb33-103">It's possible users are locked out of Office 365 due to bad password attempts.</span></span> <span data-ttu-id="7eb33-104">Lai palīdzētu lietotājiem no jauna pierakstīties pakalpojumā Microsoft 365, varat veikt tālāk minētās darbības.</span><span class="sxs-lookup"><span data-stu-id="7eb33-104">To help users sign back in to Microsoft 365, you can attempt the following steps.</span></span>
+<span data-ttu-id="be98a-103">Iespējams, ka lietotājiem ir bloķēta piekļuve Office 365 nepareizas paroles ievadīšanas mēģinājumu vai citu kompromitētu darbību dēļ.</span><span class="sxs-lookup"><span data-stu-id="be98a-103">It's possible users are locked out of Office 365 due to bad password attempts or other compromises.</span></span> <span data-ttu-id="be98a-104">Lai palīdzētu lietotājiem no jauna pierakstīties pakalpojumā Microsoft 365, **pirms atbalsta pieprasījuma iesniegšanas, varat veikt tālāk minētās darbības**.</span><span class="sxs-lookup"><span data-stu-id="be98a-104">To help users sign back in to Microsoft 365, **you can attempt the following steps before opening a Support Request**.</span></span> 
 
-<span data-ttu-id="7eb33-105">**Lietotāja paroles atiestatīšana**</span><span class="sxs-lookup"><span data-stu-id="7eb33-105">**Reset the User Password**</span></span>
+<span data-ttu-id="be98a-105">**E-pasts ierobežots**</span><span class="sxs-lookup"><span data-stu-id="be98a-105">**Email Restricted**</span></span>
 
-1. <span data-ttu-id="7eb33-106">Administrēšanas centrā dodieties uz **Lietotāji > [Aktīvie lietotāji](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span><span class="sxs-lookup"><span data-stu-id="7eb33-106">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+<span data-ttu-id="be98a-106">Ja kādam no jūsu lietotājiem ir aizliegts nosūtīt e-pasta ziņojumus, kā administratoram jums ir tiesības [atbloķēt kontu](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span><span class="sxs-lookup"><span data-stu-id="be98a-106">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span></span> <span data-ttu-id="be98a-107">Stundas laikā pēc ierobežojuma noņemšanas lietotājs varēs sūtīt e-pasta ziņojumus.</span><span class="sxs-lookup"><span data-stu-id="be98a-107">The user will be able to send email within an hour after removing the restriction.</span></span>
 
-2. <span data-ttu-id="7eb33-107">Atlasiet lietotāju un noklikšķiniet uz **Atiestatīt paroli**.</span><span class="sxs-lookup"><span data-stu-id="7eb33-107">Select the user and click **Reset Password**.</span></span>
+<span data-ttu-id="be98a-108">**Lietotāja paroles atiestatīšana**</span><span class="sxs-lookup"><span data-stu-id="be98a-108">**Reset the User Password**</span></span>
 
-<span data-ttu-id="7eb33-108">**Pārliecinieties, vai lietotājam ir atļauts pierakstīties**</span><span class="sxs-lookup"><span data-stu-id="7eb33-108">**Make sure the user is allowed to sign in**</span></span>
+1. <span data-ttu-id="be98a-109">Administrēšanas centrā dodieties uz **Lietotāji > Aktīvie** lietotāji.</span><span class="sxs-lookup"><span data-stu-id="be98a-109">In the admin center, go to **Users > Active Users**.</span></span>
 
-1. <span data-ttu-id="7eb33-109">Administrēšanas centrā dodieties uz **Lietotāji > [Aktīvie lietotāji](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span><span class="sxs-lookup"><span data-stu-id="7eb33-109">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+2. <span data-ttu-id="be98a-110">Atlasiet lietotāju un noklikšķiniet uz **Atiestatīt paroli**.</span><span class="sxs-lookup"><span data-stu-id="be98a-110">Select the user and click **Reset Password**.</span></span>
 
-2. <span data-ttu-id="7eb33-110">Atlasiet lietotāju, noklikšķiniet uz **Citas darbības (...)** un pēc tam noklikšķiniet uz **Rediģēt pierakstīšanās statusu**.</span><span class="sxs-lookup"><span data-stu-id="7eb33-110">Select the user and click **More Actions (...)**, then click **Edit sign-in status**.</span></span> 
+<span data-ttu-id="be98a-111">**Pārliecinieties, vai lietotājam ir atļauts pierakstīties**</span><span class="sxs-lookup"><span data-stu-id="be98a-111">**Make sure the user is allowed to sign in**</span></span>
 
-<span data-ttu-id="7eb33-111">Lai iegūtu informāciju par citiem paroles atiestatīšanas scenārijiem, tostarp par pašapkalpošanās paroles atiestatīšanu, skatiet rakstu [Microsoft 365 darba paroļu atiestatīšana](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="7eb33-111">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+1. <span data-ttu-id="be98a-112">Administrēšanas centrā dodieties uz **Lietotāji > Aktīvie** lietotāji.</span><span class="sxs-lookup"><span data-stu-id="be98a-112">In the admin center, go to **Users > Active Users**.</span></span>
+
+2. <span data-ttu-id="be98a-113">Atlasiet lietotāju, noklikšķiniet uz **Citas darbības (...)** un pēc tam noklikšķiniet uz **Rediģēt pierakstīšanās statusu**.</span><span class="sxs-lookup"><span data-stu-id="be98a-113">Select the user and click **More Actions (...)**, then click **Edit sign-in status**.</span></span>
+
+<span data-ttu-id="be98a-114">Lai iegūtu informāciju par citiem paroles atiestatīšanas scenārijiem, tostarp par pašapkalpošanās paroles atiestatīšanu, skatiet rakstu [Microsoft 365 darba paroļu atiestatīšana](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="be98a-114">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+
+
+<span data-ttu-id="be98a-115">Ja kādam no jūsu lietotājiem ir aizliegts nosūtīt e-pasta ziņojumus, kā administratoram jums ir tiesības [atbloķēt kontu pašam](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **neatverot atbalsta pieteikumu**.</span><span class="sxs-lookup"><span data-stu-id="be98a-115">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **without opening a support case**.</span></span> <span data-ttu-id="be98a-116">Stundas laikā pēc ierobežojuma noņemšanas lietotājs varēs sūtīt e-pasta ziņojumus.</span><span class="sxs-lookup"><span data-stu-id="be98a-116">The user will be able to send email within an hour after removing the restriction.</span></span>
+
+<span data-ttu-id="be98a-117">Pakalpojums neļauj lietotājam nosūtīt e-pasta ziņojumus pēc tam, kad ir konstatēti pierādījumi par kompromitētu kontu un/vai izejošu surogātpastu.</span><span class="sxs-lookup"><span data-stu-id="be98a-117">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="be98a-118">Piesardzības nolūkā, izpildiet rakstā [Atbildēšana uz e-pasta konta apdraudējumu pakalpojumā Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) norādītās darbības.</span><span class="sxs-lookup"><span data-stu-id="be98a-118">As a precaution, follow the steps in [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) for the user.</span></span>
