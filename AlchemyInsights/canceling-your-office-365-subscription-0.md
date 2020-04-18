@@ -1,5 +1,5 @@
 ---
-title: Beidzu Office 365 abonementu?
+title: Office 365 abonementa atcelšana?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665551"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552676"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Beidzu Office 365 abonementu?
+# <a name="canceling-your-office-365-subscription"></a>Office 365 abonementa atcelšana?
 
-Mēs atvainojamies jums iet redzēt!
+Mēs atvainojamies redzēt jūs iet!
   
-Pamatojoties uz organizācijas datiem, mēs uzskatām, ka jūsu pašreizējo abonementi ir mazāk nekā 25 sēdvietas. Lai atceltu abonementu tiešsaistē, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu. Sadaļā **Iestatījumi & darbības** izvēlieties **atcelt abonementu**.
+Pamatojoties uz jūsu organizācijas datiem, mēs uzskatām, ka visiem jūsu pašreizējiem abonementiem ir mazāk nekā 25 vietas. Lai atceltu abonementu tiešsaistē, dodieties uz lapu **norēķinu** \> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) . Sadaļā **iestatījumu & darbības** izvēlieties **atcelt abonementu**.
   
-Lai uzzinātu vairāk, skatiet sadaļu [atcelt jūsu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Atmaksa: jebkurš pronominālā kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.** 
+
+**Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**. 
+
+Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

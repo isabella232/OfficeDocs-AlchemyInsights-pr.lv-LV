@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541793"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552892"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>SharePoint migrācijas rīka problēmu novēršana un kļūdas
-
-**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 Dažas bieži sastopamas problēmas un kļūdas var rasties, izmantojot SharePoint migrācijas rīks (SPMT). Lūdzu, atsauces uz saites zemāk, lai iegūtu vairāk informācijas.
 

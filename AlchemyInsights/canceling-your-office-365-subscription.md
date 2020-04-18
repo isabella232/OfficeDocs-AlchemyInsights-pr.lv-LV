@@ -1,5 +1,5 @@
 ---
-title: Beidzu Office 365 abonementu?
+title: Office 365 abonementa atcelšana?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665443"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552568"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Beidzu Office 365 abonementu?
+# <a name="canceling-your-office-365-subscription"></a>Office 365 abonementa atcelšana?
 
-Mums būs žēl redzēt jūs iet, bet, ja jūs vēlaties, lai atceltu abonementu, šeit ir jūsu iespējas:
+Mums būs žēl redzēt jūs iet, bet, ja jūs vēlaties, lai atceltu savu abonementu, šeit ir jūsu iespējas:
   
-- Ja esat izmēģinājuma klientu, nav nekas, lai atceltu. Izmēģinājuma abonementu beidzas automātiski, ja vien jums sniedz maksājumu metodi.
+- Ja esat izmēģinājuma klients, nekas nav jāatceļ. Izmēģinājuma abonementu termiņš beigsies automātiski, ja vien jūs nesniedzat maksājuma veidu.
 
-- Ja jums ir mazāk nekā 25 piešķirtās licences, var atcelt abonementu internetā. Dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu. Sadaļā **Iestatījumi & darbības** izvēlieties **atcelt abonementu**.
+- Ja jums ir mazāk nekā 25 piešķirto licenču, varat atcelt abonementu tiešsaistē. Pārejiet uz lapu **norēķinu** \> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) . Sadaļā **iestatījumu & darbības** izvēlieties **atcelt abonementu**.
 
-- Ja jums ir vairāk nekā 25 piešķirtās licences, jūs varat vai nu noņemt lietotājus līdz brīdim, kad jums ir mazāk nekā 25 vai izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri.
+- Ja jums ir vairāk nekā 25 piešķirto licenču, varat noņemt lietotājus, līdz ir mazāk par 25, vai izmantot opciju "piezvaniet jums", lai runātu ar atbalsta speciālistu.
+  
+**Atmaksa: jebkurš pronominālā kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.** 
 
-Lai uzzinātu vairāk, skatiet sadaļu [atcelt jūsu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**. 
+
+Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
