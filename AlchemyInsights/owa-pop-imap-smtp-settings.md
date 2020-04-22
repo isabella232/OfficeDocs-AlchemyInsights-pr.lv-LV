@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP un SMTP iestatījumus programmā Outlook Web
+title: POP, IMAP un SMTP iestatījumi programmā Outlook Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556500"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721142"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP iestatījumus Outlook Web
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP iestatījumi programmai Outlook tīmeklī
 
-Ja vēlaties pievienot citu pasta app, kas atbalsta POP, IMAP vai SMTP Office 365 kontu, šeit ir rokasgrāmata servera iestatījumus, ir nepieciešama:
+Ja vēlaties pievienot savu Microsoft 365 kontu citai pasta lietojumprogrammai, kas atbalsta POP, IMAP vai SMTP, tālāk ir norādīti manuālie servera iestatījumi.
   
-- **IMAP servera nosaukums:** outlook.office365.com
-- **IMAP porta:** 993
+- **IMAP servera nosaukums:** Outlook.office365.com
+- **IMAP ports:** 993
 - **IMAP šifrēšanas metode:** SSL/TLS
-- **POP servera nosaukums:** outlook.office365.com  
-- **POP port:** 995  
-- **POP šifrēšanas metode:** SSL/TLS  
-- **SMTP servera nosaukums:** smtp.office365.com
+- **POP servera nosaukums:** Outlook.office365.com  
+- **Pop ports:** 995  
+- **Pop šifrēšanas metode:** SSL/TLS  
+- **SMTP servera nosaukums:** SMTP.office365.com
 - **SMTP ports:** 587
 - **SMTP šifrēšanas metode:** STARTTLS

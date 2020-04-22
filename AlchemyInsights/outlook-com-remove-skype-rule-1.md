@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Remove Skype
+title: Outlook.com noņemt Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743820"
 ---
-# <a name="skype-icon-missing"></a>Skype ikonas trūkst
+# <a name="skype-icon-missing"></a>Trūkst Skype ikonas
 
-Mēs esam uz laiku izņemt Skype ikona no kā daļu no projektēšanas atsvaidzināt un funkciju atjaunināt mēs esam satraukti, izplatot Outlook.com. Mēs novērtējam jūsu pacietību, kamēr mēs sagatavojam jaunus un uzlabotus pieredzi jums.
+Mēs esam uz laiku noņemt Skype ikona no Outlook.com, kas ir daļa no dizaina atsvaidzināt un iezīme Update mēs esam satraukti par izplatot. Mēs novērtējam jūsu pacietību, kamēr mēs sagatavojam jaunu un uzlabotu pieredzi jums.
 
-Jūs joprojām varat izmantot Skype caur pārlūkprogrammu pie [web.skype.com](https://web.skype.com/).
+Jūs joprojām varat izmantot Skype caur jūsu pārlūkprogrammā [Web.Skype.com](https://web.skype.com/).

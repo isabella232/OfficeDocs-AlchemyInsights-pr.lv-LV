@@ -1,9 +1,9 @@
 ---
-title: Savukārt ārējās vietnes koplietošanas ieslēgšana vai izslēgšana
+title: Ārējās kopīgošanas ieslēgšana vai izslēgšana vietnei
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732003"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Savukārt ārējā SharePoint vietnes koplietošanas ieslēgšana vai izslēgšana
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Ārējās koplietošanas ieslēgšana vai izslēgšana SharePoint vietnei
 
-Site:
+Vietnei:
   
-1. Jaunu SharePoint administrēšanas centru, kreisajā rūtī noklikšķiniet uz **vietnes**.
+1. Jaunajā SharePoint administrēšanas centrā kreisajā rūtī noklikšķiniet uz **vietnes**.
     
-2. Atlasiet vietu vai vietām, un uz lentes noklikšķiniet uz **koplietošana**.
+2. Atlasiet vietni vai vietnes un lentē noklikšķiniet uz **koplietošana**.
     
-Pēc noklusējuma jaunās vietnes, kas lietotājiem izveidot gan (komandu vietnes, kas pieder pie grupām, Office 365) un saziņas vietnes ir, pašā koplietošanas iestatīšana kā uzņēmuma mēroga iestatījumu, ja vien uzņēmuma līmeņa iestatījums ļauj koplietot failus, izmantojot saites, kas nav nepieciešama pierakstīšanās. Šajā gadījumā vietņu ir atļauts koplietot ar jauniem un esošajiem ārējiem lietotājiem, kas pierakstīties. Lai mainītu iestatījumus konkrētām vietnēm, izmantojiet jauno SharePoint administrēšanas centru.
+Pēc noklusējuma jaunas vietnes, kas lietotājiem izveidot (gan grupas vietnes, kas pieder Office 365 grupas un saziņas vietnes) ir tāds pats koplietošanas iestatījumu kā uzņēmuma iestatījumu, ja vien organizācijas mēroga iestatījums ļauj koplietot failus, izmantojot saites, kas nav nepieciešama pierakstīšanās. Šajā gadījumā vietnes ļauj koplietot ar jauniem un esošiem ārējiem lietotājiem, kuri ir pierakstīgi. Lai mainītu iestatījumu konkrētām vietnēm, izmantojiet jauno SharePoint administrēšanas centrs.
   
 > [!NOTE]
-> Ārējās koplietošanas iestatījumu jebkurā vietā var būt stingrāki nekā uzņēmuma mēroga iestatījumu, taču ne vairāk pieļaujamām nekā uzņēmuma līmeņa iestatījums. 
+> Jebkuras vietnes ārējās koplietošanas iestatījums var būt ierobežojošāks nekā jūsu organizācijas iestatījums, bet ne vairāk, nekā tas ir iespējams visā organizācijā. 
   
 

@@ -1,9 +1,9 @@
 ---
-title: 8000088, izņemot e-pastu Outlook.com
+title: 8000088 saglabāt e-pastu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,27 +14,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b04901aa77135da48df9ce56f0af11b9ea77bbaf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759049"
 ---
-# <a name="saving-messages-in-outlookcom"></a>Ziņojumu saglabāšanas Outlook.com
+# <a name="saving-messages-in-outlookcom"></a>Ziņojumu saglabāšana programmā Outlook.com
 
-Outlook.com nevar saglabāt e-pasta ziņojumus, bet tos var izdrukāt PDF formātā, kuras var saglabāt jūsu datorā.
+E-pasta ziņojumus nevar saglabāt Outlook.com, bet tos var izdrukāt PDF failā, kuru var saglabāt datorā.
 
-Microsoft drukātu uz PDF utilīts, kas ir iekļauts Windows 10 ļauj drukāt jebkuru e-pasta ziņojumu tieši uz PDF.
+Microsoft Print to PDF lietderība iekļauta Windows 10 ļauj jums izdrukāt jebkuru e-pasta ziņojumu tieši uz PDF.
 
 1. Atlasiet ziņojumu, kuru vēlaties saglabāt.
-2. Atlasiet trīs punkti <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- ziņojumu un pēc tam atlasiet augšdaļā <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+2. Atlasiet trīs punktus <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ ziņojuma augšdaļā un pēc tam atlasiet <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
  **Drukāt**.
-3. Atlasiet **Drukāt** vēlreiz un printera nolaižamajā izvēlnē atlasiet **Microsoft drukātu PDF formātā**.
-4. Atlasiet **Drukāt**.
-5. Ievadiet faila nosaukumu un pēc tam izvēlieties **saglabāt**.
+3. Vēlreiz atlasiet **Drukāt** un nolaižamajā izvēlnē printeris atlasiet **Microsoft Print to PDF**.
+4. Atlasiet vienumu **Drukāt**.
+5. Ievadiet faila nosaukumu un pēc tam atlasiet **saglabāt**.
 
-**Piezīme:** Tas nav ieteicams vai koplietošanas datoros kā citi lietotāji varētu piekļūt jebkurā PDF failā, saglabājiet datorā un nedzēsiet.
+**Piezīme:** Koplietošanas vai publiskos datoros tas nav ieteicams, jo citi lietotāji var piekļūt visiem datorā saglabātajiem PDF failiem un tos nedzēst.
 
-Plašāku informāciju par drukāšanu skatiet [Drukāt e-pasta ziņojumus un pielikumus, kalendārus Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Papildinformāciju par drukāšanu skatiet sadaļā [e-pasta ziņojumu, pielikumu un kalendāru drukāšana Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

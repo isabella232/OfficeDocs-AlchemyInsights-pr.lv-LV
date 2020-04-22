@@ -1,9 +1,9 @@
 ---
-title: How-to-importa-nk2-failus
+title: kā-to-Import-nk2-files
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770253"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759339"
 ---
-# <a name="how-to-import-nk2-files"></a>Kā importēt nk2 failu 
+# <a name="how-to-import-nk2-files"></a>Kā importēt nk2 failus 
 
-Kad pirmoreiz startējat Microsoft Outlook 2013, Outlook 2016, Outlook 2019 vai Outlook Office 365 savu segvārdu kešatmiņu (saglabāts *profila_nosaukums*nk2 failu) tiks importēts slēpto ziņojumu noklusējuma ziņojumu krātuvē.
+Startējot programmu Microsoft Outlook 2013, Outlook 2016, Outlook 2019 vai Outlook Microsoft 365 pirmo reizi, segvārdu kešatmiņa (saglabāti *profilanosaukums*failu) tiek importēti slēpto ziņojumu noklusējuma ziņojumu krātuvē.
 
-Nk2 failu importēšanas Outlook 2013, Outlook 2016, Outlook 2019 vai Outlook Office 365, pārliecinieties, ka nk2 fails atrodas šajā mapē: %appdata%\Microsoft\Outlook
+Lai importētu nk2 failus programmā Outlook 2013, Outlook 2016, Outlook 2019 vai Outlook Microsoft 365, pārliecinieties, ka nk2 fails ir šajā mapē:%appdata%\Microsoft\Outlook
 
-**Piezīme**: nk2 failu nedrīkst būt tāds pats nosaukums kā pašreizējais profils 2013 programmu Outlook vai Outlook 2016. Pēc noklusējuma profila nosaukums ir "Outlook". Lai pārbaudītu profila nosaukumu, rīkojieties šādi: 
-1. Noklikšķiniet uz **Sākt**un pēc tam noklikšķiniet uz **Vadības panelis**.
+**Piezīme**. nk2 failu jābūt tādu pašu nosaukumu kā pašreizējo Outlook 2013 vai Outlook 2016 profilu. Pēc noklusējuma profila nosaukums ir "Outlook". Lai pārbaudītu profila nosaukumu, rīkojieties šādi: 
+1. Noklikšķiniet uz **Sāktun**pēc tam noklikšķiniet uz **vadības panelis**.
 2. Veiciet dubultklikšķi uz **pasts**.
-3. Dialoglodziņā pasta iestatījumi atlasiet **Rādīt profilus**.
-4. Izvēlieties **Sākt** > **darboties**.
-5. Lodziņā **Atvērt** ierakstiet *outlook.exe /importnk2*un izvēlieties **Labi**. 
+3. Dialoglodziņā pasta iestatīšana atlasiet **Rādīt profilus**.
+4. Atlasiet **Sākt** > **palaišanu**.
+5. Lodziņā **Atvērt** ierakstiet *Outlook. exe/importnk2un*pēc tam atlasiet **Labi**. 
 
-Pēc importēšanas nk2 failu, esošu segvārdu kešatmiņas uzglabāti jūsu pastkastītē tiek sapludinātas faila saturu.
+Pēc. nk2 faila importēšanas faila saturs tiek sapludināts esošo segvārdu kešatmiņu, kas glabājas jūsu pastkastē.
 
-**Piezīme**: nk2 failu ar faila nosaukuma paplašinājumu. old pārdēvē nākamreiz, kad startēsit Outlook 2013, Outlook 2016, Outlook 2019 vai Outlook Office 365. Ja vēlaties nk2 failu importēt atkārtoti, vispirms noņemiet faila nosaukuma paplašinājumu. old.
+**Piezīme**. nk2 fails tiek pārdēvēts ar. Old faila nosaukuma paplašinājumu nākamreiz, kad startējat programmu Outlook 2013, Outlook 2016, Outlook 2019 vai outlook Microsoft 365. Ja vēlaties atkārtoti importēt nk2 failu, vispirms noņemiet faila nosaukuma paplašinājumu. old.
 
-Plašāku informāciju skatiet [importēšana vai kopēt uz citu datoru automātiskās pabeigšanas sarakstu](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Papildinformāciju skatiet [automātiskās pabeigšanas saraksta importēšana vai kopēšana citā datorā](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

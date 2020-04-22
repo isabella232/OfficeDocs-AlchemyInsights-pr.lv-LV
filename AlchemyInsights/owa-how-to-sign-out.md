@@ -1,9 +1,9 @@
 ---
-title: ĢKā izrakstītos no Outlook Web
+title: Kā Izrakstīties no Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556680"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742956"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>ĢKā izrakstītos no Outlook Web
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kā Izrakstīties no Outlook tīmeklī
 
-Lai izrakstītos no Outlook Web, atlasiet vārdu vai attēlu augšējā labajā stūrī un **Izrakstīties**.
+Lai Izrakstīties no Outlook tīmeklī, augšējā labajā stūrī atlasiet savu vārdu vai attēlu un atlasiet **Izrakstīties**.
 
-Pārtraukt automātiski pierakstīties uz darbu vai skolu kontu:
+Lai pārtrauktu automātisku pierakstīšanos darba vai skolas kontā:
 
-1. Atlasiet vārdu vai attēlu un **Izrakstīties**.
-1. Dodieties uz [Outlook.office.com](https://outlook.office.com/) un atlasiet **lietot citu kontu**.
-1. Pierakstīties ar e-pasta adresi, kuru vēlaties izmantot.
+1. Atlasiet savu vārdu vai attēlu un izvēlieties **Izrakstīties**.
+1. Dodieties uz [Outlook.Office.com](https://outlook.office.com/) un atlasiet **izmantot citu kontu**.
+1. Pierakstieties, izmantojot e-pasta adresi, kuru vēlaties izmantot.
 
-Lai uzzinātu vairāk, skatiet [kā pierakstīties uz, vai no Outlook Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Lai uzzinātu vairāk, skatiet sadaļu [kā pierakstīties programmā Outlook tīmeklī vai ārpus tā](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

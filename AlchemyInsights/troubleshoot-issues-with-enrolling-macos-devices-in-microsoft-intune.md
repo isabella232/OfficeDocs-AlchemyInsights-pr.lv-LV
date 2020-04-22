@@ -1,9 +1,9 @@
 ---
-title: Novērst problēmas, kas saistītas ar mācās macOS ierīces Microsoft Intune
+title: Novērst problēmas, kas saistītas ar macOS ierīču, kurās ir Microsoft InTune.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500006"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736129"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Novērst problēmas, kas saistītas ar mācās macOS ierīces Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Novērst problēmas, kas saistītas ar macOS ierīču, kurās ir Microsoft InTune.
 
-Pārskata resursu, kas uzskaitīti turpmāk, lai atrisinātu jūsu problēmu tagad.
+Pārskatiet tālāk uzskaitītos resursus, lai atrisinātu problēmu tūlīt.
   
-1. [Intune novēršana portāls](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) jālieto diagnosticē un risina ar kopēju reģistrācijas nepilnības. Recenzējiet [šo dokumentu](https://docs.microsoft.com/intune/help-desk-operators) sīkāku informāciju.
+1. Izmantojiet [InTune problēmu novēršanas portālu](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , lai diagnosticētu un novērstu vispārējas reģistrācijas kļūmes. Pārskatiet [šo dokumentu](https://docs.microsoft.com/intune/help-desk-operators) , lai iegūtu detalizētu informāciju.
 
-2. Pārskatiet [šo dokumentu](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) sarakstu bieži sastopamās kļūdas, kas novērstu iesaistīšanos un rezolūcijas katram.
+2. Pārskatiet [šo dokumentu](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) , lai iegūtu sarakstu ar izplatītākās kļūdas, kas nepieļauj iesaistīšanos un rezolūcijas.
 
-3. [Uzziniet, kā uzņemt macOS ierīces Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
+3. [Uzziniet, kā reģistrēt macOS ierīces Microsoft InTune](https://docs.microsoft.com/intune/macos-enroll).
 
-[Pārbaudiet lietotāja rokasgrāmatu, lai reģistrētu Microsoft Intune macOS ierīci](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Pārbaudiet galalietotāja rokasgrāmatu, lai reģistrētu macOS ierīci Microsoft InTune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

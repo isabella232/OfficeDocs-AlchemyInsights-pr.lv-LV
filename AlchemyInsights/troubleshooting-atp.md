@@ -1,34 +1,34 @@
 ---
-title: Traucējummeklēšana Office 365 papildu draudus aizsardzības
+title: Problēmu novēršana Office 365 uzlabotā Pretdraudu aizsardzība
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765229"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732409"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Traucējummeklēšana Office 365 papildu draudus aizsardzības
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Problēmu novēršana Office 365 uzlabotā Pretdraudu aizsardzība
 
-- Vai jūs novērojat ziņojumu piegādes aizkavēšanos? Izmantojiet opciju [Dinamisko piegāde](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) ATP drošu pielikumu politiku. Tas palīdzēs izvairīties no ziņojumu kavējumiem, aizsargājot saņēmēju no ļaunprātīgu failus.
+- Vai jūs novērojat kavēšanās ziņu piegādi? Izmantojiet opciju [dinamiskā piegāde](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) jūsu ATP drošas pielikumu politikā. Tas palīdzēs izvairīties no ziņojumu kavējumiem, aizsargājot adresātus no ļaunprātīgiem failiem.
 
-- Vai vēlaties ziņot par viltus pozitīvi vai iegūt šķietami negatīvus rezultātus Microsoft Izmantojiet šo [saiti](https://www.microsoft.com/wdsi/filesubmission/) , lai iesniegtu analīzei failus.
+- Vai vēlaties ziņot par viltus pozitīviem vai viltus negatīviem korporācijai Microsoft? Izmantojiet šo [saiti](https://www.microsoft.com/wdsi/filesubmission/) , lai iesniegtu failus analīzei.
 
-- Vai jūs zināt, ka varat iespējot drošu saites aizsardzības iekšējo e-pastu nosūtīja starp saņēmējiem jūsu organizācijā? Rīkojieties šādi:
+- Vai zinājāt, ka varat iespējot drošu saišu aizsardzību iekšējam e-pastam, kas tiek sūtīts starp adresātiem jūsu organizācijā? Izpildiet tālāk norādītās darbības.
 
-  1. Dodieties uz [https://protection.office.com](https://protection.office.com) un pierakstieties ar pasaules administrators vai drošības administratora kontu.
+  1. Dodieties uz [https://protection.office.com](https://protection.office.com) un pierakstieties ar globālo administratora vai drošības administratora kontu.
 
-  2. Kreisajā navigācijas rūtī sadaļā **draudu pārvaldības** **politiku** izvēlēties \> **Drošas saites**.
+  2. Kreisajā navigācijas rūtī sadaļā **draudu pārvaldība**izvēlieties **politikas** \> **drošas saites**.
 
-  3. **Politiku, kas attiecas uz visu organizāciju** sadaļā Atlasiet politiku un pēc tam noklikšķiniet uz **Rediģēt**.
+  3. **Politikās, kas attiecas uz visu organizācijas** sadaļu, atlasiet politiku un noklikšķiniet uz **Rediģēt**.
 
-  4. Zem **Iestatījumi**ļauj **lietot drošas saites uz organizācijas ietvaros nosūtīto ziņojumu**.
+  4. Sadaļā **Iestatījumi**iespējojiet **lietot drošas saites uz ziņojumiem, kas tiek sūtīti organizācijas ietvaros**.

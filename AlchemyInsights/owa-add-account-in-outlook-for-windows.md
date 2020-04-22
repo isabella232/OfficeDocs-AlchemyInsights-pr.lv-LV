@@ -1,29 +1,29 @@
 ---
-title: Outlook interneta konta pievienošana Outlook for Windows
+title: Pievienot Outlook Web kontu Outlook Windows
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510990"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743208"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook interneta konta pievienošana programmai Microsoft Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook Web konta pievienošana programmai Outlook
 
-Šīs darbības ir vienādas neatkarīgi no tā, vai jūs pievienojat savu pirmo e-pasta konts vai papildu e-pasta kontu programmā Outlook.
+Šīs darbības ir vienādas neatkarīgi no tā, vai pievienojat savu pirmo e-pasta kontu vai papildu e-pasta kontus programmai Outlook.
 
 1. Atlasiet **failu** > **Pievienot kontu**.
-1. Tālāk redzamais ir atkarīga no jūsu Outlook versijai:
+1. Tas, ko redzat, ir atkarīgs no jūsu Outlook versijas:
     - **Outlook Office 365** un **Outlook 2016**, ievadiet savu e-pasta adresi un noklikšķiniet uz **izveidot savienojumu**.
-    - **2013 Outlook** un **Outlook 2010**, ievadiet savu vārdu, e-pasta adresi un paroli un noklikšķiniet uz **Tālāk**.
-1. Ja tiek prasīts, vēlreiz ievadiet savu paroli un pēc tam atlasiet **Labi** > **apdare** , sākt lietot e-pasta kontu programmā Outlook.
+    - **Outlook 2013** un **Outlook 2010**ievadiet savu vārdu, e-pasta adresi un paroli un noklikšķiniet uz **Tālāk**.
+1. Ja tiek pieprasīts, ievadiet savu paroli vēlreiz, pēc tam atlasiet **Labi** > **pabeigt** , lai sāktu izmantot savu e-pasta kontu programmā Outlook.
 
-Lai iegūtu papildinformāciju, skatiet [Outlook e-pasta konta pievienošana](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+Lai iegūtu papildinformāciju, skatiet [e-pasta konta pievienošana programmai Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).

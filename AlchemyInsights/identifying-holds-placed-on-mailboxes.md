@@ -1,9 +1,9 @@
 ---
-title: Identificējot aizturēšanas laist pastkastēm
+title: Identificējošu aizturēšanu, kas atrodas pastkastēs
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538797"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724783"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identificēt aizturēšanas laist pastkastēm
+# <a name="identify-holds-placed-on-mailboxes"></a>Identificētu aizturēšanas, kas ievietotas pastkastēs
 
-Jums ir Office 365 saturu, kas tiek **saglabāta,** **turiet** to nevar identificēt? Nepieciešams, lai **uzzinātu,** kur kuģa tilpnē atrodas uz **pastkasti** ? Ieguvusi (*aiztures funkcijas*) var piemērot vienu no šādām metodēm Office 365:
+Vai jums ir Microsoft 365 saturs, ko **saglabā** **aizturētais** , kuru nevar identificēt? Vai nepieciešams **noskaidrot** , kur atrodas **pastkastē** ? Aizturēšanas (*saglabāšanas funkcijas*) var lietot, izmantojot kādu no šīm metodēm:
   
-- Tiesvedības turēt
+- Tiesvedība aizturēšana
 
-- eDiscovery turēt
+- eDiscovery Hold
 
-- Vietā, turiet
+- In-Place Hold
 
-- Office 365 saglabāšanas politiku 
+- Microsoft 365 saglabāšanas politika 
 
-  - Konkrētu vietu saglabāšanas politika
+  - Konkrētas atrašanās vietas saglabāšanas politikas
 
-  - Uzņēmuma saglabāšanas politiku
+  - Organizācijas mēroga saglabāšanas politikas
 
-- Biroja 365 etiķetes
+- Microsoft 365 etiķetes
 
-Noteikt, kāda tipa kravas tiek lietota lietotāja pastkasti, skatiet [kā noteikt, kāda veida turēt laiž Exchange Online pastkasti](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Lai noteiktu, kāda veida aizturēts tiek lietots lietotāja pastkastei, skatiet, [kā noteikt, kāda veida aizturēts, kas atrodas Exchange Online pastkastē](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

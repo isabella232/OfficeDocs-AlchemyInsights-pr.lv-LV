@@ -3,7 +3,7 @@ title: 976-kā-to-Enable-tiesvedība-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398634"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720739"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Novietot pastkasti juridiskā aizturī
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398634"
 
 - Lai iespējotu viena lietotāja aizturēšana, [rīkojieties](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)šādi. Ja ir iespējota tiesas procesa aizturēšana, viss pastkastes saturs tiek saglabāts.
 
-- Lai saglabātu saturu visās uzņēmuma pastkastēs, varat izmantot [organizācijas mēroga Office 365 saglabāšanas politiku](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Ņemiet vērā, ka organizācijas mēroga saglabāšanas politikas, jaunu lietotāju tiks automātiski piešķirta politika.
+- Lai saglabātu saturu visās uzņēmuma pastkastēs, varat izmantot [organizācijas mēroga saglabāšanas politiku](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Ņemiet vērā, ka organizācijas mēroga saglabāšanas politikas, jaunu lietotāju tiks automātiski piešķirta politika.

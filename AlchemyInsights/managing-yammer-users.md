@@ -2,7 +2,7 @@
 title: Yammer lietotāju pārvaldīšana
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734928"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762468"
 ---
 # <a name="managing-yammer-users"></a>Yammer lietotāju pārvaldīšana
 
-1. Informāciju par Yammer lietotāju pārvaldību no Office 365, lūdzu, skatiet [Manage Yammer lietotāji visā to dzīves ciklā no office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Tas ietver informāciju par:
+1. Lai iegūtu informāciju par to, kā pārvaldīt Yammer lietotājus no Microsoft 365, lūdzu, skatiet [pārvaldīt Yammer lietotāji visā to dzīves ciklā](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Tas ietver informāciju par:
 
   - Lietotāja izveide
 
   - Lietotāju dzēšana
 
-  - Yammer lietotāju pārvaldīšana no Office 365
+  - Yammer lietotāju pārvaldīšana no Microsoft 365
 
-2. Lūdzu, skatiet [pievienot, bloķēt vai noņemt Yammer lietotājiem](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) informāciju par lietotāju pārvaldību no Yammer administrēšanas konsole. Tas ietver:
+2. Lūdzu, skatiet [pievienot, bloķēt vai noņemt Yammer lietotājiem](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) informāciju par lietotāju pārvaldību no Yammer administrēšanas konsole. Tas ietver:
 
   - Lietotāju uzaicināšana vai noņemšana
 

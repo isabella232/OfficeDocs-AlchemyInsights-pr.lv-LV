@@ -1,28 +1,28 @@
 ---
-title: Outlook.com mainīt izskatu jūsu pastkastes
+title: Outlook.com mainītu pastkastes izskatu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547693"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721965"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Mainītu pastkastes Outlook.com izskatu
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Mainiet Outlook.com pastkastes izskatu
 
-Ziņojumu sarakstā un lasīšanas rūts Outlook.com izskatu var mainīt.
+Ziņojumu saraksta un lasīšanas rūts izskatu var mainīt Outlook.com.
 
 - Lai mainītu ziņojuma loga izkārtojumu, atveriet [lasīšanas rūts](https://outlook.live.com/mail/options/mail/layout/readingPane) opcijas.
-- Mainīt, kā jūsu e-pasta tiek kārtots, ziņojumu saraksta augšdaļā atlasiet **filtru** > **Kārtot pēc** un izvēlieties, kā vēlaties sakārtot savu e-pastu.
-- Grupēt ziņojumus pēc sarunas, atveriet [ziņu organizācijas](https://outlook.live.com/mail/options/mail/layout/conversations) iespējas.
-- Lai ieslēgtu vai izslēgtu vērsta Inbox, atvērtu [izkārtojuma](https://outlook.live.com/mail/options/mail/layout/focused) opcijas.
+- Lai mainītu e-pasta kārtošanas veidu, ziņojumu saraksta augšdaļā atlasiet **Filtrēt** > **Kārtot pēc** un izvēlieties, kā vēlaties kārtot e-pasta ziņojumus.
+- Lai ziņojumus grupētu pēc sarunas, atveriet [ziņu organizācijas](https://outlook.live.com/mail/options/mail/layout/conversations) opcijas.
+- Lai ieslēgtu vai izslēgtu fokusēta Iesūtne, atveriet [izkārtojuma](https://outlook.live.com/mail/options/mail/layout/focused) opcijas.
