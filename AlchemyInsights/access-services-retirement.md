@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050496"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687265"
 ---
 # <a name="access-services-retirement"></a>Piekļuves pakalpojumu pensionēšanās
 
-Kā mēs sākotnēji paziņoja MC97576, martā 2017, un turpināja sazināties pēdējo gadu piekļuves pakalpojumi tiek pārtraukts no Office 365. Nākamā fāze šajā procesā būs Access Web datu bāzu noņemšana, kas izmanto SharePoint sarakstus kā pamatā esošo datu krātuvi.
+Kā mēs sākotnēji paziņoja MC97576, martā 2017, un turpināja sazināties pēdējo gadu piekļuves pakalpojumi tiek pensijā. Nākamā fāze šajā procesā būs Access Web datu bāzu noņemšana, kas izmanto SharePoint sarakstus kā pamatā esošo datu krātuvi.
 
 **Kā tas ietekmē mani?**
 

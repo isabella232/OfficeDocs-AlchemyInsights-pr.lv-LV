@@ -1,9 +1,9 @@
 ---
-title: 1575 PowerApps un plānot paplašinājums Microsoft Flow
+title: 1575-PowerApps un Microsoft Flow plāna paplašinājums
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554730"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667036"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps un Flow Microsoft plānu extension
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps un Microsoft Flow plāna paplašinājums
 
-Ja jūs plānojat pieprasījumu plāna paplašinājums **Microsoft plūsmas** vai **PowerApps** un jūsu īrnieks jau ir aktīvi lietotāji, viens no šādiem līdzekļiem, nav nepieciešams iesniegt atbalsta pieprasījumu.
+Ja plānojat pieprasīt **Microsoft Flow** vai **PowerApps** plāna paplašinājumu un jūsu nomniekam jau ir aktīvi lietotāji ar vienu no tālāk minētajiem līdzekļiem, nav nepieciešams iesniegt atbalsta pieprasījumu.
 
-- Izveidi un publicēšanu pielāgotu savienotāji PowerApps un Microsoft Flow
-- Integrēts plūsmu ārpus SharePoint un OneDrive HTTP pielāgotās darbības
-- Lokālajiem datiem caur vārteju uz lokālajiem datu integrācija
+- Pielāgotu savienotāju izveide un publicēšana platformā PowerApps un Microsoft Flow
+- HTTP pielāgotas darbības integrēti plūsma ārpus SharePoint un OneDrive
+- Lokālo datu integrācija, izmantojot lokālo datu vārteju
 
-Klienti ar aktīvu lietotāju šos līdzekļus saņems automātisku pagarināšanu līdz 2020. gada 31. janvārī, vai viņu esošo Office 365 abonementa derīguma termiņa beigām, atkarībā no tā, kas ir garāks.
+Klienti, kuriem ir aktīvi šo līdzekļu lietotāji, saņems automātisku paplašinājumu līdz 31. janvārim 2020 vai to esošā Microsoft 365 abonementa termiņa beigām, kurš ir ilgāks.

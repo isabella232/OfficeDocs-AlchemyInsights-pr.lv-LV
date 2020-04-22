@@ -1,9 +1,9 @@
 ---
-title: Samazinājās kredīta kartes
+title: Noraidīta kredītkarte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665206"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705092"
 ---
-# <a name="declined-credit-card"></a>Samazinājās kredīta kartes
+# <a name="declined-credit-card"></a>Noraidīta kredītkarte
 
-Ja maksāsit ar kredītkarti, un jūsu kredītkartes ir samazinājies, jūs saņemsiet e-pastu, ļaujot jums zināt, ka mēs nevarējām apstrādāt maksājumu. Vēlreiz pārbaudiet, ka [kredītkartes dati](https://go.microsoft.com/fwlink/p/?linkid=842054) - kartes numuru, derīguma termiņu, nosaukumu uz kredītkartes un adresi, kā arī pilsētu, valsti un pasta indeksu - tieši tā, kā to dara uz kredītkartes un kredītkarte paziņojumu. Varat atjaunināt savas kredītkartes informāciju un nekavējoties iesniegt maksājumu, izmantojot opciju **nokārtot atlikumu** [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) lapā. 
+Ja maksājat ar kredītkarti un jūsu kredītkarte ir noraidīta, jūs saņemsit e-pasta ziņojumu par to, ka mēs nevarējām apstrādāt maksājumu. Vēlreiz pārbaudiet, vai kredītkartes [informācija](https://go.microsoft.com/fwlink/p/?linkid=842054) -kartes numurs, derīguma termiņš, vārds uz kredītkartes un adrese, tostarp pilsēta, valsts un pasta indekss, parādās tieši tāpat kā kredītkarte un kredītkartes izraksts. Varat atjaunināt savas kredītkartes informāciju un nekavējoties iesniegt maksājumu, lapā [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) izmantojot opciju **nokārtot bilanci** . 
 
-Lai uzzinātu vairāk, skatiet sadaļu "ko darīt, ja mans kredītkartes derīguma termiņš ir beidzies un manu maksājumu nokavēto?" kas [jāmaksā par jūsu Office 365 biznesa abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Lai uzzinātu vairāk, skatiet sadaļu "kā rīkoties, ja mana kredītkarte ir beigusies un maksājums nokavējams?" [Microsoft 365 uzņēmuma abonementa apmaksas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Ja joprojām saņemat ziņojumu "noraidīts", sazinieties ar savu banku. Tas ir iespējams, ka jūsu kredītkarti nav aktīvs — piemēram, ja kredītkarte nesen saņēmis pa pastu ar atjaunināto derīguma, joprojām iespējams aktivizēt. Jūsu banka var arī noteikt, ja jūsu kredītkartes tiešsaistes, starptautisko vai periodiskas darbības nav apstiprināta.
+Ja joprojām redzat ziņojumu "noraidīts", sazinieties ar savu banku. Iespējams, ka jūsu kredītkarte nav aktīva, piemēram, ja nesen saņēmāt kredītkarti pa pastu ar atjauninātu derīguma termiņu, iespējams, tā būs jāaktivizē. Jūsu banka var arī noteikt, vai jūsu kredītkarte nav apstiprināta tiešsaistes, starptautiskiem vai periodiskiem darījumiem.
   
-Papildinformāciju skatiet [problēmu novēršana kredītkaršu un bankas kontu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Lai iegūtu papildinformāciju, skatiet sadaļu [problēmu novēršana saistībā ar kredītkartēm un bankas kontiem](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

@@ -1,8 +1,8 @@
 ---
-title: Kļūdas kods 30125 4 vai 30125 1011 instalējot Office
+title: Kļūdas kods 30125-4 vai 30125-1011, instalējot Office
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527105"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703069"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kļūdas kods 30125 4 vai 30125 1011 instalējot Office
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kļūdas kods 30125-4 vai 30125-1011, instalējot Office
 
-Šī kļūda var redzēt, ja pretvīrusu programmatūru, ugunsmūra, starpniekservera iestatījumus vai savienojuma neļaut instalēt Office. Šeit ir dažas lietas, jūs varat mēģināt novērst šo problēmu:
+Šis kļūdas ziņojums var tikt parādīts, ja pretvīrusu programmatūra, ugunsmūris, starpniekservera iestatījumi vai savienojums neļauj instalēt Office. Tālāk ir norādītas dažas darbības, ko varat veikt, lai novērstu problēmu.
   
 - Restartējiet datoru un pārinstalējiet Office
 
-- Instalēt Office lietošana [Office bezsaistes uzstādītājs](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Instalēt Office, izmantojot [Office Offline Installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Uz laiku izslēdziet starpniekservera iestatījumus
+- Īslaicīgi izslēdziet starpniekservera iestatījumus
 
-- Uz laiku izslēgt pretvīrusu programmatūru
+- Pretvīrusu programmatūras īslaicīgi izslēgšana
 
-- Uz laiku izslēgt ugunsmūra
+- Īslaicīgi izslēdziet ugunsmūri
 
-Lai iegūtu papildinformāciju, skatiet [kļūdu kodu 30125 4 vai 30125 1011 instalējot Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Papildinformāciju skatiet sadaļā [kļūdas kods 30125-4 vai 30125-1011, instalējot Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

@@ -1,9 +1,9 @@
 ---
-title: Priekšapmaksas atjaunošanas
+title: Priekšapmaksas atjaunošana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666703"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666784"
 ---
-# <a name="prepaid-office-365-renewal"></a>Priekšapmaksas Office 365 atjaunošanu
+# <a name="prepaid-microsoft-365-renewal"></a>Priekšapmaksas Microsoft 365 atjaunošana
 
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Atrast jūs vēlaties pagarināt abonementu. Sadaļā **norēķinu** atlasiet **paplašināt beigu datumu**.
+2. Atrodiet abonementu, kuru vēlaties pagarināt. Sadaļā **norēķini** atlasiet **pagarināt beigu datumu**.
 
-3. **Pagarināt abonementu** rūtī atlasiet **izmantot jaunas un neizmantoto produkta atslēgu**, pēc tam atlasiet **nākamo**.
+3. Rūtī **paplašināt abonementu** atlasiet **lietot jaunu un neizmantoto produkta atslēgu un**pēc tam atlasiet **Tālāk**.
 
-4. Ievadiet produkta atslēgu un pēc tam atlasīt **nākamo**.
+4. Ievadiet produkta atslēgu un pēc tam atlasiet **Tālāk**.
 
 > [!NOTE]
-> Ja jums ir vairāk nekā viena produkta atslēgu, atlasiet **pievienot citu produkta atslēgu** , ievadiet tos.
+> Ja jums ir vairāk nekā viena produkta atslēga, varat atlasīt **pievienot citu produkta atslēgu** , lai ievadītu tās.
 
-5. Pārskatiet savu pasūtījumu detaļas un pēc tam atlasiet **izpirktu**.
+5. Pārskatiet informāciju par pasūtījumu un pēc tam atlasiet **izpirkt**.
 
-Lai uzzinātu vairāk, skatiet sadaļu [pievienot licences vai pagarināt abonementu jāmaksā, izmantojot produkta atslēgu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Papildinformāciju skatiet sadaļā [licenču pievienošana vai abonementa paplašināšana, kas samaksāta par produkta atslēgas lietošanu](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

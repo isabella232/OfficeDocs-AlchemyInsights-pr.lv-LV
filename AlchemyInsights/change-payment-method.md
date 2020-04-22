@@ -12,12 +12,12 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068293"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655505"
 ---
 # <a name="change-payment-method"></a>Mainīt maksājuma veidu
 
@@ -29,4 +29,4 @@ Varat pārbaudīt un mainīt maksāšanas metodi, kas ir konfigurēts Microsoft 
 
 3. Lai pabeigtu izmaiņas, izpildiet ekrānā norādītās darbības.
 
-Papildinformāciju skatiet sadaļā [Office 365 maksājumu metodes mainīšana uzņēmumiem](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Lai uzzinātu vairāk, skatiet sadaļu [maksājuma metodes maiņa Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method) uzņēmumiem

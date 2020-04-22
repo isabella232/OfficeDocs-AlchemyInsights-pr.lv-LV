@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770358"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642151"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problēmas, izveidojot grupu savienota vietnes SharePoint
 
@@ -26,7 +26,7 @@ Ja esat izdzēsis grupu un tās Savienoto vietni un vēlaties izveidot citu viet
    - Papildinformāciju par darba sākšanu programmā PowerShell skatiet rakstā [Darba sākšana ar SharePoint Online pārvaldības čaulu](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Noņemt vietni no izdzēstās vietnes, izmantojot PowerShell cmdlet [Noņemt SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) . PowerShell ir nepieciešams neatgriezeniski dzēst grupas vietnes.
 
-1. Ja veidojat grupai pievienotu vietni un saņemat brīdinājumu: **cita grupa ar šādu aizstājvārdu jau pastāv**, pārbaudiet esošās grupas no [Office 365 administrēšanas centrs](https://admin.microsoft.com/AdminPortal/Home#/groups). Lai novērstu šo problēmu, izdzēsiet esošo grupu, ja tā vairs nav nepieciešama vai izveidot vietni ar citu piešķirto aizstājvārdu.
+1. Ja veidojat ar grupu saistītu vietni un saņemat brīdinājumu: **cita grupa ar tādu pašu aizstājvārdu jau pastāv**, pārbaudiet esošās grupas no [Microsoft 365 administrēšanas centra](https://admin.microsoft.com/AdminPortal/Home#/groups). Lai novērstu šo problēmu, izdzēsiet esošo grupu, ja tā vairs nav nepieciešama vai izveidot vietni ar citu piešķirto aizstājvārdu.
 
 1. Ir dažādi veidi, kā izveidot un izmantot modernas grupas ar SharePoint.
 

@@ -3,7 +3,7 @@ title: Nav darba SSN kārtula DLP
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 4ec0df9d4954a8c65f0c34188d285dd8cf44a4f2
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977313"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704092"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP jautājumi ar sociālās apdrošināšanas numuriem
 
-**Svarīgi**: šo bezprecedenta laikos, mēs veikt pasākumus, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami-Lūdzu, apmeklējiet [SharePoint Online pagaidu līdzekļu korekcijas](https://aka.ms/ODSPAdjustments) , lai iegūtu vairāk informācijas.
+**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 **DLP problēmas ar SSNs**
 

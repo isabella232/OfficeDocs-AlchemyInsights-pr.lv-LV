@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132618"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703686"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
 
@@ -25,7 +25,7 @@ Lai izveidotu arhīva pastkasti, ir šādi:
   
 1. Doties uz [https://protection.office.com](https://protection.office.com).
 
-2. Pierakstieties pakalpojumā Office 365, izmantojot savu administratora kontu.
+2. Pierakstieties Microsoft 365, izmantojot savu administratora kontu.
 
 3. Drošības &amp; atbilstības centra kreisajā rūtī atlasiet **informācijas pārvaldības** \> **Arhīvs**.
 
@@ -51,6 +51,6 @@ Lai iespējotu arhivēšanu koplietotai pastkastei:
 
 Papildinformāciju skatiet rakstā:
   
-- [Office 365 arhīva pastkastu iespējošana](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Iespējot arhīva pastkastes](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Arhīva un dzēšanas politikas iestatīšana programmā Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Arhivēšanas un dzēšanas politikas iestatīšana](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

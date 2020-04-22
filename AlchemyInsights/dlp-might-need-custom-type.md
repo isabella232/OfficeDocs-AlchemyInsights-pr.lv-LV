@@ -3,7 +3,7 @@ title: DLP var būt nepieciešams pielāgots tips
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,16 +13,16 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 87fcb5c3cc9ccd525265097b66d9d9b3a85c5feb
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977277"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704496"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP var būt nepieciešams pielāgots tips
 
-**Svarīgi**: šo bezprecedenta laikos, mēs veikt pasākumus, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami-Lūdzu, apmeklējiet [SharePoint Online pagaidu līdzekļu korekcijas](https://aka.ms/ODSPAdjustments) , lai iegūtu vairāk informācijas.
+**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 **DLP var būt nepieciešams pielāgots informācijas tips**
 

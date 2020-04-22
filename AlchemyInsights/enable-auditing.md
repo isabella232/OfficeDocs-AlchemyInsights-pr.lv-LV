@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665083"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703650"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Audita žurnāla iespējošana un meklēšana
 
-**Office 365**
+**Microsoft 365**
 
-Lai meklētu Office 365 audita žurnālu, rīkojieties [šādi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Lai meklētu Microsoft 365 audita žurnālu [, rīkojieties šādi.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
 - Exchange administrēšanas darbības tiek auditēti pēc noklusējuma.
 
-- Pastkastes auditēšana ir iespējota pēc noklusējuma Office 365. Lai iegūtu papildinformāciju, skatiet [šo rakstu](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Pastkastes auditēšana ir iespējota pēc noklusējuma Microsoft 365. Lai iegūtu papildinformāciju, skatiet [šo rakstu](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 grupas pastkastes un publiskās mapes pastkastes Exchange Online neatbalsta audita reģistrēšanu.
 
@@ -44,6 +44,6 @@ Lai meklētu Office 365 audita žurnālu, rīkojieties [šādi](https://docs.mic
     - Vietnes administrēšanas darbības
     - Failu sinhronizācijas darbības
 
-- Informāciju par auditētajiem pasākumiem citās Office 365 pakalpojumos skatiet [šī raksta tabulā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Informāciju par auditētajiem pasākumiem citos pakalpojumos skatiet [šī raksta tabulā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
 - Bieži uzdoto jautājumu sarakstā [bieži uzdotie jautājumi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) par audita žurnāla meklēšanu.

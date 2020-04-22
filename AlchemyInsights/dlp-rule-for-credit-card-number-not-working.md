@@ -3,7 +3,7 @@ title: Nedarbojas DLP kārtula kredītkartes numurs
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 40a4a1668039b70455e09ee662359c05235645e8
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 80ff41b3e746f95278ccbf0df19eebb61f7f9ee0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977205"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704208"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP problēmas ar kredītkaršu numuriem
 
-**Svarīgi**: šo bezprecedenta laikos, mēs veikt pasākumus, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami-Lūdzu, apmeklējiet [SharePoint Online pagaidu līdzekļu korekcijas](https://aka.ms/ODSPAdjustments) , lai iegūtu vairāk informācijas.
+**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 **DLP problēmas ar kredītkaršu numuriem**
 

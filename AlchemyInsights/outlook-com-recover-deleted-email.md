@@ -1,9 +1,9 @@
 ---
-title: Atkopt izdzēstu e-pastu Outlook.com
+title: Atgūt svītrots e-pastu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545386"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666964"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Atkopt izdzēstu e-pastu Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Atgūt svītrots e-pasts Outlook.com
 
-1. Kreisajā rūtī atlasiet **Izdzēsto vienumu**.
-2. Atlasiet vienumu, kuru vēlaties atgūt un atlasiet **atjaunot**.
-3. Ja ziņa nav mapē Izdzēstie vienumi, atzīmējiet **atkopt vienumus, kas izdzēsti no šīs mapes** loga augšdaļā.
+1. Kreisajā rūtī atlasiet **Izdzēstie vienumi**.
+2. Atlasiet vienumu, kuru vēlaties atkopt, un atlasiet **atjaunot**.
+3. Ja ziņojums nav izdzēstos vienumus, loga augšdaļā atlasiet **atkopt vienumus, kas dzēsti no šīs mapes** .
 
- **Svarīgu informāciju par dzēsto vienumu:**
+ **Svarīga informācija par izdzēstajiem vienumiem:**
   
-- Noņemt no mapes Izdzēstie vienumi vienumi piedzenami par 30 dienām.
-- Ja neesat pierakstījies savā kontā par 365 dienām, jūsu e-pastu tiks dzēsti un nevar atgūt.
-- Nav iespējams piedzīt, e-pasts izdzēsts no bērnu kontus.
+- Vienumi, kas noņemti no mapes Izdzēstie vienumi, ir atkopjami 30 dienas.
+- Ja neesat pierakstījies savā kontā par 365 dienām, jūsu e-pasts tiks dzēsts, un to nevar atkopt.
+- Nav iespējams atkopt no bērnu kontiem dzēstus e-pasta ziņojumu.
 
-Lai uzzinātu vairāk, skatiet [atjaunošanas dzēst e-pasta ziņojumus Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai uzzinātu vairāk, skatiet sadaļu [dzēstu e-pasta ziņojumu atjaunošana programmā Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

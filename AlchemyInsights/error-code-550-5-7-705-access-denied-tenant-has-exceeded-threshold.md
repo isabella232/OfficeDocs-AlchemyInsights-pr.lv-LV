@@ -1,8 +1,8 @@
 ---
-title: Kļūdas kods 550 5.7.705 piekļuve liegta, īrniekam ir pārsniegts slieksnis
+title: Kļūdas kods 550 5.7.705 piekļuve liegta, Nomnieka ir pārsniegts slieksnis
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527226"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702997"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 liegta piekļuve, īrniekam ir pārsniegts slieksnis
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 piekļuve liegta, Nomnieka pārsniegts slieksnis
 
-Šis ziņojums parādās, kad pārāk daudz mēstuļu vai surogātpasta pasts ir nosūtījis jūsu organizācijai un bloku mēs izvirzām izejošā pasta.
-Cēloņi ir apdraudēta lokālajiem serveriem vai apdraudēta administratora kontiem, kas ir izmantoti, lai izveidotu savienotāji. Vai nu nosacījums var ļaut mēstuļu izsijāt caur jūsu organizācijā.
+Šis ziņojums tiek rādīts, ja jūsu organizācija ir nosūtījusi pārāk daudz surogātpasta vai lielapjoma pasta sūtījumu un jūs izejošajam pastam ievietojat bloku.
+Bieži cēloņi ir apdraudēta lokālajiem serveriem vai kompromitētu admin kontus, kas izmantoti, lai izveidotu savienotāji. Jebkurš nosacījums var ļaut surogātpastu iziet caur jūsu organizāciju.
 
-Noņemt šo bloku, jums saprast un izskaidrot iemeslu atbalstu aģents, kā arī pamatā esošo problēmu novērst.
-Pēc tam, kad esat gatavs, noklikšķiniet uz **sazināties ar mums** tālāk.
+Lai noņemtu šo bloku, jums ir jāsaprot un jāpaskaidro iemesls atbalsta aģentam, kā arī jālabo pamata problēma.
+Noklikšķiniet uz **sazināties ar mums** tālāk, kad esat gatavs.

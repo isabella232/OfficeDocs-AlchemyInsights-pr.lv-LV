@@ -1,22 +1,22 @@
 ---
-title: Vai jums redzēt e-pasta aizkavēšanās vai rindā pasta?
+title: Vai redzat e-pasta aizkaves vai rindā ievietoto pastu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703794"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Vai jums redzēt e-pasta aizkavēšanās vai rindā pasta?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Vai redzat e-pasta aizkaves vai rindā ievietoto pastu?
 
-Mēs nesen uzsāka deprecating vecākas Office 365 SMTP galapunktiem. Šie Office 365 mērķa vērtības bija pieejami izmantojiet MX ierakstu un gudri saimnieki pirms 2012. Ja jūs joprojām izmantojot vienu no šīm vērtībām, vecākiem, jums vajadzēs atjaunināt Office 365 galapunkta atbalstītās vērtības. Lai iegūtu papildu informāciju, skatiet [KB atbalstīt](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Mēs nesen sāka deprecating vecāku SMTP galapunktu. Šīs mērķa vērtības bija pieejamas izmantošanai MX ierakstus un smart hosts pirms 2012. Ja joprojām izmantojat kādu no šīm vecākajām vērtībām, šis galapunkts ir jāatjaunina uz atbalstītu vērtību. Lai iegūtu papildinformāciju, skatiet šo [atbalsta KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
