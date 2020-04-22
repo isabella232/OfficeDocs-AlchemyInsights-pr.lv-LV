@@ -10,18 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664255"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709558"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Kā piešķirt licenci lietotājam
 
-Lietotājam ir nepieciešama Office 365 licence, lai varētu piekļūt pakalpojumiem. Tālāk ir norādītas darbības, kas jāveic, lai pievienotu, mainītu vai noņemtu licenci no lietotāja.
+Lietotājam ir nepieciešama licence, lai varētu piekļūt pakalpojumiem. Tālāk ir norādītas darbības, kas jāveic, lai pievienotu, mainītu vai noņemtu licenci no lietotāja.
   
 1. Administrēšanas centrā, dodieties uz **lietotāju** \> [aktīvo lietotāju](https://go.microsoft.com/fwlink/p/?linkid=834822) lapu.
 

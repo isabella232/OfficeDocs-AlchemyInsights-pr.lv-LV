@@ -1,9 +1,9 @@
 ---
-title: Palīdzēt izprast savu rēķinu
+title: Palīdziet izprast savu rēķinu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710090"
 ---
-# <a name="help-understanding-your-bill"></a>Palīdzēt izprast savu rēķinu
+# <a name="help-understanding-your-bill"></a>Palīdziet izprast savu rēķinu
 
-Jāmaksā par jūsu Office 365 biznesa parakstīšanās summa atspoguļo licences cenu, kas pareizināta ar iegādāto licenču un visus nodokļus/nodevas skaitu.
+Summa, kas ir jāmaksā par abonementu, atspoguļo licences cenu, kas reizināta ar iegādāto licenču skaitu un visiem nepieciešamajiem nodokļiem/maksām.
   
-Ja summa apmaksai ir atšķirīgs, tad sagaidāms, tur ir daži iemesli, tas var notikt:
+Ja summa apmaksai ir atšķirīga, tad ir gaidāms, ka tas var notikt ar dažiem iemesliem:
   
-- Licences tika pievienots vai noņemts no jūsu abonementu. Ja licences ir mainījusies vidējā termiņā, tas atspoguļojas šādi rēķina. Jūs varat redzēt, kredītu un atkārtoti izrakstīt rēķinu par iepriekšējā periodā pakalpojumu ņemtu vērā šīs izmaiņas.
+- Licences tika pievienotas vai noņemtas no abonementa. Kad licences tiek mainītas termiņa vidusposmā, tas tiek atspoguļots šo rēķinu. Iespējams, redzēsit kredītu un jaunu rēķinu par iepriekšējo pakalpojumu periodu, lai uzskaitītu šīs izmaiņas.
 
-- Šis abonements tika atcelta. Partneris saņems rēķinu pēc anulēšanas ar jebkuru izcilu bilanci mīnus nekādi kredīti.
+- Abonements tika anulēts. Pēc anulēšanas saņemsit rēķinu ar visu nenomaksāto summu, no kuras atskaitīti visi kredīti.
 
-- Abonementu pagarināt uz jaunu termiņu un licences cenas mainīt.
+- Abonements tika atjaunots uz jaunu termiņu, un licenču cena mainījās.
 
-Plašāku informāciju par jūsu rēķina skatiet: [saprast savu rēķinu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Papildinformāciju par rēķinu skatiet šeit: [rēķina izpratne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

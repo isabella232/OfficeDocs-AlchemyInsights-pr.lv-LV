@@ -1,9 +1,9 @@
 ---
-title: 500 app paroles
+title: 500 lietotņu paroles
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707846"
 ---
-# <a name="app-passwords"></a>App. paroles
+# <a name="app-passwords"></a>Lietotņu paroles
 
-App parole ir kods, kas dod app vai ierīces atļauju piekļūt Office 365 darba vai mācību kontu. Ja jūsu kontam ir nepieciešama vairāku faktoru autentifikaciju (MFA) un app ir izveidots savienojums ar jūsu kontu, jums vajadzēs radīt app paroli, lai app var izveidot savienojumu ar biroja 365. Piemēram, Outlook 2016 un iepriekšējām versijām Outlook pieprasa app paroli.
+Programmas parole ir kods, kas programmai vai ierīcei piešķir atļauju piekļūt jūsu Microsoft darba vai mācību kontam. Ja jūsu kontam ir nepieciešama vairāku faktoru autentifikācija (MFA) un programma izveido savienojumu ar jūsu kontu, jums ir nepieciešams ģenerēt programmas paroli, lai programma varētu izveidot savienojumu ar Microsoft. Piemēram, Outlook 2016 un vecākas versijas Outlook pieprasīt programmas paroli.
 
- **Piezīme**: pirms jūs mēģiniet veikt šādas darbības, pārbaudiet, vai ar Office 365 admin MFA ir nepieciešama jūsu kontā. Ja tā nav, aprakstītās darbības opcijas nebūs pieejamas.
+ **Piezīme**: pirms mēģināt veikt šādas darbības, pārbaudiet ar Microsoft 365 admin, ka MFA ir nepieciešams jūsu kontam. Ja tā nav, darbībās aprakstītās opcijas jums nebūs pieejamas.
 
-1. Pierakstieties pakalpojumā Office 365 ar jūsu darba vai skolas kontu un paroli.
+1. Pierakstieties ar savu darba vai skolas kontu un paroli.
 
-2. Izvēlieties **iestatīt tūlīt**.
+2. Izvēlieties **iestatīt to tagad**.
 
-3. Atlasiet autentifikācijas metodi un izpildiet norādījumus.
+3. Atlasiet savu autentifikācijas metodi un sekojiet uzvednēm.
 
-4. Kad esat pārbaudījis, vai jūsu kontaktpersonas alternatīvo metodi, izvēlēties **nākamo**.
+4. Pēc alternatīvās kontaktpersonas metodes verificēšana izvēlieties **Tālāk**.
 
-5. Jūs saņemsiet app paroli, kuru var izmantot ar Outlook, Apple Mail un citas progr, kas to prasa. Izvēlieties **Kopēt** kopēt paroli tā ielīmēšanai citur (jums nav nepieciešams iegaumēt to).
+5. Jūs saņemsit programmas paroli, ko varat izmantot programmā Outlook, Apple Mail un citās lietotnēs, kurās tas ir nepieciešams. Izvēlieties **Kopēt** , lai kopētu paroli, lai to varētu ielīmēt citur (jums nav nepieciešams to iegaumēt).

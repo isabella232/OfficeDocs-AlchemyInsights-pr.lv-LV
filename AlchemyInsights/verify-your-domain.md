@@ -1,9 +1,9 @@
 ---
-title: Pārbaudiet, vai domēna
+title: Domēna verificēšana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710450"
 ---
-# <a name="verify-your-domain"></a>Pārbaudiet, vai domēna
+# <a name="verify-your-domain"></a>Domēna verificēšana
 
- **Droši vien ieraksts nav atjauninātas visā internetā.**
+ **Iespējams, ka ieraksts nav atjaunināts visā internetā.**
   
-Tas parasti aizņem tikai dažas minūtes, lai mēs varētu redzēt jaunu ierakstu, bet dažreiz var paiet, kamēr dažas stundas. 
+Tas parasti aizņem tikai dažas minūtes, lai mēs varētu redzēt jauno ierakstu, bet reizēm tas var ilgt tik ilgi, kamēr dažas stundas. 
   
-- Ja jūs esat gaidījuši, ka sen jau, vēlreiz pārbaudiet, ka jūs esat nokopējis un ielīmējis precīzo vērtību TXT pārbaudes ierakstā pie DNS uzņēmējā. Vienu kopīgu problēmu nav arī "MS =" ieraksta daļa. Mums vajadzīga, ka pārāk!
+- Ja esat gaidījis, ka jau sen, vēlreiz pārbaudiet, vai esat nokopēt un ielīmēts precīzu vērtību TXT verifikācijas ierakstu jūsu DNS uzņēmējā. Viena kopīga problēma nav tostarp "MS =" ieraksta daļu. Mums ir nepieciešams, ka pārāk!
 
-- Pie dažiem saimniekiem DNS, jums ir jāņem papildu soli, lai saglabātu (kur DNS ieraksts ir saglabāts) zonas failu tā, lai tā atjauninās visā internetā. Pārliecinieties, lai Office 365 varētu redzēt un pārbaudiet, vai ierakstu esat saglabājis veiktās izmaiņas.
+- Daži DNS hosts, jums ir veikt papildu darbību, lai saglabātu zonas failu (ja DNS ieraksts ir saglabāts), lai tā atjauninās visā internetā. Pārliecinieties, vai esat saglabājis veiktās izmaiņas, lai Microsoft varētu skatīt un verificēt šo ierakstu.

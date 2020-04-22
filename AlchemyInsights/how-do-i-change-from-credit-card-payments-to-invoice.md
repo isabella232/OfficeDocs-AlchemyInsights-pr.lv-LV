@@ -1,9 +1,9 @@
 ---
-title: Kā mainīt no credit card maksājumi rēķina?
+title: Kā nomainīt kredītkaršu maksājumus uz rēķinu?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523122"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710018"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kā mainīt no credit card maksājumi rēķina?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kā nomainīt kredītkaršu maksājumus uz rēķinu?
 
 > [!NOTE]
-> Iespēja norēķināties ar rēķina ir pieejama tikai tad, ja Office 365 abonēšanas izmaksas vairāk nekā noteiktu summu (kas ir atkarīgs no pakalpojumu sniegšanas vietu). Kredīta pārbaude varētu būt vajadzīga lielāka rēķinu maksājumiem. Lai uzzinātu vairāk, skatiet [maksāt par jūsu Office 365 biznesa abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Opcija maksāt ar rēķinu ir pieejama tikai tad, ja abonementa izmaksas pārsniedz noteiktu summu (kas atšķiras atkarībā no pakalpojuma atrašanās vietas). Lielākiem rēķinu maksājumiem var būt nepieciešama kredīta pārbaude. Papildinformāciju skatiet sadaļā [maksas par abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Atlasiet abonementu, kuru vēlaties mainīt. Sadaļā **norēķinu** atlasiet opciju **Rediģēt** pašreizējo maksājumu metodi.
+2. Atlasiet abonementu, kuru vēlaties mainīt. Sadaļā **norēķini** atlasiet pašreizējo maksājuma veidu opciju **Rediģēt** .
 
-3. **Mainīt, cik jūs maksājat par šo abonēšanas** lodziņā atlasiet **mainīt**, izvēlēties vai pievienot citu maksāšanas metodi un pēc tam atlasiet **saglabāt**.
+3. Lodziņā **mainīt veidu, kādā maksājat par šo abonementu** atlasiet **mainīt**, izvēlieties vai pievienojiet citu maksājuma veidu un pēc tam atlasiet **saglabāt**.
 
    > [!NOTE]
-   > Ja šī opcija nav redzama, tas nozīmē, ka pārejot no kredītkartes vai bankas konta rēķinā nav pieejams abonēšanas, jo abonementu, kas neatbilst minimālā izmaksu summa norēķinu rēķinā. Minimālo izmaksu summu, kas nepieciešama, lai jāmaksā rēķins ir atkarīgs no ģeogrāfiskā atrašanās vieta.
+   > Ja šī opcija netiek rādīta, tas nozīmē, ka pārslēgšanās no kredītkartes vai bankas konta uz rēķinu nav pieejama abonementam, jo abonements neatbilst rēķina minimālajai izmaksu summai, ko maksā rēķins. Minimālā izmaksu summa, kas jāmaksā par rēķinu, ir atkarīga no ģeogrāfiskās atrašanās vietas.
   

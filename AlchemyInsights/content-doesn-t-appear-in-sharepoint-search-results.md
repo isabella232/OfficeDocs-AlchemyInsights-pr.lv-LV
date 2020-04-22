@@ -1,8 +1,8 @@
 ---
-title: Saturs netiek parādīti SharePoint meklēšanas rezultātus
+title: Saturs neparādās SharePoint meklēšanas rezultātos
 ms.author: tlarsen
 author: tklarsen
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517038"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705668"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Saturs netiek parādīti SharePoint meklēšanas rezultātus
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Saturs neparādās SharePoint meklēšanas rezultātos
 
-Veiciet šādus traucējumu meklēšanas posmus, kad paredzamais saturs neparādās meklēšanas rezultātos:
+Izpildiet šīs problēmu novēršanas darbības, kad paredzētais saturs neparādās meklēšanas rezultātos:
   
-1. Pārbaudiet, vai **vietnē** , kurā atrodas paredzamais saturs ir iestatīts atļaut saturs tiek parādīti meklēšanu rezultātos. Izpildiet norādījumus sadaļā [Rādīt saturu vietnes meklēšanas rezultātos](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Pārbaudiet, vai **vietne** , kurā ir paredzētais saturs, ir iestatīta tā, lai ļautu saturam parādīties meklēšanas rezultātos. Veiciet norādītās darbības, lai [meklēšanas rezultātos rādītu vietnes saturu](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
 
-2. Pārbaudiet, vai **saraksts** vai **bibliotēka** , kurā atrodas paredzamais saturs ir iestatīts atļaut saturs tiek parādīti meklēšanu rezultātos. Izpildiet norādījumus sadaļā [Rādīt saturu no sarakstiem vai bibliotēkām, meklēšanas rezultātos](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Pārbaudiet, vai **saraksts** vai **bibliotēka** , kurā atrodas paredzētais saturs, ir iestatīta tā, lai ļautu saturam parādīties meklēšanas rezultātos. Veiciet norādītās darbības, lai [meklēšanas rezultātos parādītu sarakstu vai bibliotēku saturu](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
 
-3. Pārbaudīt, kā tiek publicēts lappusi, dokumentu vai pielāgotā lappuses izkārtojumā **pamatversijas.** Sekot soli 3 [meklēšana neatgriež visus rezultātus SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Pārbaudiet, vai lapa, dokuments vai pielāgots lappuses izkārtojums tiek publicēts kā **galvenā versija.** Izpildiet meklēšanas 3. darbību [neatgriež visus rezultātus SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Pārbaudiet, vai lietotājam ir **atļaujas** skatīt ārējo saturu. Izpildiet norādītās darbības [izpratne atļauju līmeņus koplietošanas vidē SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Pārbaudiet, vai lietotājam ir **tiesības** skatīt saturu. Izpildiet norādījumus, lai [saprastu atļauju līmeņus SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
-5. Ja ir mainīta meklēšanas shēmas, pievienojot jaunu pārvaldīto rekvizītu, pārvaldīto rekvizītu rediģēšana vai noņemšana pārvaldīto rekvizītu, tad pieprasītāja rāpot un Pārindeksēt būs nepieciešami. **Pārindeksēt** saturu, izpildot darbības, [manuāli pieprasīt pārmeklēšanas un indeksēšanas atkārtoti, vietni, bibliotēku vai sarakstu](https://docs.microsoft.com/sharepoint/crawl-site-content). Tas var aizņemt kādu laiku, pagaidiet 24 stundas pirms atkārtotas pārbaudes rezultātus.
+5. Ja ir mainīta meklēšanas shēma, pievienojot jaunu pārvaldīto rekvizītu, rediģējot pārvaldīto rekvizītu vai noņemot pārvaldīto rekvizītu, tiek pieprasīta pārmeklēšana un atkārtota indeksa pieprasīšana. **Atkārtoti indeksēt** saturu, izpildot darbības [manuāli pieprasīt indeksēšanu un atkārtotu indeksēšanu vietnes, bibliotēkas vai saraksta](https://docs.microsoft.com/sharepoint/crawl-site-content). Tas var aizņemt kādu laiku, pagaidiet 24 stundas, pirms vēlreiz pārbaudīt rezultātus.
 
-Papildinformāciju skatiet sadaļā [iespējot satura vietnē ir meklējams](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Papildinformāciju skatiet sadaļā [vietnes satura iespējošana meklēšanai](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

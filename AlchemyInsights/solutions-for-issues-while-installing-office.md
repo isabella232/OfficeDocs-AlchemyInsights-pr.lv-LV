@@ -1,8 +1,8 @@
 ---
-title: Risinājumu problēmām, instalējot Office
+title: Problēmu risinājumus, instalējot Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709090"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Risinājumu problēmām, instalējot Office
+# <a name="solutions-for-issues-while-installing-office"></a>Problēmu risinājumus, instalējot Office
 
-Izmēģiniet kādu no šiem risinājumiem, lai novērstu Office kļūdu:
+Lai novērstu Office kļūdu, izmēģiniet kādu no tālāk minētajiem risinājumiem.
   
 - Restartējiet datoru un mēģiniet [instalēt Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Lejupielādējiet un instalējiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kad to atver, **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt un izvēlēties **nākamo**.
+1. Kad tas atveras, **atinstalēt Office produktus** atlasiet versiju, kuru vēlaties atinstalēt, un atlasiet **Tālāk**.
 
-2. Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.
+2. Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.
 
-    Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.
+    Pēc restartēšanas atbalsta un atkopšanas palīgs automātiski tiek atvērts, lai pabeigtu atinstalēšanas procesu.
 
-3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizvērt palīga.
+3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizveriet palīgu.
 
-- [Izmantojiet Office bezsaistes uzstādītājs](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) instalēt Office
+- [Izmantojiet Office bezsaistes instalēšanas](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) programmu, lai instalētu Office
 
-Plašāku informāciju par instalācijas kļūdu skatiet [kļūdas ziņojumus, instalējot Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Papildinformāciju par instalēšanas kļūdām skatiet sadaļā [kļūdu ziņojumi, instalējot Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   

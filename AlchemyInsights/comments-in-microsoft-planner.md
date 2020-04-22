@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 682a00364063d395ef9053fc7f6d99a299451c1b
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541769"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706244"
 ---
 # <a name="comments-in-microsoft-planner"></a>Komentāri programmā Microsoft Planner
 
@@ -32,4 +32,4 @@ Tālāk ir sniegtas atbildes uz biežāk sastopamām problēmām ar komentāriem
 
 - **Noņemtie lietotāji saņem e-pasta ziņojumus** — ja lietotājs komentē uzdevumu pirms noņemšanas no plāna, lietotājs tiks iekļauts e-pasta ziņojumu pavedienā par katru komentāru, kas ir publicēts konkrētajam uzdevumam.
 
-Lai uzzinātu vairāk par Microsoft Planner komentāriem, lasiet rakstus [Kā darbojas Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) un [Komentāri Microsoft Planner uzdevumiem](https://support.microsoft.com/lv-LV/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Lai uzzinātu vairāk par Microsoft Planner komentāriem, lasiet rakstus [Kā darbojas Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) un [Komentāri Microsoft Planner uzdevumiem](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).

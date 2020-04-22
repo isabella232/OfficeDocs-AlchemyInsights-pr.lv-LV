@@ -1,9 +1,9 @@
 ---
-title: Palīdzēt izprast vērtību pievieno nodokļa (PVN)
+title: Palīdziet izprast pievienotās vērtības nodokli (PVN)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390519"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710126"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Palīdzēt izprast vērtību pievieno nodokļa (PVN)
+# <a name="help-understanding-value-added-tax-vat"></a>Palīdziet izprast pievienotās vērtības nodokli (PVN)
 
-Ja atrodaties valstī, kas izmanto vērtē papildu nodokļa (PVN), piemēram, Apvienotajā Karalistē, Microsoft Invoicing aprēķina PVN jums un summa attiecas uz savu rēķinu.
+Ja atrodaties valstī, kurā tiek izmantots pievienotās vērtības nodoklis (PVN), piemēram, Apvienotajā Karalistē, Microsoft rēķinu izrakstīšana aprēķina jūsu PVN un rēķina summu.
   
-Nodokļu dēļ, ir jānorāda PVN reģistrācijas numura rēķini iestatījumos.
+Nodokļu iemeslu dēļ rēķinā ir jānorāda arī PVN reģistrācijas numurs.
   
-Nevar pievienot vai noņemt PVN likmes, bet jūs varat mainīt PVN likmi noklusējuma iestatījumos. Pēc noklusējuma rēķini izmanto pakalpojumu, lai pārbaudītu PVN reģistrācijas numuri, taču mēs iesakām izlasīt [VIES atruna](https://go.microsoft.com/fwlink/?LinkID=841741) publicējusi Eiropas Komisija. Ja izvēlaties atslēgt pakalpojumu, jums ir jāpārbauda visas PVN reģistrācijas numuri.
+PVN likmes nevar pievienot vai noņemt, bet noklusējuma PVN likmi var mainīt iestatījumos. Pēc noklusējuma rēķinu izrakstīšana izmanto pakalpojumu, lai pārbaudītu PVN reģistrācijas numurus, taču mēs iesakām izlasīt [VIES atrunu](https://go.microsoft.com/fwlink/?LinkID=841741) , ko publicējusi Eiropas Komisija. Ja izvēlaties pakalpojumu atspējot, ir jāpārbauda visi PVN reģistrācijas numuri.

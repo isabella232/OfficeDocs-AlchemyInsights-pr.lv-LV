@@ -3,7 +3,7 @@ title: 127 kļūst TenantAccessBlockedException kļūda, piekļūstot e-pastu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523986"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708910"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Iegūt TenantAccessBlockedException kļūda, piekļūstot e-pastu?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Kļūst TenantAccessBlockedException kļūda, piekļūstot e-pastu?
 
-Tur ir pāris dažādu iemeslu dēļ, kāpēc jūs varētu saņemt šo kļūdu. Piemēram:
+Ir vairāki iemesli, kāpēc jūs varētu saņemt šo kļūdu. Piemērs:
 
-- Pārbaudiet, vai jūsu abonements ir derīga **rēķina** \> [produkti & pakalpojumi](https://portal.office.com/adminportal/home#/subscriptions) lapā Microsoft 365 administrēšanas centrā.
+- Pārbaudiet, vai abonements ir derīgs lapā **norēķinu** \> [produkti & pakalpojumi](https://portal.office.com/adminportal/home#/subscriptions) Microsoft 365 administrēšanas centrā.
 
-- Pārbaudīt jebkuru nokavēto maksājumu paziņojumus par **norēķinu** \> [rēķinus & maksājumu](https://portal.office.com/adminportal/home#/billoverview) lapā Microsoft 365 administrēšanas centrā.
+- Pārbaudiet, vai nav visu nokavēto paziņojumu par **norēķinu** \> [rēķini & maksājumu](https://portal.office.com/adminportal/home#/billoverview) lapu Microsoft 365 administrēšanas centrs.
 
-- Ja norēķinu un abonementiem savam kontam ir nesen atjaunināta, var paiet laiks, lai ieviestu izmaiņas. Mēģiniet vēlreiz pēc dažām minūtēm, un, ja problēma netiek novērsta, sazinieties ar mums.
+- Ja jūsu konta norēķini un abonementi ir nesen atjaunināti, var paiet laiks, līdz tiek ieviestas izmaiņas. Mēģiniet vēlreiz pēc dažām minūtēm, un, ja problēma joprojām pastāv, sazinieties ar mums.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600368"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706100"
 ---
 # <a name="compliance-score"></a>Atbilstības rādītājs
 
@@ -33,7 +33,7 @@ Lai piekļūtu atbilstības rezultātu, globālā administrēšanas centram ir j
 
 **Lai iegūtu vairāk informācijas par**:
 
-- Iestatīt piekļuves atļaujas atbilstības rādītāju, skatiet [piešķirt lietotājiem piekļuvi Office 365 drošības & atbilstības centrs](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Iestatīt piekļuves atļaujas atbilstības rādītāju, skatiet [piešķirt lietotājiem piekļuvi Microsoft 365 drošības & atbilstības centri](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Darbs ar uzlabošanas darbībām atbilstības punktu sarakstā skatiet sadaļu [darbs ar atbilstības rādītāju](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Kā tiek aprēķināts atbilstības novērtējums, skatiet sadaļu [atbilstības punktu metodoloģija](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Atbilstības punktu, salīdzinot ar atbilstības pārvaldnieku, skatiet sadaļu [saistība ar atbilstības pārvaldnieku](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

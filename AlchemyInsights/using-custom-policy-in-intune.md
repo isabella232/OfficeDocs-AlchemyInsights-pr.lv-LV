@@ -1,9 +1,9 @@
 ---
-title: Izmantot pielāgotu profilu Intune
+title: Pielāgoto profilu izmantošana InTune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710486"
 ---
-# <a name="using-custom-policy-in-intune"></a>Izmantojot pielāgotus politikas Intune
+# <a name="using-custom-policy-in-intune"></a>Pielāgotas politikas InTune izmantošana
 
-InTune ir daudz iestatījumus iebūvēti Android, iOS, macOS un Windows ierīču. Varat arī izveidot pielāgotu profilu un pēc tam izvietot šos pielāgotos iestatījumus ierīces, izmantojot Intune. Pielāgotos profilus ir paredzēti, lai pievienotu ierīces iestatījumus un līdzekļus, kas nav uzcelta Intune.
+InTune ir daudz iestatījumu iebūvēts Android, iOS, macOS un Windows ierīcēm. Varat arī izveidot pielāgotu profilu un izvietot šos pielāgotos iestatījumus savās ierīcēs, izmantojot InTune. Pielāgotie profili ir paredzēti, lai pievienotu ierīces iestatījumus un līdzekļus, kas nav iebūvēti InTune.
 
-[Pielāgotie iestatījumi Android ierīces Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Pielāgoti iestatījumi Android ierīcēm InTune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Pielāgotie iestatījumi Android ierīces, Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Pielāgoti iestatījumi Android uzņēmuma ierīcēm InTune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Pielāgotie iestatījumi, iOS ierīču Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[Pielāgotie iestatījumi iOS ierīcēm InTune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Pielāgotie iestatījumi, macOS ierīču Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Pielāgotie iestatījumi macOS ierīcēm InTune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Pielāgotie iestatījumi Windows 10 ierīces Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Pielāgotie iestatījumi Windows 10 ierīcēm InTune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Pielāgotiem iestatījumiem Windows Holographic Intune biznesa ierīcēm](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Pielāgotie iestatījumi Windows hologrāfiskā biznesa ierīcēm InTune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

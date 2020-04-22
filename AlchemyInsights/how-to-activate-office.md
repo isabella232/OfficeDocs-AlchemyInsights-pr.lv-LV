@@ -11,18 +11,18 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709702"
 ---
 # <a name="how-to-activate-office"></a>Kā aktivizēt Office
 
 Lai veiksmīgi instalētu un aktivizētu Office, administratoram ir jāpiešķir [Office licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) lietotāja darba vai mācību kontam.
   
-Pēc Office instalēšanas daudzos gadījumos Office 365 lietojumprogrammas aktivizēs automātiski, un, ja lietotājs nepiedāvā aktivizēšanu, viņi var uzreiz sākt lietot Office.
+Pēc instalēšanas Office, daudzos gadījumos progr aktivizēs automātiski un, ja lietotājs netiek piedāvāts aktivizēt, viņi var sākt izmantot Office uzreiz.
   
 Tomēr, ja lietotājam tiek lūgts **pierakstīties, lai iestatītu Office**, viņiem ir jāpierakstās ar savu darba vai mācību kontu, kuram jau ir [piešķirta Office licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   

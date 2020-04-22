@@ -1,9 +1,9 @@
 ---
-title: Aktivizējot Microsoft Office 365 lielapjoma licences abonementa
+title: Microsoft lielapjoma licences abonementa aktivizēšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661195"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708766"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivizējot Microsoft Office 365 lielapjoma licences abonementa
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft lielapjoma licences abonementa aktivizēšana
 
-1. Pierakstieties, lai jūsu [portāla lielapjoma licencēšanas pakalpojumu centrs (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Pierakstieties savā [lielapjoma licencēšanas pakalpojumu centra (VLSC) portālā](https://go.microsoft.com/fwlink/p/?LinkId=329762).
 
-2. Naviģējiet uz Office 365 abonēšanas un izvēlieties **Aktivizēt**.
+2. Pārejiet uz savu abonementu un izvēlieties **Aktivizēt**.
 
-3. E-pasts tiks nosūtīts kontaktpersonas tiešsaistes pakalpojumiem (OLS).
+3. Jūsu tiešsaistes pakalpojumu (OLS) kontaktpersonai tiks nosūtīts e-pasta ziņojumu.
 
-4. Aktivizācijas e-pastu nodrošinās jūs ar divām iespējām: **pierakstītos**vai **pieteiktos**. Ja esat jau iepriekš izveidojis trial, izvēlieties **Pierakstīties**. Ja jums vēl nav Office 365 īrnieks, izvēlieties **pieteikties**.
+4. Aktivizācijas e-pasta ziņojumā ir divas iespējas: **reģistrēties**vai **Pierakstīties**. Ja esat iepriekš izveidojis izmēģinājuma versiju, izvēlieties **Pierakstīties**. Ja jums vēl nav Microsoft 365 nomnieka, izvēlieties **reģistrēties**.
 
-5. Pierakstīties Microsoft 365 administrēšanas centrs ([https://admin.microsoft.com](https://admin.microsoft.com)) izmantojot esošās biroja 365 administratora akreditācijas datus. Pēc tam, kad esat veiksmīgi pierakstījies, jūs saņemsit vēl vienu e-pastu, kas apstiprina jūsu pirkumu.
+5. Pierakstieties Microsoft 365 administrēšanas centrā ([https://admin.microsoft.com](https://admin.microsoft.com)), izmantojot esošos administratora akreditācijas datus. Pēc veiksmīgas pierakstīšanās jūs saņemsit citu e-pasta ziņojumu, kas apstiprinās jūsu pirkumu.
 
-6. Pēc tam, kad esat pierakstījies, varat doties uz **norēķinu** \> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) lappusi, lai pārbaudītu jūsu iegādāto biroja 365 abonementus aktivizēti laikā jūsu īrnieks. (Jūs varat arī izvēlēties **abonēšanas** cilni VLSC skatīt detaļas, kas pārbauda jūsu abonementa glabāšanā.)
+6. Pēc tam, kad esat pierakstījies, varat doties uz lapu **norēķinu** \> [produktu & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) , lai pārbaudītu, vai jūsu iegādātie abonementi tiek aktivizēti jūsu nomniekā. (Varat arī izvēlēties cilni **abonements** vlsc, lai skatītu detalizētu informāciju par to, ka jūsu abonements ir deponēts.)

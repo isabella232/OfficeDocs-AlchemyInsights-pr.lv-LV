@@ -2,7 +2,7 @@
 title: 959 mainīt parādāmo vārdu
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736728"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706978"
 ---
 # <a name="change-your-display-name"></a>Displeja nosaukuma mainīšana
   
@@ -27,7 +27,7 @@ Lai mainītu parādāmo vārdu programmā Outlook, veiciet šādas darbības.
 2. Atlasiet e-pasta kontu un pēc tam atlasiet **mainīt**.
 
     > [!NOTE]
-    > Ja neredzat opciju mainīt parādāmo vārdu, jūs, iespējams, izmantojat Microsoft Exchange e-pasta kontu. Šādā gadījumā, lai mainītu parādāmo vārdu, sazinieties ar administratoru. Skatiet [lietotāja vārda un e-pasta adreses maiņa Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Ja neredzat opciju mainīt parādāmo vārdu, jūs, iespējams, izmantojat Microsoft Exchange e-pasta kontu. Šādā gadījumā, lai mainītu parādāmo vārdu, sazinieties ar administratoru. Skatiet [lietotāja vārda un e-pasta adreses maiņa](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Kad esat mainījis parādāmo vārdu, noklikšķiniet uz **Labi** , lai saglabātu izmaiņas. Lai izmaiņas tiktu atspoguļotas visā organizācijā, var paiet dažas stundas.
 
