@@ -1,9 +1,9 @@
 ---
-title: Kā koplietot piezīmju grāmatiņu programmā OneNote web vai OneNote 2016
+title: Kā koplietot piezīmju grāmatiņas programmā OneNote Web vai OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 4648aa6e072e20fb5914e91faf25c2011d8aa6b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549298"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767436"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a><span data-ttu-id="72678-102">Koplietot piezīmju grāmatiņu, OneNote web vai OneNote 2016</span><span class="sxs-lookup"><span data-stu-id="72678-102">Share Notebooks in OneNote for the web or OneNote 2016</span></span>
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a><span data-ttu-id="c4e5a-102">Kopīgojiet piezīmju grāmatiņas programmā OneNote tīmeklī vai OneNote 2016</span><span class="sxs-lookup"><span data-stu-id="c4e5a-102">Share Notebooks in OneNote for the web or OneNote 2016</span></span>
 
-<span data-ttu-id="72678-103">Programmā OneNote web, var koplietot piezīmju vai nu uzaicināt citus lietotājus, lai skatītu un veiktu izmaiņas piezīmju grāmatiņā, vai izveidojot saiti uz lapu atzīmē, ka varat ielīmēt e-pastu, blog vai web lapu.</span><span class="sxs-lookup"><span data-stu-id="72678-103">In OneNote for the web, you can share notes by either inviting others to view and make changes to your notebook, or by creating a link to a page of notes that you can paste in an email, blog, or web page.</span></span> <span data-ttu-id="72678-104">Vairāk informācijas skatiet, lūdzu, [Izmantojiet OneNote web, lai koplietotu piezīmju ar citiem cilvēkiem](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span><span class="sxs-lookup"><span data-stu-id="72678-104">For more information, please see [Use OneNote for the web to share notes with other people](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span></span>
+<span data-ttu-id="c4e5a-103">Programmā OneNote tīmeklim varat kopīgot piezīmes, aicinot citas personas skatīt un veikt izmaiņas jūsu piezīmju grāmatiņā vai izveidojot saiti uz piezīmju lapu, kuru varat ielīmēt e-pasta ziņojumā, emuārā vai tīmekļa lapā.</span><span class="sxs-lookup"><span data-stu-id="c4e5a-103">In OneNote for the web, you can share notes by either inviting others to view and make changes to your notebook, or by creating a link to a page of notes that you can paste in an email, blog, or web page.</span></span> <span data-ttu-id="c4e5a-104">Papildinformāciju skatiet sadaļā programmas [OneNote izmantošana tīmeklī, lai koplietotu piezīmes ar citām personām](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span><span class="sxs-lookup"><span data-stu-id="c4e5a-104">For more information, please see [Use OneNote for the web to share notes with other people](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)</span></span>
 
-<span data-ttu-id="72678-105">Programmā OneNote 2016, pārliecinieties, vai OneNote 2016 grāmatiņas ir OneDrive, lai citi var nokļūt.</span><span class="sxs-lookup"><span data-stu-id="72678-105">In OneNote 2016, make sure your OneNote 2016 notebook is on OneDrive so others can get to it.</span></span> <span data-ttu-id="72678-106">Daļu, var uzaicināt cilvēkus pastā vai saņemt sadales saiti.</span><span class="sxs-lookup"><span data-stu-id="72678-106">To share, you can invite people in mail or get a sharing link.</span></span> <span data-ttu-id="72678-107">Lai saņemtu papildinformāciju, lūdzu, skatiet [OneNote 2016 Windows notebook ar citiem lietotājiem koplietot](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span><span class="sxs-lookup"><span data-stu-id="72678-107">For more information, please see [Share a OneNote 2016 for Windows notebook with other people](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span></span>
+<span data-ttu-id="c4e5a-105">Programmā OneNote 2016 pārliecinieties, vai jūsu OneNote 2016 piezīmju grāmatiņu ir OneDrive, lai citi var piekļūt.</span><span class="sxs-lookup"><span data-stu-id="c4e5a-105">In OneNote 2016, make sure your OneNote 2016 notebook is on OneDrive so others can get to it.</span></span> <span data-ttu-id="c4e5a-106">Lai kopīgotu, varat uzaicināt cilvēkus pa pastu vai iegūt koplietošanas saiti.</span><span class="sxs-lookup"><span data-stu-id="c4e5a-106">To share, you can invite people in mail or get a sharing link.</span></span> <span data-ttu-id="c4e5a-107">Lai iegūtu papildinformāciju, lūdzu, skatiet [kopīgot OneNote 2016 Windows piezīmju grāmatiņu ar citiem lietotājiem](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span><span class="sxs-lookup"><span data-stu-id="c4e5a-107">For more information, please see [Share a OneNote 2016 for Windows notebook with other people](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)</span></span>

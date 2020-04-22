@@ -3,7 +3,7 @@ title: 9000236 Outlook.com pievienot kontu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8224ded963b3098b78b20f6bb157c183243d769b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538207"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760995"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a><span data-ttu-id="f2d55-102">Pievienojiet citus e-pasta kontus, lai Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f2d55-102">Add your other email accounts to Outlook.com</span></span>
+# <a name="add-your-other-email-accounts-to-outlookcom"></a><span data-ttu-id="d9b0a-102">Pievienojiet citus e-pasta kontus, lai Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d9b0a-102">Add your other email accounts to Outlook.com</span></span>
 
-<span data-ttu-id="f2d55-103">Pievienojot citus e-pasta kontus Outlook.com, varat izmantot Outlook.com, lai sūtītu un lasītu e-pasta ziņojumus no šiem kontiem, neizejot no Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="f2d55-103">When you add other email accounts to Outlook.com, you can use Outlook.com to send and read email messages from those accounts without leaving Outlook.com.</span></span> <span data-ttu-id="f2d55-104">Katru kontu, kuru pievienojat Outlook.com, sauc par pievienoto kontu.</span><span class="sxs-lookup"><span data-stu-id="f2d55-104">Each account you add to Outlook.com is called a connected account.</span></span>
+<span data-ttu-id="d9b0a-103">Pievienojot citus e-pasta kontus Outlook.com, varat izmantot Outlook.com, lai sūtītu un lasītu e-pasta ziņojumus no šiem kontiem, neizejot no Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-103">When you add other email accounts to Outlook.com, you can use Outlook.com to send and read email messages from those accounts without leaving Outlook.com.</span></span> <span data-ttu-id="d9b0a-104">Katru kontu, kuru pievienojat Outlook.com, sauc par pievienoto kontu.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-104">Each account you add to Outlook.com is called a connected account.</span></span>
 
-<span data-ttu-id="f2d55-105">Piezīme: sinhronizēšana no pievienotā konta uz jūsu Outlook.com kontu ir tikai vienvirziena.</span><span class="sxs-lookup"><span data-stu-id="f2d55-105">Note: Syncing from your connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="f2d55-106">E-pasts, kas nosūtīts no pievienotā konta, izmantojot Outlook.com, netiks rādīts jūsu pievienotajā kontā nosūtītos vienumus.</span><span class="sxs-lookup"><span data-stu-id="f2d55-106">Email sent from your connected account using Outlook.com will not appear in your connected account Sent Items.</span></span>
+<span data-ttu-id="d9b0a-105">Piezīme: sinhronizēšana no pievienotā konta uz jūsu Outlook.com kontu ir tikai vienvirziena.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-105">Note: Syncing from your connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="d9b0a-106">E-pasts, kas nosūtīts no pievienotā konta, izmantojot Outlook.com, netiks rādīts jūsu pievienotajā kontā nosūtītos vienumus.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-106">Email sent from your connected account using Outlook.com will not appear in your connected account Sent Items.</span></span>
 
-<span data-ttu-id="f2d55-107">Lai pievienotu savienotu kontu:</span><span class="sxs-lookup"><span data-stu-id="f2d55-107">To add a connected account:</span></span>
+<span data-ttu-id="d9b0a-107">Lai pievienotu savienotu kontu:</span><span class="sxs-lookup"><span data-stu-id="d9b0a-107">To add a connected account:</span></span>
 
-1. <span data-ttu-id="f2d55-108">Atveriet [sinhronizācijas e-pasta iestatījumus](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="f2d55-108">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
-2. <span data-ttu-id="f2d55-109">Sadaļā **savienotie konti**atlasiet **Gmail** vai **Citi e-pasta konti**.</span><span class="sxs-lookup"><span data-stu-id="f2d55-109">Under **Connected accounts**, select **Gmail** or **Other email accounts**.</span></span>
-3. <span data-ttu-id="f2d55-110">Lapā savienojuma izveide ar kontu ievadiet parādāmo vārdu (vārdu adresāti redzēs, saņemot no jums e-pasta ziņojumu) un pilnu e-pasta adresi un e-pasta konta paroli, kuru vēlaties savienot ar savu Outlook.com kontu.</span><span class="sxs-lookup"><span data-stu-id="f2d55-110">On the Connect your account page, enter a display name (the name recipients will see when they receive an email message from you) and the full email address and password of the email account you want to connect to your Outlook.com account.</span></span>
+1. <span data-ttu-id="d9b0a-108">Atveriet [sinhronizācijas e-pasta iestatījumus](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="d9b0a-108">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+2. <span data-ttu-id="d9b0a-109">Sadaļā **savienotie konti**atlasiet **Gmail** vai **Citi e-pasta konti**.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-109">Under **Connected accounts**, select **Gmail** or **Other email accounts**.</span></span>
+3. <span data-ttu-id="d9b0a-110">Lapā savienojuma izveide ar kontu ievadiet parādāmo vārdu (vārdu adresāti redzēs, saņemot no jums e-pasta ziņojumu) un pilnu e-pasta adresi un e-pasta konta paroli, kuru vēlaties savienot ar savu Outlook.com kontu.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-110">On the Connect your account page, enter a display name (the name recipients will see when they receive an email message from you) and the full email address and password of the email account you want to connect to your Outlook.com account.</span></span>
 
-<span data-ttu-id="f2d55-111">Jūs varat sūtīt e-pastu no jebkura konta, ar kuru esat izveidojis savienojumu ar savu Outlook.com kontu.</span><span class="sxs-lookup"><span data-stu-id="f2d55-111">You can send email from any account you've connected to your Outlook.com account.</span></span> <span data-ttu-id="f2d55-112">Sastādot e-pasta ziņojumu, izvēlieties **no** un izvēlieties, kuru e-pasta adresi vēlaties izmantot, vai [atjauniniet savu noklusējuma adresi](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="f2d55-112">When composing an email, select **From** and choose which email address you want to use, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+<span data-ttu-id="d9b0a-111">Jūs varat sūtīt e-pastu no jebkura konta, ar kuru esat izveidojis savienojumu ar savu Outlook.com kontu.</span><span class="sxs-lookup"><span data-stu-id="d9b0a-111">You can send email from any account you've connected to your Outlook.com account.</span></span> <span data-ttu-id="d9b0a-112">Sastādot e-pasta ziņojumu, izvēlieties **no** un izvēlieties, kuru e-pasta adresi vēlaties izmantot, vai [atjauniniet savu noklusējuma adresi](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="d9b0a-112">When composing an email, select **From** and choose which email address you want to use, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
 
-<span data-ttu-id="f2d55-113">Lai iegūtu papildinformāciju, lasiet [pievienot citus e-pasta kontus, lai Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f2d55-113">For more information, read [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="d9b0a-113">Lai iegūtu papildinformāciju, lasiet [pievienot citus e-pasta kontus, lai Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d9b0a-113">For more information, read [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="f2d55-114">Ja vēlaties izveidot jaunu e-pasta adresi, kas izmanto to pašu Outlook.com kontu, izlasiet [pievienot vai noņemt e-pasta aizstājvārdu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f2d55-114">If you want to create a new email address that uses the same Outlook.com account, read [Add or remove an email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="d9b0a-114">Ja vēlaties izveidot jaunu e-pasta adresi, kas izmanto to pašu Outlook.com kontu, izlasiet [pievienot vai noņemt e-pasta aizstājvārdu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d9b0a-114">If you want to create a new email address that uses the same Outlook.com account, read [Add or remove an email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

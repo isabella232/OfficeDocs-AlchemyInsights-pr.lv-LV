@@ -1,9 +1,9 @@
 ---
-title: Risinājumi "nevarēja instalēt Office (64 bitu vai 32 bitu)
+title: Nevar instalēt risinājumus "Office (64 bitu vai 32 bitu)
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764196"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="19e54-102">Risinājumi attiecībā uz "nevarēja instalēt Office (64 bitu vai 32 bitu)</span><span class="sxs-lookup"><span data-stu-id="19e54-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a><span data-ttu-id="a04c8-102">Nevar instalēt risinājumus "Office (64 bitu vai 32 bitu)</span><span class="sxs-lookup"><span data-stu-id="a04c8-102">Solutions for "Office (64-bit or 32-bit) couldn't be installed</span></span>
 
-<span data-ttu-id="19e54-103">"Nevarēja instalēt Office (64 bitu vai 32 bitu)" kļūda rodas, jo nevar jaukt Office 64 bitu un 32 bitu versijām.</span><span class="sxs-lookup"><span data-stu-id="19e54-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
+<span data-ttu-id="a04c8-103">"Office (64 bitu vai 32 bitu) nevar instalēt" kļūda rodas, jo nevar sajaukt 64 bitu un 32 bitu versijas Office.</span><span class="sxs-lookup"><span data-stu-id="a04c8-103">The "Office (64-bit or 32-bit) couldn't be installed" error occurs because you can't mix 64-bit and 32-bit versions of Office.</span></span>
   
-<span data-ttu-id="19e54-104">Lai labotu šo kļūdu, un pārslēdzieties no 32 bit uz 64-bitu, jāveic šādas darbības šādā secībā.</span><span class="sxs-lookup"><span data-stu-id="19e54-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
+<span data-ttu-id="a04c8-104">Lai novērstu šo kļūdu un pārslēgtos no 32-bit uz 64-bit, jums ir jādara šādi šajā kārtībā.</span><span class="sxs-lookup"><span data-stu-id="a04c8-104">To fix this error and switch from 32-bit to 64-bit, you must do the following in this order.</span></span>
   
-1. <span data-ttu-id="19e54-105">Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="19e54-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+1. <span data-ttu-id="a04c8-105">Lejupielādējiet un instalējiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a04c8-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="19e54-106">Kad to atver, **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt un izvēlēties **nākamo**.</span><span class="sxs-lookup"><span data-stu-id="19e54-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="a04c8-106">Kad tas atveras, **atinstalēt Office produktus** atlasiet versiju, kuru vēlaties atinstalēt, un atlasiet **Tālāk**.</span><span class="sxs-lookup"><span data-stu-id="a04c8-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="19e54-107">Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.</span><span class="sxs-lookup"><span data-stu-id="19e54-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="a04c8-107">Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.</span><span class="sxs-lookup"><span data-stu-id="a04c8-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="19e54-108">Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.</span><span class="sxs-lookup"><span data-stu-id="19e54-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="a04c8-108">Pēc restartēšanas atbalsta un atkopšanas palīgs automātiski tiek atvērts, lai pabeigtu atinstalēšanas procesu.</span><span class="sxs-lookup"><span data-stu-id="a04c8-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="19e54-109">Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) ar pareizo 32 bitu vai 64 bitu versiju.</span><span class="sxs-lookup"><span data-stu-id="19e54-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span>
+3. <span data-ttu-id="a04c8-109">Sekojiet atlikušajām uzvednēm un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) ar pareizo 32 bitu vai 64 bitu versiju.</span><span class="sxs-lookup"><span data-stu-id="a04c8-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) with the correct 32-bit or 64-bit version.</span></span>
 
-    <span data-ttu-id="19e54-110">Izpildiet [Datorā instalēt Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="19e54-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
+    <span data-ttu-id="a04c8-110">Izpildiet darbības, kas jāveic, [instalējot Office](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) datorā</span><span class="sxs-lookup"><span data-stu-id="a04c8-110">Follow the steps in [Install Office on a PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-<span data-ttu-id="19e54-111">Papildinformāciju skatiet sadaļā ["Nevarēja instalēt Office (64 bitu vai 32 bitu)" kļūda mēģinot instalēt](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="19e54-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
+<span data-ttu-id="a04c8-111">Lai iegūtu papildinformāciju, skatiet ["Office (64 bitu vai 32 bitu) nevar instalēt" kļūda](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) , mēģinot instalēt</span><span class="sxs-lookup"><span data-stu-id="a04c8-111">For more information, see ["Office (64-bit or 32-bit) couldn't be installed" error when trying to install](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)</span></span>
   

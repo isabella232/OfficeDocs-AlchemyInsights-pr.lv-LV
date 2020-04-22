@@ -1,5 +1,5 @@
 ---
-title: 607 brīvs vai aizņemts problēmu risinātāju
+title: 607 brīvs/aizņemts problēmu risinātājs
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664867"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765059"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="ab256-102">Problēmām, redzot Kalendāra aizņemtības informācijas</span><span class="sxs-lookup"><span data-stu-id="ab256-102">Issues seeing calendar free/busy information</span></span>
+# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="f35a0-102">Problēmas, redzot Kalendāra aizņemtības informāciju</span><span class="sxs-lookup"><span data-stu-id="f35a0-102">Issues seeing calendar free/busy information</span></span>
 
-<span data-ttu-id="ab256-103">Ja nevarat skatīt kalendāra aizņemtības informāciju citos kalendāros vai ja citas personas nevar skatīt aizņemtības informāciju jūsu kalendārā, skatiet rakstu [Microsoft atbalsta un atkopšanas palīgs pakalpojumam Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="ab256-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="f35a0-103">Ja neredzat Kalendāra aizņemtības informāciju citos kalendāros vai ja citas personas nevar redzēt jūsu kalendārā informāciju par aizņemtību, izmantojiet [Microsoft atbalsta un atkopšanas palīgu](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="f35a0-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/).</span></span>
   
