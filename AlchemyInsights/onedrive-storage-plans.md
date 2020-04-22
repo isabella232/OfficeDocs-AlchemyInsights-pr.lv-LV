@@ -16,8 +16,8 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591534"
+ms.locfileid: "43599288"
 ---
-# <a name="onedrive-storage-plans"></a><span data-ttu-id="1f9c0-102">OneDrive krātuves plāni</span><span class="sxs-lookup"><span data-stu-id="1f9c0-102">OneDrive storage plans</span></span>
+# <a name="onedrive-storage-plans"></a><span data-ttu-id="d0de4-102">OneDrive krātuves plāni</span><span class="sxs-lookup"><span data-stu-id="d0de4-102">OneDrive storage plans</span></span>
 
-<span data-ttu-id="1f9c0-103">Iegūstiet informāciju par OneDrive krātuves plāniem.</span><span class="sxs-lookup"><span data-stu-id="1f9c0-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="1f9c0-104">[Papildinformācija](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span><span class="sxs-lookup"><span data-stu-id="1f9c0-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
+<span data-ttu-id="d0de4-103">Iegūstiet informāciju par OneDrive krātuves plāniem.</span><span class="sxs-lookup"><span data-stu-id="d0de4-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="d0de4-104">[Papildinformācija](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span><span class="sxs-lookup"><span data-stu-id="d0de4-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
