@@ -1,9 +1,9 @@
 ---
-title: Mainīt savu e-pasta vārdu Outlook.com
+title: Mainiet savu e-pasta nosaukumu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537464"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712897"
 ---
-# <a name="change-your-email-name"></a><span data-ttu-id="ecb52-102">E-pasta nosaukuma maiņa</span><span class="sxs-lookup"><span data-stu-id="ecb52-102">Change your email name</span></span>
+# <a name="change-your-email-name"></a><span data-ttu-id="59bea-102">E-pasta nosaukuma maiņa</span><span class="sxs-lookup"><span data-stu-id="59bea-102">Change your email name</span></span>
 
-<span data-ttu-id="ecb52-103">Ja jums ir viena Outlook.com, e-pasta adresi un vēlaties mainīt vārdu adresāts redzēs, e-pasta ziņojumos:</span><span class="sxs-lookup"><span data-stu-id="ecb52-103">If you have one Outlook.com email address and want to change the name recipients will see in your messages:</span></span>
+<span data-ttu-id="59bea-103">Ja jums ir viena Outlook.com e-pasta adresi un vēlaties mainīt nosaukumu saņēmēji redzēs jūsu ziņas:</span><span class="sxs-lookup"><span data-stu-id="59bea-103">If you have one Outlook.com email address and want to change the name recipients will see in your messages:</span></span>
   
-1. <span data-ttu-id="ecb52-104">Atlasiet konta attēlu augšējā labajā stūrī lapā.</span><span class="sxs-lookup"><span data-stu-id="ecb52-104">Select your account picture at the top right corner of the page.</span></span>
-2. <span data-ttu-id="ecb52-105">Atlasiet **Mans profils**.</span><span class="sxs-lookup"><span data-stu-id="ecb52-105">Select **My profile**.</span></span>
-3. <span data-ttu-id="ecb52-106">Atlasiet **rediģēt nosaukumu** , veikt izmaiņas un izvēlieties **saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="ecb52-106">Select **Edit name** to make changes and select **Save**.</span></span>
+1. <span data-ttu-id="59bea-104">Lapas augšējā labajā stūrī atlasiet sava konta attēlu.</span><span class="sxs-lookup"><span data-stu-id="59bea-104">Select your account picture at the top right corner of the page.</span></span>
+2. <span data-ttu-id="59bea-105">Izvēlieties **Mans profils**.</span><span class="sxs-lookup"><span data-stu-id="59bea-105">Select **My profile**.</span></span>
+3. <span data-ttu-id="59bea-106">Atlasiet **Rediģēt vārdu** , lai veiktu izmaiņas un atlasiet **saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="59bea-106">Select **Edit name** to make changes and select **Save**.</span></span>
 
-<span data-ttu-id="ecb52-107">Atļaujiet veikt izmaiņas profila nosaukumu, lai tie stātos spēkā līdz 24 stundām.</span><span class="sxs-lookup"><span data-stu-id="ecb52-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="59bea-107">Lūdzu, ļauj līdz 24 stundām izmaiņas jūsu profila nosaukumu, lai stātos spēkā.</span><span class="sxs-lookup"><span data-stu-id="59bea-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
   
-<span data-ttu-id="ecb52-108">Ja jums ir vairāk nekā viens e-pasta aizstājvārdu vai adreses, kas pievienota Outlook.com kontu, varat sūtīt e-pastu no jebkura no jūsu adreses.</span><span class="sxs-lookup"><span data-stu-id="ecb52-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
+<span data-ttu-id="59bea-108">Ja jūsu Outlook.com kontam ir pievienots vairāk nekā viens e-pasta aizstājvārds vai adrese, varat izvēlēties sūtīt e-pasta ziņojumu no jebkuras adreses.</span><span class="sxs-lookup"><span data-stu-id="59bea-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
   
-1. <span data-ttu-id="ecb52-109">Sastādot ziņojumu, atzīmējiet "…" sastādīšanas loga apakšā.</span><span class="sxs-lookup"><span data-stu-id="ecb52-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
-1. <span data-ttu-id="ecb52-110">Atlasiet **Rādīt no** redzēt no līniju.</span><span class="sxs-lookup"><span data-stu-id="ecb52-110">Select **Show From** to see the From line.</span></span>
-1. <span data-ttu-id="ecb52-111">Virs rindiņā, **izvēlēties** un izvēlēties, kuras e-pasta adresi, ko vēlaties izmantot.</span><span class="sxs-lookup"><span data-stu-id="ecb52-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
+1. <span data-ttu-id="59bea-109">Sastādot ziņojumu, izvēlieties "..." sastādīšanas loga apakšdaļā.</span><span class="sxs-lookup"><span data-stu-id="59bea-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
+1. <span data-ttu-id="59bea-110">Atlasiet **Rādīt no** , lai skatītu rindiņu no.</span><span class="sxs-lookup"><span data-stu-id="59bea-110">Select **Show From** to see the From line.</span></span>
+1. <span data-ttu-id="59bea-111">Virs rindiņas Kam atlasiet **no** un izvēlieties, kuru e-pasta adresi vēlaties izmantot.</span><span class="sxs-lookup"><span data-stu-id="59bea-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
 
-<span data-ttu-id="ecb52-112">Papildinformāciju skatiet sadaļā [nosūtīt e-pastu no citas adreses programmā Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ecb52-112">For more information, see [Send email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="59bea-112">Lai iegūtu papildinformāciju, skatiet [Sūtīt e-pastu no citas adreses Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="59bea-112">For more information, see [Send email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

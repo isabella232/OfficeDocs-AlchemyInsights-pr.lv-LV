@@ -1,9 +1,9 @@
 ---
-title: Identificē IP adrese un klienta audita žurnālos
+title: Identificēt IP adresi un klientu audita žurnālos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539036"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716395"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a><span data-ttu-id="91766-102">Identificē IP adrese un klienta audita žurnālos</span><span class="sxs-lookup"><span data-stu-id="91766-102">Identify IP address and client in audit logs</span></span>
+# <a name="identify-ip-address-and-client-in-audit-logs"></a><span data-ttu-id="a0755-102">Identificēt IP adresi un klientu audita žurnālos</span><span class="sxs-lookup"><span data-stu-id="a0755-102">Identify IP address and client in audit logs</span></span>
 
-<span data-ttu-id="91766-103">IP adrese, kas atbilst Office 365 lietotāja vai administratora darbība tiek rādīts audita žurnālus.</span><span class="sxs-lookup"><span data-stu-id="91766-103">The IP address that corresponds to an activity by an Office 365 user or administrator is shown in the Audit Logs.</span></span> <span data-ttu-id="91766-104">Klienta informācija arī pieteicies.</span><span class="sxs-lookup"><span data-stu-id="91766-104">The client information is also logged.</span></span> <span data-ttu-id="91766-105">Šeit ir soļi, lai apzinātu šādas informācijas</span><span class="sxs-lookup"><span data-stu-id="91766-105">Here are the steps to identifying such information</span></span>
+<span data-ttu-id="a0755-103">IP adrese, kas atbilst Microsoft 365 lietotāja vai administratora darbībai, tiek rādīta audita žurnālos.</span><span class="sxs-lookup"><span data-stu-id="a0755-103">The IP address that corresponds to an activity by a Microsoft 365 user or administrator is shown in the Audit Logs.</span></span> <span data-ttu-id="a0755-104">Klienta informācija arī tiek reģistrēta.</span><span class="sxs-lookup"><span data-stu-id="a0755-104">The client information is also logged.</span></span> <span data-ttu-id="a0755-105">Tālāk ir norādītas šādas informācijas identificēšanas darbības.</span><span class="sxs-lookup"><span data-stu-id="a0755-105">Here are the steps to identifying such information</span></span>
 
-1. <span data-ttu-id="91766-106">[Office drošības 365 & atbilstību centra](https://protection.office.com/)pieteikties.</span><span class="sxs-lookup"><span data-stu-id="91766-106">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/).</span></span>
+1. <span data-ttu-id="a0755-106">Piesakieties [Microsoft 365 drošības & atbilstības centrā](https://protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="a0755-106">Log in to the [Microsoft 365 Security & Compliance Center](https://protection.office.com/).</span></span>
 
-2. <span data-ttu-id="91766-107">Iet uz **meklēšanas** > **audita žurnālu meklēšanas** lapu.</span><span class="sxs-lookup"><span data-stu-id="91766-107">Go to the **Search** > **Audit log search** page.</span></span>
+2. <span data-ttu-id="a0755-107">Pārejiet **uz** > meklēšanas**audita žurnāla meklēšanas** lapu.</span><span class="sxs-lookup"><span data-stu-id="a0755-107">Go to the **Search** > **Audit log search** page.</span></span>
 
-   <span data-ttu-id="91766-108">Ja jūs interesē konkrētas aktivitātes, atlasiet to no **darbību** saraksta.</span><span class="sxs-lookup"><span data-stu-id="91766-108">If you're interested in a specific activity, select it from **Activities** list.</span></span> <span data-ttu-id="91766-109">Ja nav, tad visas darbības, kas tiks atgriezta atlasītā lietotāja (noklusētais uzstādījums).</span><span class="sxs-lookup"><span data-stu-id="91766-109">If not, all activities will be returned for the selected user (default setting).</span></span>
+   <span data-ttu-id="a0755-108">Ja jūs interesē konkrēta aktivitāte, atlasiet to sarakstā **aktivitātes** .</span><span class="sxs-lookup"><span data-stu-id="a0755-108">If you're interested in a specific activity, select it from **Activities** list.</span></span> <span data-ttu-id="a0755-109">Ja tā nav, visas darbības tiks atgrieztas atlasītajam lietotājam (noklusējuma iestatījums).</span><span class="sxs-lookup"><span data-stu-id="a0755-109">If not, all activities will be returned for the selected user (default setting).</span></span>
 
-   <span data-ttu-id="91766-110">**Piezīme**: konkrētas darbības var nebūt pieejamas izvēlnē **darbības** ; Tomēr tiem audita vienumi tiks atgriezta, ja **Rādīt rezultātus visām darbībām** ir atlasītās (noklusējuma iestatījums).</span><span class="sxs-lookup"><span data-stu-id="91766-110">**Note**: Certain activities may not be available in the **Activities** menu; however, those audit items will be returned if **Show Results for all activities** is selected (default setting).</span></span>
+   <span data-ttu-id="a0755-110">**Piezīme**: dažas darbības var nebūt pieejamas izvēlnē **aktivitātes** ; Tomēr šie audita vienumi tiks atgriezti, ja ir atlasīts **Rādīt rezultātus visām darbībām** (noklusējuma iestatījums).</span><span class="sxs-lookup"><span data-stu-id="a0755-110">**Note**: Certain activities may not be available in the **Activities** menu; however, those audit items will be returned if **Show Results for all activities** is selected (default setting).</span></span>
 
-3. <span data-ttu-id="91766-111">Jānorāda lietotājvārds **lietotāji** laukā, atlasiet atbilstošo datuma diapazonu darbības un pēc tam noklikšķiniet uz **Meklēt**.</span><span class="sxs-lookup"><span data-stu-id="91766-111">Specify the username in the **Users** field, select the appropriate date range for the activity, and then click **Search**.</span></span>
+3. <span data-ttu-id="a0755-111">Norādiet lietotājvārdu laukā **lietotāji** , atlasiet darbībai atbilstošo datumu diapazonu un pēc tam noklikšķiniet uz **Meklēt**.</span><span class="sxs-lookup"><span data-stu-id="a0755-111">Specify the username in the **Users** field, select the appropriate date range for the activity, and then click **Search**.</span></span>
 
-<span data-ttu-id="91766-112">Rezultātu, jūs varat redzēt IP adresi kādam šīs darbības rezultātu rūtī.</span><span class="sxs-lookup"><span data-stu-id="91766-112">In the results, you can see the IP address for that activity in the results pane.</span></span> <span data-ttu-id="91766-113">Atlasiet kontroles ierakstu, lai apskatītu detalizētu informāciju **detaļu** flyout (piemēram, klients, lietotāju, kas veic darbību, utt.).</span><span class="sxs-lookup"><span data-stu-id="91766-113">Select the audit record to see detailed information in the **Details** flyout (for example, Client, User that performed action, etc.).</span></span>
+<span data-ttu-id="a0755-112">Rezultātu rūtī varat redzēt minētās aktivitātes IP adresi.</span><span class="sxs-lookup"><span data-stu-id="a0755-112">In the results, you can see the IP address for that activity in the results pane.</span></span> <span data-ttu-id="a0755-113">Atlasiet audita ierakstu, **lai detalizēti skatītu detalizētu informāciju izlidošanas vietā** (piemēram, klients, lietotājs, kas veicis darbību utt.).</span><span class="sxs-lookup"><span data-stu-id="a0755-113">Select the audit record to see detailed information in the **Details** flyout (for example, Client, User that performed action, etc.).</span></span>
 
-<span data-ttu-id="91766-114">Papildinformāciju skatiet sadaļā [atrast IP adresi datoram, ko izmanto, lai piekļūtu kompromitēta kontā](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span><span class="sxs-lookup"><span data-stu-id="91766-114">For more information, see [Finding the IP address of the computer used to access a compromised account](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span></span>
+<span data-ttu-id="a0755-114">Papildinformāciju skatiet sadaļā [tā datora IP adreses atrašana, kas tika izmantots, lai piekļūtu apdraudējumam izmantotam kontam](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span><span class="sxs-lookup"><span data-stu-id="a0755-114">For more information, see [Finding the IP address of the computer used to access a compromised account](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).</span></span>
