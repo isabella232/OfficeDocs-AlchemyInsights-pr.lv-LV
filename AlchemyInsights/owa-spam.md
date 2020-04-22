@@ -1,28 +1,28 @@
 ---
-title: Nodarbojas ar surogātpastu un junk programmā Outlook Web
+title: Darījumi ar surogātpastu un junk programmā Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555600"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768264"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-pasta ziņojumu atzīmēšana par nevēlamo e-pastu programmā Outlook Web
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Atzīmēt e-pasta ziņojumus kā nevēlamu programmā Outlook tīmeklī
 
-Lai atzīmētu ziņojumu kā nevēlamā vai surogātpastu, ziņojumu sarakstā atlasiet ziņojumu un atlasiet **nevēlamo** > **Junk**.
+Lai atzīmētu ziņojumu kā nevēlamu vai surogātpastu, atlasiet ziņojumu sarakstā un atlasiet **nevēlams** > **nevēlams**.
 
-Lai bloķētu visus ziņojumus no īpašu e-pasta adresi, ziņojumu sarakstā atlasiet ziņojumu vai ziņojumus, un pēc tam atlasiet **nevēlamo** > **bloku**.
+Lai bloķētu visus ziņojumus no noteiktas e-pasta adreses, ziņojumu sarakstā atlasiet ziņojumu vai ziņojumus un pēc tam atlasiet vienumu **nevēlams** > **bloks**.
 
-Ja jūs nejauši atzīmētu ziņojumu kā nevēlamā e-pasta ziņojumu, nevēlamā e-pasta mapē atlasiet ziņojumu, un izvēlieties **nav nevēlams** > **nav nevēlams**. (*Piezīme:* nevēlamā e-pasta mapē esošie vienumi tiek izdzēsti pēc 30 dienām.)
+Ja nejauši atzīmējat ziņojumu kā nevēlamu, atlasiet ziņojumu mapē Nevēlamais e-pasts un atlasiet **nav nevēlams** > **nav nevēlams**. (*Piezīme:* vienumi jūsu nevēlamā e-pasta mapē tiek dzēsti pēc 30 dienām.)
 
-Uzzināt vairāk par to, kā [uzturētu surogātpastu un nevēlamo e-pastu no Outlook uz web inbox.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Uzziniet vairāk par to, kā [Outlook tīmekļa iesūtnē palīdzēt saglabāt surogātpastu un nevēlamo e-pastu.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

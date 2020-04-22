@@ -1,24 +1,24 @@
 ---
-title: 1264 IP bloķēta uz pārāk daudz surogātpasta (550 5.7.51)
+title: 1264 IP bloķēts nosūtīšanai pārāk daudz surogātpasta (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 64a829ed6e5d0d2a15e4eb4dfb5f70c1bd652ed6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 5734a51e78af29244867429af8e29ea4b54aa4cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751674"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765888"
 ---
-# <a name="access-denied-banned-sender"></a>Liegta piekļuve, bloķēto sūtītāju
+# <a name="access-denied-banned-sender"></a>Piekļuve liegta, aizliedzis sūtītājs
 
- **Kļūda**: SMTP kļūda no attālā servera RCPT komanda, uzņēmēja: *xxxx*-com.mail.protection.outlook.com (*XXX.XXX*) iemesls: 550 5.7.511 piekļūt liegta, bloķēto sūtītāju [*xx.xxx.x.xxx*]. 
+ **Kļūda**: SMTP kļūda no attālā servera RCPT komandu, resursdatora: *xxxx*-com.Mail.Protection.Outlook.com (*XXX.XXX.XXX.XXX*) iemesls: 550 5.7.511 piekļuve liegta, aizliegta Sūtītājs [*xx.XXX.x.XXX*]. 
 
-Ja saņemat šo kļūdu, e-pasts Sūtot Office 365 adresātam, skartā kontu noņemt no bloķēto sūtītāju saraksta pie [https://sender.office.com](https://sender.office.com).
+Ja saņemat šo kļūdu, nosūtot e-pastu Microsoft 365 adresātam, noņemiet attiecīgajā kontā bloķēto sūtītāju sarakstā [https://sender.office.com](https://sender.office.com).

@@ -1,9 +1,9 @@
 ---
-title: Kas notiek ar manu datos un piekļuves, mana biroja 365 biznesa parakstīšanās beidzas?
+title: Kas notiek ar maniem datiem un piekļuvi, kad beidzas mans Microsoft 365 par uzņēmumu abonementu?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531258"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766212"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Kas notiek ar manu datos un piekļuves, mana biroja 365 biznesa parakstīšanās beidzas?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Kas notiek ar maniem datiem un piekļuvi, kad beidzas mans Microsoft 365 par uzņēmumu abonementu?
 
-Ja jūsu Office 365 abonements beidzas — tāpēc, ka tas ir beidzies, vai jūs nolemjat atcelt — 365 biroja pakalpojumus, lietojumprogrammas un klientu datiem piekļuvi iet cauri vairākas valstis pirms parakstīšanās tiek pilnībā izslēgta, vai *deprovisioned*  . Ja tu apzinies šo virzību, jums ir labāk aprīkoti, lai jūsu abonementa atgriezties aktīvā stāvoklī pirms tā ir pārāk vēlu, vai — ja jūs atstājot Office 365-back up your dati, pirms tas galu galā ir dzēsts.
+Ja jūsu abonements beidzas — vai nu tāpēc, ka tam beidzies derīguma termiņš, vai arī tāpēc, ka nolemjat atcelt — jūsu piekļuve pakalpojumiem, lietojumprogrammām un klientu datiem tiek nodrošināta vairākās valstīs, pirms abonements ir pilnībā izslēgts vai *deprovisioned* . Ja esat informēts par šo virzību, jūs būsiet labāk aprīkots, lai atgrieztu savu abonementu uz aktīvo valsti, pirms ir par vēlu, vai — ja atstājat Microsoft — dublēt datus, pirms tie tiks dzēsti.
   
-Pirms abonēšanas faktiski sasniedz tās derīguma termiņa beigām, jums ir dažas iespējas, kā **pārvaldīt norēķinu abonēšanas periods**.
+Pirms abonements faktiski sasniedz derīguma termiņu, jums ir dažas iespējas, kā **pārvaldīt periodiskos norēķinus par abonementu**.
   
-- Ja **periodisks norēķinu** jau ir ieslēgta, jums nav veikt nekādas darbības. Jūsu abonements būs jāmaksā tā **periodiski norēķinu** datumā, un jums būs jāmaksā par vēl vienu gadu vai mēnesi atkarībā no jūsu pašreizējā maksājumu biežumu. Ja kāda iemesla dēļ jūs esmu izslēgts **periodiska norēķinu** , jūs vienmēr varat [Ieslēgt periodisko atpakaļ uz norēķinu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Ja **periodiskie norēķini** jau ir ieslēgti, jums nav jāveic nekādas darbības. Jūsu abonementam tiks izrakstīts rēķins par tā **periodisko norēķinu** datumu, un no jums tiks iekasēta maksa par papildu gadu vai mēnesi atkarībā no jūsu pašreizējā maksājuma biežuma. Ja kāda iemesla dēļ esat izslēdzis **periodiskos norēķinus** , vienmēr varat [atkal ieslēgt periodiskos norēķinus](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Ja tu esi atvērts lielapjoma licencēšanas klientu ar priekšapmaksas, viena gada abonementu, sazinieties ar savu partneri, lai iegādātos jaunu produkta atslēgu. Jūs saņemsiet instrukcijas pa e-pastu, lai aktivizētu savu atslēgu, [Sējuma licencēšanas pakalpojumu centrs](https://go.microsoft.com/fwlink/p/?LinkID=282016). Lai uzzinātu, kā atrast jaunu partneri vai partneri, esat strādājis ar pagātnē, redzēt, [atrast Office 365 partneri vai izplatītāju](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Ja esat atvērtā lielapjoma licencēšanas klients ar priekšapmaksas, viena gada abonementu, sazinieties ar savu partneri, lai iegādātos jaunu produkta atslēgu. Jūs saņemsit norādījumus pa e-pastu, lai aktivizētu savu atslēgu [lielapjoma licencēšanas pakalpojumu centrā](https://go.microsoft.com/fwlink/p/?LinkID=282016). Lai uzzinātu, kā atrast jaunu partneri vai partneri, ar kuru esat strādājis iepriekš, skatiet sadaļu [Microsoft 365 partnera vai tālākpārdevēja atrašana](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

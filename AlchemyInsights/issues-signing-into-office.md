@@ -1,5 +1,5 @@
 ---
-title: Pierakstīšanās pakalpojumā Office apps jautājumiem
+title: Problēmas saistībā ar pierakstīšanos Office programmās
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 3622a3408b25b43090e9414ae5ffcfc2760264ee
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938270"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763008"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Pierakstīšanās pakalpojumā Office apps jautājumiem
+# <a name="issues-signing-in-to-office-apps"></a>Problēmas saistībā ar pierakstīšanos Office programmās
 
-Lai labotu pierakstīšanās problēmas ar Office apps, mēģiniet veikt šādas darbības:
+Lai novērstu pierakstīšanās problēmas ar Office lietojumprogrammām, rīkojieties šādi:
 
-- Noņemt visu darbu konti, izņemot skarto kontā, izmantojot Windows iestatījumos > **pieeja darbā vai skolā**.
-- [Notīrīt biroja akreditācijas datus](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , izmantojot Windows Credential Manager.<br/>
-    **Piezīme:** Ir mainījušies 16,0 Office 2016 reģistra ceļus. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Atveriet Office app, izvēlieties **failu** > **konta** > **Sign Out**. Pierakstieties, izmantojot lietotāja kontu ar derīgu licenci. Detalizētu informāciju skatiet [Accounts birojā](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Mac, skatiet sadaļā [nevar pierakstīties Office 2016 Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Ja kļūdas rodas, savienojoties Office 365, izmantojot Office 2013, iespējot mūsdienu Office klienta autentifikāciju.
+- Noņemiet visus darba kontus, izņemot ietekmēto kontu, izmantojot Windows iestatījumus > **piekļuvi darbam vai skolai**.
+- [Notīrīt Office akreditācijas datus](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , izmantojot Windows akreditācijas datu pārvaldnieku.<br/>
+    **Piezīme:** Office 2016 reģistra ceļi ir mainījušies 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Atveriet Office programmu, izvēlieties **failu** > **konta** > **Izrakstīties**. Pēc tam pierakstieties, izmantojot lietotāja kontu ar derīgu licenci. Lai uzzinātu vairāk, lasiet [Office konti](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Darbam ar Mac, skatiet rakstu [nevarat pierakstīties Office 2016 for Mac lietojumprogrammu](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Ja rodas kļūdas, veidojot savienojumu ar Microsoft 365, izmantojot Office 2013, iespējot mūsdienu autentifikācijas Office klienta.
 
-Papildinformāciju skatiet sadaļā
-- [Nevar pierakstīties Office 365, Azure vai Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Pierakstīšanās pēc atjauninājums Office 2016 savienojuma problēmas pamatā Windows 10 16.0.7967](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Atvainojiet, citam kontam no uzņēmuma jau pierakstījies šajā datorā" birojā](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Novērst Office modernās autentifikācijas pierakstīšanās problēmas, kad lietojat ADF](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+Papildinformāciju skatiet rakstā:
+- [Nevar pierakstīties Microsoft 365, Azure vai InTune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+- [Savienojuma problēmas pierakstīšanās pēc atjauninājuma Office 2016 veidot 16.0.7967 Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
+- ["Atvainojiet, citu kontu no jūsu uzņēmums jau ir pierakstījies šajā datorā" Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+- [Pierakstīšanās problēmu novēršana, izmantojot Office moderno autentifikāciju, izmantojot ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)

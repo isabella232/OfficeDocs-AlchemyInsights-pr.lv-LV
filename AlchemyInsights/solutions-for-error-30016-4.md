@@ -1,9 +1,9 @@
 ---
-title: Kļūda 30016 4 risinājumi
+title: Kļūdu risinājumi 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757028"
 ---
-# <a name="solutions-for-error-30016-4"></a>Kļūda 30016 4 risinājumi
+# <a name="solutions-for-error-30016-4"></a>Kļūdu risinājumi 30016-4
 
-Kad jūs mēģināt atinstalēt Office 365 ProPlus no datora, un saņemat kļūdas ziņojumu, **kaut kas nogāja greizi 30016-4**, tas nozīmē, ka ir kartēts **% temp %** disks, disks, kas nav **% ProgramFiles %**.
+Mēģinot atinstalēt Microsoft 365 lietojumprogrammas uzņēmumiem no datora un saņemat kļūdas ziņojumu, **kaut kļūme 30016-4**, tas nozīmē, ka disks **% temp%** ir kartēts diskā, kas nav **% programfiles%**.
   
-Lai izlabotu, lejupielādēt un instalēt [atbalstu un palīgu atkopšanas](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+[Atbalsta un atkopšanas palīga](https://aka.ms/SARA-OfficeUninstall-Alchemy) labošana, lejupielāde un instalēšana
   
-1. Kad to atver, **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt un izvēlēties **nākamo**.
+1. Kad tas atveras, **atinstalēt Office produktus** atlasiet versiju, kuru vēlaties atinstalēt, un atlasiet **Tālāk**.
 
-2. Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.
+2. Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.
 
-    Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.
+    Pēc restartēšanas atbalsta un atkopšanas palīgs automātiski tiek atvērts, lai pabeigtu atinstalēšanas procesu.
 
-3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizvērt palīga.
+3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizveriet palīgu.

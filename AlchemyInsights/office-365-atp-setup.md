@@ -1,29 +1,29 @@
 ---
-title: Office 365 papildu draudus aizsardzība (ATP) uzstādīšana
+title: Office 365 uzlabotā Pretdraudu aizsardzības (ATP) iestatīšana
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419915"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761677"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Biroja papildu draudus 365 aizsardzība (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 uzlabotā Pretdraudu aizsardzība (ATP)
 
-Biroja 365 ATP ietver [Drošu pielikumu](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Drošas saites](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Uzlabotas Anti-Phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing), un vairāk. 
+Office 365 ATP ietver [drošus pielikumus](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [drošas saites](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [progresīvu pretpikšķerēšanas](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)un daudz ko citu. 
 
-ATP ir iekļauta abonementu, piemēram, Office 365 Enterprise E5, Office 365 izglītības A5 un Microsoft 365 Business. Ja jūsu abonements neietver ATP, ATP potenciāli var iegādāties kā pievienojumprogramma. Lai iegūtu papildinformāciju, skatiet [Office 365 ATP pakalpojuma apraksts](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP ir iekļauts abonementos, piemēram, Office 365 Enterprise E5, Office 365 Education A5 un Microsoft 365 Business Premium. Ja abonementā nav iekļauts ATP, iespējams, varat iegādāties ATP kā pievienojumprogrammu. Lai uzzinātu vairāk, skatiet sadaļu [Office 365 ATP pakalpojuma apraksts](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
 ## <a name="set-up-office-365-atp"></a>Iestatīt Office 365 ATP
 
-ATP aizsardzībai būtu spēkā, ir jākonfigurē politiku. Sk. [Quick Start Guide: iestatīt Office 365 papildu draudus aizsardzības](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Lai būtu spēkā ATP aizsardzība, ir jākonfigurē politikas. Skatiet [īsā pamācība: iestatiet Office 365 uzlabotā Pretdraudu aizsardzība](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

@@ -1,9 +1,9 @@
 ---
-title: Kā iegādāties Office 365 izglītības plāni
+title: Kā iegādāties Office 365 Education plāni
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 2ea82331f388fd8903d30ea4d479311f9af9dc31
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 298641023a33bf906487dab3b8f40e87662f7e47
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390951"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763728"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Kā iegādāties Office 365 izglītības plāni
+# <a name="how-to-purchase-office-365-education-plans"></a>Kā iegādāties Office 365 Education plāni
 
-Office 365 izglītības kvalifikācijas ir jāpārskata. Jūs varat gaidīt, lai saņemtu paziņojumu par jūsu atbilstības noteikšanu pirms izmēģinājuma termiņa beigām.
+Jūsu Office 365 Education kvalifikācija tiek pārskatī- Pirms izmēģinājumversijas derīguma termiņa beigām jūs varat saņemt paziņojumu par atbilstības noteikšanu.

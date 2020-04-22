@@ -1,25 +1,25 @@
 ---
-title: Kāda ir mana e-pasta adresi, Outlook Web
+title: Kāda ir mana e-pasta adrese programmā Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555636"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768192"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Kāda ir mana e-pasta adresi, Outlook Web?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Kāda ir mana e-pasta adrese programmā Outlook tīmeklī?
 
-Jūsu e-pasta adrese ir jums piešķīris darbā vai skolā. Izskatās, ka ellen@contoso.onmicrosoft.com, ellen@contoso.edu vai ellen@contoso.com. Šī darba vai skolas konts ir e-pasta adresi un kontam, ko izmantojat, lai pierakstītos programmā Office 365 skolā vai darbā.
+Jūsu e-pasta adrese ir piešķirts jums darba vai skolas. Izskatās, ka ellen@contoso.onmicrosoft.com, ellen@contoso.edu, vai ellen@contoso.com. Šis darba vai skolas konts ir e-pasta adrese un konts, ko izmantojat, lai pierakstītos Microsoft 365 darbam vai skolai.
 
-Jūsu darba vai skolas konts atšķiras no jūsu konta Microsoft. Izmantojat Microsoft kontu par personiskiem pakalpojumiem kā Outlook.com, Xbox Live, Skype un citi.
+Jūsu darba vai mācību konts atšķiras no jūsu Microsoft konta. Savu Microsoft kontu izmantojat personiskajiem pakalpojumiem, piemēram, Outlook.com, Xbox Live, Skype un citām.
 
-Lai iegūtu papildinformāciju, skatiet [kāds ir manu lietotāja ID un kāpēc man tas nepieciešams attiecībā uz biroja 365 biznesam?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Papildinformāciju skatiet sadaļā [kas ir mans lietotāja ID un kāpēc tas ir nepieciešams Microsoft 365 darbam?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

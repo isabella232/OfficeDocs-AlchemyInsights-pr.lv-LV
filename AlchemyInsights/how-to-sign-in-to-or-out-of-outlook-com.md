@@ -1,24 +1,24 @@
 ---
-title: Kā pierakstīties uz vai no Outlook.com
+title: Kā pierakstīties vai no Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: d933335b986d1a991dcd20a557b467a82722ebea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ce8425a22b5a20a0854c75c07ab4d394d4c81cb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540116"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763289"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Kā pierakstīties uz vai no Outlook.com
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Kā pierakstīties vai no Outlook.com
 
-Ja nevarat pierakstīties uz savu Outlook.com, Hotmail, Live vai MSN e-pasta konts vai neesat pārliecināts, kā pierakstīties vai izrakstīties, [šeit ir daži risinājumi](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Ja nevarat pierakstīties savā Outlook.com, Hotmail, Live vai MSN e-pasta kontā vai neesat pārliecināts, kā pierakstīties vai izrakstīties, [Tālāk ir norādīti daži risinājumi](https://go.microsoft.com/fwlink/p/?linkid=2005840).
   
-Ja joprojām rodas problēmas ar pierakstīšanos, redzēt, [kad Microsoft kontā nevar pierakstīties](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Ja jums joprojām ir problēmas ar pierakstīšanos, skatiet sadaļu [Ja nevarat pierakstīties savā Microsoft kontā](https://go.microsoft.com/fwlink/p/?linkid=837479).

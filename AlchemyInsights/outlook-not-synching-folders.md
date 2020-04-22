@@ -1,9 +1,9 @@
 ---
-title: Programma Outlook nevar synching mapes
+title: Outlook nav synching mapes
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768696"
 ---
-# <a name="outlook-not-synching-folders"></a>Programma Outlook nevar synching mapes
+# <a name="outlook-not-synching-folders"></a>Outlook nav synching mapes
 
-Ja Outlook nav synching mapes, kā paredzēts, ir dažas lietas, var mēģināt to labot.
+Ja Outlook nav synching mapes, kā paredzēts, ir dažas lietas, ko varat mēģināt salabot.
 
-1. Samazināt to skaitu pastkastē primārā vai koplietojamās mapes. [Skatiet Outlook veiktspējas jautājumiem, kas ir pārāk daudz vienumi vai mapes kešoto režīmu ost vai PST failu mapes](https://support.microsoft.com/help/2768656).
-2. Atslēgt kešošanu visās koplietojamās mapes.
-3. Mainīt tās konfigurāciju sekundāru Exchange pastkaste ar otro Exchange kontu, jūsu profilā.
+1. Samaziniet primāro vai koplietoto pastkastu mapju skaitu. [Skatiet Outlook veiktspējas problēmas, ja ir pārāk daudz vienumu vai mapju kešotais režīms. ost vai. pst failu mapē](https://support.microsoft.com/help/2768656).
+2. Atspējojiet visu koplietojamo mapju kešdarbi.
+3. Mainiet sekundāro Exchange pastkastes konfigurāciju uz otru Exchange kontu savā profilā.
 
-Plašāku informāciju skatiet [Performance un sinhronizācijas problēmas, strādājot ar sekundāro pastkastes Outlook mapes](https://support.microsoft.com/help/3115602).
+Lai iegūtu papildinformāciju, skatiet [veiktspējas un sinhronizācijas problēmas, strādājot ar mapēm programmā Outlook sekundārajā pastkastē](https://support.microsoft.com/help/3115602).

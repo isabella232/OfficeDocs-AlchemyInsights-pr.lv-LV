@@ -2,7 +2,7 @@
 title: Tīkla migrācija
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761821"
 ---
 # <a name="network-migration"></a>Tīkla migrācija
 
-Jūsu O365 nomnieks, iespējams, ir saistīts ar vairākiem Yammer tīkliem 1 nomniekā: daudzi tīkli konfigurācija. Sākot ar 16 oktobris 2018, Yammer vairs atbalstīt vairākus Yammer tīklus, kas saistīti ar vienu Office 365 nomnieka. Varat veikt tīkla migrāciju, lai nokļūtu pie vēlamās 1:1 konfigurācijas.
+Jūsu O365 nomnieks, iespējams, ir saistīts ar vairākiem Yammer tīkliem 1 nomniekā: daudzi tīkli konfigurācija. Sākot ar 16 oktobris 2018, Yammer vairs atbalstīt vairākus Yammer tīklus, kas saistīti ar vienu nomnieku. Varat veikt tīkla migrāciju, lai nokļūtu pie vēlamās 1:1 konfigurācijas.
   
-- Lai skatītu tīklu, kas saistīti ar jūsu nomnieka sarakstu, piesakieties Yammer kā Office 365 globālā administratora un atrodiet **tīkla administratoru**, pēc tam **tīkla migrācija**. Izvēlieties **Tālāk**.
+- Lai skatītu tīklu, kas saistīti ar jūsu nomnieka sarakstu, piesakieties Yammer kā globālais administrators un pārlūkojiet **tīkla administratoru**, pēc tam **tīkla migrācija**. Izvēlieties **Tālāk**.
 
 - Ja redzat vairākus tīklus, kas norādīti 2. darbībā 3, tad jums ir vairāki Yammer tīkliem, kas saistīti ar jūsu O365 nomnieka.
 
