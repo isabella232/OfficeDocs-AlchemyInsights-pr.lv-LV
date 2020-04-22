@@ -1,8 +1,8 @@
 ---
-title: Kļūdas kods 30125 4 vai 30125 1011 instalējot Office
+title: Kļūdas kods 30125-4 vai 30125-1011, instalējot Office
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527105"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703069"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a><span data-ttu-id="e5c3b-102">Kļūdas kods 30125 4 vai 30125 1011 instalējot Office</span><span class="sxs-lookup"><span data-stu-id="e5c3b-102">Error code 30125-4 or 30125-1011 when installing Office</span></span>
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a><span data-ttu-id="94d2b-102">Kļūdas kods 30125-4 vai 30125-1011, instalējot Office</span><span class="sxs-lookup"><span data-stu-id="94d2b-102">Error code 30125-4 or 30125-1011 when installing Office</span></span>
 
-<span data-ttu-id="e5c3b-103">Šī kļūda var redzēt, ja pretvīrusu programmatūru, ugunsmūra, starpniekservera iestatījumus vai savienojuma neļaut instalēt Office.</span><span class="sxs-lookup"><span data-stu-id="e5c3b-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="e5c3b-104">Šeit ir dažas lietas, jūs varat mēģināt novērst šo problēmu:</span><span class="sxs-lookup"><span data-stu-id="e5c3b-104">Here are some things you can try to fix the problem:</span></span>
+<span data-ttu-id="94d2b-103">Šis kļūdas ziņojums var tikt parādīts, ja pretvīrusu programmatūra, ugunsmūris, starpniekservera iestatījumi vai savienojums neļauj instalēt Office.</span><span class="sxs-lookup"><span data-stu-id="94d2b-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="94d2b-104">Tālāk ir norādītas dažas darbības, ko varat veikt, lai novērstu problēmu.</span><span class="sxs-lookup"><span data-stu-id="94d2b-104">Here are some things you can try to fix the problem:</span></span>
   
-- <span data-ttu-id="e5c3b-105">Restartējiet datoru un pārinstalējiet Office</span><span class="sxs-lookup"><span data-stu-id="e5c3b-105">Restart your computer and reinstall Office</span></span>
+- <span data-ttu-id="94d2b-105">Restartējiet datoru un pārinstalējiet Office</span><span class="sxs-lookup"><span data-stu-id="94d2b-105">Restart your computer and reinstall Office</span></span>
 
-- <span data-ttu-id="e5c3b-106">Instalēt Office lietošana [Office bezsaistes uzstādītājs](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e5c3b-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="94d2b-106">Instalēt Office, izmantojot [Office Offline Installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="94d2b-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="e5c3b-107">Uz laiku izslēdziet starpniekservera iestatījumus</span><span class="sxs-lookup"><span data-stu-id="e5c3b-107">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="94d2b-107">Īslaicīgi izslēdziet starpniekservera iestatījumus</span><span class="sxs-lookup"><span data-stu-id="94d2b-107">Temporarily turn off proxy settings</span></span>
 
-- <span data-ttu-id="e5c3b-108">Uz laiku izslēgt pretvīrusu programmatūru</span><span class="sxs-lookup"><span data-stu-id="e5c3b-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="94d2b-108">Pretvīrusu programmatūras īslaicīgi izslēgšana</span><span class="sxs-lookup"><span data-stu-id="94d2b-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="e5c3b-109">Uz laiku izslēgt ugunsmūra</span><span class="sxs-lookup"><span data-stu-id="e5c3b-109">Temporarily turn off firewall</span></span>
+- <span data-ttu-id="94d2b-109">Īslaicīgi izslēdziet ugunsmūri</span><span class="sxs-lookup"><span data-stu-id="94d2b-109">Temporarily turn off firewall</span></span>
 
-<span data-ttu-id="e5c3b-110">Lai iegūtu papildinformāciju, skatiet [kļūdu kodu 30125 4 vai 30125 1011 instalējot Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e5c3b-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span></span>
+<span data-ttu-id="94d2b-110">Papildinformāciju skatiet sadaļā [kļūdas kods 30125-4 vai 30125-1011, instalējot Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="94d2b-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)</span></span>
   
