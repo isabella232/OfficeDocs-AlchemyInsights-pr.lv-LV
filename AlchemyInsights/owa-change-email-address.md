@@ -1,9 +1,9 @@
 ---
-title: Mainīt e-pasta adresi, Outlook Web
+title: Mainīt e-pasta adresi programmā Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7afa86c3f2d9a00606cfd371b07243c85aa8bdb8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a56f88f09a8a3a14ce63cebabe0281ba68a359f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510522"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743100"
 ---
-# <a name="change-your-office-365-email-address"></a><span data-ttu-id="a242c-102">Mainiet Office 365 e-pasta adresi</span><span class="sxs-lookup"><span data-stu-id="a242c-102">Change your Office 365 email address</span></span> 
+# <a name="change-your-email-address"></a><span data-ttu-id="5f3a2-102">E-pasta adreses maiņa</span><span class="sxs-lookup"><span data-stu-id="5f3a2-102">Change your email address</span></span> 
 
-<span data-ttu-id="a242c-103">Lai mainītu savu e-pasta adresi, jums nepieciešamas administratora tiesības.</span><span class="sxs-lookup"><span data-stu-id="a242c-103">To change your email address, you'll need administrator privileges.</span></span>
+<span data-ttu-id="5f3a2-103">Lai mainītu savu e-pasta adresi, jums būs nepieciešamas administratora privilēģijas.</span><span class="sxs-lookup"><span data-stu-id="5f3a2-103">To change your email address, you'll need administrator privileges.</span></span>
   
-<span data-ttu-id="a242c-104">Izpildiet norādījumus [mainīt lietotājvārdu un e-pasta adresi programmā Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span><span class="sxs-lookup"><span data-stu-id="a242c-104">Follow the instructions in [Change a user name and email address in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>
+<span data-ttu-id="5f3a2-104">Izpildiet norādījumus, lai [mainītu lietotāja vārdu un e-pasta adresi Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span><span class="sxs-lookup"><span data-stu-id="5f3a2-104">Follow the instructions in [Change a user name and email address in Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>

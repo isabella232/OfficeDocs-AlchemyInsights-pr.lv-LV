@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Nevēlamais e-pasts - franču
+title: Outlook.com junk mail-franču
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1149"
 - "1150"
 - "8000072"
-ms.openlocfilehash: 752c69dec3349d5d33f671f36019a2ad13f6ff8f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4de36c66b960a897a70212442e8dc12ad4f04b72
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760059"
 ---
-# <a name="empcher-le-courrier-indsirable-dans-outlookcom"></a><span data-ttu-id="d77de-102">Empêcher le courrier indésirable dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d77de-102">Empêcher le courrier indésirable dans Outlook.com</span></span>
+# <a name="empcher-le-courrier-indsirable-dans-outlookcom"></a><span data-ttu-id="16425-102">Empêcher Le kurjera indésirable Dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="16425-102">Empêcher le courrier indésirable dans Outlook.com</span></span>
 
-<span data-ttu-id="d77de-103">SI vous voyez une palielināšanu de courrier indésirable et le courrier indésirable, il existe plusieurs façons de réduire la quantité de courrier indésirable qui ierasties dans jūsu boîte de réception.</span><span class="sxs-lookup"><span data-stu-id="d77de-103">Si vous voyez une augmentation de courrier indésirable et le courrier indésirable, il existe plusieurs façons de réduire la quantité de courrier indésirable qui arrive dans votre boîte de réception.</span></span>
+<span data-ttu-id="16425-103">SI vous voyez une palielināšana de kurjera indésirable et Le kurjera indésirable, IL existe plusieurs fasoniem de réduire La quantité de kurjera indésirable qui ierodas Dans votre Boîte de réception.</span><span class="sxs-lookup"><span data-stu-id="16425-103">Si vous voyez une augmentation de courrier indésirable et le courrier indésirable, il existe plusieurs façons de réduire la quantité de courrier indésirable qui arrive dans votre boîte de réception.</span></span>
 
-<span data-ttu-id="d77de-104">Ieliet lv savoir plus lire [Empêcher le courrier indésirable d'être klāt de réception de jūsu boîte Outlook.com](https://support.office.com/fr-fr/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d77de-104">Pour en savoir plus lire [Empêcher le courrier indésirable d’être absent de votre boîte de réception Outlook.com](https://support.office.com/fr-fr/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="16425-104">Pour EN Savoir plus ITL [empêcher Le kurjera indésirable d ' être prombūtnē de votre Boîte de réception Outlook.com](https://support.office.com/fr-fr/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="16425-104">Pour en savoir plus lire [Empêcher le courrier indésirable d’être absent de votre boîte de réception Outlook.com](https://support.office.com/fr-fr/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

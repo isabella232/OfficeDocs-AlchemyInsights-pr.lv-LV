@@ -1,9 +1,9 @@
 ---
-title: Sync Kontakti Outlook.com
+title: Sinhronizēt kontaktus Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511782"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722275"
 ---
-# <a name="sync-contacts"></a><span data-ttu-id="01e84-102">Sync Kontakti</span><span class="sxs-lookup"><span data-stu-id="01e84-102">Sync contacts</span></span>
+# <a name="sync-contacts"></a><span data-ttu-id="48e98-102">Sinhronizēt kontaktpersonas</span><span class="sxs-lookup"><span data-stu-id="48e98-102">Sync contacts</span></span>
 
-<span data-ttu-id="01e84-103">Programmu Outlook sinhronizē kontaktus veidojot [cilvēku](https://outlook.live.com/people/) pāri citām ierīcēm un progr, kā Android programmas Outlook un Outlook iOS.</span><span class="sxs-lookup"><span data-stu-id="01e84-103">Outlook syncs the contacts you create in [People](https://outlook.live.com/people/) across other devices and apps, such as Outlook for Android and Outlook for iOS.</span></span> <span data-ttu-id="01e84-104">Uzziniet, kā veidot [kontaktus](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="01e84-104">Learn how to [create contacts](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
+<span data-ttu-id="48e98-103">Programma Outlook sinhronizē kontaktpersonas, kuras izveidojat programmā [personas](https://outlook.live.com/people/) citās ierīcēs un lietotnēs, piemēram, Outlook darbam ar Android un Outlook operētājsistēmai iOS.</span><span class="sxs-lookup"><span data-stu-id="48e98-103">Outlook syncs the contacts you create in [People](https://outlook.live.com/people/) across other devices and apps, such as Outlook for Android and Outlook for iOS.</span></span> <span data-ttu-id="48e98-104">Uzziniet, kā [izveidot kontaktpersonas](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="48e98-104">Learn how to [create contacts](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
 
-<span data-ttu-id="01e84-105">Netiek sinhronizētas importētās kontaktpersonas (piemēram, kontaktpersonas no citas e-pasta kontu, jūs esat savienots ar Outlook.com kontu).</span><span class="sxs-lookup"><span data-stu-id="01e84-105">Imported contacts (for example, contacts from another email account you've connected to your Outlook.com account) aren't synced.</span></span> <span data-ttu-id="01e84-106">Uzziniet, kā [Importēt kontaktpersonas](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span><span class="sxs-lookup"><span data-stu-id="01e84-106">Learn how to [import contacts](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span></span>
+<span data-ttu-id="48e98-105">Importētās kontaktpersonas (piemēram, kontaktpersonas no cita e-pasta konta, ar kuru esat izveidojis savienojumu ar savu Outlook.com kontu) netiek sinhronizētas.</span><span class="sxs-lookup"><span data-stu-id="48e98-105">Imported contacts (for example, contacts from another email account you've connected to your Outlook.com account) aren't synced.</span></span> <span data-ttu-id="48e98-106">Uzziniet, kā [Importēt kontaktpersonas](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span><span class="sxs-lookup"><span data-stu-id="48e98-106">Learn how to [import contacts](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span></span>
