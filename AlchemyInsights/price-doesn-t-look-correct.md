@@ -1,9 +1,9 @@
 ---
-title: Cena nav pareizs?
+title: Cena neizskatās pareizi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388499"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666712"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="498a5-102">Cena nav pareizs?</span><span class="sxs-lookup"><span data-stu-id="498a5-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="f0e83-102">Cena neizskatās pareizi?</span><span class="sxs-lookup"><span data-stu-id="f0e83-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="498a5-103">Ja jūsu rēķina cenu neizskatās pareizi, tas varētu būt sakarā ar cenu izmaiņām pēc atjaunošanas.</span><span class="sxs-lookup"><span data-stu-id="498a5-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="498a5-104">Ja jūs nedomāju, ka tas izskaidro šo jautājumu, lūdzu, izmantojiet opciju "Ļaujiet mums piezvanīt jums" runāt ar atbalsta inženieri.</span><span class="sxs-lookup"><span data-stu-id="498a5-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="f0e83-103">Ja rēķinā minētā cena neizskatās pareizi, tā var būt cenu izmaiņu dēļ atjaunošanas laikā.</span><span class="sxs-lookup"><span data-stu-id="f0e83-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="f0e83-104">Ja jūs neticat tas izskaidro jautājumu, lūdzu, izmantojiet "Ļaujiet mums piezvanīt jums" iespēja runāt ar atbalsta inženieri.</span><span class="sxs-lookup"><span data-stu-id="f0e83-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>

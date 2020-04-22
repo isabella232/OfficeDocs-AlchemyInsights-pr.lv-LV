@@ -1,9 +1,9 @@
 ---
-title: Maina organizācijas profils
+title: Mainīt organizācijas profilu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: 00faf0bae2f1f3a5b032cdd796867da8e7351c48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706690"
 ---
-# <a name="change-organization-profile"></a><span data-ttu-id="ca6e0-102">Maina organizācijas profils</span><span class="sxs-lookup"><span data-stu-id="ca6e0-102">Change Organization profile</span></span>
+# <a name="change-organization-profile"></a><span data-ttu-id="e5ad8-102">Mainīt organizācijas profilu</span><span class="sxs-lookup"><span data-stu-id="e5ad8-102">Change Organization profile</span></span>
 
-<span data-ttu-id="ca6e0-103">Mainīt sava uzņēmuma nosaukumu, adresi, kontaktinformāciju tehnisko un vairāk administrēšanas centra **Iestatījumi** > [uzņēmuma profila](https://go.microsoft.com/fwlink/p/?linkid=2067339) lapā.</span><span class="sxs-lookup"><span data-stu-id="ca6e0-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
+<span data-ttu-id="e5ad8-103">Mainiet uzņēmuma nosaukumu, adresi, tehnisko kontaktinformāciju un citu informāciju administrēšanas centrā lapā **Iestatījumi** > [organizācijas profils](https://go.microsoft.com/fwlink/p/?linkid=2067339) .</span><span class="sxs-lookup"><span data-stu-id="e5ad8-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
 
-<span data-ttu-id="ca6e0-104">Noteikti aizpildiet visus obligātos laukus, kas atzīmēti ar \*, lai iespējotu izmaiņu saglabāšanas.</span><span class="sxs-lookup"><span data-stu-id="ca6e0-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
+<span data-ttu-id="e5ad8-104">Noteikti aizpildiet visus nepieciešamos laukus, kas atzīmēti ar \*, lai iespējotu izmaiņu saglabāšanu.</span><span class="sxs-lookup"><span data-stu-id="e5ad8-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
 
-<span data-ttu-id="ca6e0-105">[Skatiet papildinformāciju, adresi vai norēķinu adreses izmaiņām](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="ca6e0-105">[See more information on address or billing address changes](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span></span>
+<span data-ttu-id="e5ad8-105">[Skatiet plašāku informāciju par adreses vai norēķinu adreses izmaiņām](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="e5ad8-105">[See more information on address or billing address changes](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span></span>

@@ -3,7 +3,7 @@ title: Mainīt to, cik bieži maksājat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217871"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706834"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="6452b-102">Mainīt to, cik bieži maksājat</span><span class="sxs-lookup"><span data-stu-id="6452b-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="881b3-102">Mainīt to, cik bieži maksājat</span><span class="sxs-lookup"><span data-stu-id="881b3-102">Change how often you pay</span></span>
 
-<span data-ttu-id="6452b-103">Iegādājoties abonementu, varat izvēlēties mēneša vai gada rēķinus.</span><span class="sxs-lookup"><span data-stu-id="6452b-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="6452b-104">Lai mainītu, cik bieži tiek izrakstīts rēķins par abonementu, veiciet tālāk norādītās darbības.</span><span class="sxs-lookup"><span data-stu-id="6452b-104">To change how often you are billed for a subscription, use the following steps.</span></span>
-
-1. <span data-ttu-id="6452b-105">Administrēšanas centrā atveriet lapu \*\*norēķinu> [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="6452b-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-
-2. <span data-ttu-id="6452b-106">Atrodiet abonementu, kuru vēlaties mainīt.</span><span class="sxs-lookup"><span data-stu-id="6452b-106">Find the subscription you want to change.</span></span> <span data-ttu-id="6452b-107">Sadaļā **norēķini** noklikšķiniet uz **Rediģēt**, kas atrodas blakus **rēķinā katru mēnesi** vai **katru gadu**.</span><span class="sxs-lookup"><span data-stu-id="6452b-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
-
-3. <span data-ttu-id="6452b-108">Izvēlieties opciju, cik bieži vēlaties izrakstīt rēķinus, un pēc tam noklikšķiniet uz **mainīt**.</span><span class="sxs-lookup"><span data-stu-id="6452b-108">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+ <span data-ttu-id="881b3-103">**Vēlaties mainīt maksājuma biežumu?**</span><span class="sxs-lookup"><span data-stu-id="881b3-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="881b3-104">Ja vēlaties mainīt to, cik bieži maksājat par Microsoft 365 par uzņēmumu abonementu, vai nu no gada uz mēnesi vai katru mēnesi, lai gada laikā, mēs varam jums palīdzēt ar to.</span><span class="sxs-lookup"><span data-stu-id="881b3-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="881b3-105">Jums būs jāiegādājas viens un tas pats abonements ar jauno maksājumu biežumu un jāatceļ vecais abonements.</span><span class="sxs-lookup"><span data-stu-id="881b3-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="881b3-106">Lūdzu, izmantojiet opciju "piezvaniet jums", lai runātu ar atbalsta inženieri.</span><span class="sxs-lookup"><span data-stu-id="881b3-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
