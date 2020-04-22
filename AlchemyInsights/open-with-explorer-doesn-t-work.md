@@ -1,9 +1,9 @@
 ---
-title: Atvērt, izmantojot Internet Explorer nedarbojas
+title: Atvērt ar Explorer nedarbojas
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 7680766b53bd5e85789375d3f9e9ab635780ec6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538486"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713041"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Atvērt, izmantojot Internet Explorer nedarbojas
+# <a name="open-with-explorer-isnt-working"></a>Atvērt ar Explorer nedarbojas
 
-**Atvērt, izmantojot Internet Explorer** vai **View File Explorer** nedarbojas pārliecinieties, WebClient pakalpojums ir noteikta, lai **darbojas** , izpildot tālāk norādītos soļus. Piemēram, var paiet ilgs laiks, lai atvērtu bibliotēku SharePoint vai OneDrive, kad pakalpojums nedarbojas. 
+Ja **Atvērt ar Explorer** vai **Skatīt failu pārlūks** nedarbojas pārliecinieties, vai webclient pakalpojums ir iestatīts uz **darbojas** , izpildot tālāk norādītās darbības. Piemēram, var paiet ilgs laiks, lai atvērtu SharePoint vai OneDrive bibliotēku, kad pakalpojums nedarbojas. 
   
-1. Windows meklēšanas lodziņā ierakstiet palaist, atlasiet palaist darbvirsmas app, ierakstiet Services. msc un pēc tam atlasiet **Enter**.
+1. Windows meklēšanas lodziņā ierakstiet palaist, atlasiet palaist datora programmu, ierakstiet Services. msc un pēc tam atlasiet **Enter**.
     
-2. Ritiniet uz leju, lai WebClient pakalpojumu un pārbaudiet **statusa** kolonnā. Ja WebClient pakalpojuma statuss nav **palaists**, veiciet dubultklikšķi uz pakalpojuma, noklikšķiniet uz **Sākt**un pēc tam noklikšķiniet uz **Labi**. Jāiespējo pakalpojums, ja nepieciešams, atlasot **manuālu** vai **automātisku** **startēšanas tips** lodziņā. 
+2. Ritiniet uz leju līdz WebClient pakalpojumam un pārbaudiet **statusa** sleju. Ja WebClient pakalpojuma statuss nav **palaists**, veiciet dubultklikšķi uz pakalpojuma, noklikšķiniet uz **sāktun**pēc tam noklikšķiniet uz **Labi**. Iespējojiet pakalpojumu, ja nepieciešams, lodziņā **startēšanas tips** atlasot **Manuāls** vai **Automātisks** . 
     
 > [!NOTE]
-> Novērst problēmas, atverot failu Explorer, skatiet [Atvērt programmā Internet Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Izpētīt ācijas labāka alternatīva: [sinhronizācijas SharePoint faili ar jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Lai novērstu problēmas, atverot failu pārlūkā, skatiet [Atvērt programmā Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Izpētiet sinhronizāciju kā labāku alternatīvu: [sinhronizējiet SharePoint failus ar jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

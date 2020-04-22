@@ -2,18 +2,18 @@
 title: Saziņas vietnes izveide
 ms.author: pebaum
 author: pebaum
-ms.date: 11/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049920"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715603"
 ---
 # <a name="create-a-communication-site"></a>Saziņas vietnes izveide
 
@@ -23,7 +23,7 @@ Izveidot saziņas vietnes SharePoint Online, veiciet šādas darbības:
     
 2. SharePoint lapas augšdaļā noklikšķiniet uz **izveidot vietni** un izvēlieties **saziņas vietne**. Izpildiet vietnes izveides vednī norādītās darbības. 
     
- **Piezīme**: ja jūs neredzat opciju **izveidot vietni**, pašapkalpošanās vietnes izveide var atspējot Office 365. Sazinieties ar personu, kas administrē Office 365 jūsu organizācijā, lai izveidotu grupas vietni. Ja esat nomnieka administrators, skatiet [pārvaldīt vietnes izveide SharePoint Online iespējot pašapkalpošanās vietnes izveide organizācijā.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Piezīme**: ja nav redzama opcija **izveidot vietni**, pašapkalpošanās vietnes izveide var atspējot. Sazinieties ar personu, kas administrē Microsoft 365 jūsu organizācijā, lai izveidotu grupas vietni. Ja esat nomnieka administrators, skatiet [pārvaldīt vietnes izveide SharePoint Online iespējot pašapkalpošanās vietnes izveide organizācijā.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
  **Piezīme:** Ja mēģināt izveidot saziņas vietni un URL tiek pievienots ar nejaušiem skaitļiem, iespējams, vietne ar tādu pašu vietrādi URL jau pastāv SharePoint vidē vai izdzēsta un joprojām pastāv dzēstās vietnēs (Atkritne). Izmantojiet [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) , lai novērtētu atkritni un [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) noņemtu vietni no atkritnes. 
   

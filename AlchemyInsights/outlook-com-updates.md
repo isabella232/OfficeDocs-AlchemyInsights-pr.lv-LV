@@ -1,9 +1,9 @@
 ---
-title: Outlook.com atjauninājumus
+title: Outlook.com atjauninājumi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511314"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719347"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com atjauninājumus
+# <a name="outlookcom-updates"></a>Outlook.com atjauninājumi
 
-**Jaunākos atjauninājumus**
+**Pēdējie precizējumi**
 
-- Iegūt vairāk no jūsu e-pastu ar jaunu Outlook.com. Mēs esam racionalizēta meklēt, lai vieglāk nekā jebkad atrast meklēto. Jaunos līdzekļus, piemēram, fotogrāfijas un pielikumu priekšskatījumiem ļauj apskatīt attēlus un failus, neizejot no iesūtnes. Un tagad jūs varat pievienot emojis un GIFs savus ziņojumus.  [Uzzināt vairāk par jauno Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Iegūstiet vairāk no sava e-pasta ar jauno Outlook.com. Mēs esam racionalizējuši meklēšanu, lai būtu vieglāk nekā jebkad atrast meklēto. Jauni līdzekļi, piemēram, fotoattēli un pielikumu priekšskatījumi, ļauj skatīt attēlus un failus, neizejot no iesūtnes. Tagad saviem ziņojumiem varat pievienot emocijzīmes un GIF attēlus.  [Uzziniet vairāk par jauno Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **E-pasta atjauninājumus**
 
-- Ja pastkastes Outlook.com ne atjaunināšanu, skatiet [Outlook.com noteikt e-pasta sinhronizācijas problēmas](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ja jūsu Outlook.com pastkaste nav atjaunināšanu, skatiet [Fix Outlook.com e-pasta sinhronizācijas problēmas](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

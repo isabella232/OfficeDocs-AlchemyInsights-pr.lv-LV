@@ -1,9 +1,9 @@
 ---
-title: Izveidot Intune politiku un profili
+title: InTune politiku un profilu izveide
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514770"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715403"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Intune politikas un profilu izveide
+# <a name="creating-intune-policy-and-profiles"></a>InTune politikas un profilu izveide
 
-Intune, var izveidot politiku un profili, kas darīt dažādas lietas.
+InTune, varat izveidot politikas un profili, kas dažādas lietas.
 
-- **Iesaistīšanās profili**: Preconfigure ierīces platformas, iespējot lietotāja piederību, izmantot vairāku faktoru autentifikaciju un daudz ko citu.
+- **Reģistrācijas profili**: prekonfigurējiet ierīces platformā, iespējojiet lietotāju radniecību, izmantojiet vairāku faktoru autentifikāciju un daudz ko citu.
 
-  [Kāds ir ierīces reģistrāciju](https://docs.microsoft.com/intune/device-enrollment), un izveidot reģistrācijas profilus, [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll), un [logi](https://docs.microsoft.com/intune/windows-enrollment-methods) ir labas resursu.
+  [Kas ir ierīču reģistrācija](https://docs.microsoft.com/intune/device-enrollment), un izveidojiet reģistrācijas profilus [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)un [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) ir labi resursi.
 
-- **Atbilstības politikām**: definējiet noteikumus un ierīcēm jāatbilst jābūt atbilstošiem iestatījumus. Var izmantot atbilstības politikām, lai uzraudzītu ierīces un paziņo lietotājiem par neatbilstību.
+- **Atbilstības politikas**: definējiet kārtulas un iestatījumus, kas ierīcēm jāievēro, lai tās būtu saderīgas. Varat arī izmantot atbilstības politikas, lai uzraudzītu ierīces un paziņotu lietotājiem par neatbilstību.
 
-  Iepazīstieties ar [ierīces atbilstību politikām](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Ierobežotas piekļuves politiku**: palīdzēt drošu organizācijas resursiem, atkarībā no apstākļiem, ko ievadāt. Piemēram, attiecībā uz ierīcēm, kas nav atbilstīgs, izmantot ierobežotas piekļuves ierobežot piekļuvi e-pastam un SharePoint.
+  Darba sākšana ar [ierīču atbilstības politikām](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Ierobežotas piekļuves politikas**: palīdzēt nodrošināt organizatoriskos resursus, atkarībā no nosacījumiem, ko ievadāt. Piemēram, ierīcēm, kas nav saderīgas, izmantojiet ierobežotu piekļuvi, lai ierobežotu piekļuvi e-pastam un SharePoint.
 
-  [Kāda ir ierobežotas piekļuves](https://docs.microsoft.com/intune/conditional-access) un [kopējas lietošanas ierobežotas piekļuves veidi](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) ir laba resursus, lai sāktu.
+  [Kas ir ierobežotas piekļuves](https://docs.microsoft.com/intune/conditional-access) un [kopīgas iespējas izmantot ierobežotas piekļuves](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) ir labi resursi, lai sāktu.
 
-- **Konfigurācijas profilu**: pārvaldīt līdzekļus un ierīces, tostarp e-pasta iestatījumi iestatījumi, pievienojiet WiFi tīklu, izmantot iebūvētas veidnes, iOS un macOS vadības ierīces funkcijas un vairāk.
+- **Konfigurācijas profili**: pārvaldiet ierīces līdzekļus un iestatījumus, tostarp e-pasta iestatījumus, pievienojiet Wi-Fi tīklu, izmantojiet iebūvētās veidnes, kontrolējiet IOS un macOS ierīces funkcijas un daudz ko citu.
 
-  Sākt darbu pie [ierīces konfigurācijas profilus](https://docs.microsoft.com/intune/device-profiles).
+  Sāktu darbu ar [ierīces konfigurācijas profiliem](https://docs.microsoft.com/intune/device-profiles).
 
 Noderīgas saites:
 
-- [Kopējā jautājumiem, jautājumiem un rezolūcijas ierīces politikai un profili Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Bieži uzdotie jautājumi, problēmas un risinājumi ar ierīču politikas un profili InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Problēmu novēršana darbā ar politikas un profili Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Problēmu novēršana politikas un profili InTune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

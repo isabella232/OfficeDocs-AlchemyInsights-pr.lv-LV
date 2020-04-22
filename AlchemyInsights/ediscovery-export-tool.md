@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714777"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nevar instalēt vai palaist eDiscovery eksportēšanas rīku?
 
-Ja nevarat instalēt vai palaist Office 365 eDiscovery eksportēšanas rīku, lai lejupielādētu meklēšanas rezultātus, pārbaudiet tālāk norādītās darbības.
+Ja nevarat instalēt vai palaist eDiscovery eksportēšanas rīku, lai lejupielādētu meklēšanas rezultātus, pārbaudiet tālāk norādītās darbības.
   
 - Dators, kuru izmantojat, atbilst šiem priekšnosacījumiem:
 
@@ -43,7 +43,7 @@ Ja nevarat instalēt vai palaist Office 365 eDiscovery eksportēšanas rīku, la
 
 - Jūsu organizācija var izveidot savienojumu ar galapunktu pakalpojumā Azure, kas ir ** \*. BLOB.Core.Windows.NET** (aizstājējzīme atbilst jūsu eksportēšanas darba unikālajam identifikatoram).
 
-- Jums ir piešķirta eksporta loma Office 365 drošības &amp; atbilstības centrā. Pēc noklusējuma šī loma tiek piešķirta tikai eDiscovery Manager lomu grupai. Skatiet sadaļu [eDiscovery atļauju piešķiršana](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Jums ir piešķirta eksporta loma Microsoft 365 drošības &amp; atbilstības centrā. Pēc noklusējuma šī loma tiek piešķirta tikai eDiscovery Manager lomu grupai. Skatiet sadaļu [eDiscovery atļauju piešķiršana](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
 Papildinformāciju skatiet sadaļā [satura meklēšanas rezultātu eksportēšana](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

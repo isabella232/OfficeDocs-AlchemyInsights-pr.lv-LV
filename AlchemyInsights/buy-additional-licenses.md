@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664723"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712178"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Iegādāties Office 365 papildu licences
+# <a name="buy-additional-licenses"></a>Iegādāties papildu licences
 
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Atrodiet pievienojamo licences abonementa un pēc tam atlasiet **Add/Remove licences**.
+2. Atrodiet abonementu, kuram vēlaties pievienot licences, un pēc tam atlasiet **Pievienot/noņemt licences**.
 
-    [Ko darīt, ja es neredzu saiti pievienot/noņemt?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Kā rīkoties, ja neredzat saiti pievienot/noņemt?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Lodziņā **kopējais licenču** ievadiet licences, kas nepieciešamas šo abonementu skaits, un pēc tam izvēlieties **iesniegšanas mainīt**. Piemēram, ja jums ir 100 licences un jāpievieno 5 vairāk ievadiet 105.
+3. Lodziņā **licences kopā** ievadiet kopējo licenču skaitu, kas nepieciešams šim abonementam, un pēc tam izvēlieties **iesniegt izmaiņas**. Piemēram, ja jums ir 100 licences un jums ir nepieciešams pievienot vēl 5, ievadiet 105.
 
     > [!NOTE]
-    > Ja jūs maksājat par abonementu ar kredītkartes vai bankas konta, jaunas licences, ko jūs pērkat ir pieejami uzreiz pēc tam, kad tiek saņemts pasūtījuma apstiprinājums. Ja jums ir jāmaksā rēķins, esat jāgaida kredīta pārbaude pirms jaunas licences ir pieejami lietošanai.
+    > Ja maksājat par abonementu ar kredītkarti vai bankas kontu, visas jaunās licences, ko iegādājaties, ir pieejamas uzreiz pēc pasūtījuma apstiprinājuma saņemšanas. Ja maksājat ar rēķinu, iespējams, būs jāgaida kredīta pārbaude, pirms jūsu jaunās licences būs pieejamas lietošanai.
 
-Lai uzzinātu vairāk, skatiet sadaļu [nopirkt jūsu Office 365 biznesa abonementa licences](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Papildinformāciju skatiet sadaļā [licenču iegāde Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)darbam ar abonementu.  
 
 **Papildu resursi**
 
-- [Licences piešķiršana lietotājiem Office 365 biznesa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Piešķirt licences lietotājiem Microsoft 365 uzņēmumiem](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

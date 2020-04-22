@@ -1,9 +1,9 @@
 ---
-title: Beidzu Office 365 abonementu?
+title: Microsoft 365 abonementa atcelšana?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520314"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711494"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Beidzu Office 365 abonementu?
+# <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 abonementa atcelšana?
 
-Mums ļoti žēl redzēt jūs iet, bet šeit ir jūsu iespējas, lai atceltu abonementu:
+Mums ir žēl redzēt jūs iet, bet šeit ir jūsu iespējas atcelt savu abonementu:
   
-- **Pamatojoties uz organizācijas datiem, mēs uzskatām, ka visas jūsu pašreizējās abonementi ir izmēģinājuma abonementu. Nav nepieciešams skaidri atcelt izmēģinājuma abonementu, jo izmēģinājuma abonementu nepieciešams maksājumi un nav pienākuma pēc katras pārbaudes beigām.**
+- **Pamatojoties uz jūsu organizācijas datiem, mēs uzskatām, ka visi jūsu pašreizējie abonementi ir izmēģinājumversijas abonementi. Nav nepieciešams skaidri atcelt izmēģinājumversijas abonementu, jo izmēģinājumversijas abonementi nepieprasa maksājumus un nav pienākuma pēc izmēģinājumversijas beigām.**
 
-- Lai uzzinātu vairāk par abonementa atcelšana vai detalizētas instrukcijas, skatiet šajā rakstā: [atcelt jūsu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Lai uzzinātu vairāk par abonementa atcelšanu vai pakāpen, pa solim instrukcijām, skatiet šo rakstu: [abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

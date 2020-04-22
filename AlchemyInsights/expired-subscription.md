@@ -3,7 +3,7 @@ title: Beidzies abonements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665047"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714157"
 ---
 # <a name="expired-subscription"></a>Beidzies abonements
 
-Šķiet, ka jums ir viena vai vairākas novecojušos abonementus. Ja jūs vēlētos turpināt pakalpojumu, aktivizēt abonementu vai veikt jaunu pirkumu.
+Šķiet, jums ir viens vai vairāki beidzās abonementi. Ja vēlaties turpināt pakalpojumu, jums ir atkārtoti jāaktivizē abonements vai jāveic jauns pirkums.
   
-**Lai atkal aktivizētu**
+**Aktivizēt atkārtoti**
   
-1. Admin Center, dodieties uz **norēķinu** \> [& pakalpojumu produktu](https://go.microsoft.com/fwlink/p/?linkid=842054) lapu.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Atrast abonements, ko vēlaties atkārtoti aktivizēt. Sadaļā **norēķinu** , izvēlieties **Aktivizēt**.
+2. Izvēlieties abonementu, ko vēlaties atkārtoti aktivizēt. Sadaļā **Norēķini** izvēlieties **Atkārtoti aktivizēt**.
 
-Ja neredzat **Aktivizēt** kā pieejamo darbību, sazinieties ar atbalsta darbiniekiem atkārtoti jāaktivizē abonements.
+Ja darbība **Atkārtoti aktivizēt** nav pieejama, sazinieties ar atbalsta dienestu, lai atkārtoti aktivizētu abonementu.
 
-3. Jāapstiprina maksājuma detaļas. Varat atjaunināt šeit esošo maksājumu informāciju. Kad esat pabeidzis ievadīt savu maksājuma veidu, izvēlieties **Aktivizēt**.
+3. Apstipriniet maksājuma informāciju. Šeit varat atjaunināt esošo maksājuma informāciju. Kad esat ievadījis maksāšanas metodi, izvēlieties **Atkārtoti aktivizēt**.
 
-Lai uzzinātu vairāk, skatiet [Aktivizēt abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**Izveidotu jaunu pirkšanas**
+**Veikt jaunu pirkumu**
   
-1. Admin Center, dodieties uz **norēķinu** \> [Pirkšanas pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) lapā.
+1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [iegādes pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Izvēlēties, kuru vēlaties nopirkt, tad izvēlas **iegādāties**abonementu.
+2. Izvēlieties abonementu, kuru vēlaties iegādāties, un pēc tam izvēlieties **iegādāties**.
 
-3. Ievadiet numuru, licences, jums ir nepieciešams, un izvēlēties, vai maksāt katru mēnesi vai visu gadu. Izvēlieties, vai vēlaties, lai automātiski piešķirtu licences ikvienam, kurš pašlaik nav licences. Pēc tam izvēlieties **pārbaudīt, kas tagad**.
+3. Ievadiet nepieciešamo licenču skaitu un izvēlieties, vai maksāt katru mēnesi vai visu gadu. Izvēlieties, vai vēlaties automātiski piešķirt licences visiem, kam pašlaik nav licences. Pēc tam izvēlieties **paņemt tūlīt**.
 
-4. Izpildiet pārējās darbības, lai pabeigtu izbraukšana.
+4. Izpildiet atlikušās darbības, lai pabeigtu paveikšanu.
 
-Lai uzzinātu vairāk, skatiet sadaļu [nopirkt vēl vienu abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Papildinformāciju skatiet sadaļā [cita abonementa iegāde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

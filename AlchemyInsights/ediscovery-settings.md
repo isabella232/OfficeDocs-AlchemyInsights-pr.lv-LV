@@ -1,31 +1,31 @@
 ---
-title: EDiscovery iestatījumus
+title: E-datu atklāšanas iestatījumi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714409"
 ---
-# <a name="ediscovery-settings"></a>EDiscovery iestatījumus
+# <a name="ediscovery-settings"></a>E-datu atklāšanas iestatījumi
 
-eDiscovery/satura meklēšanu Office 365 ļauj jums meklēt, nospiediet un turiet un eksportēt saturu no tiešsaistes Exchange pastkastēm, SharePoint Online un OneDrive biznesa portāliem, Skype biznesa sarunas, Microsoft Teams un biroja 365 grupām.
+eDiscovery/satura meklēšanas ļauj jums meklēt, turēt un eksportēt saturu no Exchange Online pastkastēm, SharePoint Online un OneDrive darba vietām, Skype biznesa sarunām, Microsoft Teams un Office 365 grupām.
 
-- Ja jūs meklējat eDiscovery vai satura meklēšanas izvēlni Opcijas, skatiet [eDiscovery jautājumiem](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Uzziniet par atļaujām, kas vajadzīgas eDiscovery meklējumu veikšanai no [atļaujas nepieciešamas eDiscovery meklēšanai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Ja meklēšanā nav atgriešanās gaidītos rezultātus, redzēt [meklēšanas nav atgriešanās sagaidāmie rezultāti](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ja meklējat eDiscovery vai satura meklēšanas izvēlnes opcijas, skatiet [eDiscovery problēmas](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Uzziniet par atļaujām, kas nepieciešamas, lai veiktu eDiscovery meklēšanas vaicājumus no [atļaujām, kas nepieciešamas eDiscovery meklēšanai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Ja meklēšanā netiek atgriezts gaidāmais rezultāts, skatiet sadaļu [meklēšanas neatgriešana gaidāmais rezultāts](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Lai iegūtu papildinformāciju par ediscovery Office 365, skatiet [Ediscovery Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Lai iegūtu papildinformāciju par eDiscovery, skatiet [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).

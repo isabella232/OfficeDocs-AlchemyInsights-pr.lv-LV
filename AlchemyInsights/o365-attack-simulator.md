@@ -1,9 +1,9 @@
 ---
-title: 2681 uzbrukums simulators Office 365
+title: 2681 uzbrukums simulators Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305338"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713473"
 ---
-# <a name="attack-simulator-in-office-365"></a>Attack Simulator Office 365
+# <a name="attack-simulator-in-microsoft-365"></a>Uzbrukums simulators Microsoft 365
 
-- Vai jums trūkst uzbrukums simulators? Attack Simulator nepieciešama **office 365 uzlabotā Pretdraudu aizsardzības plāns 2 (ATP plāns 2)** vai **Office 365 Enterprise E5**. Uzbrukuma simulators nav **iekļauts office** 365 uzlabotā Pretdraudu aizsardzības plānā 1 (ATP Plan 1), Office 365 Enterprise E3 vai jebkurš Office 365 Business abonementi.
+- Vai jums trūkst uzbrukums simulators? Attack Simulator nepieciešama **office 365 uzlabotā Pretdraudu aizsardzības plāns 2 (ATP plāns 2)** vai **Office 365 Enterprise E5**. Uzbrukuma simulators nav **iekļauts office** 365 uzlabotā Pretdraudu aizsardzības plānā 1 (ATP Plan 1), Office 365 Enterprise E3 vai jebkura Microsoft 365 programmas uzņēmumu abonementiem.
 
 - Kontu, ko izmanto, lai palaistu simulēta uzbrukumiem nepieciešama globālā administratora vai drošības administratora atļaujas un vairāku faktoru autentifikācija (MFA). Lai iegūtu papildinformāciju par uzbrukuma simulatora prasībām, skatiet [šo tēmu](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305338"
 
 - Ziņojumi: pēc simulēta uzbrukums ir pabeigta, jūs varat noklikšķināt **uzbrukums detaļas** redzēt ziņojumu.
 
-- Detalizētus norādījumus un jaunas funkcijas uzbrukums simulators, skatiet [Attack Simulator Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Detalizētus norādījumus un jaunas funkcijas uzbrukumu simulatorā skatiet [Attack Simulator Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

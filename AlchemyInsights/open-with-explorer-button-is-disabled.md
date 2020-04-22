@@ -1,9 +1,9 @@
 ---
-title: Atvērt Internet Explorer poga ir deaktivizēta
+title: Poga atvērt ar Explorer ir atspējota
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/19/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 9483dbaa45c8c3a5c59fb8a318bf6564dd7b1b6f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dd23a4228c930cc7c934c2943cc1e1080da253df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548362"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713113"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Open Explorer poga ir deaktivizēta
+# <a name="the-open-with-explorer-button-is-disabled"></a>Poga atvērt ar Explorer ir atspējota
 
-- Atrodiet SharePoint OneDrive atrašanās vietu vai Internet Explorer 10 vai Internet Explorer 11. Poga nav saderīgi ar citu web pārlūkprogrammu.
+- Atrodiet SharePoint vai OneDrive atrašanās vietu programmā Internet Explorer 10 vai Internet Explorer 11. Poga nav saderīga ar citām tīmekļa pārlūkprogrammām.
     
 > [!NOTE]
-> Atvērt bibliotēkas failu pārlūks ir ērts, ja jums ir nepieciešams, lai kopētu vai pārvietotu vairākus failus un mapes pēc, bet, ja jūs vēlaties regulāri strādāt bibliotēkā, mēs iesakām to sinhronizāciju. Vairāk palīdzēt un risināt citas problēmas, atverot failu pārlūks, skatiet [Atvērt programmā Internet Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Info par sinhronizēšanas iestatīšanu, skatiet [sinhronizācijas SharePoint faili ar jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Bibliotēkas atvēršana failu pārlūkā ir noderīga, ja vienu reizi nepieciešams kopēt vai pārvietot vairākus failus un mapes, bet, ja vēlaties regulāri strādāt bibliotēkā, ieteicams to sinhronizēt. Lai saņemtu papildu palīdzību un novērstu citas problēmas, atverot failu pārlūkā, skatiet sadaļu [Atvērt programmā Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informāciju par sinhronizēšanas iestatīšanu skatiet sadaļā [SharePoint failu sinhronizēšana ar jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

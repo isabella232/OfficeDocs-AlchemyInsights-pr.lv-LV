@@ -1,5 +1,5 @@
 ---
-title: Abonementa iegāde pakalpojumā Office 365 darbam
+title: Iegādājieties abonementu uz Microsoft 365 uzņēmumiem no bezmaksas izmēģinājumversijas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218187"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712214"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Abonementa iegāde pakalpojumā Office 365 darbam
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Iegādāties abonementu uz Microsoft 365 no jūsu bezmaksas izmēģinājuma
 
-Jūs esat mēģinājuši Office 365, un tagad jūs esat gatavi pirkt. Iegādājoties Office 365 no izmēģinājuma versijas, jums ir divas iespējas:
+Jūs esat mēģinājuši Microsoft 365, un tagad jūs esat gatavi pirkt. Jums ir divas iespējas, pērkot Microsoft 365 no jūsu izmēģinājuma versija:
   
  **Iegādāties to pašu plānu kā izmēģinājuma**
   
@@ -35,7 +35,7 @@ Jūs esat mēģinājuši Office 365, un tagad jūs esat gatavi pirkt. Iegādājo
 
 3. Atrodiet abonementu, kuru vēlaties iegādāties, atlasiet **pirkt**un izpildiet norādījumus, lai to pārbaudītu.
 
-Lai uzzinātu vairāk, skatiet sadaļu [Office 365 abonementa iegāde no bezmaksas izmēģinājumversijas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Lai uzzinātu vairāk, skatiet sadaļu [abonementa iegāde no Microsoft 365 darbam no bezmaksas izmēģinājumversijas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Problēmu novēršana**
 

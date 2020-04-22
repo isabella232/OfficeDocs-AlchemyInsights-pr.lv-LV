@@ -1,9 +1,9 @@
 ---
-title: Mainīt savu e-pasta vārdu Outlook.com
+title: Mainiet savu e-pasta nosaukumu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537464"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712897"
 ---
 # <a name="change-your-email-name"></a>E-pasta nosaukuma maiņa
 
-Ja jums ir viena Outlook.com, e-pasta adresi un vēlaties mainīt vārdu adresāts redzēs, e-pasta ziņojumos:
+Ja jums ir viena Outlook.com e-pasta adresi un vēlaties mainīt nosaukumu saņēmēji redzēs jūsu ziņas:
   
-1. Atlasiet konta attēlu augšējā labajā stūrī lapā.
-2. Atlasiet **Mans profils**.
-3. Atlasiet **rediģēt nosaukumu** , veikt izmaiņas un izvēlieties **saglabāt**.
+1. Lapas augšējā labajā stūrī atlasiet sava konta attēlu.
+2. Izvēlieties **Mans profils**.
+3. Atlasiet **Rediģēt vārdu** , lai veiktu izmaiņas un atlasiet **saglabāt**.
 
-Atļaujiet veikt izmaiņas profila nosaukumu, lai tie stātos spēkā līdz 24 stundām.
+Lūdzu, ļauj līdz 24 stundām izmaiņas jūsu profila nosaukumu, lai stātos spēkā.
   
-Ja jums ir vairāk nekā viens e-pasta aizstājvārdu vai adreses, kas pievienota Outlook.com kontu, varat sūtīt e-pastu no jebkura no jūsu adreses.
+Ja jūsu Outlook.com kontam ir pievienots vairāk nekā viens e-pasta aizstājvārds vai adrese, varat izvēlēties sūtīt e-pasta ziņojumu no jebkuras adreses.
   
-1. Sastādot ziņojumu, atzīmējiet "…" sastādīšanas loga apakšā.
-1. Atlasiet **Rādīt no** redzēt no līniju.
-1. Virs rindiņā, **izvēlēties** un izvēlēties, kuras e-pasta adresi, ko vēlaties izmantot.
+1. Sastādot ziņojumu, izvēlieties "..." sastādīšanas loga apakšdaļā.
+1. Atlasiet **Rādīt no** , lai skatītu rindiņu no.
+1. Virs rindiņas Kam atlasiet **no** un izvēlieties, kuru e-pasta adresi vēlaties izmantot.
 
-Papildinformāciju skatiet sadaļā [nosūtīt e-pastu no citas adreses programmā Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai iegūtu papildinformāciju, skatiet [Sūtīt e-pastu no citas adreses Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

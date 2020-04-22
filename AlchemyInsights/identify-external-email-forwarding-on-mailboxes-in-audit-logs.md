@@ -1,9 +1,9 @@
 ---
-title: Identificēt ārējiem e-pasta pāradresācija uz pastkastēm, audita žurnālos
+title: Nosakiet ārējo e-pasta pārsūtīšanu pastkastēm audita žurnālos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716467"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Noteikt, kad ir konfigurēta ārējiem e-pasta pāradresācija pastkastēm
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Noteikt, kad ārējā e-pasta pārsūtīšana ir konfigurēta pastkastēm
 
-Kad Office 365 lietotāja konfigurē ārējiem e-pasta pāradresācija uz pastkasti, darbība tiek veikta revīzija, kā daļa no **Kopas-Mailbox** cmdlet. Jūs varat redzēt, izmantojot audita žurnālu meklēšana drošības & Center izpildes darbības.
+Ja Microsoft 365 lietotājs konfigurē ārēju e-pasta ziņojumu pārsūtīšanu pastkastē, darbība tiek auditēta kā daļa no **Set-Mailbox** cmdlet. Darbību var skatīt, izmantojot audita žurnāla meklēšanu drošības & atbilstības centrā.
 
-1. [Office drošības 365 & atbilstību centra](https://protection.office.com/)pieteikties.
+1. Piesakieties [Microsoft 365 drošības & atbilstības centrā](https://protection.office.com/).
 
-2. Iet uz **meklēšanas** > **audita žurnālu meklēšanas** lapu.
+2. Pārejiet **uz** > meklēšanas**audita žurnāla meklēšanas** lapu.
 
-3. Atlasiet datumu diapazona **sākuma datums** un **beigu datums** laukos. Jums nav nepieciešams norādīt lietotājvārdu. Pārbaudīt **darbības** lauks ir iestatīts uz **Parādīt visas darbības rezultātus**.
+3. Laukā **sākuma datums** un **beigu datums** atlasiet datumu diapazonu. Jums nav nepieciešams norādīt lietotājvārdu. Pārbaudiet, vai lauks **darbības** ir iestatīts, lai **rādītu visu aktivitāšu rezultātus**.
 
 4. Noklikšķiniet uz **Meklēt**.
 
-Rezultātos, noklikšķiniet uz **Filtrēt rezultātus** un darbības filtrs lodziņā ierakstiet **Set pastkastes** . Atlasiet ierakstu audita rezultātiem. Flyout **detaļas** , noklikšķiniet uz **Papildinformācija**. Jums ir aplūkot detalizētu informāciju par katru audita ierakstu, lai noteiktu, ja darbība ir saistīta ar e-pasta pāradresācija.
+Rezultātos noklikšķiniet uz **filtrēt rezultātus** un tips **Set-pastkaste** lodziņā darbības filtrs. Atlasiet audita ierakstu rezultātos. **Detalizētās** informācijas izlidošanas noklikšķiniet uz **Papildinformācija**. Jums ir aplūkot detalizētu informāciju par katru audita ierakstu, lai noteiktu, vai darbība ir saistīta ar e-pasta pārsūtīšanu.
 
-- **ObjectId**: aizstājvārds vērtība pastkasti, kura tika modificēta.
+- **ObjectId**: modificētās pastkastes aizstājvārda vērtība.
 
-- **Parametri**: _ForwardingSmtpAddress_ norāda mērķa e-pasta adresi.
+- **Parametri**: _ekspdingsmtpaddress_ norāda mērķa e-pasta adresi.
 
-- **UserId**: lietotāju, kas ir konfigurēta e-pasta pāradresāciju uz **ObjectId** laukā pastkastes.
+- **USERID**: lietotājs, kurš konfigurējis e-pasta pārsūtīšanu uz pastkasti laukā **ObjectId** .
 
-Plašāku informāciju skatiet [noteikšana, kas izveido e-pasta pāradresācija uz pastkasti](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Lai iegūtu papildinformāciju, skatiet [noteikt, kurš ir iestatījis e-pasta pārsūtīšanu pastkastei](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

@@ -1,9 +1,9 @@
 ---
-title: 8000050 nevar pierakstīties Outlook.com
+title: 8000050 nevar pierakstīties, lai Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 71a8f729e0192673489d3d6eab4284890e7d7665
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505448"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711602"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a>Es nevaru pierakstīties vai Aizmirsāt savu paroli
+# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nevar pierakstīties vai aizmirsta parole
 
-Ja jums ir problēmas ar pierakstīšanos uz citu kontu, kontu var tikt īslaicīgi bloķēts, tāpēc, ka mēs pamanījām dažas neparastas pierakstīšanās darbības. Ja konts tiek bloķēts, skatiet [atbloķēt manu Outlook.com kontu](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Ja rodas problēmas, pierakstoties citā kontā, konts var tikt īslaicīgi bloķēts, jo mēs pamanījām neparastu pierakstīšanās aktivitāti. Ja jūsu konts ir bloķēts, skatiet [atbloķēt manu Outlook.com kontu](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Ja esat aizmirsis savu paroli, varat [Atiestatīt paroles](https://go.microsoft.com/fwlink/p/?linkid=841909).
+Ja esat aizmirsis savu paroli, varat [Atiestatīt paroli](https://go.microsoft.com/fwlink/p/?linkid=841909).
   
-Ja jums ir aizdomas, jūsu Outlook.com kontu ir hacked, redzēt [mani Outlook.com kontu ir hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Ja jums ir aizdomas, jūsu Outlook.com konts ir hacked, skatīt [manu Outlook.com konts ir hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Lasīt vairāk par to, [kad nevar pierakstīties Microsoft kontu](https://go.microsoft.com/fwlink/p/?linkid=842227).
+Uzziniet vairāk par [to, kad nevarat pierakstīties savā Microsoft kontā](https://go.microsoft.com/fwlink/p/?linkid=842227).
   

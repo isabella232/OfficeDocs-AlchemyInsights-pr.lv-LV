@@ -3,7 +3,7 @@ title: Saistīt centrmezgla vietnes kā vietnes īpašnieku
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712501"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Saistīt centrmezgla vietnes kā vietnes īpašnieku
 
 [Ziņojumu centrs 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) kopīgots kā pievienošanās SharePoint centrmezglu tagad var veikt vietņu īpašnieki. Ja jūsu organizācija vēlas pārvaldīt noteiktas personas, kuras var saistīt ar centrmezglu, rīkojieties šādi: 
 
-1. Pierakstieties pakalpojumā Office 365 ([https://portal.office.com](https://portal.office.com)) ar administratora tiesībām.
+1. Pierakstieties ([https://portal.office.com](https://portal.office.com)) ar administratora tiesībām.
 2. Ekrāna augšējā kreisajā stūrī atlasiet **programmas palaidējs** (ikona ar deviņiem kvadrātiņiem) un pēc tam atlasiet **administrators**.
 3. Ekrāna kreisajā pusē izvēlnē atlasiet **administrēšanas centrs** un pēc tam atlasiet **SharePoint**.
 4. No zilā reklāmkaroga ekrāna augšdaļā atlasiet **palaist programmu tūlīt** , lai parādītu jauno SharePoint administrēšanas centru.

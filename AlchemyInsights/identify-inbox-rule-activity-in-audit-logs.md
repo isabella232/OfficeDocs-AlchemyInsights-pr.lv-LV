@@ -1,9 +1,9 @@
 ---
-title: Noteiktu iesūtnes kārtulas darbību audita žurnālos
+title: Identificēt iesūtnes kārtulu aktivitāti audita žurnālos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716431"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Noteiktu iesūtnes kārtulas darbību audita žurnālos
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificēt iesūtnes kārtulu aktivitāti audita žurnālos
 
-Audita žurnālu meklēšana programmā Office 365 drošības & ievērošanu centrs var izmantot, lai skatītu iesūtnes kārtulu notikumi (izveidot, modificēt un dzēst iesūtnes kārtulas).
+Audita žurnāla meklēšanu var izmantot Microsoft 365 drošības & atbilstības centrā, lai skatītu iesūtnes kārtulu notikumus (izveidojot, modificējot un dzēšot iesūtnes kārtulas).
 
-1. [Office drošības 365 & atbilstību centra](https://protection.office.com/)pieteikties.
+1. Piesakieties [Microsoft 365 drošības & atbilstības centrā](https://protection.office.com/).
 
-2. Iet uz **meklēšanas** > **audita žurnālu meklēšanas** lapu.
+2. Pārejiet **uz** > meklēšanas**audita žurnāla meklēšanas** lapu.
 
-3. Atlasiet datumu diapazona **sākuma datums** un **beigu datums** laukos.
+3. Laukā **sākuma datums** un **beigu datums** atlasiet datumu diapazonu.
 
-4. **Exchange pastkastes darbību**, pārbaudīt **darbības** lauks ir iestatīts kā **Jauns-InboxRule izveidot/mainīt/iespējot/atspējot iesūtnes kārtulu**.
+4. Saskaņā ar **Exchange pastkastes darbības**, pārbaudiet **darbības** lauks ir iestatīts uz **jaunu inboxrule izveidot/modificēt/iespējot/atspējot iesūtnes kārtula**.
 
 5. Noklikšķiniet uz **Meklēt**.
 
-Rezultātos atzīmējiet auditācijas ierakstu. Flyout detaļas, noklikšķiniet uz **Papildinformācija**. Papildinformāciju par iesūtnes kārtulu iestatījumiem tiek rādīta laukā **Parametri** .
+Rezultātos atlasiet audita ierakstu. Detalizētās informācijas izlidošanas noklikšķiniet uz **Papildinformācija**. Informācija par iesūtnes kārtulu iestatījumiem tiek parādīta laukā **Parametri** .
 
-Plašāku informāciju skatiet [noteikšana, ja lietotājs izveidojis iesūtnes kārtulu](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Plašāku informāciju skatiet noteikšana, [vai lietotājs izveidoja iesūtnes kārtulu](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

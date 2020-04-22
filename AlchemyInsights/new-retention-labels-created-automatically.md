@@ -3,7 +3,7 @@ title: Jaunas saglabāšanas uzlīmes, kas izveidotas automātiski
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054673"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713509"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Jaunas saglabāšanas uzlīmes, kas izveidotas automātiski
 
-Var tikt parādīts [trīs jaunu Office 365 saglabāšanas etiķetes](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) izveidots automātiski jūsu organizācijā **saglabāšanas etiķetes** drošības vai atbilstības administrēšanas centrs. Etiķešu nosaukumi ir:
+Var tikt parādīts [trīs jaunu saglabāšanas etiķetes](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) izveidots automātiski jūsu uzņēmumā **saglabāšanas etiķetes** drošības vai atbilstības administrēšanas centrs. Etiķešu nosaukumi ir:
 
 - Operatīvā procedūra
 - Biznesa General
