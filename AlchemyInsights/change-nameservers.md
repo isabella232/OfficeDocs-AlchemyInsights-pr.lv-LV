@@ -3,7 +3,7 @@ title: Nosaukumu serveru maiņa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736656"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706762"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Domēnu nosaukumu serveru atjaunināšana uz Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Domēnu nosaukumu serveru atjaunināšana, lai norādītu uz Microsoft
 
 Piezīme. Nosaukumu servera izmaiņu izplatīšanai dažkārt ir nepieciešams līdz pat 48 stundām ilgs laiks.
   
-Lai iestatītu savu domēnu pakalpojumā Office 365, domēnu reģistrētājā ir jāatjaunina nosaukumu serveri. Izveidojiet vai rediģējiet nosaukumu servera ierakstus savā domēnu reģistrētājā.
+Lai iestatītu savu domēnu pakalpojumā Microsoft 365, pie domēnu reģistrētāja ir jāatjaunina nosaukumu serveri. Izveidojiet vai rediģējiet nosaukumu servera ierakstus savā domēnu reģistrētājā.
   
 1. Dodieties uz domēnu reģistrētāja tīmekļa vietni un atrodiet apgabalu, kurā varat rediģēt nosaukumu serverus.
   
@@ -35,5 +35,5 @@ Lai iestatītu savu domēnu pakalpojumā Office 365, domēnu reģistrētājā i
 
 3. Saglabājiet izmaiņas.
 
-Detalizētas instrukcijas skatiet šajā rakstā: [Nosaukumu serveru maiņa, lai iestatītu Office 365 jebkurā domēnu reģistrētājā](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Detalizētas instrukcijas skatiet šajā rakstā: [Nosaukumu serveru maiņa pie jebkura domēnu reģistrētāja](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

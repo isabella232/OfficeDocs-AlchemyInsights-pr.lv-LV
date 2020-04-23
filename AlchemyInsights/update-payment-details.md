@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059887"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720072"
 ---
 # <a name="update-credit-card-information"></a>Kedītkartes informācijas atjaunināšana
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059887"
 
 Ja rodas problēmas saistībā ar lapas ielādi, mēģiniet atvērt tīmekļa lapu citā pārlūkprogrammā vai atvērt lapu privātā pārlūkprogrammas logā, piemēram, InPrivate logā programmā Microsoft Edge vai inkognito logā pārlūkprogrammā Google Chrome. 
 
-Papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Office 365 darbam](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) un [Kredītkaršu un bankas kontu problēmu novēršana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Microsoft 365 darbam](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) un [Kredītkaršu un bankas kontu problēmu novēršana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

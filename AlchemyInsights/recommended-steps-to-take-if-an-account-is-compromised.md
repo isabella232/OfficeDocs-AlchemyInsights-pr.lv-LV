@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745440"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719311"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Ieteicamās darbības, ja konts ir apdraudēts
 
-[VIDEO: apdraudēta Office 365 konta labošana](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: apdraudēta konta labošana](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Nekavējoties [atiestatiet lietotāja paroli](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Nesūtiet jauno paroli lietotājam pa e-pastu.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745440"
 
 5. Noņemiet lietotāja kontu no visām [administratīvās lomas grupām](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), līdz esat drošs, ka konts vairs nav apdraudēts.
 
-Lai turpmāk pēc iespējas samazinātu datu drošības pārkāpuma vai konta apdraudēšanas risku, iesakām izlasīt mūsu [Office 365 drošības ceļvedi](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Lai turpmāk pēc iespējas samazinātu datu drošības pārkāpuma vai konta apdraudēšanas risku, iesakām izlasīt mūsu [Microsoft 365 drošības ceļvedi](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709946"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams — audio konferences
 
-Nepieciešama palīdzība audio konferenču ieslēgšanā vai iestatīšanā pakalpojumā Microsoft Teams? Vai šis lietotājs ir izveidots nesen?  Ja jā, jums ir jāuzgaida 2-24 stundas, lai iestatījumi stātos spēkā.    
+Nepieciešama palīdzība audio konferenču ieslēgšanā vai iestatīšanā pakalpojumā Microsoft Teams? Vai šis lietotājs ir izveidots nesen?  Ja jā, jums ir jāuzgaida 2-24 stundas, lai iestatījumi stātos spēkā.
 
 Lai pārliecinātos par to, ka lietotājs ir licencēts audio konferenču izmantošanai un viņam ir noklusējuma maksas numurs:
 
@@ -39,4 +39,4 @@ Lai pārliecinātos par to, ka lietotājs ir licencēts audio konferenču izmant
 
 7. Atlasiet attiecīgo lietotāju un pārbaudiet, vai lietotājam ir **noklusējuma maksas tālruņa numurs**.
 
-Lai uzzinātu vairāk, skatiet [Office 365 zvanu plāni](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) vai zvaniet Microsoft komerciālo maksājumu komandai, lai saņemtu palīdzību ar licencēšanu saistītos jautājumos.
+Lai uzzinātu vairāk, skatiet [zvanu plānus](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) vai zvaniet Microsoft komercnorēķinu komandai, lai saņemtu palīdzību ar licencēšanu saistītos jautājumos.
