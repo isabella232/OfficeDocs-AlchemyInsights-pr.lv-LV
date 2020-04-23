@@ -1,5 +1,5 @@
 ---
-title: Dzēstās pastkastes
+title: Atjaunot izdzēstu pastkasti
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666379"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764663"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="97938-102">Atjaunotu izdzēsto pastkasti</span><span class="sxs-lookup"><span data-stu-id="97938-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="e2f67-102">Izdzēstas pastkastes atjaunošana</span><span class="sxs-lookup"><span data-stu-id="e2f67-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="97938-103">Kad lietotājs zaudē Exchange Online licenci, savas pastkastes tiek saglabāta uz 30 dienām un var atgūt, vienkārši atkārtoti piešķirot licences lietotājs.</span><span class="sxs-lookup"><span data-stu-id="97938-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="e2f67-103">Kad lietotājs zaudē Exchange Online licenci, viņu pastkaste tiek saglabāta 30 dienas un to var atkopt, vienkārši atkārtoti piešķirot lietotājam licenci.</span><span class="sxs-lookup"><span data-stu-id="e2f67-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="97938-104">*Tas darbosies tikai 30 dienu laikā.*</span><span class="sxs-lookup"><span data-stu-id="97938-104">*This will work only within 30 days.*</span></span>  
+ <span data-ttu-id="e2f67-104">*Tas darbosies tikai 30 dienu laikā.*</span><span class="sxs-lookup"><span data-stu-id="e2f67-104">*This will work only within 30 days.*</span></span>  
   
-1. <span data-ttu-id="97938-105">Microsoft 365 admin Center, dodieties uz **lietotāju** \> **Aktīvie lietotāji** lapā.</span><span class="sxs-lookup"><span data-stu-id="97938-105">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="97938-106">Atlasiet attiecīgo lietotāju.</span><span class="sxs-lookup"><span data-stu-id="97938-106">Select the user in question.</span></span>
+1. <span data-ttu-id="e2f67-105">Microsoft 365 administrēšanas centrs, dodieties uz **lietotāju** \> **aktīvo lietotāju** lapā.</span><span class="sxs-lookup"><span data-stu-id="e2f67-105">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="e2f67-106">Atlasiet attiecīgo lietotāju.</span><span class="sxs-lookup"><span data-stu-id="e2f67-106">Select the user in question.</span></span>
 
-2. <span data-ttu-id="97938-107">Cilnē **licences un progr** piešķirt Exchange Online licenci un izvēlieties **saglabāt izmaiņas**.</span><span class="sxs-lookup"><span data-stu-id="97938-107">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
+2. <span data-ttu-id="e2f67-107">Cilnē **licences un programmas** piešķiriet Exchange Online licenci un atlasiet **saglabāt izmaiņas**.</span><span class="sxs-lookup"><span data-stu-id="e2f67-107">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
 
-<span data-ttu-id="97938-108">Ja jūs mēģināt atkopt Shared pastkasti, ir arī atlīdzināmi 30 dienas.</span><span class="sxs-lookup"><span data-stu-id="97938-108">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="97938-109">Jūs varat atrast tos sadaļā **lietotāji** \> **dzēsts lietotājiem**; koplietojamo pastkastēm nav nepieciešama licence.</span><span class="sxs-lookup"><span data-stu-id="97938-109">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="97938-110">Ja tu saproti, ka jums ir nepieciešams, lai atjaunotu Svītrots lietotājs, lūdzu, skatiet [atjaunot lietotāja Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="97938-110">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
+<span data-ttu-id="e2f67-108">Ja mēģināt atkopt koplietoto pastkasti, tā ir arī atgūstama 30 dienas.</span><span class="sxs-lookup"><span data-stu-id="e2f67-108">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="e2f67-109">Jūs varat atrast tos saskaņā ar **lietotājiem** \> **svītrots lietotājiem**; koplietotās pastkastes licence nav nepieciešama.</span><span class="sxs-lookup"><span data-stu-id="e2f67-109">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="e2f67-110">Ja jūs saprotat, ka jums ir nepieciešams atjaunot svītrots lietotājs, lūdzu, skatiet [atjaunot lietotāju](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="e2f67-110">If you realize that you need to restore a deleted user, please see [Restore a user](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
   

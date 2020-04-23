@@ -1,8 +1,8 @@
 ---
-title: Jaunināšana uz Microsoft Teams pilno versiju
+title: Jaunināšana uz pilno Microsoft Teams versiju
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766536"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="98b39-102">Jaunināšana uz Microsoft Teams pilno versiju</span><span class="sxs-lookup"><span data-stu-id="98b39-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="63029-102">Jaunināšana uz pilno Microsoft Teams versiju</span><span class="sxs-lookup"><span data-stu-id="63029-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="98b39-103">Vajadzēs jaunināt no bezmaksas pilna versija Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="98b39-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="98b39-104">Sk. [Jauniniet Microsoft komandas bezmaksas Office 365 abonēšanas versiju](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="98b39-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
+<span data-ttu-id="63029-103">Vai nepieciešams veikt jaunināšanu no bezmaksas uz Microsoft Teams pilno versiju?</span><span class="sxs-lookup"><span data-stu-id="63029-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="63029-104">Skatiet [jaunināt Microsoft Teams Bezmaksas microsoft 365 abonēšanas versija](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="63029-104">See [Upgrade Microsoft Teams free to Microsoft 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
 
-<span data-ttu-id="98b39-105">Nepieciešams, lai izpildītu šīs prasības:</span><span class="sxs-lookup"><span data-stu-id="98b39-105">You’ll need to meet these requirements:</span></span>
+<span data-ttu-id="63029-105">Jums būs jāatbilst šīm prasībām:</span><span class="sxs-lookup"><span data-stu-id="63029-105">You'll need to meet these requirements:</span></span>
 
-- <span data-ttu-id="98b39-106">Jūs esat persona, kas pierakstījies par komandas bezmaksas versija.</span><span class="sxs-lookup"><span data-stu-id="98b39-106">You’re the person who signed up for the current free version of Teams.</span></span>
-- <span data-ttu-id="98b39-107">Ja jums ir sava domēna, tā jau nevar saistīt ar Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="98b39-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
-- <span data-ttu-id="98b39-108">Lai pārsūtītu datus, kad veicat jaunināšanu, nedrīkst parakstīties jaunināšanas procesa laikā.</span><span class="sxs-lookup"><span data-stu-id="98b39-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="98b39-109">Ja esat iegādājies Office 365 ārpus jaunināšanas procesu, nevar pārsūtīt datus.</span><span class="sxs-lookup"><span data-stu-id="98b39-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+- <span data-ttu-id="63029-106">Jūs esat persona, kas pierakstījies par pašreizējo bezmaksas versiju komandām.</span><span class="sxs-lookup"><span data-stu-id="63029-106">You're the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="63029-107">Ja jums ir savs domēns, to nevar jau saistīt ar Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="63029-107">If you have your own domain, it can't already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="63029-108">Lai pārsūtītu datus, kad veicat jaunināšanu, jums ir jāabonē jaunināšanas procesa laikā.</span><span class="sxs-lookup"><span data-stu-id="63029-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="63029-109">Ja abonementu iegādājāties ārpus jaunināšanas procesa, datus nevar pārsūtīt.</span><span class="sxs-lookup"><span data-stu-id="63029-109">If you bought a subscription outside of the upgrade process, you can't transfer data.</span></span>

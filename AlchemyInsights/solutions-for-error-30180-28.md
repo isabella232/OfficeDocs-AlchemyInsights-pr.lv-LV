@@ -1,9 +1,9 @@
 ---
-title: Risinājumu kļūdai 30180-28
+title: Kļūdu risinājumi 30180-28
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: 63bb8b7495232bb43e9e7c45565a1c900a0e1f1d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1a30df2a78a838ddeb7be83b8ddebc9114bccabb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767122"
 ---
-# <a name="solutions-for-error-30180-28"></a><span data-ttu-id="b7c08-102">Risinājumu kļūdai 30180-28</span><span class="sxs-lookup"><span data-stu-id="b7c08-102">Solutions for error 30180-28</span></span>
+# <a name="solutions-for-error-30180-28"></a><span data-ttu-id="4a7ea-102">Kļūdu risinājumi 30180-28</span><span class="sxs-lookup"><span data-stu-id="4a7ea-102">Solutions for error 30180-28</span></span>
 
-<span data-ttu-id="b7c08-103">Jūs varētu redzēt [kļūdas 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) Office atjaunināšanas laikā, ja jums ir slikta interneta pieslēgums.</span><span class="sxs-lookup"><span data-stu-id="b7c08-103">You might see [error 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) during an Office update if you have a poor internet connection.</span></span> <span data-ttu-id="b7c08-104">Šeit ir dažas lietas, jūs varat mēģināt novērst šo problēmu.</span><span class="sxs-lookup"><span data-stu-id="b7c08-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="4a7ea-103">Var tikt parādīts [kļūdas 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) Office atjaunināšanas laikā, ja jums ir slikts interneta savienojums.</span><span class="sxs-lookup"><span data-stu-id="4a7ea-103">You might see [error 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) during an Office update if you have a poor internet connection.</span></span> <span data-ttu-id="4a7ea-104">Tālāk ir norādītas dažas darbības, ko varat izmēģināt, lai novērstu problēmu.</span><span class="sxs-lookup"><span data-stu-id="4a7ea-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="b7c08-105">Restartējiet datoru un pēc tam [atjaunināt Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b7c08-105">Restart your computer and then [update Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span></span>
+- <span data-ttu-id="4a7ea-105">Restartējiet datoru un pēc tam [atjauniniet Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="4a7ea-105">Restart your computer and then [update Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-- <span data-ttu-id="b7c08-106">Izpildiet iepriekšminētos soļus, bet izmantot vadu savienojumu, atjauninot Office.</span><span class="sxs-lookup"><span data-stu-id="b7c08-106">Follow the steps above, but use a wired connection while updating Office.</span></span>
+- <span data-ttu-id="4a7ea-106">Izpildiet iepriekš aprakstītās darbības, bet Office atjaunināšanas laikā izmantojiet vadu savienojumu.</span><span class="sxs-lookup"><span data-stu-id="4a7ea-106">Follow the steps above, but use a wired connection while updating Office.</span></span>
