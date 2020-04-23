@@ -3,7 +3,7 @@ title: 1554 Winsock kļūda 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530806"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766176"
 ---
 # <a name="winsock-error-10061"></a>Winsock kļūda 10061
 
-Šo kļūdas kodu, nozīmē, ka Office 365 nevarētu izveidot TCP ligzda (savienojums) ar mērķa resursdatoru. Visdrīzāk, ka cēlonis šīs kļūdas ir ar ugunsmūra konfigurāciju saistīta problēma. Lai novērstu problēmu, pārbaudiet šos iestatījumus:
+Šis kļūdas kods nozīmē, ka Microsoft nevarēja izveidot TCP ligzdu (savienojums) ar mērķa resursdatoru. Visticamākais šīs kļūdas cēlonis ir ugunsmūra konfigurācijas problēma. Lai novērstu šo problēmu, pārbaudiet šos iestatījumus:
 
-- Pārbaudiet, vai jūsu ugunsmūra konfigurēšanu ar informāciju, kas atrodas [Office 365 URL un IP adrešu diapazons](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Pārbaudiet, vai ugunsmūra konfigurācija ar informāciju [Microsoft 365 URL un IP adrešu diapazoni](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Ja kļūda ir specifiski uz Exchange Online aizsardzība (EOP), jums vajadzētu ir iepriekš paziņots [Exchange Online aizsardzība IP adreses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)maiņa.
+- Ja šī kļūda ir specifiska Exchange Online Protection (EOP), iepriekš tika paziņots izmaiņas [Exchange Online Protection IP adreses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-- Pārliecinieties, ka jūsu interneta pakalpojumu sniedzēja (ISP) nav bloķē portu.
+- Pārbaudiet, vai jūsu interneta pakalpojumu sniedzējs (ISP) nebloķē portu.
 
-- Pārbaudiet, vai gudrs uzņēmējas un mērķa servera uzstādījumus jūsu savienotāji.
+- Pārbaudiet, vai viedā resursdatora un mērķa servera iestatījumus jūsu savienotāji.
 
-Ievērojiet, ka Office 365 nav bloķēt *ienākošos* savienojumus šādā veidā.
+Ņemiet vērā, ka Microsoft 365 nebloķē *ienākošos* savienojumus šādā veidā.

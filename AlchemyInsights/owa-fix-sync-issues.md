@@ -1,9 +1,9 @@
 ---
-title: Labotu sinhronizācijas problēmas programmā Outlook Web
+title: Novērst sinhronizācijas problēmas programmā Outlook Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: c3e5a2c8a4f01df1553dfc1b20a064353165ad65
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 480984de4ddc7a888de3ea5cfdf5395fb51cb0cd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556860"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768444"
 ---
-# <a name="fix-outlook-on-the-web-sync-issues"></a>Labotu sinhronizācijas problēmas Outlook Web
+# <a name="fix-outlook-on-the-web-sync-issues"></a>Fix Outlook Web sinhronizācijas problēmas
 
-Outlook tīmeklī uzrāda mobilajām ierīcēm, ko izmantojat, lai izveidotu savienojumu ar savu pastkasti. Ja vairs lietojat ierīci, vai ierīce nav pareizi veikt sinhronizāciju, jūs to varat izdzēst no šī saraksta.
+Outlook tīmeklī parāda mobilās ierīces, kuras izmantojat, lai izveidotu savienojumu ar pastkasti. Ja vairs neizmantojat ierīci vai ierīce nav pareizi sinhronizēta, to var izdzēst no šī saraksta.
 
-1. Izvēlieties <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Iestatījumi** > **Outlook iestatījumu skatīšana** > **Vispārējā** > **mobilajām ierīcēm**.
-1. Pārvietojiet kursoru virs ierīci sarakstā un pēc tam atlasiet miskasti ikonas <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAYAAACEnoQPAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCFhU3Ud7cHwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAdklEQVQ4je2UyxGAIAxEiWMLFJOWQhNpgiopYj3xGYyMoN58Fwiw2TBDIABwi+zWoqq6lFKJvfdOVc8HYSAiwzhDABBCmC45xlidr7KPqtqmLRtMcb5GP94SP3L+xR+J33thbSdZ9PulJZnZbrsOZi5zAtY/gwP06MoBiw8fkwAAAABJRU5ErkJggg==' /> lai dzēstu ierīces partnerību.
-1. Loga augšējā daļā, izvēlieties **saglabāt**.
-1. Iet uz jūsu mobilo ierīci un neizslēdziet to pilnībā.
-1. Mobilajā ierīcē atsākt pēc dažām sekundēm un tad sinhronizēt savu pastkasti vēlreiz.
+1. Izvēlēties <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Iestatījumi** > **Skatīt visus Outlook iestatījumus** > **vispārīgās** > **mobilās ierīces**.
+1. Pārvietojiet kursoru virs ierīces sarakstā un pēc tam atlasiet atkritnes ikonu <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAYAAACEnoQPAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCFhU3Ud7cHwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAdklEQVQ4je2UyxGAIAxEiWMLFJOWQhNpgiopYj3xGYyMoN58Fwiw2TBDIABwi+zWoqq6lFKJvfdOVc8HYSAiwzhDABBCmC45xlidr7KPqtqmLRtMcb5GP94SP3L+xR+J33thbSdZ9PulJZnZbrsOZi5zAtY/gwP06MoBiw8fkwAAAABJRU5ErkJggg==' /> , lai izdzēstu ierīces partnerību.
+1. Loga augšdaļā atlasiet **saglabāt**.
+1. Dodieties uz mobilo ierīci un izslēdziet to pilnībā.
+1. Pēc dažām sekundēm restartējiet mobilo ierīci un pēc tam vēlreiz sinhronizējiet pastkasti.
 
-Lai uzzinātu vairāk, skatiet [noteikt e-pasta sinhronizācijas problēmas vai noņemt ierīci no jūsu Outlook pastkastē web](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
+Lai uzzinātu vairāk, skatiet [Fix e-pasta sinhronizācijas problēmas vai noņemt ierīci no Outlook Web pastkastē](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
 
-*Piezīme:* Pievienotajiem kontiem vairs netiek atbalstīti programmā Outlook tīmeklī. Papildinformāciju skatiet sadaļā [pievienotajiem kontiem vairs netiek atbalstīti programmā Outlook Web](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
+*Piezīme:* Savienojuma konti vairs netiek atbalstīti programmā Outlook tīmeklī. Lai uzzinātu vairāk, skatiet sadaļu [savienotie konti vairs netiek atbalstīti programmā Outlook tīmeklī](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)

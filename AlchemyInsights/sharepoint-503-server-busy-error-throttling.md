@@ -2,7 +2,7 @@
 title: SharePoint Online ierobežošana
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958742"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742216"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online ierobežošana
 
-**Svarīgi**: šo bezprecedenta laikos, mēs veikt pasākumus, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir ļoti pieejami-Lūdzu, apmeklējiet [SharePoint Online pagaidu līdzekļu korekcijas](https://aka.ms/ODSPAdjustments) , lai iegūtu vairāk informācijas.
+**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 **503 serveris ir aizņemts kļūdas**
 
 Lietotāji var saņemt 503 serveris ir aizņemts kļūda, mēģinot naviģēt uz SharePoint vai OneDrive vietnes. 
 
-Šo kļūdu var izraisīt ierobežošana SharePoint pakalpojumu ietvaros. SharePoint Online izmanto ierobežošana, lai uzturētu optimālu veiktspēju un uzticamību SharePoint Online pakalpojumu. Ierobežošana ierobežo lietotāja darbību skaitu vai vienlaicīgus zvanus (pēc skripta vai koda), lai novērstu resursu pārmērīgu izmantošanu. 
+Šo kļūdu var izraisīt ierobežošana SharePoint pakalpojumu ietvaros. SharePoint Online izmanto ierobežošanu, lai uzturētu optimālu SharePoint Online pakalpojuma veiktspēju un uzticamību. Ierobežošana ierobežo lietotāju darbību vai vienlaicīgu zvanu skaitu (ar skriptu vai kodu), lai nepieļautu pārmērīgu resursu pielietojumu. 
 
 Lai iegūtu papildinformāciju par ierobežošana redzēt, [Izvairieties kļūst ierobežotas vai bloķēts SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

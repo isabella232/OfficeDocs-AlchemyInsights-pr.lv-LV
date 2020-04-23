@@ -1,9 +1,9 @@
 ---
-title: 1490-traucējummeklēšana-eDiscovery-nepilnības
+title: 1490-problēmu novēršana-eDiscovery kļūmes
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559380"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759591"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Satura meklēšana kļūdu novēršana
+# <a name="troubleshoot-content-search-errors"></a>Satura meklēšanas kļūdu problēmu novēršana
 
-Vai jums radušās problēmas ar satura meklēšana programmā Office 365 vai kļūst nepilnības, eksportējot meklēšanas rezultātus?
+Vai jums ir radušās problēmas ar satura meklēšanu vai iegūt kļūmes, eksportējot meklēšanas rezultātus?
 
-Piemēram, jūs saņemat šādu braucot meklēšanu?
+Piemēram, vai, izpildot meklēšanas vaicājumus, saņemat tālāk minēto.
 
 - CS008 vai CS012 kļūdas
 
-- Serveris aizņemts taimauta kļūdas
+- Servera aizņemtības/taimauta kļūdas
 
-- Lietojumprogrammas kļūda
+- Radās lietojumprogrammas kļūda
 
-Vai meklēšanu vai eksportējot rezultātus no liela skaita pastkastītes (vairāk nekā 100000 pastkastes), jums kļūst eksporta kļūdas?
+Vai meklējot vai eksportējot rezultātus lielu skaitu pastkastu (vairāk nekā 100 000 pastkastes), jūs saņemat eksporta kļūdas?
 
-Šāda veida kļūdas, vēlreiz meklējiet satura vietām, kas ir cietuši neveiksmi. Skatiet [šajā rakstā](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) plašāku informāciju.
+Šāda veida kļūdas, mēģiniet meklēt satura atrašanās vietas, kas ir neizdevās. Skatiet [šo rakstu](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) , lai iegūtu papildinformāciju.

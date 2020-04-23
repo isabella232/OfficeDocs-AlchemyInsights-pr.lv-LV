@@ -1,8 +1,8 @@
 ---
-title: iOS nodrošinājums profilu kārtulas Id 1029
+title: iOS nodrošināšana profili kārtula ID 1029
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 1bde6205c98b97eae3340bcbfe154402c8c82c8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498134"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765924"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS nodrošināšana profili
+# <a name="ios-provisioning-profiles"></a>iOS nodrošināšanas profili
 
-Apple iOS line-of-Business-biznesa izmanto nodrošinājuma profilu, kas tiek izmantots, lai pārbaudītu lietojumprogrammu integritātes un īstenot politiku, kas norādīti profila jēdzienu. Šie profili nodrošināšana beidzas pēc 12 mēnešiem un tik jaunam profilam jābūt saistītām ar īstenotiem app, lai apps turpina darboties.
+Apple iOS biznesa līnija izmanto nodrošinājuma profila koncepciju, kas tiek izmantota, lai validētu lietojumprogrammas integritāti un ieviestu profilā definētās politikas. Šie nodrošināšanas profili beidzas pēc 12 mēnešiem, tāpēc jaunam profilam ir jābūt saistītam ar izvietoto programmu, lai turpinātu darboties programmas.
   
-Šādu rakstā aprakstīts, kā izveidot jaunu nodrošināšana profils ar iOS LOB app, kas izvietota caur Intune asociētais: [lietošanas iOS app nodrošinošās profilus, lai novērstu jūsu progr no beidzas](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Šajā rakstā ir aprakstīts, kā izveidot saistīt jaunu nodrošināšanas profilu ar iOS LOB app izvietots, izmantojot InTune: [izmantot iOS lietotņu nodrošināšana profilus, lai novērstu jūsu progr beidzas](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   

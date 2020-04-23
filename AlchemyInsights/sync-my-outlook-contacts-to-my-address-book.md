@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286147"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767076"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sinhronizēt savas Outlook kontaktpersonas ar manu adrešu grāmatu
 
@@ -30,7 +30,7 @@ Programma Outlook ļauj eksportēt kontaktpersonas uz noklusējuma lietotni kont
 
 3. Ieslēdziet slīdni **sinhronizēt kontaktpersonas** .
  
-Divvirzienu kontaktpersonu eksportēšana tiek atbalstīta Office 365, Outlook.com un Hibrīdā mūsdienu autentifikācija lokālas pastkastes. Divvirzienu atbalsts nodrošina, ka visas jaunās kontaktpersonas, ko esat pievienois, vai esošās kontaktpersonas, ko rediģējat, tiks sinhronizētas starp jūsu ierīci un Outlook kontiem.
+Divvirzienu kontaktpersonu eksportēšana tiek atbalstīta Microsoft 365, Outlook.com un hibrīds mūsdienu autentifikācijas lokālas pastkastes. Divvirzienu atbalsts nodrošina, ka visas jaunās kontaktpersonas, ko esat pievienois, vai esošās kontaktpersonas, ko rediģējat, tiks sinhronizētas starp jūsu ierīci un Outlook kontiem.
  
 Mantotajiem Exchange kontiem varat eksportēt kontaktpersonas, lai tās tiktu saglabātas ierīcē. Ja ir iespējotas **sinhronizācijas kontaktpersonas** , tikko pievienotie kontakti un rediģējumi, kas veikti jūsu kontaktpersonām programmā Outlook, tiks saglabāti jūsu ierīces lietotnē kontaktpersonas. Tomēr labojumi, kas veikti tieši jūsu ierīces kontaktu lietotnē, netiks saglabāti programmā Outlook. Ņemiet vērā, ka mēs neatbalstām kontaktpersonu pievienošanu/rediģēšanu programmā Outlook for Android lokālajiem Exchange kontiem, tāpēc jums vajadzēs pārvaldīt kontaktpersonas no cita Outlook klienta.
  

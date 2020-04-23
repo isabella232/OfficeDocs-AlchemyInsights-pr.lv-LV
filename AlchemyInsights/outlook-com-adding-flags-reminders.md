@@ -1,9 +1,9 @@
 ---
-title: Outlook.com, pievienojot karodziņu vai atgādinājumu
+title: Outlook.com karodziņu vai atgādinājumu pievienošana
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,25 +11,25 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 795c6e25bf1b9badbbf305d1daa49033d5e0ae12
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c2a87a621e1338fcefe455ebed910c47c17bb39d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760887"
 ---
-# <a name="adding-flags-and-reminders-in-outlookcom"></a>Pievienojot karodziņu un atgādinājumu Outlook.com
+# <a name="adding-flags-and-reminders-in-outlookcom"></a>Karodziņu un atgādinājumu pievienošana programmā Outlook.com
 
-Iestatiet vai labojiet notikuma atgādinājumu:
+Lai iestatītu vai rediģētu notikuma atgādinājumu:
 
-1. Atveriet [kalendāru](https://outlook.live.com/calendar/).
-1. Atlasiet notikuma vēlaties saņemt atgādinājumu par un pēc tam atlasiet bultiņas augšējā labajā stūrī <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> lai to paplašinātu.
-1. Blakus **atgādināt**, izvēlieties atgādinājuma laiku.Outlook.com automātiski saglabā izmaiņas.
+1. Dodieties uz [Kalendārs](https://outlook.live.com/calendar/).
+1. Atlasiet notikumu, par kuru vēlaties tikt atgādināts, un pēc tam atlasiet bultiņas augšējā labajā stūrī <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> , lai to izvērstu.
+1. Tālāk, lai **atgādinātu man**, izvēlieties atgādinājuma laiku.Outlook.com automātiski saglabā izmaiņas.
 
-Lai atgādinātu sev sekot ar ziņojumu, jūs varat pievienot sekojuma karodziņu:
+Lai sev atgādinātu sekojuma ziņojumu, varat pievienot sekojuma karodziņu:
 
-1. Iet uz [pasta](https://outlook.live.com/mail/)
-1. Ziņojumu sarakstā virs ziņojuma, lai redzētu opciju karodziņu.
-1. Izvēlieties karodziņa ikonas <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> atzīmēt ziņojumu ar karodziņu. Lai apskatītu visus karogotos ziņojumus, atlasiet atzīmi pie apakšējā kreisajā stūrī lapu, lai dotos uzdevumus.
+1. Doties uz [e-pastu](https://outlook.live.com/mail/)
+1. Ziņojumu sarakstā virziet kursoru virs ziņojuma, lai redzētu opciju karodziņš.
+1. Atlasiet karodziņa ikonu <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> , lai atzīmētu ziņojumu ar karodziņu. Lai skatītu visus karogotos ziņojumus, atlasiet atzīmi lapas apakšējā kreisajā stūrī, lai dotos uz uzdevumi.
  
-Lai uzzinātu vairāk, izlasiet [karogu vai pin ziņojumu Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai uzzinātu vairāk, lasiet [karodziņu vai piespraust ziņojumu Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).

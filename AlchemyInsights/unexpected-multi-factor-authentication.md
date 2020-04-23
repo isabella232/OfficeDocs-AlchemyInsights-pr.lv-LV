@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946739"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766608"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Neparedzēta daudzfaktoru autentifikācija
 
-Ja jūsu nomnieks tika izveidots pēc 2019. gada 21. oktobra un jūs pēkšņi MFA uzvedni, visticamāk jūsu nomniekam ir iespējoti [drošības noklusējumi](http://aka.ms/securitydefaults). 
+Ja jūsu nomnieks tika izveidots pēc 2019. gada 21. oktobra un jūs pēkšņi MFA uzvedni, visticamāk jūsu nomniekam ir iespējoti [drošības noklusējumi](https://aka.ms/securitydefaults). 
 
 Lai pārvaldītu drošības noklusējumus:
 

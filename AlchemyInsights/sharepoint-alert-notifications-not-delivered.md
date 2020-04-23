@@ -3,7 +3,7 @@ title: SharePoint brīdinājuma paziņojumi nav piegādāti
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047074"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742054"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint brīdinājuma paziņojumi nav piegādāti
 
@@ -26,7 +26,7 @@ Lūdzu, pārbaudiet JUNK mapi savā e-pastā, jo dažreiz brīdinājumi varētu 
 
 Nosakiet, vai **nav piegādāti visi brīdinājumi** vai ja nav piegādāts **atsevišķs brīdinājums** no konkrēta faila vai bibliotēkas.
 
-- **Atsevišķi brīdinājumi netiek piegādāti**: ja netiek piegādāts atsevišķs brīdinājums no konkrēta faila vai bibliotēkas, to var dzēst un izveidot no jauna. Lai atkārtoti izveidotu brīdinājumu, skatiet sadaļu [SharePoint brīdinājumu pārvaldīšana, skatīšana vai dzēšana](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
+- **Atsevišķi brīdinājumi netiek piegādāti**: ja netiek piegādāts atsevišķs brīdinājums no konkrēta faila vai bibliotēkas, to var dzēst un izveidot no jauna. Lai atkārtoti izveidotu brīdinājumu, skatiet sadaļu [SharePoint brīdinājumu pārvaldīšana, skatīšana vai dzēšana](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
 - **Visi brīdinājumi netiek piegādāti**: ja nav piegādāti visi brīdinājumi no vairākiem failiem vai bibliotēkām, apmeklējiet [pakalpojumu darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai pārbaudītu, vai nav konsultācijas/incidentiem, kas var rasties ar SharePoint vai Exchange. Problēma var būt ar SharePoint brīdinājuma iespēju vai e-pasta ziņojumu aizkaves, izmantojot Exchange. Tāpat būs svarīgi atzīmēt, vai citu e-pasta tiek piegādāts, un, ja tā nav, jautājums ir iespējams, ar valūtas aizkavēšanos.
 
 BUJ par brīdinājumiem:

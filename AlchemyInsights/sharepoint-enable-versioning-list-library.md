@@ -2,7 +2,7 @@
 title: SharePoint un OneDrive versiju pārvaldība
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767400"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint un OneDrive versiju pārvaldība 
 
@@ -39,6 +39,6 @@ Lai iegūtu vairāk informācijas par versiju, lūdzu, apmeklējiet zemāk rakst
 - [Versiju ierobežojumi](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Ja esat Office 365 klients, tad versiju veidošana tagad ir ieslēgta pēc noklusējuma, kad izveidojat jaunu OneDrive darbam bibliotēkas un tā automātiski saglabās pēdējās 500 versijas dokumentā. Tas palīdzēs novērst svarīgu dokumentu vai datu zaudēšanu. Ja jūsu OneDrive darba vietas vai grupas vietne, kas nav iespējota versiju bibliotēkas, varat ieslēgt jebkurā brīdī versijas.
+>Ja esat Microsoft 365 klientu, versiju tagad ir ieslēgta pēc noklusējuma, veidojot jaunu OneDrive darba bibliotēkas un tā automātiski saglabās pēdējo 500 versijas dokumentu. Tas palīdzēs novērst svarīgu dokumentu vai datu zaudēšanu. Ja jūsu OneDrive darba vietas vai grupas vietne, kas nav iespējota versiju bibliotēkas, varat ieslēgt jebkurā brīdī versijas.
 
 

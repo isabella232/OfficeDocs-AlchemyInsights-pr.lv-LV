@@ -3,7 +3,7 @@ title: Kā iegādāties izglītības piedāvājumu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +14,18 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 41b98b2ea96d14ba65ae03e0e4ed46486f61f7d9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739464"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763764"
 ---
 # <a name="how-to-purchase-education-offer"></a>Kā iegādāties izglītības piedāvājumu
 
-Jums ir apstiprināta Office 365 Education. Lai iegādātos:
+Esat apstiprināts Office 365 Education iegādei. Lai iegādātos:
   
-1. Administrēšanas centrā pārejiet uz lapu **norēķinu** \> [produkti _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Izvēlieties **studentu vai mācībspēku**izmēģinājuma versiju.
 

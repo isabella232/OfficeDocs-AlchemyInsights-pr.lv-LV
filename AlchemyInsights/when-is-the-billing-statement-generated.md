@@ -1,9 +1,9 @@
 ---
-title: Kad tiek ģenerēts rēķinu?
+title: Kad tiek ģenerēts norēķinu pārskats?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759375"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Kad tiek ģenerēts rēķinu
+# <a name="when-is-the-billing-statement-generated"></a>Kad tiek ģenerēts norēķinu pārskats
 
-Katru mēnesi jūs saņemsiet e-pastu, kas stāsta jums par savu jauno rēķinu ir pieejama Microsoft 365 administrēšanas centrā. Jūsu rēķins sastāv no divām lappusēm. Page 1 kopsavilkuma rēķins un sniedz vispārīgu informāciju par rēķinu, pasūtījumu, summu, kā veikt maksājumu un to, kā sazināties ar atbalsta centru. 2. lappuse satur detalizētu informāciju par norēķinu aktivitāte katram abonementam.
+Katru mēnesi jūs saņemsit e-pasta ziņojumu, kurā norādīts, ka jaunais norēķinu pārskats ir pieejams Microsoft 365 administrēšanas centrā. Rēķinā ir divas lapas. 1. lappuse ir rēķina kopsavilkums, un tajā ir vispārīga informācija par rēķinu, pasūtījumu, maksājamo summu, kā veikt maksājumu un kā sazināties ar atbalsta dienestu. 2. lappusē ir detalizēta informācija par katra abonementa norēķinu aktivitāti.
   
-Lai uzzinātu vairāk par norēķinu koncepcijas, skatiet [saprast jūsu rēķina](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Lai uzzinātu vairāk par norēķinu koncepcijām, skatiet sadaļu [sava rēķina izpratne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).

@@ -1,9 +1,9 @@
 ---
-title: Saglabāšanas politikas maiņas administrēšanas centrā, nedarbojas
+title: Saglabāšanas politikas Exchange administrēšanas centrs nedarbojas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551350"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742440"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Saglabāšanas politikas maiņas administrēšanas centrā
+# <a name="retention-policies-in-exchange-admin-center"></a>Saglabāšanas politikas Exchange administrēšanas centrs
 
- **Jautājums:** Jaunizveidotajām vai atjaunināto saglabāšanas politikas maiņas administrēšanas centrā nav piemērotu pastkastēs vai vienumus nevar pārvietot uz arhīva pastkasti vai izdzēst. 
+ **Issue:** Jaunizveidoto vai atjaunināto saglabāšanas politikas Exchange administrēšanas centrs neattiecas uz pastkastēm vai vienumiem netiek pārvietoti uz arhīva pastkaste vai dzēsts. 
   
- **Galvenie cēloņi:**
+ **Cēloņus:**
   
-- Iespējams, ka **Pārvaldītas mapes palīgu** ir apstrādāts lietotāja pastkastē. Pārvaldītas mapes palīgu mēģinās apstrādāt katru pastkastes mākonis balstītas organizācijas reizi septiņās dienās. Mainot glabāšanas tag vai piemērot citu saglabāšanas politiku ar pastkasti, var pagaidīt, kamēr pārvaldītas mapes palīdz procesus pastkasti vai var palaist Start ManagedFolderAssistant cmdlet, lai sāktu pārvaldīt mapes palīgu apstrādāt noteiktu pastkasti. Darbojas šī cmdlet noder testēšanu vai problēmrisināšanai saglabāšanas politiku vai saglabāšanas tagu iestatījumi. Lai iegūtu vairāk informācijas, apmeklējiet [palaist pārvaldītas mapes palīgs](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Iespējams, ka **pārvaldāmās mapes palīgs** nav apstrādājis lietotāja pastkasti. Pārvaldīto mapju palīgs mēģina katru septiņu dienu laikā apstrādāt visas pastkastes mākonī bāzētu organizācijā. Ja maināt saglabāšanas tagu vai lietot citu saglabāšanas politikas pastkasti, varat pagaidīt, līdz pārvaldītā mapē Assist apstrādā pastkasti vai sākt ManagedFolderAssistant cmdlet palaist, lai startētu pārvaldīto mapi palīgs apstrādāt noteiktu pastkasti. Palaižot šo cmdlet ir noderīga pārbaudes vai problēmu novēršanas saglabāšanas politikas vai saglabāšanas tagu iestatījumus. Lai iegūtu papildinformāciju, apmeklējiet [palaist pārvaldīto mapju palīgu](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Solution:** Palaidiet tālāk norādīto komandu, lai sāktu pārvaldīt mapes palīgu uz norādīto pastkasti.
+  - **Risinājums:** Palaidiet tālāk minēto komandu, lai startētu pārvaldītā mapē palīgs konkrētu pastkasti:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Tas var notikt, ja **RetentionHold** ir **iespējots** uz pastkasti. Ja pastkaste ir piešķirtas RetentionHold, saglabāšanas politiku uz pastkasti nevar apstrādāt šajā laikā. Lai iegūtu informāciju par iestatījumu skatiet RetentionHold: [Pastkastes uzglabāšanas turiet](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Tas var notikt arī tad, ja ir **iespējota** **Retentionhold** pastkastē. Ja pastkastē ir novietots RetentionHold, saglabāšanas politika pastkastē netiks apstrādāti šajā laikā. Vairāk informācijas par RetentionHold iestatījumu skatiet: [pastkastes saglabāšanas aizturēšana](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Risinājums:**
     
-  - RetentionHold iestatījumus uz norādīto pastkasti [EXO](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)PowerShell statusa pārbaude:
+  - Pārbaudiet statusu RetentionHold konkrētu pastkasti [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)iestatījumu:
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Palaist šādu komandu, lai **atspējotu** RetentionHold uz norādīto pastkasti:
+  - Palaidiet tālāk norādītās komandas, lai **atspējotu** retentionhold noteiktā pastkastē:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Tagad vēlreiz palaidiet pārvaldītā mapē palīgs:
+  - Tagad atkārtoti palaidiet pārvaldīto mapju palīgu:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Piezīme:** Ja pastkaste ir mazāka par 10 MB, pārvaldītas mapes palīgu automātiski neapstrādās pastkasti.
+ **Piezīme:** Ja pastkaste ir mazāka par 10 MB, pārvaldītā mapē palīgs netiks automātiski apstrādāt pastkasti.
  
-Lai iegūtu vairāk informācijas par saglabāšanas politikas maiņas administrēšanas centrā, skatīt:
-- [Aiztures tagus un saglabāšanas politika](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Saglabāšanas politiku lietot pastkastēm](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Pievienojiet vai noņemiet atzīmes izdalīšanas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Kā noteikt kravas veida likts uz pastkasti](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+Lai iegūtu papildinformāciju par saglabāšanas politikas Exchange administrēšanas centrs, skatiet:
+- [Saglabāšanas tagi un saglabāšanas politikas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Saglabāšanas politikas lietošanas pastkastēm](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Saglabāšanas tagu pievienošana vai noņemšana](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Kā identificēt pastkastē ievietoto aiztura tipu](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

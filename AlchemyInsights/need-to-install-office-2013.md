@@ -1,8 +1,8 @@
 ---
-title: Ir jāinstalē Office 2013.
+title: Ir jāinstalē Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761857"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Biroja 2013. gadam vairs netiek atbalstīta programmā Office 365 abonementi
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 vairs netiek atbalstīts Microsoft 365 abonementi
 
-2017. gada 28. februārī, kopš biroja 2013 vairs nenodrošina biroja 365 abonementus.
+Gada februārī 28, 2017, Office 2013 vairs netiek atbalstīta Microsoft 365 abonementi.
   
-Nodrošināt drošību Office Suite un saņemt visu jaunāko līdzekļu instalēt jaunāko Office versiju par brīvu kā daļa no Office 365 abonēšanas. Skatiet sadaļā [jaunināšana uz jaunāko Office klienta lietotājiem](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Lai nodrošinātu jūsu Office komplekta drošību un iegūtu visas jaunākās funkcijas, instalējiet jaunāko Office versiju bez maksas kā Microsoft 365 abonementa daļu. Skatiet sadaļu [lietotāju jaunināšana uz jaunāko Office klientu](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
   

@@ -2,18 +2,18 @@
 title: Ziņojumu par piekļuvi liegta problēmu novēršana
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 913324524e4b04ee7eb552bcc4efad1b493ab319
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051828"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742150"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Ziņojumu par piekļuvi liegta problēmu novēršana
 
@@ -21,7 +21,7 @@ Ja saņemat ziņojumu par liegtu piekļuvi, mēģinot pārlūkot SharePoint Onli
 
 **Pievienot un licencēt lietotāju**
 
-Pārliecinieties, ka [piešķirat licences lietotājiem Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)uzņēmumiem.
+Pārliecinieties, ka [piešķirat licences lietotājiem Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)uzņēmumiem.
 
 **Piešķirt atļaujas**
 

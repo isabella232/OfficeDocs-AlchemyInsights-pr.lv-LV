@@ -1,30 +1,30 @@
 ---
-title: Novērst problēmas, kas saistītas ar biroja 365 papildu draudus aizsardzība (ATP)
+title: Problēmu novēršana saistībā ar Office 365 uzlabotā Pretdraudu aizsardzība (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766752"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Novērst problēmas, kas saistītas ar biroja 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP problēmu novēršana
 
-- **Paziņojums aizkavēšanās ar e-pasta ziņojumu piegādi**? Mēģiniet izmantot dinamisko piegādes opciju ATP drošu pielikumu politikām. Šādi jūs izvairīsities no e-pasta ziņojumu piegādes aizkavēšanos aizsargājot saņēmēju no ļaunprātīgu failus.
-- **Vai vēlaties mēģināt viltus pozitīvo pārskatu vai iegūt šķietami negatīvus rezultātus**? Izmantojiet šo saiti, lai iesniegtu savu failu analīzei:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Jūs zinājāt, ka varat iespējot ATP drošas saites aizsardzība e-pastam, kas tiek sūtīti no jūsu uzņēmuma darbinieki**? Rīkojieties šādi:
-    1. Dodieties uz https://protection.office.com, un pierakstieties.
-    2. Dodieties uz **draudu pārvaldības** > **politikas** > **Drošas saites**.
-    3. Saskaņā ar **politiku, kas attiecas uz konkrētiem saņēmējiem**, rediģēt (vai pievienotu) politiku.
-    4. Atlasiet **lietot drošas saites organizācijā sūtītajiem ziņojumiem**.
-    5. Saglabātu savu politiku un ļaut strādāt savu ceļu caur jūsu datacenter izmaiņas apmēram 30 minūtes.
-- Lai saņemtu plašāku palīdzību ATP, skatiet [Office 365 papildu draudus aizsardzības](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Pamanāt aizkavēšanos ar e-pasta ziņojumu piegādi**? Mēģiniet izmantot jūsu ATP drošas pielikumu politikām dinamisko piegādes opciju. Tas ļaus izvairīties no e-pasta ziņojumu piegādes kavējumiem, aizsargājot adresātus no ļaunprātīgiem failiem.
+- Vai **vēlaties ziņot par viltus pozitīviem vai viltus negatīviem**? Izmantojiet šo saiti, lai iesniegtu failu analīzei:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Vai jūs zinājāt, ka jūs varat IESPĒJOT ATP drošas saites aizsardzību e-pastam, kas tiek sūtīts starp cilvēkiem jūsu organizācijā**? Izpildiet tālāk norādītās darbības.
+    1. Doties https://protection.office.com, un pierakstieties.
+    2. Pārejiet uz sadaļu **draudu pārvaldības** > **politika** > **drošas saites**.
+    3. Sadaļā **politikas, kas attiecas uz noteiktiem adresātiem**, rediģējiet (vai pievienojiet) politiku.
+    4. Atlasiet **lietot drošas saites uz ziņojumiem, kas tiek sūtīti organizācijas ietvaros**.
+    5. Saglabājiet politiku un atļaujiet aptuveni 30 minūtes, lai izmaiņas darbotos savā datu centrā.
+- Lai iegūtu papildu palīdzību par ATP, skatiet [Office 365 uzlabotā Pretdraudu aizsardzība](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

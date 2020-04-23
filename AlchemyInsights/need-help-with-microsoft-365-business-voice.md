@@ -1,5 +1,5 @@
 ---
-title: Nepieciešama palīdzība par Microsoft 365 Business Voice?
+title: Vajadzīga palīdzība ar Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 55490f1e04f02af83d0ce786543117aa48ecb340
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600463"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761965"
 ---
-# <a name="need-help-with-microsoft-365-business-voice"></a>Nepieciešama palīdzība par Microsoft 365 Business Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Vajadzīga palīdzība ar Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Voice padara to viegli mazajiem un vidējiem uzņēmumiem, lai pārvērstu Microsoft Teams par spēcīgu un elastīgu telefonu sistēmu. Papildinformāciju par uzņēmumu balss skatiet sadaļā [kas ir Microsoft 365 Business Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voice ļauj mazajiem un vidējiem uzņēmumiem viegli pārvērst Microsoft Teams par spēcīgu un elastīgu tālruņu sistēmu. Papildinformāciju par uzņēmumu balss skatiet sadaļā [kas ir Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Ja esat jau iegādājies Microsoft 365 Business Voice, [darba sākšanas vednis](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) var palīdzēt jums kaut ko darīt. 
+Ja jūs jau esat iegādājies Microsoft 365 Business Premium Voice, [darba sākšanas vednis](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) var palīdzēt jums lietas turpinās. 

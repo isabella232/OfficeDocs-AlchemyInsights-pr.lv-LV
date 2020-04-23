@@ -1,9 +1,9 @@
 ---
-title: Kāda ir mana e-pasta adrese Outlook.com?
+title: Kas ir mana Outlook.com e-pasta adrese?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d11d453f4f4512378f0226d16de15c09c695f019
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511515"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743388"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Redzēt savu Outlook.com e-pasta adresi
+# <a name="see-your-own-outlookcom-email-address"></a>Skatīt savu Outlook.com e-pasta adresi
 
-Lai apskatītu noklusēto e-pasta adresi, kuru izmantojat, sūtot e-pastu, dodieties uz [sinhronizācijas e-pasta iestatījumus](https://outlook.live.com/mail/options/mail/accounts) un skatīties sadaļā **iestatīt noklusējuma no adreses**.
+Lai skatītu noklusējuma e-pasta adresi, kuru izmantojat, sūtot e-pastu, dodieties uz [sinhronizācijas e-pasta iestatījumiem](https://outlook.live.com/mail/options/mail/accounts) un sadaļā **noklusējuma adreses iestatīšana**skatiet.
 
-Ja citu e-pasta kontu esat savienots ar Outlook.com kontu, varat sūtīt e-pastu no šīs adreses.
+Ja savam Outlook.com kontam esat izveidojis citu e-pasta kontu, varat izvēlēties sūtīt e-pasta ziņojumu no šādas adreses.
 
-1. Atlasiet trīs punkti <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- sastādīšanas logā un atlasiet **Show no**apakšā redzēt no līniju.
-2. Virs rindiņā, atlasiet **no** un izvēlēties, kuras e-pasta adresi, ko vēlaties izmantot.
+1. Atlasiet trīs punktus <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ sastādīšanas loga apakšdaļā un atlasiet **Rādīt no** , lai skatītu rindiņu no.
+2. Virs rindiņas Kam atlasiet **no** un izvēlieties, kuru e-pasta adresi vēlaties izmantot.
 
-Uzziniet vairāk par [nosūtot e-pastu no citas adreses programmā Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Uzziniet vairāk par [e-pasta ziņojumu sūtīšanu no citas adreses Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

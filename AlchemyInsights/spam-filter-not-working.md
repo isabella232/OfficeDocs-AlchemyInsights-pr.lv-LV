@@ -1,9 +1,9 @@
 ---
-title: 8000059 Spam filtrs nedarbojas
+title: 8000059 surogātpasta filtrs nedarbojas
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38469649ddd661a90144ac8b63d7b12f6acd1549
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501302"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764088"
 ---
-# <a name="spam-filter-not-working"></a>Surogātpasta filtrs nedarbojas
+# <a name="spam-filter-not-working"></a>Spam filtrs nedarbojas
 
-Ja jūs uzskatāt, ka jūs esat saņēmis Outlook.com ziņojums ir pikšķerēšanas vietne vai izlikšanos scam, atlasiet šo ziņojumu un atlasiet **nevēlamo** \> **pikšķerēšanu** , lai atzīmētu to kā pikšķerēšanas scam. Lai uzzinātu vairāk par ļaunprātīgu izmantošanu, pikšķerēšanas un izlikšanos, [izlasiet šo](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Bloķēt e-pasta adreses, adreses vai domēnus, pievienojiet to savam drošo sūtītāju sarakstam vai lietot citas nevēlamā e-pasta opcijas, atlasiet **nevēlamā e-pasta opcijas**.
+Ja uzskatāt, ka ziņojums, ko saņēmāt Outlook.com, ir pikšķerēšanas vai izlikšanās scam, atlasiet ziņojumu un atlasiet **nevēlams** \> **Pikšķerēšana** , lai to atzīmētu kā pikšķerēšanas ziņojumu. Lai uzzinātu vairāk par ļaunprātīgu izmantošanu, pikšķerēšanu un izlikšanos, [lasiet šo](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Lai bloķētu e-pasta adreses, pievienotu adreses vai domēnus savam drošo sūtītāju sarakstam vai lietotu citas nevēlamā e-pasta opcijas, atlasiet **nevēlamā e-pasta opcijas**.
   
