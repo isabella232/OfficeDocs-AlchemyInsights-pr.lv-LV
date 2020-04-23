@@ -12,18 +12,18 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 4e902ea2e91e6ee44bce9f1a2a94410aab9c05d9
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 5031c6218f8eee9e06e08fc902270ce299f12ed6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195267"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783834"
 ---
 # <a name="invoice-and-payment-information"></a>Rēķinu un maksājumu informācija
 
 **Maksājumu**
 
-Iegādājoties Office 365 darbam abonementu tieši no korporācijas Microsoft, varat maksāt ar kredītkarti vai debetkarti.  Dažās valstīs/reģionos varat norēķināties arī ar bankas kontu.  Varat uzzināt, kā pārvaldīt un novērst šīs maksājumu metodes [, pievienojot, atjauninot vai noņemot kredītkarti vai citu maksāšanas metodi Office 365](https://go.microsoft.com/fwlink/?linkid=2118133)darbam.  Tas ietver problēmu novēršanu, kad jūsu kredītkarte ir noraidīta un atjaunina maksājuma informāciju.
+Iegādājoties Microsoft 365 darbam abonementu tieši no korporācijas Microsoft, varat maksāt ar kredītkarti vai debetkarti.  Dažās valstīs/reģionos varat norēķināties arī ar bankas kontu.  Varat uzzināt, kā pārvaldīt un novērst šīs maksājumu metodes [, pievienojot, atjauninot vai noņemot kredītkarti vai citu maksāšanas metodi Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2118133)uzņēmumiem.  Tas ietver problēmu novēršanu, kad jūsu kredītkarte ir noraidīta un atjaunina maksājuma informāciju.
 
 **Rēķinu/rēķinu**
 
@@ -33,4 +33,4 @@ Rēķinus varat atrast un lejupielādēt rēķinu **izrakstīšanas > [rēķinos
 
 Rēķini tiek veidoti reizi mēnesī vai reizi gadā atkarībā no pirkuma laikā izvēlētā maksājuma biežuma.  Ja maksājat katru gadu, jūs varat saņemt rēķinu termiņa vidusposma, pievienojot vai noņemot licences abonementu.
  
-- Papildinformāciju skatiet tēmā [izpratne par Office 365 rēķinu uzņēmumiem](https://go.microsoft.com/fwlink/?linkid=2119101).
+- Papildinformāciju skatiet rakstā [izpratne par Microsoft 365 rēķinu uzņēmumiem](https://go.microsoft.com/fwlink/?linkid=2119101).

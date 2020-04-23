@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704092"
+ms.locfileid: "43788709"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP jautājumi ar sociālās apdrošināšanas numuriem
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704092"
 
 **DLP problēmas ar SSNs**
 
-Vai jums ir problēmas ar **datu zuduma novēršana (DLP)** nestrādā saturu, kas satur **sociālās apdrošināšanas numurs (SSN)** , izmantojot sensitīvu informācijas tipa Office 365? Ja tā ir, pārliecinieties, ka jūsu saturs satur nepieciešamo informāciju par to, ko DLP politika meklē. 
+Vai jums ir problēmas ar **datu zuduma novēršana (DLP)** nestrādā saturu, kas satur **sociālās apdrošināšanas numurs (SSN)** , izmantojot sensitīvu informācijas tipa Microsoft 365? Ja tā ir, pārliecinieties, ka jūsu saturs satur nepieciešamo informāciju par to, ko DLP politika meklē. 
   
 Piemēram, SSN politika, kas konfigurēta ar ticamības līmeni 85%, tiek novērtēti un ir jānosaka kārtulu aktivizācijai:
   

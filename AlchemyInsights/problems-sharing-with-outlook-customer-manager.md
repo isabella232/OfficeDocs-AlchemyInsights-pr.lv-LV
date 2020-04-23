@@ -1,9 +1,9 @@
 ---
-title: Problems-Sharing-with-Outlook-Customer-Manager
+title: problēmas-koplietošana-ar-Outlook-klientu pārvaldnieks
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554484"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758833"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problēmas, daloties ar Outlook klientu menedžeris
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problēmas ar koplietošanu ar Outlook klientu pārvaldnieku
 
-Ja jums ir sadales jautājumus ar Outlook klientu menedžeris, mēs iesakām jums vispirms mēģiniet dzēst pārlūkprogrammas kešatmiņu. Piemēram Internet Explorer jūs:
+Ja rodas koplietošanas problēmas ar Outlook klientu pārvaldnieku, ieteicams vispirms mēģināt iztīrīt pārlūkprogrammas kešatmiņu. Piemēram, programmā Internet Explorer jūs:
 
-1. Dodieties uz sadaļu **Iestatījumi** > >**Vispārīgie** iestatījumi sadaļā **pārlūkošanas vēsture** > **kešatmiņas un datu bāzēm**.
-2. Dzēst kešatmiņu failus tīmekļa vietne "outlookapps.com."
+1. Dodieties uz **Settings** > **General** > Settings zem **pārlūkošanas vēstures** > **kešatmiņas un datu bāzēm**.
+2. Dzēst kešatmiņas failus vietnei "outlookapps.com".
 3. Restartējiet programmu Outlook.
 
-Papildinformāciju par kopīgošanu skatiet sadaļā [koplietot informāciju Outlook klientu menedžeris](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Papildinformāciju par koplietošanu skatiet sadaļā [informācijas koplietošana programmā Outlook klientu pārvaldnieks](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

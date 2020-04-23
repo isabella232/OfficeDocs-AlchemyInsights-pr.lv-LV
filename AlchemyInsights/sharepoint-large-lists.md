@@ -3,7 +3,7 @@ title: SharePoint lieli saraksti
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
-ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
+ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37488524"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767292"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Strādājiet ar lieliem sarakstiem un bibliotēkām programmā SharePoint
 
-SharePoint sarakstiem un bibliotēkām var būt līdz pat 30 000 000 vienumiem, bet, ja tiem ir vairāk par 5 000 vienumiem, iespējams, redzēsit saraksta skata sliekšņa kļūdu, kad mēģināsit ar tiem strādāt. Šis slieksnis ir spēkā, lai saglabātu pakalpojuma izpildi. To nevar mainīt. Lai izvairītos no hitting šo slieksni:
+SharePoint sarakstiem un bibliotēkām var būt līdz pat 30 000 000 vienumiem, bet, ja tiem ir vairāk par 5 000 vienumiem, iespējams, redzēsit saraksta skata sliekšņa kļūdu, kad mēģināsit ar tiem strādāt. Šī sliekšņa mērķis ir uzturēt pakalpojuma veiktspēju. To nevar mainīt. Lai izvairītos no hitting šo slieksni:
 
 **Izmantot modernas**
 

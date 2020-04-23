@@ -1,8 +1,8 @@
 ---
-title: Izmēģinājuma versijas Office 365 īrnieks bloķēja Spamhaus
+title: Trial Microsoft 365 nomnieka bloķēts Spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759879"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Kļūdu, ja Office 365 izmēģinājuma lietotājs nosūta e-pastu: klientu uzņēmēja bloķēta, izmantojot Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Kļūda, kad Microsoft 365 izmēģinājuma lietotājs sūta e-pastu: bloķēta klienta resursdatora, izmantojot Spamhaus
 
-Šķiet, ka jūs sūtāt e-pastu no jauna biroja 365 pētījuma organizācija. Lai palīdzētu novērst ļaunprātīgu izmantošanu, mēs bloķēt IP adreses, kas ir zināms, ka iepriekš ir apdraudēta. Šo īpašo pārbaudi vairs nav izpildīts, pēc tam, kad sākat izmantot maksā licences. Jums varētu būt iespēja saņemt pagaidu atvieglojumu lūdz jaunu IP adresi no jūsu interneta pakalpojumu sniedzējs (ISP) vai bloka noņemšana no [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) mājas lapā.
+Šķiet, ka nosūtāt e-pastu no jauna Microsoft 365 izmēģinājuma organizācijas. Lai palīdzētu novērst ļaunprātīgu izmantošanu, mēs bloķējam IP adreses, par kurām zināms, ka tās iepriekš ir tikušas apdraudētas. Šī konkrētā pārbaude vairs netiek izpildīts pēc tam, kad sākat izmantot maksas licences. Iespējams, varat saņemt īslaicīgu atvieglojumu, pieprasot jaunu IP adresi no jūsu interneta pakalpojumu sniedzēja (ISP) vai noņemot bloku no tīmekļa vietnes [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .

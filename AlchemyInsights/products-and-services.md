@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279063"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758797"
 ---
 # <a name="products--services"></a>Produkti & pakalpojumi
 
@@ -24,7 +24,7 @@ Jūsu organizācijai piederošie abonementi ir atrodami lapā **norēķinu** > [
 
 1. Pārvaldiet katram abonementam iegādāto licenču skaitu kopā ar to, cik tiek izmantots.  **Piezīme**: licences, kas netiek izmantotas (nav piešķirti lietotājam) joprojām tiek iekasēta.  Lai netiktu iekasēta maksa par neizmantotajām licencēm, samaziniet iegādāto licenču skaitu. Lai uzzinātu, kā pievienot vai noņemt licences no abonementa, skatiet [kā pievienot vai samazināt licences](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Skatiet abonementa atjaunošanas vai derīguma termiņu.  Atjaunošanu var pārvaldīt, noklikšķinot uz saites **Rediģēt** blakus **renews/beidzas** datums.  Lai iegūtu papildinformāciju par to, kā pārvaldīt periodiskos norēķinus, skatiet sadaļu [Office 365 atjaunošana](https://go.microsoft.com/fwlink/?linkid=2119216) uzņēmumiem.
+2. Skatiet abonementa atjaunošanas vai derīguma termiņu.  Atjaunošanu var pārvaldīt, noklikšķinot uz saites **Rediģēt** blakus **renews/beidzas** datums.  Papildinformāciju par to, kā pārvaldīt periodiskos norēķinus, skatiet sadaļā [atjaunot Microsoft 365 uzņēmumiem](https://go.microsoft.com/fwlink/?linkid=2119216) .
 
 3. [Atkārtoti aktivizēt novecojušu vai atspējotu abonementu](https://go.microsoft.com/fwlink/?linkid=2117519).
 

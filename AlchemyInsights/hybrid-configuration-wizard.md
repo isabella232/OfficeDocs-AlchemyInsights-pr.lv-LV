@@ -1,9 +1,9 @@
 ---
-title: Hibrīda konfigurācijas vednis
+title: Hibrīds konfigurācijas vednis
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 2d982afb2aecd35296d0e978f3b1fc04068c4138
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5e9469bce87338978b79e37baad1d16ea3bb0310
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717035"
 ---
-# <a name="hybrid-configuration-wizard"></a>Hibrīda konfigurācijas vednis
+# <a name="hybrid-configuration-wizard"></a>Hibrīds konfigurācijas vednis
 
-Hybrid konfigurācijas vednis ir app, kas palīdz iestatīt jaunu hibrīdu izvietošanas lokālajā Exchange uzņēmumā un biroja 365. Ja jums jau ir hibrīds izvietošanas iestatīšana, vednis palīdz atjaunināt hibrīda izvēršanas iestatījumus. Lai iegūtu papildinformāciju, pārbaudiet:
+Hibrīds konfigurācijas vednis ir programma, kas palīdz iestatīt jaunu Hibrīdā izvietošana lokālas Exchange organizācijas un Microsoft 365. Ja jums jau ir iestatīta Hibrīdā izvietošana, vednis palīdz atjaunināt Hibrīdā izvietojuma iestatījumus. Papildinformāciju skatiet:
   
-- [Hybrid konfigurācijas vedni palaist](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Palaist hibrīds konfigurācijas vednis](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Hibrīda konfigurācijas vednis](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Hibrīds konfigurācijas vednis](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Hibrīda konfigurācijas vednis FAQs](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Hibrīdkonfigurācijas vednis bieži uzdotie jautājumi](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

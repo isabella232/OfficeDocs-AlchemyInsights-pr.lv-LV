@@ -1,9 +1,9 @@
 ---
-title: Outlook.com nevar saņemt verifikācijas kodu
+title: Outlook.com nevar saņemt verifikācijas kodus
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537702"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760815"
 ---
-# <a name="cant-get-verification-codes"></a>Nevar iegūt verifikācijas kodu
+# <a name="cant-get-verification-codes"></a>Nevar saņemt verifikācijas kodus
 
-Ja nevarat piekļūt jūsu alternatīvo e-pasta vai tālruņa numuru, iet Microsoft konta [drošības pamati](https://account.microsoft.com/security) lapu, izvēlieties **man nav neviena no šiem** uz pierakstīšanās lapu un izpildiet norādījumus, lai aizstātu drošības info.
+Ja nevarat piekļūt alternatīvajam e-pasta vai tālruņa numuram, atveriet lapu Microsoft konta [drošības pamatinformācija](https://account.microsoft.com/security) , pierakstīšanās lapā atlasiet **man nav neviena no šiem** un izpildiet norādījumus, lai aizstātu drošības informāciju.
 
-*Piezīme:* [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) neprasa interneta savienojumu, lai nodrošinātu jūs ar verifikācijas kodu.
+*Piezīme:* [Programmai Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nav nepieciešams interneta savienojums, lai nodrošinātu verifikācijas kodu.
 
-Lai uzzinātu vairāk, izlasiet [Microsoft konta drošības informācija un pārbaudes kodus](https://support.microsoft.com/help/12428/).
+Lai uzzinātu vairāk, lasiet [Microsoft konta drošības informāciju un verifikācijas kodus](https://support.microsoft.com/help/12428/).

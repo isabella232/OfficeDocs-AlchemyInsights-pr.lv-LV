@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-required-for-eDiscovery-Searches
+title: 1489-atļaujas-nepieciešama-for-eDiscovery-meklēšanas
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758915"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Atļaujām, kas nepieciešamas eDiscovery meklēšanai
+# <a name="permissions-required-for-ediscovery-searches"></a>Atļaujām, kas nepieciešamas eDiscovery meklēšanas vaicājumiem
 
-Veikt drošības & Center izpildes satura meklēšanu, lietotājam jābūt vismaz dalībniece eDiscovery Manager lomu grupas, kas ļauj veikt meklēšanu un vietu ieņem pastkastēm, SharePoint vietņu un OneDrive vietās. Dalībnieki var arī izveidot un pārvaldīt eDiscovery gadījumos, pievienot un noņemt dalībniekus, lai gadījumā, izveidot un modificēt satura meklēšanu un piekļūt papildu eDiscovery lieta datiem.
+Lai veiktu satura meklēšanu drošības & atbilstības centrā, lietotājam jābūt vismaz dalībniekam eDiscovery Manager lomu grupa, kas ļauj tiem veikt meklēšanu un novietot aizturēšanas pastkastēs, SharePoint vietnēs un OneDrive atrašanās vietās. Dalībnieki var arī izveidot un pārvaldīt e-datu atklāšanas gadījumus, pievienot un noņemt dalībniekus gadījumam, izveidot un rediģēt satura meklēšanas vaicājumus un piekļūt pieteikuma datiem detalizētā e-datu atklāšanā.
 
-In-Place eDiscovery meklējumu veikšanai Exchange administratoru centrā (EAC), lietotājam jābūt dalībvalstu lomu grupas noteikšanas pārvaldība programmā Exchange Online.
+Veikt in-place eDiscovery meklēšanas vaicājumi Exchange administrēšanas centru (EAC), lietotājam ir jābūt Exchange Online lomu grupas noteikšanas pārvaldība dalībniekam.
 
-Papildinformāciju par eDiscovery atļaujām skatiet šeit: 
+Lai iegūtu papildinformāciju par eDiscovery atļaujām, skatiet: 
 
-- [Piešķiriet eDiscovery atļaujas & drošības ievērošanu centrs](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [EDiscovery atļauju piešķiršana drošības & atbilstības centrā](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [EDiscovery atļaujas piešķirt apmaiņā](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Piešķirt eDiscovery atļaujas Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Piezīme**: pēc eDiscovery tiesību piešķiršana, iespējams, būs jāgaida pāris minūtes atļaujas tiek ieviestas bērnobjektos.
+**Piezīme**: pēc piešķirot eDiscovery atļaujas, jums var būt jāgaida dažas minūtes atļaujas izplatīt.

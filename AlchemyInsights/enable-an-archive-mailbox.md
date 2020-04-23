@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703686"
+ms.locfileid: "43788673"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
 
-Arhīva pastkastes Office 365 (saukta arī par *tiešsaistes arhīviem* vai *oriģinālu arhīvu*) lietotājiem nodrošina papildu e-pasta krātuvi. Lietotāji var pārvietot vai kopēt vienumus uz to arhīva pastkaste un administratori var izveidot arhīva politika, kas automātiski pārvieto vienumus arhīva pastkastes.
+Arhīva pastkastes Microsoft 365 (ko sauc arī par *tiešsaistes arhīviem* vai *oriģinālu arhīvu*) nodrošina lietotājus ar papildu e-pasta krātuvi. Lietotāji var pārvietot vai kopēt vienumus uz to arhīva pastkaste un administratori var izveidot arhīva politika, kas automātiski pārvieto vienumus arhīva pastkastes.
   
 Lai izveidotu arhīva pastkasti, ir šādi:
   

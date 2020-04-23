@@ -1,9 +1,9 @@
 ---
-title: Kļūda 30088 4 risinājumi
+title: Kļūdu risinājumi 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501662"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756890"
 ---
-# <a name="solutions-for-error-30088-4"></a>Kļūda 30088 4 risinājumi
+# <a name="solutions-for-error-30088-4"></a>Kļūdu risinājumi 30088-4
 
-Izmēģiniet tālāk minētos risinājumus, lai novērstu kļūdas [30088 4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Izmēģiniet šos risinājumus, lai novērstu kļūdu [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
 - Restartējiet datoru un mēģiniet [instalēt Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Lejupielādēt un instalēt [atbalstu un piedziņas asistentu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Lejupielādējiet un instalējiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kad to atver, **atinstalēt Office produktu** atlasiet, kuru versiju vēlaties atinstalēt un izvēlēties **nākamo**.
+1. Kad tas atveras, **atinstalēt Office produktus** atlasiet versiju, kuru vēlaties atinstalēt, un atlasiet **Tālāk**.
 
-2. Turpināt iet caur ekrāniem un restartējiet datoru, kad tas tiek pieprasīts.
+2. Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.
 
-    Pēc restartēšanas, atbalstu un atgūšanas Assistant automātiski atkārtoti atver atinstalēšanas procesu pabeigšanai.
+    Pēc restartēšanas atbalsta un atkopšanas palīgs automātiski tiek atvērts, lai pabeigtu atinstalēšanas procesu.
 
-3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizvērt palīga.
+3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizveriet palīgu.
