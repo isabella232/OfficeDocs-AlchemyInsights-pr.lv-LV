@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028032"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784806"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Teams iezvanes konferences numura noņemšana
 
@@ -24,7 +24,7 @@ Vai jums ir nepieciešama palīdzība, lai noņemtu iezvanes konferences numuru 
 
 Konferences tilta noklusējuma tālruņa numurs nosaka zvanītāja ID, kas tiks lietots, kad dalībnieks vai organizators veic izejošo zvanu sapulcē.
 
-1. Pierakstieties pakalpojumā Office 365 ar savu darba kontu.
+1. Pierakstieties ar darba kontu.
 
 2. Dodieties uz **Microsoft 365 administrēšanas centrs**.
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint migrācijas veiktspēja
+title: SharePoint migrācijas veiktspējas norādījumi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537784"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789309"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint migrācijas veiktspēja
+# <a name="sharepoint-migration-performance-guidance"></a>SharePoint migrācijas veiktspējas norādījumi
 
-**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
+Migrēšanas veikšanu var ietekmēt tīkla infrastruktūra, failu izmēri, migrācijas laiks un ierobežošana.
 
-**Migrācijas veiktspēja**
-
-Migrēšanas veikšanu var ietekmēt tīkla infrastruktūra, failu izmēri, migrācijas laiks un ierobežošana. Šo faktoru izpratne palīdzēs jums plānot un maksimāli efektīvi īstenot migrāciju.
-
-Lai iegūtu papildinformāciju, lūdzu, apmeklējiet šo tālāk norādītās saites.
+Lai iegūtu papildinformāciju, lūdzu, apmeklējiet:
 
 - [Vispārīgās migrācijas veikšanas vadlīnijas](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Izvairīšanās no ierobežošanas vai bloķēšanas pakalpojumā SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [SharePoint migrācijas rīka lejupielāde un instalēšana](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
