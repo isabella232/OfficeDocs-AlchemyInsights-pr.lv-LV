@@ -1,5 +1,5 @@
 ---
-title: SharePoint migrācijas veiktspēja
+title: SharePoint migrācijas veiktspējas norādījumi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537784"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789309"
 ---
-# <a name="sharepoint-migration-performance"></a><span data-ttu-id="b13d8-102">SharePoint migrācijas veiktspēja</span><span class="sxs-lookup"><span data-stu-id="b13d8-102">SharePoint migration performance</span></span>
+# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="c0b4d-102">SharePoint migrācijas veiktspējas norādījumi</span><span class="sxs-lookup"><span data-stu-id="c0b4d-102">SharePoint migration performance guidance</span></span>
 
-<span data-ttu-id="b13d8-103">**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="b13d8-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="c0b4d-103">Migrēšanas veikšanu var ietekmēt tīkla infrastruktūra, failu izmēri, migrācijas laiks un ierobežošana.</span><span class="sxs-lookup"><span data-stu-id="c0b4d-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span>
 
-<span data-ttu-id="b13d8-104">**Migrācijas veiktspēja**</span><span class="sxs-lookup"><span data-stu-id="b13d8-104">**Migration performance**</span></span>
+<span data-ttu-id="c0b4d-104">Lai iegūtu papildinformāciju, lūdzu, apmeklējiet:</span><span class="sxs-lookup"><span data-stu-id="c0b4d-104">For more information, please visit:</span></span>
 
-<span data-ttu-id="b13d8-105">Migrēšanas veikšanu var ietekmēt tīkla infrastruktūra, failu izmēri, migrācijas laiks un ierobežošana.</span><span class="sxs-lookup"><span data-stu-id="b13d8-105">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="b13d8-106">Šo faktoru izpratne palīdzēs jums plānot un maksimāli efektīvi īstenot migrāciju.</span><span class="sxs-lookup"><span data-stu-id="b13d8-106">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+- [<span data-ttu-id="c0b4d-105">Vispārīgās migrācijas veikšanas vadlīnijas</span><span class="sxs-lookup"><span data-stu-id="c0b4d-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-<span data-ttu-id="b13d8-107">Lai iegūtu papildinformāciju, lūdzu, apmeklējiet šo tālāk norādītās saites.</span><span class="sxs-lookup"><span data-stu-id="b13d8-107">For more information, please visit the links below.</span></span>
-
-- [<span data-ttu-id="b13d8-108">Vispārīgās migrācijas veikšanas vadlīnijas</span><span class="sxs-lookup"><span data-stu-id="b13d8-108">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- [<span data-ttu-id="b13d8-109">Izvairīšanās no ierobežošanas vai bloķēšanas pakalpojumā SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="b13d8-109">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="b13d8-110">SharePoint migrācijas rīka lejupielāde un instalēšana</span><span class="sxs-lookup"><span data-stu-id="b13d8-110">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="c0b4d-106">Izvairīšanās no ierobežošanas vai bloķēšanas pakalpojumā SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c0b4d-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
