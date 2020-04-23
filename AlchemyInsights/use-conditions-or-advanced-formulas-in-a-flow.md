@@ -1,9 +1,9 @@
 ---
-title: Lietošanas apstākļiem, vai papildu formulas plūsma
+title: Lietošanas nosacījumi vai uzlabotas formulas plūsmas
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: da2b093237f94809b501baabe84122e776b7fbb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88ae3420d7be6bba9f032a99564c43e7d4d24b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532290"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726363"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Lietošanas apstākļiem, vai papildu formulas plūsma
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Lietošanas nosacījumi vai uzlabotas formulas plūsmas
 
-Programmā Microsoft Flow, plūsmu var pielāgot tā, lai tas izpilda uzdevumus, vienīgi tad, ja nosacījums ir patiess. Informācijas, skatiet [Add stāvoklī plūsmu](https://go.microsoft.com/fwlink/?linkid=872112).
+Programmā Microsoft Flow varat pielāgot plūsmu tā, lai tā izpilda uzdevumus tikai tad, ja nosacījums ir patiess. Informāciju skatiet rakstā [nosacījuma pievienošana plūsmai](https://go.microsoft.com/fwlink/?linkid=872112).
   
-Izveidot papildu formulas, skatīt [darbplūsmas definīcija valodā shēmas debeszils logic progr](https://aka.ms/logicexpressions).
+Lai izveidotu papildu formulu, skatiet sadaļu [darbplūsmas definīcijas valodas shēma Azure loģikas lietotnēm](https://aka.ms/logicexpressions).
   
 

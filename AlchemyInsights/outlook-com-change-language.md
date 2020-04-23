@@ -1,9 +1,9 @@
 ---
-title: Mainīt valodu, valodu, datuma un laika formātu vai laika joslu Outlook.com
+title: Valodas maiņa valoda, datuma un laika formāts vai laika josla Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9368fe86c2f0e4756c69dd56e4a5e6cdefdfe841
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721978"
 ---
 # <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Mainīt valodu, datuma un laika formātu vai laika joslu Outlook.com
 
-1. Atvērta jūsu [valodas un laika iestatījumu](https://go.microsoft.com/fwlink/?linkid=2085505).
-1. Atlasiet valodu, datuma formāta, laika formātu un laika zonu, kuru vēlaties izmantot.
-1. Izvēlieties **saglabāt**.
+1. Atveriet [valodas un laika iestatījumus](https://go.microsoft.com/fwlink/?linkid=2085505).
+1. Atlasiet valodu, datuma formātu, laika formātu un laika joslu, kuru vēlaties izmantot.
+1. Atlasiet **saglabāt**.

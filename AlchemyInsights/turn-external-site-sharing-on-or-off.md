@@ -3,7 +3,7 @@ title: Kā pielāgot SharePoint saraksta vai bibliotēkas atļaujas
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43100334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731705"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>Ārējās kopīgošanas ieslēgšana vai izslēgšana vietnei
 
-Jums ir jābūt globālās vai SharePoint administrēšanas Office 365 mainīt vietnes ārējās koplietošanas iestatījumu (iepriekš saukta par "vietņu kolekcijas"). Vietņu īpašniekiem nav atļauts mainīt šo iestatījumu. 
+Lai mainītu vietnes ārējās koplietošanas iestatījumu (iepriekš saukta par "vietņu kolekciju"), jums ir jābūt globālam vai SharePoint administratoram. Vietņu īpašniekiem nav atļauts mainīt šo iestatījumu. 
 
 Papildinformāciju skatiet sadaļā [ārējās kopīgošanas ieslēgšana vai izslēgšana vietnei](https://docs.microsoft.com/sharepoint/change-external-sharing-site).

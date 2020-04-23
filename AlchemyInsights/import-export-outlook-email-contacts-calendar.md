@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-imports-eksports-Outlook-e-pasts-Kontakti-kalendārs
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545178"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724671"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importēt un eksportēt Outlook e-pastu, kontaktus un kalendāra ierakstus
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook e-pasta, kontaktpersonu un kalendāra vienumu importēšana un eksportēšana
 
-1. Programmā Outlook, noklikšķiniet uz **Fails**.
+1. Programmā Outlook noklikšķiniet uz **Fails**.
 
-2. Noklikšķiniet uz **Open & eksporta**un pēc tam noklikšķiniet uz **Importēt/eksportēt**.
+2. Noklikšķiniet uz** Atvērt un eksportēt** un pēc tam noklikšķiniet uz **Importēt/Exportēt**.
 
-    Šādi tiek startēts importēšanas un eksportēšanas vedni.
+    Tiek startēts importēšanas un eksportēšanas vednis.
 
-Pilnīgu kopu importēšanas un eksportēšanas instrukcijas, Outlook, skatiet [šajā rakstā](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Lai iegūtu pilnu importēšanas un eksportēšanas instrukciju kopu programmai Outlook, skatiet [šo rakstu](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Ja jūs esat administrators un vēlas, lai kopējā importa vairākus. PST failus Office 365 pastkastēm, skatiet [šajā rakstā](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Ja esat administrators un vēlaties lielapjoma importēšana vairākus PST failus Microsoft 365 pastkastēm, skatiet [šo rakstu](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

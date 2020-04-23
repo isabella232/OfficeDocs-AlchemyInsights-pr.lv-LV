@@ -1,9 +1,9 @@
 ---
-title: Import-Export-in-Outlook-for-Mac
+title: importa-eksporta-In-Outlook-For-Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724737"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Importēt/eksportēt programmā Outlook Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Importēt/eksportēt programmā Outlook operētājsistēmai Mac 
 
-Eksports:
+Eksporta:
 1. Cilnē **Rīki** izvēlieties **Eksportēt**.
-2. Lodziņā **Saglabāt kā** zem **Mana izlase**, izvēlieties **lejupielādes** mapi un izvēlieties **Saglabāt**.
-3. Ja redzat paziņojumu, ka eksportēšana ir pabeigta, izvēlieties **pabeigt**.
+2. Lodziņā **Saglabāt kā** sadaļā **izlase**izvēlieties mapi **lejupielādes** un atlasiet **saglabāt**.
+3. Kad tiek parādīts paziņojums, ka eksportēšana ir pabeigta, atlasiet **pabeigt**.
 
-Importēšana:
+Importa:
 1. Cilnē **Rīki** izvēlieties **Importēt**.
-2. Atlasiet **Outlook Windows arhīva failā (. pst)** > **turpināt**.
-3. Atrodiet. pst failu uz jūsu Mac, un pēc tam izvēlieties **Importēt**.
-4. Kad importēšana ir pabeigta, izvēlieties **pabeigt**.
-5. Importētie vienumi parādās navigācijas rūtī sadaļā **Uz manā datorā**.
+2. Atlasiet **Outlook Windows arhīva failu (. pst)** > **turpināt**.
+3. Atrodiet. pst failu savā Mac un pēc tam izvēlieties **Importēt**.
+4. Kad importēšanas process ir pabeigts, izvēlieties **pabeigt**.
+5. Importētie vienumi tiek parādīti navigācijas rūtī zem **manā datorā**.
 
-Pilns komplekts, importa un eksporta perspektīvas Mac instrukcijas skatiet [Importēt un eksportēt Outlook e-pastu, kontaktpersonām un kalendāram](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Pilns komplekts importa un eksporta instrukcijas Outlook Mac skatiet [Importēt un eksportēt Outlook e-pasts, kontaktpersonas un kalendārs](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Saņemt atbalstu app Outlook Mac jautājumiem, atveriet Outlook un izvēlieties **palīdzība** > **Kontaktu atbalsta**. Ierakstiet savu jautājumu un perspektīvu Mac atbalsta komandas loceklis sazināsimies ar jums. [Sazinieties ar atbalsta programmā Outlook Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Lai saņemtu atbalstu programmā Outlook Mac problēmas, atveriet Outlook un atlasiet **palīdzības** > **sazinieties ar atbalsta dienestu**. Ierakstiet savu jautājumu un Outlook Mac atbalsta komandas dalībnieks ar jums sazināties. [Sazinieties ar atbalsta centru programmā Outlook operētājsistēmai Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

@@ -1,9 +1,9 @@
 ---
-title: Problēmu novēršana darbā ar paroles sinhronizācija
+title: Problēmu novēršana paroļu sinhronizēšana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533814"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732517"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Problēmu novēršana darbā ar paroles sinhronizācija
+# <a name="troubleshoot-password-synchronization"></a>Problēmu novēršana paroļu sinhronizēšana
 
-Novērst problēmas, kur bez paroles tiek sinhronizēti ar Azure AD savienot versiju 1.1.614.0 vai jaunāka versija:
+Lai novērstu problēmas, ja nav paroļu sinhronizētas ar Azure AD Connect versiju 1.1.614.0 vai jaunāka versija:
   
-1. Atvērt jaunu Windows PowerShell sesijā Azure AD savienojumu servera opciju **Palaist kā administratoram** .
+1. Atveriet jaunu Windows PowerShell sesiju savā Azure AD Connect serverī, izmantojot opciju **Palaist kā administratoram** .
 
-2. Palaist **Set ExecutionPolicy RemoteSigned** vai **neierobežotu kopu ExecutionPolicy**.
+2. Palaidiet **Set-Executionpolicy RemoteSigned** vai **Set-Executionpolicy neierobežoti**.
 
-3. Startēt vedni Azure AD savienojumu.
+3. Startējiet vedni Azure AD Connect.
 
-4. Naviģējiet uz lapu **Papildu uzdevumus** , atlasiet **problēmu novēršana**un noklikšķiniet uz **Tālāk**.
+4. Pārejiet uz **papildu uzdevumu** lapu, atlasiet **problēmu novēršana**un noklikšķiniet uz **Tālāk**.
 
-5. Problēmu novēršana lapā noklikšķiniet uz **Sākt startēt problēmrisināšanas** menu PowerShell.
+5. Problēmu novēršanas lapā, noklikšķiniet uz Sākt, **lai sāktu problēmu novēršanas** izvēlni PowerShell.
 
-6. Galvenajā izvēlnē izvēlieties **Paroli sinhronizācijas problēmu novēršana**.
+6. Galvenajā izvēlnē atlasiet **problēmu novēršana paroļu sinhronizēšana**.
 
-7. Apakšizvēlnes, izvēlieties **paroles sinhronizācija nedarbojas vispār**.
+7. Apakšizvēlnē atlasiet **paroļu sinhronizēšana**nedarbojas vispār.
 
-**Izprast problēmu novēršanas uzdevumu rezultāti**
+**Izprastu problēmu novēršanas uzdevuma rezultātus**
   
-Problēmu novēršanas uzdevumu veic šādas pārbaudes:
+Problēmu novēršanas uzdevums veic šādas pārbaudes:
   
-- Apstiprina, ka parole sinhronizācijas līdzeklis ir iespējots debeszils AD īrnieks.
+- Apstiprina, ka paroļu sinhronizēšana līdzeklis ir iespējots Azure AD nomnieka.
 
-- Apstiprina, ka Azure AD savienojumu servera nav inscenējums režīmā.
+- Apstiprina, ka Azure AD Connect serveris nav sagatavošanas režīmā.
 
-- Par katru esošo lokālā Active Directory savienotāju (kas atbilst esošās Active Directory mežā):
+- Katram esošajam lokālā Active Directory savienotājs (kas atbilst esošo Active Directory mežā):
 
 - 
-  - Apstiprina, ka parole sinhronizācijas līdzeklis ir iespējots.
+  - Pārbauda, vai paroļu sinhronizēšana līdzeklis ir iespējots.
 
-  - Meklē paroles sinhronizācija sirdsdarbība notikumi Windows programmu notikumu žurnālos.
+  - Meklē paroļu sinhronizēšana Periodisko kontrolziņojumu notikumus Windows lietojumprogrammu notikumu žurnālos.
 
-  - Katra domēna Active Directory sadaļā lokālā Active Directory savienotāju:
+  - Par katru Active Directory domēna lokālā Active Directory savienotājs:
 
-  - Apstiprina, ka domēns ir sasniedzams no Azure AD savienojumu servera.
+  - Validē, ka domēns ir sasniedzams no Azure AD savienojumu servera.
 
-  - Apstiprina, ka Active Directory domēna pakalpojumus (AD DS) kontus izmanto lokālā Active Directory savienotājs ir pareizais lietotājvārds, parole un atļauju parole sinhronizācijai nepieciešamos.
+  - Apstiprina, ka Active Directory domēna pakalpojumus (AD DS) kontiem, ko izmanto lokālā Active Directory savienotājs ir pareizs lietotājvārds, parole, un atļaujām, kas nepieciešamas paroļu sinhronizēšana.
 
-Papildu palīdzību problēmu novēršana sinhronizācijas paroli, skatiet [novēršana paroles sinhronizācija ar Azure AD pievienot sinhronizācijas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Lai iegūtu palīdzību problēmu novēršana paroļu sinhronizēšana, skatiet [problēmu novēršana paroļu sinhronizēšana ar AZURE ad savienojumu sinhronizācija](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

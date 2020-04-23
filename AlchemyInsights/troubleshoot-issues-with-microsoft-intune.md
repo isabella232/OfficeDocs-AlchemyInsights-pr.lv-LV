@@ -1,25 +1,25 @@
 ---
-title: Novērst problēmas, kas saistītas ar Microsoft Intune
+title: Problēmu novēršana saistībā ar Microsoft InTune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506594"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733457"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Novērst problēmas, kas saistītas ar Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Problēmu novēršana saistībā ar Microsoft InTune
 
-Pārskata resursu uzskaitītas zemāk, lai atrisinātu jūsu problēmu tagad.
+Pārskatiet tālāk uzskaitītos resursus, lai atrisinātu problēmu tūlīt.
   
-1. Izmantot [Intune Troubleshooting portālu](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosticēt un atrisināt dažas kopīgas nepilnības. Recenzējiet [šo](https://docs.microsoft.com/intune/help-desk-operators) dokumentu, lai saņemtu sīkāku informāciju.  
-2. Pārskata [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)atrast atbildes un bieži sastopamu problēmu risinājumus.  
-3. Pārbaudiet [Pakalpojumu veselības](https://portal.office.com/AdminPortal/Home#/servicehealth) redzēt pakalpojuma statusu.   
-4. Pārbaudīt [Intune dokumentācijas](https://docs.microsoft.com/intune/) plānošanu, how, traucējummeklēšana rakstus un daudz ko citu. 
+1. Izmantojiet [InTune problēmu novēršanas portāls](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosticēt un novērst dažas bieži kļūmes. Pārskatiet [šo](https://docs.microsoft.com/intune/help-desk-operators) dokumentu, lai iegūtu detalizētu informāciju.  
+2. Pārskatiet [InTune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), lai atrastu atbildes un risinājumus bieži sastopamas problēmas.  
+3. Pārbaudiet [pakalpojumu veselību](https://portal.office.com/AdminPortal/Home#/servicehealth) , lai redzētu pakalpojuma statusu.   
+4. Pārskatiet [InTune dokumentāciju](https://docs.microsoft.com/intune/) , lai plānotu, kā to, problēmu novēršanas rakstus un daudz ko citu. 

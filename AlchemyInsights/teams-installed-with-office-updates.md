@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737659"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Ar Office atjauninājumiem instalētās Microsoft Teams
 
-Microsoft Teams ir iekļauta kā daļa no jaunajām Office 365 ProPlus, Office 365 Business un Office for Mac ***instalācijām*** . Lai iegūtu papildinformāciju, skatiet [kad Microsoft Teams sāks iekļaut jaunas Office instalācijas?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams ir iekļauta kā daļa no ***jauna instalācijas*** Microsoft 365 Apps Enterprise, Microsoft 365 lietojumprogrammas uzņēmumiem un Office Mac. Lai iegūtu papildinformāciju, skatiet [kad Microsoft Teams sāks iekļaut jaunas Office instalācijas?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Turklāt, sākot ar versiju 1906 ikmēneša kanāls, komandas pakāpeniski tiks pievienots ***esošās*** instalācijas Office 365 ProPlus (un Office 365 Business) ierīcēs, kurās darbojas sistēma Windows atjauninot esošo instalāciju uz jaunāko versiju. Papildinformāciju skatiet sadaļā kas ir [par esošajām Office instalācijām?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Turklāt, sākot ar versiju 1906 ikmēneša kanāls, darba grupas pakāpeniski tiks pievienotas ***esošās*** instalācijas Microsoft 365 lietojumprogrammas uzņēmumiem (un Microsoft 365 lietojumprogrammas uzņēmumiem) ierīcēs, kurās darbojas sistēma Windows atjauninot esošo instalāciju uz jaunāko versiju. Papildinformāciju skatiet sadaļā kas ir [par esošajām Office instalācijām?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Piezīme:** Ja nevēlaties gaidīt šo izlaišanas grafiku, varat izvietot darba grupas kā savrupas lietotājiem, [izpildot šos norādījumus](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), vai varat izmantot, lai lietotāji no https://teams.microsoft.com/downloadstās varētu instalēt grupas.
 

@@ -1,9 +1,9 @@
 ---
-title: Kā veikt veco jauno Outlook.com izskatās
+title: Kā padarīt jauno Outlook.com izskatās vecā
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497522"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721765"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kā padarīt jauno Outlook.com izskatīties kā veco versiju
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kā padarīt jauno Outlook.com izskatīties veco versiju
 
-Piedāvājam dažus iestatījumus var mainīt veikt jaunu Outlook.com izskatīties kā veco versiju:
+Tālāk ir norādīti daži iestatījumi, kurus varat mainīt, lai jaunais Outlook.com izskatītos kā vecā versija.
 
-1. Pāriet uz [izkārtojuma iestatījumus](https://outlook.live.com/mail/options/mail/layout).
-1. Zem **mērķtiecīgi iesūtnes**, atlasiet **nav kārtot maniem vēstījumiem**.
-1. Saskaņā ar **ziņu organizācijas**, atlasiet **jaunākās ziņas uz augšu**.
-1. Atbilstoši **sūtītājam attēls**, atlasiet **Nerādīt attēlus sūtītājs**.
-1. Zem **lasīšanas rūts**atzīmējiet **Paslēpt lasīšanas rūti**.
-1. Zem **teksta ziņojuma priekšskatījumā**izvēlieties **Rādīt teksta priekšskatījumā**.
-1. Zem **iekļautās priekšskatījumi**, atlasiet **Nerādīt ziņojumu saraksta pielikumus**.
+1. Dodieties uz [izkārtojuma iestatījumiem](https://outlook.live.com/mail/options/mail/layout).
+1. Sadaļā **fokusēta Iesūtne**atlasiet **nekārtot manus ziņojumus**.
+1. Sadaļā **ziņojumu organizācija**augšdaļā atlasiet **jaunāko ziņojumu**.
+1. Sadaļā **sūtītāja attēls**atlasiet **Nerādīt sūtītāja attēlus**.
+1. Sadaļā **lasīšanas rūts**atlasiet **slēpt lasīšanas rūti**.
+1. Sadaļā **ziņojuma priekšskatīšanas teksts**atlasiet **Rādīt priekšskatījuma tekstu**.
+1. Sadaļā **iekļautie priekšskatījumi**atlasiet **Nerādīt pielikumus ziņojumu sarakstā**.
 
-Mainīt jūsu e-pasta iestatījumi, lai iesūtnē izskatās un uzvedas tā, kā jūs to vēlaties, skatiet [mainīt izskatu jūsu pastkastes Outlook.com un jaunu Outlook Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai mainītu pasta iestatījumus un jūsu Iesūtne izskatītos un uzvedas tā, kā vēlaties, skatiet sadaļu [pastkastes izskata mainīšana programmā Outlook.com un jauno Outlook tīmeklī](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
