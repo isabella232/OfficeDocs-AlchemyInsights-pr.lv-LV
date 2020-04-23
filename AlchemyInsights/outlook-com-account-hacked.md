@@ -1,9 +1,9 @@
 ---
-title: 8000039 Outlook.com kontu hacked
+title: 8000039 Outlook.com konts hacked
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: bb50c64a02c99ebfbda07bd58cb6329356ab24fe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c10623c17650eac13afb1b0ccf5d86486b5cb311
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542779"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761103"
 ---
-# <a name="outlookcom-account-hacked"></a><span data-ttu-id="0f223-102">Outlook.com kontu hacked</span><span class="sxs-lookup"><span data-stu-id="0f223-102">Outlook.com account hacked</span></span>
+# <a name="outlookcom-account-hacked"></a><span data-ttu-id="2614b-102">Outlook.com konts hacked</span><span class="sxs-lookup"><span data-stu-id="2614b-102">Outlook.com account hacked</span></span>
 
-<span data-ttu-id="0f223-103">Ja jūsu konts ir hacked, izpildiet norādījumus [ir hacked My Outlook.com kontu](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) atgūt savu kontu.</span><span class="sxs-lookup"><span data-stu-id="0f223-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) to recover your account.</span></span>
+<span data-ttu-id="2614b-103">Ja jūsu konts ir uzlauzts, sekojiet instrukcijām [manā Outlook.com kontā ir hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) , lai atgūtu savu kontu.</span><span class="sxs-lookup"><span data-stu-id="2614b-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) to recover your account.</span></span>
   
-<span data-ttu-id="0f223-104">Uzziniet vairāk par [Advanced Outlook.com drošības biroja 365 abonentus](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0f223-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="2614b-104">Uzziniet vairāk par [papildu Outlook.com drošību Microsoft 365 abonentiem](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2614b-104">Learn more about [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   

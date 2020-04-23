@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739644"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722383"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="38bc7-102">Konfigurēt vairāku faktoru autentifikācijas Office 365</span><span class="sxs-lookup"><span data-stu-id="38bc7-102">Configure multi-factor authentication in Office 365</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="e4731-102">Konfigurējiet vairāku faktoru autentifikāciju</span><span class="sxs-lookup"><span data-stu-id="e4731-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="38bc7-103">Lai konfigurētu MFA, skatiet [iestatīt vairāku faktoru autentifikācijas Office 365 lietotājiem](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="38bc7-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="e4731-103">Lai konfigurētu MFA, skatiet [iestatīt vairāku faktoru autentifikāciju](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="e4731-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="38bc7-104">Ņemiet vērā, ka jums ir jābūt Office 365 Global admin iespējot un konfigurēt MFA.</span><span class="sxs-lookup"><span data-stu-id="38bc7-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="e4731-104">Ņemiet vērā, ka jums ir jābūt globālā admin iespējot un konfigurēt MFA.</span><span class="sxs-lookup"><span data-stu-id="e4731-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
