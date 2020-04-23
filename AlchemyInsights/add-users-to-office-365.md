@@ -1,9 +1,9 @@
 ---
-title: Lietotāju pievienošana pakalpojumā Office 365
+title: Lietotāju pievienošana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 49a91bd6024476c22382a82c6767884e7cdd88bb
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: f6fd4a20aefc52b54f28c830d535d84631a34ab2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671320"
 ---
-# <a name="add-a-user-to-office-365"></a>Lietotāja pievienošana pakalpojumā Office 365
+# <a name="add-a-user"></a>Lietotāja pievienošana
 
 1. Microsoft 365 administrēšanas centrā izvēlieties **Lietotāji** > [Aktīvie lietotāji](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
@@ -27,4 +27,4 @@ ms.locfileid: "40068248"
 
 3. Aizpildiet lietotāja informāciju. Kad esat pabeidzis, izvēlieties **Pabeigt pievienošanu**.
 
-Plašāku informāciju skatiet rakstā [Atsevišķa vai lielapjoma lietotāju pievienošana pakalpojumā Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Plašāku informāciju skatiet rakstā [Atsevišķa vai lielapjoma lietotāju pievienošana](https://docs.microsoft.com/office365/admin/add-users/add-users).

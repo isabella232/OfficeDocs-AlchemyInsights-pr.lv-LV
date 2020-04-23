@@ -1,8 +1,8 @@
 ---
-title: Gatavošanās TLS 1.2 lietošanai pakalpojumā Office 365
+title: Gatavošanās TLS 1.2 lietošanai pakalpojumā Microsoft 365
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: ef04b5b6ab6c365359b6973cbd56d5d1e833554b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666928"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Gatavošanās TLS 1.2 lietošanai pakalpojumā Office 365
+# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Gatavošanās TLS 1.2 lietošanai pakalpojumā Microsoft 365
 
-Sākot ar 2018. gada 31. oktobri, Office 365 turpinās pāreju uz TLS 1.2. Tas nozīmē, ka Microsoft nenovērsīs jaunas problēmas, kas tiks novērotas klientiem, ierīcēm un pakalpojumiem, kas veido savienojumu ar Office 365, izmantojot TLS 1.0 un 1.1. **Tas nenozīmē, ka Office 365 bloķēs TLS 1.0 un 1.1 savienojumus.** Galīgais atbalsta pārtraukšanas datums tiks noteikts, pamatojoties uz klientu lietojumu un pašreizējo TLS drošības statusu. Pēc lēmuma pieņemšanas par to tiks paziņots sešus mēnešus iepriekš, ja vien mēs neatklāsim zināmu apdraudējumu. Tādā gadījumā mums, iespējams, nāksies rīkoties ātrāk par sešiem mēnešiem, lai aizsargātu lietotājus, kuri izmanto šos pakalpojumus.
+Sākot ar 2018. gada 31. oktobri, Microsoft 365 turpinās pāreju uz TLS 1.2. Tas nozīmē, ka Microsoft nenovērsīs jaunas problēmas, kas tiks novērotas klientiem, ierīcēm un pakalpojumiem, kas veido savienojumu ar Office 365, izmantojot TLS 1.0 un 1.1. **Tas nenozīmē, ka Microsoft 365 bloķēs TLS 1.0 un 1.1 savienojumus.** Galīgais atbalsta pārtraukšanas datums tiks noteikts, pamatojoties uz klientu lietojumu un pašreizējo TLS drošības statusu. Pēc lēmuma pieņemšanas par to tiks paziņots sešus mēnešus iepriekš, ja vien mēs neatklāsim zināmu apdraudējumu. Tādā gadījumā mums, iespējams, nāksies rīkoties ātrāk par sešiem mēnešiem, lai aizsargātu lietotājus, kuri izmanto šos pakalpojumus.
   
-Visiem serveriem un klientiem, kas veido savienojumu ar Office 365, stingri ieteicams pēc iespējas drīzāk iespējot TLS 1.2.
+Visiem serveriem un klientiem, kas veido savienojumu ar Microsoft 365, stingri ieteicams pēc iespējas drīzāk iespējot TLS 1.2.
   
-Papildinformāciju skatiet rakstā [Gatavošanās TLS 1.2 lietošanai pakalpojumā Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Papildinformāciju skatiet rakstā [Gatavošanās TLS 1.2 lietošanai pakalpojumā Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
