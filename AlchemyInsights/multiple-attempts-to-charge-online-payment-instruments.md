@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762001"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799130"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Vairāki mēģinājumi iekasēt maksu par tiešsaistes maksājumu instrumentiem
 
-Mēs darām vairākus mēģinājumus iekasēt tiešsaistes maksājumu instrumentus, pirms veicat jebkādas darbības ar pakalpojumu. Kad ir atlasīta maksājuma metode, visas nokavētās summas jāsamaksā ar atlasīto maksājuma veidu. Lai atjauninātu pašreizējo maksājuma informāciju par abonementu, izpildiet darbības, kas norādītas sadaļā [pievienot, atjaunināt vai noņemt kredītkarti vai bankas kontu Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)uzņēmumiem.
+Ja maksa ir neveiksmīga, sistēma turpinās mēģināt atrisināt bilanci tuvāko nedēļu laikā. Jebkurā brīdī varat veikt maksājumu informācijas atjauninājumus, lai nodrošinātu, ka nākamais maksas mēģinājums ir sekmīgs. Lai iegūtu papildinformāciju, skatiet [pievienot, atjaunināt vai noņemt kredītkarti vai bankas konta Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)uzņēmumiem.
