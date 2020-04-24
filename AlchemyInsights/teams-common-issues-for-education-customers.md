@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856804"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739443"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Biežāk sastopamās Teams problēmas izglītības iestādēm
 
@@ -45,12 +45,12 @@ Ja jums ir nepieciešama palīdzība Teams izvietošanai attālinātajām mācī
     6. Skype darbam administrēšanas centrā noklikšķiniet uz **audio konferences** un pēc tam uz **lietotāji**.
     7. Atlasiet attiecīgo lietotāju un pārbaudiet, vai lietotājam ir noklusējuma maksas tālruņa numurs.
 
-    Lai uzzinātu vairāk, skatiet [Office 365 zvanu plāni](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) vai zvaniet Microsoft komerciālo maksājumu komandai, lai saņemtu palīdzību ar licencēšanu saistītos jautājumos.
+    Lai uzzinātu vairāk, skatiet [Zvanu plānus](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) vai zvaniet Microsoft komercnorēķinu komandai, lai saņemtu palīdzību ar licencēšanu saistītos jautājumos.
 
     Papildu resursi
 
     - [Sapulces un konferences pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Office 365 audio konferences](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audiokonferences](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Sapulču politikas**: sapulces politikas tiek izmantotas, lai kontrolētu līdzekļus, kas ir pieejami sapulces dalībniekiem jūsu organizācijas lietotāju ieplānoto sapulču laikā. Pēc politikas izveides un izmaiņu ieviešanas, varat politikai pievienot lietotājus.
 

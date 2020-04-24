@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2eac0cafc0fed6fe813d3820044a407e200955f3
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: a3d9adbea318e4302490e52d190d93607ce9fd4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100525"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789057"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Izrakstīšanās no Outlook tīmekļa versijas
 
 1. Noklikšķiniet uz jūsu konta attēla/iniciāļiem ekrāna augšējā labajā stūrī. Ja ekrāna augšdaļā neredzat savu attēlu, pārbaudiet, vai ir ieslēgta reklāmu bloķēšana. Dažreiz tā neļauj parādīt attēlu.
 
-2. Noklikšķiniet uz **Izrakstīties**. (Lai neļautu Outlook tīmekļa versijai jūs automātiski pierakstīt darba vai mācību kontā, atspējojiet izvēles rūtiņu **Saglabāt manu pieteikuminformāciju**, kad nākamreiz pierakstīsieties Office 365.)
+2. Noklikšķiniet uz **Izrakstīties**. (Lai neļautu Outlook tīmekļa versijai jūs automātiski pierakstīt darba vai mācību kontā, atspējojiet izvēles rūtiņu **Saglabāt manu pieteikuminformāciju**, kad nākamreiz pierakstīsieties.)
 
 3. Ja izrakstīšanās opcijas nav, šī ir zināma problēma un mēs strādājam pie labojuma ieviešanas nākamajā laidienā.  Lūdzu, mēģiniet attīrīt jūsu pārlūkprogrammas kešatmiņu un sīkfailus, lai novērstu šo problēmu.  Ja problēma joprojām pastāv, jūs varat [izrakstīties no konta manuāli](https://login.live.com/logout.srf) un aizvērt visus pārlūkprogrammas logus.
 

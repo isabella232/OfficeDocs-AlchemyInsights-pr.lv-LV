@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509508"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788889"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Automātisko atbilžu iestatīšana lietotāja pastkastē
 
 **1. metode**
 
-1. Pierakstieties Office 365 portālā.
+1. Pierakstieties programmas Microsoft 365 portālā.
 
 2. Dodieties uz **Lietotāji > Aktīvie lietotāji** (vai **Grupas > Koplietojamās pastkastes**, ja esat iestatījis šo kā koplietojamo pastkasti).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509508"
 
 **2. metode**
 
-1. Pierakstieties Office 365 administrēšanas portālā, izmantojot administratora akreditācijas datus.
+1. Pierakstieties Microsoft 365 administrēšanas portālā, izmantojot administratora akreditācijas datus.
 
 2. Izvērsiet sadaļu **Administrēšanas centri** un pēc tam noklikšķiniet uz **Exchange**.
 

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191107"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789453"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Licenču pārsūtīšana starp nomniekiem
 
-Nav iespējams pārsūtīt Office 365 licences no divām organizācijām (nomniekiem). 
+Nav iespējams pārsūtīt licences no divām organizācijām (nomniekiem). 
 
 - Ja vairs neplānojat izmantot nomnieku, no kura vēlaties pārsūtīt abonementu, varat [atcelt abonementu](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) un [iegādāties jaunu](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (mērķa) nomnieku.
 
