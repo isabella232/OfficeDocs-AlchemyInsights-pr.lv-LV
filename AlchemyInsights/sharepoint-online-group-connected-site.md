@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642151"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912973"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problēmas, izveidojot grupu savienota vietnes SharePoint
 
@@ -30,5 +30,5 @@ Ja esat izdzēsis grupu un tās Savienoto vietni un vēlaties izveidot citu viet
 
 1. Ir dažādi veidi, kā izveidot un izmantot modernas grupas ar SharePoint.
 
-   - Esošās vietnes var savienot ar Office 365 grupu. Papildinformāciju skatiet rakstā [Office 365 grupas savienošana, izmantojot SharePoint lietotāja interfeisu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Lai izveidotu Office 365 grupu, kas ir savienota ar vietni, ir jāizveido [darba grupas vietne](https://admin.microsoft.com/sharepoint).
+   - Esošās vietnes var savienot ar Microsoft 365 grupu. Papildinformāciju skatiet rakstā [Microsoft 365 grupas savienošana, izmantojot SharePoint lietotāja interfeisu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Izveidot savienojumu ar Microsoft 365 grupas vietni, jums vajadzēs izveidot [darba grupas vietni](https://admin.microsoft.com/sharepoint).

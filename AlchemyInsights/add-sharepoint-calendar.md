@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671356"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911011"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint kalendāra pievienošana
 
-SharePoint kalendāri ir klasiski sarakstu tipi, kas dažreiz tiek sajaukti ar Office 365 grupas kalendāriem.
+SharePoint kalendāri ir klasiskie sarakstu tipi, kurus dažreiz sajauc ar Microsoft 365 grupas kalendāriem.
  
 Lai izveidotu SharePoint kalendāru, rīkojieties šādi:
  
@@ -29,5 +29,5 @@ Lai izveidotu SharePoint kalendāru, rīkojieties šādi:
 2.  Lodziņā **atrast programmu** meklēšanu ierakstiet **Kalendārs** un nospiediet taustiņu ENTER.
 3.  Atlasiet programmu **Kalendārs**ar nosaukumu un pēc tam ievadiet kalendāra nosaukumu.
 
-Lai iegūtu papildinformāciju par Office 365 grupas, skatiet [Uzziniet par office 365 grupas](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Lai iegūtu papildinformāciju par Microsoft 365 grupas, skatiet [Uzziniet par microsoft 365 grupas](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

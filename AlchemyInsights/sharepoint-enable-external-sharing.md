@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051684"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912193"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Ārējās koplietošanas iespējošana SharePoint Online
 
@@ -25,11 +25,11 @@ Lai iegūtu vairāk informācijas par ārējo koplietošanu (viesi), lūdzu, apm
 
 - [Kas notiek, ja kopīgoju vietni vai dokumentu?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Ārējās koplietošanas ieslēgšana un izslēgšana SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Ārējās koplietošanas ieslēgšana vai izslēgšana pakalpojumam SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [Ārējās kopīgošanas ieslēgšana vai izslēgšana vietnei](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Viesu piekļuves pārvaldīšana Office 365 grupās](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Viesu piekļuves pārvaldība programmā Microsoft 365 groups](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
 - [Izmantojiet SharePoint Online kā Business-to-Business (B2B) ārtīkla risinājumu](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

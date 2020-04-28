@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710522"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912901"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Lietotāju atļaujas pakalpojumā SharePoint un OneDrive
 
@@ -27,7 +27,7 @@ Ja lietotājs jūsu organizācijā nevar piekļūt SharePoint vai OneDrive, pār
   
 1. Atveriet vietni Web pārlūkā.
     
-2. Ja vietne pieder grupai Office 365, augšējā labajā stūrī noklikšķiniet uz ikonas iestatījumi un pēc tam noklikšķiniet uz **vietnes atļaujas**. Noklikšķiniet uz **uzaicināt personas**un pēc tam izvēlieties pievienot dalībniekus Office 365 grupai vai koplietot tikai vietni. 
+2. Ja vietne pieder Microsoft 365 grupai, augšējā labajā stūrī noklikšķiniet uz ikonas iestatījumi un pēc tam noklikšķiniet uz **vietnes atļaujas**. Noklikšķiniet uz **uzaicināt personas**un pēc tam izvēlieties pievienot dalībniekus Microsoft 365 grupai vai koplietot tikai vietni. 
     
     Saziņas vietnes augšējā labajā stūrī noklikšķiniet uz **kopīgot vietni** , ievadiet personas vārdu un pēc tam atlasiet atļaujas līmeni (lasīt, rediģēt vai pilna kontrole). 
     

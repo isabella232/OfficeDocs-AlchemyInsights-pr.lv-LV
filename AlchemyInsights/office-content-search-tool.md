@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788007"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912265"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Satura meklēšanas rīku, lai atrastu atbilstošu informāciju
 
-Izmantojiet satura meklēšanas rīku drošības & atbilstības centrā, lai ātri atrastu e-pasta ziņojumus Exchange pastkastēs, SharePoint vietņu dokumentos, OneDrive atrašanās vietās un tūlītējās ziņojumapmaiņas sarunās programmā Skype darbam. Varat izmantot satura meklēšanas rīku, lai meklētu e-pasta ziņojumus, dokumentus un tūlītējās ziņojumapmaiņas sarunas Microsoft 365 sadarbības rīkos, piemēram, Microsoft Teams un Office 365 grupās.
+Izmantojiet satura meklēšanas rīku drošības & atbilstības centrā, lai ātri atrastu e-pasta ziņojumus Exchange pastkastēs, SharePoint vietņu dokumentos, OneDrive atrašanās vietās un tūlītējās ziņojumapmaiņas sarunās programmā Skype darbam. Varat izmantot satura meklēšanas rīku, lai meklētu e-pasta ziņojumus, dokumentus un tūlītējās ziņojumapmaiņas sarunas Microsoft 365 sadarbības rīkos, piemēram, Microsoft Teams un Microsoft 365 grupās.
 
 
 Pirms izmantojat [satura meklēšanu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) no [drošības & atbilstības centra](https://sip.protection.office.com/homepage), jūs vēlēsities pabeigt konfigurācijas iestatījumus, tostarp [konfigurēt atļaujas](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Iestatīt lejupielādes ātrumu](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) un [eksportēšanas iestatījumus](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

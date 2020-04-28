@@ -1,5 +1,5 @@
 ---
-title: Atjaunot svītrots Office 365 grupa
+title: Atjaunot svītrots Microsoft 365 grupa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758761"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912718"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Atjaunot svītrots Office 365 grupa
+# <a name="restore-a-deleted-microsoft-365-group"></a>Atjaunot svītrots Microsoft 365 grupa
 
 Dzēstās grupas tiek saglabātas 30 dienas. Lai atjaunotu dzēstu grupu:
   
@@ -28,5 +28,5 @@ Dzēstās grupas tiek saglabātas 30 dienas. Lai atjaunotu dzēstu grupu:
 
 2. Atlasiet grupu un pēc tam noklikšķiniet uz **atjaunot** komandjoslā un detalizētās informācijas rūtī noklikšķiniet uz saites "noklikšķiniet šeit, lai atjaunotu".
 
-Lai iegūtu papildinformāciju vai uzzinātu, kā atjaunot grupas, izmantojot PowerShell, skatiet [atjaunot svītrots Office 365 grupas](https://go.microsoft.com/fwlink/?linkid=867802).
+Lai iegūtu papildinformāciju vai uzzinātu, kā atjaunot grupas, izmantojot PowerShell, skatiet [atjaunot dzēstu Microsoft 365 grupas](https://go.microsoft.com/fwlink/?linkid=867802).
   

@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764735"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911838"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanas un eDiscovery meklēšanas
 
-Izmantojiet satura meklēšanas rīku drošības & atbilstības centrā, lai ātri atrastu e-pasta ziņojumus Exchange pastkastēs, dokumentus SharePoint vietnēs un OneDrive kontā, kā arī tūlītējās ziņojumapmaiņas sarunas programmā Skype darbam. Varat arī izmantot satura meklēšanas rīku, lai meklētu e-pasta ziņojumus, dokumentus un tūlītējās ziņojumapmaiņas sarunas Microsoft 365 sadarbības rīkos, piemēram, Microsoft Teams un Office 365 grupās.
+Izmantojiet satura meklēšanas rīku drošības & atbilstības centrā, lai ātri atrastu e-pasta ziņojumus Exchange pastkastēs, dokumentus SharePoint vietnēs un OneDrive kontā, kā arī tūlītējās ziņojumapmaiņas sarunas programmā Skype darbam. Varat arī izmantot satura meklēšanas rīku, lai meklētu e-pasta ziņojumus, dokumentus un tūlītējās ziņojumapmaiņas sarunas Microsoft 365 sadarbības rīkos, piemēram, Microsoft Teams un Microsoft 365 grupās.
 
 **Lai veiktu satura meklēšanu**
 

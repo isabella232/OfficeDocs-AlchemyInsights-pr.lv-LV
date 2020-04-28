@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767256"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913009"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint satura koplietošanas ar ārējiem lietotājiem problēmu novēršana
 
@@ -32,7 +32,7 @@ Pārliecinieties, vai ārējā koplietošana tā ir ieslēgta vietnei. Klasiskaj
     
 2. Atlasiet vietni vai vietnes un lentē noklikšķiniet uz **koplietošana**.
     
-Grupas vietnē, kas pieder Office 365 grupai vai saziņas vietnei:
+Grupas vietne, kas pieder Microsoft 365 grupas vai saziņas vietnes:
   
 - Šiem jaunajiem vietnes tipiem ir tāds pats kopīgošanas iestatījums kā organizācijas iestatījumam, ja vien organizācijas mēroga iestatījums neļauj koplietot failus, izmantojot saites, kurām nav nepieciešama pierakstīšanās. Šajā gadījumā vietnes ļauj koplietot ar jauniem un esošiem ārējiem lietotājiem, kuri ir pierakstīgi. Lai mainītu iestatījumu konkrētām vietnēm, izmantojiet jauno SharePoint administrēšanas centru vai PowerShell. [Papildinformācija](https://go.microsoft.com/fwlink/?linkid=871863).
     

@@ -1,5 +1,5 @@
 ---
-title: 'Atlikt komandu jaunināšanu '
+title: Atlikt komandu jaunināšanu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785346"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912518"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kā atlikt Microsoft virzītu komandu jaunināšanu
+
+**Svarīgi**: mēs varam palīdzēt noteikt šo jums, izmantojot atbalsta diagnostiku, bet izskatās, ka jūs neizmantojat jauno administrēšanas centru. Lai izmantotu jauno administrēšanas centru, bīdiet pārslēgu augšējā labajā stūrī, kas saka, ka **jaunais administrēšanas centrs** ir pa labi. Izmantojot jauno administrēšanas centru, noklikšķiniet uz **nepieciešama palīdzība?** logrīku, ierakstiet "atlikt komandu jaunināšanu", pēc tam izpildiet uzvednēs sniegtos norādījumus, lai palaistu diagnostiku.
 
 Ja saņēmāt paziņojumu par Microsoft orientētu automātisko jaunināšanu no Skype darbam uz Microsoft Teams un vēlaties atlikt automātisko jaunināšanu uz vēlāku datumu, globālā administrators var pieteikties [Teams administrēšanas portālā](https://admin.teams.microsoft.com/dashboard) un pēc pogas **atsvaidzināšanas statuss** atlasīšanas sadaļā Microsoft Teams jaunināšana atlasiet pogu **atlikt** . Lai skatītu jauno nomnieka automātiskās jaunināšanas datumu uz Microsoft Teams, atsvaidziniet lapu Teams administrēšanas portāls.
 

@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714409"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911155"
 ---
 # <a name="ediscovery-settings"></a>E-datu atklāšanas iestatījumi
 
-eDiscovery/satura meklēšanas ļauj jums meklēt, turēt un eksportēt saturu no Exchange Online pastkastēm, SharePoint Online un OneDrive darba vietām, Skype biznesa sarunām, Microsoft Teams un Office 365 grupām.
+eDiscovery/satura meklēšanas ļauj jums meklēt, turēt un eksportēt saturu no Exchange Online pastkastēm, SharePoint Online un OneDrive darba vietām, Skype biznesa sarunām, Microsoft Teams un Microsoft 365 grupām.
 
 - Ja meklējat eDiscovery vai satura meklēšanas izvēlnes opcijas, skatiet [eDiscovery problēmas](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Uzziniet par atļaujām, kas nepieciešamas, lai veiktu eDiscovery meklēšanas vaicājumus no [atļaujām, kas nepieciešamas eDiscovery meklēšanai](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

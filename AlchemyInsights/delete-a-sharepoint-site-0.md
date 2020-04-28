@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705020"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911587"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Dzēst vietnes, kas pieder Office 365 grupai
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Dzēst vietnes, kas pieder Microsoft 365 grupai
 
-Kad lietotāji izveido jaunu darba grupas vietni no SharePoint Home vai izveidojat jaunu darba grupas vietni no jaunā SharePoint administrēšanas centra, automātiski tiek izveidota atbilstoša Office 365 grupa. Office 365 grupas savienotas grupas vietnes tiek izveidotas arī, veidojot Office 365 grupu vai Microsoft Teams komandu. Lai dzēstu SharePoint vietni, kas pieder Office 365 grupai, ir jādzēš Office 365 grupas. 
+Kad lietotāji izveido jaunu darba grupas vietni no SharePoint Home vai izveidojat jaunu darba grupas vietni no jaunā SharePoint administrēšanas centra, tiek automātiski izveidota atbilstošā Microsoft 365 grupa. Microsoft 365 grupas saistītas grupas vietnes tiek izveidotas arī, veidojot Microsoft 365 grupas vai Microsoft Teams komandu. Lai dzēstu SharePoint vietni, kas pieder Microsoft 365 grupai, ir jādzēš Microsoft 365 grupas. 
   
 1. Dodieties uz [lapu grupas Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/groups).
     
