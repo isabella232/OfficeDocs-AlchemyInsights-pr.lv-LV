@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766968"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912865"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="7964f-102">Problēmas ar kalendāra sinhronizēšanu ierīcēs</span><span class="sxs-lookup"><span data-stu-id="7964f-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="8d2e1-102">Problēmas ar kalendāra sinhronizēšanu ierīcēs</span><span class="sxs-lookup"><span data-stu-id="8d2e1-102">Issues synchronizing your calendar to devices</span></span>
 
-<span data-ttu-id="7964f-103">SharePoint kalendāri ir klasiski sarakstu tipi, kas dažreiz tiek sajaukti ar Office 365 grupas kalendāriem.</span><span class="sxs-lookup"><span data-stu-id="7964f-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
+<span data-ttu-id="8d2e1-103">SharePoint kalendāri ir klasiskie sarakstu tipi, kurus dažreiz sajauc ar Microsoft 365 grupas kalendāriem.</span><span class="sxs-lookup"><span data-stu-id="8d2e1-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
 
-<span data-ttu-id="7964f-104">Lai sinhronizētu SharePoint kalendāru ar Outlook, lūdzu, rīkojieties šādi:</span><span class="sxs-lookup"><span data-stu-id="7964f-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
+<span data-ttu-id="8d2e1-104">Lai sinhronizētu SharePoint kalendāru ar Outlook, lūdzu, rīkojieties šādi:</span><span class="sxs-lookup"><span data-stu-id="8d2e1-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
 
-1. <span data-ttu-id="7964f-105">Noklikšķiniet uz **Settings** Gear ikonas un pēc tam noklikšķiniet uz **vietnes saturs**.</span><span class="sxs-lookup"><span data-stu-id="7964f-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
-2. <span data-ttu-id="7964f-106">Atveriet kalendāru, kuru vēlaties sinhronizēt (tas ir notikumu saraksta tips).</span><span class="sxs-lookup"><span data-stu-id="7964f-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
-3. <span data-ttu-id="7964f-107">Klasiskajā lentes izvēlnē noklikšķiniet uz **Kalendārs**, pēc tam noklikšķiniet uz **izveidot savienojumu ar Outlook**.</span><span class="sxs-lookup"><span data-stu-id="7964f-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
-4. <span data-ttu-id="7964f-108">Uznirstošajā izvēlnē, lūdzot apstiprināt sinhronizēšanu, noklikšķiniet uz **Atļaut**.</span><span class="sxs-lookup"><span data-stu-id="7964f-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
+1. <span data-ttu-id="8d2e1-105">Noklikšķiniet uz **Settings** Gear ikonas un pēc tam noklikšķiniet uz **vietnes saturs**.</span><span class="sxs-lookup"><span data-stu-id="8d2e1-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
+2. <span data-ttu-id="8d2e1-106">Atveriet kalendāru, kuru vēlaties sinhronizēt (tas ir notikumu saraksta tips).</span><span class="sxs-lookup"><span data-stu-id="8d2e1-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
+3. <span data-ttu-id="8d2e1-107">Klasiskajā lentes izvēlnē noklikšķiniet uz **Kalendārs**, pēc tam noklikšķiniet uz **izveidot savienojumu ar Outlook**.</span><span class="sxs-lookup"><span data-stu-id="8d2e1-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
+4. <span data-ttu-id="8d2e1-108">Uznirstošajā izvēlnē, lūdzot apstiprināt sinhronizēšanu, noklikšķiniet uz **Atļaut**.</span><span class="sxs-lookup"><span data-stu-id="8d2e1-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
 
 >[!Note]
-> <span data-ttu-id="7964f-109">Veicot izmaiņas sinhronizētajā Outlook kalendārā, tas tiks parādīts SharePoint kalendārā un otrādi.</span><span class="sxs-lookup"><span data-stu-id="7964f-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
+> <span data-ttu-id="8d2e1-109">Veicot izmaiņas sinhronizētajā Outlook kalendārā, tas tiks parādīts SharePoint kalendārā un otrādi.</span><span class="sxs-lookup"><span data-stu-id="8d2e1-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
 
-<span data-ttu-id="7964f-110">Lai iegūtu papildinformāciju par Office 365 grupas, skatiet šo [rakstu](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="7964f-110">For more information about Office 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="8d2e1-110">Lai iegūtu papildinformāciju par Microsoft 365 grupas, skatiet šo [rakstu](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="8d2e1-110">For more information about Microsoft 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>

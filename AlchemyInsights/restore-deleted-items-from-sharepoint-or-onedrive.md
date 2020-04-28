@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742522"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912554"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="73750-102">Izdzēsto vienumu atjaunošana no SharePoint vai OneDrive</span><span class="sxs-lookup"><span data-stu-id="73750-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="14b8e-102">Izdzēsto vienumu atjaunošana no SharePoint vai OneDrive</span><span class="sxs-lookup"><span data-stu-id="14b8e-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="73750-103">Pārejiet uz OneDrive vai SharePoint vietni.</span><span class="sxs-lookup"><span data-stu-id="73750-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="14b8e-103">Pārejiet uz OneDrive vai SharePoint vietni.</span><span class="sxs-lookup"><span data-stu-id="14b8e-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="73750-104">Kreisajā rūtī noklikšķiniet uz **Atkritne** .</span><span class="sxs-lookup"><span data-stu-id="73750-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="14b8e-104">Kreisajā rūtī noklikšķiniet uz **Atkritne** .</span><span class="sxs-lookup"><span data-stu-id="14b8e-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="73750-105">Noklikšķiniet pa kreisi no vienumiem vai failiem, kurus vēlaties atjaunot.</span><span class="sxs-lookup"><span data-stu-id="73750-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="14b8e-105">Noklikšķiniet pa kreisi no vienumiem vai failiem, kurus vēlaties atjaunot.</span><span class="sxs-lookup"><span data-stu-id="14b8e-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="73750-106">Noklikšķiniet uz **atjaunot**.</span><span class="sxs-lookup"><span data-stu-id="73750-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="14b8e-106">Noklikšķiniet uz **atjaunot**.</span><span class="sxs-lookup"><span data-stu-id="14b8e-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="73750-107">Ja faili, mapes, bibliotēkas, saraksti un saraksta elementi tiek dzēsti no SharePoint vietnes, tie atrodas atkritnē, kur tie tiek glabāti 93 dienas, ja vien kāds tos neizdzēš no šīs atkritnes.</span><span class="sxs-lookup"><span data-stu-id="73750-107">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin.</span></span> <span data-ttu-id="73750-108">Ja tie tiek dzēsti no šīs atkritnes (saukta par vietnes atkritni), atlikušajam laikam viņi dodas uz vietņu kolekcijas atkritni un pēc tam tiek neatgriezeniski dzēsti.</span><span class="sxs-lookup"><span data-stu-id="73750-108">If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted.</span></span> <span data-ttu-id="73750-109">Dzēst vietnes un vietņu kolekcijas doties tieši uz vietņu kolekcijas atkritnes 93 dienas.</span><span class="sxs-lookup"><span data-stu-id="73750-109">Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="14b8e-107">Ja faili, mapes, bibliotēkas, saraksti un saraksta elementi tiek dzēsti no SharePoint vietnes, tie atrodas atkritnē, kur tie tiek glabāti 93 dienas, ja vien kāds tos neizdzēš no šīs atkritnes.</span><span class="sxs-lookup"><span data-stu-id="14b8e-107">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin.</span></span> <span data-ttu-id="14b8e-108">Ja tie tiek dzēsti no šīs atkritnes (saukta par vietnes atkritni), atlikušajam laikam viņi dodas uz vietņu kolekcijas atkritni un pēc tam tiek neatgriezeniski dzēsti.</span><span class="sxs-lookup"><span data-stu-id="14b8e-108">If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted.</span></span> <span data-ttu-id="14b8e-109">Dzēst vietnes un vietņu kolekcijas doties tieši uz vietņu kolekcijas atkritnes 93 dienas.</span><span class="sxs-lookup"><span data-stu-id="14b8e-109">Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="73750-110">[Vienumu atjaunošana vietņu kolekcijas atkritnē](https://go.microsoft.com/fwlink/?linkid=867800) (vietņu kolekcijas administratori)</span><span class="sxs-lookup"><span data-stu-id="73750-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="14b8e-110">[Vienumu atjaunošana vietņu kolekcijas atkritnē](https://go.microsoft.com/fwlink/?linkid=867800) (vietņu kolekcijas administratori)</span><span class="sxs-lookup"><span data-stu-id="14b8e-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="73750-111">[Atjaunot svītrots vietņu kolekcijas](https://go.microsoft.com/fwlink/?linkid=867660) (Global vai SharePoint admins Microsoft 365)</span><span class="sxs-lookup"><span data-stu-id="73750-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Microsoft 365)</span></span> 
+<span data-ttu-id="14b8e-111">[Atjaunot svītrots vietņu kolekcijas](https://go.microsoft.com/fwlink/?linkid=867660) (Global vai SharePoint admins Microsoft 365)</span><span class="sxs-lookup"><span data-stu-id="14b8e-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Microsoft 365)</span></span> 
   
-<span data-ttu-id="73750-112">Vietnes, kas pieder Office 365 grupai, ir jāatjauno grupas atjaunot vietni.</span><span class="sxs-lookup"><span data-stu-id="73750-112">For sites that belong to an Office 365 group, you need to restore the group to restore the site.</span></span> <span data-ttu-id="73750-113">Skatiet [atjaunot svītrots Office 365 grupas](https://go.microsoft.com/fwlink/?linkid=867802) (Global admin)</span><span class="sxs-lookup"><span data-stu-id="73750-113">See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="14b8e-112">Vietnes, kas pieder Microsoft 365 grupai, ir jāatjauno grupas atjaunot vietni.</span><span class="sxs-lookup"><span data-stu-id="14b8e-112">For sites that belong to an Microsoft 365 group, you need to restore the group to restore the site.</span></span> <span data-ttu-id="14b8e-113">Skatiet [atjaunot svītrots Microsoft 365 grupas](https://go.microsoft.com/fwlink/?linkid=867802) (Global admin)</span><span class="sxs-lookup"><span data-stu-id="14b8e-113">See [Restore a deleted Microsoft 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
