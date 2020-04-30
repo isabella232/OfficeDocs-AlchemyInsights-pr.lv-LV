@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706834"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939662"
 ---
 # <a name="change-how-often-you-pay"></a>Mainīt to, cik bieži maksājat
 
- **Vēlaties mainīt maksājuma biežumu?** Ja vēlaties mainīt to, cik bieži maksājat par Microsoft 365 par uzņēmumu abonementu, vai nu no gada uz mēnesi vai katru mēnesi, lai gada laikā, mēs varam jums palīdzēt ar to. Jums būs jāiegādājas viens un tas pats abonements ar jauno maksājumu biežumu un jāatceļ vecais abonements. Lūdzu, izmantojiet opciju "piezvaniet jums", lai runātu ar atbalsta inženieri.
+Lai mainītu to, cik bieži jums tiek izrakstīts rēķins un maksājot par abonementu, izpildiet tālāk norādītās darbības Microsoft 365 administrēšanas centrā. 
+1. Dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Atrodiet abonementu, kuru vēlaties mainīt. Sadaļā **norēķini** blakus **izrakstīti ikmēneša rēķini** vai rēķini, kas tiek **izrakstīti katru gadu**, noklikšķiniet uz **Rediģēt**. 
+3. Izvēlieties opciju, cik bieži vēlaties izrakstīt rēķinus, un pēc tam noklikšķiniet uz **mainīt**.
+
+**Piezīme**: mēneša vai gada norēķini ir vienīgās opcijas.
+
+Papildinformāciju skatiet rakstā [maksājuma biežuma mainīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
