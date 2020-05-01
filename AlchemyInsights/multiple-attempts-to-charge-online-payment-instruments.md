@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799130"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957913"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Vairāki mēģinājumi iekasēt maksu par tiešsaistes maksājumu instrumentiem
+# <a name="past-due-account"></a>Nokavēto kontu?
 
-Ja maksa ir neveiksmīga, sistēma turpinās mēģināt atrisināt bilanci tuvāko nedēļu laikā. Jebkurā brīdī varat veikt maksājumu informācijas atjauninājumus, lai nodrošinātu, ka nākamais maksas mēģinājums ir sekmīgs. Lai iegūtu papildinformāciju, skatiet [pievienot, atjaunināt vai noņemt kredītkarti vai bankas konta Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)uzņēmumiem.
+Maksājumu var noraidīt vairāku iemeslu dēļ, tostarp, ja ir beidzies kredītkartes derīgums. Jebkurā brīdī varat izmantot funkciju **atrisināt bilanci** , lai mainītu kredītkartes informāciju un nekavējoties atkārtoti iesniegtu maksājumu.
+
+1. Administrēšanas centrā pārejiet uz sadaļu **norēķini > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Atrodiet abonementu ar nenomaksāto atlikumu. Sadaļā " **norēķini** " blakus **abonementam ir pagājis nokavēts maksājums**noklikšķiniet uz **nokārtot bilanci** , lai samaksātu visu nenokārtoto atlikumu.
+2. Ja jums pieder kredītkarte, varat mainīt derīguma termiņu, izvēlēties citu karti vai [Pievienot jaunu karti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Ja jums nepieder kredītkarte, varat izvēlēties citu kredītkarti vai [Pievienot jaunu karti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+4. Kad esat pabeidzis atjaunināšanu, noklikšķiniet uz **saglabāt**.
+
+**Piezīme**: pēc maksājuma veikšanas, nokavētā paziņošana joprojām var būt redzama īsā laika periodā. Lūdzu, uzgaidiet vismaz **48 stundas** , pirms sazināties ar atbalsta dienestu.
