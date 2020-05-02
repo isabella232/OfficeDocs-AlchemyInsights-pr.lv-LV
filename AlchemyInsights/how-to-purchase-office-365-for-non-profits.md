@@ -1,5 +1,5 @@
 ---
-title: Kā iegādāties Office 365 bezpeļņas organizācijām
+title: Microsoft 365 bezpeļņas organizācijām-saskaņā Review
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763548"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005229"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Kā iegādāties Office 365 bezpeļņas organizācijām
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 bezpeļņas organizācijām-saskaņā Review
 
-Jūsu tiesības pretendēt uz Microsoft kvalificētu bezpeļņas organizāciju tiek pārskatī as. Pirms izmēģinājumversijas derīguma termiņa beigām jūs varat saņemt paziņojumu par atbilstības noteikšanu. Jūs varat izsekot savu pieteikumu statusu [šeit](https://eligibilityweb.azurewebsites.net/).
+Jūsu tiesības pretendēt uz Microsoft kvalificētu bezpeļņas organizāciju tiek **pārskatī**as. Jūs varat sagaidīt, lai saņemtu paziņojumu par noteiktu jūsu tiesības **48 stundas** no jūsu iesniegšanas laika. Pirms pakalpojuma pieprasījuma atvēršanas, lūdzu, ļaujiet saņemt šo paziņojumu vismaz **48 stundas** . 
+
+Lai iegūtu papildinformāciju, skatiet [Microsoft 365 bezpeļņas](https://www.microsoft.com/nonprofits/microsoft-365)organizācijām. 

@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724563"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005265"
 ---
-# <a name="inbox-rules"></a>Iesūtnes kārtulas
+# <a name="inbox-rules-in-outlook-desktop"></a>Iesūtnes kārtulas Outlook darbvirsmā
 
-Papildinformāciju par iesūtnes kārtulu lietošanu savā pastkastē skatiet:
+1. Dodieties uz **failu > pārvaldīt kārtulas & brīdinājumus** , lai atvērtu dialoglodziņu **kārtulas un brīdinājumi** .
+2. Cilnē **e-pasta kārtulas** noklikšķiniet uz **Jauna kārtula**.
+3. Atlasiet vienu no veidnēm 1. **solī**. Lai sāktu ar tukšu kārtulu, atlasiet **lietot kārtulu ziņojumiem, kurus saņemu, vai lietot kārtulu sūtītās ziņas**.
+4. Iekš **solis 2: rediģējiet noteikuma aprakstu lodziņā**noklikšķiniet uz jebkuras pasvītrotās opcijas, lai tos iestatītu. Piemēram, ja atzīmējat **ar karodziņu ziņojumus no kāda, kas seko** 1. solī, noklikšķiniet uz **personas vai sabiedriskā grupa** , lai atlasītu sūtītāju ziņojumus, kurus vēlaties karogot; pēc tam noklikšķiniet uz **Sekojums šajā laikā** , lai izvēlētos karodziņu un sekojuma datumu.
+5. Noklikšķiniet uz **Tālāk**.
 
-- [Pārvaldīt e-pasta ziņojumus, izmantojot kārtulas programmā Outlook PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Ziņojumu pārvaldīšana, izmantojot Outlook Web iesūtnes kārtulas](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Varat arī pārvaldīt iesūtnes kārtulas programmā Exchange Online PowerShell. Lai iegūtu papildinformāciju, skatiet [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (skats), [Jauns-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (izveidot), [Noņemt-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (dzēst), [Set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modificēt esošo), [atspējojiet InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (atspējot esošo) un [Iespējot inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (iespējot esošo).
+Lai iegūtu papildinformāciju par to, kā strādāt ar iesūtnes kārtulām, skatiet [pārvaldīt e-pasta ziņojumus, izmantojot kārtulas](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
