@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704712"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010261"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Izvietojot Microsoft 365 Apps Enterprise koplietojamai izmantošanai RDS, termināļa serverī vai VDI
 
@@ -25,15 +25,15 @@ Izvietot Microsoft 365 lietojumprogrammas uzņēmumiem, izmantojot attālās dar
 - Jums ir jābūt Microsoft 365 biznesa plānu vai Office 365 plānu, kas ietver Microsoft 365 lietojumprogrammas uzņēmumiem, piemēram, Office 365 Enterprise E3 vai Enterprise E5.
    > [!NOTE] 
    > Microsoft 365 lietojumprogrammas uzņēmumiem un Microsoft 365 Business Premium Standard plāniem neietver Microsoft 365 lietojumprogrammas uzņēmumiem.
-- Ir jāiespējo [koplietojamā datora aktivizācija](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Ir jāiespējo [koplietojamā datora aktivizācija](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
 > Varat arī lejupielādēt un palaist [Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SaRA_OfficeSCA_M365Portal) , lai instalētu Microsoft 365 lietojumprogrammas Enterprise koplietojamo datoru aktivizācijas režīmā.
 
-Lai iegūtu papildinformāciju par priekšnosacījumi, uzstādīšanas instrukcijas un norādījumus par pielāgoto instalāciju, izmantojot Office izvietošanas rīks, skatiet [izvietot Microsoft 365 lietojumprogrammas Enterprise, izmantojot attālās darbvirsmas pakalpojumu](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Lai iegūtu papildinformāciju par priekšnosacījumi, uzstādīšanas instrukcijas un norādījumus par pielāgoto instalāciju, izmantojot Office izvietošanas rīks, skatiet [izvietot Microsoft 365 lietojumprogrammas Enterprise, izmantojot attālās darbvirsmas pakalpojumu](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Lai labotu kļūdas, kas saistītas ar koplietojamu datora aktivizāciju:
-- Skatiet [problēmu novēršana saistībā ar koplietojamo datoru aktivizācija Microsoft 365 lietojumprogrammas uzņēmumiem](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- Skatiet [problēmu novēršana saistībā ar koplietojamo datoru aktivizācija Microsoft 365 lietojumprogrammas uzņēmumiem](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Skatiet rakstu [Atiestatīt Microsoft 365 programmas uzņēmumam aktivizēšanas statusam](https://go.microsoft.com/fwlink/?linkid=2109218).
 
 Ja vēlaties instalēt Microsoft 365 Apps Enterprise RDS no Microsoft 365 administrēšanas centrs, ***kas izmanto noklusējuma instalācijas iestatījumus***, rīkojieties šādi:
@@ -47,5 +47,5 @@ Ja vēlaties instalēt Microsoft 365 Apps Enterprise RDS no Microsoft 365 admini
    1. Ar peles labo pogu noklikšķiniet uz Windows pogas ekrāna apakšējā kreisajā stūrī un atlasiet **palaist**. Lodziņā Atvērt ierakstiet **regedit**un pēc tam atlasiet **Labi**.
    2. Atlasiet **Jā** , kad tiek piedāvāts atļaut reģistra redaktoram veikt izmaiņas ierīcē.
    3. Reģistra redaktorā pievienojiet virknes vērtību **Sharedcomputerlicensing** ar iestatījumu 1 zem HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. RDS serverī, ***pierakstieties kā lietotājs*** un [Pārbaudiet, vai ir iespējota Microsoft 365 lietojumprogrammas uzņēmumiem koplietojamā datora aktivizācija](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+   4. RDS serverī, ***pierakstieties kā lietotājs*** un [Pārbaudiet, vai ir iespējota Microsoft 365 lietojumprogrammas uzņēmumiem koplietojamā datora aktivizācija](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
