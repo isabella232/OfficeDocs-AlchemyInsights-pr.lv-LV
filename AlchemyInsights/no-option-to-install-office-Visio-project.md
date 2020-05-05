@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218226"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010153"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Nav iespējas instalēt Office, Visio vai Project
 
-Lai instalētu Office klientu lietojumprogrammas, jums ir nepieciešams Office 365 vai Microsoft 365 abonements, kas iekļauj [Office klientu lietojumprogrammas](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), piem., Office 365 Business Premium, Office 365 Business vai Office 365 ProPlus.
+Lai instalētu Office klientu programmas, jums ir nepieciešams Office 365 vai Microsoft 365 abonements, kas [ietver Office klientu programmas](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), piemēram, Microsoft 365 Business Premium, Microsoft 365 programmas darbam vai Microsoft 365 programmas lieluzņēmumiem.
 
 **Piezīme**: [Office mājām un darbam](https://products.office.com/home-and-business) ir [Office mājām paredzēts](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) produkts, kas nav daļa no uzņēmējdarbības abonementa. Project Online Essentials nav iekļauta datora programma Project un līdz ar to instalēšana nav nepieciešama. Visio 1. plāna lietotājiem ir piekļuve Visio tīmekļa versijai, jo plānā nav iekļauta Visio lietojumprogramma darbam ar datoru.  Project un Visio lietojumprogrammas darbam ar datoru nav pieejamas Mac datoriem
 
@@ -31,11 +31,11 @@ Katram lietotājam lieciet veikt šādas darbības:
 
 1. Doties uz [portāla lapu](https://portal.office.com/OLS/MySoftware.aspx).
 
-2. Pierakstieties ar darba vai mācību kontu, kam ir piešķirta Office licence.
+2. Pierakstīties ar darba vai mācību kontu, kam ir piešķirta Office licence.
 
-3. Sadaļā Office atlasīt nepieciešamo valodu. Atlasiet 32 vai 64 bitu versiju.
+3. Sadaļā Office atlasīt nepieciešamo valodu. Izvēlēties 32 vai 64 bitu versiju.
 
-4. Noklikšķiniet uz **Instalēt**.
+4. Noklikšķināt uz **Instalēt**.
 
 Office instalēšanas detalizētos norādījumus un problēmu novēršanas risinājumus skatiet rakstā [Office lejupielāde un instalēšana vai pārinstalēšana PC vai Mac datorā](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). Lai uzzinātu specifiskus norādījumus Visio vai Project instalēšanai, lasiet [Visio instalēšana](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) vai [Project instalēšana](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
 
