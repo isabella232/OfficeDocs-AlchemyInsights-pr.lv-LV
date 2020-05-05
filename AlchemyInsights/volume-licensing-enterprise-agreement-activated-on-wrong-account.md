@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716215"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021541"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="f70f8-102">Lielapjoma licencēšanas uzņēmuma līgums ir aktivizēts nepareizā kontā</span><span class="sxs-lookup"><span data-stu-id="f70f8-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="969e9-102">Lielapjoma licencēšanas uzņēmuma līgums, kas aktivizēts nepareizā kontā, vai licenču pārsūtīšana no viena konta uz citu</span><span class="sxs-lookup"><span data-stu-id="969e9-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="f70f8-103">Ja atrodat savus abonementus, kas iegādāti, izmantojot lielapjoma licencēšanas uzņēmuma līgumu, ir aktivizēti nepareizajā nomniekā, lūdzu, izmantojiet opciju "piezvaniet jums", lai runātu ar atbalsta speciālistu.</span><span class="sxs-lookup"><span data-stu-id="f70f8-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="969e9-103">Ja atrodat savus abonementus, kas iegādāti, izmantojot **lielapjoma licencēšanas uzņēmuma līgumu** , ir aktivizēti **nepareizajā nomniekā**, vai vēlaties **pārsūtīt licences** no viena nomnieka uz citu, lūdzu, sazinieties ar [Microsoft lielapjoma licencēšanas pakalpojumu centru](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span><span class="sxs-lookup"><span data-stu-id="969e9-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
