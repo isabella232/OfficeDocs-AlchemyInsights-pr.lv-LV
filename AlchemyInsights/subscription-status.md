@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417706"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063228"
 ---
 # <a name="subscription-status"></a>Abonementa statuss
 
-Abonementa statusu var atrast Microsoft 365 administrēšanas centrs lapā produkti un pakalpojumi.
+Abonementa statusu var atrast Microsoft 365 administrēšanas centrs lapā **jūsu produkti** .
 
-1. Pārejiet uz sadaļu **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Pārejiet uz sadaļu **rēķinu izrakstīšana** > **[saviem produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Ja problēma ir kāda abonementa statuss, blakus abonementam tiek redzama sarkana brīdinājuma ikona vai abonementa informācijas sadaļā "beidzies derīgums" vai "atspējots" statuss.
 
@@ -30,11 +30,11 @@ Abonementa statusu var atrast Microsoft 365 administrēšanas centrs lapā produ
 
 **Derīguma**
 
-1. Pārejiet uz sadaļu **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Pārejiet uz sadaļu **rēķinu izrakstīšana** > **[saviem produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Atkarībā no skata beigu datums tiek parādīts, labajā kolonnā pa labi ar etiķeti **datums** vai abonementa detalizētas **informācijas sadaļā, kas atrodas** blakus **beigsies**.
 
 **Licences**
 
-Iegādāto un lietošanas licenču skaits tiek uzskaitīts pēc abonementa lapā [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Iegādāto un lietošanas licenču skaits tiek uzskaitīts pēc abonementa lapā **jūsu produkti** .
 

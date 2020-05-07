@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417727"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061786"
 ---
 # <a name="billing-and-payment"></a>Norēķini un maksājumi
 
@@ -34,13 +34,13 @@ Ja maksāšana ar kredītkarti vai bankas kontu, ar abonementu (-iem) saistītā
 
 Ja esat pievienojis jaunu karti un joprojām saņemat paziņojumu par samazināšanos vecajā Kredītkartē, iespējams, šī jaunā karte ir jāsaista ar abonementu.
 
-1. Pārejiet uz sadaļu **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Pārejiet uz sadaļu **rēķinu izrakstīšana** > **[saviem produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Atlasiet abonementu, kuru vēlaties apmaksāt ar jauno karti vai bankas kontu. Sadaļā " **norēķini** " blakus maksājuma metodei noklikšķiniet uz **Rediģēt**.
+2. Atlasiet abonementu, kuru vēlaties apmaksāt ar jauno karti vai bankas kontu. Sadaļā **Norēķini**, kas atrodas blakus maksāšanas metodēm, noklikšķiniet uz **Rediģēt**.
 
-3. Noklikšķiniet uz **mainīt** blakus pašreizējam apmaksas metodei.
+3. Noklikšķiniet uz **Mainīt** pie pašreizējās maksāšanas metodes.
 
-4. Nolaižamajā izvēlnē atlasiet alternatīvu maksājuma veidu vai pievienojiet jaunu maksājuma veidu.
+4. Nolaižamajā izvēlnē atlasiet alternatīvu maksāšanas metodi vai pievienojiet jaunu.
 
 Skatiet sadaļu [maksājumu metožu pievienošana, atjaunināšana vai noņemšana](https://go.microsoft.com/fwlink/?linkid=2118133).
 
