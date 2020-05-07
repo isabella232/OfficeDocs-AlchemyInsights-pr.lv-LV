@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703902"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062543"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Norēķinu profila rediģēšana lietotnēm
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Norēķinu profila maiņa lietotnēs
 
-1. Atveriet lapu **norēķinu** > [produktu & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) un pēc tam izvēlieties cilni **programmas** .
+1. Atveriet lapu **norēķinu** > **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** un pēc tam izvēlieties cilni **programmas** .
 
 2. Atrodiet un atlasiet lietotni, kuru vēlaties pārvaldīt.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703902"
 
 ## <a name="edit-billing-profiles"></a>Norēķinu profilu rediģēšana
 
-1. Pārejiet uz lapu **norēķinu** > [rēķini & maksājumi](https://go.microsoft.com/fwlink/p/?linkid=848039) un pēc tam izvēlieties **norēķinu profili**.
+1. Pārejiet uz lapu **norēķinu** > **[rēķini & maksājumi](https://go.microsoft.com/fwlink/p/?linkid=848039)** un pēc tam izvēlieties **norēķinu profili**.
 
 2. Sarakstā izvēlieties norēķinu profilu, kuru vēlaties rediģēt.
