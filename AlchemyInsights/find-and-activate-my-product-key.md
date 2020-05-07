@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716143"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062471"
 ---
 # <a name="find-and-activate-my-product-key"></a>Atrast un aktivizēt savu produkta atslēgu
 
@@ -32,7 +32,7 @@ Ja iegādājāties no mazumtirdzniecības veikala Microsoft 365 Business Premium
 
 **Piezīme**: lai izmantotu produkta atslēgu, lai pagarinātu derīguma termiņu vai pievienotu licenci esošajam Microsoft 365 Business Premium standarta abonementam, jums ir nepieciešama jauna un neizmantota atslēga tam pašam Microsoft 365 abonementam.  Sākotnējās Microsoft 365 produkta atslēgas ievadīšana nedarbosies, jo jau iegādātā atslēga vairs nevar tikt izmantota.
 
-1. Administrēšanas centrā dodieties uz lapu **norēķinu** > [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Administrēšanas centrā dodieties uz lapu **norēķinu** > **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Atrodiet abonementu, uz kuru vēlaties pagarināt derīguma termiņu, vai pievienojiet licences.  Noklikšķiniet uz [pagarināt beigu datumu](https://go.microsoft.com/fwlink/p/?linkid=842054) vai [pievienojiet papildu licences](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

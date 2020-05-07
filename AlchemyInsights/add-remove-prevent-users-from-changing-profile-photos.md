@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671500"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062003"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Pievienot, noņemt vai neļaut lietotājiem mainīt profila fotoattēlus
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671500"
 
 - **Noņemot profila fotogrāfijas:** Profila fotoattēlus var noņemt administrators [Azure Active Directory lietotāju pārvaldībā](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) vai lietotājs to Microsoft Teams lietotāja profilā.
 
-- **Bloķēšanas profila fotoattēla izmaiņas:** Fotoattēlu izmaiņas var bloķēt visiem Microsoft 365 * pievienojot Outlook Web App politika par rakstu, [bloķēšanas fotogrāfijas vai ierobežot atļaujas, lai mainītu microsoft 365 profila foto](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Bloķēšanas profila fotoattēla izmaiņas:** Fotoattēlu izmaiņas var bloķēt visiem Microsoft 365 * pievienojot Outlook Web App politika par rakstu, [bloķēšanas fotogrāfijas vai ierobežot atļaujas, lai mainītu microsoft 365 profila foto](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 * Lūdzu, ņemiet vērā, ka Microsoft Teams pašlaik neatbalsta Outlook Web App politiku, lai bloķētu fotoattēlu izmaiņas, bet plāno pievienot atbalstu šim līdzeklim sākumā 2020.

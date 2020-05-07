@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 5fed1e7c8e0f14cd18bede5ffd07b8be4b7f6f06
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 24d59860732b42e8d62da8c1a8c37f2018a0d126
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102681"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015696"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>Exchange PowerShell un pamata autentifikācijas novecošana
 
 Lai iegūtu jaunāko informāciju par to, kā izveidot savienojumu ar Exchange Online PowerShell, neizmantojot pamata autentifikāciju, [lūdzu, dodieties šeit](https://aka.ms/psbasicauth).
+
+Ņemiet vērā, ka pamata autentifikācija joprojām ir jāiespējo klienta datorā.
+Jaunais PowerShell V2 modulis izmanto moderno autentifikāciju, lai izveidotu savienojumu visu REST V2 cmdlet iespējošanai. Papildus V2 cmdlet tas arī sniedz iespēju piekļūt vecākām Remote PowerShell (RPS) cmdlet, kam ir nepieciešams izveidot Remote PowerShell sesiju. Lai izveidotu RPS sesiju Windows datorā, klienta datorā ir jāiespējo WinRM BasicAuth, lai gan modulis izmanto moderno autentifikācijas mehānismu, lai autentificētu pakalpojumā. WinRM pamata autentifikācijas kanāls tiek lietots modernās autentifikācijas žetonu transportēšanai. Ja WinRM pamata autentifikācija ir atspējota klienta datorā, jaunās V2 cmdlet turpinās darboties (taču vecākās RPS cmdlet nē).
