@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549700"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062255"
 ---
 # <a name="renewing-your-subscription"></a>Abonementa atjaunošana
 
@@ -26,6 +26,6 @@ Ja abonementu esat samaksājis ar produkta atslēgu, abonementa termiņš beigsi
 
 Lai ieslēgtu periodiskos norēķinus: 
 
-1. Pārejiet uz sadaļu **norēķinu** > **produkti & pakalpojumi**.
+1. Pārejiet uz sadaļu **rēķinu izrakstīšana** > **[saviem produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Izvēlieties abonementu, kuram vēlaties pārvaldīt periodiskos norēķinus.
 3. Sadaļā **norēķini**atlasiet **Rediģēt** un veiciet izmaiņas logā **periodiskie norēķinu iestatījumi** . 

@@ -1,5 +1,5 @@
 ---
-title: Produkti & pakalpojumi
+title: Jūsu produktiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758797"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062868"
 ---
-# <a name="products--services"></a>Produkti & pakalpojumi
+# <a name="your-products"></a>Jūsu produktiem
 
-Jūsu organizācijai piederošie abonementi ir atrodami lapā **norēķinu** > [**produkti & pakalpojumi**](https://go.microsoft.com/fwlink/p/?linkid=842054) . Šeit ir daži no izceļ šo lapu kopā ar saitēm, lai iegūtu vairāk informācijas par katru iezīme:
+Varat atrast abonementus, kas pieder jūsu organizācijai lapā **norēķinu** > **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Šeit ir daži no izceļ šo lapu kopā ar saitēm, lai iegūtu vairāk informācijas par katru iezīme:
 
 1. Pārvaldiet katram abonementam iegādāto licenču skaitu kopā ar to, cik tiek izmantots.  **Piezīme**: licences, kas netiek izmantotas (nav piešķirti lietotājam) joprojām tiek iekasēta.  Lai netiktu iekasēta maksa par neizmantotajām licencēm, samaziniet iegādāto licenču skaitu. Lai uzzinātu, kā pievienot vai noņemt licences no abonementa, skatiet [kā pievienot vai samazināt licences](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

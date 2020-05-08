@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552823"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061605"
 ---
 # <a name="cancel-visio-subscription"></a>Atcelt Visio abonementu
 
-Administratori var atcelt Visio abonementu savu organizāciju no **Microsoft 365 administrēšanas centrs**. 
+Administratori var atcelt Visio abonementu savu organizāciju no **Microsoft 365 administrēšanas centrs**.
 
-1. Atlasiet **norēķinu** opciju.
+1. Atveriet lapu **norēķinu > [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Lai skatītu visus jūsu uzņēmuma abonementus, noklikšķiniet uz [produkti & pakalpojumi](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) .
+2. Atrodiet Visio plānu, lai atceltu.
 
-3. Atrodiet Visio plānu, lai atceltu.
+3. Noklikšķiniet uz **atcelt abonementu**.
 
-4. Noklikšķiniet uz **atcelt abonementu**.
+**Atmaksa: jebkurš pronominālā kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.**
 
-**Atmaksa: jebkurš pronominālā kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.** 
+**Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**.
 
-**Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**. 
-
-Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

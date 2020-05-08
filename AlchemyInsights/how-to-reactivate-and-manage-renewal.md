@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763446"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064092"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kā atkārtoti aktivizēt un pārvaldīt periodiskos norēķinus
 
 Izskatās, ka jums ir abonements, kas ir beidzies. Ja vēlaties to aktivizēt, Lūk, kā to darīt.
   
-1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Administrēšanas centrā dodieties uz lapu **norēķinu** \> **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Izvēlieties abonementu, ko vēlaties atkārtoti aktivizēt. Sadaļā **norēķini** atlasiet **Aktivizēt**.
 
@@ -36,7 +36,7 @@ Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://do
 
 Lai pārvaldītu ikmēneša vai gada rēķinus, varat ieslēgt vai izslēgt **periodiskos norēķinus** .
   
-1. Administrēšanas centrā dodieties uz lapu **Norēķini** \> [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Administrēšanas centrā dodieties uz lapu **norēķinu** \> **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Izvēlieties abonementu, kuram vēlaties pārvaldīt periodiskos norēķinus.
 

@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705092"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062291"
 ---
 # <a name="declined-credit-card"></a>Noraidīta kredītkarte
 
-Ja maksājat ar kredītkarti un jūsu kredītkarte ir noraidīta, jūs saņemsit e-pasta ziņojumu par to, ka mēs nevarējām apstrādāt maksājumu. Vēlreiz pārbaudiet, vai kredītkartes [informācija](https://go.microsoft.com/fwlink/p/?linkid=842054) -kartes numurs, derīguma termiņš, vārds uz kredītkartes un adrese, tostarp pilsēta, valsts un pasta indekss, parādās tieši tāpat kā kredītkarte un kredītkartes izraksts. Varat atjaunināt savas kredītkartes informāciju un nekavējoties iesniegt maksājumu, lapā [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) izmantojot opciju **nokārtot bilanci** . 
+Ja maksājat ar kredītkarti un jūsu kredītkarte ir noraidīta, jūs saņemsit e-pasta ziņojumu par to, ka mēs nevarējām apstrādāt maksājumu. Vēlreiz pārbaudiet, vai kredītkartes [informācija](https://go.microsoft.com/fwlink/p/?linkid=842054) -kartes numurs, derīguma termiņš, vārds uz kredītkartes un adrese, tostarp pilsēta, valsts un pasta indekss, parādās tieši tāpat kā kredītkarte un kredītkartes izraksts. Varat atjaunināt savas kredītkartes informāciju un nekavējoties iesniegt maksājumu, izmantojot opciju **nokārtot bilanci** lapā **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . 
 
 Lai uzzinātu vairāk, skatiet sadaļu "kā rīkoties, ja mana kredītkarte ir beigusies un maksājums nokavējams?" [Microsoft 365 uzņēmuma abonementa apmaksas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599252"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061641"
 ---
 # <a name="cancel-project-subscription"></a>Atcelt projekta abonementu
 
-Administratori var atcelt projekta abonementu savu organizāciju no **Microsoft 365 administrēšanas centrs**. 
+Administratori var atcelt projekta abonementu savu organizāciju no **Microsoft 365 administrēšanas centrs**.
 
-1. Atlasiet **norēķinu** opciju.
+1. Atveriet lapu **norēķinu > [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Lai skatītu visus jūsu uzņēmuma abonementus, noklikšķiniet uz [produkti & pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Atrodiet projekta plānu, lai atceltu.
 
-3. Atrodiet projekta plānu, lai atceltu.
+3. Noklikšķiniet uz **atcelt abonementu**.
 
-4. Noklikšķiniet uz **atcelt abonementu**.
+**Atmaksa: jebkurš pronominālā kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.**
 
-**Atmaksa: jebkurš pronominālā kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.** 
+**Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**.
 
-**Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**. 
-
-Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
