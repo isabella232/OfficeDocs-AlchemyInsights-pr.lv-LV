@@ -1,5 +1,5 @@
 ---
-title: Excel darbgrāmatas kopīgošana
+title: Excel darbgrāmatas koplietošana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045486"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163788"
 ---
-# <a name="collaborate-on-excel-documents"></a>Izmantotu Excel dokumentus
+# <a name="collaborate-on-excel-documents"></a>Sadarbība Excel dokumentos
 
-Lai sadarbotos ar kolēģiem par Excel dokumentus, izmantojiet sadarbības autorēšanas līdzekli. Uzziniet par iespējošanu un [sadarboties uz Excel darbgrāmatas vienlaikus ar sadarbības autorēšanas](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)izmantojot šo līdzekli.
+Lai sadarbotos ar kolēģiem Excel dokumentos, izmantojiet **sadarbības autorēšanas līdzekli**. 
+
+Kā iespējot un izmantot šo līdzekli papildus atbildēm uz bieži uzdotajiem jautājumiem par kopīgošanas un sadarbības autorēšanas scenārijiem, vienlaikus [sadarbojieties Excel darbgrāmatās, izmantojot koprediģēšanu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
