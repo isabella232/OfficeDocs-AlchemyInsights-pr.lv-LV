@@ -13,34 +13,34 @@ ms.custom:
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063804"
 ---
-# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="6c3d8-102">Pievienot vai noņemt licences jūsu abonementam</span><span class="sxs-lookup"><span data-stu-id="6c3d8-102">Add or remove licenses for your subscription</span></span>
+# <a name="add-or-remove-licenses-for-your-subscription"></a><span data-ttu-id="7b8c3-102">Pievienot vai noņemt licences jūsu abonementam</span><span class="sxs-lookup"><span data-stu-id="7b8c3-102">Add or remove licenses for your subscription</span></span>
 
-<span data-ttu-id="6c3d8-103">Tālāk ir paskaidrots, kā pievienot vai noņemt licences.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-103">Here's how to Add/Remove licenses.</span></span>
+<span data-ttu-id="7b8c3-103">Tālāk ir paskaidrots, kā pievienot vai noņemt licences.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-103">Here's how to Add/Remove licenses.</span></span>
   
-1. <span data-ttu-id="6c3d8-104">Administrēšanas centrā dodieties uz lapu **norēķinu** \> **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="6c3d8-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="7b8c3-104">Administrēšanas centrā dodieties uz lapu **norēķinu** \> **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="7b8c3-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="6c3d8-105">Izvēlieties abonementu, kuram vēlaties pievienot/noņemt licences.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-105">Choose the subscription for which you want to add/remove licenses.</span></span>
+2. <span data-ttu-id="7b8c3-105">Izvēlieties abonementu, kuram vēlaties pievienot/noņemt licences.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-105">Choose the subscription for which you want to add/remove licenses.</span></span>
 
-3. <span data-ttu-id="6c3d8-106">Noklikšķiniet uz **Pievienot/noņemt licences**.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-106">Click **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="7b8c3-106">Noklikšķiniet uz **Pievienot/noņemt licences**.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-106">Click **Add/Remove licenses**.</span></span>
 
-4. <span data-ttu-id="6c3d8-107">Ievadiet kopējo nepieciešamo lietotāju skaitu.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-107">Enter the total number of users needed.</span></span> <span data-ttu-id="6c3d8-108">Piemēram, ja jums pašlaik ir 25 licences un vēlaties noņemt 5, šajā laukā ievadiet 20.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+4. <span data-ttu-id="7b8c3-107">Ievadiet kopējo nepieciešamo lietotāju skaitu.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-107">Enter the total number of users needed.</span></span> <span data-ttu-id="7b8c3-108">Piemēram, ja jums pašlaik ir 25 licences un vēlaties noņemt 5, šajā laukā ievadiet 20.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
 
-5. <span data-ttu-id="6c3d8-109">Noklikšķiniet **Iesniegt izmaiņas**.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-109">Click **Submit change**.</span></span>
+5. <span data-ttu-id="7b8c3-109">Noklikšķiniet **Iesniegt izmaiņas**.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-109">Click **Submit change**.</span></span>
 
-<span data-ttu-id="6c3d8-110">**Piezīme**: jebkura jauna maksa (licences palielinājums) vai kredīts (licences samazinājums) parādīsies uz jūsu nākamo rēķinu.</span><span class="sxs-lookup"><span data-stu-id="6c3d8-110">**Note**: Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
+<span data-ttu-id="7b8c3-110">**Piezīme**: jebkura jauna maksa (licences palielinājums) vai kredīts (licences samazinājums) parādīsies uz jūsu nākamo rēķinu.</span><span class="sxs-lookup"><span data-stu-id="7b8c3-110">**Note**: Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
 
-<span data-ttu-id="6c3d8-111">Informāciju par licenču piešķiršanu skatiet sadaļā [licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="6c3d8-111">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
+<span data-ttu-id="7b8c3-111">Informāciju par licenču piešķiršanu skatiet sadaļā [licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="7b8c3-111">For information on how to assign licenses, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-<span data-ttu-id="6c3d8-112">**Resursu**</span><span class="sxs-lookup"><span data-stu-id="6c3d8-112">**Resources**</span></span>
+<span data-ttu-id="7b8c3-112">**Resursu**</span><span class="sxs-lookup"><span data-stu-id="7b8c3-112">**Resources**</span></span>
   
-- [<span data-ttu-id="6c3d8-113">Abonementu licenču pārvaldīšana-iegāde vai noņemšana</span><span class="sxs-lookup"><span data-stu-id="6c3d8-113">Manage subscription licenses - buy or remove</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [<span data-ttu-id="7b8c3-113">Abonementu licenču pārvaldīšana-iegāde vai noņemšana</span><span class="sxs-lookup"><span data-stu-id="7b8c3-113">Manage subscription licenses - buy or remove</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [<span data-ttu-id="6c3d8-114">Atcelt Microsoft 365 uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="6c3d8-114">Cancel Microsoft 365 for business</span></span>](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="7b8c3-114">Atcelt Microsoft 365 uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="7b8c3-114">Cancel Microsoft 365 for business</span></span>](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [<span data-ttu-id="6c3d8-115">Iegādājieties citu Microsoft 365 biznesa abonementam</span><span class="sxs-lookup"><span data-stu-id="6c3d8-115">Buy another Microsoft 365 for business subscription</span></span>](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [<span data-ttu-id="7b8c3-115">Iegādājieties citu Microsoft 365 biznesa abonementam</span><span class="sxs-lookup"><span data-stu-id="7b8c3-115">Buy another Microsoft 365 for business subscription</span></span>](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
