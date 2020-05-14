@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064292"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Jaunināšanas plāni, lai palielinātu pastkastes lielumu
 
 Ja pastkastes lielums ir 50 GB, varat palielināt pastkastes lielumu 100 GB, pārejot uz [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vai [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tālāk ir norādītas darbības, kas jāveic, lai pārslēgtos uz citu abonementu.
   
-1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** > [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu**  >  [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Atlasiet jauninājumu abonementu un pēc tam atlasiet cilni **Jaunināšana** , lai skatītu pieejamo jauno plānu sarakstu.
 

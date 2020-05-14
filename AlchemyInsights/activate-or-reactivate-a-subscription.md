@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062111"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Abonementa aktivizēšana vai reaktivizēšana
@@ -33,7 +33,7 @@ ms.locfileid: "44062111"
 
 Ja jūsu abonementa derīguma termiņš ir beidzies, to ir atspējojis Microsoft, vai esat to atcēlis abonementa termiņa vidū, varat to atkārtoti aktivizēt administrēšanas centrā.
   
-1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** > [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu**  >  [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Izvēlieties abonementu, kuru vēlaties aktivizēt atkārtoti, un pēc tam atlasiet **Aktivizēt**. Ja darbība **Atkārtoti aktivizēt** nav pieejama, [sazinieties ar atbalsta dienestu](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), lai atkārtoti aktivizētu abonementu.
 
