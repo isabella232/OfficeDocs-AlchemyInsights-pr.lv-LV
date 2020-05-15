@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720703"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235304"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kā atrast un atkopt trūkstošos ziņojumus, kontaktpersonas vai kalendāra vienumus programmā Outlook
 
-- Var izmantot problēmas, [nosūtot, saņemot vai atrodot e-pasta ziņojumus rīks](https://aka.ms/SaRA-OutlookSendReceive) attiecīgajā datorā. Šis rīks pārbaudīs vairākus jautājumus un ieteiks iespējamos risinājumus.
+1. Programmā Outlook atveriet e-pasta mapju sarakstu un pēc tam atlasiet **Izdzēstie vienumi**. **Svarīgi**: Ja neredzat mapi **Izdzēstie vienumi** , bet tā vietā redzat mapi **Atkritne** , jūsu konts neatbalsta tā vienuma atkopšanu, kas vairs neatrodas mapē **Izdzēstie vienumi** .
 
-- [Nosakiet, vai konts ir apdraudēts](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ja tas ir apdraudēts, veiciet norādītās darbības, [Atbildot uz kompromitētu e-pasta kontu.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. Izvēlnē **Sākums** noklikšķiniet uz **Atkopt izdzēstos vienumus no servera**. **Svarīgi**: ja izvēlnē nav komandu **Atkopt izdzēstos vienumus no servera** , jūsu konts neatbalsta vienuma, kas vairs neatrodas mapē **Izdzēstie vienumi** , atkopšanu.
 
-- [Ziņojuma vai vienuma atrašana, izmantojot tūlītējo meklēšanu](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Atlasiet vienumus, kurus vēlaties atkopt, noklikšķiniet uz **Atjaunot atlasītos vienumus**un pēc tam uz **Labi**.
 
-- [Atkopt izdzēstos vienumus programmā Outlook for Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Kur iet atgūt priekšmetus?** Atkopjot vienumus no mapes atkopt vienumus, tie tiek pārvietoti uz mapi **Izdzēstie vienumi** . Pēc vienuma atkopšanai to var atrast mapē **Izdzēstie vienumi** un pēc tam to var pārvietot uz citu mapi.
+
+Var izmantot arī problēmas, [nosūtot, saņemot vai atrodot e-pasta ziņojumus rīks](https://aka.ms/SaRA-OutlookSendReceive) **attiecīgajā datorā**. Šis rīks pārbaudīs vairākus jautājumus un ieteiks iespējamos risinājumus.

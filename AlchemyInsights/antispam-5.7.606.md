@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712645"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232336"
 ---
 # <a name="banned-sending-ip"></a>Aizliegta sūtīšana IP
 
-Sūtot pastu uz Microsoft 365, sūtītājs var rasties šī kļūda. Sūtītājam ir jāapmeklē https://sender.office.com un jāizpilda norādījumi.  Ja viņi nesaņem verifikācijas e-pasta ziņojumu no portāla, pārbaudiet mēstuļu mapi un/vai mēģiniet ar citu e-pasta adresi.
+Nosūtot Office 365 adresātam, sūtītājs var rasties šī kļūda. Sūtītājam nepieciešams apmeklēt [Office 365 anti-spam IP delist portālu](https://sender.office.com/) un sniegt savu e-pasta adresi un IP adresi, kas ir svītroti. Ja viņi nesaņem verifikācijas e-pasta ziņojumu no portāla, pārbaudiet mēstuļu mapi un/vai mēģiniet ar citu e-pasta adresi. 
+
+- Detalizētus norādījumus skatiet sadaļā [delist portāla izmantošana, lai noņemtu sevi no bloķēto sūtītāju saraksta](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
