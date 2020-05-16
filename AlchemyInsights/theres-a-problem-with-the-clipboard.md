@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045480"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263884"
 ---
-# <a name="disable-excel-live-preview"></a>Atspējot programmas Excel tiešo priekšskatījumu
+# <a name="resolving-excel-clipboard-error"></a>Excel starpliktuves kļūdas novēršana
 
-Ja saņemat kļūdas ziņojumu programmā Excel, kas saka, "ir problēma ar starpliktuvi, bet joprojām var ielīmēt saturu darbgrāmatā," mēģiniet atspējošanas tiešā priekšskatījuma līdzekli, rīkojieties šādi:
+Ja programmā Excel tiek parādīta kļūda, kas saka: "radusies problēma ar starpliktuvi, bet jūs joprojām varat ielīmēt saturu šajā darbgrāmatā," mēģiniet atspējot tiešā priekšskatījuma līdzekli, veicot tālāk norādītās darbības.
 
-1. Programmā Excel noklikšķiniet **faila** > **Opcijas**.
+1. Programmā Excel noklikšķiniet uz **faila**  >  **Opcijas**.
 3. Dialoglodziņā **Excel opcijas** atlasiet **Vispārīgi**.
-4. Sadaļā **lietotāja interfeisa opcijas**notīriet **Iespējot tiešo priekšskatījumu**.
+4. Sadaļā **lietotāja interfeisa opcijas**notīriet izvēles **Iespējot tiešo priekšskatījumu**.
 5. Noklikšķiniet uz **Labi**.
 6. Restartējiet programmu Excel.
