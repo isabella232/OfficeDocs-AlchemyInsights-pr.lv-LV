@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765059"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331329"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problēmas, redzot Kalendāra aizņemtības informāciju
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Kalendāra pieejamības problēmu novēršanas darbības (brīvs/aizņemts)
 
-Ja neredzat Kalendāra aizņemtības informāciju citos kalendāros vai ja citas personas nevar redzēt jūsu kalendārā informāciju par aizņemtību, izmantojiet [Microsoft atbalsta un atkopšanas palīgu](https://diagnostics.office.com/).
-  
+Parasti labākais līdzeklis, lai novērstu brīvs/aizņemts problēmas ir [Exchange attālās savienojamības analizators (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , lai redzētu, kur tas neizdodas. RCA jums sniegs detalizētu informāciju par to, kas darbojās un kas neizdevās ar specifiskiem kļūdu ziņojumiem, kurus varat uzmeklēt, lai rastu risinājumus. Tajā ir arī saite uz [Microsoft atbalsta un atkopšanas palīgu](https://diagnostics.office.com/).
+
+Vēl viens labs instruments, lai mēģinātu ir [Kalendārs pārbaudes rīks Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , ja lietotājs ir Outlook.
