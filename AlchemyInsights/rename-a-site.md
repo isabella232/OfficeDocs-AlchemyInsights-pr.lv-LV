@@ -10,20 +10,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: e72d1b0f4c9f45ee214747efa9502b2341bde8e7
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: 71e5388df7a36652e3da9163d82dbb2be86823e3
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891720"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343117"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePoint vietnes pārdēvēšana
 
-Izpildiet [šajā rakstā](https://docs.microsoft.com/sharepoint/change-site-address) aprakstītās darbības, lai mainītu vietnes nosaukumu, piemēram, no https://contoso.sharepoint.com/sites/sample1 kam. https://contoso.sharepoint.com/sites/sample2
+Darbības, lai mainītu/pārdēvētu vietnes URL ir dokumentēta [mainīt vietnes adresi](https://docs.microsoft.com/sharepoint/change-site-address); piemēram, lai mainītu no https://contoso.sharepoint.com/sites/sample1 uz https://contoso.sharepoint.com/sites/sample2 .
 
-**Piezīme:** Nevar mainīt domēna nosaukumu (iepriekš minētajā piemērā Contoso daļa URL) SharePoint Online URL. 
+Pārdēvēšanas laikā zināmas kļūdas skatiet sadaļā [kļūdas, pārdēvējot SharePoint vietnes adresi](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
 
-Papildinformāciju skatiet sadaļā
+Par zināmiem efektiem pēc [pārdēvēšanas skatiet vietnes adreses mainīšanas efekti](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+
+**Piezīme:** Nevar mainīt domēna nosaukumu (iepriekš piemērā "Contoso" daļa no URL) SharePoint Online URL. 
+
+Papildinformāciju skatiet rakstā:
 
 - [Mainīt SharePoint domēna nosaukumu](https://go.microsoft.com/fwlink/?Linkid=2018696)
 - [Kļūdas, pārdēvējot SharePoint vietnes adrese](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742054"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343101"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint brīdinājuma paziņojumi nav piegādāti
 
@@ -33,15 +33,6 @@ BUJ par brīdinājumiem:
 
 - Adresātu grupai nav iespējams nosūtīt brīdinājumus, tiek atbalstītas tikai drošības un O365 grupas.
 - Nevar pielāgot brīdinājuma e-pasta veidnes; lai sasniegtu šos mērķus, ir jāizmanto Microsoft FLOW vai SharePoint Designer darbplūsma.
-
-Papildinformācija:
-
-- **Brīdinājumu iestatījumi**: lai iegūtu papildinformāciju par brīdinājumu iestatīšanu, skatiet sadaļu [brīdinājuma izveide, lai saņemtu paziņojumu, kad fails vai mape mainās programmā SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Brīdinājumu problēmu novēršana**: papildinformāciju par problēmu novēršanas brīdinājumiem skatiet sadaļā [lietotāji nesaņem SharePoint Online brīdinājuma paziņojumus](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Papildu O365 atbilstības brīdinājuma politikas**: plašāku informāciju par šo brīdinājumu iestatīšanu skatiet sadaļā [atbilstības brīdinājumu politikas](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint un OneDrive audita žurnālus**: lai iegūtu papildinformāciju par to, kā izgūt šos notikumus, skatiet [Meklēt audita žurnālā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Brīdinājumi, ko sūta uzlabotā Pretdraudu aizsardzība**: skatiet [ATP for SharePoint un OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Brīdinājumi, ko sūta datu zuduma novēršanas**politikas: skatiet [e-pasta paziņojumus par DLP politikām](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Saistītās tēmas
 
