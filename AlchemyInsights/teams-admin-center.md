@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021646"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354095"
 ---
 # <a name="teams-admin-center"></a>Teams administrēšanas centrs
 
@@ -30,4 +30,6 @@ Ja nevarat piekļūt Teams administrēšanas centram, lūdzu, pārbaudiet tālā
 Ja lietotāji netiek rādīti Teams administrēšanas centrā, lūdzu, pārbaudiet tālāk norādīto.
 
 - Vai esat izveidojis lietotājus vai piešķīris licences pēdējo 24 stundu laikā? Lūdzu, pirms atbalsta biļetes atvēršanas nogaidiet vismaz 24 stundas.
-- Vai pārbaudījāt, vai esat piešķīris atbilstošas licences? 
+- Vai pārbaudījāt, vai esat piešķīris atbilstošas licences?
+- Ja jums ir lokālo Active Directory, pārbaudiet, [vai vērtība msRTCSIP PrimaryUserAddress vai SIP adresi jūsu lokālā Active Directory laukā ProxyAddresses ir unikāla un formāts atbilst](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: lietotāja**lietotājvārds** no [Microsoft 365 administrēšanas centrs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ja plānojat saglabāt Skype Business Server izvietošana un ir lietotāji homed lokālas un tiešsaistes: Skype Business Server vadības paneļa izpildiet **"iestatīt hibrīds ar darba grupas un Skype biznesa online"** un pārvietot lietotājus tiešsaistē.

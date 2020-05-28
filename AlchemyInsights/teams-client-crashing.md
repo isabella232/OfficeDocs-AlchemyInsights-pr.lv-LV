@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030681"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354059"
 ---
 # <a name="teams-client-crashing"></a>Vai Teams klients avarē?
 
@@ -24,32 +24,26 @@ Ja jūsu Teams klients avarē, mēģiniet veikt tālāk norādītās darbības:
 
 - Ja izmantojat Teams datora programmu, [pārliecinieties, vai programma ir pilnībā atjaunināta](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Pārliecinieties, vai ir pieejami visi [Office 365 URL un adrešu diapazoni](https://docs.microsoft.com/microsoftteams/connectivity-issues).
+- Pārliecinieties, vai ir pieejami visi [Microsoft 365 vietrāži URL un adrešu diapazoni](https://docs.microsoft.com/microsoftteams/connectivity-issues) .
 
-- Piesakieties ar savu administratora kontu un pārbaudiet [Pakalpojumu darbspējas informācijas panelis](https://docs.microsoft.com/office365/enterprise/view-service-health), vai nav dīkstāves vai pakalpojuma degradācijas.
+- Piesakieties ar savu nomnieka administratora kontu un pārbaudiet [pakalpojumu darbspējas informācijas paneli](https://docs.microsoft.com/office365/enterprise/view-service-health) , lai pārbaudītu, vai pastāv pārtraukums vai pakalpojumu degradācija.
 
- - Pēdējā darbības solī varat mēģināt iztīrīt savu Teams klienta kešatmiņu:
+- Programmu Teams atinstalēšana un atkārtota instalēšana (saite)
+    - Atrodiet datorā%appdata%\Microsoft\teams\ mapi un dzēsiet visus failus šajā direktorijā.
+    - [Lejupielādējiet un instalējiet programmu Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), un, ja iespējams, instalējiet komandas kā administratoram (ar peles labo pogu noklikšķiniet uz komandu Installer un atlasiet "palaist kā administratoram", ja pieejams).
 
-    1.  Pilnībā aizveriet Microsoft Teams darbvirsmas klientu. Varat ar peles labo pogu noklikšķināt **Teams** no ikonu teknes un noklikšķināt uz **Aizvērt**vai palaist uzdevumu pārvaldnieku un pilnībā apturēt procesu.
+Ja jūsu komandas klients joprojām avarē, jūs varat reproducēt problēmu? Ja tā:
 
-    2.  Dodieties uz failu pārlūku un ierakstiet %appdata%\Microsoft\teams.
+1. Lai tvertu soļus, izmantojiet darbību reģistrētāju.
+    - Aizveriet visas nevajadzīgās vai konfidenciālās lietojumprogrammas.
+    - Palaidiet darbību reģistrētājs un atveidot problēmu, kamēr pieteicies ar attiecīgā lietotāja kontu.
+    - [Savāc komandu žurnālus, kas tver ierakstītās REPRO darbības](https://docs.microsoft.com/microsoftteams/log-files). **Piezīme**: pārliecinieties, vai tverat skartā lietotāja pierakstīšanās adresi.
+    - Savāc dump un/vai vaina Bucket info (Windows). Palaidiet Windows PowerShell datorā, kur notiek avārija, un palaidiet tālāk norādītās komandas.
 
-    3.  Kad būsiet direktorijā, jūs redzēsiet dažas no tālāk norādītajām mapēm:
-
-         - Sadaļā **Programmas kešatmiņa**, atveriet kešatmiņu un izdzēsiet jebkurus no failiem kešatmiņas atrašanās vietā: %appdata%\Microsoft\teams\application cache\cache.
-
-        - Sadaļā **Blob_storage**izdzēsiet visus failus: %appdata%\Microsoft\teams\ blob_storage.
-
-        - Sadaļā **Kešatmiņa**izdzēsiet visus failus: %appdata%\Microsoft\teams\Cache.
-
-        - Sadaļā **datubāzes**izdzēsiet visus failus: %appdata%\Microsoft\teams\databases.
-
-        - Sadaļā **GPU kešatmiņa**izdzēsiet visus failus: %appdata%\Microsoft\teams\GPUcache.
-
-        - Sadaļā **IndexedDB**izdzēsiet .db failu: %appdata%\Microsoft\teams\IndexedDB.
-
-        - Sadaļā **Lokālā krātuve**izdzēsiet visus failus: %appdata%\Microsoft\teams\Local Storage.
-
-        - Visbeidzot **tmp**izdzēsiet jebkuru failu: %appdata%\Microsoft\teams\tmp.
-
-    4. Restartējiet Teams klientu.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Pievienojiet failu savam atbalsta gadījumam.

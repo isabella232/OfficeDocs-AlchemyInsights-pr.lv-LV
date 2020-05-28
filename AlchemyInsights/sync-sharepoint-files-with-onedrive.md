@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767040"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343172"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>“Atvērt ar Explorer“ problēmu novēršana pakalpojumā SharePoint darbam tiešsaistē
 
@@ -28,9 +28,6 @@ Lai novērstu “Atvērt ar Explorer” problēmas, ievērojiet norādes un lab�
 - [Bibliotēkas failu kopēšana vai pārvietošana, izmantojot komandu Atvērt ar Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Piezīme.**
+>- Iespēju “Atvērt ar Explorer” var izmantot tikai ar Internet Explorer 10 vai 11. Atvērt ar Explorer nedarbojas operētājsistēmā Windows ar pārlūkprogrammām Microsoft Edge, Google Chrome un Mozilla Firefox, kā arī platformā Mac. Šī iemesla dēļ pārlūka skata opcija var būt pelēkota.
 >
 >- Poga “Atvērt ar Explorer” nav redzama jaunajā bibliotēku veidolā. Atlasiet uz nolaižamās izvēlnes **Skats** augšējā labajā stūrī (nolaižamās izvēlnes nosaukums mainās, atkarībā no pašreizējā skata), un pēc tam atlasiet **Skatīt failu pārlūkā**.
->
->- Iespēju “Atvērt ar Explorer” var izmantot tikai ar Internet Explorer 10 vai 11. Atvērt ar Explorer nedarbojas operētājsistēmā Windows ar pārlūkprogrammām Microsoft Edge, Google Chrome un Mozilla Firefox, kā arī platformā Mac. Šī iemesla dēļ pārlūka skata opcija var būt pelēkota.
-
-
