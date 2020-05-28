@@ -11,23 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712537"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407285"
 ---
-# <a name="associate-a-hub-site"></a>Centrmezgla vietnes saistīšana
+# <a name="associate-existing-site-with-a-hub-site"></a>Saistīt esošo vietni ar centrmezgla vietni
 
-Lai esošu vietni saistītu ar centrmezgla vietni, rīkojieties šādi:
+Lai saistītu esošu vietni ar jūsu centrmezgla vietni, rīkojieties šādi:
   
 1. Savā vietnē atlasiet **Iestatījumi** (zobrata ikona augšējā labajā stūrī) un pēc tam atlasiet **vietnes informācija**.
 
-2. Paneļa vietnes **informācijas rediģēšana** izvēlnē **centrmezgla vietnes piesaiste** atlasiet centrmezgla vietni, kuru vēlaties saistīt ar savu vietni, un pēc tam atlasiet **saglabāt**. Vietnes izskats mainīsies atbilstoši centrmezgla vietnes un lapas augšpusē tiks parādīta centrmezgla vietnes navigācijas josla.
+2. Paneļa vietnes **informācijas rediģēšana** izvēlnē **centrmezgla vietnes piesaiste** atlasiet centrmezgla vietni, kuru vēlaties saistīt ar jūsu vietni, un pēc tam noklikšķiniet uz **saglabāt**. Vietnes izskats mainīsies atbilstoši centrmezgla vietnes un lapas augšpusē tiks parādīta centrmezgla vietnes navigācijas josla.
 
- > [!Note]
+>**Piezīme**
+>
 >Ja nav opcijas centrmezgla vietnes piesaiste vai tajā nav norādīta neviena vietne, centrmezgla vietnes, iespējams, nav iespējotas vai arī jums nav atļaujas saistīt vietnes ar centrmezgla vietni. Lai iegūtu papildinformāciju, sazinieties ar administratoru.
 >
->Vietņu skaits, kuras var saistīt ar centrmezgla vietni, nav ierobežots.
+>Vietņu skaitam, ko var saistīt ar centrmezgla vietni, nav ierobežojumu.
   
