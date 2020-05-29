@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062111"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418043"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Abonementa aktivizēšana vai reaktivizēšana
 
@@ -37,7 +37,7 @@ Ja jūsu abonementa derīguma termiņš ir beidzies, to ir atspējojis Microsoft
 
 2. Izvēlieties abonementu, kuru vēlaties aktivizēt atkārtoti, un pēc tam atlasiet **Aktivizēt**. Ja darbība **Atkārtoti aktivizēt** nav pieejama, [sazinieties ar atbalsta dienestu](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), lai atkārtoti aktivizētu abonementu.
 
-3. Ievadiet maksājuma informāciju. Šeit varat [Atjaunināt esošo maksājuma informāciju](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) arī šeit.
+3. Ievadiet maksājuma informāciju. Šeit varat [Atjaunināt esošo maksājuma informāciju](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) arī šeit.
 
 Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
