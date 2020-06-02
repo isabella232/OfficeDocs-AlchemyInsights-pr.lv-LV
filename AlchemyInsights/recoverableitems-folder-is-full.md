@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720259"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510759"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Atkopto vienumu mape ir pilna
 
@@ -35,10 +35,10 @@ Ja atkopt vienumus mapē sasniedz krātuves ierobežojums, pastkastes funkcional
 
 Pastkastēm, kas nav aizturēts, administratori var izmantot `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komandu Exchange Online PowerShell dzēst vienumus mapē atkopt vienumus. Papildinformāciju skatiet tālāk sniegtajās tēmās.
 
-- [Ziņojumu meklēšana un dzēšana](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Ziņojumu meklēšana un dzēšana](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Meklēšanas pastkaste](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pastkastēm, kas ir aizturēts, administratoriem ir jānoņem aizturi, pirms tie var dzēst vienumus no mapes atkopt vienumus. Lai iegūtu papildinformāciju, skatiet [vienumu dzēšana mapē atkopt vienumus mākonis balstītas pastkastes](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)aizturēts.
+Pastkastēm, kas ir aizturēts, administratoriem ir jānoņem aizturi, pirms tie var dzēst vienumus no mapes atkopt vienumus. Lai iegūtu papildinformāciju, skatiet [vienumu dzēšana mapē atkopt vienumus mākonis balstītas pastkastes](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)aizturēts.
 
-Lai novērstu atkopt vienumus mapē kļūst pilna, administratori var palielināt atmiņas limits atkopt vienumus mapes pastkastes aizturēts un iestatīt pastkastes saglabāšanas politika, kas pārvieto vienumus no mapes atkopt vienumus lietotāja arhīva pastkaste. Skatiet [atkopt krājumu kvota aizturētā pastkastes](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Lai novērstu atkopt vienumus mapē kļūst pilna, administratori var palielināt atmiņas limits atkopt vienumus mapes pastkastes aizturēts un iestatīt pastkastes saglabāšanas politika, kas pārvieto vienumus no mapes atkopt vienumus lietotāja arhīva pastkaste. Skatiet [atkopt krājumu kvota aizturētā pastkastes](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

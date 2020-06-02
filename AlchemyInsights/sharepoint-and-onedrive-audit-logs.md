@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741972"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509607"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint un OneDrive audita žurnāli
 
@@ -28,7 +28,7 @@ SPO mantotā auditēšana tika migrēta uz vienoto audita žurnālu (UAL). Visi 
 Galvenās izmaiņas:
 
 * Apgriešana nav pieejama kā iespēja.
-* Konkrētu audita pasākumu izvēle nav pieejama. Skatiet [šo dokumentu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) , lai iegūtu pilnīgu sarakstu ar auditētajiem notikumiem, kas pieejami pēc noklusējuma.
+* Konkrētu audita pasākumu izvēle nav pieejama. Skatiet [šo dokumentu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) , lai iegūtu pilnīgu sarakstu ar auditētajiem notikumiem, kas pieejami pēc noklusējuma.
 * Sadaļā **pielāgoti pārskati** opcija **atrašanās vieta** nav pieejama.
 * **Atverot vai lejupielādējot dokumentu** notikumu opcija nav pieejama.
 
@@ -36,16 +36,16 @@ Galvenās izmaiņas:
 
 ## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint un OneDrive mūsdienu vienotā audita žurnālus no atbilstības
 
-* [Ieslēgt/izslēgt vienoto audita reģistrēšanu](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Ieslēgt/izslēgt vienoto audita reģistrēšanu](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 Nav nepieciešama papildu konfigurācija programmā SharePoint vai OneDrive.
 
 Izmantojiet audita reģistrēšanas meklēšanu, lai pārbaudītu faila (-u), mapes (u), lietotāja (u) darbību, atļaujas:
 
-* [Failu un lappušu darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Mapes darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Koplietošanas un piekļuves pieprasījumu darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Sinhronizēšanas darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Vietnes administrēšanas darbības](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Failu un lappušu darbības](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Mapes darbības](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Koplietošanas un piekļuves pieprasījumu darbības](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Sinhronizēšanas darbības](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Vietnes administrēšanas darbības](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Lai iegūtu papildinformāciju par to, kā izgūt šos notikumus, skatiet [Meklēt audita žurnālā](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Lai iegūtu papildinformāciju par to, kā izgūt šos notikumus, skatiet [Meklēt audita žurnālā](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

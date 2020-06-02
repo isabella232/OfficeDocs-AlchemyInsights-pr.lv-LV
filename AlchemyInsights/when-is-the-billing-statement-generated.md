@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759375"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510399"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Kad tiek ģenerēts norēķinu pārskats
 
 Katru mēnesi jūs saņemsit e-pasta ziņojumu, kurā norādīts, ka jaunais norēķinu pārskats ir pieejams Microsoft 365 administrēšanas centrā. Rēķinā ir divas lapas. 1. lappuse ir rēķina kopsavilkums, un tajā ir vispārīga informācija par rēķinu, pasūtījumu, maksājamo summu, kā veikt maksājumu un kā sazināties ar atbalsta dienestu. 2. lappusē ir detalizēta informācija par katra abonementa norēķinu aktivitāti.
   
-Lai uzzinātu vairāk par norēķinu koncepcijām, skatiet sadaļu [sava rēķina izpratne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Lai uzzinātu vairāk par norēķinu koncepcijām, skatiet sadaļu [sava rēķina izpratne](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

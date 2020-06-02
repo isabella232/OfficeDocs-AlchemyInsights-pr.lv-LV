@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761308"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510975"
 ---
 # <a name="more-info-about-retention-policies"></a>Papildinformācija par saglabāšanas politikām
 
@@ -27,15 +27,15 @@ Lielākajai daļai organizāciju to datu apjoms un sarežģītība palielina ikd
 ## <a name="a-from-security-and-compliance-center"></a>A) no drošības un atbilstības centra
 
 - Pārejiet uz sadaļu Drošība un atbilstība > datu pārvaldība > saglabāšana
-  - Skatiet [šo](https://docs.microsoft.com/office365/securitycompliance/retention-policies) rakstu
+  - Skatiet [šo](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) rakstu
 
 - Pārejiet uz sadaļu Drošība un atbilstība > eDiscovery> Advanced eDiscovery 
-  - Skatiet [šo](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) rakstu
+  - Skatiet [šo](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) rakstu
 
 - Pārejiet uz sadaļu Drošība un atbilstība > klasifikācijas > saglabāšana
   - Skatiet šos rakstus
-    - [Jutības uzlīmes](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Iezīmju apskats](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Jutības uzlīmes](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Iezīmju apskats](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) mantotās e-datu atklāšanas politikas
 
