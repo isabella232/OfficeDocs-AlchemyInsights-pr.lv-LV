@@ -12,20 +12,20 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265095"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496282"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Atļaut ārēju saziņu ar Skype darbam 
 
 Vai vēlaties atļaut savam Skype darbam lietotājiem sazināties ar lietotājiem ārpus jūsu organizācijas? Skatiet [Atļaut lietotājiem sazināties ar ārējiem Skype biznesa lietotājiem](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Lai ārējie sakari darbotos pareizi, DNS ieraksti ir jāiestata pareizi. Pārbaudiet [šeit](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) , lai redzētu, vai mums ir konkrēti norādījumi par to, kā iestatīt DNS ierakstus ar savu pakalpojumu sniedzēju. 
+Lai ārējie sakari darbotos pareizi, DNS ieraksti ir jāiestata pareizi. Pārbaudiet [šeit](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) , lai redzētu, vai mums ir konkrēti norādījumi par to, kā iestatīt DNS ierakstus ar savu pakalpojumu sniedzēju. 
 
-Vai vēlaties tikai iespējot Skype biznesa lietotājiem sazināties ar Skype patērētāju lietotājiem? Redzēt:
+Vai vēlaties tikai iespējot Skype biznesa lietotājiem sazināties ar Skype patērētāju lietotājiem? Skatiet rakstu:
 
 - [Ļaujiet Skype darba lietotājiem pievienot Skype kontaktpersonas](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 

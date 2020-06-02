@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692520"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502578"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Atļauju maiņa pastkastē
 
 Ja lietotājiem ir nepieciešama piekļuve pastkastēm, kas nav viņu personas, viņiem ir jādod atļauja strādāt ar šīm pastkastēm. Šo atļauju piešķiršana ir atkarīga no pastkastes tipa. Ja lietotājiem ir nepieciešama piekļuve:
   
-- Cita lietotāja pastkastes-Lūdzu, skatiet [piešķirt pastkastes atļaujas citam lietotājam](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Cita lietotāja pastkastes-Lūdzu, skatiet [piešķirt pastkastes atļaujas citam lietotājam](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Koplietotai pastkastei-Lūdzu, skatiet [pievienot vai noņemt dalībniekus no koplietojamās pastkastes](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
