@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010261"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507593"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Izvietojot Microsoft 365 Apps Enterprise koplietojamai izmantošanai RDS, termināļa serverī vai VDI
 
@@ -38,9 +38,9 @@ Lai labotu kļūdas, kas saistītas ar koplietojamu datora aktivizāciju:
 
 Ja vēlaties instalēt Microsoft 365 Apps Enterprise RDS no Microsoft 365 administrēšanas centrs, ***kas izmanto noklusējuma instalācijas iestatījumus***, rīkojieties šādi:
 
-1.    Pārbaudiet, kāds abonements jums ir. [Uzziniet, kā](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)to darīt.
-2.    Ja nepieciešams, pārslēdzieties uz citu abonementu. [Uzziniet, kā](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)to darīt.
-3.    Ja Office jau ir instalēta RDS serverī, izmantojot citus Microsoft abonementus, atinstalējiet to. Piemēram, atverot **vadības paneli** > ,**atinstalējiet programmu**. Atinstalējiet, izmantojot [Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ja rodas problēmas.
+1.    Pārbaudiet, kāds abonements jums ir. [Uzziniet, kā](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)to darīt.
+2.    Ja nepieciešams, pārslēdzieties uz citu abonementu. [Uzziniet, kā](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)to darīt.
+3.    Ja Office jau ir instalēta RDS serverī, izmantojot citus Microsoft abonementus, atinstalējiet to. Piemēram, atverot **vadības paneli**,  >  **atinstalējiet programmu**. Atinstalējiet, izmantojot [Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ja rodas problēmas.
 4.    RDS serverī, pierakstieties Microsoft 365 administrēšanas centrs ar administratora kontu un [instalēt Microsoft 365 lietojumprogrammas uzņēmumiem](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Pēc Office instalēšanas ***neatveriet vai pierakstieties*** nevienā no Office lietojumprogrammām.
 6.    Serverī RDS iespējojiet koplietojamo datora aktivizāciju, rediģējot reģistru, veicot šādas darbības:

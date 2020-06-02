@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788673"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507033"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
 
@@ -23,7 +23,7 @@ Arhīva pastkastes Microsoft 365 (ko sauc arī par *tiešsaistes arhīviem* vai 
   
 Lai izveidotu arhīva pastkasti, ir šādi:
   
-1. Doties uz [https://protection.office.com](https://protection.office.com).
+1. Doties uz [https://protection.office.com](https://protection.office.com) .
 
 2. Pierakstieties Microsoft 365, izmantojot savu administratora kontu.
 
@@ -43,7 +43,7 @@ Lai iespējotu arhivēšanu koplietotai pastkastei:
 
 1. Dodieties uz [Exchange administrēšanas centrs](https://outlook.office365.com/ecp) un pierakstieties, izmantojot savu administratora kontu.
 
-2. Dodieties uz **adresātiem** > , kas**kopīgoti**.
+2. Dodieties uz **adresātiem**, kas  >  **kopīgoti**.
 
 3. Atlasiet koplietoto pastkasti.
 
@@ -51,6 +51,6 @@ Lai iespējotu arhivēšanu koplietotai pastkastei:
 
 Papildinformāciju skatiet rakstā:
   
-- [Iespējot arhīva pastkastes](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Iespējot arhīva pastkastes](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Arhivēšanas un dzēšanas politikas iestatīšana](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
