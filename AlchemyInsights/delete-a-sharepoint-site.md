@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911551"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505694"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Vietnes dzēšana no jaunā SharePoint administrēšanas centra
 
 Izmantojot jauno SharePoint administrēšanas centru, var izdzēst gan klasiskās, gan modernās vietnes. Atlasiet **aktīvās vietnes**, atlasiet vietni un pēc tam atlasiet **Dzēst**. Lai [skatītu un atjaunotu izdzēstās vietnes jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), atlasiet **Izdzēstie objekti**. Papildinformāciju skatiet sadaļā [vietnes dzēšana jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Svarīgi:** Ja vietne ir daļa no saglabāšanas politikas, iespējams, nevarēsit to dzēst, līdz vietne tiek noņemta no [politikas drošības &amp; atbilstības administrēšanas centrs](https://protection.office.com/?rfr=AdminCenter#/homepage). Papildinformāciju skatiet tēmā [saglabāšanas politiku pārskats](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+**Svarīgi:** Ja vietne ir daļa no saglabāšanas politikas, iespējams, nevarēsit to dzēst, līdz vietne tiek noņemta no [ &amp; politikas drošības atbilstības administrēšanas centrs](https://protection.office.com/?rfr=AdminCenter#/homepage). Papildinformāciju skatiet tēmā [saglabāšanas politiku pārskats](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) . 
 
 Padomi:
 - SharePoint administratori tagad var dzēst vietnes, kas pieder **Microsoft 365 grupas**. Tiks dzēsta grupa un visi tās resursi, tostarp Outlook pastkaste un kalendārs, kā arī visu grupu kanāli. Papildinformāciju skatiet sadaļā [SharePoint vietnes dzēšana](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)

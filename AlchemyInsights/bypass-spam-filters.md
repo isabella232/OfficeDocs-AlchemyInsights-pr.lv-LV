@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712142"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506198"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Apiet surogātpasta filtrēšanu, lai atļautu noteiktus ziņojumus?
 
-Veidojot atļauto sarakstu, ieteicams [ievērot piesardzību](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Piemēram, ja atļaujat savu domēnu, ļaunprātīgi sūtītāji varēs mānīgs un nosūtīt kā jūsu domēnu.  Tā vietā mēs iesakām šo [viltus pozitīvo problēmu novēršanas rokasgrāmatu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), kas palīdzēs noteikt, kāpēc likumīgs ziņojums tika atzīmēts kā surogātpasts, un ko varat darīt, lai droši atļautu ziņojuma piegādi.
+Veidojot atļauto sarakstu, ieteicams [ievērot piesardzību](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Piemēram, ja atļaujat savu domēnu, ļaunprātīgi sūtītāji varēs mānīgs un nosūtīt kā jūsu domēnu.  Tā vietā mēs iesakām šo [viltus pozitīvo problēmu novēršanas rokasgrāmatu](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), kas palīdzēs noteikt, kāpēc likumīgs ziņojums tika atzīmēts kā surogātpasts, un ko varat darīt, lai droši atļautu ziņojuma piegādi.
