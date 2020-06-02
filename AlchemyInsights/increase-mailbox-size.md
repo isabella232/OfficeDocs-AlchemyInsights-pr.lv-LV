@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064236"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508743"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Abonementu pārslēgšana, lai palielinātu pastkastes lielumu
 
@@ -35,6 +35,6 @@ Ja pastkastes lielums ir 50 GB, varat to palielināt līdz 100 GB, pārejot uz [
 
 5. Ievadiet nepieciešamo licenču skaitu, izvēlieties, vai maksājat katru mēnesi vai par visu gadu, un pēc tam atlasiet **izrakstīt**.
 
-Plašāku informāciju skatiet sadaļā [jaunināšana uz citu plānu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Plašāku informāciju skatiet sadaļā [jaunināšana uz citu plānu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Ja jums ir [abonements, kas atbalsta oriģinālu arhīvu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), varat arī saņemt papildu e-pasta krātuvi, iespējojot arhīva pastkasti. Arhīva pastkaste nodrošina papildu krātuvi un ļauj pārvietot, kopēt un meklēt ziņojumus gan primārajā, gan arhīva pastkastē. Darbības, kā iespējot arhīva pastkaste, skatiet [Iespējot arhīva pastkaste](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Ja jums ir [abonements, kas atbalsta oriģinālu arhīvu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), varat arī saņemt papildu e-pasta krātuvi, iespējojot arhīva pastkasti. Arhīva pastkaste nodrošina papildu krātuvi un ļauj pārvietot, kopēt un meklēt ziņojumus gan primārajā, gan arhīva pastkastē. Darbības, kā iespējot arhīva pastkaste, skatiet [Iespējot arhīva pastkaste](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

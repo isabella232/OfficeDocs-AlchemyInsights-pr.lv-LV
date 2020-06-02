@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645679"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509391"
 ---
 # <a name="setup-dkim"></a>Setup DKIM
 
-Pilnu instrukciju konfigurēšana DKIM pielāgotu domēnu Microsoft 365 ir [šeit](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Pilnu instrukciju konfigurēšana DKIM pielāgotu domēnu Microsoft 365 ir [šeit](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. **Katram** pielāgotajam domēnam ir jāizveido **divi** DKIM CNAME ieraksti domēna DNS viesošanas pakalpojumā (parasti domēna reģistrētājā). Piemēram, contoso.com un fourthcoffee.com nepieciešami četri DKIM CNAME ieraksti: divi contoso.com un divi fourthcoffee.com.
 
@@ -36,7 +36,7 @@ Pilnu instrukciju konfigurēšana DKIM pielāgotu domēnu Microsoft 365 ir [šei
 
      **TTL**: 3600
 
-   \<DomainGUID\> ir teksts, kas atrodas pa kreisi `.mail.protection.outlook.com` no pielāgotā domēna pielāgotā MX ieraksta (piemēram, `contoso-com` domēna contoso.com). \<InitialDomain\> ir domēns, kuru izmantojāt, kad Reģistrījāties Microsoft 365 (piemēram, contoso.onmicrosoft.com).
+   \<DomainGUID\>ir teksts pa kreisi no `.mail.protection.outlook.com` Pielāgotā domēna PIELĀGOTĀ MX ieraksta (piemēram, `contoso-com` domēna contoso.com). \<InitialDomain\>ir domēns, ko izmantojāt, kad reģistrījāties Microsoft 365 (piemēram, contoso.onmicrosoft.com).
 
 2. Kad esat izveidojis CNAME ierakstus pielāgotajiem domēniem, izpildiet tālāk sniegtos norādījumus.
 
@@ -46,6 +46,6 @@ Pilnu instrukciju konfigurēšana DKIM pielāgotu domēnu Microsoft 365 ir [šei
 
    C. Apakšējā kreisajā navigācijas, izvērsiet **admin** un izvēlieties **Exchange**.
 
-   D. Iet uz **aizsardzība** > **DKIM**.
+   D. Iet uz **aizsardzība**  >  **DKIM**.
 
    E. Atlasiet domēnu un pēc tam izvēlieties **Iespējot** , lai **parakstītu ziņojumus šim domēnam ar DKIM parakstiem**. Atkārtojiet šo darbību katram pielāgotajam domēnam.

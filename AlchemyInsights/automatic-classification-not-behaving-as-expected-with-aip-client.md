@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493176"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508383"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automātiska klasifikācija nav uzvedas kā gaidīts ar AIP Client
 
 Automātiskā klasifikācija nav uzvedas kā paredzēts, izmantojiet šādas ieteicamās vadlīnijas:
 
-1. Ja rodas problēmas ar automātisko marķēšanu, skatiet sadaļu [kā konfigurēt nosacījumus automātiskai un ieteicamajai klasifikācijai Azure informācijas aizsardzībai](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) un [kāda veida sensitīvo informācijas tipu meklē](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Ja rodas problēmas ar automātisko marķēšanu, skatiet sadaļu [kā konfigurēt nosacījumus automātiskai un ieteicamajai klasifikācijai Azure informācijas aizsardzībai](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) un [kāda veida sensitīvo informācijas tipu meklē](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Pārbaudiet, ja izmantojat ietverti politikas, kas nav konfigurēti pareizi: [kā konfigurēt Azure informācijas aizsardzības politika noteiktiem lietotājiem, izmantojot ietverti politikas](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Ja automātiskā marķēšana nedarbojas Outlook, pievienojot dokumentu ar etiķeti, pārbaudiet, vai tas `DRMEncryptProperty` nav definēts kā aprakstīts šeit: [IRM reģistra iestatījumus drošībai](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Ja Azure informācijas aizsardzības politikai izmantojāt [iebūvētos informācijas tipus](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) , pārbaudiet, vai saturs atbilst paredzamam formātam.

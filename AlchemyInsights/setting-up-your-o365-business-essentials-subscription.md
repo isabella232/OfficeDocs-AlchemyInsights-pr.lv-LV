@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767796"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509355"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials abonementa iestatīšana
 
@@ -23,11 +23,11 @@ Microsoft 365 kontu izveide un domēna pievienošana
     
 - Dodieties uz [Microsoft 365 administrēšanas centrs](https://login.partner.microsoftonline.cn/).
     
-- Lai startētu ceļvedi, izvēlieties **pāriet uz iestatīšanu**. Lai uzzinātu vairāk, skatiet sadaļu [domēna pievienošana Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Lai startētu ceļvedi, izvēlieties **pāriet uz iestatīšanu**. Lai uzzinātu vairāk, skatiet sadaļu [domēna pievienošana Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Importēt e-pastu
   
-- Pārvietojiet esošos e-pasta ziņojumus un kontaktpersonas no citām e-pasta sistēmām uz Microsoft 365 pastkasti, lai to visu varētu redzēt vienuviet. Migrācijas opcijas, [migrēt e-pastu un kontaktpersonas Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Pārvietojiet esošos e-pasta ziņojumus un kontaktpersonas no citām e-pasta sistēmām uz Microsoft 365 pastkasti, lai to visu varētu redzēt vienuviet. Migrācijas opcijas, [migrēt e-pastu un kontaktpersonas Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - E-pasta kontu savienošana
     
@@ -41,6 +41,6 @@ Glabāt failus tiešsaistē
   
 - Lai uzzinātu, kuras krātuves atrašanās vietas ir vislabāk paredzētas jūsu uzņēmumam, skatiet sadaļu [kur var glabāt failus programmā Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Ikvienam automātiski tiek izveidota **OneDrive** mākoņkrātuves atrašanās vieta, kad izveidojat Microsoft 365 kontus. Izmantojot OneDrive, varat piekļūt failiem visos datoros, tālruņos un planšetdatoros. 
     
-Detalizēti soļi setup var atrast [šajā rakstā](https://docs.microsoft.com/office365/admin/setup/setup).
+Detalizēti soļi setup var atrast [šajā rakstā](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

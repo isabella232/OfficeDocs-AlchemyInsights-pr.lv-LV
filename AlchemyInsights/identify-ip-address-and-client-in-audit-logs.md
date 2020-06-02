@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716395"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508923"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificēt IP adresi un klientu audita žurnālos
 
@@ -25,7 +25,7 @@ IP adrese, kas atbilst Microsoft 365 lietotāja vai administratora darbībai, ti
 
 1. Piesakieties [Microsoft 365 drošības & atbilstības centrā](https://protection.office.com/).
 
-2. Pārejiet **uz** > meklēšanas**audita žurnāla meklēšanas** lapu.
+2. Pārejiet **uz meklēšanas**  >  **audita žurnāla meklēšanas** lapu.
 
    Ja jūs interesē konkrēta aktivitāte, atlasiet to sarakstā **aktivitātes** . Ja tā nav, visas darbības tiks atgrieztas atlasītajam lietotājam (noklusējuma iestatījums).
 
@@ -35,4 +35,4 @@ IP adrese, kas atbilst Microsoft 365 lietotāja vai administratora darbībai, ti
 
 Rezultātu rūtī varat redzēt minētās aktivitātes IP adresi. Atlasiet audita ierakstu, **lai detalizēti skatītu detalizētu informāciju izlidošanas vietā** (piemēram, klients, lietotājs, kas veicis darbību utt.).
 
-Papildinformāciju skatiet sadaļā [tā datora IP adreses atrašana, kas tika izmantots, lai piekļūtu apdraudējumam izmantotam kontam](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Papildinformāciju skatiet sadaļā [tā datora IP adreses atrašana, kas tika izmantots, lai piekļūtu apdraudējumam izmantotam kontam](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

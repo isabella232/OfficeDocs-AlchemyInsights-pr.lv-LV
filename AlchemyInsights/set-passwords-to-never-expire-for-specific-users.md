@@ -14,22 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43646003"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509427"
 ---
 # <a name="set-passwords-to-never-expire"></a>Paroļu iestatīšana, lai tā nekad nebeigtos
 
-Lai iestatītu, ka visām parolēm nekad nebeidzas, Microsoft 365 administrēšanas centrā atveriet lapu **iestatījumu** > [drošības &amp; konfidencialitāte](https://portal.office.com/adminportal/home#/settings/security) . Atlasiet **Rediģēt** blakus **paroļu politika**un pagrieziet slīdni uz **ieslēgts**.
+Lai iestatītu, ka visām parolēm nekad nebeidzas, Microsoft 365 administrēšanas centrā atveriet lapu **iestatījumu**  >  [drošības &amp; Konfidencialitāte](https://portal.office.com/adminportal/home#/settings/security) . Atlasiet **Rediģēt** blakus **paroļu politika**un pagrieziet slīdni uz **ieslēgts**.
   
 Sīkāku informāciju skatīt: 
 
-- [Iestatiet organizācijas paroles derīguma politiku.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+- [Iestatiet organizācijas paroles derīguma politiku.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Iestatiet paroli, lai tā nekad nebeidzas konkrētiem lietotājiem](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Iestatiet paroli, lai tā nekad nebeidzas konkrētiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 - [Parolei jāatbilst sarežģītības prasībām](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

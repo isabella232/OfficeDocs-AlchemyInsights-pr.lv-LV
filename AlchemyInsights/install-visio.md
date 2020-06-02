@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765996"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508671"
 ---
 # <a name="install-visio"></a>Instalēt Visio
 
@@ -25,7 +25,7 @@ Visio tiek pārdota kā savrupa lietojumprogramma, tādēļ, ja jums tā vēl na
 
 **Piezīme**: Visio Online 1. plāns neietver Visio darbvirsmas versiju, tāpēc nav iespējams instalēt.
 
-Ja jums ir Visio Online 2. plāna abonements, jums ir [jāpiešķir lietotājam licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) vai viņiem nebūs iespējas instalēt Visio no **maniem instalētajiem** manā [konta portālā](https://portal.office.com/account#installs). 
+Ja jums ir Visio Online 2. plāna abonements, jums ir [jāpiešķir lietotājam licence](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) vai viņiem nebūs iespējas instalēt Visio no **maniem instalētajiem** manā [konta portālā](https://portal.office.com/account#installs). 
 
 Visio Standard vai Visio Professional lielapjoma licences versijas ir saistītas ar Microsoft kontiem, un tās nevar pārvaldīt administrēšanas centrā. Lai instalētu šīs versijas, lietotājiem ir jāpierakstās [Account.Microsoft.com](https://account.microsoft.com) ar Microsoft kontu, kas saistīts ar šo Visio versiju.
 

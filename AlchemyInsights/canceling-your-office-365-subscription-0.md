@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44059084"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508275"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 abonementa atcelšana?
 
@@ -30,4 +30,4 @@ Pamatojoties uz jūsu organizācijas datiem, mēs uzskatām, ka visiem jūsu pa�
 
 **Piezīme**: ja jūs neredzat iespēju atcelt, noklikšķiniet uz parakstīšanās, lai skatītu informāciju, un jums vajadzētu redzēt **atcelšanas abonēšanas** opciju **iestatījumos & darbības**. 
 
-Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Papildinformāciju skatiet sadaļā [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 
