@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761175"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511731"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Izejošais e-pasts uz mapi Nevēlamais e-pasts
 
 Ja redzat, ka izejošie ziņojumi tiek atzīmēti kā nevēlami, veiciet šādas darbības:
 
-- Ja vēl neesat to izdarījis, apsveriet iespēju [konfigurēt izejošos surogātpasta politikas paziņojumus](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Ja vēl neesat to izdarījis, apsveriet iespēju [konfigurēt izejošos surogātpasta politikas paziņojumus](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Izmantojiet [ziņojumu izsekošana](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) , lai redzētu, vai izejošo ziņojumu **surogātpasta** notikuma vērtību ar papildu detaļas: **Izmantojiet augsta riska piegādes pūls**.
+- Izmantojiet [ziņojumu izsekošana](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) , lai redzētu, vai izejošo ziņojumu **surogātpasta** notikuma vērtību ar papildu detaļas: **Izmantojiet augsta riska piegādes pūls**.
 
   Šiem ziņojumiem pārbaudiet ziņojuma saturu, lai redzētu, kas varētu tikt uzskatīts par surogātpastu. Piemēram, paraksti dažreiz var radīt problēmas daudziem lietotājiem.
 

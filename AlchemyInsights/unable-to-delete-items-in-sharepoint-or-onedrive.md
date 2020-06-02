@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571272"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511983"
 ---
 # <a name="unable-to-delete-items"></a>Nevar izdzēst objektus
 
-Saglabāšanas politikas var izraisīt šo, jums ir atspējota vai izslēgt attiecīgo aizturēšanu, kas izraisa šo problēmu. Pēc saglabāšanas politika vai aizturēšana ir noņemta, var ilgt līdz 24 stundām izmaiņas stātos spēkā. Pārliecinieties, vai krājumam nav [saglabāšanas politikas](https://docs.microsoft.com/office365/securitycompliance/retention-policies) iestatījuma.
+Saglabāšanas politikas var izraisīt šo, jums ir atspējota vai izslēgt attiecīgo aizturēšanu, kas izraisa šo problēmu. Pēc saglabāšanas politika vai aizturēšana ir noņemta, var ilgt līdz 24 stundām izmaiņas stātos spēkā. Pārliecinieties, vai krājumam nav [saglabāšanas politikas](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) iestatījuma.
 
 Iespējams, ka vietne ir pārsniegusi krātuves ierobežojumu, palielina [vietnes kvotu](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) un dzēš vienumu.
 

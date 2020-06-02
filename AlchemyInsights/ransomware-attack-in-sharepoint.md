@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742812"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511623"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware uzbrukums pakalpojumā SharePoint vai OneDrive
 
@@ -36,12 +36,12 @@ Lai iegūtu papildinformāciju par to, kā atjaunot, skatiet:
 - [Dokumentu bibliotēkas atjaunošana](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Papildinformāciju par uzlaboto Pretdraudu aizsardzību (ATP) skatiet šeit:
-- [ATP for SharePoint, OneDrive un Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Threat Explorer skati](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [ATP for SharePoint, OneDrive un Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Threat Explorer skati](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 Papildinformācija:
 
-- [Vīrusu atklāšana SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Datu šifrēšana sistēmā ODB un SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Vīrusu atklāšana SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Datu šifrēšana sistēmā ODB un SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [Ransomware noteikšana un failu atkopšana](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Threat Explorer un reāllaika Detections](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Threat Explorer un reāllaika Detections](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

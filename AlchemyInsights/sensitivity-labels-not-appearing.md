@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758458"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511659"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Jutīguma etiķetes nav redzamas
 
-Jutības etiķetes ļauj klasificēt un palīdzēt aizsargāt jūsu sensitīvo saturu. Tās var izveidot Microsoft 365 atbilstības centrs, Microsoft 365 drošības centrs vai Microsoft 365 drošības & atbilstības centrs klasifikācijas > jutīguma etiķetes. Papildinformāciju par šo līdzekli skatiet sadaļā [pārskats par jutības etiķetēm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Jutības etiķetes ļauj klasificēt un palīdzēt aizsargāt jūsu sensitīvo saturu. Tās var izveidot Microsoft 365 atbilstības centrs, Microsoft 365 drošības centrs vai Microsoft 365 drošības & atbilstības centrs klasifikācijas > jutīguma etiķetes. Papildinformāciju par šo līdzekli skatiet sadaļā [pārskats par jutības etiķetēm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Ja esat konfigurējis jutīguma etiķetes, bet tās neparādās Office programmās, pārbaudiet sekojošo:
 
-- Apstipriniet, ka jutīguma etiķete ir [publicēta](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) lietotājiem un grupām, kuras vēlaties.
+- Apstipriniet, ka jutīguma etiķete ir [publicēta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) lietotājiem un grupām, kuras vēlaties.
 
 - Apstipriniet, ka lietotājs izmanto programmu, kas atbalsta jutīguma etiķetes-skatiet [dokumentā jutīguma etiķetes](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

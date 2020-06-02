@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764879"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511515"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>E-pasta ziņojumu šifrēšana programmā Outlook
 
@@ -24,7 +24,7 @@ Pamatojoties uz klientu atsauksmēm, mēs vairs neiespējosim Exchange pasta pl�
 
 - Ja izmantojat Outlook Web (iepriekš **OWA**): sastādot e-pasta ziņojumu, vienkārši noklikšķiniet uz **aizsargāt** OWA. Tas attieksies "nav uz priekšu" atļauju. Noklikšķiniet uz **mainīt atļauju** un izvēlieties **Šifrēt** , lai tikai šifrētu ziņojumu.
 
-- Ja **Outlook klienta**izmantošana: lai sūtītu šifrētu ziņojumu no programmas Outlook 2013 vai 2016 vai Outlook 2016 operētājsistēmai Mac, atlasiet **opciju** > **atļaujas**, pēc tam atlasiet nepieciešamo aizsardzības opciju.
+- Ja **Outlook klienta**izmantošana: lai sūtītu šifrētu ziņojumu no programmas Outlook 2013 vai 2016 vai Outlook 2016 operētājsistēmai Mac, atlasiet **opciju**  >  **atļaujas**, pēc tam atlasiet nepieciešamo aizsardzības opciju.
 
-- Lai **automātiski šifrētu visus e-pasta** ziņojumus, kas nosūtīti noteiktiem adresātiem vai ārējo partneru organizācijām, jums ir jāizveido pasta plūsmas transportēšanas kārtula Exchange administrēšanas centrā. Detalizētas instrukcijas ir sniegtas [šajā atbalsta rakstā](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Lai **automātiski šifrētu visus e-pasta** ziņojumus, kas nosūtīti noteiktiem adresātiem vai ārējo partneru organizācijām, jums ir jāizveido pasta plūsmas transportēšanas kārtula Exchange administrēšanas centrā. Detalizētas instrukcijas ir sniegtas [šajā atbalsta rakstā](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 
