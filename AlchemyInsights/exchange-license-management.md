@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 296b77e6b1596732c58e5caa21954225eb31e3ec
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: f653fefccc435b80198ea6097d845549ccec56bf
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991246"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505622"
 ---
 # <a name="exchange-license-management"></a>Exchange licenču pārvaldība
 
@@ -27,6 +27,6 @@ Exchange licences var pārvaldīt **Microsoft 365 administrēšanas centrā**.
 - Lai **mainītu plānus**, lasiet [Manuāla Microsoft 365 darbam plānu maiņa](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Lai **piešķirtu** Exchange licences, atveriet **Norēķini > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**, atlasiet abonementu, atlasiet lietotājus un noklikšķiniet uz **Piešķirt licences**. Lai uzzinātu vairāk, lasiet [Licenču piešķiršana](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Lai **pievienotu/noņemtu Exchange licences**, dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet **Pievienot/noņemt licences**. Papildinformāciju skatiet rakstā [Licenču pievienošana/noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Lai **atceltu** Exchange licences, dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet **Iestatījumi un darbības** un noklikšķiniet uz **Atcelt abonementu**. Lai uzzinātu vairāk, lasiet [Abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Lai **atceltu** Exchange licences, dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet **Iestatījumi un darbības** un noklikšķiniet uz **Atcelt abonementu**. Lai uzzinātu vairāk, lasiet [Abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Papildinformāciju skatiet rakstā [Abonementu licenču pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
