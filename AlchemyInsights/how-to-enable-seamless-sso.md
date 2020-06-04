@@ -1,5 +1,5 @@
 ---
-title: Kā enable Seamless SSO
+title: Kā iespējot bezšuvju SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663874"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Kā enable Seamless SSO
+# <a name="how-to-enable-seamless-sso"></a>Kā iespējot bezšuvju SSO
 
-Iespējot bezšuvju SSO caur [debeszils AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Iespējojiet bezšuvju SSO, izmantojot [AZURE ad savienojumu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Ja jūs nodarbojaties jaunu uzstādīšana Azure AD savienojumu, izvēlieties [pielāgotās instalēšanas ceļš](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Lietotāja pieteikšanās** lapu, izvēlēties opciju **Iespējot vienotās pierakstīšanās** .
+Ja veicat jaunu Azure AD savienojumu instalēšanu, izvēlieties [pielāgotās instalēšanas ceļu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Lietotāja pierakstīšanās** lapā izvēlieties **Iespējot vienotās pierakstīšanās** opciju.
   
-Lai pārbaudītu, vai ir pareizi iespējota bezšuvju SSO:
+Lai pārbaudītu, vai ir iespējots bezšuvju SSO pareizi:
   
-1. [Azure Active Directory administratīvo centru](https://aad.portal.azure.com) , pierakstieties kā globālo admin.
+1. Pierakstieties pakalpojumā [Azure Active Directory Administrative Center](https://aad.portal.azure.com) kā globālo admin.
 
 2. Kreisajā rūtī atlasiet **Azure Active Directory** .
 
-3. Pārliecinātos, ka bezšuvju vienotās pierakstīšanās ir **iespējots**.
+3. Pārbaudiet, vai ir **iespējota**bezšuvju vienotā pierakstīšanās.
 
 Lai uzzinātu vairāk, skatiet [Azure Active Directory bezšuvju vienotās pierakstīšanās: Ātrais sākums](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

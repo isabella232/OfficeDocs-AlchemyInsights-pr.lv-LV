@@ -1,5 +1,5 @@
 ---
-title: Pierakstīties Microsoft Skype biznesa problēmas
+title: Problēmas pierakstoties Microsoft Skype uzņēmumiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
 ms.openlocfilehash: afe4228d38bf93984be8dece3146c5ce072b6fdc
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666631"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Pierakstīties Microsoft Skype biznesa problēmas
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Problēmas pierakstoties Microsoft Skype uzņēmumiem
 
-Lejupielādēt un izmantot [atbalstu un piedziņas asistentu (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-Šis rīks var palīdzēt automātiski noteikt un izlabot zināmi jautājumi, kas saistīti ar piesakoties Skype biznesa klāstu.
+Lejupielādēt un izmantot [atbalsta un atkopšanas palīgs (Monika)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+Šis rīks var palīdzēt automātiski diagnosticēt un novērst virkni zināmās problēmas, kas saistītas ar pierakstīšanos Skype uzņēmumiem.
