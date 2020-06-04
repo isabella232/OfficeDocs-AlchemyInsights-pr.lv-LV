@@ -1,5 +1,5 @@
 ---
-title: Pierakstīties Microsoft Skype biznesa problēmas
+title: Problēmas pierakstoties Microsoft Skype uzņēmumiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
 ms.openlocfilehash: afe4228d38bf93984be8dece3146c5ce072b6fdc
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666631"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="f5d05-102">Pierakstīties Microsoft Skype biznesa problēmas</span><span class="sxs-lookup"><span data-stu-id="f5d05-102">Problems Signing in to Microsoft Skype for Business</span></span>
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="eb1dc-102">Problēmas pierakstoties Microsoft Skype uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="eb1dc-102">Problems Signing in to Microsoft Skype for Business</span></span>
 
-<span data-ttu-id="f5d05-103">Lejupielādēt un izmantot [atbalstu un piedziņas asistentu (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="f5d05-103">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
-<span data-ttu-id="f5d05-104">Šis rīks var palīdzēt automātiski noteikt un izlabot zināmi jautājumi, kas saistīti ar piesakoties Skype biznesa klāstu.</span><span class="sxs-lookup"><span data-stu-id="f5d05-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
+<span data-ttu-id="eb1dc-103">Lejupielādēt un izmantot [atbalsta un atkopšanas palīgs (Monika)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="eb1dc-103">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
+<span data-ttu-id="eb1dc-104">Šis rīks var palīdzēt automātiski diagnosticēt un novērst virkni zināmās problēmas, kas saistītas ar pierakstīšanos Skype uzņēmumiem.</span><span class="sxs-lookup"><span data-stu-id="eb1dc-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
