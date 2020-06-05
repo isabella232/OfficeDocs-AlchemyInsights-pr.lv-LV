@@ -1,24 +1,25 @@
 ---
-title: Palielināt EWS droselēšanas pasta migrēšanas ierobežojumi
+title: Palielināt EWS ierobežošana pasta migrācijas ierobežojumi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1900"
+- "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 2898711c4b97e947e660af593e59518de905b405
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 947590f2ee669c683ab745e6f3aa123bde7841ee
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499581"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580088"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="cfe1c-102">Palielināt EWS droselēšanas pasta migrēšanas ierobežojumi</span><span class="sxs-lookup"><span data-stu-id="cfe1c-102">Increase EWS throttling limits for mail migration</span></span>
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="53478-102">Palielināt EWS ierobežošana pasta migrācijas ierobežojumi</span><span class="sxs-lookup"><span data-stu-id="53478-102">Increase EWS throttling limits for mail migration</span></span>
 
-<span data-ttu-id="cfe1c-103">Palielināt jūsu īrnieks EWS droselēšanas ierobežojumus attiecībā uz e-pasta migrācija, turpināt un atveriet support ticket.</span><span class="sxs-lookup"><span data-stu-id="cfe1c-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
+<span data-ttu-id="53478-103">Lai palielinātu nomnieka EWS ierobežošana ierobežojumus e-pasta migrācija, lūdzu, turpiniet un atveriet atbalsta biļeti.</span><span class="sxs-lookup"><span data-stu-id="53478-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
