@@ -12,16 +12,16 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4a5f95a1f21c5c78c80088145632d37cb9acb6d5
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: e7492d024667509e3766b4fd2569518d54ed5767
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316889"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581454"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>PSTN zvanīšana, izmantojot Skype darbam Online
 
-Lai veiktu PSTN zvanus Office 365, ir nepieciešams [office 365 zvanīšanas plānu](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) vai savienojumu ar lokālo PSTN telefonijas infrastruktūra. Lai iegūtu papildinformāciju, skatiet šādus resursus: 
+Lai veiktu PSTN zvanus programmā Microsoft 365, ir nepieciešams [microsoft 365 zvanīšanas plāns](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) vai savienojums ar lokālo PSTN telefonijas infrastruktūru. Lai iegūtu papildinformāciju, skatiet šādus resursus: 
 
 - [Pieejamība valstīs un reģionos Audiokonferencēm un zvanu plāniem](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Audio konferences bieži uzdotie jautājumi](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)

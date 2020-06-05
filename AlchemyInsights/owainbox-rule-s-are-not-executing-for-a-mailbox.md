@@ -1,9 +1,9 @@
 ---
-title: 1332 OWA - iesūtnes kārtula ir nav izpildes pastkastes
+title: 1332 OWA-iesūtnes kārtula (s) nav izpildīt pastkastes
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9abdcdcb33d39b8b9fe2df80f0c15a8b55e465fd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555780"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576567"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a>Iesūtnes kārtulas nedarbojas, kā paredzēts
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a>Iesūtnes kārtula nedarbojas, kā paredzēts
 
-Pārbaudiet šādus iestatījumus programmā Outlook tīmeklī:
+Pārbaudiet šādus iestatījumus programmā Outlook Web:
 
-- Ziņojums var būt novirzīts, pārsūtīt vai atbildētu automātiski, pamatojoties uz iesūtnes kārtulas tikai vienu reizi. Novirzot kārtulu (iesūtnes kārtulu vai pasta plūsmas kārtula, pazīstams arī kā transporta kārtulu) var ne vairāk kā desmit pāradresācijas adresātu pievienošana ziņojumam. Papildinformāciju skatiet šeit: [Journal, transporta un iesūtnes kārtulu robežas](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
+- Ziņojumu var novirzīt, pārsūtīt vai automātiski, pamatojoties uz iesūtnes kārtulām tikai vienu reizi. Pārprofilēšanas kārtula (iesūtnes kārtula vai pasta plūsmas kārtula, kas tiek dēvēta arī par transportēšanas kārtulu) var pievienot ziņojumam ne vairāk kā desmit pāradresācijas adresātus. Papildinformāciju skatiet sadaļā [žurnāla, transportēšanas un iesūtnes kārtulu ierobežojumi](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 
-- Iesūtnes kārtulas nedarbojas uz alternatīvo journaling pastkasti. Papildinformāciju par alternatīvo journaling pastkasti, skatiet [alternatīvo journaling pastkastes](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).
+- Alternatīvās žurnalēšanas pastkaste nedarbojas iesūtnes kārtulas. Lai iegūtu papildinformāciju par alternatīvu žurnalēšanas pastkasti, skatiet [alternatīvu žurnalēšanas pastkaste](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).
 
-Lai novērstu šo problēmu, skatiet [KB 2829319](https://support.microsoft.com/kb/2829319).
+Lai novērstu šīs problēmas, skatiet [KB 2829319](https://support.microsoft.com/kb/2829319).
 
-Ja iepriekšējie jautājumi neatbilst, palaidiet iesūtnes kārtulu diagnostikas pārskata pirms jūs izskatīt šo problēmu ar Microsoft Support:
+Ja nav lietot iepriekšējās problēmas, palaidiet iesūtnes kārtulu diagnostikas ziņojumu pirms izskatīt problēmu Microsoft Support:
 
-1. Atvērt šo pastkasti programmā Outlook Web un noklikšķiniet uz <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Iestatījumi** > **Outlook iestatījumu skatīšana** > **Mail** > **noteikumiem**.
+1. Atveriet pastkasti programmā Outlook Web un noklikšķiniet uz <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Iestatījumu**  >  **Skatīt visus Outlook iestatījumus**  >  **Pasts**  >  **Noteikumiem**.
 
-2. Lapas apakšdaļā noklikšķiniet uz **Ja kārtulas nedarbojas klikšķi šeit diagnostikas atskaites ģenerēšanai**.
+2. Lapas apakšdaļā noklikšķiniet uz **Ja kārtulas nedarbojas noklikšķiniet šeit, lai ģenerētu diagnostikas ziņojumu**.

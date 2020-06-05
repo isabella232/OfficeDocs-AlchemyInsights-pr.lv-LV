@@ -1,5 +1,5 @@
 ---
-title: Pierakstīšanās pakalpojumā Office apps jautājumiem
+title: Problēmas pierakstoties Microsoft 365 Apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938272"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579872"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Nosakot Biroja apps "datora uzticamo platformas modulis nedarbojas pareizi" ziņojums
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Nosakot Microsoft 365 Apps "jūsu datora uzticams platformas modulis nedarbojas pareizi" ziņojums
 
-Lai novērstu šo kļūdu, rīkojieties šādi:
+Lai novērstu šo kļūdu, izmēģiniet tālāk norādīto:
 
-- [Windows](https://support.microsoft.com/help/4027667/windows-10-update) un [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)instalētu jaunākos atjauninājumus.
-- [Notīrīt biroja akreditācijas datus](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , izmantojot Windows Credential Manager.<br/>
-    **Piezīme:** Ir mainījušies 16,0 Office 2016 reģistra ceļus. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Izmēģiniet [lietotāja atkopšanas process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) uzticamā platformas moduļa (TPM) nepilnības novērst.
-- Noteikt EnableADAL = 0, veicot šādas darbības:  
-    1. Ar peles labo pogu noklikšķiniet uz Windows pogas Sākt, izvēlēties **palaist**, ierakstiet **regedit**un pēc tam izvēlieties **Labi**.
-    2. Izvēlieties **Jā** lai varētu reģistra redaktoru, lai veiktu izmaiņas jūsu ierīcē.
-    3. Registry Editor pievienojiet DWORD vērtība ir **EnableADAL** iestatījums **0** zem HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+- Instalējiet jaunākos [Windows](https://support.microsoft.com/help/4027667/windows-10-update) un [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)atjauninājumus.
+- [Notīrīt Office akreditācijas datus](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) , izmantojot Windows akreditācijas datu pārvaldnieku.<br/>
+    **Piezīme:** Office 2016 reģistra ceļi ir mainījušies 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Mēģiniet veikt [lietotāja atkopšanas procesu](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , lai labotu uzticamā platformas moduļa (TPM) kļūmes.
+- Iestatiet EnableADAL = 0, izmantojot šādas darbības:  
+    1. Ar peles labo pogu noklikšķiniet uz Windows pogas Sākt, izvēlieties **palaist**, ierakstiet **regedit**, un pēc tam izvēlieties **Labi**.
+    2. Atlasiet **Jā** , lai atļautu reģistra redaktoru veikt izmaiņas ierīcē.
+    3. Reģistra redaktorā pievienojiet DWORD vērtību **Enableadal** ar iestatījumu **0** sadaļā HKEY_CURRENT_USER \Software\Microsoft\Office\16.0\Common\Identity.
 
-Papildinformāciju skatiet sadaļā [savienojuma problēmas pierakstīšanās pēc Biroja 2016 būvēt 16.0.7967 10 Windows atjauninājums](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Lai iegūtu papildinformāciju, skatiet [savienojuma problēmas pierakstīšanās pēc atjauninājuma Office 2016 veidot 16.0.7967 operētājsistēmā Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

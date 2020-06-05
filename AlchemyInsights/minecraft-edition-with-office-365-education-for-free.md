@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762072"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579656"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft izdevums ar Office 365 Education bez maksas
 
@@ -29,7 +29,7 @@ ms.locfileid: "43762072"
 
   - Ja jūsu skolai nav Azure AD nomnieka, [IT administrators var iestatīt vienu](https://docs.microsoft.com/education/windows/school-get-minecraft) kā daļu no procesa, kā iegūt **Minecraft: Education Edition**.
 
-  - Office 365 Education, kas ietver Office lietojumprogrammu tiešsaistes versijas un 1 TB lielu tiešsaistes krātuvi skolotājiem un skolēniem ir bez maksas. [Reģistrējieties savu skolu Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, kas ietver Microsoft 365 lietotņu tiešsaistes versijas, kā arī 1 TB tiešsaistes krātuvi skolotājiem un skolēniem bez maksas. [Reģistrējieties savu skolu Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
   - Ja jūsu skolai ir Office 365 Education abonements, tajā ir iekļauts bezmaksas Azure AD abonements. [Reģistrējiet savu bezmaksas AZURE ad abonementu](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
