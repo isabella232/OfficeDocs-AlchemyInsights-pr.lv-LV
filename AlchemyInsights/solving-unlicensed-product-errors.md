@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512019"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582746"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Ieteikumi "licencēta produkta" problēmu risināšanai
 
@@ -26,7 +26,7 @@ Lai novērstu kļūdas saistībā ar "nelicencētu produktu", izmēģiniet tāl�
 - Pārliecinieties, vai jums ir abonements, kas pieļauj klienta licences, piemēram, Microsoft 365 lietojumprogrammas darbam vai Business Premium, un pārliecinieties [, vai lietotājam ir piešķirta licence](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Pārliecinieties, vai lietotājs ir pierakstīšanās sistēmā Office ar to pašu kontu, kuram ir piešķirta licence.
 - Pārbaudiet [servisa darbspējas lapu](https://docs.microsoft.com/office365/enterprise/view-service-health) , lai redzētu, vai ir zināmas problēmas ar pakalpojumu.
-- Pārbaudiet ugunsmūra, pretvīrusu programmatūras un starpniekservera iestatījumus, lai apstiprinātu, ka tie nebloķē Office lietojumprogrammu piekļuvi internetam. Skatiet [vietrāžus URL un IP adrešu diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Pārbaudiet ugunsmūra, pretvīrusu programmatūras un starpniekservera iestatījumus, lai apstiprinātu, ka tie nebloķē Microsoft 365 programmas piekļuvi internetam. Skatiet [vietrāžus URL un IP adrešu diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Jūs varat izmēģināt arī šādas problēmu novēršanas darbības: 
 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913009"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582782"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint satura koplietošanas ar ārējiem lietotājiem problēmu novēršana
 
 Pārliecinieties, vai jūsu organizācijai ir ieslēgta ārēja koplietošana.
   
-1. Dodieties uz [ &amp; pakalpojumu pievienojumprogrammas lapā Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)un noklikšķiniet uz **vietnes**.
+1. Dodieties uz [pakalpojumu &amp; pievienojumprogrammas lapā Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)un noklikšķiniet uz **vietnes**.
     
 2. Pārliecinieties, vai iestatījums ir ieslēgts. Ja ir atlasīts "tikai esošie ārējie lietotāji", pārliecinieties, vai ārējais lietotājs ir norādīts Microsoft 365 administrēšanas centrā.
     

@@ -1,5 +1,5 @@
 ---
-title: Labošana Office Apps Atvainojiet, mums ir pagaidu servera problēmas ziņojums
+title: Labošana Microsoft 365 Apps Atvainojiet, mums ir pagaidu servera problēmas ziņojums
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764124"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582710"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Office lietojumprogrammu labošana "Atvainojiet, mums ir pagaidu servera problēmas" ziņojums
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Fixing Microsoft 365 progr "Atvainojiet, mums ir pagaidu servera problēmas" ziņojums
 
 Ja saņemat šo ziņojumu, mēģiniet veikt šādas darbības:
 
-1. Pārbaudiet ugunsmūra, pretvīrusu programmatūras un starpniekservera iestatījumus, lai pārliecinātos, vai tie nebloķē interneta piekļuvi Office lietojumprogrammām. Skatiet [vietrāžus URL un IP adrešu diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Pārbaudiet ugunsmūra, pretvīrusu programmatūras un starpniekservera iestatījumus, lai pārliecinātos, vai tie nebloķē interneta piekļuvi Microsoft 365 lietojumprogrammām. Skatiet [vietrāžus URL un IP adrešu diapazonus](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Dodieties uz **Sākt** > **palaišanu**un pēc tam ierakstiet **Services. msc**. Pārliecinieties, vai darbojas šādi pakalpojumi:
+2. Dodieties uz **Sākt**  >  **palaišanu**un pēc tam ierakstiet **Services. msc**. Pārliecinieties, vai darbojas šādi pakalpojumi:
     - Tīklam pievienotās ierīces automātiskā iestatīšana
     - Tīkla saraksta pakalpojums
     - Tīkla atrašanās vietas apzināšana
