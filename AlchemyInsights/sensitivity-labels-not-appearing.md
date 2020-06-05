@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511659"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581022"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Jutīguma etiķetes nav redzamas
 
 Jutības etiķetes ļauj klasificēt un palīdzēt aizsargāt jūsu sensitīvo saturu. Tās var izveidot Microsoft 365 atbilstības centrs, Microsoft 365 drošības centrs vai Microsoft 365 drošības & atbilstības centrs klasifikācijas > jutīguma etiķetes. Papildinformāciju par šo līdzekli skatiet sadaļā [pārskats par jutības etiķetēm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ja esat konfigurējis jutīguma etiķetes, bet tās neparādās Office programmās, pārbaudiet sekojošo:
+Ja esat konfigurējis jutīguma etiķetes, bet tās neparādās Microsoft 365 lietojumprogrammās, pārbaudiet šo:
 
 - Apstipriniet, ka jutīguma etiķete ir [publicēta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) lietotājiem un grupām, kuras vēlaties.
 

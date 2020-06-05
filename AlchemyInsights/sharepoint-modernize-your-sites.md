@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 802cd3a2492141ebe4fcf7318abb6756c88753b5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912793"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582134"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>Modernizēt SharePoint vietnes
 
@@ -24,6 +24,6 @@ Lai iepazītos ar soli pa solim skatītu klasisko SharePoint vietņu modernizēt
 
 * Lai maksimizētu izmantot mūsdienu lietotāja interfeisu jūsu vietnes lapas un sarakstu un bibliotēku lapas, skatiet [modernizēt lietotāja interfeisu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
 * Papildinformāciju par to, kā atbloķēt sarakstus un bibliotēkas, izmantojot moderno lietotāja interfeisu, skatiet sadaļā [maksimizēt moderno sarakstu un bibliotēku izmantošanu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Lai iegūtu papildinformāciju par savienojuma izveide ar Microsoft 365 grupas un veicot grupas savienojumu, skatiet [izveidot savienojumu ar microsoft 365 grupas](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Papildinformāciju par savienojuma izveidi ar Microsoft 365 grupu un grupas savienojuma veikšanu skatiet sadaļā savienojuma izveide ar [microsoft 365 grupu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
 **Svarīgi**: ja jums liekas, ka jūsu lapa ir jau redzams mūsdienu skatu un nav, lūdzu, atrodiet attiecīgo lapu, nokopējiet URL, un sniedz URL kā daļu no jūsu atbalsta biļetes detaļas.

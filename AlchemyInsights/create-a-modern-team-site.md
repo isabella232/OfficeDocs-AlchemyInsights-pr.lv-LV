@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911659"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580376"
 ---
-# <a name="create-an-microsoft-365-group-connected-team-site"></a>Izveidot Microsoft 365 grupas saistītu grupas vietni
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Izveidot Microsoft 365 grupas saistītu grupas vietni
 
 1. Augšējā kreisajā stūrī noklikšķiniet uz programmas palaidēja un atlasiet **SharePoint**. Ja neredzat elementu SharePoint, noklikšķiniet uz **Visas programmas**.
     

@@ -1,5 +1,5 @@
 ---
-title: Office programmas ziņojums — neizdevās atrast ar Office abonementu saistītās licences
+title: Microsoft 365 Apps ziņojums-nevarēja atrast Office licences, kas saistīti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505098"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581658"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office programmas ziņojums — neizdevās atrast ar Office abonementu saistītās licences
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 Apps ziņojums-nevarēja atrast Office licences, kas saistīti
 
 Lai novērstu šo kļūdu, izmēģiniet tālāk norādīto:
 
@@ -38,7 +38,7 @@ Ja problēma joprojām pastāv, mēģiniet veikt tālāk norādītās darbības:
 
 - Atiestatiet Office aktivācijas stāvokli. Skatiet rakstu [Atiestatīt Microsoft 365 programmas uzņēmumam aktivizēšanas statusam](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai pārliecinātos, ka tie nebloķē piekļuvi internetam Office lietojumprogrammām. 
+- Pārbaudiet ugunsmūra, pretvīrusu programmatūras un starpniekservera iestatījumus, lai apstiprinātu, ka tie nebloķē Microsoft 365 programmas piekļuvi internetam. 
 
 Papildu problēmu novēršanas risinājumus skatiet šeit:
 

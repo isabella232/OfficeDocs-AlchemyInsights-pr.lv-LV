@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908711"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580340"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Pārsniegts ikdienas e-pasta limits. Darbplūsma ir apturēta.
 
@@ -27,7 +27,7 @@ ms.locfileid: "43908711"
 - Palaižot darbplūsmu, e-pasta ziņojums netiek nosūtīts un pamanāt, ka šādas darbības:
     - Darbplūsmu, izmantojot SharePoint 2013 platformas tips, pārlūkojot lapu **darbplūsmas statuss** . Lapā Darbplūsmas statuss **iekšējais statuss** ir iestatīts uz **sākts**un informācijas balons parāda **nevar nosūtīt adresātam**.
 
-Lai novērstu šo problēmu, konfigurējiet darbplūsmas nosūtīt e-pasta ziņojumus, nepārsniedzot [Exchange Online sūtītāja ierobežojumus](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Piemēram, izmantojiet pauzi darbplūsmā, sūtiet e-pastu uz Microsoft 365 grupu, adresātu grupu vai iespējotu pasta drošības grupu vai nosūtiet ziņojumu mazāk nekā 200 adresātiem vienlaikus.
+Lai novērstu šo problēmu, konfigurējiet darbplūsmas nosūtīt e-pasta ziņojumus, nepārsniedzot [Exchange Online sūtītāja ierobežojumus](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Piemēram, izmantojiet pauzi darbplūsmā, nosūtiet e-pastu uz Microsoft 365 grupu, adresātu grupu vai iespējotu pasta drošības grupu vai arī nosūtiet ziņojumu mazāk nekā 200 adresātiem vienlaikus.
 
 
 Lai iegūtu papildinformāciju, skatiet šo [rakstu](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
