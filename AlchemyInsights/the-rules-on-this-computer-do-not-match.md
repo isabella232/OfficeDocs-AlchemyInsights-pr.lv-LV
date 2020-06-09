@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618020"
+ms.locfileid: "44664253"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Kļūda: kārtulas šajā datorā nesakrīt
 
@@ -27,4 +27,5 @@ Līdz labojums ir pieejams, lūdzu, izmantojiet šo metodi:
 
 **Risinājums**: pēdējo ziņojumu problēma ir radusies tiem, kas izveidoti tikai klienta kārtulas Outlook darbvirsmā. Ja joprojām tiek palaists problēmu, apsveriet kārtulas dzēšanu un pēc tam izveidojiet un rediģējiet kārtulas tikai OWA (Outlook Web App) līdz problēma ir atrisināta.
 
-Ja nevarat izdzēst kārtulas manuāli var palaist Outlook komandu, startējot programmu Outlook, palaižot Outlook. exe/Cleanrules. Tas dzēsīs gan klienta, gan servera kārtulas. Tas izdzēsīs visus noteikumus visiem Outlook profila kontiem. Šī komanda ir tālāk dokumentēta komandrindas slēdži rakstu.
+Ja nevarat izdzēst kārtulas manuāli var palaist Outlook komandu, startējot programmu Outlook, palaižot Outlook. exe/Cleanrules. Tas dzēsīs gan klienta, gan servera kārtulas. Tas dzēsīs visus noteikumus visiem Outlook profilā kontiem. Šī komanda ir tālāk dokumentēta komandrindas slēdži rakstu.
+
