@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855798"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618020"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Kļūda: kārtulas šajā datorā nesakrīt
 
-Šī ir zināma problēma ar Outlook darbvirsmu. Outlook komanda ieviesta sākotnējā labojums versija 12228,20332, kas izlaisti 12/3/2019. Šis labojums nav adresēts visiem saņemtajiem ziņojumiem.
-
 Lai skatītu atjauninātu šīs zināmās problēmas statusu, skatiet [kārtulas šajā datorā neatbilst noteikumiem par Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+
+Outlook komanda ir ieviesusi Fix veidot 12928,10000. Fix jau ir Insider Fast un dosies uz ikmēneša kanāls jūnija beigās 2020. Kad esat fiksēto būvēt jūs varat saņemt tūlītēju "kas noteikumi jūs vēlaties saglabāt" pēdējoreiz. Izvēlieties serveri, kad tiek parādīta uzvedne, un pēc tam atgriezieties programmā Outlook un atkārtoti iespējojiet kārtulas, kas tika atspējotas.
+
+Līdz labojums ir pieejams, lūdzu, izmantojiet šo metodi:
+
+**Risinājums**: pēdējo ziņojumu problēma ir radusies tiem, kas izveidoti tikai klienta kārtulas Outlook darbvirsmā. Ja joprojām tiek palaists problēmu, apsveriet kārtulas dzēšanu un pēc tam izveidojiet un rediģējiet kārtulas tikai OWA (Outlook Web App) līdz problēma ir atrisināta.
+
+Ja nevarat izdzēst kārtulas manuāli var palaist Outlook komandu, startējot programmu Outlook, palaižot Outlook. exe/Cleanrules. Tas dzēsīs gan klienta, gan servera kārtulas. Tas izdzēsīs visus noteikumus visiem Outlook profila kontiem. Šī komanda ir tālāk dokumentēta komandrindas slēdži rakstu.
