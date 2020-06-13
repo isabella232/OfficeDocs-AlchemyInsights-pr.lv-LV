@@ -1,5 +1,5 @@
 ---
-title: Globālā un SharePoint administrēšanas
+title: Globālais un SharePoint administrators
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: bc5a0067ce8dd63134f163daa33e7bc662cfdd96
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
+ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44279001"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44716426"
 ---
-# <a name="global-and-sharepoint-admin"></a>Globālā un SharePoint administrēšanas
+# <a name="global-and-sharepoint-admin"></a>Globālais un SharePoint administrators
 
-Globālā un SharePoint administratoriem ir jāpiešķir SharePoint licence. Jaunizveidotiem kontiem, kas tikko piešķirti ar SharePoint licenci vai administratora lomu, var rasties problēmas, piekļūstot SharePoint, piemēram, "piekļuve liegta" vai "lietotājs nav atrasts". Lūdzu, sniedziet vismaz 24 stundas sinhronizēšanai, lai pabeigtu visas mūsu sistēmas. Mēs saprotam, ka 24 stundas var šķist ilgu laiku. Daudzos gadījumos mēs jau strādājam pie risinājuma.
+Globālajiem un SharePoint administratoriem ir jāpiešķir SharePoint licence. Jaunizveidotiem kontiem, kas tikko piešķirti ar SharePoint licences vai administratora lomu, var rasties problēmas, piekļūstot SharePoint, piemēram, "piekļuve liegta" vai "lietotājs nav atrasts". Lūdzu, sniedziet vismaz 24 stundas sinhronizācijai, lai pabeigtu mūsu sistēmām. Mēs saprotam, ka 24 stundas var šķist ilgu laiku. Daudzos gadījumos mēs jau strādājam pie risinājuma.
 
-Globālā vai SharePoint administratora lomai Piešķirtie lietotāji var piekļūt SharePoint administrēšanas centram un izveidot un pārvaldīt vietnes (iepriekš sauktas par "vietņu kolekcijām"), norādīt vietņu administratorus, pārvaldīt kopīgošanas iestatījumus un veikt citas funkcijas. Tām nav automātiskas piekļuves visām vietnēm un katra lietotāja OneDrive, taču tās var nodrošināt sev piekļuvi jebkurai vietnei vai OneDrive. Tie var arī izmantot Microsoft PowerShell, lai pārvaldītu SharePoint un OneDrive.
+Lietotājiem, kuriem ir piešķirta globālā vai SharePoint administratora loma, ir piekļuve SharePoint administrēšanas centram, un viņi var izveidot un pārvaldīt vietnes (iepriekš sauktas par "vietņu kolekcijām"), norādīt vietņu administratorus, pārvaldīt koplietošanas iestatījumus un veikt citas darbības. Viņiem nav automātiskas piekļuves visām vietnēm un katra lietotāja OneDrive, bet viņi var piešķirt sev piekļuvi jebkurai vietnei vai OneDrive. Viņi var arī izmantot Microsoft PowerShell, lai pārvaldītu SharePoint un OneDrive.
 
-Lai uzzinātu vairāk, skatiet [par SharePoint administrēšanas lomu sistēmā Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
+Papildinformāciju skatiet rakstā [Par SharePoint administratora lomu programmā Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
 Ir vairāki iemesli, kāpēc Microsoft SharePoint vai Microsoft OneDrive, iespējams, var nebūt pieejami. Ja nevarat piekļūt SharePoint Online, izmantojiet tālāk norādītos norādījumus, lai novērstu šo problēmu.
 
 - [Nevar piekļūt SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
+- [Piekļuve liegta PIM pārvaldītiem lietotāju kontiem SharePoint vai OneDrive administrēšanas centrā](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
