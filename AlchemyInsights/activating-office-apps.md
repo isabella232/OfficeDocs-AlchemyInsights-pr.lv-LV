@@ -1,5 +1,5 @@
 ---
-title: Office programmu aktivizēšana
+title: Microsoft 365 programmu aktivizēšana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,35 +11,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682534"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735219"
 ---
-# <a name="activating-office-apps"></a><span data-ttu-id="4d557-102">Office programmu aktivizēšana</span><span class="sxs-lookup"><span data-stu-id="4d557-102">Activating Office apps</span></span>
+# <a name="activating-microsoft-365-apps"></a><span data-ttu-id="80228-102">Microsoft 365 programmu aktivizēšana</span><span class="sxs-lookup"><span data-stu-id="80228-102">Activating Microsoft 365 apps</span></span>
 
-<span data-ttu-id="4d557-103">Lai aktivizētu Office, skatiet:</span><span class="sxs-lookup"><span data-stu-id="4d557-103">To activate Office, see:</span></span>
+<span data-ttu-id="80228-103">Lai aktivizētu Office, skatiet:</span><span class="sxs-lookup"><span data-stu-id="80228-103">To activate Office, see:</span></span>
 
-- [<span data-ttu-id="4d557-104">Office aktivizācija PC datorā</span><span class="sxs-lookup"><span data-stu-id="4d557-104">Activate Office on a PC</span></span>](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
+- [<span data-ttu-id="80228-104">Office aktivizācija PC datorā</span><span class="sxs-lookup"><span data-stu-id="80228-104">Activate Office on a PC</span></span>](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
-- [<span data-ttu-id="4d557-105">Office aktivizācija Mac datorā</span><span class="sxs-lookup"><span data-stu-id="4d557-105">Activate Office on a Mac</span></span>](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [<span data-ttu-id="80228-105">Office aktivizācija Mac datorā</span><span class="sxs-lookup"><span data-stu-id="80228-105">Activate Office on a Mac</span></span>](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-<span data-ttu-id="4d557-106">Lai novērstu Office aktivizēšanas problēmas, skatiet:</span><span class="sxs-lookup"><span data-stu-id="4d557-106">To fix Office activation issues, see:</span></span>
+<span data-ttu-id="80228-106">**Piezīme: Piezīme:**  Pārliecinieties, vai jums ir Office 365 vai Microsoft 365 abonements, kurā [ir iekļautas Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)klienta programmas, piemēram, Microsoft 365 Business Standard, Microsoft 365 Apps uzņēmumiem vai Microsoft 365 apps uzņēmumiem.</span><span class="sxs-lookup"><span data-stu-id="80228-106">**Note:**  Ensure you have an Office 365 or Microsoft 365 subscription that [includes Office client apps](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), e.g., Microsoft 365 Business Standard, Microsoft 365 Apps for business, or Microsoft 365 Apps for enterprise.</span></span> <span data-ttu-id="80228-107">Turklāt pārliecinieties, vai lietotāja kontam, kuru izmantojat, lai pierakstītos Office programmās, [ir piešķirta licence](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="80228-107">Additionally, ensure that the user account you are using to sign-in to Office apps has [a license assigned](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-- [<span data-ttu-id="4d557-107">Nelicencēts produkts un aktivizācijas kļūdas sistēmā Office</span><span class="sxs-lookup"><span data-stu-id="4d557-107">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+<span data-ttu-id="80228-108">Lai novērstu Office aktivizēšanas problēmas, skatiet:</span><span class="sxs-lookup"><span data-stu-id="80228-108">To fix Office activation issues, see:</span></span>
 
-- [<span data-ttu-id="4d557-108">Kā rīkoties, ja nevarat instalēt vai aktivizēt sistēmu Office darbam ar Mac</span><span class="sxs-lookup"><span data-stu-id="4d557-108">What to try if you can't install or activate Office for Mac</span></span>](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+- <span data-ttu-id="80228-109">Palaidiet [Aktivizēšanas problēmu novērsēju](https://aka.ms/SARA-OfficeActivation-Alchemy) un restartējiet datoru.</span><span class="sxs-lookup"><span data-stu-id="80228-109">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
+- [<span data-ttu-id="80228-110">Nelicencēts produkts un aktivizācijas kļūdas sistēmā Office</span><span class="sxs-lookup"><span data-stu-id="80228-110">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
-<span data-ttu-id="4d557-109">Ja nesen mainījāt kontu vai Office abonementu, veiciet šīs darbības, lai novērstu aktivizēšanas problēmas:</span><span class="sxs-lookup"><span data-stu-id="4d557-109">If you recently switched accounts or Office subscriptions, then follow the steps below to fix activation issues:</span></span>
+- [<span data-ttu-id="80228-111">Kā rīkoties, ja nevarat instalēt vai aktivizēt sistēmu Office darbam ar Mac</span><span class="sxs-lookup"><span data-stu-id="80228-111">What to try if you can't install or activate Office for Mac</span></span>](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-1. <span data-ttu-id="4d557-110">Atveriet Office lietojumprogrammu un noklikšķiniet uz [Izrakstīties](https://go.microsoft.com/fwlink/?linkid=2114082) no visiem lietotāju kontiem.</span><span class="sxs-lookup"><span data-stu-id="4d557-110">Open an Office app, and [Sign Out](https://go.microsoft.com/fwlink/?linkid=2114082) of any existing user accounts.</span></span>
+<span data-ttu-id="80228-112">Ja nevarat pierakstīties Microsoft 365 programmās, veiciet tālāk norādītās darbības.</span><span class="sxs-lookup"><span data-stu-id="80228-112">If you are unable to sign-in to Microsoft 365 apps, then follow the steps below:</span></span>
 
-2. <span data-ttu-id="4d557-111">Izmantojot Windows **iestatījumi > Konti > E-pasts un konti**, noņemiet vecos un neizmantotos darba kontus.</span><span class="sxs-lookup"><span data-stu-id="4d557-111">Using Windows **Settings > Accounts > Email & Accounts**, remove old or unused work accounts.</span></span>
+1. <span data-ttu-id="80228-113">Atveriet Office lietojumprogrammu un noklikšķiniet uz [Izrakstīties](https://go.microsoft.com/fwlink/?linkid=2114082) no visiem lietotāju kontiem.</span><span class="sxs-lookup"><span data-stu-id="80228-113">Open an Office app, and [Sign Out](https://go.microsoft.com/fwlink/?linkid=2114082) of any existing user accounts.</span></span>
 
-3. <span data-ttu-id="4d557-112">Izmantojot Windows **iestatījumi > Konti > Piekļūt darbam vai mācībām**, atvienojiet vecos un neizmantotos darba kontus.</span><span class="sxs-lookup"><span data-stu-id="4d557-112">Using Windows **Settings > Accounts > Access work or school**, disconnect old or unused work accounts</span></span>
+2. <span data-ttu-id="80228-114">Izmantojot Windows **iestatījumi > Konti > E-pasts un konti**, noņemiet vecos un neizmantotos darba kontus.</span><span class="sxs-lookup"><span data-stu-id="80228-114">Using Windows **Settings > Accounts > Email & Accounts**, remove old or unused work accounts.</span></span>
 
-4. <span data-ttu-id="4d557-113">[Atiestatiet Office aktivizācijas statusu](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) un pēc tam [pierakstieties Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) programmās, izmantojot jauno kontu.</span><span class="sxs-lookup"><span data-stu-id="4d557-113">[Reset Office activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) and then [Sign in to Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Apps using the new account.</span></span>
+3. <span data-ttu-id="80228-115">Izmantojot Windows **iestatījumi > Konti > Piekļūt darbam vai mācībām**, atvienojiet vecos un neizmantotos darba kontus.</span><span class="sxs-lookup"><span data-stu-id="80228-115">Using Windows **Settings > Accounts > Access work or school**, disconnect old or unused work accounts</span></span>
 
-<span data-ttu-id="4d557-114">Problēmu novēršanas papildu darbības skatiet rakstā [Atverot Office 365 lietojumprogrammu, parādās paziņojums par abonementu](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="4d557-114">For additional troubleshooting actions, see [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
+4. <span data-ttu-id="80228-116">[Atiestatiet Office aktivizācijas statusu](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) un pēc tam [pierakstieties Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) programmās, izmantojot jauno kontu.</span><span class="sxs-lookup"><span data-stu-id="80228-116">[Reset Office activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) and then [Sign in to Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Apps using the new account.</span></span>
+
+<span data-ttu-id="80228-117">Problēmu novēršanas papildu darbības skatiet rakstā [Atverot Office 365 lietojumprogrammu, parādās paziņojums par abonementu](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="80228-117">For additional troubleshooting actions, see [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
