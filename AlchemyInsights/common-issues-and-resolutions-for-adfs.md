@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706208"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797978"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Bieži sastopamās ADFS problēmas un risinājumi
 
 Federatīvā domēna konfigurāciju var atjaunināt, kā aprakstīts tālāk norādītajos Microsoft zināšanu bāzes rakstos.
 
-- [2713898](https://support.microsoft.com/help/2713898): AD FS kļūda “Piekļūstot vietnei, radās problēma”, kad federatīvs lietotājs pierakstās pakalpojumā Office 365, Azure vai Intune.
+- [ADFS Federācijas sertifikāta derīguma termiņš beidzas](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191): kļūda “Diemžēl radās problēma ar pierakstīšanos” un “80048163”, kad federatīvs lietotājs mēģina pierakstīties pakalpojumā Office 365, Azure vai Intune.
+- [2713898](https://support.microsoft.com/help/2713898) "Radās problēma, piekļūstot vietnei" kļūda no AD FS, ārējam lietotājam pierakstoties Microsoft 365, Azure vai Intune.
 
-- [2647020](https://support.microsoft.com/help/2647020): kļūda “Diemžēl radās problēma ar pierakstīšanos” un “80041317” vai “80043431”, kad federatīvs lietotājs mēģina pierakstīties pakalpojumā Office 365, Azure vai Intune.
+- [2535191](https://support.microsoft.com/help/2535191) "Atvainojiet, bet mums ir problēmas ar pierakstīšanos" un "80048163" kļūda, kad ārējam lietotājam mēģina pierakstīties pakalpojumā Microsoft 365, Azure vai Intune.
 
-Papildinformāciju skatiet rakstā [Federatīva domēna iestatījumu atjaunināšana vai labošana pakalpojumā Office 365, Azure vai Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+- [2647020](https://support.microsoft.com/help/2647020) "Atvainojiet, bet mums ir problēmas ar pierakstīšanos" un "80041317" vai "80043431" kļūda, kad ārējam lietotājam mēģina pierakstīties microsoft 365, Azure vai Intune.
+
+Papildinformāciju skatiet sadaļā [Integrētās domēna iestatījumu atjaunināšana vai labošana programmā Microsoft 365, Azure vai Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
