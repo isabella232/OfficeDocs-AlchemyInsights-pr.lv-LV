@@ -20,17 +20,17 @@ ms.locfileid: "42932039"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>Nevar pieteikties programmā Teams, jo radās kļūda autologon.microsoftazuread-sso dot com:443
 
-Ja Seamless SSO ir iespējots kā O365 autentifikācija, iespējams, ka iekštīkla vietnēm jāpievieno URL “autologon.microsoftazuread-sso.com”.  Ja tas iepriekš ir pievienots uzticamajām vietnēm un tiek lietots Seamless SSO, tas ir jānoņem no uzticamajām vietnēm.
+Ja Seamless SSO ir iespējots kā O365 autentifikācija, iespējams, ka iekštīkla vietnēm ir jāpievieno URL “autologon.microsoftazuread-sso.com”.  Ja tas iepriekš ir bijis pievienots uzticamajām vietnēm un tiek lietots Seamless SSO, tas no uzticamajām vietnēm ir jānoņem.
 
-Lūdzu, pārskatiet [Seamless SSO problēmu novēršanas kontrolsarakstu](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#troubleshooting-checklist).
+Lūdzu, izskatiet [Seamless SSO problēmu novēršanas kontrolsarakstu](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#troubleshooting-checklist).
 
 Veiciet tālāk norādītās darbības, lai pievienotu URL iekštīkla vietņu sarakstam.
 
 1. Atveriet pārlūkprogrammu Internet Explorer, noklikšķinot uz pogas **Sākt**. Meklēšanas lodziņā ierakstiet Internet Explorer un pēc tam rezultātu sarakstā noklikšķiniet uz **Internet Explorer**.
 2. Noklikšķiniet uz **Rīki** un pēc tam noklikšķiniet uz **Interneta opcijas**.
 3. Noklikšķiniet uz cilnes **Drošība**.
-4. Tagad noklikšķiniet uz **Lokālā iekštīkla vietnes** un pēc tam noklikšķiniet uz pogas **Vietnes** un pēc tam uz pogas **Papildu**.
+4. Tagad noklikšķiniet uz **Lokālā iekštīkla vietnes** un pēc tam noklikšķiniet uz pogas **Vietnes**, un pēc tam uz pogas **Papildu**.
 5. Ievadiet tīmekļa vietnes URL un noklikšķiniet uz **Pievienot**.
-6. Kad esat pabeidzis, noklikšķiniet uz **Saglabāt**.
+6. Kad tas ir izdarīts, noklikšķiniet uz **Saglabāt**.
 
-Papildinformāciju skatiet rakstā [Dokumentācija Seamless SSO izvietošanai pakalpojumā O365](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start) (3. darbībā ietverts uz politiku balstīts process URL pievienošanai iekštīkla vietnēs).
+Papildinformāciju skatiet rakstā [Dokumentācija Seamless SSO izvietošanai pakalpojumā O365](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start) (3. darbībā ietverts uz politikas balstīts process URL pievienošanai iekštīkla vietnēs).

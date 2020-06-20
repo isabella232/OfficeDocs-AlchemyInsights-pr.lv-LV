@@ -1,5 +1,5 @@
 ---
-title: Papildu e-datu atklāšanas iestatīšana
+title: Advanced eDiscovery iestatīšana
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -18,24 +18,24 @@ ms.contentlocale: lv-LV
 ms.lasthandoff: 03/24/2020
 ms.locfileid: "42940369"
 ---
-# <a name="set-up-advanced-ediscovery"></a>Papildu e-datu atklāšanas iestatīšana
+# <a name="set-up-advanced-ediscovery"></a>Advanced eDiscovery iestatīšana
 
-Uzlabotā e-datu atklāšana ļauj analizēt nestrukturētus datus, lai palīdzētu samazināt e-datu atklāšanas izmaksas. Varat lietot teksta analīzi, mašīnapmācību un atbilstības/paredzamo kodēšanu.  Papildu e-datu atklāšanas līdzeklim ir nepieciešams kāds no tālāk norādītajiem vienumiem.
+Izmantojot Advanced eDiscovery, varat analizēt nestrukturētus datus, lai samazinātu e-datu atklāšanas izmaksas. Varat lietot teksta analīzi, mašīnmācīšanos un atbilstības/prognozējošo kodēšanu.  Lai izmantotu Advanced eDiscovery līdzekli, ir nepieciešams kāds no tālāk norādītajiem vienumiem.
 
-- Microsoft 365 E5 vai Office 365 E5 abonements
+- Microsoft 365 E5 vai Office 365 E5 abonements
 
-- Microsoft 365 E3 abonements ar E5 atbilstības pievienojumprogrammu
+- Microsoft 365 E3 abonements ar E5 atbilstības pievienojumprogrammu
 
-- Office 365 E3 abonements ar papildu atbilstības pievienojumprogrammu
+- Office 365 E3 abonements ar uzlabotās atbilstības pievienojumprogrammu
 
-Tālāk ir sniegts augsta līmeņa pārskats par darbībām, kas jāveic, lai iestatītu un pārvaldītu papildu e-datu atklāšanu.
+Tālāk ir sniegts augsta līmeņa pārskats par darbībām, kas jāveic, lai iestatītu un pārvaldītu Advanced eDiscovery.
 
 **1. Pārbaudiet un piešķiriet atbilstošas licences**
 
 **2. Piešķiriet e-datu atklāšanas atļaujas**
 
-**3. Konfigurējiet papildu e-datu atklāšanas globālos iestatījumus**
+**3. Konfigurējiet Advanced eDiscovery globālos iestatījumus**
 
-**4. Izveidojiet papildu e-datu atklāšanas gadījumu**
+**4. Izveidojiet Advanced eDiscovery gadījumu**
 
-Informāciju par darbībām, kas jāveic, lai iestatītu papildu e-datu atklāšanu, skatiet rakstā [Darba sākšana ar papildu e-datu atklāšanu](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
+Informāciju par darbībām, kas jāveic, lai iestatītu Advanced eDiscovery, skatiet rakstā [Darba sākšana ar Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
