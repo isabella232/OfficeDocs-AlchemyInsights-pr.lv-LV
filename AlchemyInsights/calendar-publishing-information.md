@@ -1,5 +1,5 @@
 ---
-title: 613 kalendāra publicēšanas informācija
+title: 613 Kalendāra publicēšanas informācija
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506162"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840928"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="d2145-102">Kalendāra publicēšanas informācija</span><span class="sxs-lookup"><span data-stu-id="d2145-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="36a8b-102">Kalendāra koplietošanas iespējošana, izmantojot Microsoft 365 administrēšanas centru</span><span class="sxs-lookup"><span data-stu-id="36a8b-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="d2145-103">Microsoft 365 administratori var iespējot vai atspējot kalendāra publicēšana un kalendāra koplietošana organizācijā.</span><span class="sxs-lookup"><span data-stu-id="d2145-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="d2145-104">Papildinformāciju skatiet sadaļā [kalendāra publicēšanas ieslēgšana, lai lietotāji varētu kopīgot informāciju](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) un [kopīgot kalendārus ar ārējiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="d2145-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="36a8b-103">Administrēšanas centrā dodieties uz **Iestatījumi Organizācijas**   >   **iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="36a8b-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="36a8b-104">Cilnē **Pakalpojumi atlasiet** **Kalendārs**.</span><span class="sxs-lookup"><span data-stu-id="36a8b-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="36a8b-105">Atvērtajā **lapā** Kalendārs izvēlieties, vai vēlaties ļaut lietotājiem kopīgot savus kalendārus ar personām ārpus jūsu organizācijas, kurām ir Microsoft 365 vai Exchange.</span><span class="sxs-lookup"><span data-stu-id="36a8b-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="36a8b-106">Izvēlieties, vai atļaut anonīmiem lietotājiem (lietotājiem bez pieteikšanās akreditācijas datiem) piekļūt kalendāriem, izmantojot e-pasta uzaicinājumu.</span><span class="sxs-lookup"><span data-stu-id="36a8b-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="36a8b-107">Izvēlieties, kāda veida kalendāra informāciju padarīt pieejamu lietotājiem.</span><span class="sxs-lookup"><span data-stu-id="36a8b-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="36a8b-108">Varat atļaut visu informāciju vai ierobežot to tikai līdz laikam vai laikam, tēmai un tikai atrašanās vietai.</span><span class="sxs-lookup"><span data-stu-id="36a8b-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="d2145-105">Outlook lietotāji var kopīgot savus kalendārus.</span><span class="sxs-lookup"><span data-stu-id="d2145-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="d2145-106">Lai iegūtu papildinformāciju, skatiet [Outlook kalendāra koplietošana ar citiem lietotājiem](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="d2145-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="36a8b-109">Papildinformācija Kalendāru [koplietošana ar ārējiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="36a8b-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
