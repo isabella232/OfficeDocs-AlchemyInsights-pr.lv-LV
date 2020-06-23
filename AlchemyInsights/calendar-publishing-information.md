@@ -1,5 +1,5 @@
 ---
-title: 613 kalendāra publicēšanas informācija
+title: 613 Kalendāra publicēšanas informācija
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506162"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840928"
 ---
-# <a name="calendar-publishing-information"></a>Kalendāra publicēšanas informācija
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Kalendāra koplietošanas iespējošana, izmantojot Microsoft 365 administrēšanas centru
 
-- Microsoft 365 administratori var iespējot vai atspējot kalendāra publicēšana un kalendāra koplietošana organizācijā. Papildinformāciju skatiet sadaļā [kalendāra publicēšanas ieslēgšana, lai lietotāji varētu kopīgot informāciju](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) un [kopīgot kalendārus ar ārējiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).
+1. Administrēšanas centrā dodieties uz **Iestatījumi Organizācijas**   >   **iestatījumi**.
+2. Cilnē **Pakalpojumi atlasiet** **Kalendārs**.
+3. Atvērtajā **lapā** Kalendārs izvēlieties, vai vēlaties ļaut lietotājiem kopīgot savus kalendārus ar personām ārpus jūsu organizācijas, kurām ir Microsoft 365 vai Exchange.
+4. Izvēlieties, vai atļaut anonīmiem lietotājiem (lietotājiem bez pieteikšanās akreditācijas datiem) piekļūt kalendāriem, izmantojot e-pasta uzaicinājumu.
+5. Izvēlieties, kāda veida kalendāra informāciju padarīt pieejamu lietotājiem. Varat atļaut visu informāciju vai ierobežot to tikai līdz laikam vai laikam, tēmai un tikai atrašanās vietai.
 
-- Outlook lietotāji var kopīgot savus kalendārus. Lai iegūtu papildinformāciju, skatiet [Outlook kalendāra koplietošana ar citiem lietotājiem](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+Papildinformācija Kalendāru [koplietošana ar ārējiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
