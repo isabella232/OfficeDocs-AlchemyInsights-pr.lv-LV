@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana programmā SharePoint
+title: Problēmu novēršana darbplūsmās koplietošanas vidē SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162983"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138978"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Problēmu novēršana programmā SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Problēmu novēršana darbplūsmās koplietošanas vidē SharePoint
 
-**Problēmu novēršana un atkļūdošana darbplūsmas SharePoint**
+**Problēmu novēršana un atkļūdošana darbplūsmas koplietošanas vidē SharePoint**
 
-Skatiet rakstu [SharePoint darbplūsmas validācijas kļūdu novēršana](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) un [SharePoint darbplūsmu atkļūdošana](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Skatiet [Rakstu SharePoint darbplūsmas validācijas kļūdu](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) [novēršana un SharePoint darbplūsmu atzīmēšana.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
-**Power automatizēt**
+**Power Automate**
 
-Ja tikko sāksit darbu ar darbplūsmām, apsveriet iespēju izmantot [enerģijas automatizēšana](https://docs.microsoft.com/power-automate/modern-approvals) klasiskās SharePoint darbplūsmas risinājumu vietā.
+Ja tikko sāktu darbu ar darbplūsmām, apsveriet iespēju izmantot [enerģijas automatizēšanas iespēju,](https://docs.microsoft.com/power-automate/modern-approvals) nevis klasiskos SharePoint darbplūsmas risinājumus.
+
+Papildinformāciju skatiet sadaļā [SharePoint darbplūsmas, kas tiek dotas pensijā](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
