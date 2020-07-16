@@ -2,7 +2,7 @@
 title: Maksāšanas metodes maiņa
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221952"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154525"
 ---
 # <a name="change-payment-method"></a>Maksāšanas metodes maiņa
 
-Jūs varat mainīt maksāšanas metodi no **Microsoft 365 administrēšanas centrs**.
+Maksāšanas metodi varat mainīt Microsoft **365 administrēšanas centrā.**
   
-1. Administrēšanas centrā pārejiet uz lapu **norēķinu**  >  **rēķini & maksājumu**  >  [apmaksas veidi](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
-2. Atlasiet Aizstājamais maksāšanas metodes rindu. Labajā rūtī ir uzskaitīti visi norēķinu profili un individuālie abonementi, kas izmanto atlasīto maksājuma veidu.
-3. Labajā rūtī atlasiet **aizstāt maksāšanas metodi visiem krājumiem**.
-4. Lai izmantotu esošo maksājuma veidu, nolaižamajā sarakstā izvēlieties kādu no tām un pēc tam atlasiet **aizstāt**.
+1. Administrēšanas centrā atveriet lapu **Norēķinu**  >  **rēķini & maksājumu**  >  [veidi.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+2. Atlasiet aizstājamās maksāšanas metodes rindu. Labajā rūtī ir uzskaitīti visi norēķinu profili un atsevišķi abonementi, kas izmanto atlasīto maksāšanas metodi.
+3. Labajā rūtī atlasiet Aizstāt **maksājuma veidu visiem krājumiem**.
+4. Lai izmantotu esošu maksājuma veidu, nolaižamajā sarakstā izvēlieties kādu un pēc tam atlasiet **Aizstāt**.
     > [!NOTE]
-    > Ja jums ir abonementi, kas saistīti ar norēķinu profilu, varat izmantot kredītkarti vai debetkarti, lai par to samaksātu. Ja jums ir bankas konti, kas norādīti lapā **maksājumu metodes** , tie nav pieejami atlasī nolaižamajā sarakstā.
-5. Lai pievienotu jaunu maksājuma veidu, atlasiet **pievienot maksājuma veidu**.
-6. Rūtī **pievienot maksājuma veidu** ievadiet konta informāciju un pēc tam atlasiet **saglabāt**. Jums jāizmanto maksājuma veids no tās pašas valsts, kurā atrodas jūsu nomnieks.
-7. Jaunais maksājuma veids jau ir atlasīts nolaižamajā sarakstā. Atlasiet **aizstāt**.
+    > Ja jums ir ar norēķinu profilu saistīti abonementi, varat izmantot tikai kredītkarti vai debetkarti, lai par tiem samaksātu. Ja lapā Maksājumu veidi ir norādīti **bankas** konti, tie nav pieejami atlasāmiem nolaižamajā sarakstā.
+5. Lai pievienotu jaunu maksājuma veidu, atlasiet **Pievienot maksāšanas metodi**.
+6. Rūtī Pievienot **maksāšanas metodi ievadiet** konta informāciju un pēc tam atlasiet **Saglabāt**. Jums jāizmanto maksājuma veids no tās pašas valsts, kurā atrodas jūsu nomnieks.
+7. Jaunā maksāšanas metode jau ir atlasīta nolaižamajā sarakstā. Izvēlieties **Aizstāt**.
 
-Lai uzzinātu vairāk, skatiet sadaļu [maksājumu metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Papildinformāciju skatiet sadaļā [Maksājumu metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+
+Lai uzzinātu, kā mainīt maksājumus ar kredītkarti uz rēķinu maksājumiem, skatiet [saita Mainīt no kredītkartes vai bankas konta uz rēķinu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
