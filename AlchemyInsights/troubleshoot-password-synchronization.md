@@ -1,8 +1,8 @@
 ---
-title: Problēmu novēršana paroļu sinhronizēšana
+title: Paroļu sinhronizācijas problēmu novēršana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732517"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387884"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Problēmu novēršana paroļu sinhronizēšana
+# <a name="troubleshoot-password-synchronization"></a>Paroļu sinhronizācijas problēmu novēršana
 
-Lai novērstu problēmas, ja nav paroļu sinhronizētas ar Azure AD Connect versiju 1.1.614.0 vai jaunāka versija:
-  
-1. Atveriet jaunu Windows PowerShell sesiju savā Azure AD Connect serverī, izmantojot opciju **Palaist kā administratoram** .
+Lai novērstu paroļu sinhronizēšanas problēmas, sāciet ar šo AAD savienojumu problēmu novēršanas uzdevumu, lai noteiktu, kāpēc paroles netiek sinhronizētas. Lai sāktu, dodieties uz [Pārvaldīt tiešo sinhronizāciju](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Palaidiet **Set-Executionpolicy RemoteSigned** vai **Set-Executionpolicy neierobežoti**.
+1. Azure AD savienojumu serverī atveriet jaunu Windows PowerShell sesiju un atlasiet opciju **Palaist kā** administratoram.
 
-3. Startējiet vedni Azure AD Connect.
+2. Palaidiet Set-ExecutionPolicy RemoteSigned vai Set-ExecutionPolicy neierobežots.
 
-4. Pārejiet uz **papildu uzdevumu** lapu, atlasiet **problēmu novēršana**un noklikšķiniet uz **Tālāk**.
+3. Azure AD savienojumu izveides vedņa startēšana.
 
-5. Problēmu novēršanas lapā, noklikšķiniet uz Sākt, **lai sāktu problēmu novēršanas** izvēlni PowerShell.
+4. Dodieties uz lapu Papildu uzdevumi > **Problēmu**  >  **novēršana Tālāk**.
 
-6. Galvenajā izvēlnē atlasiet **problēmu novēršana paroļu sinhronizēšana**.
+5. Atlasiet **Palaist,** lai atvērtu PowerShell problēmu novēršanas izvēlni.
 
-7. Apakšizvēlnē atlasiet **paroļu sinhronizēšana**nedarbojas vispār.
+6. Atlasiet **Problēmu novēršana par paroļu sinhronizāciju**.
 
-**Izprastu problēmu novēršanas uzdevuma rezultātus**
-  
-Problēmu novēršanas uzdevums veic šādas pārbaudes:
-  
-- Apstiprina, ka paroļu sinhronizēšana līdzeklis ir iespējots Azure AD nomnieka.
+    Problēma parasti ir parole nav sinhronizēta konkrētu lietotāja kontu.
 
-- Apstiprina, ka Azure AD Connect serveris nav sagatavošanas režīmā.
+    **Piezīmes** Paroļu sinhronizēšana neizdodas, ja pēdējā veiksmīgā paroles sinhronizēšana bija pirms kāda laika.
 
-- Katram esošajam lokālā Active Directory savienotājs (kas atbilst esošo Active Directory mežā):
-
-- 
-  - Pārbauda, vai paroļu sinhronizēšana līdzeklis ir iespējots.
-
-  - Meklē paroļu sinhronizēšana Periodisko kontrolziņojumu notikumus Windows lietojumprogrammu notikumu žurnālos.
-
-  - Par katru Active Directory domēna lokālā Active Directory savienotājs:
-
-  - Validē, ka domēns ir sasniedzams no Azure AD savienojumu servera.
-
-  - Apstiprina, ka Active Directory domēna pakalpojumus (AD DS) kontiem, ko izmanto lokālā Active Directory savienotājs ir pareizs lietotājvārds, parole, un atļaujām, kas nepieciešamas paroļu sinhronizēšana.
-
-Lai iegūtu palīdzību problēmu novēršana paroļu sinhronizēšana, skatiet [problēmu novēršana paroļu sinhronizēšana ar AZURE ad savienojumu sinhronizācija](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Lai saņemtu papildu palīdzību paroļu sinhronizēšanas problēmu novēršanu, [skatiet rakstu Paroļu jaucējprogramma sinhronizēšanas problēmu novēršana ar Azure AD Connect sinhronizāciju](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
