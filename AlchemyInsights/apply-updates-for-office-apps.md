@@ -1,0 +1,46 @@
+---
+title: Office programmu atjauninājumu lietošana
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/24/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "1747"
+- "9000140"
+ms.openlocfilehash: b5952feaac7ac51faed2a3399c68a87a4227b165
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45439464"
+---
+# <a name="apply-updates-for-office-apps"></a><span data-ttu-id="7d3f8-102">Office programmu atjauninājumu lietošana</span><span class="sxs-lookup"><span data-stu-id="7d3f8-102">Apply updates for Office apps</span></span>
+
+<span data-ttu-id="7d3f8-103">Pēc noklusējuma Office programmu atjauninājumi ir bezmaksas, lejupielādēti automātiski un izmantoti fonā bez lietotāja iejaukšanās.</span><span class="sxs-lookup"><span data-stu-id="7d3f8-103">By default, updates for Office Apps are free, downloaded automatically, and applied in the background without any user intervention.</span></span> <span data-ttu-id="7d3f8-104">Lai manuāli palaistu atjauninājumus, ja rodas problēmas saistībā ar atjauninājumu lietošanu, skatiet rakstu [Office atjauninājumu instalēšana](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-104">To run updates manually if you are running into issues applying updates, see [Install Office updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).</span></span> <span data-ttu-id="7d3f8-105">Papildinformāciju skatiet rakstā [Office instalēšanas problēmu novēršana](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-105">For more information, see [Troubleshoot installing Office](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).</span></span>
+
+<span data-ttu-id="7d3f8-106">Lai pārvaldītu Office atjauninājumus saviem lietotājiem, apsveriet tālāk norādītās opcijas.</span><span class="sxs-lookup"><span data-stu-id="7d3f8-106">To manage Office updates for your users, consider these options:</span></span>
+
+- <span data-ttu-id="7d3f8-107">Izvēlieties pareizo Office atjaunināšanas kanālu savai organizācijai, pamatojoties uz vēlamo atjauninājumu biežumu.</span><span class="sxs-lookup"><span data-stu-id="7d3f8-107">Choose the right Office Update Channel for your organization based on the desired frequency of updates.</span></span> <span data-ttu-id="7d3f8-108">Lai uzzinātu, kā to paveikt, skatiet rakstu [pārskats par Microsoft 365 programmu atjaunināšanas kanāliem](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-108">To learn how, see [Overview of update channels for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).</span></span>
+
+- <span data-ttu-id="7d3f8-109">Izlemiet, vai automātiski lietot atjauninājumus no interneta vai lokālajā koplietojumā.</span><span class="sxs-lookup"><span data-stu-id="7d3f8-109">Decide whether to apply updates automatically from the internet or from an on-premises share.</span></span> <span data-ttu-id="7d3f8-110">Lai uzzinātu, kā to paveikt, skatiet rakstu [kā pārvaldīt Microsoft 365 programmu atjauninājumus](https://docs.microsoft.com/deployoffice/choose-how-to-manage-updates-to-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-110">To learn how, see [Choose how to manage updates to Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/choose-how-to-manage-updates-to-office-365-proplus).</span></span>
+
+- <span data-ttu-id="7d3f8-111">Pārskatiet Office atjaunināšanas iestatījumus, lai kontrolētu, kā lietotāju datoros tiek lietoti atjauninājumi:</span><span class="sxs-lookup"><span data-stu-id="7d3f8-111">Review Office Update Settings to control how updates are applied to end user machines:</span></span>
+
+    - <span data-ttu-id="7d3f8-112">[Microsoft 365 programmu atjaunināšanas iestatījumu konfigurēšana](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-112">[Configure update settings for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus).</span></span>
+    - <span data-ttu-id="7d3f8-113">[Definējiet, kā Office tiek atjaunināts pēc tam, kad tā ir instalēta](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-113">[Define how Office is updated after it's installed](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element).</span></span>
+
+<span data-ttu-id="7d3f8-114">Kad Office lietojumprogrammas izvietojat vairākiem lietotājiem, izmantojiet Office pielāgošanas rīku, lai izveidotu konfigurācijas failus izvietošanai un konfigurētu Office atjauninājumus, izmantojot Office izvietošanas rīku.</span><span class="sxs-lookup"><span data-stu-id="7d3f8-114">When deploying Office apps to multiple users, use the Office Customization tool to build configuration files for deployment, and configure Office updates by using the Office Deployment tool.</span></span> <span data-ttu-id="7d3f8-115">Lai iegūtu papildinformāciju, skatiet rakstu [pārskats par Office pielāgošanas rīku](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run) un [Office izvietošanas rīku](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-115">For more info, see [Overview of the Office Customization Tool](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run) and the [Office Deployment tool](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+
+- <span data-ttu-id="7d3f8-116">Piemēru par to, kā iestatīt lietotāju grupas Office atjauninājumu izvietošanai, skatiet rakstā [Microsoft 365 lietojumprogrammu izvietošana no lokālā avota](https://docs.microsoft.com/deployoffice/deploy-office-365-proplus-from-a-local-source).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-116">For an example of how to setup user groups to deploy Office updates, see [Deploy Microsoft 365 Apps from a local source](https://docs.microsoft.com/deployoffice/deploy-office-365-proplus-from-a-local-source).</span></span>
+-   <span data-ttu-id="7d3f8-117">Apsveriet iespēju izmantot ForceAppShutdown iestatījumu, ja Office atjauninājumi netiek lietoti dažiem lietotājiem, jo ir atvērtas Office lietojumprogrammas.</span><span class="sxs-lookup"><span data-stu-id="7d3f8-117">Consider using the ForceAppShutdown setting in case Office updates are not getting applied to a few users because of open Office apps.</span></span> <span data-ttu-id="7d3f8-118">Papildinformāciju skatiet [FORCEAPPSHUTDOWN rekvizītā (rekvizīta elementa daļa)](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#forceappshutdown-property-part-of-property-element).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-118">For more info, see the [FORCEAPPSHUTDOWN property (part of Property element)](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#forceappshutdown-property-part-of-property-element).</span></span> 
+
+<span data-ttu-id="7d3f8-119">**Skatiet arī**</span><span class="sxs-lookup"><span data-stu-id="7d3f8-119">**See also**</span></span>
+
+<span data-ttu-id="7d3f8-120">[Pārskats par Microsoft 365 programmu atjaunināšanas procesu](https://docs.microsoft.com/deployoffice/overview-of-the-update-process-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-120">[Overview of the update process for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-the-update-process-for-office-365-proplus).</span></span>  
+<span data-ttu-id="7d3f8-121">[Informācija par laidienu, lai atjauninātu Microsoft 365 programmas](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-121">[Release information for updates to Microsoft 365 Apps](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus).</span></span>  
+<span data-ttu-id="7d3f8-122">[Pārvaldiet microsoft 365 programmu atjauninājumus, izmantojot Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager).</span><span class="sxs-lookup"><span data-stu-id="7d3f8-122">[Manage updates to Microsoft 365 Apps with Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager).</span></span>  
