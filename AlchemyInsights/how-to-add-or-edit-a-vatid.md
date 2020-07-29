@@ -1,5 +1,5 @@
 ---
-title: Kā pievienot vai rediģēt VatID
+title: VatID pievienošana vai rediģēšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,31 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
+ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495958"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46505156"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Kā pievienot vai rediģēt VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>VatID pievienošana vai rediģēšana
 
-**Piezīme**: ja atrodaties valstī, kurā tiek izmantots pievienotās vērtības nodoklis (PVN), piemēram, Apvienotajā Karalistē, Microsoft rēķinu izrakstīšana aprēķina jūsu PVN un rēķina summu. Papildinformāciju skatiet rakstā Eiropas Komisijas publicētā [VIES atruna](https://go.microsoft.com/fwlink/p/?LinkID=841741) .
+**Piezīme**: ja atrodaties valstī, kurā tiek izmantots novērtēts pievienotās vērtības nodoklis (PVN), piemēram, Apvienotā Karaliste, Microsoft rēķinu aprēķinās ar PVN, un tiek piemērota summa jūsu rēķiniem. Papildinformāciju skatiet rakstā Eiropas Komisijas publicētā [viesa atruna](https://go.microsoft.com/fwlink/p/?LinkID=841741) .
 
-**Pievienot vai rediģēt VatID**
+**VatID pievienošana vai rediģēšana**
 
-1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** \> [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **Billing** \> [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Atrodiet abonementa karti, kuru vēlaties atjaunināt.
+2. Atrodiet abonēšanas karti abonementam, kuru vēlaties atjaunināt.
 
-3. Sadaļā **iestatījumu & darbības** atlasiet **Rediģēt pakalpojuma lietojuma adresi**.
+3. Sadaļā **iestatījumu & darbības** atlasiet **Rediģēt pakalpojuma izmantošanas adresi**.
 
-4. Lapā **pakalpojuma lietojuma adreses rediģēšana** ievadiet PVN ID lodziņā **PVN numurs** un pēc tam atlasiet **saglabāt**.
+4. Lapā **pakalpojuma izmantošanas adreses rediģēšana** lodziņā **PVN numurs** ievadiet savu PVN ID un pēc tam atlasiet **Saglabāt**.
 
-    Kad tas būs pabeigts, PVN netiks iekasēts par nākamo rēķinu.
+    Kad tas ir pabeigts, nākamajā rēķinā nav jāmaksā PVN.
 
-Lai uzzinātu vairāk, skatiet sadaļu [kāds nodoklis man būs jāmaksā par Microsoft 365?]https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+Lai uzzinātu vairāk, skatiet rakstu [kādi nodokļi man būs jāmaksā par Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
 
 **Papildu resursi**
 
-[Pievienojiet savu PVN maksātāja ID](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Pievienojiet savu PVN ID](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).
