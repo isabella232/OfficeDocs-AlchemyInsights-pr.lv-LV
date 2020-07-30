@@ -10,47 +10,49 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507033"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522742"
 ---
 # <a name="enable-an-archive-mailbox"></a>Arhīva pastkastes iespējošana
 
-Arhīva pastkastes Microsoft 365 (ko sauc arī par *tiešsaistes arhīviem* vai *oriģinālu arhīvu*) nodrošina lietotājus ar papildu e-pasta krātuvi. Lietotāji var pārvietot vai kopēt vienumus uz to arhīva pastkaste un administratori var izveidot arhīva politika, kas automātiski pārvieto vienumus arhīva pastkastes.
-  
-Lai izveidotu arhīva pastkasti, ir šādi:
-  
-1. Doties uz [https://protection.office.com](https://protection.office.com) .
+Ja vēlaties, lai mēs veiktu automatizētās pārbaudes, lai nodrošinātu, ka arhīva pastkasti var konfigurēt, atlasiet pogu atpakaļ < — šīs lapas augšdaļā un pēc tam ievadiet konta e-pasta adresi.
 
-2. Pierakstieties Microsoft 365, izmantojot savu administratora kontu.
+Arhivēt pastkastes pakalpojumā Microsoft 365 (ko dēvē arī par *tiešsaistes arhīvu* vai *oriģinālu arhīvu*) nodrošina lietotājiem papildu e-pasta krātuvi. Lietotāji var pārvietot vai kopēt vienumus uz arhīva pastkasti, un administratori var izveidot arhīva politiku, kas automātiski pārvieto vienumus uz arhīva pastkastēm.
+  
+Tālāk ir aprakstīts, kā izveidot arhīva pastkasti.
+  
+1. Dodieties uz [https://protection.office.com](https://protection.office.com) .
+
+2. Pierakstieties pakalpojumā Microsoft 365, izmantojot savu administratora kontu.
 
 3. Drošības &amp; atbilstības centra kreisajā rūtī atlasiet **informācijas pārvaldības** \> **Arhīvs**.
 
 4. Atlasiet lietotāju, kura arhīva pastkasti vēlaties iespējot.
 
-5. Detalizētās informācijas rūtī pa labi noklikšķiniet uz **Iespējot** un pēc tam brīdinājuma ziņojumā, lai iespējotu arhīva pastkaste noklikšķiniet uz **Jā** .
+5. Detalizētās informācijas rūtī pa labi noklikšķiniet uz **Iespējot** un pēc tam brīdinājuma ziņojumā noklikšķiniet uz **Jā** , lai iespējotu arhīva pastkasti.
 
-Jūs varat arī lielapjoma iespējot arhīva pastkastes, atlasot vairākus lietotājus (izmantojot taustiņus **Shift** vai **CTRL** ) un pēc tam noklikšķinot uz **Iespējot** detalizētās informācijas rūtī.
+Varat arī veikt lielapjoma arhīva pastkastu iespējošanu, atlasot vairākus lietotājus (izmantojot **taustiņu SHIFT** vai **CTRL** ) un pēc tam detalizētās informācijas rūtī noklikšķinot uz **Iespējot** .
   
-### <a name="shared-mailboxes"></a>Koplietotās pastkastes
+### <a name="shared-mailboxes"></a>Koplietojamas pastkastes
 
-Lai iespējotu arhivēšanu koplietotai pastkastei, ir nepieciešama Exchange Online 2. plāna licence vai Exchange Online Plan 1 licence ar Exchange Online arhivēšanas licenci.  
+Lai iespējotu koplietojamas pastkastes arhīvu, ir nepieciešama Exchange Online plāna 2 licence vai Exchange Online 1. plāns, kurā ir iekļauta Exchange Online arhivēšanas licence.  
 
-Lai iespējotu arhivēšanu koplietotai pastkastei:
+Lai iespējotu koplietojamas pastkastes arhīvu:
 
-1. Dodieties uz [Exchange administrēšanas centrs](https://outlook.office365.com/ecp) un pierakstieties, izmantojot savu administratora kontu.
+1. Dodieties uz [Exchange administrēšanas centru](https://outlook.office365.com/ecp) un pierakstieties, izmantojot savu administratora kontu.
 
-2. Dodieties uz **adresātiem**, kas  >  **kopīgoti**.
+2. Dodieties uz **Recipients**  >  **kopīgotie**adresāti.
 
-3. Atlasiet koplietoto pastkasti.
+3. Atlasiet koplietojamo pastkasti.
 
-4. Detalizētās informācijas rūtī pa labi, sadaļā oriģinālu **Arhīvs**noklikšķiniet uz **Iespējot**un pēc tam noklikšķiniet uz **Jā** , lai iespējotu arhīva pastkasti.
+4. Detalizētās informācijas rūtī labajā pusē zem lokālās **arhīva**noklikšķiniet uz **Iespējot**un pēc tam uz **Jā** , lai iespējotu arhīva pastkasti.
 
 Papildinformāciju skatiet rakstā:
   
-- [Iespējot arhīva pastkastes](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
+- [Arhīva pastkastu iespējošana](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Arhivēšanas un dzēšanas politikas iestatīšana](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
