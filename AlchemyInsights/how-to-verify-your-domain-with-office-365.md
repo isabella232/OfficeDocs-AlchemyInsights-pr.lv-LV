@@ -1,5 +1,5 @@
 ---
-title: 'Kā pārbaudīt savu domēnu '
+title: 'Sava domēna pārbaude '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509031"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634313"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="8be01-102">Kā pārbaudīt savu domēnu</span><span class="sxs-lookup"><span data-stu-id="8be01-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="e43b8-102">Sava domēna pārbaude</span><span class="sxs-lookup"><span data-stu-id="e43b8-102">How to verify your domain</span></span>
 
-<span data-ttu-id="8be01-103">Lai pārbaudītu jūsu domēnu, jums būs jāpievieno TXT ieraksts domēna reģistrētājā, lai pārbaudītu, vai jums pieder jūsu domēns.</span><span class="sxs-lookup"><span data-stu-id="8be01-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="8be01-104">Vispirms izpildiet [domēna pievienošanas vedni](https://portal.office.com/adminportal/home#/Domains/Wizard) , noklikšķinot uz **iestatīšanas** \> **Domēni**un pēc tam **pievienojiet domēnu**.</span><span class="sxs-lookup"><span data-stu-id="8be01-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="8be01-105">Izpildiet norādījumus [izveidot DNS ierakstus jebkurā DNS viesošanas pakalpojumu sniedzējs](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pievienot txt ierakstu, lai pārbaudītu savu domēnu.</span><span class="sxs-lookup"><span data-stu-id="8be01-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="e43b8-103">Lai verificētu domēnu, izpildiet domēna [pievienošanas vedni](https://portal.office.com/adminportal/home#/Domains/Wizard)vai manuāli **dodieties uz sadaļu domēnu**  >  **Domains**  >  **pievienošana**.</span><span class="sxs-lookup"><span data-stu-id="e43b8-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="8be01-106">Citu domēnu problēmas izmēģiniet [domēnu bieži uzdotie jautājumi](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="8be01-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="e43b8-104">Lai iegūtu papildinformāciju par to, kā pievienot TXT ierakstu, lai verificētu savu domēnu, skatiet norādījumus sadaļā [DNS ierakstu pievienošana, lai izveidotu savienojumu ar savu domēnu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="e43b8-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="e43b8-105">Jautājumus par citiem domēniem skatiet rakstā [bieži uzdotie jautājumi par domēniem](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="e43b8-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
