@@ -1,5 +1,5 @@
 ---
-title: 'Kā pārbaudīt savu domēnu '
+title: 'Sava domēna pārbaude '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509031"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634313"
 ---
-# <a name="how-to-verify-your-domain"></a>Kā pārbaudīt savu domēnu
+# <a name="how-to-verify-your-domain"></a>Sava domēna pārbaude
 
-Lai pārbaudītu jūsu domēnu, jums būs jāpievieno TXT ieraksts domēna reģistrētājā, lai pārbaudītu, vai jums pieder jūsu domēns. Vispirms izpildiet [domēna pievienošanas vedni](https://portal.office.com/adminportal/home#/Domains/Wizard) , noklikšķinot uz **iestatīšanas** \> **Domēni**un pēc tam **pievienojiet domēnu**.
-  
-Izpildiet norādījumus [izveidot DNS ierakstus jebkurā DNS viesošanas pakalpojumu sniedzējs](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pievienot txt ierakstu, lai pārbaudītu savu domēnu.
+Lai verificētu domēnu, izpildiet domēna [pievienošanas vedni](https://portal.office.com/adminportal/home#/Domains/Wizard)vai manuāli **dodieties uz sadaļu domēnu**  >  **Domains**  >  **pievienošana**.
 
-Citu domēnu problēmas izmēģiniet [domēnu bieži uzdotie jautājumi](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Lai iegūtu papildinformāciju par to, kā pievienot TXT ierakstu, lai verificētu savu domēnu, skatiet norādījumus sadaļā [DNS ierakstu pievienošana, lai izveidotu savienojumu ar savu domēnu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Jautājumus par citiem domēniem skatiet rakstā [bieži uzdotie jautājumi par domēniem](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
