@@ -1,7 +1,7 @@
 ---
-title: Hibrīds un integrētās meklēšanas
-ms.author: v-todmc
-author: todmccoy
+title: Hibrīdā un Federatīvajām meklēšana
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768986"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787184"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="3a5f0-102">Hibrīds un integrētās meklēšana</span><span class="sxs-lookup"><span data-stu-id="3a5f0-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="78dac-102">Hibrīdā un Federatīvajām meklēšana</span><span class="sxs-lookup"><span data-stu-id="78dac-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="3a5f0-103">Informāciju par hibrīds un integrētās meklēšanas SharePoint Online skatiet [hibrīds meklēšanas SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="3a5f0-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="78dac-103">Lai iegūtu informāciju par hibrīdo un Federatīvajām meklēšanu pakalpojumā SharePoint Online, skatiet rakstu [Hibrīdā meklēšana vidē SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="78dac-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="3a5f0-104">Informāciju par plānošanas hibrīds integrētās meklēšanas skatiet [Plan hibrīds integrētās meklēšanas SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="3a5f0-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="78dac-104">Informāciju par hibrīdās integrētās meklēšanas plānošanu skatiet rakstā [SharePoint Server hibrīdās integrētās meklēšanas](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)plānošana.</span><span class="sxs-lookup"><span data-stu-id="78dac-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
