@@ -1,7 +1,7 @@
 ---
 title: SharePoint kalendāra pievienošana
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 0668ed8270e9b70f17dd7f0cf87386fec95fda99
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911011"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786751"
 ---
 # <a name="add-a-sharepoint-calendar"></a>SharePoint kalendāra pievienošana
 
-SharePoint kalendāri ir klasiskie sarakstu tipi, kurus dažreiz sajauc ar Microsoft 365 grupas kalendāriem.
+SharePoint kalendāri ir klasiski sarakstu tipi, kurus dažreiz mulsina Microsoft 365 grupas kalendāri.
  
-Lai izveidotu SharePoint kalendāru, rīkojieties šādi:
+Lai izveidotu SharePoint kalendāru, veiciet tālāk norādītās darbības.
  
-1.  Izvēlieties **iestatījumu** zobrata ikonu un pēc tam atlasiet **pievienot lietotni**.
-2.  Lodziņā **atrast programmu** meklēšanu ierakstiet **Kalendārs** un nospiediet taustiņu ENTER.
-3.  Atlasiet programmu **Kalendārs**ar nosaukumu un pēc tam ievadiet kalendāra nosaukumu.
+1.  Atlasiet zobrata ikonu **Iestatījumi** un pēc tam atlasiet **Pievienot programmu**.
+2.  Meklēšanas lodziņā **atrast lietojumprogrammu** ierakstiet **Kalendārs** un pēc tam nospiediet taustiņu ENTER.
+3.  Atlasiet programmu ar nosaukumu **Kalendārs**un pēc tam ievadiet sava kalendāra nosaukumu.
 
-Lai iegūtu papildinformāciju par Microsoft 365 grupas, skatiet [Uzziniet par microsoft 365 grupas](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Papildinformāciju par Microsoft 365 grupām skatiet rakstā [informācija par microsoft 365 grupām](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

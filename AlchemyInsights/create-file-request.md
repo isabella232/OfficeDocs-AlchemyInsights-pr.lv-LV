@@ -1,7 +1,7 @@
 ---
 title: Kā izveidot failu pieprasījumu
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 933681a19d8128c49ed1ddf4494b64d46c12a5f9
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235268"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785996"
 ---
 # <a name="how-to-create-a-file-request"></a>Kā izveidot failu pieprasījumu
 
-Izmantojot failu pieprasījuma līdzekli pakalpojumā OneDrive, varat izvēlēties mapi, kurā citi var augšupielādēt failus, lietojot saiti, ko nosūtāt. Lietotāji, kuriem pieprasāt failus, nevar redzēt, kas ir mapē-tie var tikai augšupielādēt failus uz to.
+Failu pieprasījuma līdzeklis pakalpojumā OneDrive ļauj izvēlēties mapi, kurā citi lietotāji var augšupielādēt failus, izmantojot saiti, kuru nosūtāt. Lietotāji, kuri pieprasīs failus, nevar redzēt, kas atrodas mapē — tie var augšupielādēt failus tikai tajā.
 
-**Piezīme**: administratoram jāiespējo [ikviens](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) OneDrive failu pieprasījumus, lai strādātu.
+**Piezīme**. administratoram ir jāiespējo [ikviens saites](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) pakalpojumā OneDrive, lai strādātu ar failu pieprasījumiem.
 
 - Papildinformāciju skatiet rakstā [faila pieprasījuma izveide](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

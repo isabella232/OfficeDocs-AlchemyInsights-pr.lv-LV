@@ -1,7 +1,7 @@
 ---
-title: Atskaite par failu un mapju koplietošanu SharePoint vietnē
-ms.author: v-todmc
-author: todmccoy
+title: Pārskats par failu un mapju koplietošanu SharePoint vietnēs
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693169"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787220"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Atskaite par failu un mapju koplietošanu SharePoint vietnē
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Pārskats par failu un mapju koplietošanu SharePoint vietnēs
 
-Varat izveidot CSV failu, kurā ir detalizēti aprakstīti visi unikālie faili, lietotājs, atļauja un saite attiecīgajā SharePoint vietnē vai OneDrive bibliotēkā. Tas var palīdzēt izprast, kā tiek izmantota koplietošana un vai visi faili un mapes tiek kopīgoti ar viesiem.
+Varat izveidot CSV failu, kurā ir norādīts katrs unikāls fails, lietotājs, atļauja un saite noteiktā SharePoint vietnē vai OneDrive bibliotēkā. Tas var palīdzēt saprast, kā tiek izmantota koplietošana un vai faili vai mapes tiek kopīgoti ar viesiem.
 
-Lai iegūtu papildinformāciju, [ziņojiet par failu un mapju koplietošanu SharePoint vietnē](https://docs.microsoft.com/sharepoint/sharing-reports).
+Lai iegūtu papildinformāciju, [Ziņojiet par failu un mapju koplietošanu SharePoint vietnē](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Šī funkcija pašlaik ir izvietots pirmā release īrniekiem un pakāpeniski izplatot visiem ražošanas nomniekiem.
+> Šis līdzeklis pašlaik ir izvietots pirmā Laidiena nomniekiem, un tas pakāpeniski tiks ieviests visiem ražošanas nomniekiem.

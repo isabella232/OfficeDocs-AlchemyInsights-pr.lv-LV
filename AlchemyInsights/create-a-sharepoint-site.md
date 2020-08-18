@@ -1,7 +1,7 @@
 ---
-title: Izveidot SharePoint vietni
+title: SharePoint vietnes izveide
 ms.author: pebaum
-author: todmccoy
+author: pebaum
 ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: ba682f3c2b2600031f6856621691b1e0fba64113
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770862"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786572"
 ---
-# <a name="create-a-sharepoint-site"></a>Izveidot SharePoint vietni
+# <a name="create-a-sharepoint-site"></a>SharePoint vietnes izveide
 
-Izveidot vai pārvaldīt vietnes no [aktīvās vietnes](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) SharePoint administrēšanas centrs. Papildinformāciju skatiet sadaļā [vietņu pārvaldīšana jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Izveidot vai pārvaldīt vietnes no SharePoint administrēšanas centra [aktīvajām vietnēm](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) . Papildinformāciju skatiet rakstā [vietņu pārvaldība jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
-## <a name="tips"></a>Padomi:
+## <a name="tips"></a>Padomi
 
-- **Nevar** izveidot vietni ar tādu pašu esošas vietnes vietrādi URL. Ja jūs svītrots vietu un vēlas atkārtoti izmantot URL, tas ir iespējams svītrots vietā joprojām pastāv saskaņā [svītrots vietās](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Vietne būs neatgriezeniski jādzēš, lai atkārtoti izmantotu vietrādi URL. Lai pilnībā noņemtu vietni ar PowerShell, skatiet [Noņemt SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet piemērs.
-- Daži lietotāji, iespējams, nevarēs izveidot vietni. [Skatiet pārvaldīt vietnes izveide SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Tas ir iespējams, vietā, šķiet iestrēdzis **radīt** ilgāk, nekā gaidīts. Ja kopš pirmās šīs problēmas instalēšanas ir pagājušas vairāk nekā 24 stundas, lūdzu, piesakieties atbalsta biļetei. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
+- **Nevar** izveidot vietni ar vienu un to pašu savas esošas vietnes vietrādi URL. Ja izdzēšat vietni un vēlaties atkārtoti izmantot vietrādi URL, iespējams, izdzēstās [vietnes](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)joprojām pastāv. Lai atkārtoti izmantotu vietrādi URL, vietne ir jādzēš neatgriezeniski. Lai pilnībā noņemtu vietni, izmantojot PowerShell, skatiet sadaļu [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet piemērs.
+- Daži lietotāji, iespējams, nevarēs izveidot vietni. [Skatiet rakstu vietņu izveides pārvaldība pakalpojumā SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Iespējams, vietne ir iestrēgusi pie **izveidot** ilgāku laiku, nekā paredzēts. Ja kopš pirmoreiz redzējāt šo problēmu, ir pagājušas vairāk nekā 24 stundas, lūdzu, piesakieties atbalsta biļetē. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lai pabeigtu risinājumu, lūdzu, sniedziet mums vismaz 24 stundas.

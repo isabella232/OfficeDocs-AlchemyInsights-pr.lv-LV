@@ -1,7 +1,7 @@
 ---
-title: Aizkave, saņemot SharePoint un OneDrive brīdinājumus
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint un OneDrive brīdinājumu saņemšanas aizkave
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563517"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785672"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Aizkave, saņemot SharePoint un OneDrive brīdinājumus
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint un OneDrive brīdinājumu saņemšanas aizkave
 
-- Vispirms pārbaudiet junk vai spam mapi jūsu e-pastu.
-- Ja **visi brīdinājumi no vairākiem failiem vai bibliotēkām kavējas**, apmeklējiet [pakalpojumu darbspējas informācijas paneli](https://portal.office.com/adminportal/home?ref=/servicehealth) , lai pārbaudītu, vai nav citu konsultācijas/incidentu, kas var rasties ar SharePoint vai Exchange. Problēma var būt ar SharePoint brīdinājuma iespēju vai aizkavēšanos e-pasta ziņojumus, izmantojot Exchange. Ņemiet arī vērā, vai cita e-pasta tiek piegādāts-ja ne, problēma ir iespējama ar Exchange aizkavēšanos.
-- Ja **atsevišķs brīdinājums no konkrēta faila vai bibliotēkas nav piegādāts**, mēģiniet to dzēst un izveidot no jauna. Lai atkārtoti izveidotu brīdinājumu, skatiet sadaļu [SharePoint brīdinājumu pārvaldīšana, skatīšana vai dzēšana](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
+- Vispirms pārbaudiet mapi Nevēlamais e-pasts.
+- Ja **visi brīdinājumi no vairākiem failiem vai bibliotēkām ir aizkavēti**, apmeklējiet [Pakalpojuma darbspējas informācijas paneli](https://portal.office.com/adminportal/home?ref=/servicehealth) , lai noskaidrotu, vai nav konsultantu/starpgadījumu, kas var notikt ar SharePoint vai Exchange. Šī problēma var būt saistīta ar SharePoint brīdinājumu iespējām vai kavējumiem e-pasta ziņojumos, izmantojot Exchange. Ņemiet arī vērā, vai tiek piegādāts cits e-pasta ziņojums — ja tā nav, problēma ir iespējama ar Exchange kavējumiem.
+- Ja **atsevišķa faila vai bibliotēkas brīdinājums nav piegādāts**, mēģiniet to izdzēst un izveidot no jauna. Lai atkārtoti izveidotu brīdinājumu, skatiet rakstu [SharePoint brīdinājumu pārvaldība, skatīšana un dzēšana](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
 
 > [!NOTE]
-> - Brīdinājumus nevar nosūtīt adresātu grupai. Tiek atbalstītas tikai drošības un O365 grupas.
-> - Nevar pielāgot brīdinājuma e-pasta veidnes. Lai sasniegtu šos mērķus, ir jāizmanto Microsoft Flow vai SharePoint Designer darbplūsma.
+> - Brīdinājumus nevar nosūtīt uz adresātu grupu. Tiek atbalstītas tikai drošības un O365 grupas.
+> - Jūs nevarat pielāgot brīdinājuma e-pasta veidnes. Lai sasniegtu šos pakalpojumus, ir jāizmanto Microsoft Flow vai SharePoint Designer darbplūsma.

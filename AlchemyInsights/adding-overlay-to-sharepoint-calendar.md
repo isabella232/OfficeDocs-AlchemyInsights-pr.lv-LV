@@ -1,7 +1,7 @@
 ---
 title: Pārklājuma pievienošana SharePoint kalendāram
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 08b3cc8539e36f1babaa9c6949ac9b71fdae0591
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908855"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786824"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Pārklājuma pievienošana SharePoint kalendāram
 
-SharePoint kalendāri ir klasiskie sarakstu tipi, kurus dažreiz sajauc ar Microsoft 365 grupas kalendāriem.
+SharePoint kalendāri ir klasiski sarakstu tipi, kurus dažreiz mulsina Microsoft 365 grupas kalendāri.
  
-Ja savā vietnē izmantojat SharePoint kalendāru, varat uz to pārklāt savu Exchange kalendāru, lai izveidotu kombinētu kalendāra skatu. Varat arī pārklāt citu SharePoint kalendāru, ja vien SharePoint kalendāri atrodas vienā vietņu kolekcijā.
+Ja savā vietnē izmantojat SharePoint kalendāru, varat pārklāt savu Exchange kalendāru uz to, lai izveidotu apvienotu kalendāra skatu. Vai arī varat pārklāt citu SharePoint kalendāru, kamēr abi SharePoint kalendāri ir vienā vietņu kolekcijā.
  
-Lai pievienotu pārklājumu klasiskajam SharePoint kalendāram, izpildiet darbības, kas norādītas [SharePoint kalendāra pārklājumam ar kalendāru no Exchange vai SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+Lai pievienotu pārklājumu klasiskajam SharePoint kalendāram, izpildiet darbības, kas norādītas sadaļā [SharePoint kalendāra pārklājuma ar kalendāru no Exchange vai SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).

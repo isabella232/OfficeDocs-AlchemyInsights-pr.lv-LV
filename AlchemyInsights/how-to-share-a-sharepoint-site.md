@@ -1,7 +1,7 @@
 ---
-title: Kā koplietot SharePoint vietni
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint vietnes kopīgošana
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 61f24094e88745421f2e2885ec2ff03045fd9f07
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763368"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787292"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a>Kā koplietot SharePoint vietni
+# <a name="how-to-share-a-sharepoint-site"></a>SharePoint vietnes kopīgošana
 
-Ja esat vietnes īpašnieks, varat piešķirt citām personām piekļuvi vietnei, pievienojot tās kā īpašniekus, dalībniekus vai apmeklētājus. ([Vai vēlaties tā vietā kopīgot failu vai mapi?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
+Ja esat vietnes īpašnieks, varat piešķirt citām personām piekļuvi vietnei, pievienojot tās kā īpašniekus, dalībniekus vai apmeklētājus. ([Vai vēlaties kopīgot failu vai mapi?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
 
 [Vietnes kopīgošana](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
