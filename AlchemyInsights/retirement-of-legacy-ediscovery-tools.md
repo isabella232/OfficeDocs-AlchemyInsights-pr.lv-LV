@@ -1,5 +1,5 @@
 ---
-title: Iepriekšējās paaudzes eDiscovery rīku norakstīšanas
+title: Veco e-datu atklāšanas rīku vecums
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650575"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902627"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Iepriekšējās paaudzes eDiscovery rīku norakstīšanas
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Veco e-datu atklāšanas rīku vecums
 
-Jaunā un uzlabotā e-datu atklāšanas funkcionalitātes rezultātā Microsoft 365 atbilstības centrā šādas mantotās eDiscovery rīki un commandlets tiks pensijā nākamajos mēnešos:
+Jaunajā un uzlabotajā e-datu atklāšanas funkcionalitātē Microsoft 365 atbilstības centrā tālāk norādītie mantotie e-datu atklāšanas rīki un commandlets būs novecojuši.
 
-- [In-place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) un [oriģinālu tur](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Exchange administrēšanas centrs.
+- Oriģinālu [e-datu atklāšanu](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) un [oriģinālu turēšanu](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Exchange administrēšanas centrā.
 
-- Exchange Online PowerShell cmdlet, kas atbalsta in-place eDiscovery un oriģinālu tur. (Šie cmdlets kopīgi identificē kā * MailboxSearch cmdlet.) Tas ietver šādu cmdlet:
+- Exchange Online PowerShell cmdlet, kas atbalsta oriģinālu e-datu atklāšanu un oriģinālu turēšanu. (Šīs cmdlet tiek kopīgi identificētas kā *-MailboxSearch cmdlet.) Tas ietver šādas cmdlet:
 
-    - [Jauns MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Sākuma MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Kopa MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Sākums — MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Pārtraukt-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Meklēšanas pastkasti](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet Exchange Online PowerShell.
-- Exchange tīmekļa pakalpojumos API šādas darbības:
-    - [Getsearchablepastkastēm](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [Setholdonpastkastēm](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [Getholdonpastkastēm](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- [Meklēšanas-pastkastes](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet pakalpojumā Exchange Online PowerShell.
+- Tālāk norādītās darbības Exchange tīmekļa pakalpojumu API.
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Uzlabots e-datu atklāšanas v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Pensionēšanās grafiks**:
-- April 1, 2020: jūs nevarēsiet izveidot jaunu meklēšanu un tilpnēs, bet jūs joprojām varat palaist, rediģēt un dzēst esošo meklēšanu uz savu risku. Microsoft Support vairs neatbalsta in-place eDiscovery & pieder EAC.
+**Pensijas laika grafiks**:
+- **2020. gada 1. jūlijs** Jūs vairs nevarat izveidot jaunus meklēšanas un aizturēšanas, bet jūs pats varat veikt, rediģēt un dzēst esošos meklēšanas rezultātus. Microsoft atbalsts vairs neatbalsta e-datu atklāšanu, & ir iekļauta EAC.
+    
+- **2020. gada 1. oktobris** Atrašanās vietas e-datu atklāšanas &ā EAC funkcionalitāte tiek iekļauta tikai lasīšanas režīmā, tāpēc varat noņemt tikai esošos meklēšanas rezultātus un aizturēšanas.
 
-- Jūlijs 1, 2020: In-Place eDiscovery & tur funkcionalitāti EAC tiks ievietots tikai lasīšanas režīmā. Tas nozīmē, ka varēsit noņemt tikai esošos meklēšanas vaicājumus un aizturēšanas.
+Papildinformāciju **skatiet rakstā**:
 
-Papildinformāciju **skatiet**:
-
- - [Mantotā eDiscovery meklēšanas un aizturēšanas migrēt uz Microsoft 365 atbilstības centrs](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Iepriekšējās paaudzes eDiscovery rīku norakstīšanas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [BUJ par in-place eDiscovery un oriģinālu tur](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Mantoto e-datu atklāšanas meklēšana un aizturēšana uz Microsoft 365 atbilstības centru](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Veco e-datu atklāšanas rīku vecums](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Bieži uzdotie jautājumi par oriģinālu e-datu atklāšanu un oriģinālu turēšanu](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
