@@ -1,5 +1,5 @@
 ---
-title: Privātais kanāls
+title: Privāts kanāls
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005445"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316206"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privāti kanāli Microsoft Teams
+# <a name="private-channels-in-microsoft-teams"></a>Privātie kanāli pakalpojumā Microsoft Teams
 
-Privātie kanāli ir jauns Microsoft Teams līdzeklis. Ņemiet vērā, ka privātos kanālus nevar pārveidot no standarta kanāliem vai otrādi.
+Privātie kanāli pakalpojumā Microsoft Teams izveido koncentrēšanās telpu sadarbībai jūsu komandās. Kanālam var piekļūt tikai tie grupas lietotāji, kas ir privātā kanāla īpašnieki vai dalībnieki. Privātam kanālam var pievienot ikvienu grupas dalībnieku, tai skaitā viesi.
 
-Plašāku informāciju par privātiem kanāliem, piemēram, informāciju par [privātā kanāla izveidi un dalību](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) un [privātā kanāla SharePoint vietnēm](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)skatiet sadaļā [privātie kanāli Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+Papildinformāciju skatiet [rakstā privātie kanāli pakalpojumā Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Šeit iekļauta tāda informācija kā [privātas kanālu izveide,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) kā arī dalība un [privāto kanālu SharePoint vietnes](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**Piezīme:** Tā kā konfigurācija privāto kanālu ziņojumu saglabāšanai vēl netiek atbalstīta, nomniekiem ar iespējotu saglabāšanas politiku nav privātu kanālu, kas ir aktivizēti pēc noklusējuma. Privātos kanālus var iespējot komandu administrēšanas centrā. Ņemiet arī vērā, ka privātā kanāla ziņojumu saglabāšana netiek atbalstīta, tiek atbalstīta failu, kas kopīgoti privātos kanālos, saglabāšana.
+**Vai vēlaties izveidot jaunu grupas īpašnieku?**
 
-**Nepieciešams jauns komandas īpašnieks?**
+Ja jūsu privātais kanāla īpašnieks pamet organizāciju vai ir noņemts no grupas, privāta kanāla dalībnieks tiek automātiski paaugstināts par privātu kanāla īpašnieku.
 
-Ja jūsu privātā kanāla īpašnieks atstāj, varat pievienot jaunu komandas īpašnieku, izmantojot komandu PowerShell.
-
-
-- Dodieties [šeit](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) , lai instalētu komandu PowerShell.
-
-Šeit ir cmdlet jums būs nepieciešams:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Lai iegūtu papildinformāciju par komandu PowerShell, skatiet [darba grupas PowerShell pārskats](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Administratori var arī skatīt rakstā [privātu kanālu dzīves cikla pārvaldība pakalpojumā Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , lai uzzinātu vairāk par politikām, kas ļauj pārvaldīt personas, kas var izveidot privātus kanālus, kā arī veidus, kā palīdzēt izveidot e-datu atklāšanas vai juridisko piederumu vaicājumus.

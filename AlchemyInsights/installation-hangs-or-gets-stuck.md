@@ -1,5 +1,5 @@
 ---
-title: Instalēšana uzkaras vai iesprūst
+title: Instalēšana uzkaras vai iestrēgst
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 272f4d7ccaeb09b241ba1647996d456f6f159576
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763271"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300719"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office instalācija uzkaras vai iesprūst
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office instalēšana uzkaras vai iestrēgst
 
-Šī darbība var tikt parādīts tīkla savienojamības, pretvīrusu programmatūras vai Windows Update iestatījumu dēļ datorā. Tālāk ir norādītas dažas darbības, ko varat izmēģināt, lai novērstu problēmu.
+Iespējams, redzēsit šo darbību tīkla savienojamības, pretvīrusu programmatūras vai Windows atjaunināšanas iestatījumu dēļ datorā. Tālāk ir norādītas dažas darbības, kuras varat veikt, lai novērstu šo problēmu.
   
-- Restartējiet datoru un pārbaudiet, vai ir instalēta Office
+- Restartējiet datoru un pārbaudiet, vai sistēma Office ir instalēta
 
-- Vadu savienojuma izmantošana
+- Vadu savienojuma lietošana
 
-- Ja izmantojat lēnu interneta savienojumu, instalējiet Office, [izmantojot Office bezsaistes instalēšanas](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) programmu
+- Ja jums ir lēns interneta savienojums, instalējiet Office, [izmantojot Office bezsaistes instalēšanas programmu](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Pretvīrusu programmatūras īslaicīgi izslēgšana
+- Pretvīrusu programmatūras īslaicīga izslēgšana
 
-- Palaist tiešsaistes labošanu no vadības paneļa
+- Palaidiet tiešsaistes labošanu no vadības paneļa
 
-- Noņemiet un pārinstalējiet Office
+- Office noņemšana un pārinstalēšana
 
-[Office aizņem daudz vietas, lai instalētu](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office instalēšana notiek ilgi](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
