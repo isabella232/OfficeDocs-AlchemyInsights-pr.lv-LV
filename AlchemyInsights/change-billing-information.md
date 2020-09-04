@@ -1,8 +1,8 @@
 ---
 title: Mainīt norēķinu informāciju
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002555"
 - "4942"
-ms.openlocfilehash: ddd37c4d2faf2e779b21f9b2dc8c29a9a9fb75f9
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 2b37a0078f617f86b203d0b364f183d87b9db34d
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799413"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364666"
 ---
 # <a name="change-billing-information"></a>Mainīt norēķinu informāciju
 
 Norēķinu informāciju varat mainīt Microsoft 365 administrēšanas centrā. 
 
 - Norēķinu [adreses maiņa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
-- Mainiet savu [maksāšanas metodi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) un to, kā [maksājat par abonementu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
-- Mainiet [maksājumu biežumu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) uz ikmēneša vai gada maksu.
+- Mainiet savu [maksāšanas metodi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) un to, kā [maksājat par abonementu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+- Mainiet [norēķinu biežumu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) uz reizi mēnesī vai reizi gadā.
 - Pārvaldiet savus [norēķinu profilus](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles).

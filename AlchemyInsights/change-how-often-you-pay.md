@@ -1,8 +1,8 @@
 ---
-title: Mainīt to, cik bieži maksājat
+title: Apmaksas biežuma maiņa
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939662"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364594"
 ---
-# <a name="change-how-often-you-pay"></a>Mainīt to, cik bieži maksājat
+# <a name="change-how-often-you-pay"></a>Apmaksas biežuma maiņa
 
-Lai mainītu to, cik bieži jums tiek izrakstīts rēķins un maksājot par abonementu, izpildiet tālāk norādītās darbības Microsoft 365 administrēšanas centrā. 
-1. Dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Atrodiet abonementu, kuru vēlaties mainīt. Sadaļā **norēķini** blakus **izrakstīti ikmēneša rēķini** vai rēķini, kas tiek **izrakstīti katru gadu**, noklikšķiniet uz **Rediģēt**. 
-3. Izvēlieties opciju, cik bieži vēlaties izrakstīt rēķinus, un pēc tam noklikšķiniet uz **mainīt**.
+Lai mainītu, cik bieži jūs veicat rēķinu un maksājat par abonementu, veiciet tālāk norādītās darbības Microsoft 365 administrēšanas centrā.
+
+1. Dodieties uz lapu **Billing**  >  [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Cilnē **produkti** atlasiet abonementu, kuru vēlaties mainīt. 
+3. Lapas detalizēta informācija par abonementu sadaļā **abonementa un maksāšanas iestatījumi** atlasiet **Rediģēt norēķinu biežumu**.
+4. Rūtī **norēķinu biežuma rediģēšana** shoose opciju, cik bieži vēlaties saņemt rēķinu, un pēc tam atlasiet **mainīt**.
 
 **Piezīme**: mēneša vai gada norēķini ir vienīgās opcijas.
 
-Papildinformāciju skatiet rakstā [maksājuma biežuma mainīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+Papildinformāciju skatiet rakstā [Norēķinu biežuma maiņa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

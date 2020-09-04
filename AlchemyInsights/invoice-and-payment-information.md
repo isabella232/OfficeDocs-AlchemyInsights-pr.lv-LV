@@ -1,8 +1,8 @@
 ---
-title: Rēķinu un maksājumu informācija
+title: Rēķina un maksājumu informācija
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579980"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364774"
 ---
-# <a name="invoice-and-payment-information"></a>Rēķinu un maksājumu informācija
+# <a name="invoice-and-payment-information"></a>Rēķina un maksājumu informācija
 
-**Maksājumu**
+**Maksāšanas**
 
-Iegādājoties Microsoft 365 darbam abonementu tieši no korporācijas Microsoft, varat maksāt ar kredītkarti vai debetkarti.  Dažās valstīs/reģionos varat norēķināties arī ar bankas kontu.  Varat uzzināt, kā pārvaldīt un novērst šīs maksājumu metodes [, pievienojot, atjauninot vai noņemot kredītkarti vai citu maksāšanas metodi Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2118133)uzņēmumiem.  Tas ietver problēmu novēršanu, kad jūsu kredītkarte ir noraidīta un atjaunina maksājuma informāciju.
+Kad iegādājaties Microsoft 365 for Business abonementu tieši no Microsoft, varat maksāt ar kredītkarti vai debetkarti.  Dažās valstīs/reģionos jūs varat arī maksāt ar bankas kontu.  Varat uzzināt, kā pārvaldīt un novērst šīs maksāšanas metodes, [Pārvaldīt maksājumu metodes](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Tas ietver problēmu novēršanu, ja kredītkarte ir noraidīta un tiek atjaunināta maksājuma informācija.
 
-**Rēķinu/rēķinu**
+**Rēķins/Rēķins**
 
-Rēķinus varat atrast un lejupielādēt rēķinu **izrakstīšanas > [rēķinos & maksājumu](https://go.microsoft.com/fwlink/p/?linkid=848039) ** lapā.  
+Varat atrast un lejupielādēt **rēķinus rēķinu rēķinos**  >  [& maksājumu](https://go.microsoft.com/fwlink/p/?linkid=848039) lapā.  
 
-**Piezīmes**: ja nav redzami rēķini, iespējams, būs jāpielāgo datumu diapazona filtrs.  Pēc noklusējuma tiek parādīti rēķinu pēdējie 3 mēneši.
+**Piezīme**. Ja neviens rēķins nav redzams, iespējams, ir jāpielāgo datumu diapazona filtrs.  Pēc noklusējuma tiek parādīti pēdējo 3 mēnešu rēķini.
 
-Rēķini tiek veidoti reizi mēnesī vai reizi gadā atkarībā no pirkuma laikā izvēlētā maksājuma biežuma.  Ja maksājat katru gadu, jūs varat saņemt rēķinu termiņa vidusposma, pievienojot vai noņemot licences abonementu.
- 
-- Papildinformāciju skatiet rakstā [izpratne par Microsoft 365 rēķinu uzņēmumiem](https://go.microsoft.com/fwlink/?linkid=2119101).
+Rēķini tiek izveidoti reizi mēnesī vai reizi gadā atkarībā no norēķinu biežuma, kas izvēlēts iegādes laikā.  Ja maksājat ik gadu, tad, pievienojot vai noņemot licences abonementam, var tikt parādīts rēķina VIDUSPOSMS.
+
+- Lai iegūtu papildinformāciju, skatiet rakstu informācija [par Microsoft 365 for Business rēķinu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
