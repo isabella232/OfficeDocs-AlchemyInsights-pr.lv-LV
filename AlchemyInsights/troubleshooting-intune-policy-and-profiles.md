@@ -1,5 +1,5 @@
 ---
-title: InTune politikas un profilu problēmu novēršana
+title: Intune politikas un profilu problēmu novēršana
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766680"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406297"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Problēmu novēršana InTune politika un profili
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Intune politikas un profilu problēmu novēršana
 
-Lai skatītu esošās politikas, novērstu konfliktus, pārskatītu žurnāla datus un skatītu bieži uzdotos jautājumus un problēmas, var palīdzēt šādas rokasgrāmatas.
+Lai skatītu esošās politikas, novērstu konfliktus, pārskatītu žurnālfailus un skatītu biežāk uzdotos jautājumus un problēmas, var palīdzēt tālāk norādītās palīglīnijas.
 
-- [Problēmu novēršana politikas un profili InTune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Problēmu novēršana saistībā ar politikas un profiliem pakalpojumā Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Bieži uzdotie jautājumi, problēmas un risinājumi ar ierīču politikas un profili InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Bieži uzdotie jautājumi, problēmas un risinājumi ar ierīču politikām un profiliem sistēmā Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Monitora ierīces konfigurācijas profili un skatīt konfliktus InTune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Ierīču konfigurācijas profilu pārraudzība un konfliktu skatīšana Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Ierīču atbilstības un ierobežotas piekļuves InTune problēmu novēršana](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Problēmu novēršana saistībā ar ierīču atbilstību un ierobežotu piekļuvi Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Atbilstības politikas un skatīt konfliktus InTune pārraudzība](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Pārbaudīt atbilstības politikas un skatīt konfliktus Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Nosūtīt InTune žurnāla datus Azure krātuvē, notikumu centrmezgli vai žurnāla analīze](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Intune žurnālu datu nosūtīšana Azure Storage, Event centrmezglos vai žurnālu analīzē](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
 Skatiet pārskatu, lai [konfigurētu ierīces](https://docs.microsoft.com/intune/device-profiles) vai [izmantotu atbilstības politikas](https://docs.microsoft.com/intune/device-compliance-get-started).

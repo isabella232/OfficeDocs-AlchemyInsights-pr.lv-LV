@@ -1,5 +1,5 @@
 ---
-title: Iniciatore
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157643"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406333"
 ---
-# <a name="mover"></a>Iniciatore
+# <a name="mover"></a>Mover
 
-Oktobrī 21, 2019, Microsoft ieguvis **mover**, vadošais mākonis failu migrācija.
+2019. gada 21. oktobrī Microsoft ieguva  **pļāvēju**, kas ir vadošais mākoņa failu migrēšanas nodrošinātājs.
 
-Lai iegūtu vairāk informācijas par mover, lūdzu, norādi uz šādiem pantiem:
+Pašlaik, [Lūdzu, sniedziet atbalsta pieprasījumus](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [Mover migrācijas ceļveži](https://mover.io/guides/)
-- [Bieži uzdotie jautājumi par vispārējo migrāciju](https://mover.io/guides/general/)
-- [Mover savienotāji](https://mover.io/connectors/)
+Papildinformāciju par iniciatoru skatiet šajos rakstos:
 
-Pēc pašreizējā laika, **Lūdzu, novirzīt visus atbalsta pieprasījumus** [Support@mover.io](mailto:support@mover.io) palīdzību ar produktu. 
-
- 
+- [Iniciatora migrācijas palīglīnijas](https://mover.io/guides/)
+- [Biežāk uzdotie jautājumi par vispārēju migrāciju](https://mover.io/guides/general/)
