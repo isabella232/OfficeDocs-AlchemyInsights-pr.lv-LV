@@ -1,9 +1,10 @@
 ---
-title: Modernu vietni kā saknes vietni
+title: Mūsdienīga vietne kā saknes vietne
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ms.date: 04/21/2020
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -11,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 0388f95e2b7815dcbbb6aca200f44e55e9c5724f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713798"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666877"
 ---
-# <a name="modern-site-as-root-site"></a>Modern site kā root site
+# <a name="modern-site-as-root-site"></a>Mūsdienīga vietne kā saknes vietne
 
-Mēs esam sākuši izvēršu jaunu funkciju, kas ļaus jums [apmainīt savu klasisko vietnes saknes vietni ar modernu vietni](https://docs.microsoft.com/sharepoint/modern-root-site). Izmantojiet [invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) apmainīt vietu vietā ar citu vietu, kamēr arhivējot sākotnējā vietā. Pieejams gan grupas vietne (nav savienota ar grupu), gan saziņas vietne.
+Ir sākta jauna līdzekļa izvēršana, kas ļaus [mainīt klasisko vietnes saknes vietni ar mūsdienīgu vietni](https://docs.microsoft.com/sharepoint/modern-root-site). Izmantojiet [izsauciet-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) , lai apmainītu vietnes atrašanās vietu ar citu vietni, kamēr tiek arhivēta sākotnējā vietne. Pieejams gan grupas vietnei (nav savienots ar grupu), gan saziņas vietnē.
 
 >[!Important]
-> Neizdzēsiet klasisko saknes vietni, lai izveidotu modernu saziņas vietni. Microsoft to neatbalsta. Dzēšot saknes vietni, visas SharePoint vietnes jūsu organizācijā nebūs pieejamas visiem lietotājiem, kamēr neatjaunosit vietni vai neizveidojat jaunu vietni ar tādu pašu vietrādi URL. Mēs sazināsim šo funkciju, izmantojot ziņu centru. Jums vajadzētu sagaidīt līdzeklis ir ieslēgts jūsu nomnieka drīzumā.
+> Nedzēsiet savu klasisko saknes vietni, lai izveidotu mūsdienīgu saziņas vietni. To neatbalsta korporācija Microsoft. Dzēšot saknes vietni, visas SharePoint vietnes jūsu organizācijā kļūst nepieejamas visiem lietotājiem, līdz atjaunojat vietni vai izveidojat jaunu vietni tajā pašā vietrādī URL. Mēs sazināsimies šo līdzekli, izmantojot ziņojumu centru. Drīzumā būs nepieciešams ieslēgt līdzekli savā nomniekā.
 
-## <a name="known-issues-with-swapping-sites"></a>Zināmās problēmas, kas saistītas ar vietņu pārnešana
-- Mērķa vietā var atgriezt "nav atrasts" (HTTP 404) kļūda īsā laika periodā.
-- Saturs būs nepieciešams, lai atjauninātu meklēšanas indeksu. Šeit nav manuālas darbības, tas tiks izdarīts automātiski.
-- Kaut kas atkarīgs no "statiskā" saites (piemēram, failu sinhronizācija un OneNote faili) būs nepieciešams manuāli jālabo.
-- Project Server vietnes var būt nepieciešams validēt, lai pārliecinātos, ka tie joprojām ir saistīti pareizi. 
+## <a name="known-issues-with-swapping-sites"></a>Zināmās problēmas ar pārnešanas vietnēm
+- Lai īsā laika periodā varētu tikt parādīta kļūda "nav atrasta" (HTTP 404).
+- Lai atjauninātu meklēšanas indeksu, saturs ir jāpārmeklē. Šeit nav manuālas darbības, tas tiks veikts automātiski.
+- Viss, kas ir atkarīgs no nemainīgajām saitēm (piemēram, failu sinhronizācijas un OneNote failiem), būs manuāli jālabo.
+- Project Server vietnes, iespējams, ir jāvalidē, lai pārliecinātos, vai tās joprojām ir saistītas pareizi. 

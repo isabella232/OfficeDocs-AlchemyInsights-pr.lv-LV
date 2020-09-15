@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: a0e1d87620265f1bba133b571aa218bec3163366
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625887"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668389"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Aktivizējot jaunu ierīci, kurā darbojas Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>Jaunas ierīces, kurā darbojas operētājsistēma Windows 10, aktivizēšana
 
-Ja iegādājāties jaunu ierīci, kurā darbojas operētājsistēma Windows 10, tā tiks automātiski aktivizēta, kad pieslēgsit ierīci internetam. Ja aktivizācijas serveri ir aizņemti, iespējams, būs jāgaida, kamēr sistēma Windows jāaktivizē.
+Ja esat iegādājies jaunu ierīci, kurā darbojas operētājsistēma Windows 10, tā tiks automātiski aktivizēta, kad savienojat ierīci ar internetu. Ja aktivizēšanas serveri ir aizņemti, iespējams, būs jāgaida, kamēr sistēmai Windows ir jāaktivizē.
 
-Lai pārbaudītu aktivizācijas statusu, izvēlieties **Sākt** **iestatījumu** > **atjaunināšanu & drošības** > **aktivizēšanu**.
+Lai pārbaudītu aktivizācijas statusu, izvēlieties **Sākt** **iestatījumu**  >  **atjaunināšanu & drošības**  >  **aktivizēšana**.
 
-**Piezīme:** Dažos gadījumos, iespējams, vajadzēs ievadīt Windows 10 produkta atslēgu, ko saņēmāt kopā ar ierīces iepakojumu, vai iekļaut to kā karti vai autentiskuma sertifikātā (COA), kas pievienots ierīcei.
+**Piezīme:** Dažos gadījumos, iespējams, būs jāievada Windows 10 produkta atslēga, kas pievienota ierīces iepakojumam, vai ir iekļauta ierīcei piestiprinātā kartītē vai autentiskuma sertifikātā (COA).
 
-[Papildinformācija par aktivizēšanu operētājsistēmā Windows 10](https://support.microsoft.com/help/12440)
+[Papildinformācija par aktivizāciju operētājsistēmā Windows 10](https://support.microsoft.com/help/12440)
