@@ -1,21 +1,22 @@
 ---
-title: Dynamics 365 rediģējamais režģa tastatūras īsinājumtaustiņi
+title: Dynamics 365 rediģējami režģa īsinājumtaustiņi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: 030190352426de39cda53be3429e7bb8c2c42000
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64ff0eb9ceaea22921cf1817139988123c9d5a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36529098"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678295"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="f4bc1-102">Dynamics 365 rediģējamais režģa tastatūras īsinājumtaustiņi</span><span class="sxs-lookup"><span data-stu-id="f4bc1-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="b6630-102">Dynamics 365 rediģējami režģa īsinājumtaustiņi</span><span class="sxs-lookup"><span data-stu-id="b6630-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
 
-* [<span data-ttu-id="f4bc1-103">Rediģējamais režģa tastatūras īsinājumtaustiņi</span><span class="sxs-lookup"><span data-stu-id="f4bc1-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="b6630-103">Rediģējami režģa īsinājumtaustiņi</span><span class="sxs-lookup"><span data-stu-id="b6630-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
