@@ -5,36 +5,37 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713725"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702910"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Ierobežotas pieejamības pārraudzība Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Ierobežotas piekļuves Exchange pārraudzība
 
-Lietotāji, kuriem ir ierobežotas piekļuves tiesības, saņems e-pasta paziņojumu, ja tie neatbilst jūsu organizācijas piekļuves prasībām. Lai atrisinātu problēmu, iesakām izmantot vienu vai vairākus no šiem risinājumiem:
+Lietotāji, kuru mērķis ir ierobežotas piekļuves tiesības, saņem paziņojumu e-pasta ziņojumu, ja tie neatbilst jūsu organizācijas piekļuves prasībām. Lai atrisinātu šo problēmu, iesakām vienu vai vairākus no šiem risinājumiem:
   
-- Ja tiek uzskatīts, ka ierīce ir reģistrēta, ieteikt lietotājam doties uz uzņēmuma portāla lietojumprogrammu un pārliecināties, ka tā parādās uzņēmuma portālā. Ja tā nav, lietotājam vajadzētu uzņemt ierīci.
+- Ja ierīce ir uzskatāma par piereģistrētu, informējiet lietotāju, ka esat pieteicies uzņēmuma portāla programmā, un pārbaudiet, vai tā ir redzama uzņēmuma portālā. Ja tā nav, lietotājam ir jāreģistrē ierīce.
     
-- Azure portālā atveriet ** \> InTune ierīces atbilstību**. Sadaļā **monitors** noklikšķiniet uz **ierīces atbilstība**. Skatiet ierīces atbilstības pārskatu, lai pārbaudītu, vai lietotāja ierīce ir atzīmēta kā atbilstoša. 
+- Azure portālā dodieties uz **Intune \> ierīces atbilstība**. Sadaļā **monitora** noklikšķiniet uz **ierīces atbilstība**. Skatīt ierīces atbilstības atskaiti, lai pārliecinātos, vai lietotāja ierīce ir atzīmēta kā atbilstoša. 
     
-- Azure portālā atveriet ** \> InTune ierīces atbilstību**. Zem **pārvaldīt**noklikšķiniet uz **politikas**. Atbilstības politiku sarakstā pārbaudiet, vai lietotāja ierīcei ir piešķirts profils. Ja profils nav piešķirts, InTune nevarēs apstiprināt ierīces atbilstības statusu. 
+- Azure portālā dodieties uz **Intune \> ierīces atbilstība**. Sadaļā **pārvaldība**noklikšķiniet uz **politikas**. Atbilstības politiku sarakstā pārbaudiet, vai profils ir piešķirts jūsu lietotāja ierīcei. Ja nav piešķirts neviens profils, Intune nevarēs apstiprināt ierīces atbilstības statusu. 
     
-- Rediģējiet lietotāja ierobežotas piekļuves piešķiri.
+- Rediģējiet lietotāja nosacījuma piekļuves uzdevumu.
     
-1. Azure portālā atveriet **InTune \> ierobežotas piekļuves \> politikas**
+1. Azure portālā dodieties uz **Intune \> ierobežotas piekļuves \> politikas**
     
 2. Atlasiet politiku no saraksta
     
 3. Noklikšķiniet uz **lietotāji un grupas**
     
-4. Lai adresēt noteiktu politiku kādam, pievienojiet tos sarakstam **iekļaut** . Lai nodrošinātu, ka no politikas tiek izlaista kāda persona, pievienojiet tās **izņēmumu** sarakstam. 
+4. Lai noteiktu konkrētu politiku, pievienojiet to sarakstam **iekļaut** . Lai nodrošinātu to, ka politika nav izlaista, pievienojiet tās sarakstam **neiekļaut** . 
     
-Lasīt tālāk: [kā pārraudzīt ierobežotas piekļuves ierīces](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Lasiet vēl: [kā pārraudzīt ierobežotas piekļuves ierīces](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 
