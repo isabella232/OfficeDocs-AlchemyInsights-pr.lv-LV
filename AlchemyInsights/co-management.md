@@ -1,38 +1,39 @@
 ---
-title: Līdzpārvaldības
+title: Sadarbība
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770898"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681267"
 ---
-# <a name="co-management"></a>Līdzpārvaldības
+# <a name="co-management"></a>Sadarbība
 
-**Priekšnosacījumi migrēšana no config Manager hibrīds InTune**
+**Priekšnosacījumi migrēšanai no konfigurācijas pārvaldnieka Hibrīdā uz Intune**
 
 - Pārskatiet [šo rakstu](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Pievienojiet InTune licenci lietotājiem](https://docs.microsoft.com/intune/licenses-assign).
-- Izmantojiet [Edge pārlūku](https://www.microsoft.com/windows/microsoft-edge) , konfigurējot sadarbību.
+- [Pievienojiet Intune licenci saviem lietotājiem](https://docs.microsoft.com/intune/licenses-assign).
+- Konfigurējot līdzpārvaldību, izmantojiet [Edge pārlūkprogrammu](https://www.microsoft.com/windows/microsoft-edge) .
 
-**Kā instalēt klienta konfigurācijas pārvaldnieks InTune pārvaldītās ierīces**
+**Kā es varu instalēt konfigurācijas pārvaldnieka klientu Intune pārvaldītās ierīcēs**
 
-Skatiet [INTUNE MDM pārvaldības Windows ierīces](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Skatiet sadaļu [INTUNE MDM pārvaldītās Windows ierīces](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Kā rīkoties, ja es tikai vēlos mainīt MDM iestādi?**
+**Kā rīkoties, ja vēlos mainīt MDM iestādi?**
 
-MDM iestādi var mainīt, neatverot atbalsta pieteikumu. Lūdzu, pārskatiet šo dokumentāciju, lai palīdzētu mainīt MDM iestādi:
+MDM pilnvaras var mainīt, neatverot atbalsta lietu. Lai palīdzētu mainīt MDM iestādi, lūdzu, pārskatiet šo dokumentu:
 
-- [Mainīt MDM pilnvaras no Configuration Manager InTune savrupo](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Mainīt MDM iestādes no InTune standalone konfigurācijas pārvaldnieks](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [MDM iestādes mainīšana no konfigurācijas pārvaldnieka uz Intune savrupo versiju](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [MDM iestādes maiņa no Intune Standalone uz konfigurācijas pārvaldnieku](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

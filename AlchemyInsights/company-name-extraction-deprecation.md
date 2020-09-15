@@ -1,29 +1,30 @@
 ---
-title: Uzņēmuma nosaukuma izgūšanas izslēgšanas pārtraukšana
+title: Uzņēmuma nosaukuma izvilkšanas izslēgšana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469278"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681015"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Uzņēmuma nosaukuma izgūšanas SharePoint Online izmaiņas
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Izmaiņas uzņēmuma nosaukumu izgūšanas pakalpojumā SharePoint Online
 
-Sākot no 15 novembris 2019, mēs [noņemot uzņēmuma nosaukumu iegūšana no SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Uzņēmuma nosaukuma izgūšana programmā SharePoint ļauj meklēšanas sistēmai izgūt uzņēmumu nosaukumus no satura ar noteiktu nosacījumu kopu, izmantojot iepriekš aizpildītu vārdnīcu vai izmantojot uzņēmuma iekļaušanu vai uzņēmumu izslēgšanas sarakstus. Kaut arī uzņēmuma nosaukuma izgūšana ir kļuvusi par pierastu risinājumu, lai iegūtu vienu vai vairākus uzņēmuma nosaukumus no satura SharePoint Online, gan vārdnīca, gan tās pamatā esošā iezīme ir novecojušas.
+Sākot ar 15. novembri, 2019, mēs [noņemam uzņēmuma nosaukuma izgūšanu no SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Uzņēmuma nosaukuma izvilkšana vidē SharePoint ļauj meklēšanas sistēmai izvilkt uzņēmumu nosaukumus no satura saskaņā ar noteiktu nosacījumu kopu, izmantojot iepriekš aizpildītu vārdnīcu vai izmantojot sarakstu uzņēmumu iekļaušana vai uzņēmumu izslēgšanu. Kamēr uzņēmuma nosaukumu izgūšana ir kļuvusi par risinājumu, kas tiek izmantots, lai iegūtu vienu vai vairākus uzņēmumu nosaukumus no satura pakalpojumā SharePoint Online, gan vārdnīca, gan tās pamata līdzekļu kopa ir novecojusi.
 
-- [Kā es varu zināt, vai uzņēmuma nosaukuma izgūšana ir iespējota rekvizītam?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Kā uzzināt, vai rekvizītā ir iespējota uzņēmuma nosaukuma izvilkšana?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Kas notiek, ja uzņēmuma nosaukuma izgūšana ir novecojusi?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Kas notiek, ja uzņēmuma nosaukumu izvilkšana ir novecojusi?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Vai ir alternatīvas uzņēmuma nosaukuma iegūšanai?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Vai uzņēmuma nosaukumu izvilkšanas alternatīvas ir pieejamas?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
