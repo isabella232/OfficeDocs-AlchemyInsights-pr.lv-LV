@@ -1,32 +1,33 @@
 ---
-title: Koplietot saziņas vietni ar ārējiem lietotājiem
+title: Saziņas vietnes koplietošana ar ārējiem lietotājiem
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767508"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653772"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Koplietot saziņas vietni ar ārējiem lietotājiem
+# <a name="share-a-communication-site-with-external-users"></a>Saziņas vietnes koplietošana ar ārējiem lietotājiem
 
-Lai ieslēgtu ārējo lietotāju koplietošanu saziņas vietnēm, rīkojieties šādi: 
+Lai saziņas vietnēm ieslēgtu ārējo lietotāju koplietošanu, veiciet tālāk norādītās darbības. 
   
-1. Atveriet **Modern admin Center** -ja jūs ar klasisko admin centrs jūs redzēsiet **Izmēģiniet tagad** vai * * izmēģiniet preview * * pogas augšējā labajā stūrī. Tas jūs uz mūsdienu admin centru. 
+1. Atveriet **moderno administrēšanas centru** — ja atrodaties klasiskajā administrēšanas centrā, jūs redzēsit **to izmēģināt tūlīt** vai * * izmēģiniet priekšskatījuma * * pogu no augšējā labajā stūrī. Tādējādi tiks atvērta modernā administrēšanas centrā. 
   
 2. Atlasiet **aktīvās vietnes.**
   
-3. Atlasiet vietni, kurai ir **Saziņas vietnes veidne**. 
+3. Atlasiet vietni, kurā ir **Saziņas vietnes veidne**. 
   
-4. Augšējā izvēlnē atlasiet pogu **koplietošana** . 
+4. Augšējā izvēlnē atlasiet pogu **kopīgot** . 
   
- **Piezīme:** Ja ir atlasīta vairāk nekā viena vietne, poga **koplietošana** tiks rādīta kā atspējota. Atlasiet tikai vienu vietu. 
+ **Piezīme:** Ja ir atlasīta vairāk nekā viena vietne, **koplietošanas** poga tiks parādīta kā atspējots. Jāatlasa tikai viena vietne. 
   
 

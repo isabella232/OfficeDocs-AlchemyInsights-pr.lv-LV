@@ -1,10 +1,11 @@
 ---
-title: Iesniegt PowerApps vai Microsoft Flow atbalsta pieprasījumus
+title: Iesniegt PowerApps vai Microsoft plūsmas atbalsta pieprasījumus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559488"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653448"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Iesniegt PowerApps vai Microsoft Flow atbalsta pieprasījumus
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Iesniegt PowerApps vai Microsoft plūsmas atbalsta pieprasījumus
 
-Ja esat **PowerApps** vai **Microsoft Flow** klients, lūdzu, iesniedziet savu biļeti, izmantojot jauno [Power Platform administrēšanas centru](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Jaunais portāls nodrošina tiešāku ceļu uz atbalstāmo atbalstu, kas ir optimizēts PowerApps un citiem enerģijas platformas produktiem.
+Ja esat **PowerApps** vai **Microsoft plūsmas** klients, lūdzu, iesniedziet savu biļeti, izmantojot jauno [Power Platform administrēšanas centru](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Jaunais portāls nodrošina vairāk tiešu ceļu uz palīdzību, kas ir optimizēta PowerApps un citiem Power Platform produktiem.
 
-[Iesniedziet Microsoft Flow atbalsta pieprasījumu](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Iesniegt Microsoft plūsmas atbalsta pieprasījumu](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
