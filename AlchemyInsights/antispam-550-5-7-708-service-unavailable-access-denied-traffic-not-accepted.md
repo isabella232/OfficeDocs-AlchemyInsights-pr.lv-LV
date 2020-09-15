@@ -1,11 +1,12 @@
 ---
-title: 1047 AntiSpam 550 5.7.708 pakalpojums nav pieejams. Piekļuve liegta, satiksme nav pieņemts no šī IP
+title: 1047 AntiSpam 550 5.7.708 pakalpojums nav pieejams. Piekļuve liegta, no šī IP nepieņemta satiksme
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707882"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717224"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 piekļuve liegta, satiksme nav pieņemts no šī IP
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 piekļuve liegta, no šī IP nav pieņemts trafiks
 
-Šī kļūda rodas, sūtot e-pastu no zināmas, zemas reputācijas IP adreses, ko parasti izmanto jauni klienti.
+Šī kļūda rodas, nosūtot e-pasta ziņojumu no zināmām, zemas reputācijas IP adresēm, kuras parasti izmanto jauni klienti.
 
-Ja jums ir jānosūta e-pasta adrese no šīm IP adresēm, pirms varat iegādāties licences, sazinieties ar atbalsta dienestu, lai pieprasītu izņēmumu, līdz varēsit iegādāties licences.
+Ja jums ir jānosūta e-pasta ziņojums no šīm IP adresēm, pirms varat iegādāties licences, sazinieties ar atbalsta dienestu, lai pieprasītu izņēmumu, līdz varēsit iegādāties licences.
