@@ -5,21 +5,22 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582242"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692050"
 ---
 # <a name="restore-a-deleted-site"></a>Izdzēstas vietnes atjaunošana
 
-Kad administrators dzēš SharePoint vietni, tā tiek ievietota vietņu kolekcijas atkritnē, kur tā tiek glabāta 93 dienas pirms to neatgriezeniska izdzēšanas. Lai atjaunotu vietni:
+Kad administrators izdzēš SharePoint vietni, tā tiek ievietota vietņu kolekcijas atkritnē, kur tā tiek glabāta 93 dienas, pirms tā tiek neatgriezeniski izdzēsta. Lai atjaunotu vietni:
   
 1. Jaunajā SharePoint administrēšanas centrā lentē noklikšķiniet uz **Atkritne** . 
     
@@ -27,6 +28,6 @@ Kad administrators dzēš SharePoint vietni, tā tiek ievietota vietņu kolekcij
     
 3. Noklikšķiniet uz **atjaunot izdzēstos vienumus**.
     
-Lai atjaunotu dzēstu saziņas vietni, varat izmantot jauno SharePoint administrēšanas centru. Pretējā gadījumā jums ir nepieciešams, lai izmantotu Microsoft PowerShell. Lai atjaunotu vietni, kas pieder Microsoft 365 grupai, ir jāatjauno grupas Exchange administrēšanas centrs. Grupas var atjaunot 30 dienas pēc to dzēšanas.
+Lai atjaunotu izdzēstu saziņas vietni, varat izmantot jauno SharePoint administrēšanas centru. Pretējā gadījumā jums ir jāizmanto Microsoft PowerShell. Lai atjaunotu vietni, kas pieder Microsoft 365 grupai, šī grupa ir jāatjauno Exchange administrēšanas centrā. Grupas var atjaunot 30 dienas pēc tam, kad tās ir izdzēstas.
   
 
