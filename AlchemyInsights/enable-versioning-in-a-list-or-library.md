@@ -1,28 +1,29 @@
 ---
-title: Saraksta vai bibliotēkas versiju iespējošana
+title: Saraksta vai bibliotēkas versiju izveides iespējošana
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: 94250ff817032c5b2f63361768f7e40ad3cfe3d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82cdd41121d343ec25dc59cae38e3243fa0c74e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703361"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709482"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a><span data-ttu-id="aa708-102">Saraksta vai bibliotēkas versiju iespējošana</span><span class="sxs-lookup"><span data-stu-id="aa708-102">Enable versioning for a list or library</span></span>
+# <a name="enable-versioning-for-a-list-or-library"></a><span data-ttu-id="02c20-102">Saraksta vai bibliotēkas versiju izveides iespējošana</span><span class="sxs-lookup"><span data-stu-id="02c20-102">Enable versioning for a list or library</span></span>
 
-1. <span data-ttu-id="aa708-103">Dodieties uz sarakstu vai bibliotēku.</span><span class="sxs-lookup"><span data-stu-id="aa708-103">Go to the list or library.</span></span>
+1. <span data-ttu-id="02c20-103">Dodieties uz sarakstu vai bibliotēku.</span><span class="sxs-lookup"><span data-stu-id="02c20-103">Go to the list or library.</span></span>
     
-2. <span data-ttu-id="aa708-104">Noklikšķiniet uz **Iestatījumi**un pēc tam uz **bibliotēkas iestatījumi** vai **saraksta iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="aa708-104">Click **Settings**, and then click **Library settings** or **List settings**.</span></span>
+2. <span data-ttu-id="02c20-104">Noklikšķiniet uz **Iestatījumi**un pēc tam noklikšķiniet uz **bibliotēkas iestatījumi** vai **saraksta iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="02c20-104">Click **Settings**, and then click **Library settings** or **List settings**.</span></span>
     
-3. <span data-ttu-id="aa708-105">Noklikšķiniet uz **versiju iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="aa708-105">Click **Versioning settings**.</span></span>
+3. <span data-ttu-id="02c20-105">Noklikšķiniet uz **versiju pārvaldības iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="02c20-105">Click **Versioning settings**.</span></span>
     
-4. <span data-ttu-id="aa708-106">Atlasiet vēlamo iestatījumu un pēc tam noklikšķiniet uz **Labi**.</span><span class="sxs-lookup"><span data-stu-id="aa708-106">Select the settings you want, and then click **OK**.</span></span>
+4. <span data-ttu-id="02c20-106">Atlasiet vēlamos iestatījumus un pēc tam noklikšķiniet uz **Labi**.</span><span class="sxs-lookup"><span data-stu-id="02c20-106">Select the settings you want, and then click **OK**.</span></span>
     
 
