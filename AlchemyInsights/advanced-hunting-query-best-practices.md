@@ -1,28 +1,29 @@
 ---
-title: Uzlabotā medību vaicājuma paraugprakse
+title: Papildu medību vaicājumu labākā prakse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599311"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696664"
 ---
-# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="93044-102">Uzlabotā medību vaicājuma paraugprakse</span><span class="sxs-lookup"><span data-stu-id="93044-102">Advanced hunting query best practices</span></span>
+# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="2b4fc-102">Papildu medību vaicājumu labākā prakse</span><span class="sxs-lookup"><span data-stu-id="2b4fc-102">Advanced hunting query best practices</span></span>
 
-<span data-ttu-id="93044-103">Lūdzu, skatiet pilnu rakstu [Advanced medības Query labāko praksi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) detalizētus ieteikumus un norādījumus par:</span><span class="sxs-lookup"><span data-stu-id="93044-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
-- <span data-ttu-id="93044-104">Vaicājumu veiktspējas optimizēšana.</span><span class="sxs-lookup"><span data-stu-id="93044-104">Optimizing query performance.</span></span>
-- <span data-ttu-id="93044-105">Vaicājuma padomi un slazdiem.</span><span class="sxs-lookup"><span data-stu-id="93044-105">Query tips and pitfalls.</span></span>
-- <span data-ttu-id="93044-106">Vaicājumus ar komandrindu.</span><span class="sxs-lookup"><span data-stu-id="93044-106">Queries with command lines.</span></span>
+<span data-ttu-id="2b4fc-103">Detalizētus ieteikumus un norādījumus skatiet rakstā [papildu medību vaicājumu labākā prakse](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) :</span><span class="sxs-lookup"><span data-stu-id="2b4fc-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
+- <span data-ttu-id="2b4fc-104">Optimizēt vaicājuma veiktspēju</span><span class="sxs-lookup"><span data-stu-id="2b4fc-104">Optimizing query performance.</span></span>
+- <span data-ttu-id="2b4fc-105">Vaicājumu padomi un nepilnības.</span><span class="sxs-lookup"><span data-stu-id="2b4fc-105">Query tips and pitfalls.</span></span>
+- <span data-ttu-id="2b4fc-106">Vaicājumi ar komandrindas.</span><span class="sxs-lookup"><span data-stu-id="2b4fc-106">Queries with command lines.</span></span>
 
 
