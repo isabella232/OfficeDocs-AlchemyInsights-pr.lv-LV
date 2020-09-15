@@ -1,33 +1,34 @@
 ---
-title: Alchemy-nevar pierakstīties, lai Outlook.com
+title: Alķīmijas-nevar pierakstīties pakalpojumā Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: 6a83e8c1b4076a04492ffb708d485aeddf80da44
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c065bdee1ded7eaaa1851d6fc20007a3b7f20879
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710306"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718988"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="bad36-102">Nevar pierakstīties Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bad36-102">Can't sign in to Outlook.com</span></span>
+# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="3ae61-102">Nevar pierakstīties pakalpojumā Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3ae61-102">Can't sign in to Outlook.com</span></span>
 
-<span data-ttu-id="bad36-103">Ja jums rodas problēmas, pierakstoties savā kontā, pārliecinieties, vai jūsu konts nav neaktīvs ilgāk par 365 dienām.</span><span class="sxs-lookup"><span data-stu-id="bad36-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="bad36-104">Pēc 365 neaktivitātes dienām jūsu e-pasts tiks dzēsts, un to nevarēs atkopt.</span><span class="sxs-lookup"><span data-stu-id="bad36-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="3ae61-103">Ja rodas problēmas, kad piesakāties savā kontā, pārliecinieties, vai jūsu konts nav bijis aktīvs vairāk nekā 365 dienas.</span><span class="sxs-lookup"><span data-stu-id="3ae61-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="3ae61-104">Pēc 365 dienu neaktivitātes jūsu e-pasts tiks izdzēsts, un to nevarēs atkopt.</span><span class="sxs-lookup"><span data-stu-id="3ae61-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="bad36-105">Iespējams, jūsu konts ir īslaicīgi bloķēts, jo esam ievērojuši dažas neparastas pierakstīšanās darbības.</span><span class="sxs-lookup"><span data-stu-id="bad36-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="bad36-106">Ja jūsu konts ir bloķēts, lasiet, kā [atbloķēt manu Outlook.com kontu](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span><span class="sxs-lookup"><span data-stu-id="bad36-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span></span> 
+<span data-ttu-id="3ae61-105">Iespējams, jūsu konts ir īslaicīgi bloķēts, jo mēs pamanījām dažas neparastas pierakstīšanās darbības.</span><span class="sxs-lookup"><span data-stu-id="3ae61-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="3ae61-106">Ja jūsu konts ir bloķēts, izlasiet par to, kā [atbloķēt manu Outlook.com kontu](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span><span class="sxs-lookup"><span data-stu-id="3ae61-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span></span> 
   
-<span data-ttu-id="bad36-107">Ja jums ir aizdomas, jūsu Outlook.com konts ir hacked, skatīt [manu Outlook.com konts ir hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span><span class="sxs-lookup"><span data-stu-id="bad36-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span></span>
+<span data-ttu-id="3ae61-107">Ja uzskatāt, ka jūsu Outlook.com konts ir uzlauzts, skatiet rakstu [mans Outlook.com konts ir uzlauzts](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span><span class="sxs-lookup"><span data-stu-id="3ae61-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span></span>
   
-<span data-ttu-id="bad36-108">Ja esat aizmirsis vai pazaudējis paroli, varat [Atiestatīt savu paroli](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span><span class="sxs-lookup"><span data-stu-id="bad36-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
+<span data-ttu-id="3ae61-108">Ja esat aizmirsis vai nozaudējis paroli, varat [Atiestatīt savu paroli](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span><span class="sxs-lookup"><span data-stu-id="3ae61-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
   
-<span data-ttu-id="bad36-109">Uzziniet vairāk par [to, kad nevarat pierakstīties savā Microsoft kontā](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="bad36-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="3ae61-109">Lasiet vairāk par to [, kad nevarat pierakstīties savā Microsoft kontā](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="3ae61-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
   
 
