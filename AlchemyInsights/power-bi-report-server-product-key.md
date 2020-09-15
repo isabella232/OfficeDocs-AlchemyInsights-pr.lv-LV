@@ -1,29 +1,30 @@
 ---
-title: Varas BI pārskatu servera produkta atslēgu
+title: Power BI atskaišu servera produkta atslēga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753504"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801956"
 ---
-# <a name="power-bi-report-server-product-key"></a>Varas BI pārskatu servera produkta atslēgu
+# <a name="power-bi-report-server-product-key"></a>Power BI atskaišu servera produkta atslēga
 
-Ja esat iegādājies Power BI Premium, **Premium iestatījumi** cilnē Power BI admin portāla varat piekļūt varas BI pārskatu servera produkta atslēgu. Tas pieejams tikai pasaules admins vai lietotājiem piešķirto jaudu BI pakalpojumu administratora lomai.
+Ja esat iegādājies Power BI Premium, Power BI administrēšanas portāla cilnē **Premium Settings** varat piekļūt savai Power BI atskaišu servera produkta atslēgai. Šī opcija ir pieejama tikai globālajiem administratoriem vai lietotājiem, kuriem ir piešķirta Power BI pakalpojuma administratora loma.
 
-Izvēloties **enerģijas BI pārskatu servera atslēgu** , tiek parādīts dialoglodziņš, jūsu produkta atslēgu. Jūs varat kopēt to un izmantot to ar instalēšanu.
+Atlasot **Power BI atskaišu servera atslēgu** , tiek parādīts dialoglodziņš, kurā ir jūsu produkta atslēga. Varat to kopēt un izmantot kopā ar instalāciju.
 
-Ja ir vienošanās par SQL Server Enterprise SA, jūs varat saņemt jūsu produkta atslēgu no [Lielapjoma licencēšanas pakalpojumu centrs](https://www.microsoft.com/Licensing/servicecenter/).
+Ja jums ir SQL Server Enterprise SA līgums, varat iegūt produkta atslēgu no [lielapjoma licencēšanas pakalpojumu centra](https://www.microsoft.com/Licensing/servicecenter/).
 
-Sīkāka informācija:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Lai iegūtu papildinformāciju: https://docs.microsoft.com/power-bi/report-server/install-report-server

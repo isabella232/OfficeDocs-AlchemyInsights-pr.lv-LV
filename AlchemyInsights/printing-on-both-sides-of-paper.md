@@ -1,10 +1,11 @@
 ---
-title: Drukāšana uz abām papīra pusēm
+title: Drukāšana uz abām papīra lapas pusēm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289569"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801884"
 ---
-# <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Drukāšana uz abām papīra pusēm (dupleksā druka)
+# <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Drukāšana uz abām papīra lapas pusēm (divpusējā druka)
 
-**Vai mans printeris spēj divpusējā druka?**
+**Vai printeris var veikt abpusējo drukāšanu?**
 
-Printera līdzekļu kopsavilkumā vai rokasgrāmatā ir jāpasaka, vai tas spēj iespiest uz abām papīra pusēm, ko dēvē arī par "duplekso druku". Ja lietojat Microsoft Office, cits veids, kā to noskaidrot, ir atvērt Office lietojumprogrammu, piemēram, Word vai Excel, doties uz **failu > drukāt**, pārliecinoties, vai ir atlasīts pareizais printeris, un meklējat iespēju sadaļā iestatījumi. Piemērs: 
+Printera līdzekļu kopsavilkumā vai rokasgrāmatā ir jānorāda, vai tas var drukāt uz abām papīra pusēm, ko dēvē arī par abpusējo druku. Ja jums ir Microsoft Office, vēl viens veids, kā to noskaidrot, ir atvērt Office programmu, piemēram, Word vai Excel, doties uz **failu > drukāt**, pārliecinoties, vai ir atlasīts pareizais printeris, un meklēt iespēju sadaļā iestatījumi. Piemērs: 
 
 ![Printera iestatījumi](media/print-settings.png)
 
-**Dupleksa drukāšana programmā Microsoft Office**
+**Abpusējā druka programmā Microsoft Office**
 
-Ja printeris spēj drukāt abās pusēs, kad dodaties uz **failu > drukāt** Office lietojumprogrammā, tiek parādīta opcija "drukāt abās pusēs", kā parādīts piemērā.  Atlasiet vajadzīgo abpusējās drukas veidu (apvērst uz garās malas vai apvērst uz īso malu) un noklikšķiniet uz **Drukāt** , lai sāktu izdruku.
+Ja printeris var drukāt uz abām pusēm, atverot **failu > drukāt** Office lietojumprogrammā, tiek parādīta opcija "drukāt uz abām pusēm", kā parādīts iepriekšējā piemērā.  Atlasiet vajadzīgo abpusējās drukāšanas veidu (apvērst ap garo malu vai apvērst ar īso malu) un noklikšķiniet uz **Drukāt** , lai sāktu izdruku.
 
-**Duplekso drukāšanu no jebkuras lietojumprogrammas**
+**Abpusējā druka no jebkuras lietojumprogrammas**
 
-Daudzās programmās, drukājot jūs redzēsiet General Print dialogs, kas izskatās šādi: 
+Izdrukājot daudzās programmās, tiek parādīts vispārīgs drukas dialogs, kas izskatās šādi: 
 
-![Drukāšanas dialogs](media/print-dialog.png)
+![Dialoglodziņš Drukāšana](media/print-dialog.png)
 
-Pārliecinieties, vai ir atlasīts pareizais printeris, un pēc tam noklikšķiniet uz **Preferences** , lai atvērtu printera preferenču logu. Ja printeris spēj dupleksā drukāšana, šajā logā tiks rādīta iespēja iespējot šo pašreizējo drukas darbu.
+Pārliecinieties, vai ir atlasīts pareizais printeris, pēc tam noklikšķiniet uz **preferences** , lai atvērtu printera preferenču logu. Ja printeris spēj veikt duplekso drukāšanu, šajā logā tiks parādīta iespēja iespējot šo pašreizējā drukas darba veikšanu.

@@ -1,25 +1,25 @@
 ---
-title: Kļūda 0-1036, instalējot Office
+title: Instalējot Office, tiek rādīta kļūda 0-1036
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703253"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709278"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Kļūda 0-1036, instalējot Office
+# <a name="error-0-1036-when-installing-office"></a>Instalējot Office, tiek rādīta kļūda 0-1036
 
 Izmēģiniet šos risinājumus, lai novērstu Office kļūdu 0-1036:
   
@@ -27,12 +27,12 @@ Izmēģiniet šos risinājumus, lai novērstu Office kļūdu 0-1036:
 
 - Lejupielādējiet un instalējiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kad tas tiek atvērts, **atinstalējiet Office produktus** , atlasiet versiju, kuru vēlaties atinstalēt, un atlasiet **Tālāk**.
+1. Kad tas tiek atvērts, **Office produktu atinstalēšana** atlasiet versiju, kuru vēlaties atinstalēt, un atlasiet **Tālāk**.
 
 2. Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.
 
-    Pēc restartēšanas atbalsta un atkopšanas palīgs automātiski tiek atvērts, lai pabeigtu atinstalēšanas procesu.
+    Pēc restartēšanas automātiski tiek atvērts atbalsta un atkopšanas palīgs, lai pabeigtu atinstalēšanas procesu.
 
-3. Izpildiet atlikušās uzvednes un [pārinstalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizveriet palīgu.
+3. Izpildiet atlikušās uzvednes un [atkārtoti instalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai arī noslēdziet palīgu.
 
-- [Izmantojiet Office bezsaistes instalēšanas](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) programmu, lai instalētu Office
+- [Office bezsaistes instalēšanas programmas izmantošana](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) , lai instalētu Office
