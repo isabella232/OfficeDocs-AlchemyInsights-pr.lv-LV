@@ -1,33 +1,34 @@
 ---
-title: Palīdzība ar Apple DEP
+title: Palīdzība par Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654511"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705522"
 ---
-# <a name="help-with-apple-dep"></a><span data-ttu-id="52818-102">Palīdzība ar Apple DEP</span><span class="sxs-lookup"><span data-stu-id="52818-102">Help with Apple DEP</span></span>
+# <a name="help-with-apple-dep"></a><span data-ttu-id="66a9c-102">Palīdzība par Apple DEP</span><span class="sxs-lookup"><span data-stu-id="66a9c-102">Help with Apple DEP</span></span>
 
-<span data-ttu-id="52818-103">Ja DEP ierīce nevar pieteikties un ir iespējota MFA (vairāku faktoru autentifikācija), lūdzu, atspējojiet MFA.</span><span class="sxs-lookup"><span data-stu-id="52818-103">If a DEP device is unable to enroll and MFA (Multi-Factor Authentication) is enabled, please disable MFA.</span></span> <span data-ttu-id="52818-104">MFA pašlaik nav atbalstīts DEP reģistrācijai.</span><span class="sxs-lookup"><span data-stu-id="52818-104">MFA is not currently supported for DEP enrollment.</span></span>
+<span data-ttu-id="66a9c-103">Ja DEP ierīce nevar reģistrēties un MFA (daudzfaktoru autentifikācija) ir iespējota, lūdzu, atspējojiet MFA.</span><span class="sxs-lookup"><span data-stu-id="66a9c-103">If a DEP device is unable to enroll and MFA (Multi-Factor Authentication) is enabled, please disable MFA.</span></span> <span data-ttu-id="66a9c-104">Pašlaik MFA netiek atbalstīta attiecībā uz DEP pieteikšanos.</span><span class="sxs-lookup"><span data-stu-id="66a9c-104">MFA is not currently supported for DEP enrollment.</span></span>
 
-[<span data-ttu-id="52818-105">Darba sākšana ar InTune un Apple ierīču reģistrācijas programma (DEP)</span><span class="sxs-lookup"><span data-stu-id="52818-105">Getting started with Intune and Apple's Device Enrollment Program (DEP)</span></span>](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[<span data-ttu-id="66a9c-105">Darba sākšana ar Intune un Apple ierīču reģistrācijas programmu (DEP)</span><span class="sxs-lookup"><span data-stu-id="66a9c-105">Getting started with Intune and Apple's Device Enrollment Program (DEP)</span></span>](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[<span data-ttu-id="52818-106">Izplatītākās iOS reģistrācijas kļūdas un risinājumi</span><span class="sxs-lookup"><span data-stu-id="52818-106">Common iOS enrollment errors and solutions</span></span>](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[<span data-ttu-id="66a9c-106">Biežāk sastopamās iOS reģistrācijas kļūdas un risinājumi</span><span class="sxs-lookup"><span data-stu-id="66a9c-106">Common iOS enrollment errors and solutions</span></span>](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[<span data-ttu-id="52818-107">Vispārīga iesaistīšanās problēmu novēršana</span><span class="sxs-lookup"><span data-stu-id="52818-107">General Enrollment Troubleshooting</span></span>](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[<span data-ttu-id="66a9c-107">Vispārīga reģistrēšanas problēmu novēršana</span><span class="sxs-lookup"><span data-stu-id="66a9c-107">General Enrollment Troubleshooting</span></span>](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[<span data-ttu-id="52818-108">InTune problēmu novēršanas portāla izmantošana, lai diagnosticētu un novērstu bieži sastopamas reģistrācijas kļūmes</span><span class="sxs-lookup"><span data-stu-id="52818-108">Use the Intune Troubleshooting Portal to diagnose and resolve common enrollment failures</span></span>](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[<span data-ttu-id="66a9c-108">Intune problēmu novēršanas portāla izmantošana, lai diagnosticētu un novērstu Biežākās reģistrācijas kļūmes</span><span class="sxs-lookup"><span data-stu-id="66a9c-108">Use the Intune Troubleshooting Portal to diagnose and resolve common enrollment failures</span></span>](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 

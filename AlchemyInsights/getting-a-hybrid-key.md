@@ -1,25 +1,26 @@
 ---
-title: Hibrīda atslēgas iegūšana
+title: Hibrīdās atslēgas iegūšana
 ms.author: dstrome
 author: dstrome
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: 6d12b8e1a9b94b28d0007065446a1d55ac072e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721778"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706854"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="e13bf-102">Exchange hibrīda atslēgas iegūšana</span><span class="sxs-lookup"><span data-stu-id="e13bf-102">Getting an Exchange hybrid key</span></span>
+# <a name="getting-an-exchange-hybrid-key"></a><span data-ttu-id="9f552-102">Exchange hibrīda atslēgas iegūšana</span><span class="sxs-lookup"><span data-stu-id="9f552-102">Getting an Exchange hybrid key</span></span>
 
-<span data-ttu-id="e13bf-103">Lai savienotu lokālas organizācijas Exchange Online Microsoft 365, ir jāiestata vismaz viens Exchange Server lokālas organizācijā.</span><span class="sxs-lookup"><span data-stu-id="e13bf-103">To connect your on-premises organization to Exchange Online in Microsoft 365, you need to set up at least one Exchange server in your on-premises organization.</span></span> <span data-ttu-id="e13bf-104">Šis serveris tiek izmantots, lai izveidotu Hibrīdā izvietošana, kas savieno lokālas Exchange organizācijas Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="e13bf-104">This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online.</span></span> <span data-ttu-id="e13bf-105">Iegūt hibrīds atslēgu šim serverim, izpildiet [Exchange hibrīds produkta atslēgu izplatīšanas vedņa](https://aka.ms/hybridkey)norādījumus.</span><span class="sxs-lookup"><span data-stu-id="e13bf-105">To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](https://aka.ms/hybridkey).</span></span>
+<span data-ttu-id="9f552-103">Lai savienotu savu lokālo organizāciju ar Exchange Online, izmantojot Microsoft 365, jums ir jāiestata vismaz viens Exchange serveris jūsu lokālajā organizācijā.</span><span class="sxs-lookup"><span data-stu-id="9f552-103">To connect your on-premises organization to Exchange Online in Microsoft 365, you need to set up at least one Exchange server in your on-premises organization.</span></span> <span data-ttu-id="9f552-104">Šis serveris tiek izmantots, lai izveidotu hibrīdu izvietošanu, kas savieno jūsu lokālo Exchange organizāciju ar Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="9f552-104">This server is used to create a hybrid deployment that connects your on-premises Exchange organization to Exchange Online.</span></span> <span data-ttu-id="9f552-105">Lai saņemtu šī servera hibrīdo atslēgu, izpildiet darbības, kas norādītas sadaļā [Exchange hibrīda produkta atslēgas sadalījuma vednis](https://aka.ms/hybridkey).</span><span class="sxs-lookup"><span data-stu-id="9f552-105">To get a hybrid key for this server, follow the steps at [Exchange hybrid product key distribution wizard](https://aka.ms/hybridkey).</span></span>
   
