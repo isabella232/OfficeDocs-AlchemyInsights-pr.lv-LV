@@ -6,34 +6,35 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44503010"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688485"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Izveidot lietotāja e-pasta aizstājvārdu vai to pievienot
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Lietotāja e-pasta aizstājvārda izveide vai pievienošana
 
-Vai ir jāizveido lietotāja e-pasta aizstājvārds vai jāpievieno papildu e-pasta adrese? Vienkārši izpildiet šos soļus!
+Vai vēlaties izveidot e-pasta aizstājvārdu lietotājam vai pievienot papildu e-pasta adresi? Vienkārši veiciet tālāk norādītās darbības.
   
-1. Microsoft 365 administrēšanas centrā pārejiet uz lapu [lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) vai izvēlieties **lietotāji** \> **Aktīvie lietotāji**.
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu [lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) vai izvēlieties **lietotāju** \> **Aktīvie lietotāji**.
     
 2. Lapā **Aktīvie lietotāji** atlasiet tās personas vārdu, kuru vēlaties rediģēt. 
     
-3. Labajā pusē, **lietotājvārda/e-pasta aizstājvārdu** rindā izvēlieties **Rediģēt**.
+3. Pa labi, rindā **lietotājvārds/e-pasta aizstājvārdi** izvēlieties **Rediģēt**.
     
-4. Lodziņā **aizstājvārds** ierakstiet jaunu e-pasta ziņojumu un pēc tam izvēlieties **pievienot**. Ja esat iegādājies savu abonementu no GoDaddy vai citu partneri, lai uzstādītu jaunu alias kā primāro, jums jādodas uz GoDaddy/partneru pārvaldības konsoli. 
+4. Lodziņā **aizstājvārds** ierakstiet jauno e-pasta ziņojumu un pēc tam izvēlieties **Pievienot**. Ja abonementu iegādājāties no GoDaddy vai cita partnera, lai iestatītu jauno aizstājvārdu kā primāro, jums ir jāiet uz GoDaddy/partnera pārvaldības konsoli. 
     
-    **Svarīgi**: Ja saņemat kļūdas ziņojumu " **parametrs nevar atrast, kas atbilst parametra nosaukums" EmailAddresses**"tas nozīmē, ka tas ir ņemot mazliet ilgāk, lai Microsoft pabeigtu iestatīšanu jūsu nomnieks, vai jūsu pielāgoto domēnu, ja esat nesen pievienojis vienu. Uzstādīšanas process var ilgt līdz 4 stundām. Pagaidiet, kamēr tā iestatīšanas process ir laiks, lai pabeigtu, un pēc tam mēģiniet vēlreiz. Ja problēma joprojām pastāv, sazinieties ar atbalsta dienestu, un viņi veiks pilnu sinhronizāciju.
+    **Svarīgi**! ja saņemat kļūdas ziņojumu " **nevar atrast parametru, kas atbilst parametra nosaukumam ' parametrā EmailAddresses norādītā**", tas nozīmē, ka ir nepieciešams mazliet ilgāks laiks, līdz Microsoft var pabeigt nomnieka iestatīšanu, vai savu pielāgoto domēnu, ja to nesen pievienojāt. Iestatīšanas process var ilgt līdz pat 4 stundām. Mazliet uzgaidiet, līdz ar to iestatīšanas procesam ir pienācis laiks pabeigt, un pēc tam mēģiniet vēlreiz. Ja problēma joprojām pastāv, sazinieties ar atbalsta dienestu un viņi veiks pilnīgu sinhronizāciju.
     
-    Lai jaunais aizstājvārds stātos spēkā, parasti ilgst aptuveni 30 minūtes.
+    Lai jaunais aizstājvārds stātos spēkā, parasti ir nepieciešamas aptuveni 30 minūtes.
     
-    **Lai iegūtu papildinformāciju, skatiet šo rakstu:** [pievienot citu e-pasta aizstājvārdu lietotājam](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
+    Papildinformāciju **skatiet šajā rakstā:** [cita e-pasta aizstājvārda pievienošana lietotājam](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

@@ -1,46 +1,47 @@
 ---
-title: Apvedceļš Lobby
+title: Apvedceļa vestibils
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889089"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684957"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrolējiet vestibila iestatījumus un dalības līmeni darba grupās
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Vadības vestibila iestatījumi un dalības līmenis komandās
 
-Ja vēlaties atļaut visiem, tostarp iezvanes, ārējiem un anonīmajiem lietotājiem, **apiet vestibilā**, izmantojiet PowerShell, lai veiktu šo uzdevumu. Tālāk ir piemērs, kā modificēt organizācijas globālo sapulču politiku.
+Ja vēlaties atļaut visiem lietotājiem, ieskaitot iezvanes, ārējos un anonīmos lietotājus, **apiet vestibilu**, izmantojiet PowerShell, lai izpildītu šo uzdevumu. Tālāk ir parādīts piemērs, kā modificēt globālās sapulces politiku savai organizācijai.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Šī cmdlet pašlaik ir nepieciešams izmantot Skype biznesa PowerShell modulis. Lai iegūtu, kas izveidota, lai izmantotu šo cmdlet, izbraukšana [pārvaldības politiku, izmantojot PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Šajā cmdlet pašlaik ir jāizmanto Skype darbam PowerShell modulis. Lai iestatītu šī cmdlet lietošanu, skatiet rakstu [politiku pārvaldība, izmantojot PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Kad esat iestatījis politiku, jums tā ir jāpiemēro lietotājiem; vai, ja modificējat globālo politiku, tā automātiski tiks piemērota lietotājiem. Visām politikas izmaiņām ir jāgaida vismaz **4 stundas līdz 24 stundām** , lai politikas stātos spēkā. 
+Kad būsit iestatījis politiku, tā ir jālieto lietotājiem. Ja esat modificējis globālo politiku, tā tiks automātiski lietota lietotājiem. Lai veiktu jebkādas politikas izmaiņas, ir jāgaida vismaz **4 stundas līdz 24 stundām** , lai politikas stātos spēkā. 
 
-Noteikti pārskatīt dokumentāciju, pirms veikt šīs izmaiņas, lai saprastu, ko tieši tas ļauj.
+Pirms izmaiņu veikšanas noteikti pārskatiet tālāk esošo dokumentāciju.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Izpratne komandas sanāksme Lobby politikas kontrole
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Izpratne par Teams sapulču Lobby politikas vadīklām
 
-Šie iestatījumi nosaka, kuri sapulces dalībnieki gaida vestibilā, pirms tie tiek uzņemti sapulcē, un līdzdalības līmenis, kas ir atļauts sapulcē. Varat izmantot PowerShell atjaunināt sapulču politikas iestatījumus, kas vēl nav ieviesti (ar nosaukumu "drīzumā") komandu administrēšanas centrs. Skatiet tālāk piemēru PowerShell cmdlet, kas ļauj visiem lietotājiem apiet vestibilā.
+Šie iestatījumi nosaka, kuras sapulces dalībnieki gaida vestibilā, pirms tie tiek uzņemti sapulcē un dalības līmenis ir atļauts sapulcē. Varat izmantot PowerShell, lai atjauninātu sapulču politikas iestatījumus, kas vēl nav ieviesti (ar atzīmi "būs pieejams drīzumā") grupu administrēšanas centrā. Skatiet tālāk norādīto PowerShell cmdlet piemēru, kas ļauj visiem lietotājiem apiet vestibilu.
 
-- [Automātiski uzņemt cilvēki](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) ir per-organizators politika, kas kontrolē to, vai cilvēki pievienoties sapulcei tieši vai gaidīt vestibilā līdz tos atzīst autentificēts lietotājs.
+- [Automātiska personu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) uzņemšana ir viena organizatora politika, kas nosaka, vai lietotāji pievienojas sapulcei tieši vai nogaida vestibilā, līdz tos uzņem autentificēts lietotājs.
 
-- [Atļaut anonīmajiem cilvēkiem sākt sapulci](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) ir katra kārtotāja politika, kas kontrolē to, vai anonīmas personas, tostarp B2B un federatīvie lietotāji, var pievienoties lietotāja sapulcei bez autentificēta lietotāja no organizācijas apmeklētības.
+- [Atļaut anonīmiem lietotājiem sākt sapulci](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) ir viena organizatora politika, kas kontrolē, vai anonīmi lietotāji, tostarp B2B un integrētās lietotāji, var pievienoties lietotāja sapulcei, neizmantojot autentificētu lietotāju no klātesošajām organizācijām.
 
-- [Atļaut iezvanes lietotājiem apiet vestibilu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **(drīzumā**) ir per-Organizer politika, kas kontrolē, vai cilvēki, kuri iezvanās pa tālruni, pievienojas sapulcei tieši vai gaida vestibilā neatkarīgi no **automātiski uzņemt personas** iestatījumu.
+- [Atļaut iezvanes lietotājus apiet vestibilu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**drīzumā**) ir viena organizatora politika, kas nosaka, vai personas, kas iezvanās pa tālruni, pievienojas sapulcei tieši vai nogaida vestibilā neatkarīgi no tā, vai tiek iestatīts **Automātiskais personu** iestatījums.
 
-- [Atļaut organizatoriem ignorēt vestibila iestatījumus](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**drīzumā**) ir katra kārtotāja politika, kas kontrolē, vai sapulces organizators var ignorēt vestibila iestatījumus, ko administrators ir iestatījis, lai **automātiski uzņemtu** lietotājus un **ļautu iezvanes lietotājiem apiet vestibilu** , plānojot jaunu sapulci.
+- [Atļaut organizatoriem ignorēt vestibila iestatījumus](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**drīzumā**) ir viena organizatora politika, kas nosaka, vai sapulces rīkotājs var ignorēt vestibila iestatījumus, ko administrators ir iestatījis **automātiski uzņemt** , un **Atļaut iezvanes lietotājiem apiet vestibilu** , kad viņi plāno jaunu sapulci.
 
-**Piezīme:** Izlasiet [komandu pārvaldīt sapulču politiku komandā](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , lai iegūtu pilnīgu pārskatu par Microsoft Teams sapulču politikām.
+**Piezīme:** Izlasiet rakstu [Sapulču politiku pārvaldība pakalpojumā Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , lai iegūtu pilnīgu pārskatu par Microsoft Teams sapulču politikām.

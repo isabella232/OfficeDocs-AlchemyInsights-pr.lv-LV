@@ -1,29 +1,30 @@
 ---
-title: Lietotāju pievienošana InTune
+title: Lietotāju pievienošana Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6796112af0c67669ce073ac98348c9420c94730c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625815"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687487"
 ---
-# <a name="add-users-to-intune"></a>Lietotāju pievienošana InTune
+# <a name="add-users-to-intune"></a>Lietotāju pievienošana Intune
 
-Varat manuāli pievienot lietotājus InTune abonementu, izmantojot [Microsoft 365 administrēšanas centrs](https://admin.microsoft.com/) vai [InTune portālā](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+Jūs varat manuāli pievienot lietotājus Intune abonementam, izmantojot [Microsoft 365 administrēšanas centru](https://admin.microsoft.com/)   vai [Intune portālu](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
 
-Administrators var rediģēt lietotāju kontus, lai piešķirtu InTune licences. Licences var piešķirt vai nu Microsoft 365 administrēšanas centrs vai InTune portālā.
+Administrators var rediģēt lietotāju kontus, lai piešķirtu Intune licences. Licences var piešķirt Microsoft 365 administrēšanas centrā vai Intune portālā.
 
-Lai iegūtu papildinformāciju par to, kā lietot Microsoft 365 administrēšanas centrs, skatiet [Pievienot lietotāju atsevišķi vai lielapjoma microsoft 365 administrēšanas centrs](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+Papildinformāciju par Microsoft 365 administrēšanas centra lietošanu skatiet rakstā [atsevišķu vai lielapjoma lietotāju pievienošana Microsoft 365 administrēšanas centrā](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-Lai iegūtu papildinformāciju par InTune portāla lietošanu, skatiet [Pievienot lietotājus un piešķirt administratora atļaujas InTune](https://docs.microsoft.com/intune/fundamentals/users-add).
+Papildinformāciju par to, kā izmantot Intune portālu, skatiet rakstā [lietotāju pievienošana un administratīvo atļauju piešķiršana Intune](https://docs.microsoft.com/intune/fundamentals/users-add).
