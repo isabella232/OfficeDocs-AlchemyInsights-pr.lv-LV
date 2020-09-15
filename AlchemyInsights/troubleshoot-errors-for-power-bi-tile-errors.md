@@ -1,25 +1,26 @@
 ---
-title: Problēmu novēršana atsvaidzināt scenārijus-mozaīkas kļūdas
+title: Atsvaidzināšanas scenāriju problēmu novēršana — elementu kļūdas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748835"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690682"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="3f110-102">Problēmu novēršana atsvaidzināt scenārijus-mozaīkas kļūdas</span><span class="sxs-lookup"><span data-stu-id="3f110-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="725da-102">Atsvaidzināšanas scenāriju problēmu novēršana — elementu kļūdas</span><span class="sxs-lookup"><span data-stu-id="725da-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
 
-<span data-ttu-id="3f110-103">Ja Power BI pakalpojuma ietvaros rodas elementu atsvaidzināšanas kļūdas, lūdzu, uzgaidiet aptuveni 10-15 minūtes, līdz atsvaidzināt tiks atspoguļots informācijas paneļa elementos.</span><span class="sxs-lookup"><span data-stu-id="3f110-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="3f110-104">Ja tas joprojām nerāda augšu, atkārtoti PIN vizualizācijas uz paneļa.</span><span class="sxs-lookup"><span data-stu-id="3f110-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
+<span data-ttu-id="725da-103">Ja pakalpojumā Power BI rodas elementu atsvaidzināšanas kļūdas, lūdzu, uzgaidiet aptuveni 10-15 minūtes, līdz atsvaidzināšana tiek parādīta informācijas paneļa elementos.</span><span class="sxs-lookup"><span data-stu-id="725da-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="725da-104">Ja tā joprojām netiek rādīta, atkārtoti piespraudiet vizualizāciju informācijas panelim.</span><span class="sxs-lookup"><span data-stu-id="725da-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
 
-<span data-ttu-id="3f110-105">Lai iegūtu vairāk informācijas:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="3f110-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="725da-105">Lai iegūtu papildinformāciju: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="725da-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
