@@ -1,40 +1,41 @@
 ---
-title: Identificējošu aizturēšanu, kas atrodas pastkastēs
+title: Pastkastēs ievietoto aizturēšanu noteikšana
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508887"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668101"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a><span data-ttu-id="89181-102">Identificētu aizturēšanas, kas ievietotas pastkastēs</span><span class="sxs-lookup"><span data-stu-id="89181-102">Identify holds placed on mailboxes</span></span>
+# <a name="identify-holds-placed-on-mailboxes"></a><span data-ttu-id="abfc7-102">Pastkastēs ievietoto aizturēšanu noteikšana</span><span class="sxs-lookup"><span data-stu-id="abfc7-102">Identify holds placed on mailboxes</span></span>
 
-<span data-ttu-id="89181-103">Vai jums ir Microsoft 365 saturs, ko **saglabā** **aizturētais** , kuru nevar identificēt?</span><span class="sxs-lookup"><span data-stu-id="89181-103">Do you have Microsoft 365 content that is being **retained** by a **hold** that you cannot identify?</span></span> <span data-ttu-id="89181-104">Vai nepieciešams **noskaidrot** , kur atrodas **pastkastē** ?</span><span class="sxs-lookup"><span data-stu-id="89181-104">Need to **find out** where the hold is located on the **mailbox** ?</span></span> <span data-ttu-id="89181-105">Aizturēšanas (*saglabāšanas funkcijas*) var lietot, izmantojot kādu no šīm metodēm:</span><span class="sxs-lookup"><span data-stu-id="89181-105">Holds (*retention features*) can be applied by one of the following methods:</span></span>
+<span data-ttu-id="abfc7-103">Vai izmantojat Microsoft 365 saturu, kas tiek **paturēts** ar **aizturēšanu** , ko nevarat identificēt?</span><span class="sxs-lookup"><span data-stu-id="abfc7-103">Do you have Microsoft 365 content that is being **retained** by a **hold** that you cannot identify?</span></span> <span data-ttu-id="abfc7-104">Vai ir **jāuzzina, kur atrodas** **pastkaste** ?</span><span class="sxs-lookup"><span data-stu-id="abfc7-104">Need to **find out** where the hold is located on the **mailbox** ?</span></span> <span data-ttu-id="abfc7-105">Aizturēšanu (*saglabāšanas līdzekļi*) var lietot, izmantojot kādu no tālāk norādītajām metodēm.</span><span class="sxs-lookup"><span data-stu-id="abfc7-105">Holds (*retention features*) can be applied by one of the following methods:</span></span>
   
-- <span data-ttu-id="89181-106">Tiesvedība aizturēšana</span><span class="sxs-lookup"><span data-stu-id="89181-106">Litigation Hold</span></span>
+- <span data-ttu-id="abfc7-106">Tiesvedības aizturēšana</span><span class="sxs-lookup"><span data-stu-id="abfc7-106">Litigation Hold</span></span>
 
-- <span data-ttu-id="89181-107">eDiscovery Hold</span><span class="sxs-lookup"><span data-stu-id="89181-107">eDiscovery hold</span></span>
+- <span data-ttu-id="abfc7-107">e-datu atklāšanas glabāšana</span><span class="sxs-lookup"><span data-stu-id="abfc7-107">eDiscovery hold</span></span>
 
-- <span data-ttu-id="89181-108">In-Place Hold</span><span class="sxs-lookup"><span data-stu-id="89181-108">In-Place Hold</span></span>
+- <span data-ttu-id="abfc7-108">Oriģinālu glabāšana</span><span class="sxs-lookup"><span data-stu-id="abfc7-108">In-Place Hold</span></span>
 
-- <span data-ttu-id="89181-109">Microsoft 365 saglabāšanas politika</span><span class="sxs-lookup"><span data-stu-id="89181-109">Microsoft 365 retention policy</span></span> 
+- <span data-ttu-id="abfc7-109">Microsoft 365 saglabāšanas politika</span><span class="sxs-lookup"><span data-stu-id="abfc7-109">Microsoft 365 retention policy</span></span> 
 
-  - <span data-ttu-id="89181-110">Konkrētas atrašanās vietas saglabāšanas politikas</span><span class="sxs-lookup"><span data-stu-id="89181-110">Specific location retention policies</span></span>
+  - <span data-ttu-id="abfc7-110">Noteiktas atrašanās vietas saglabāšanas politikas</span><span class="sxs-lookup"><span data-stu-id="abfc7-110">Specific location retention policies</span></span>
 
-  - <span data-ttu-id="89181-111">Organizācijas mēroga saglabāšanas politikas</span><span class="sxs-lookup"><span data-stu-id="89181-111">Organization-wide retention policies</span></span>
+  - <span data-ttu-id="abfc7-111">Organizācijas mēroga saglabāšanas politikas</span><span class="sxs-lookup"><span data-stu-id="abfc7-111">Organization-wide retention policies</span></span>
 
-- <span data-ttu-id="89181-112">Microsoft 365 etiķetes</span><span class="sxs-lookup"><span data-stu-id="89181-112">Microsoft 365 labels</span></span>
+- <span data-ttu-id="abfc7-112">Microsoft 365 etiķetes</span><span class="sxs-lookup"><span data-stu-id="abfc7-112">Microsoft 365 labels</span></span>
 
-<span data-ttu-id="89181-113">Lai noteiktu, kāda veida aizturēts tiek lietots lietotāja pastkastei, skatiet, [kā noteikt, kāda veida aizturēts, kas atrodas Exchange Online pastkastē](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).</span><span class="sxs-lookup"><span data-stu-id="89181-113">To identify which type of hold is applied to a user's mailbox, see [How to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).</span></span>
+<span data-ttu-id="abfc7-113">Lai noteiktu, kāda tipa aizturēšana tiek lietota lietotāja pastkastei, skatiet rakstu [kā identificēt Exchange Online pastkastē ievietoto aizturēšanas tipu](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).</span><span class="sxs-lookup"><span data-stu-id="abfc7-113">To identify which type of hold is applied to a user's mailbox, see [How to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).</span></span>
