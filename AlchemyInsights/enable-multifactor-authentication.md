@@ -1,5 +1,5 @@
 ---
-title: Iespējot daudzfaktoru autentifikāciju
+title: Daudzfaktoru autentifikācijas iespējošana
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703469"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678043"
 ---
-# <a name="enable-multi-factor-authentication"></a>Vairāku faktoru autentifikācijas iespējošana
+# <a name="enable-multi-factor-authentication"></a>Daudzfaktoru autentifikācijas iespējošana
 
-Lai iespējotu vairāku faktoru autentifikācijas Microsoft 365 administrēšanas centrs:
+Lai iespējotu daudzfaktoru autentifikāciju Microsoft 365 administrēšanas centrā:
 
-1. Dodieties uz **lietotāju** \> **aktīvo lietotāju** lapu.
+1. Dodieties uz lapu **lietotāji** \> **Aktīvie lietotāji** .
     
-2. Lapas augšdaļā atlasiet **vairāku faktoru autentifikācija**. 
+2. Lapas augšdaļā atlasiet **daudzfaktoru autentifikācija**. 
     
-3. Atrodiet lietotāju vai lietotājiem, kuriem vēlaties iespējot vairāku faktoru autentifikācija. Lai redzētu visus lietotājus, iespējams, augšdaļā ir jāmaina **vairāku faktoru autentifikācijas statusa** filtrs.
+3. Atrodiet lietotāju vai lietotājus, kurus vēlaties iespējot daudzfaktoru autentifikācijai. Lai skatītu visus lietotājus, iespējams, būs jāmaina **daudzfaktoru autorizācijas statusa** filtrs augšpusē.
     
 4. Atzīmējiet izvēles rūtiņu blakus lietotājiem, kurus vēlaties iespējot.
     
-5.  Labajā lietotāja informācijas rūtī, sadaļā **ātrās darbības**, atlasiet **Iespējot**. 
+5.  Labās rūts informācija par lietotāju sadaļā **ātrās darbības**atlasiet **Iespējot**. 
     
-6. Dialoglodziņā, kas atveras, atlasiet **Iespējot vairāku faktoru autentifikāciju**. 
+6. Dialoglodziņā, kas tiek atvērts, atlasiet **Iespējot daudzfaktoru autentifikāciju**. 
     
 

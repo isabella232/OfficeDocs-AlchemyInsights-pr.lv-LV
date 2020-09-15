@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976060"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677683"
 ---
 # <a name="troubleshoot-your-printer"></a>Printera problēmu novēršana
 
-Ja rodas problēmas ar printeri, vispirms mēģiniet veikt **printera enerģijas ciklu**. Rīkojieties:
+Ja rodas problēmas ar printeri, vispirms mēģiniet veikt **printera enerģijas ciklu**. Izpildiet tālāk norādītās darbības.
 
-1. Izslēdziet printeri un atvienojiet tā strāvas vadu.
-2. Pagaidiet 30 sekundes.
-3. Pievienojiet printeri atpakaļ un atkal ieslēdziet printeri.
+1. Izslēdziet printeri un atvienojiet strāvas padeves vadu no kontaktligzdas.
+2. Uzgaidiet 30 sekundes.
+3. Ievietojiet printera strāvas padeves vadu atpakaļ kontaktligzdā un ieslēdziet printeri.
 
-Ja tas neatrisina problēmu, palaidiet printera problēmu risinātāju, dodoties uz **Sākt** > **iestatījumu** > **atjaunināšanu & drošības** > **problēmu novēršana**. Atlasiet **printeri**un pēc tam atlasiet **palaist problēmu risinātāju**.
+Ja problēma nav novērsta, palaidiet printera problēmu risinātāju, atverot sadaļu **Sākt**  >  **iestatījumu**  >  **atjaunināšanu & drošības**  >  **problēmu novēršana**. Atlasiet **printeris**un pēc tam atlasiet **palaist problēmu risinātāju**.

@@ -6,19 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507485"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679700"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nedarbojas, kā paredzēts
 
@@ -26,28 +26,28 @@ ms.locfileid: "44507485"
 
  **DLP iestatīšana**
 
-Vai jums ir problēmas ar **datu zuduma novēršana (DLP)** Office 365 nedarbojas, kā paredzēts? Ja tā ir, pārliecinieties, vai **DLP politika** ir iestatīta pareizi un jūsu dati satur **DLP politika** meklē, kad tas tiek novērtēts.
+Vai rodas problēmas ar **datu zuduma novēršanu (DLP)** sistēmā Office 365, nedarbojas, kā paredzēts? Ja jā, pārliecinieties, vai jūsu **DLP politika** ir iestatīta pareizi, un jūsu datos ir norādīts, kā tiek meklēta **DLP politika** , kad tas tiek novērtēts.
   
-DLP politika ļauj identificēt un aizsargāt sensitīvu informāciju jūsu organizācijā. Lai iestatītu DLP politikas, izmantojiet [šeit](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)informāciju.
+DLP politikas ļauj identificēt un aizsargāt sensitīvu informāciju jūsu organizācijā. Lai iestatītu DLP politikas, izmantojiet [šeit](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)esošo informāciju.
   
- **Kāda DLP politika meklē**
+ **Ko DLP politikas meklē**
   
-Izmantojot **iebūvēto sensitīvo informācijas tipu** drošības un atbilstības centros, DLP politikas meklēt konkrētu modeļu un elementi, nosakot šo sensitīvo tipu.
+Izmantojot **iebūvētos sensitīvos informācijas tipus** drošības un atbilstības centros, DLP politikas meklē konkrētus modeļus un elementus, nosakot šos jutīgos tipus.
   
-- **Iebūvēti sensitīvi informācijas veidi**
+- **Iebūvētie sensitīvie informācijas tipi**
 
-    Lai iegūtu informāciju par iebūvētiem sensitīviem tipiem un to, kāda ir DLP politika, kad tiek noteikta sensitīva tipa noteikšana, skatiet: [kāda veida sensitīvo informācijas tipu meklē](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Lai iegūtu informāciju par iebūvētajiem sensitīvajiem tipiem un to, kas ir paredzēts DLP politikai, nosakot sensitīvo tipu, skatiet rakstu: [kā izskatās sensitīvās informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- **Pielāgoti sensitīvi informācijas tipi**
+- **Pielāgoti sensitīvie informācijas tipi**
 
-    Ja mēģināt izveidot pielāgotu konfidenciālus informācijas tipus, izmantojiet šo rakstu, lai iegūtu informāciju par to, kā izveidot pielāgotu sensitīvu tipu: [izveidojiet pielāgotu sensitīvo informācijas tipu](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Ja mēģināt izveidot pielāgotus sensitīvos informācijas tipus, lai iegūtu informāciju par to, kā izveidot pielāgotu sensitīvu datu tipu, izmantojiet tālāk norādīto [rakstu.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **DLP politikas pārbaude**
 
-Lai pārbaudītu datus ar iebūvētu vai pielāgotu sensitīvu informācijas tipu, izmantojiet opciju **testa tips** sadaļā **klasifikācija**  >  **sensitīvo informācijas tipi**. Papildinformāciju skatiet sadaļā [pielāgotu sensitīvo informācijas tipu testēšana](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Lai testētu savus datus ar iebūvētu vai pielāgotu sensitīvu informācijas tipu, izmantojiet opciju **testa veids** , kas pieejama sadaļā **klasificēti**  >  **sensitīvi informācijas tipi**. Papildinformāciju skatiet rakstā [pielāgotu sensitīvo informācijas tipu pārbaude](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
- **Ziņojumi**
+ **Atskaites**
   
-- Iegūstiet sensitīvu datu ieskati ar [DLP pārskatiem.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Iegūstiet sensitīvus datus ieskatu ar [DLP atskaitēm.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Skatiet detalizētu informāciju par notikumu, izmantojot [ziņojumu par incidentu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Skatiet detalizētu informāciju par notikumu ar [starpgadījumu atskaiti](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).

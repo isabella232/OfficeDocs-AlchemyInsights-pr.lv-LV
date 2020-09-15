@@ -1,28 +1,29 @@
 ---
-title: Failu augšupielādes problēmu novēršana pakalpojumā OneDrive
+title: Ar failu augšupielādi pakalpojumā OneDrive saistīto problēmu novēršana
 ms.author: matteva
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: f84d2ca8e5f620af7fb0d583fa311bf9d2d97c0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719581"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677647"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Failu augšupielādes problēmu novēršana pakalpojumā OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Ar failu augšupielādi pakalpojumā OneDrive saistīto problēmu novēršana
 
-Izmēģiniet šo failu, ja fails netiek augšupielādēts:
+Izmēģiniet šo, ja failu nevar augšupielādēt:
   
-- Pārdēvējiet failu un mēģiniet vēlreiz. Failu nosaukumos nav atļauti daži failu nosaukumi un rakstzīmes. 
+- Pārdēvējiet failu un mēģiniet vēlreiz. Daži failu nosaukumi un rakstzīmes failu nosaukumos nav atļautas. 
     
-- Ja sinhronizējat failu, pārvietojiet to no OneDrive mapes (piemēram, pārvietojiet to uz darbvirsmu), un, kad OneDrive sinhronizācijas statuss tiek parādīts kā "atjaunināts", pārvietojiet to atpakaļ. 
+- Ja sinhronizējat failu, pārvietojiet to no savas OneDrive mapes (piemēram, pārvietojiet to uz darbvirsmu) un, ja OneDrive sinhronizācijas statuss tiek rādīts kā "atjaunināts", pārvietojiet to atpakaļ. 
     
-[Vairāk problēmu novēršanas padomi](https://go.microsoft.com/fwlink/?linkid=873155)
+[Citi problēmu novēršanas padomi](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

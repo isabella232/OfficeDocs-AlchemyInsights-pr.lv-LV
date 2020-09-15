@@ -1,23 +1,24 @@
 ---
-title: Nedarbojas DLP kārtula kredītkartes numurs
+title: Jūsu kredītkartes numura DLP noteikums nedarbojas
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507413"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679448"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP problēmas ar kredītkaršu numuriem
 
@@ -25,35 +26,35 @@ ms.locfileid: "44507413"
 
 **DLP problēmas ar kredītkaršu numuriem**
 
-Vai jums ir problēmas ar **datu zuduma novēršana (DLP)** nedarbojas saturu, kas satur **kredītkartes numuru** , izmantojot DLP konfidenciālu informācijas tipu O365? Ja tā ir, pārliecinieties, vai saturs satur nepieciešamo informāciju, lai izraisītu DLP politiku, kad tā tiek novērtēta. Piemēram, **kredītkartes politikai** , kas konfigurēta ar ticamības līmeni 85%, tiek novērtēti tālāk minētie un ir jānosaka, lai kārtula izraisītu:
+Vai rodas problēmas saistībā ar **datu zuduma novēršanu (DLP)** , kas nestrādā ar saturu, kas satur **kredītkartes numuru** , izmantojot DLP sensitīvas informācijas tipu programmā O365? Ja jā, pārliecinieties, vai saturs satur nepieciešamo informāciju, lai aktivizētu DLP politiku, kad tas tiek novērtēts. Piemēram, **kredītkaršu politikai** , kas konfigurēta ar 85% ticamības līmeni, tiek novērtētas tālāk norādītās darbības un ir jānosaka, ka kārtula tiek aktivizēta:
   
-- **[Formāts:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 cipari, kurus var formatēt vai Neformatēt (dddddddddddddd), un ir jānokārto Luhn tests.
+- **[Formāts:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 cipari, kas var būt formatēti vai neformatēti (dddddddddddddddd), un ir jāiztur Luhn pārbaude.
 
-- **[Modelis:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Ļoti sarežģīts un spēcīgs modelis, kas atrod kārtis no visiem lielākajiem zīmoliem visā pasaulē, ieskaitot visa, MasterCard, Discover Card, JCB, American Express, dāvanu kartes un pusdienotājs kartes.
+- **[Modelis:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Ļoti sarežģīts un robusts modelis, kas atklāj kartes no galvenajiem zīmoliem visā pasaulē, tostarp visa, MasterCard, Discovery Card, JCB, American Express, dāvanu kartes un Diner Cards.
 
 - **[Kontrolsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Jā, Luhn kontrolsumma
 
-- **[Definīcija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP politika ir 85% pārliecināta, ka tā tiek atklāta šāda veida sensitīva informācija, ja tuvums 300 rakstzīmes:
+- **[Definīcija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP politika ir 85% pārliecināts, ka tā ir atklājusi šādu sensitīvas informācijas tipu, ja 300.
 
-  - Funkcija Func_credit_card atrod saturu, kas atbilst paraugam.
+  - Funkcija Func_credit_card atrod saturu, kas atbilst rakstam.
 
-  - Ir spēkā kāds no šiem:
+  - Ir patiess viens no šiem apgalvojumiem:
 
-  - Tiek atrasts atslēgvārds no Keyword_cc_verification.
+  - Ir atrasts atslēgvārds no Keyword_cc_verification.
 
-  - Tiek atrasts atslēgvārds no Keyword_cc_name
+  - Ir atrasts atslēgvārds no Keyword_cc_name
 
   - Funkcija Func_expiration_date atrod datumu pareizajā datuma formātā.
 
-  - Kontrolsumma iet
+  - Kontrolsummas caurlaides
 
-    Piemēram, šādu paraugu izraisīs DLP kredītkartes numuru politika:
+    Piemēram, tālāk norādītie paraugi izraisītu DLP kredītkaršu numuru politiku:
 
   - Vīza: 4485 3647 3952 7352
   
-  - Beidzas: 2/2009
+  - Derīgums beidzas: 2/2009
 
-Lai iegūtu papildinformāciju par to, kas ir nepieciešams, lai jūsu saturam tiktu noteikts **kredītkartes numurs** , skatiet tālāk minēto sadaļu šajā rakstā: [kādas sensitīvās informācijas veidi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number) tiek atrasti, izmantojot kredītkarti #
+Lai iegūtu papildinformāciju par to, kas ir nepieciešams **kredītkartes numura** noteikšanai jūsu saturam, skatiet šī raksta nākamajā sadaļā: [kādi ir sensitīvo informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number) .
   
-Izmantojot citu iebūvētu sensitīvo informācijas tipu, skatiet šo rakstu, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: [, kāda veida sensitīvo informācijas veidu meklē](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Citas iebūvētas sensitīvas informācijas tipa izmantošana ir atrodama šajā rakstā, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: [ko nozīmē sensitīvie informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

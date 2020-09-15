@@ -6,34 +6,35 @@ manager: laurawims
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507449"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679592"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP politikas Padoms problēmas
+# <a name="dlp-policy-tip-issues"></a>DLP politikas padomu problēmas
 
 **Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
 **DLP politikas padomi**
 
-Izmantojot **DLP politiku**, lietotājiem var tikt paziņots par politikas pārkāpumu ar **politikas padomiem**. Administratori var konfigurēt politikas padomus, kas tiek rādīti, pārbaudot to DLP politiku vai kad politika ir pilnā izpildes režīmā.
+Izmantojot **DLP politikas**, lietotāji var saņemt paziņojumu par politikas pārkāpumiem ar **politikas padomiem**. Administratori var konfigurēt politikas padomus, lai tie tiktu rādīti, testējot savu DLP politiku vai kad politika ir pilna izpildes režīmā.
   
-Lai konfigurētu politikas padomus DLP politikā drošības un atbilstības centrā pilnā izpildes režīmā, rīkojieties šādi:
+Lai konfigurētu politikas padomus, kas atbilst jūsu DLP politikai drošības un atbilstības centrā pilnās izpildes režīmā, veiciet tālāk norādītās darbības.
   
-- Nodrošināt politikas padomi ir **iespējoti** DLP kārtulu, izmantojot darbības [šeit](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Pārliecinieties, vai ir **iespējoti** politikas padomi DLP kārtulā, veicot tālāk norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Pārliecinieties, ka jūsu **saturs atbilst** kas ir **nepieciešams** , lai izraisītu noteikumu, kas izklāstīti šajā rakstā [šeit](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+- Pārliecinieties, vai **saturs atbilst** tam, kas ir **nepieciešams** , lai aktivizētu [šajā rakstā](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)izklāstīto kārtulu.
 
-- Politikas padomi parādīt gan OWA un Outlook. Tomēr, izmantojot **Outlook 2013 vai jaunāku versiju**, politikas padomi tiek parādīti tikai konkrētos apstākļos. Šie nosacījumi ir norādīti šeit: [atbalstītie nosacījumi programmai Outlook 2013 vai jaunākai versijai par politikas padomu parādīšanu](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Politikas padomi tiek rādīti gan OWA, gan Outlook. Taču, izmantojot **Outlook 2013 vai jaunāku versiju**, politikas padomi tiek parādīti tikai noteiktos apstākļos. Šeit ir uzskaitīti tālāk minētie nosacījumi: [Outlook 2013 vai jaunāka versija, kas paredzēta politikas padomu parādīšanai](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Lai iegūtu papildinformāciju par DLP politikas tips, skatiet: [Rādīt politikas padomi DLP politikas](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Papildu informāciju par DLP politikas padomiem skatiet rakstā [politikas padomi par DLP politikām](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

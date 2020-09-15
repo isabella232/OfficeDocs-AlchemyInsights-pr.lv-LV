@@ -1,11 +1,12 @@
 ---
-title: 125 kļūst nederīga licences kļūda programmā Outlook tīmeklī?
+title: 125 saņemat nederīgu licences kļūdu programmā Outlook tīmeklī?
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708838"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677466"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Kļūst nederīga licences kļūda programmā Outlook tīmeklī?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Vai programmā Outlook tīmeklī saņemat nederīgu licences kļūdu?
 
-Ja izmantojat Outlook Web un saņemat **kaut** kļūme kļūda, kas ir **X-OWA-kļūda: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, Exchange Online licences nav pareizi piešķirts vai ir nesen beidzies. Administrators var piešķirt jums licenci, veicot šādas darbības:
+Ja izmantojat Outlook tīmeklī un saņemat **kaut ko** , radās kļūda ar **X-OWA-kļūda: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, jūsu Exchange Online licence nav pareizi piešķirta vai pēdējā derīguma termiņš ir beidzies. Administrators var piešķirt jums licenci, veicot tālāk norādītās darbības.
   
-1. Atveriet [Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/homepage) un sadaļā **Aktīvie lietotāji**atlasiet **Rediģēt lietotāju**.
+1. Atveriet [Microsoft 365 administrēšanas centru](https://portal.office.com/adminportal/home#/homepage) un sadaļā **Aktīvie lietotāji**atlasiet **Rediģēt lietotāju**.
 
-2. Atveriet lietotāja **lapu,** kas tiek atvērts, atlasiet lietotāju. Lietotāja rekvizītu lapā, kas tiek atvērts, noklikšķiniet **Edit** uz rediģēt **produktu licences**.
+2. Atvērtajā lapā **Rediģēt lietotāju** atlasiet lietotāju. Lietotāja rekvizītu lapā, kas tiek atvērta, noklikšķiniet **Edit** uz rediģēt **produktu licencēm**.
 
-3. Lapā **produktu licences** tiek atvērts, atlasiet atbilstošo **atrašanās vietas** vērtību un piešķiriet licenci, kas satur Exchange Online (izvērsiet licenci, lai skatītu tās informāciju). Kad esat beidzis, noklikšķiniet uz **Saglabāt**.
+3. Lapā **produktu licences** , kas tiek atvērta, atlasiet vajadzīgo **atrašanās vietas** vērtību un piešķiriet licenci, kas satur Exchange Online (izvērsiet licenci, lai skatītu detalizētu informāciju). Kad esat beidzis, noklikšķiniet uz **Saglabāt**.

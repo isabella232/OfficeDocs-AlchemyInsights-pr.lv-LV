@@ -1,27 +1,28 @@
 ---
-title: Sazinieties ar mums, noklikšķinot uz austiņu pogas
+title: Sazinieties ar mums, noklikšķinot uz austiņas pogas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584732"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680907"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Sazinieties ar mums, noklikšķinot uz austiņu pogas
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Sazinieties ar mums, noklikšķinot uz austiņas pogas
 
-Ja vēlaties sazināties ar Microsoft atbalsta dienestu, lūdzu, noklikšķiniet uz **sazināties ar mums** šīs lietotnes apakšējā kreisajā stūrī. Inside fly-out logā, jums tiks vadīties pie pareizā atbalsta kanāls pēc izvēloties savu produktu un jautājumu kategorijā.
+Ja vēlaties sazināties ar Microsoft atbalsta dienestu, lūdzu, noklikšķiniet uz **sazināties ar mums** šīs lietojumprogrammas kreisajā apakšējā stūrī. Izlidošanas logā jūs tiksit novirzīts uz pareizo atbalsta kanālu pēc produkta un emisijas kategorijas izvēlēšanās.
 
 ![Sazinieties ar mums, noklikšķinot uz austiņu ikonas.](media/contact-us-headphone-icon.png)
 
-Jūs varat turpināt saskarsme ar pārējo app pat pēc tam, kad esat iniciējis sazinieties ar mums sesiju. Paneli sazināties ar mums īslaicīgi var samazināt, noklikšķinot jebkur citur lietotnē. Lai atgrieztos tajā pašā sesijā, vienkārši noklikšķiniet uz **sazināties ar mums** vēlreiz.
+Varat turpināt mijiedarboties ar pārējiem programmas pat pēc tam, kad esat sācis sazināties ar mums sesiju. Sazināšanās ar mums panelī var īslaicīgi samazināt, programmā noklikšķinot jebkurā vietā citur. Lai atgrieztos tajā pašā sesijā, vienkārši vēlreiz noklikšķiniet uz **sazināties ar mums** .
