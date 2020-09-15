@@ -1,28 +1,29 @@
 ---
-title: Atmest paņemšanu
+title: Paņemšanas atmešana
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715121"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712335"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Paņemšanas atmešanas no dokumentu bibliotēkas
+# <a name="discard-a-check-out-from-a-document-library"></a>Paņemšanas atmešana no dokumentu bibliotēkas
 
-1. Ar peles labo pogu noklikšķiniet uz faila, kuru vēlaties atmest paņemšanu.
+1. Ar peles labo pogu noklikšķiniet uz faila, kuram vēlaties atmest paņemšanu.
     
 2. Noklikšķiniet uz **vēl**un pēc tam noklikšķiniet uz **atmest paņemšanu**. 
     
-3. Dialoglodziņā noklikšķiniet uz **atmest** paņemšanu, lai notīrītu paņemšanu. 
+3. Dialoglodziņā noklikšķiniet uz **atmest** paņemšanu, lai notīrītu atzīmi. 
     
-Papildu jautājumus par reģistrēšanos un pārbaudi skatiet sadaļā [populārākie jautājumi par paņemšana, reģistrēšanās un versijas](https://go.microsoft.com/fwlink/?linkid=2018786).
+Papildu jautājumus par atdošanas un paņemšanas jautājumiem skatiet rakstā [biežāk uzdotie jautājumi par paņemšanu, atdošanas un versijām](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

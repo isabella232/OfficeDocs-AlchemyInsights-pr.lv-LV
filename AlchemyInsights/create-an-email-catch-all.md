@@ -1,40 +1,41 @@
 ---
-title: Izveidot e-pasta catch visu
+title: E-pasta nozvejas izveide visiem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 35f31c1662547d57c2fc9978ffb495ac29abcc01
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712993"
 ---
-# <a name="create-an-email-catch-all"></a>Izveidot e-pasta catch visu
+# <a name="create-an-email-catch-all"></a>E-pasta nozvejas izveide visiem
 
-Visas nozvejas izmantošana tiek stingri kavēti. Tas ir labāk, lai nodrošinātu piepeši atpakaļ sūtītājam izīrēšanas sūtītājiem zināt viņu ziņu nevar piegādāt kā adresēts, lai viņi varētu rīkoties. Varat arī ierobežot pārraudzītas pastkastes tikai catch iepriekš derīgu e-pasta adreses. 
+Ir stingri kavēta nozvejas lietošana. Labāk ir nodrošināt atlēcienu sūtītājam, kas nosūta sūtītājus par to, ka viņu ziņojumu nevarēja nosūtīt kā adresētu, lai viņi varētu rīkoties. Varat arī ierobežot monitorētās pastkastes tikai iepriekš derīgās e-pasta adreses. 
 
-Jebkurš nozvejas visas pastkastes saņems daudz surogātpasta un galu galā var aizpildīt, ja nav cieši jāuzrauga. (Ir saņemšanas ierobežojumi.) 
+Visas nozvejas visas pastkastes saņems lielu surogātpasta daudzumu, un tā, iespējams, tiks aizpildīta, ja netiek stingri pārraudzīta. (Ir saņemti ierobežojumi.) 
 
-Ja nolemjat turpināt, veiciet tālāk norādītās darbības.
+Ja izlemjat turpināt, veiciet tālāk norādītās darbības.
 
-1. Dinamiskās adresātu grupas izveide & iekļaut "visi adresātu tipi".
+1. Izveidojiet dinamisku adresātu grupu & iekļaujiet visus adresātu tipus.
 
-2. Izveidojiet speciālu pastkasti, lai noķertu e-pastus, piemēram, catchall@domain.com.
+2. Izveidojiet atvēlētu pastkasti e-pasta ziņojumu nozvejai, piemēram, catchall@domain.com.
 
-3. Konkrētu domēna, iestatiet DomainType "InternalRelay". Ja jūs vēlāk izņemt nozvejas visiem, pārliecinieties, lai uzstādītu domēna atpakaļ autoritatīvu.
+3. Konkrētajā domēnā iestatiet DomainType uz "InternalRelay". Ja vēlāk noņemat catch all, noteikti iestatiet domēnu atpakaļ uz autoritatīvo.
 
-4. Izveidojiet šādu Mailflow transporta kārtulu:
+4. Izveidojiet pasta risinātājahttps://Configure.Office.com/Scenario.aspx?SID=12 transporta kārtulu šādi:
 
-    - Ja sūtītājs ir "ārpus organizācijas"
-    - Novirzīt ziņojumu uz Catchall@domain.com
-    - Izņemot, ja saņēmējs ir biedrs allusers@domain.com (adresātu grupa ir visi dalībnieki)
-    - Pārliecinieties, lai apstiprinātu, ka jaunās pastkastes tiek pievienotas dinamiskā adresātu grupa
+    - Ja sūtītājs ir ārpus organizācijas
+    - Ziņojuma novirzīšana uz Catchall@domain.com
+    - Izņemot gadījumus, kad adresāts ir allusers@domain.com dalībnieks (adresātu grupā ir visi dalībnieki)
+    - Nodrošiniet, lai validētu, ka jaunās pastkastes tiek pievienotas dinamiskās adresātu grupai
