@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569222"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701686"
 ---
 # <a name="remove-the-large-attachment"></a>Noņemiet lielo pielikumu
 
-1. Programmā Outlook atlasiet **Nosūtīt/saņemt**  >  **darbu bezsaistē**. 
-2. Navigācijas rūtī atlasiet **Izsūtne**. No šejienes jūs varat: 
-    - Izdzēsiet ziņu (atlasiet to un pēc tam atlasiet **Dzēst**).
+1. Programmā Outlook atlasiet **Sūtīt/saņemt**  >  **darbu bezsaistē**. 
+2. Navigācijas rūtī atlasiet **Izsūtne**. Šeit varat veikt šādas darbības: 
+    - Izdzēsiet ziņojumu (atlasiet to un pēc tam atlasiet **Dzēst**).
     - Velciet ziņojumu uz melnrakstu mapi, veiciet dubultklikšķi, lai to atvērtu, un noņemiet pielikumu atlasiet to un pēc tam atlasiet **Dzēst**).
-3. Ja tiek parādīts kļūdas ziņojums, kurā teikts, ka programma Outlook mēģina pārraidīt ziņojumu, aizveriet programmu Outlook. Tas var aizņemt kādu brīdi, lai izietu. Ja programma Outlook netiek aizvērta, nospiediet taustiņu kombināciju CTRL + ALT + DELETE un atlasiet **startēt uzdevumu pārvaldnieku**. Uzdevumu pārvaldniekā atlasiet cilni **procesi** , ritiniet uz leju līdz Outlook. exe un atlasiet **Beigt procesu**.
-4. Kad programma Outlook tiek aizvērta, restartējiet to un atkārtojiet 2. un 3. darbību. 
-5. Pēc pielikuma noņemšanas noklikšķiniet uz **Nosūtīt/saņemt**  >  **darbu bezsaistē** , lai atsāktu darbu tiešsaistē. 
+3. Ja saņemat kļūdas ziņojumu, kurā teikts, ka programma Outlook mēģina pārsūtīt ziņu, slēdziet Outlook. Lai izietu, var paiet daži mirkļi. Ja Outlook nav aizvērts, nospiediet taustiņu kombināciju CTRL + ALT + DELETE un atlasiet **startēt uzdevumu pārvaldnieku**. Uzdevumu pārvaldniekā atlasiet cilni **procesi** , ritiniet uz leju līdz outlook.exe un atlasiet **beigšanas process**.
+4. Pēc tam, kad programma Outlook ir aizvērta, restartējiet to un atkārtojiet 2. un 3. darbību. 
+5. Kad pielikums ir noņemts, noklikšķiniet uz **Nosūtīt/saņemt**  >  **darbu bezsaistē** , lai atsāktu darbu tiešsaistē. 
 
-Ziņojumi tiek iestrēguši arī izsūtnē, kad noklikšķināt uz **nosūtīt**, bet nav izveidots savienojums. Noklikšķiniet uz **Nosūtīt/saņemt** un paskatieties uz pogu **strādāt bezsaistē** . Ja tas ir zils, jūs esat atvienots. Noklikšķiniet uz tās, lai savienotu (poga kļūst balta) un noklikšķiniet uz **Sūtīt visu**.
+Ziņojumi tiek iestrēguši arī izsūtnē, kad noklikšķināt uz **Sūtīt**, bet nav izveidots savienojums. Noklikšķiniet uz **Nosūtīt/saņemt** un skatiet pogu **Darbs bezsaistē** . Ja tas ir zils, savienojums ir pārtraukts. Noklikšķiniet uz tās, lai izveidotu savienojumu (poga kļūst balta) un noklikšķiniet uz **Sūtīt visu**.
  
- Lai iegūtu pilnīgu informāciju, skatiet:
-- [Video: sūtīt vai izdzēst iestrēdzis e-pastu](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+ Detalizētu informāciju skatiet rakstā:
+- [Video: iestrēdzis e-pasta ziņojuma sūtīšana vai dzēšana](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
