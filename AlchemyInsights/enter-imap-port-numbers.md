@@ -1,31 +1,32 @@
 ---
-title: Ievadiet IMAP portu numurus
+title: IMAP portu numuru ievadīšana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279096"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709446"
 ---
-# <a name="enter-imap-port-numbers"></a>Ievadiet IMAP portu numurus
+# <a name="enter-imap-port-numbers"></a>IMAP portu numuru ievadīšana
 
-Piesakieties, izmantojot avansa iestatīšanas ekrānu un pievienojiet savu porta informāciju aiz resnās zarnas saskaņā ar jūsu ienākošo un izejošo serveru adresēm. (Šo informāciju varat iegūt no e-pasta pakalpojumu sniedzēja.) 
+Piesakieties, izmantojot iepriekšējas iestatīšanas ekrānu un pievienojiet sava porta datus zem kola ar ienākošajiem un izejošajiem serveru adresēm. (Šo informāciju varat saņemt no sava e-pasta pakalpojumu sniedzēja.) 
 
-Iet uz **Settings** > **Pievienot kontu** > **IMAP** > un noklikšķiniet uz **Rādīt papildu iestatījumus**; pēc tam ievadiet savus datus. 
+Dodieties uz **Iestatījumi**  >  **Pievienot kontu**  >  **IMAP** > un pēc tam noklikšķiniet uz **Rādīt papildu iestatījumus**un pēc tam ievadiet savu informāciju. 
 
 *Ienākošā pasta serveris*: IMAP.servername.com:000 (parasti 993 vai 143) 
 
 *Izejošā pasta serveris*: SMTP.servername.com:000 (parasti 465 vai 25) 
 
-Paturiet prātā, resnās ir svarīgi. 
+Atcerieties, ka kols ir svarīgs. 
