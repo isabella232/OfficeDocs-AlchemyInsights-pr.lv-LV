@@ -1,35 +1,36 @@
 ---
-title: Atstājiet līdzekļa pieprasījumu vai atsauksmi par programmu izstrādi
+title: Atstājiet līdzekļa pieprasījumu vai atsauksmes par lietojumprogrammas noformējumu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265181"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676529"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Atstājiet līdzekļa pieprasījumu vai atsauksmi par programmu izstrādi
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Atstājiet līdzekļa pieprasījumu vai atsauksmes par lietojumprogrammas noformējumu
 
-Mēs novērtējam jūs dalīties savas domas, kā mēs turpinām strādāt pie Outlook. *Uservoice* ir forums, kur var atstāt atsauksmi un balsot par citu idejām.  
+Mēs novērtējam, ka kopīgojat savas domas, kad turpināsim strādāt ar Outlook. *UserVoice* ir forums, kur varat atstāt atsauksmes un balsot par citu lietotāju idejām.  
 
 Lai atstātu mums ideju: 
 
-**Iestatījumi > palīdzība & atsauksmes > ierosināt līdzekli > izliktu ideju** 
+**Iestatījumi > palīdzība & atsauksmes > ieteikt līdzekli > izlikt ideju** 
 
-**Care kā jūsu vārds/e-pasta displejus?**
+**Cik svarīgi ir parādīt jūsu vārdu/e-pastu?**
 
-Pievienojot komentāru esošam līdzekļu pieprasījumam, programma automātiski aizpildīs jūsu vārdu vai e-pasta adresi no lietotnē iestatītās primārā konta. Lai izvēlētos nosaukumu, kas tiek rādīts, ir jāiesniedz **Jauns** līdzekļu pieprasījums. 
+Kad pievienojat komentāru esošam līdzekļu pieprasījumam, programma automātiski aizpilda jūsu vārdu vai e-pasta adresi no primārā konta, kas iestatīts lietojumprogrammā. Lai izvēlētos, kādu nosaukumu rāda, ir jāiesniedz **Jauns** līdzekļu pieprasījums. 
 
-Pieprasījuma iesniegšana ir vienkāršs 3 soļu process. Trešajā un pēdējā lapā jūs redzēsiet savu e-pasta adresi (obligāti) un rindiņu savam vārdam. Šeit jūs varat izvēlēties, kā jūsu vārds tiks parādīts, vai jūs varat iesniegt ideju anonīmi. 
+Pieprasījuma iesniegšana ir vienkārša 3 soļu process. Trešajā un pēdējā lapā jūs redzēsit savu e-pasta adresi (obligāts) un rindiņas nosaukumu. Šeit varat izvēlēties, kā jūsu vārds tiks attēlots, vai arī jūs varat iesniegt ideju anonīmi. 
 
-**Piezīme:** Jums var būt nepieciešams mainīt, kāda e-pasta adrese ir automātiski aizpildīts šajā lapā. Ja jūsu vārds ir iestatīts noteiktā veidā jūsu e-pasta klienta iestatījumos, jūsu iestatījumi, iespējams, ignorē atsauksmju iesniegšanas anonīmo saturu. 
+**Piezīme:** Iespējams, būs jāmaina arī e-pasta adreses automātiskā aizpildīšana šajā lapā. Ja jūsu vārds ir iestatīts noteiktā veidā jūsu e-pasta klienta iestatījumos, mainot atsauksmes iesniegšanu anonīmi, var tikt ignorēti jūsu iestatījumi. 

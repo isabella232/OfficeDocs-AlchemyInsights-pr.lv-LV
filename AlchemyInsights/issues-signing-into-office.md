@@ -1,38 +1,39 @@
 ---
-title: Problēmas pierakstoties Microsoft 365 Apps
+title: Problēmas saistībā ar pierakstīšanos Microsoft 365 lietojumprogrammās
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579836"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676997"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Problēmas, pierakstoties Microsoft 365 Apps
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problēmas saistībā ar pierakstīšanos Microsoft 365 lietojumprogrammās
 
-Lai novērstu pierakstīšanās problēmas ar Microsoft 365 programmas, ietekmētā datora Izmēģiniet šādas opcijas:  
+Lai novērstu problēmas saistībā ar pierakstīšanos, izmantojot Microsoft 365 lietojumprogrammas, attiecīgajā datorā izmēģiniet tālāk norādītās opcijas.  
 
-- Operētājsistēmai Windows skatiet [ieteikumus par kopēju pierakstīšanās problēmu risināšanu](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Mac, skatiet [nevar pierakstīties Office 2016 Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Darbam ar Windows skatiet rakstu [ieteikumi par izplatītu pierakstīšanās problēmu novēršanu](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Mac datorā, skatiet rakstu  [nevaru pierakstīties Office 2016 for Mac lietojumprogrammā](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Piezīme:** **Nav ieteicama**mūsdienu autentifikācijas (adal) vai tīmekļa konta pārvaldības (WAM) atspējošana pierakstīšanās vai aktivizēšanas problēmu novēršanai. Ja rodas kļūdas, veidojot savienojumu ar Microsoft 365, izmantojot Office 2013, pārliecinieties, ka [iespējojat mūsdienu autentifikācijas](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) Office klienta.
+**Piezīme:**  **Nav ieteicams**atspējot moderno AUTENTIFIKĀCIJU (ADAL) vai tīmekļa konta pārvaldību (WAM), lai novērstu pierakstīšanās vai aktivizēšanas problēmas. Ja rodas kļūdas, veidojot savienojumu ar Microsoft 365, izmantojot Office 2013, pārliecinieties, vai [iespējojat moderno autentifikāciju](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  Office klientam.
 
-Īpašām problēmu novēršanas darbībām skatiet:
+Detalizētu informāciju par problēmu novēršanu skatiet rakstā:
 
-[Savienojuma problēmas pierakstīšanās pēc atjauninājuma Office 2016 veidot 16.0.7967 Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+[Savienojuma problēmas ar pierakstīšanos pēc atjaunināšanas uz Office 2016 būvējumu 16.0.7967 operētājsistēmā Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[Nevar pierakstīties organizācijas kontu, piemēram, Office 365, Azure vai InTune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[Nevar pierakstīties organizācijas kontā, piemēram, Office 365, Azure vai Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[Kā novērst-pārlūka lietojumprogrammas nevar pierakstīties Office 365, Azure vai InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[Kā novērst pārlūkprogrammām nepieejamās programmas, kas nevar pierakstīties pakalpojumā Office 365, Azure vai Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[Atkārtoti piedāvāts ievadīt akreditācijas datus programmā Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[Atkārtoti tiek pieprasīts ievadīt akreditācijas datus sistēmā Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)

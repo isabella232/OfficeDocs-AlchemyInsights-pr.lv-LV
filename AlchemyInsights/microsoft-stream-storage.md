@@ -1,28 +1,29 @@
 ---
-title: Microsoft Stream Storage
+title: Microsoft Stream krātuve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 862a8e9968103a285088d99eff7709cc66b8c545
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675305"
 ---
-# <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
+# <a name="microsoft-stream-storage"></a>Microsoft Stream krātuve
 
-Microsoft Stream nomniekiem saņemt fiksētu sadalījumu 500 GB krātuvi un papildu 0,5 GB krātuvi katram licencētajam lietotājam.
-Sīkāku informāciju par uzglabāšanu skatiet:
+Microsoft Stream nomnieki saņem fiksētu 500 GB krātuves vietu un papildu 0,5 GB krātuves vienam licencētam lietotājam.
+Papildinformāciju par krātuvi skatiet rakstā:
 
-- [Microsoft Stream Storage pārskats](https://docs.microsoft.com/stream/license-overview#storage)
+- [Microsoft Stream krātuves pārskats](https://docs.microsoft.com/stream/license-overview#storage)
 - [Krātuves pievienošana Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
-- [Kvotas un ierobežojumus programmā Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [Kvotas un ierobežojumi pakalpojumā Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)
