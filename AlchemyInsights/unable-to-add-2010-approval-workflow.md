@@ -5,39 +5,40 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582854"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699742"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Nevar pievienot 2010 apstiprinājuma darbplūsmu
 
-Microsoft SharePoint vietņu kolekcijas sarakstu vai bibliotēku nevar pievienot globāli atkārtoti darbplūsmas (piemēram, "apstiprinājums-SharePoint 2010").
+Microsoft SharePoint vietņu kolekcijā sarakstam vai bibliotēkai nevar pievienot globāli atkārtoti izmantojamas darbplūsmas (piemēram, "apstiprinājums-SharePoint 2010").
   
-Lai novērstu šo problēmu, rīkojieties šādi: 
+Lai atrisinātu šo problēmu, veiciet tālāk norādītās darbības. 
   
-1. Atveriet vietņu kolekcijas saknes vietnē programmā SharePoint Designer 2013.
+1. Atveriet vietņu kolekcijas saknes tīmekļa vietni programmā SharePoint Designer 2013.
   
 2. Sadaļā **vietnes objekti**atlasiet **darbplūsmas**. 
   
-3. **Jaunajā** sadaļā **darbplūsmas** lentē atlasiet **atkārtoti izmantojama darbplūsma**. 
+3. Sadaļā **jauna** **darbplūsmas** lente atlasiet **atkārtoti izmantojama darbplūsma**. 
   
-4. Veidlapā **izveidot atkārtoti izmantojamu darbplūsmu** ievadiet nosaukumu * * *Repair2010* * *. **Platformas tips**, noklikšķiniet uz **SharePoint 2010 darbplūsmā**, un pēc tam noklikšķiniet uz **Labi**. 
+4. Veidlapā atkārtoti **izmantojamas darbplūsmas izveide** ievadiet nosaukumu * * *Repair2010* * *. **Platformas tipam**noklikšķiniet uz **SharePoint 2010 darbplūsma**un pēc tam noklikšķiniet uz **Labi**. 
   
-1. **Darbplūsmas** lentes sadaļā **saglabāt** atlasiet **publicēt**. 
+1. **Darbplūsmas** lentes sadaļā **Saglabāt** atlasiet **publicēt**. 
   
-2. Sadaļā **pārvaldīt** **darbplūsmas** lentē atlasiet **publicēt globāli**. Apstiprinājuma parādītajā dialoglodziņā atlasiet **Labi**. 
+2. **Darbplūsmas** lentes sadaļā **pārvaldība** atlasiet **publicēt globāli**. Apstiprinājuma dialoglodziņā, kas tiek parādīts, atlasiet **Labi**. 
   
-3. Web pārlūkprogrammā atrodiet vietņu kolekcijas saknes vietni un pēc tam piekļūstiet **vietnes iestatījumu** \> **vietņu kolekcijas līdzekļiem**. Pārslēdziet līdzekli **darbplūsmas** : 
+3. Tīmekļa pārlūkprogrammā atrodiet vietņu kolekcijas saknes tīmekļa vietni un pēc tam piekļūstiet **vietnes iestatījumu** \> **vietņu kolekcijas līdzekļiem**. Pārslēdziet **darbplūsmas** līdzekli: 
   
-· Ja līdzeklis ir *aktivizēts* , noklikšķiniet uz **deaktivizēt** un pēc tam noklikšķiniet uz **Aktivizēt**. 
+· Ja līdzeklis ir  *aktivizēts*  , noklikšķiniet uz **deaktivizēt** un pēc tam uz **Aktivizēt**. 
   
-· Ja līdzeklis ir *deaktivizēts* , noklikšķiniet uz **Aktivizēt**. 
+· Ja līdzeklis ir  *deaktivizēts*  , noklikšķiniet uz **Aktivizēt**. 
   
 Lai iegūtu papildinformāciju, lūdzu, skatiet šo [rakstu](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   

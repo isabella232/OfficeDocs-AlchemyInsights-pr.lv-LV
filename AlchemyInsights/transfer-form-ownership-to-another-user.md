@@ -1,25 +1,26 @@
 ---
-title: Nodot veidlapas īpašumtiesības citam lietotājam
+title: Veidlapas īpašumtiesību nodošana citam lietotājam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 6c975955b596a0c8ab2693aa73074ad7c86913e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700138"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a>Nodot īpašumtiesības uz Microsoft formu
+# <a name="transfer-ownership-of-a-microsoft-form"></a>Microsoft veidlapas īpašumtiesību nodošana
 
-Varat pārvietot aptauja, tests vai aptauja Microsoft Forms grupai, lai ikviens jūsu grupā kļūst īpašnieki šo veidlapu. Var arī pārsūtīt veidlapas īpašumtiesības citam lietotājam ja iepriekšējam īpašniekam ir atstājis organizāciju.
+Programmā Microsoft Forms varat pārvietot aptauju, viktorīnu vai aptauju par grupu, lai ikviens grupas dalībnieks kļūst par šīs veidlapas īpašniekiem. Varat arī pārsūtīt veidlapas īpašumtiesības citam lietotājam, ja iepriekšējais īpašnieks ir pametis organizāciju.
 
-Plašāku informāciju skatiet [pārsūtīšanas īpašumtiesību forma](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).
+Lai iegūtu papildinformāciju, skatiet rakstu [veidlapas īpašumtiesību nodošana](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).

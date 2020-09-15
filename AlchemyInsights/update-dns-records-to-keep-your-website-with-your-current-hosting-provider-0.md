@@ -1,10 +1,11 @@
 ---
-title: Atjauniniet DNS ierakstus, lai uzturētu jūsu vietni ar pašreizējo viesošanas pakalpojumu sniedzēju
+title: DNS ierakstu atjaunināšana, lai savu tīmekļa vietni uzturētu ar pašreizējo viesošanas pakalpojumu sniedzēju
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665767"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699526"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Atjauniniet DNS ierakstus, lai uzturētu jūsu vietni ar pašreizējo viesošanas pakalpojumu sniedzēju
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS ierakstu atjaunināšana, lai savu tīmekļa vietni uzturētu ar pašreizējo viesošanas pakalpojumu sniedzēju
 
-1. Microsoft 365 administrēšanas centrā pārejiet uz lapu **iestatījumu**  >  [Domēni](https://portal.office.com/adminportal/home#/Domains) un domēnu sarakstā atlasiet domēnu, kuru izmantojat savai vietnei.
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **iestatīšanas**  >  [Domēni](https://portal.office.com/adminportal/home#/Domains) un domēnu sarakstā atlasiet tīmekļa vietnei izmantojamo domēnu.
 
-2. Atlasiet **+ Jauns pielāgots ieraksts** un ievadiet sekojošo:
+2. Atlasiet **+ Jauns pielāgots ieraksts** un ievadiet šādu informāciju:
 
-  - **DNS tipa** ievadei: **a (adrese)**
+  - Sadaļā **DNS tips** ievadiet: **a (adrese)**
 
-  - **Resursdatora nosaukumu vai aizstājvārdu**, ierakstiet šādu:**@**
+  - Sadaļā **resursdatora nosaukums vai aizstājvārds**ierakstiet šādu informāciju: **@**
 
-  - Lai iegūtu **IP adresi**, ierakstiet savas vietnes statisko IP adresi, kur tā pašlaik tiek viesota (piemēram, 172.16.140.1).
+  - Sadaļā **IP adrese**ierakstiet statisko IP adresi savai tīmekļa vietnei, kur tā pašlaik tiek viesota (piemēram, 172.16.140.1).
 
-    Šī ir *statiska* IP adrese mājas lapā, nevis *dinamisko* IP adresi. Pārbaudiet ar vietni, kur jūsu mājas lapā ir izvietots, lai pārliecinātos, ka jūs varat saņemt statisku IP adresi jūsu publiskajā vietnē.
+    Šai tīmekļa vietnei ir jābūt  *statiskai*  IP adresei, nevis  *dinamiskajai*  IP adresei. Lai pārliecinātos, vai jūsu publiskajai tīmekļa vietnei varat iegūt statisku IP adresi, skatiet vietni, kurā tiek viesota jūsu tīmekļa vietne.
 
-3. Atlasiet **saglabāt**.
+3. Atlasiet **Saglabāt**.
 
-Turklāt varat izveidot CNAME ierakstu, lai palīdzētu klientiem atrast jūsu vietni.
+Turklāt varat izveidot CNAME ierakstu, lai klientiem palīdzētu atrast jūsu tīmekļa vietni.
   
-1. Atlasiet **+ Jauns pielāgots ieraksts** un ievadiet sekojošo:
+1. Atlasiet **+ Jauns pielāgots ieraksts** un ievadiet šādu informāciju:
 
-  - **DNS tipa** ievadiet: **CNAME (aizstājvārds)**
+  - Sadaļā **DNS tips** ievadiet **CNAME (aizstājvārds)**
 
-  - **Resursdatora nosaukumu vai aizstājvārdu**, ierakstiet šādu: **www**
+  - Sadaļā **resursdatora nosaukums vai aizstājvārds**ierakstiet šādu informāciju: **www**
 
-  - Par **punktiem, uz adresi**, ierakstiet pilnu domēna nosaukumu (FQDN) jūsu mājas lapā (piemēram, contoso.com).
+  - **Punktos uz adresi**ierakstiet savas tīmekļa vietnes pilno domēna nosaukumu (FQDN) (piemēram, contoso.com).
 
-2. Atlasiet **saglabāt**.
+2. Atlasiet **Saglabāt**.
