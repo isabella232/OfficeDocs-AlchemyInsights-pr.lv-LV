@@ -1,10 +1,11 @@
 ---
-title: Lūdziet administratoram iespējot Microsoft Teams
+title: Jautājiet administratoram, lai iespējotu Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573139"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716252"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jūs esat missing out! Lūdziet administratoram iespējot Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Jums trūkst! Jautājiet administratoram, lai iespējotu Microsoft Teams
 
-Ja jums ir EDU nomnieks, Microsoft Teams ir jāiespējo manuāli. Lai to izdarītu, dodieties uz Microsoft 365 administrēšanas centrs > **pakalpojumus un pievienojumprogrammas > Microsoft Teams**. Ja izmantojat jauno komandu administrēšanas centru, izslēdziet opciju **izmēģināt jauno administrēšanas centru** , lai atrastu **pakalpojumus un pievienojumprogrammas**. 
+Ja jums ir EDU nomnieks, jums ir jāiespējo Microsoft Teams manuāli. Lai to izdarītu, dodieties uz Microsoft 365 administrēšanas centru > **pakalpojumi un pievienojumprogrammas > Microsoft Teams**. Ja izmantojat jauno Teams administrēšanas centru, ir jāizslēdz **izmēģināt jauno administrēšanas centru**,   lai atrastu **pakalpojumus un pievienojumprogrammas**. 
 
-**Svarīgi**: lai izmaiņas stātos spēkā, iespējams, būs jāgaida līdz 24 stundām.
+**Svarīgi**! iespējams, būs jāgaida līdz pat 24 stundām, lai izmaiņas stātos spēkā.

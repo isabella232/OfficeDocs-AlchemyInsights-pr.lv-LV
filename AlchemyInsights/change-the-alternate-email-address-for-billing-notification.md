@@ -1,11 +1,12 @@
 ---
-title: Alternatīvās e-pasta adreses maiņa norēķinu paziņojumam
+title: Norēķinu paziņojuma alternatīvās e-pasta adreses maiņa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 5ee6de184726a5aab29004a901f0aa13c1657392
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4409c8ac765b2c9933d85e5d94e519ec85f8466f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508059"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714720"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Alternatīvās e-pasta adreses maiņa norēķinu paziņojumam
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Norēķinu paziņojuma alternatīvās e-pasta adreses maiņa
 
-Mainīt alternatīvo e-pasta adresi norēķinu paziņojumu ir viegli. Vienkārši izpildiet šīs darbības:
+Norēķinu paziņojumu alternatīvās e-pasta adreses maiņa ir vienkārša. Vienkārši veiciet tālāk norādītās darbības.
   
-1. Microsoft 365 administrēšanas centrā pārejiet uz lapu **norēķinu** \> [norēķinu paziņojumi](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
+1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** \> [paziņojumu paziņojumi](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
 
-2. Izvēlieties vārdu no saraksta.
+2. Sarakstā atlasiet vārdu.
 
 3. Lodziņā **Alternatīvā e-pasta adrese** ierakstiet alternatīvo e-pasta adresi.
 
-4. Atlasiet **saglabāt** , un esat pabeidzis!
+4. Atlasiet **Saglabāt** , un viss ir paveikts!
 
-Plašāku informāciju un darbības ar Ekrānuzņēmumiem skatiet sadaļā [norēķinu adrešu mainīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+Papildinformāciju un darbības ar Ekrānuzņēmumiem skatiet rakstā [norēķinu adrešu mainīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
   

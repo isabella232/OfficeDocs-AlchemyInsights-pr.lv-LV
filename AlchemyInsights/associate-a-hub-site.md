@@ -5,30 +5,31 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407285"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715748"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Saistīt esošo vietni ar centrmezgla vietni
+# <a name="associate-existing-site-with-a-hub-site"></a>Esošas vietnes saistīšana ar centrmezgla vietni
 
-Lai saistītu esošu vietni ar jūsu centrmezgla vietni, rīkojieties šādi:
+Lai esošu vietni saistītu ar centrmezgla vietni, veiciet tālāk norādītās darbības.
   
 1. Savā vietnē atlasiet **Iestatījumi** (zobrata ikona augšējā labajā stūrī) un pēc tam atlasiet **vietnes informācija**.
 
-2. Paneļa vietnes **informācijas rediģēšana** izvēlnē **centrmezgla vietnes piesaiste** atlasiet centrmezgla vietni, kuru vēlaties saistīt ar jūsu vietni, un pēc tam noklikšķiniet uz **saglabāt**. Vietnes izskats mainīsies atbilstoši centrmezgla vietnes un lapas augšpusē tiks parādīta centrmezgla vietnes navigācijas josla.
+2. Panelī **vietnes informācijas rediģēšana** izvēlnē **centrmezgla vietnes piesaiste** atlasiet centrmezgla vietni, ko vēlaties saistīt ar savu vietni, un pēc tam noklikšķiniet uz **Saglabāt**. Jūsu vietnes izskats mainīsies atbilstoši centrmezgla vietnes un centrmezgla vietnes navigācijas joslas augšdaļā.
 
 >**Piezīme**
 >
->Ja nav opcijas centrmezgla vietnes piesaiste vai tajā nav norādīta neviena vietne, centrmezgla vietnes, iespējams, nav iespējotas vai arī jums nav atļaujas saistīt vietnes ar centrmezgla vietni. Lai iegūtu papildinformāciju, sazinieties ar administratoru.
+>Ja centrmezgla vietnes piesaistes opcija nav pieejama vai šeit nav norādīta neviena vietne, centrmezgla vietnes var netikt iespējotas vai arī jums nav atļaujas piesaistīt vietnes, izmantojot centrmezgla vietni. Lai iegūtu papildinformāciju, sazinieties ar administratoru.
 >
->Vietņu skaitam, ko var saistīt ar centrmezgla vietni, nav ierobežojumu.
+>Nav ierobežojumu attiecībā uz vietņu skaitu, kas var būt saistītas ar centrmezgla vietni.
   

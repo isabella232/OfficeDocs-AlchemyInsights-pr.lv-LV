@@ -5,33 +5,34 @@ author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059779"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714254"
 ---
 # <a name="changing-public-folder-permissions"></a>Publiskās mapes atļauju maiņa
 
-Publiskās mapes atļaujas lietotāji un administratori var mainīt programmā Outlook. Administratori var arī kontrolēt atļaujas no Exchange administrēšanas centru (EAC), rīkojoties šādi:
+Publiskās mapes atļaujas var mainīt lietotāji un administratori programmā Outlook. Administratori var arī kontrolēt atļaujas no Exchange administrēšanas centra (EAC), veicot tālāk norādītās darbības.
   
-1. Microsoft 365 administrēšanas centrā dodieties uz **administrēšanas centru** \> **apmaiņa**.
+1. Microsoft 365 administrēšanas centrā dodieties uz **administrēšanas centru** \> **Exchange**.
 
 2. Atlasiet **publiskās mapes**.
 
-3. No turienes var mainīt atļaujas atsevišķām publiskajām mapēm, piešķirot drošības grupām atļaujas. Lai lietotājs varētu mainīt publiskās mapes atļaujas, lietotājam ir nepieciešamas mapes īpašnieka tiesības.
+3. Šeit varat mainīt atsevišķu publisko mapju atļaujas, piešķirot atļaujām drošības grupām. Lai lietotājam mainītu publiskās mapes atļaujas, lietotājam ir nepieciešamas īpašnieka tiesības uz šo mapi.
 
-Lūdzu, veiciet aprakstītās darbības, lai [diagnosticētu un labotu publiskās mapes atļauju problēmas](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) , lai novērstu publiskās mapes atļauju problēmas.
+Lūdzu, rīkojieties saskaņā ar norādījumiem par [to, kā diagnosticēt un izlabot publisko mapju atļauju problēmas](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) , lai novērstu publiskās mapes atļauju problēmas.
 
-**Piezīme**: pastāv vairākas zināmās problēmas, kas var rasties, mēģinot mainīt publiskās mapes atļaujas. Skatiet šajos rakstos, lai iegūtu papildinformāciju.
+**Piezīme**: ir vairākas zināmās problēmas, kas var rasties, kad mēģināt mainīt publiskās mapes atļaujas. Papildinformāciju skatiet tālāk norādītajos rakstos.
 
-- [Nevar lietot atļaujas publiskās mapes apakšmapes EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Nevar lietot atļaujas publiskās mapes apakšmapēm EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- ["Pastkaste nav atrodams lokālajā mežā" kļūda, piekļūstot publiskajām mapēm](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Kad piekļūstat publiskajām mapēm, tiek rādīta kļūda "pastkaste nav atrasta lokālajā mežā"](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
