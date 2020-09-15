@@ -1,30 +1,31 @@
 ---
-title: AntiSpam 5.4.1 DBEB catch-visi
+title: Pretsurogātpasta 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707918"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717368"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Izlabojiet kļūdas kods piegādes problēmas 550 5.4.1 relay piekļuve liegta
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Piegādes problēmu novēršana kļūdas kodam 550 5.4.1 relay piekļuvei
 
-Šī problēma rodas, [pārbaudot, lai redzētu, vai e-pasta adrese ir derīga, lai novērstu atgriešanu](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) ievadot Microsoft Network. Mēģiniet veikt šādas darbības:
+Šī problēma rodas, [pārbaudot, vai e-pasta adrese ir derīga, lai neļautu bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) , kad ievadāt Microsoft tīklu. Izmēģiniet kādu no tālāk norādītajām darbībām.
 
-1. Nosakiet, vai problēma ir specifiska visam domēnam vai vienai e-pasta adresei:
-    - Viss domēns: dažreiz domēns ir jāsinhronizē; mēģiniet [Iestatīt domēnu uz iekšējo un pēc tam atpakaļ uz autoritatīvu](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Viena e-pasta adrese: dažreiz adrese ir jāsinhronizē; mainot SMTP starpniekservera adrese un pēc tam mainot to atpakaļ var palīdzēt.
-2. Nosakiet, vai problēma ir saistīta ar grupu vai publisko mapi. Dažiem objektu tipiem objekti, iespējams, ir jāizveido manuāli pakalpojumā Azure Active Directory.
+1. Noteikt, vai problēma ir saistīta ar visu domēnu vai vienu e-pasta adresi:
+    - Viss domēns: dažreiz domēns ir jāsinhronizē. mēģiniet [Iestatīt domēnu uz iekšējs un pēc tam atpakaļ uz autoritatīvo](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Viena e-pasta adrese: dažreiz adrese ir jāsinhronizē. var palīdzēt mainīt SMTP starpniekservera adresi un pēc tam to mainīt atpakaļ.
+2. Noteikt, vai problēma ir specifiska grupai vai publiskai mapei. Dažiem objektu veidiem objekti, iespējams, ir manuāli jāveido Azure Active Directory.
 
-Ja jums nepieciešama papildu palīdzība, lūdzu, atveriet atbalsta biļeti un norādiet jautājuma tvērumu (ieskaitot tā objekta veidu, uz kuru sūtāt), lai mēs varētu jums palīdzēt labāk.
+Ja jums ir vajadzīgas papildu palīdzība, lūdzu, atveriet atbalsta biļeti un norādiet problēmas apjomu (ieskaitot tā objekta tipu, ko sūtāt), lai mēs varētu jums palīdzēt labāk.
