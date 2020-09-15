@@ -1,43 +1,44 @@
 ---
-title: Atrast un aktivizēt savu produkta atslēgu
+title: Produkta atslēgas atrašana un aktivizēšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062471"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708582"
 ---
-# <a name="find-and-activate-my-product-key"></a>Atrast un aktivizēt savu produkta atslēgu
+# <a name="find-and-activate-my-product-key"></a>Produkta atslēgas atrašana un aktivizēšana
 
-Ja iegādājāties Microsoft 365 darbam, izmantojot [Microsoft Open License programmu](https://go.microsoft.com/fwlink/p/?LinkID=613298), tālāk ir paskaidrots, kā varat atrast un aktivizēt produkta atslēgu.
+Ja iegādājāties Microsoft 365 darbam ar [Microsoft Open License programmu](https://go.microsoft.com/fwlink/p/?LinkID=613298), tālāk ir aprakstīts, kā atrast un aktivizēt produkta atslēgu.
 
-1. Pēc tam, kad iegādājaties atslēgu no Microsoft 365 partneris, pārbaudiet savu iesūtni e-pastu no korporācijas Microsoft, kas satur aktivizācijas saiti.  **Piezīme**: e-pasta ziņojumu nosūta lielapjoma licencēšanas līgumā personai, kas norādīta kā tiešsaistes administrators.  Ja nezināt, kurš ir norādīts kā tiešsaistes administrators, jautājiet savam Microsoft 365 partnerim.
+1. Pēc tam, kad esat iegādājies atslēgu no Microsoft 365 partnera, pārbaudiet savu iesūtni, lai saņemtu e-pasta ziņojumu no Microsoft, kas satur aktivizācijas saiti.  **Piezīme**: e-pasts tiek nosūtīts uz personu, kas norādīta kā lielapjoma licencēšanas līguma tiešsaistes administrators.  Ja neesat pārliecināts, kurš ir iecelts par tiešsaistes administratoru, jautājiet savam Microsoft 365 partnerim.
 
-2. Sekojiet saitei e-pastā, lai pierakstītos ar savu darba vai skolas kontu, akceptējiet Open License līgumu un atjaunojiet abonementu.  Soli pa solim skatiet PDF ceļvedi, lai [aktivizētu tiešsaistes pakalpojumus: Microsoft 365 abonements](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Lai pierakstītos ar savu darba vai mācību iestādes kontu, izpildiet saiti uz e-pasta adresi un atjaunojiet abonementu.  Detalizētus norādījumus skatiet rakstā PDF rokasgrāmatas lejupielāde, [tiešsaistes pakalpojumu aktivizēšana: Microsoft 365 abonements](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
-**Piezīme**: lielapjoma licencēšanas klienti var arī izvēlēties aktivizēt abonementus [lielapjoma licencēšanas pakalpojumu centrā](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Lai uzzinātu, kā to darīt, lejupielādējiet PDF ceļvedi, kas [ir aktīvs tiešsaistes pakalpojums lielapjoma licencēšanas pakalpojumu centrā](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Piezīme**. lielapjoma licencēšanas klienti var arī izvēlēties aktivizēt abonementus [lielapjoma licencēšanas pakalpojumu centrā](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Lai uzzinātu, kā, lejupielādējiet PDF ceļvedi, [aktīvie tiešsaistes pakalpojumi lielapjoma licencēšanas pakalpojumu centrā](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Ja iegādājāties no mazumtirdzniecības veikala Microsoft 365 Business Premium Standard, veiciet tālāk norādītās darbības, lai pagarinātu derīguma termiņu vai pievienotu licenci esošajam abonementam.
+Ja iegādājāties Microsoft 365 Business Premium Standard mazumtirdzniecības veikalā, veiciet tālāk norādītās darbības, lai pagarinātu derīguma termiņu vai pievienotu licenci esošam abonementam.
 
-**Piezīme**: lai izmantotu produkta atslēgu, lai pagarinātu derīguma termiņu vai pievienotu licenci esošajam Microsoft 365 Business Premium standarta abonementam, jums ir nepieciešama jauna un neizmantota atslēga tam pašam Microsoft 365 abonementam.  Sākotnējās Microsoft 365 produkta atslēgas ievadīšana nedarbosies, jo jau iegādātā atslēga vairs nevar tikt izmantota.
+**Piezīme**: lai pagarinātu derīguma termiņa beigu datumu vai pievienotu licenci esošam Microsoft 365 Business Premium Standard abonementam, ir nepieciešams jauns un neizmantots taustiņš tam pašam Microsoft 365 abonementam.  Ierakstot oriģinālo Microsoft 365 produkta atslēgu, nedarbosies, jo atslēgu, kas jau ir izpirkta, nevar izmantot atkārtoti.
 
-1. Administrēšanas centrā dodieties uz lapu **norēķinu**  >  **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Administrēšanas centrā dodieties uz lapu **norēķini**par  >  **[produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Atrodiet abonementu, uz kuru vēlaties pagarināt derīguma termiņu, vai pievienojiet licences.  Noklikšķiniet uz [pagarināt beigu datumu](https://go.microsoft.com/fwlink/p/?linkid=842054) vai [pievienojiet papildu licences](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Atrodiet abonementu, kuram vēlaties pagarināt derīguma termiņu vai pievienot licences.  Noklikšķiniet uz [pagarināt galapunktu](https://go.microsoft.com/fwlink/p/?linkid=842054) vai [pievienot papildu licences](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-3. Noklikšķiniet uz **lietot jaunu un neizmantoto produkta atslēgu** un pēc tam uz **Tālāk**.
+3. Noklikšķiniet uz **lietot jaunu un neizmantotu produkta atslēgu** un pēc tam **Tālāk**.
 
 4. Ievadiet produkta atslēgu un noklikšķiniet uz **Tālāk**.
 
-5. Pārskatiet informāciju par pasūtījumu.  Ja viss izskatās pareizi, noklikšķiniet uz **izpirkt**.
+5. Pārskatiet detalizētu informāciju par pasūtījumu.  Ja viss izskatās pareizi, noklikšķiniet uz **izpirkt**.
