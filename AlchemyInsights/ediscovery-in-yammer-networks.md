@@ -1,33 +1,34 @@
 ---
-title: eDiscovery Yammer tīklos
+title: e-datu atklāšanas Yammer tīklos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714741"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710923"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery Yammer tīklos
+# <a name="ediscovery-in-yammer-networks"></a>e-datu atklāšanas Yammer tīklos
 
-Tagad varat veikt eDiscovery meklē Yammer saturu.  Veicot eDiscovery meklēšanu vai eksportēt Yammer saturā ir nepieciešama šāda:
+Tagad varat veikt e-datu atklāšanas meklēšanu Yammer saturam.  E-datu atklāšanas meklēšanai vai eksportēšanai uz Yammer saturu ir jāveic tālāk norādītās darbības.
 
-1. Vispirms ir migrēt Yammer uzņēmuma tīkla vietējā režīmā, lai Yammer ziņojumi un faili atklājamu. **Piezīme: ja esat jauns klients no 9 janvāris 2020 un Yammer tīkls jau vietējā režīmā, jūsu dati tagad ir atklājamu ar eDiscovery**.
+1. Vispirms ir jāmigrē Yammer Enterprise tīkls uz vietējo režīmu, lai padarītu savus Yammer ziņojumus un failus atklājamu. **Ņemiet vērā: ja esat jauns klients, sākot no Jan 9 2020 un jūsu Yammer tīkls jau ir vietējais režīms, jūsu dati tagad ir atklājami ar e-datu atklāšanu**.
 
-2. Izejot no klientiem, eDiscovery Yammer būs pieejams, kad tiek izlaists vietējā režīma līdzinājums rīks un vietējā režīma migrācijas pabeidz Yammer nomnieka.
+2. Lai izietu no klientiem, e-datu atklāšana Yammer būs pieejama, tiklīdz tiks izlaists vietējais režīmu līdzināšanas rīks, un vietējā režīma migrācija tiek pabeigta Yammer nomniekā.
 
-Lai iegūtu vairāk informācijas par:
+Papildinformāciju par:
 
-- Vietējā režīmā Yammer skatiet: [vietējā režīma pārskats](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery Yammer tīklos, skatiet: [pārskats par eDiscovery Yammer tīklos](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery Microsoft 365, skatiet [eDiscovery microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Vietējais režīms pakalpojumā Yammer, skatiet rakstu: [vietējais režīms](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- e-datu atklāšanas Yammer tīklos skatiet rakstā [e-datu atklāšanas pārskats Yammer tīklos](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- e-datu atklāšana pakalpojumā Microsoft 365 skatiet rakstā [e-datu atklāšana programmā microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

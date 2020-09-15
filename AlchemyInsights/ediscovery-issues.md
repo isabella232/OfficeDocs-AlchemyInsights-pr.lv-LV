@@ -1,37 +1,38 @@
 ---
-title: 1829-eDiscovery-jautājumi
+title: 1829 — e-datu atklāšanas problēmas
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507141"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710958"
 ---
 # <a name="ediscovery-issues"></a>e-datu atklāšanas problēmas
 
-Meklējat eDiscovery iespējas? Ar pārprojektētu navigāciju drošības & atbilstības centrā, iespējams, jau ir pārvietotas eDiscovery opcijas.  EDiscovery opcijas var atrast šādās drošības & atbilstības centra vietās, pamatojoties uz to, ko jūs cenšaties izdarīt:
+Vai meklējat e-datu atklāšanas opcijas? Izmantojot atkārtoti noformētu navigāciju drošības & atbilstības centrā, jūsu e-datu atklāšanas opcijas var būt pārvietotas jau.  E-datu atklāšanas opcijas ir pieejamas tālāk norādītajās atrašanās vietās drošības & atbilstības centrā atkarībā no veicamās darbības.
 
-- Izmantojiet satura meklēšanu, lai jūsu organizācijā meklētu saturu e-pastā, dokumentos, Skype darbam sarunās, un pēc tam eksportējiet datus-dodieties uz **meklēt > satura meklēšanu**
+- Izmantojiet satura meklēšanu, lai meklētu savā organizācijā saturu e-pastā, dokumentos, Skype darbam sarunās un pēc tam eksportētu datus — dodieties uz **meklēšana > satura meklēšana**
 
-- Izveidojiet eDiscovery gadījumu, lai meklētu saturu un novietotu satura atrašanās vietas tur-doties uz **ediscovery > eDiscovery**
+- E-datu atklāšanas lietas izveide satura meklēšanai un satura atrašanās vietu novietošanai — atveriet e- **datu atklāšanas > e-datu atklāšanu**
 
-- Izmantojiet jauno progresīvo eDiscovery risinājumu, lai identificētu un sazinātos ar aizbildņiem, saglabātu ar lietu saistītie glabātāja datus, apkopotu datus un pievienotu to recenziju kopai, kā arī samazinātu datu apjomu, izmantojot Analytics, lai izkautu nevajadzīgus datus un koncentrētos uz to, kas visvairāk attiecas uz **ediscovery > Advanced eDiscovery**
+- Izmantojiet jauno detalizētu informāciju par papildu e-datu atklāšanas risinājumu, lai identificētu un sazinātos ar glabātājiem, saglabātu aizbildņa datus, kas ir saistīti ar lietu, apkopotu datus un pievienotu tos pārskata kopai, kā arī samazinātu datu apjomu, izmantojot analīzi, lai izceltu nevajadzīgus datus un pievērstu uzmanību tam, kas visvairāk attiecas uz lietu-atveriet e-datu atklāšanas **> papildu datu atklāšanas**
 
 Papildinformāciju skatiet rakstā:
 
-- [Satura meklēšanas](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Satura meklēšana](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [eDiscovery gadījumos drošības & atbilstības centrs](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [e-datu atklāšanas gadījumi drošības & atbilstības centrā](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Uzlabots eDiscovery risinājums programmā Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Uzlabots e-datu atklāšanas risinājums programmā Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

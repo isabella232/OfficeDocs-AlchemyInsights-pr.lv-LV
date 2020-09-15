@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-nepareiza informācijas paneļa parāda Dynamics 365 vienotā interfeisā
+title: Dynamics 365 — nepareizs informācijas panelis tiek rādīts Dynamics 365 vienotajā interfeisā
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528558"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711282"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Nepareizs informācijas panelis parāda Dynamics 365 vienotā interfeisā
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Nepareizs informācijas panelis tiek rādīts Dynamics 365 vienotajā interfeisā
 
-Ir vairāki iemesli, kāpēc var tikt parādīts cits informācijas panelis, nekā paredzēts:
+Pastāv vairāki iemesli, kāpēc, iespējams, redzēsit citu informācijas paneli, nevis vēlamo.
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>Lietotājs ir iestatījis lietotāja noklusējuma informācijas paneli 
 
-Parasti var identificēt lietotāja noklusējuma informācijas paneli ir iestatīts, ja poga **Iestatīt kā noklusējumu** informācijas paneļa komandu joslā netiek rādīta. Lietotāja noklusējuma informācijas panelis ignorē visus pārējos noklusējuma informācijas paneļus, pat ja lietotāja noklusējuma informācijas panelis nav pašreizējā programmā.
+Parasti varat noteikt, ka lietotāja noklusējuma informācijas panelis ir iestatīts, ja nav redzama poga **Iestatīt kā noklusējumu** informācijas paneļa komandjoslā. Lietotāja noklusējuma informācijas panelī tiek ignorēti visi pārējie noklusējuma informācijas paneļi pat tad, ja lietotāja noklusējuma informācijas panelis nav pašreizējā lietojumprogrammā.
 
-Lai unset noklusējuma informācijas paneli, izmantojiet tālāk minēto metodi.
+Izmantojiet tālāk norādītos risinājumus, lai atiestatītu noklusējuma informācijas paneli.
 
 1. Izveidojiet jaunu personisko informācijas paneli.
 
-2. Iestatiet jauno informācijas paneli kā lietotāja noklusējumu.
+2. Iestatiet šo jauno informācijas paneli kā lietotāja noklusējumu.
 
-3. Dzēsiet šo informācijas paneli.
+3. Dzēst šo informācijas paneli
 
 ## <a name="the-dashboard-is-set-in-the-sitemap"></a>Informācijas panelis ir iestatīts vietnes kartē
 
-Iespējams, esat iestatījis organizācijas noklusējuma informācijas paneli, atlasot informācijas paneli un izvēloties "iestatīt kā noklusējumu" sadaļā "sistēmas pielāgošana". Bet informācijas panelis noteikts sitemap dizainers būs priekšroka pār šo informācijas paneli, ja lietotājs var piekļūt.
+Iespējams, esat iestatījis organizācijas noklusējuma informācijas paneli, atlasot informācijas paneli un izvēloties "iestatīt kā noklusējumu" sadaļā sistēmas pielāgošana. Taču vietnes kartes noformētājā noteiktais informācijas panelis dominēs pār šo informācijas paneli, ja lietotājam tam ir piekļuve.
 
-Lai lietotāji redzētu informācijas paneli, kuru esat iestatījis kā organizācijas noklusējumu, varat:
+Lai lietotāji redzētu informācijas paneļa, ko esat iestatījis kā organizācijas noklusējumu, varat veikt kādu no tālāk norādītajām darbībām.
 
-* Iestatīt šo informācijas paneli vietnes kartē
+* Informācijas paneļa iestatīšana vietnes kartē
 
-* Noņemt piekļuvi vietnes karte definēts informācijas panelis tiem lietotājiem
+* Noņemt piekļuvi vietnes kartes definētam informācijas panelim šiem lietotājiem
