@@ -1,26 +1,27 @@
 ---
-title: Problēmu novēršana, izmantojot Windows AutoPilot
+title: Problēmu novēršana, izmantojot Windows Autopilot
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: 3ae85d61e85bd5ebe39241c8906692f82976b81c
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 2e5128c19427928eee773a92a57dc71ee756aab1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690105"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problēmu novēršana, izmantojot Windows AutoPilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problēmu novēršana, izmantojot Windows Autopilot
 
-Ja jums ir problēma ar AutoPilot, skatiet [Autopilot problēmu novēršana](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) un [zināmās problēmas](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) lapas.
+Ja jums ir problēmas ar Autopilot, skatiet sadaļu [Autopilot problēmu novēršana](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) un [zināmās problēmas](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
 
-Lai iegūtu papildinformāciju par Windows Autopilot iestatīšanu, skatiet sadaļu [Windows ierīču reģistrēšana InTune, izmantojot Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot).
+Papildinformāciju par Windows Autopilot iestatīšanu skatiet rakstā [Windows ierīču piereģistrēšana Intune, izmantojot Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot).
 

@@ -1,41 +1,42 @@
 ---
-title: Trūkstošos datus programmā OneNote atrisinātu
+title: Trūkstošo datu atrisināšana programmā OneNote
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800469"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662323"
 ---
-# <a name="resolving-missing-data-in-onenote"></a>Trūkstošos datus programmā OneNote atrisinātu
-
-**Trūkst Notebook**
-
-- Ja piezīmju grāmatiņu OneDrive bija nejauši izdzēsts, to var atkopt, izpildot darbības, kas [atjaunotu izdzēstos failus vai mapes, kas OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- Var atkopt piezīmju grāmatiņā izdzēsts OneDrive 30 dienās pēc noklusējuma sekojošos soļus [atjaunot dzēstos OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
-- Programma OneNote var izmantojot citu kontu, nekā gaidījāt. Ja jums ir darba vai skolas nodrošināto kontu papildus Microsoft konta, jums būs nepieciešams pievienot otru kontu, lai skatītu visu piezīmju grāmatiņu (skatiet norādījumus par to, kā [Pievienot kontu programmā OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+# <a name="resolving-missing-data-in-onenote"></a>Trūkstošo datu atrisināšana programmā OneNote
 
 **Trūkst piezīmju grāmatiņas**
 
-Viens no biežākajiem iemesliem trūkstošu lappuses vai piezīmju grāmatiņas sadaļas ir sinhronizācijas kļūda. Šajā gadījumā dati nezūd un var atgūt, kad sinhronizēšana darbojas. Pārbaudiet katru OneNote klients lietotājiem izmantoja, lai noteiktu, vai kāds no viņiem rāda kļūdu notebook, un, ja tur ir kļūda, redzēt [atrisinātu problēmu, kad programma OneNote nevar sinhronizēt](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
+- Ja piezīmju grāmatiņa pakalpojumā OneDrive ir nejauši izdzēsta, varat to atkopt, izpildot darbības, kas norādītas sadaļā [izdzēsto failu un mapju atjaunošana pakalpojumā OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+- Jūs varat atkopt piezīmju grāmatiņu pakalpojumā izdzēstā OneDrive 30 dienu laikā pēc noklusējuma, izpildot darbības, kas aprakstītas rakstā [izdzēsta OneDrive atjaunošana](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- Iespējams, OneNote izmanto citu kontu, nekā paredzēts. Ja jums ir darba vai mācību iestādes konts papildus savam personiskajam Microsoft kontam, jums ir jāpievieno cits konts, lai skatītu visas savas piezīmju grāmatiņas (skatiet norādījumus par to, kā [Pievienot kontu programmā OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
 
-- Programmā OneNote par Windows 10 dzeltena trīsstūrveida brīdinājuma ikona parādīsies visticamāk blakus notebook.
-- Programmā OneNote 2016, peles labo pogu noklikšķiniet uz piezīmju grāmatiņas nosaukumu zem lentes un noklikšķiniet uz "Piezīmju grāmatiņas sinhronizācijas statusa"
-- Programmā OneNOte Mac, pārbaudīt, vai nav redzama dzeltena izsaukuma zīme pie piezīmju grāmatas ikonas
-- Programmā OneNote iPhone, naviģējiet piezīmju grāmatiņas un noklikšķiniet uz darbību pogas augšējā labajā stūrī
-- Programmā OneNote Android, naviģējiet uz vairāk piezīmju grāmatiņas >View sinhronizācijas kļūdas
+**Trūkstošas piezīmes piezīmju grāmatiņā**
 
-Izpildiet norādījumus sadaļā [atrast zaudējis manās piezīmēs](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) meklētu, sinhronizēt failu vai atgūt savas piezīmes.
+Viens no biežākajiem iemesliem, kāpēc piezīmju grāmatiņā nav lapu vai sadaļu, ir sinhronizācijas kļūda. Šajā notikumā dati netiek zaudēti, un tos var atkopt, kad sinhronizācija darbojas. Pārbaudiet, vai visi OneNote klienta lietotāji ir izmantojuši, lai noteiktu, vai kāds no tiem rāda piezīmju grāmatiņas kļūdu, un, ja ir kļūda, skatiet rakstu [problēmu novēršana, ja nevarat sinhronizēt OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
-Ja lietojat OneNote 2016, ir iespējams [atgūt svītrots piezīmes](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) , lai no dublējumiem.
+- Programmā OneNote darbam ar Windows 10, visticamāk, tiks parādīta dzeltena trijstūrveida brīdinājuma ikona blakus piezīmju grāmatiņai.
+- Programmā OneNote 2016 ar peles labo pogu noklikšķiniet uz piezīmju grāmatiņas nosaukuma, kas atrodas zem lentes, un noklikšķiniet uz "piezīmju grāmatiņas sinhronizācijas statuss".
+- Programmā OneNOte darbam ar Mac blakus piezīmju grāmatiņas ikonai atzīmējiet dzeltenu izsaukuma zīmi
+- Programmā OneNote darbam ar iPhone atveriet piezīmju grāmatiņu un noklikšķiniet uz darbības pogas augšējā labajā stūrī.
+- Programmā OneNote darbam ar Android pārejiet uz vairāk piezīmju grāmatiņu — >skatiet sinhronizācijas kļūdas
+
+Izpildiet rakstā [manu pazudušo piezīmju atrašanas](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) darbības, lai meklētu, sinhronizētu failu vai atkoptu savas piezīmes.
+
+Ja izmantojat OneNote 2016, jūs, iespējams, varēsit [atkopt izdzēstās piezīmes](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) no dublējumkopijām.

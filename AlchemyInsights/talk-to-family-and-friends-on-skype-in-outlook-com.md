@@ -1,26 +1,27 @@
 ---
-title: 8000049 runāt ar ģimeni un draugiem par Skype Outlook.com
+title: 8000049 Runājiet ar ģimeni un draugiem, izmantojot Skype pakalpojumā Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: ead3988e85b41f92f993e05e456ca7a29f6bf329
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739803"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659137"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Runājiet ar ģimeni un draugiem par Skype Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Runājiet ar ģimeni un draugiem, izmantojot Skype pakalpojumā Outlook.com
 
-Outlook.com klienti var sarunāties ar draugiem un ģimeni, izmantojot Skype tērzēšanas, balss un video līdzekļus. [Sapludinot Microsoft un Skype kontus](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), automātiski varat piekļūt programmai Skype tīmeklī vietnē Outlook.com.
+Outlook.com klienti var runāt ar draugiem un ģimeni, izmantojot Skype tērzēšanas, balss un video līdzekļus. Kad [Sapludināt savus Microsoft un Skype kontus](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), jūs automātiski varat piekļūt Skype tīmeklī programmā Outlook.com.
   
-Uzziniet vairāk par to, kā [runāt ar ģimeni un draugiem pakalpojumā Skype vietnē Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Uzziniet vairāk par to, kā [sazināties ar ģimeni un draugiem, izmantojot Skype pakalpojumā Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

@@ -1,10 +1,11 @@
 ---
-title: 1385-Office-365-brīdinājums-politikas
+title: 1385-Office-365-Alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502434"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664033"
 ---
 # <a name="alert-policies"></a>Brīdinājumu politikas
 
-Microsoft 365 drošības & atbilstības centrs piedāvā [noklusējuma brīdinājumu politikas](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) , kas aktivizē brīdinājumus organizācijām ar Office 365 Enterprise vai Office 365 ASV government E1/G1, E3/G3 vai E5/G5 abonementu. Tādēļ administratori var saņemt brīdinājuma e-pasta paziņojumu nosūta Office365Alerts@microsoft.com ar tēmas rindiņa, piemēram, "zemas nozīmīguma brīdinājums: *brīdinājuma politikas nosaukums*". Brīdinājumu paziņojumi tiek sūtīti, kad brīdinājumi tiek parādīti par bieži izmantotām darbībām, piemēram, kad lietotāji:
+Microsoft 365 drošības & atbilstības centrs piedāvā [noklusējuma brīdinājumu politikas](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) , kas izraisa brīdinājumus organizācijām ar Office 365 Enterprise vai Office 365 ASV valdību E1/G1, E3/G3 vai E5/G5 abonementu. Tāpēc administratori var saņemt brīdinājuma e-pasta paziņojumu, kas nosūtīts, izmantojot Office365Alerts@microsoft.com ar tēmas rindiņu, piemēram, "zemas pakāpes brīdinājums: *brīdinājumu politikas nosaukums*". Brīdinājuma paziņojumi tiek nosūtīti, ja brīdinājumi tiek parādīti biežāk lietotajām darbībām, piemēram, kad lietotāji:
 
 - Izveidot iesūtnes kārtulas, kas pārsūta e-pastu.
 - Piešķiriet atļaujas viņu pastkastei.
-- Koplietot vai dzēst lielu skaitu failu SharePoint failu koplietošana.
-- Izveidot eDiscovery meklēšanas un eksporta meklēšanas rezultātos.
+- Koplietot vai izdzēst lielu skaitu failu SharePoint failu koplietošanā.
+- Izveidot e-datu atklāšanas meklēšanu un eksportēt meklēšanas rezultātus.
 
-Lai pārskatītu ziņojumu un rīkotos ar to:
+Lai pārskatītu un rīkotos ar brīdinājumu:
 
 1. Dodieties uz [drošības & atbilstības centru](https://protection.office.com) un pierakstieties.
-2. Noklikšķiniet uz **brīdinājumi**  >  **Skatīt brīdinājumus**.
-3. Noklikšķiniet uz brīdinājuma, lai parādītu izlidošanas lapu ar informāciju par brīdinājumu.
+2. Noklikšķiniet uz **brīdinājumu**  >  **skata brīdinājumi**.
+3. Noklikšķiniet uz brīdinājuma, lai tiktu parādīta izlidošanas lapa ar informāciju par brīdinājumu.
 
-Var veikt darbības ar brīdinājumu, piemēram, [noņemot aizdomīgu iesūtnes kārtulu](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Varat arī vienkārši aizvērt brīdinājumu, noklikšķinot uz **atrisināt** brīdinājuma izlidošanas lapā.
+Varat veikt darbības ar brīdinājumu, piemēram, [Noņemt aizdomīgu iesūtnes kārtulu](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Varat arī vienkārši izslēgt brīdinājumu, lapā brīdinājuma izlidošana noklikšķinot uz **atrisināt** .
 
-Papildinformāciju par brīdinājumu politiku konfigurēšanu un pārvaldību skatiet [šajā rakstā](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Papildinformāciju par brīdinājumu politikas konfigurēšanu un pārvaldību skatiet  [šajā rakstā](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-**Svarīgi**: brīdinājuma e-pasta paziņojumus no Microsoft nekad lūgt jums veikt šādas darbības:
+**Svarīgi**: brīdināt e-pasta paziņojumus no Microsoft nekad nelūgs jūs veikt tālāk norādītās darbības.
 
-- Norādīt paroli
+- Norādiet paroli
 - Pārbaudiet sava konta drošības datus
 - Atkārtota autentificēšana
 
-Ja saņemat e-pasta ziņojumu, piemēram, tas nav Microsoft nosūtīts un jāuzskata par pikšķerēšanas scam. Ja tā notiek, lūdzu, [ziņojiet par to korporācijai Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Ja saņemat e-pasta ziņojumu, kas līdzīgs šim, to nenosūtīja Microsoft, un tas ir uzskatāms par pikšķerēšanas scam. Ja tā notiek, lūdzu, [Ziņojiet par to korporācijai Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

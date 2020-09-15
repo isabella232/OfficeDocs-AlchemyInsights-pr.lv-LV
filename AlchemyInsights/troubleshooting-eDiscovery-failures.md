@@ -1,11 +1,12 @@
 ---
-title: 1490-problēmu novēršana-eDiscovery kļūmes
+title: 1490 — e-datu atklāšanas neveiksmes
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512561"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658957"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Satura meklēšanas kļūdu problēmu novēršana
+# <a name="troubleshoot-content-search-errors"></a>Satura meklēšanas kļūdu novēršana
 
-Vai jums ir radušās problēmas ar satura meklēšanu vai iegūt kļūmes, eksportējot meklēšanas rezultātus?
+Vai rodas problēmas ar satura meklēšanu vai neveiksmēm, kad eksportējat meklēšanas rezultātus?
 
-Piemēram, vai, izpildot meklēšanas vaicājumus, saņemat tālāk minēto.
+Piemēram, ja izlaižat meklēšanu, tiek parādīts tālāk norādītās darbības.
 
 - CS008 vai CS012 kļūdas
 
-- Servera aizņemtības/taimauta kļūdas
+- Servera aizņemts/taimauta kļūdas
 
 - Radās lietojumprogrammas kļūda
 
-Vai meklējot vai eksportējot rezultātus lielu skaitu pastkastu (vairāk nekā 100 000 pastkastes), jūs saņemat eksporta kļūdas?
+Vai, meklējot vai eksportējot rezultātus no liela pastkastu skaita (virs 100 000 pastkastēm), tiek iegūtas eksportēšanas kļūdas?
 
-Šāda veida kļūdas, mēģiniet meklēt satura atrašanās vietas, kas ir neizdevās. Skatiet [šo rakstu](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) , lai iegūtu papildinformāciju.
+Lai iegūtu šāda veida kļūdas, vēlreiz mēģiniet meklēt neveiksmīgās satura atrašanās vietas. Lai iegūtu papildinformāciju, skatiet  [šo rakstu](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .

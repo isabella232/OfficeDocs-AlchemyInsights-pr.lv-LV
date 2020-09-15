@@ -1,11 +1,12 @@
 ---
-title: Nepieciešamās Microsoft ToDo licences
+title: Microsoft ToDo nepieciešamās licences
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,32 +14,32 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722663"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692302"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Nepieciešamās Microsoft ToDo licences
+# <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDo nepieciešamās licences
 
-[Nepieciešamās Microsoft ToDo licences](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Microsoft ToDo nepieciešamās licences](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Lietotājam ir jābūt vienai no šīm licencēm, lai izmantotu Microsoft ToDo:
+Lai izmantotu Microsoft ToDo, lietotājam ir jābūt kādai no tālāk norādītajām licencēm.
   
-- Business Essentials
+- Biznesa pamatelementi
 
 - Business Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 pamatā visam projek F1
 
 - Jebkurš Office 365 Enterprise plāns
 
-- Droša produktīva uzņēmējdarbība
+- Drošs produktīvs bizness
 
-- Drošs produktīvs uzņēmums E3
+- Drošs produktīvs Enterprise E3
 
-- Droša produktīva uzņēmuma E5
+- Produktīva uzņēmuma E5
 
 - Jebkurš Office 365 izglītības plāns
 
@@ -46,7 +47,7 @@ Lietotājam ir jābūt vienai no šīm licencēm, lai izmantotu Microsoft ToDo:
 
 - Microsoft 365 A5
 
-Papildus derīgu produkta licences, ir nepieciešama viena no šīm versijām Exchange Online ToDo, lai varētu sinhronizēt lietotāja datus:
+Papildus derīgai produkta licencei programmai ToDo ir nepieciešama kāda no šīm Exchange Online versijām, lai varētu sinhronizēt lietotāju datus:
   
 - Exchange Online 1. plāns
 
