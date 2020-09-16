@@ -1,10 +1,11 @@
 ---
-title: Mainīt lietotāja vārdu un e-pasta adresi
+title: Lietotāja vārda un e-pasta adreses maiņa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: c918567be57fa16317f3a0f516510ecea772bb67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508131"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756938"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Mainīt lietotāja vārdu un e-pasta adresi
+# <a name="change-a-users-name-and-email-address"></a>Lietotāja vārda un e-pasta adreses maiņa
 
-Mainot lietotāja vārdu un e-pasta adresi Microsoft 365 ir viegli. Atveriet lapu **lietotāju** \> [aktīvo lietotāju](https://go.microsoft.com/fwlink/p/?linkid=834822) un atlasiet lietotāju, lai rediģētu savu informāciju. Varat arī izmantot šo rakstu, lai iegūtu soli-pa-solim instrukcijas:
+Lietotāja vārda un e-pasta adreses maiņa pakalpojumā Microsoft 365 ir vienkārša. Dodieties uz lapu **lietotāji** \> [Aktīvie lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) un atlasiet lietotāju, lai rediģētu viņu informāciju. Varat arī izmantot šo rakstu, lai iegūtu detalizētus norādījumus:
   
-[Lietotāja vārda un e-pasta adreses maiņa Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[Lietotājvārda un e-pasta adreses maiņa pakalpojumā Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **Piezīme**: ja maināt lietotāja galveno e-pasta adresi, to vecā e-pasta adrese joprojām būs derīga e-pasta saņemšanai (tā notiek automātiski). Turklāt, ja jūsu uzņēmums ir hibrīds stāvoklī, visas e-pasta un lietotāja vārdu izmaiņas ir jāveic lokālā Active Directory un sinhronizēti ar mākoni.
+ **Piezīme**. Ja maināt lietotāja galveno e-pasta adresi, to vecā e-pasta adrese joprojām būs derīga e-pasta saņemšanai (tas notiks automātiski). Arī tad, ja jūsu organizācija ir Hibrīdā stāvoklī, visi e-pasta un lietotājvārdu labojumi ir jāveic lokālajā Active Directory un pēc tam jāsinhronizē ar mākoni.
