@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722530"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720905"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Lietotājam ir divas pastkastes
 
-Hibrīds vidēs, kas izmanto Azure Active Directory savienojumu (AAD savienojumu) vai DirSync var nejauši izraisīt lietotājam ir divas pastkastes: vienu lokālas un viens mākonis. Dublikāta pastkasti var izveidot jebkurā vietā.
+Hibrīdās vides, kas izmanto Azure Active Directory savienojumu (AAD Connect) vai DirSync, var nejauši izraisīt to, ka lietotājam ir divas pastkastes: viena lokāli un viena mākonī. Dublikāta pastkasti var izveidot jebkurā vietā.
 
-Lai novērstu šo problēmu, skatiet [kā atkopt, ja pastkastē pastāv gan Exchange Online un lokālas](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Ja vēlaties uzzināt vairāk par to, kā no tā izvairīties, skatiet, ka [manam lietotājam ir pastkaste gan lokāli, gan Exchange Online. Palīdzēt!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Lai atrisinātu šo problēmu, Uzziniet, [kā atkopt, ja pastkaste pastāv gan Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises), gan lokālajā vidē. Ja vēlaties uzzināt vairāk par to, kā no tā izvairīties nākotnē, skatiet rakstu [Mans lietotājs ir pastkaste gan lokālajā, gan pakalpojumā Exchange Online. Palīdzība!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

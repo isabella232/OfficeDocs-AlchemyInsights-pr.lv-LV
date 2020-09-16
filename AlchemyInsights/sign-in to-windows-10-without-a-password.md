@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588287"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719960"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Pierakstīšanās operētājsistēmā Windows 10, neizmantojot paroli
 
-Lai izvairītos no paroles rakstīšanas Windows startēšanas laikā, ieteicams izmantot kādu no Windows Hello drošās pierakstīšanās opcijām, piemēram, PIN, sejas atpazīšanas vai pirksta nospiedumu, ja tas ir pieejams. Ja tiešām vēlaties atspējot drošo pierakstīšanos, skatiet tālāk sniegtos norādījumus "automātiski pierakstīties Windows 10".
+Lai izvairītos no paroles ievadīšanas Windows startēšanas laikā, iesakām izmantot kādu no Windows Hello drošās pierakstīšanās opcijām, piemēram, PIN, sejiņas atpazīšanu vai pirksta nospiedumu, ja tas ir pieejams. Ja tiešām vēlaties atspējot drošu pierakstīšanos, skatiet tālāk sniegtos norādījumus "automātiska pierakstīšanās Windows 10".
 
-**Secure Windows Hello alternatīvas konta paroli**
+**Drošas Windows Hello alternatīvas konta parolei**
 
-Dodieties uz **iestatījumi > konti > pierakstīšanās opcijas** (vai noklikšķiniet [šeit](ms-settings:signinoptions?activationSource=GetHelp)). Tiks uzskaitītas pieejamās pierakstīšanās opcijas. Piemērs:
+Dodieties uz **sadaļu iestatījumi > konti > pierakstīšanās opcijas** (vai noklikšķiniet [šeit](ms-settings:signinoptions?activationSource=GetHelp)). Būs norādītas pieejamās pierakstīšanās opcijas. Piemērs:
 
 ![Pierakstīšanās opcijas.](media/sign-in-options.png)
 
-Noklikšķiniet uz vai pieskarieties kādai no opcijām, lai to konfigurētu. Nākamreiz startējot vai atbloķējot sistēmu Windows, paroles vietā varēs izmantot jauno opciju. 
+Noklikšķiniet uz vai pieskarieties vienai no opcijām, lai to konfigurētu. Nākamreiz, kad startējat vai atbloķējat Windows, paroles vietā varēsit izmantot jauno opciju. 
 
-**Automātiski pierakstīties Windows 10**
+**Automātiska pierakstīšanās operētājsistēmā Windows 10**
 
-**Piezīme**: automātiska pierakstīšanās ir ērta, bet ievieš drošības risku, it īpaši, ja jūsu dators ir pieejams vairākiem cilvēkiem. 
+**Piezīme**: automātiska pierakstīšanās ir ērta, taču ir ieviesti drošības riski, it īpaši tad, ja jūsu dators ir pieejams vairākām personām. 
 
-1. Uzdevumjoslā noklikšķiniet uz pogas **Sākt** vai pieskarieties tai.
+1. Noklikšķiniet uz vai pieskarieties pie pogas **Sākt** uzdevumjoslā.
 
-2. Ierakstiet **lodziņā netplwiz** un nospiediet taustiņu ENTER, lai atvērtu logu lietotāju konti.
+2. Ierakstiet **netplwiz** un nospiediet taustiņu ENTER, lai atvērtu lietotāju kontu logu.
 
-3. **Lietotāju kontos**noklikšķiniet uz konta, kurā vēlaties automātiski pierakstīties, startējot sistēmu Windows.
+3. **Lietotāju kontos**noklikšķiniet uz konta, kuram vēlaties automātiski pierakstīties, startējot sistēmu Windows.
 
-4. Noņemiet atzīmi no izvēles rūtiņas "lietotājiem ir jāievada lietotājvārds un parole, lai izmantotu šo datoru".
+4. Atzīmējiet izvēles rūtiņu "lietotājiem ir jāievada lietotājvārds un parole, lai izmantotu šo datoru".
 
     ![Lietotājiem ir jāievada lietotājvārds un parole.](media/users-must-enter-username.png)
 
-5. Noklikšķiniet uz **Labi**. Jums tiks lūgts ievadīt un apstiprināt paroli atlasītajam kontam. Noklikšķiniet uz **Labi** , lai pabeigtu. Nākamreiz, kad tiks startēta operētājsistēma Windows 10, tā automātiski pierakstīsies atlasītajā kontā.
+5. Noklikšķiniet uz **Labi**. Jums būs jāievada un jāapstiprina atlasītā konta parole. Noklikšķiniet uz **Labi** , lai pabeigtu. Nākamreiz, kad tiks palaista operētājsistēma Windows 10, tā automātiski pierakstīsies atlasītajā kontā.
