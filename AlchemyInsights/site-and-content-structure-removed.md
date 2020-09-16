@@ -1,26 +1,27 @@
 ---
-title: Vietnes un satura struktūras noņemšanas
+title: Vietnes un satura struktūra noņemta
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: cbdb461220acd38a0b7c1ec45fb76da67068010a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0e00cdc67a27afc210e3b017a7229b39a1598fab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053592"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719528"
 ---
-# <a name="site-and-content-structure-removed"></a><span data-ttu-id="bc1dc-102">Vietnes un satura struktūras noņemšanas</span><span class="sxs-lookup"><span data-stu-id="bc1dc-102">Site and content structure removed</span></span>
+# <a name="site-and-content-structure-removed"></a><span data-ttu-id="6996b-102">Vietnes un satura struktūra noņemta</span><span class="sxs-lookup"><span data-stu-id="6996b-102">Site and content structure removed</span></span>
 
-<span data-ttu-id="bc1dc-103">Sākot ar 2018. oktobri, vietnes satura un struktūras lapa vairs netiks atbalstīta vai saņems līdzekļu atjauninājumus.</span><span class="sxs-lookup"><span data-stu-id="bc1dc-103">Starting in October 2018, the Site Content and Structure page will no longer be supported or receive feature updates.</span></span> <span data-ttu-id="bc1dc-104">Iestatījumu saite uz SiteManager. aspx lapu tiks noņemts no SharePoint Online un tiešu piekļuvi būs tikai vietņu kolekcijas administratorus līdz marta 2019, kad vietnes satura un struktūras lapa būs pilnībā pensijā.</span><span class="sxs-lookup"><span data-stu-id="bc1dc-104">The settings link to the SiteManager.aspx page will be removed from SharePoint Online and direct access will be restricted to Site Collection Admins until March 2019, at which time the Site Content and Structure page will be fully retired.</span></span> 
+<span data-ttu-id="6996b-103">Sākot no oktobra 2018, vietnes satura un struktūras lapā vairs netiek atbalstīti vai saņemti līdzekļu atjauninājumi.</span><span class="sxs-lookup"><span data-stu-id="6996b-103">Starting in October 2018, the Site Content and Structure page will no longer be supported or receive feature updates.</span></span> <span data-ttu-id="6996b-104">Iestatījumu saite uz SiteManager. aspx lapu tiks noņemta no SharePoint Online, un tieša piekļuve būs atļauta tikai vietņu kolekcijas administratoriem līdz martam 2019, kad vietnes satura un struktūras lapa būs pilnībā novecojusi.</span><span class="sxs-lookup"><span data-stu-id="6996b-104">The settings link to the SiteManager.aspx page will be removed from SharePoint Online and direct access will be restricted to Site Collection Admins until March 2019, at which time the Site Content and Structure page will be fully retired.</span></span> 
 
-<span data-ttu-id="bc1dc-105">Piezīme: kā risinājumu, kamēr līdzeklis ir pilnībā pensijā, vietņu kolekcijas administratori var naviģēt uz Microsoft 365 administrēšanas centrs, atlasiet SharePoint mozaīka un pievienot vai rediģēt vietrādi URL, aizstājot "/SharePoint.aspx" ar "/Sitemanager.aspx".</span><span class="sxs-lookup"><span data-stu-id="bc1dc-105">Note: As a workaround until the feature is fully retired, Site Collection Administrators can navigate to the Microsoft 365 admin center, select the SharePoint tile, and append or edit the URL by replacing '/Sharepoint.aspx' with '/Sitemanager.aspx'.</span></span> 
+<span data-ttu-id="6996b-105">Piezīme. Ja līdzeklis ir pilnībā novecojis, vietņu kolekcijas administratori var pāriet uz Microsoft 365 administrēšanas centru, atlasīt elementu SharePoint un pievienot vai rediģēt vietrādi URL, aizstājot "/SharePoint.aspx" ar "/Sitemanager.aspx".</span><span class="sxs-lookup"><span data-stu-id="6996b-105">Note: As a workaround until the feature is fully retired, Site Collection Administrators can navigate to the Microsoft 365 admin center, select the SharePoint tile, and append or edit the URL by replacing '/Sharepoint.aspx' with '/Sitemanager.aspx'.</span></span> 
 
 
-<span data-ttu-id="bc1dc-106">Izmantojiet failu pārvietošanu un kopēšanu, lai pārvaldītu vietnes saturu un struktūru.</span><span class="sxs-lookup"><span data-stu-id="bc1dc-106">Use File Move and Copy to manage site content and structure.</span></span> <span data-ttu-id="bc1dc-107">Papildinformāciju skatiet sadaļā [failu un mapju kopēšana no OneDrive uz SharePoint vietnēm](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span><span class="sxs-lookup"><span data-stu-id="bc1dc-107">For more information, see [Copy files and folders between OneDrive and SharePoint sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span></span> 
+<span data-ttu-id="6996b-106">Izmantojiet failu pārvietošanu un kopēšanu, lai pārvaldītu vietnes saturu un struktūru.</span><span class="sxs-lookup"><span data-stu-id="6996b-106">Use File Move and Copy to manage site content and structure.</span></span> <span data-ttu-id="6996b-107">Papildinformāciju skatiet rakstā [failu un mapju kopēšana starp OneDrive un SharePoint vietnēm](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span><span class="sxs-lookup"><span data-stu-id="6996b-107">For more information, see [Copy files and folders between OneDrive and SharePoint sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span></span> 
 
-<span data-ttu-id="bc1dc-108">Lai iegūtu vairāk informācijas, lūdzu, skatiet sadaļā [darbs ar vietnes saturu un struktūru](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span><span class="sxs-lookup"><span data-stu-id="bc1dc-108">For more information, please refer to [Work with site content and structure](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span></span>
+<span data-ttu-id="6996b-108">Lai iegūtu papildinformāciju, lūdzu, skatiet sadaļu [darbs ar vietnes saturu un struktūru](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span><span class="sxs-lookup"><span data-stu-id="6996b-108">For more information, please refer to [Work with site content and structure](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span></span>
