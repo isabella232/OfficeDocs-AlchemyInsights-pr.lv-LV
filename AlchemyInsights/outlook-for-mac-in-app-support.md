@@ -1,10 +1,11 @@
 ---
-title: 1800009 Outlook Mac in-app atbalsts
+title: 1800009 Outlook darbam ar Mac atbalsts lietojumprogrammā
 ms.author: supravee
 author: supravee
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37035762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722102"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Programmā Outlook For Mac atbalsts lietotnē
+# <a name="in-app-support-in-outlook-for-mac"></a>Lietojumprogrammas atbalsts programmā Outlook darbam ar Mac
 
-Lai saņemtu atbalstu programmā Outlook Mac problēmas, atveriet Outlook un noklikšķiniet uz **palīdzības** \> **sazināties ar atbalsta dienestu**. Ierakstiet savu jautājumu un Outlook Mac atbalsta komandas dalībnieks ar jums sazināties. 
+Lai saņemtu atbalstu programmā Outlook darbam ar Mac problēmām, atveriet programmu Outlook un noklikšķiniet uz **palīdzības** \> **kontaktinformācijas atbalsts**. Ierakstiet savu jautājumu, un programmas Outlook darbam ar Mac atbalsta grupas dalībnieks sazināsies ar jums. 
 
-Papildinformācija: [sazinieties ar atbalsta dienestu programmā Outlook operētājsistēmai Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Papildinformācija: [Sazināšanās ar atbalsta dienestu programmā Outlook darbam ar Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

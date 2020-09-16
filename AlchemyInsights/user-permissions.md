@@ -1,41 +1,42 @@
 ---
-title: Lietotāju atļaujas
+title: Lietotāja atļaujas
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579440"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796727"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Lietotāju atļaujas pakalpojumā SharePoint un OneDrive
 
-Ja lietotājs jūsu organizācijā nevar piekļūt SharePoint vai OneDrive, pārliecinieties, vai viņiem ir licence, kas ietver SharePoint un OneDrive. 
+Ja kāds lietotājs jūsu organizācijā nevar piekļūt SharePoint vai OneDrive, pārliecinieties, vai viņiem ir licence, kas ietver SharePoint un OneDrive. 
   
-1. Pārejiet uz [lapu Aktīvie lietotāji Microsoft 365 administrēšanas centrā](https://portal.office.com/adminportal/home#/users) un atlasiet lietotāju. 
+1. Dodieties uz [lapu Aktīvie lietotāji Microsoft 365 administrēšanas centrā](https://portal.office.com/adminportal/home#/users) un atlasiet lietotāju. 
     
-2. Pārliecinieties, vai sadaļā **produktu licences**ir piešķirta licence un ir atlasīta **SharePoint Online** . 
+2. Pārliecinieties, vai sadaļā **produktu licences**ir piešķirta licence un ir atlasīta opcija **SharePoint Online** . 
     
- Lai lietotājam piešķirtu atļauju piekļūt SharePoint vietnei: 
+ Lai lietotājam piešķirtu atļauju piekļūt SharePoint vietnei, rīkojieties šādi. 
   
-1. Atveriet vietni Web pārlūkā.
+1. Atveriet vietni tīmekļa pārlūkprogrammā.
     
-2. Ja vietne pieder Microsoft 365 grupai, augšējā labajā stūrī noklikšķiniet uz ikonas iestatījumi un pēc tam noklikšķiniet uz **vietnes atļaujas**. Noklikšķiniet uz **uzaicināt personas**un pēc tam izvēlieties pievienot dalībniekus Microsoft 365 grupai vai koplietot tikai vietni. 
+2. Ja vietne pieder Microsoft 365 grupai, augšējā labajā stūrī noklikšķiniet uz ikonas Iestatījumi un pēc tam noklikšķiniet uz **vietnes atļaujas**. Noklikšķiniet uz **uzaicināt personas**un pēc tam izvēlieties pievienot dalībniekus Microsoft 365 grupai vai kopīgot tikai vietni. 
     
-    Saziņas vietnes augšējā labajā stūrī noklikšķiniet uz **kopīgot vietni** , ievadiet personas vārdu un pēc tam atlasiet atļaujas līmeni (lasīt, rediģēt vai pilna kontrole). 
+    Saziņas vietnē, augšējā labajā stūrī noklikšķiniet uz **kopīgot vietni** , ievadiet personas vārdu un pēc tam atlasiet atļauju līmeni (lasīt, rediģēt vai pilna vadīkla). 
     
-    Klasiskajai grupas vietnei noklikšķiniet uz **kopīgot** augšējā labajā stūrī. Ievadiet tās personas vārdu, kuru vēlaties uzaicināt, vai ierakstiet visus, ko kopīgot ar visiem jūsu organizācijā. Noklikšķiniet uz **kopīgot**.
+    Lai iegūtu klasisku grupas vietni, augšējā labajā stūrī noklikšķiniet uz **kopīgot** . Ievadiet tās personas vārdu, kuru vēlaties uzaicināt, vai ierakstiet visu, lai kopīgotu ar ikvienu savu organizāciju. Noklikšķiniet uz **kopīgot**.
     
 > [!NOTE]
-> Ja esat kādas vietnes dalībnieks, bet neesat tā īpašnieks, varat uzaicināt personas uz šo vietni, bet jūsu uzaicinājums ģenerēs piekļuves pieprasījumu, kuru vietnes īpašnieks var apstiprināt vai noraidīt. 
+> Ja esat vietnes dalībnieks, bet neesat īpašnieks, varat uzaicināt lietotājus uz vietni, bet jūsu uzaicinājums ģenerēs piekļuves pieprasījumu, ko vietnes īpašnieks var apstiprināt vai noraidīt. 
   
-[Uzziniet, kā koplietot failu vai mapi ar lietotāja](https://go.microsoft.com/fwlink/?linkid=533408)
+[Uzziniet, kā kopīgot failu vai mapi ar lietotāju](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

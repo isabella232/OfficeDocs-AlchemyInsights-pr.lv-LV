@@ -1,30 +1,31 @@
 ---
-title: S/MIME programmā Outlook Web
+title: S/MIME programmā Outlook tīmeklī
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511515"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772305"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>E-pasta ziņojumu šifrēšana programmā Outlook
 
-Microsoft 365 ziņojumu šifrēšana ir veidota uz Microsoft Azure Rights Management (Azure RMS), kas ir daļa no Azure informācijas aizsardzības. Ja abonementā ir iekļauta Azure Rights Management vai Azure informācijas aizsardzība, **nav jāveic nekādas darbības, lai manuāli iespējotu vai aktivizētu** tiesību pārvaldības pakalpojumu.
+Microsoft 365 ziņojumu šifrēšana ir veidota Microsoft Azure Rights Management (Azure RMS), kas ir Azure Information Protection daļa. Ja jūsu abonementā ir iekļauta Azure Rights Management vai Azure Information Protection, **jums nav jāveic nekādas darbības, lai manuāli iespējotu vai aktivizētu** tiesību pārvaldības pakalpojumu.
 
-Pamatojoties uz klientu atsauksmēm, mēs vairs neiespējosim Exchange pasta plūsmas kārtulas, lai automātiski šifrētu izejošo e-pastu, kurā ir noteikta veida sensitīva informācija jūsu nomniekā pēc noklusējuma. Tā vietā mēs sniedzam detalizētas instrukcijas par to, kā jūs to varat izdarīt paši. Lai iegūtu papildinformāciju par to, kā izveidot transporta kārtulu, lai šifrētu konfidenciālu informāciju, skatiet [šo rakstu](https://aka.ms/OmeEtr).
+Ņemot vērā klientu atsauksmes, mēs vairs neiespējojam Exchange pasta plūsmas kārtulas, lai automātiski šifrētu izejošos e-pasta ziņojumus, kuros nomniekā ir noteikta veida konfidenciāla informācija. Tā vietā mēs sniedzam detalizētus norādījumus par to, kā varat to izdarīt pats. Papildinformāciju par to, kā izveidot transporta kārtulu, lai šifrētu sensitīvu informāciju, skatiet [šajā rakstā](https://aka.ms/OmeEtr).
 
-- Ja izmantojat Outlook Web (iepriekš **OWA**): sastādot e-pasta ziņojumu, vienkārši noklikšķiniet uz **aizsargāt** OWA. Tas attieksies "nav uz priekšu" atļauju. Noklikšķiniet uz **mainīt atļauju** un izvēlieties **Šifrēt** , lai tikai šifrētu ziņojumu.
+- Ja izmantojat Outlook tīmeklī (iepriekš **OWA**): veidojot e-pasta ziņojumu, vienkārši noklikšķiniet uz **aizsargāt** OWA. Tas attieksies uz "Nepārsūtīt" atļauju. Noklikšķiniet uz **mainīt atļaujas** un izvēlieties **Šifrēt** , lai šifrētu tikai šo ziņojumu.
 
-- Ja **Outlook klienta**izmantošana: lai sūtītu šifrētu ziņojumu no programmas Outlook 2013 vai 2016 vai Outlook 2016 operētājsistēmai Mac, atlasiet **opciju**  >  **atļaujas**, pēc tam atlasiet nepieciešamo aizsardzības opciju.
+- Ja izmantojat **Outlook klientu**: lai nosūtītu šifrētu ziņojumu no programmas Outlook 2013 vai 2016, vai Outlook 2016 darbam ar Mac, atlasiet **opciju**  >  **atļaujas**un pēc tam atlasiet vajadzīgo aizsardzības opciju.
 
-- Lai **automātiski šifrētu visus e-pasta** ziņojumus, kas nosūtīti noteiktiem adresātiem vai ārējo partneru organizācijām, jums ir jāizveido pasta plūsmas transportēšanas kārtula Exchange administrēšanas centrā. Detalizētas instrukcijas ir sniegtas [šajā atbalsta rakstā](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Lai **automātiski šifrētu visus e-pasta** ziņojumus, kas nosūtīti konkrētiem adresātiem vai ārējām partnera organizācijām, ir jāizveido pasta plūsmas transportēšanas kārtula Exchange administrēšanas centrā. Detalizēti norādījumi ir sniegti [šajā atbalsta rakstā](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

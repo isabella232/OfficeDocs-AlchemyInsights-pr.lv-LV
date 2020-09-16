@@ -1,29 +1,30 @@
 ---
-title: Izveidot plūsmu
+title: Plūsmas izveide
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 280169200893921fa550264cceca5f5980937536
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715567"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732866"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 
-Microsoft Flow palīdz automatizēt bieži veicuzdevumus. Izmantojiet to, lai iestatītu darbplūsmas sarakstiem un bibliotēkām. Lai uzzinātu, kā pievienot plūsmu sarakstam vai bibliotēkai programmā SharePoint Online vai OneDrive, skatiet sadaļu [plūsmas izveide](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow palīdz automatizēt bieži veicamus uzdevumus. Izmantojiet to, lai iestatītu darbplūsmas sarakstiem un bibliotēkām. Lai uzzinātu, kā pakalpojumā SharePoint Online vai OneDrive pievienot plūsmu sarakstam vai bibliotēkai, skatiet rakstu [plūsmas izveide](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Video par Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoklipi par Microsoft plūsmu](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Microsoft Flow tīmekļa vietne](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft plūsmas tīmekļa vietne](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
