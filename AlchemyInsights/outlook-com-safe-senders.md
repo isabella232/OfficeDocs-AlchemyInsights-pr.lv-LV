@@ -1,30 +1,31 @@
 ---
-title: 8000089 Outlook.com drošo sūtītāju
+title: 8000089 Outlook.com Drošie sūtītāji
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743640"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722894"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a><span data-ttu-id="c7240-102">Ziņojumu apturēšana no došanās uz nevēlamā e-pasta mapi</span><span class="sxs-lookup"><span data-stu-id="c7240-102">Stop messages from going into your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a><span data-ttu-id="ef4e5-102">Ziņojuma pārtraukšana mapē Nevēlamais e-pasts</span><span class="sxs-lookup"><span data-stu-id="ef4e5-102">Stop messages from going into your Junk Email folder</span></span>
 
-<span data-ttu-id="c7240-103">Ir reizes, kad jūs nevēlaties, lai ziņojumi no konkrētas personas vai domēna, lai galu galā jūsu nevēlamā e-pasta mapē Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="c7240-103">There are times when you don't want messages from a specific person or domain to end up in your Junk Email folder in Outlook.com.</span></span> <span data-ttu-id="c7240-104">Ziņojumi no drošo sūtītāju sarakstā iekļautajām adresēm vai domēniem netiks pārvietoti uz mapi Nevēlamais e-pasts.</span><span class="sxs-lookup"><span data-stu-id="c7240-104">Messages from addresses or domains on the safe senders list won't get moved to your Junk Email folder.</span></span>
+<span data-ttu-id="ef4e5-103">Ir brīži, kad nevēlaties, lai ziņojumi no noteiktas personas vai domēna nonāktu mapē Nevēlamais e-pasts programmā Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="ef4e5-103">There are times when you don't want messages from a specific person or domain to end up in your Junk Email folder in Outlook.com.</span></span> <span data-ttu-id="ef4e5-104">Ziņojumi no adresēm vai domēniem drošo sūtītāju sarakstā netiks pārvietoti uz mapi Nevēlamais e-pasts.</span><span class="sxs-lookup"><span data-stu-id="ef4e5-104">Messages from addresses or domains on the safe senders list won't get moved to your Junk Email folder.</span></span>
 
-1. <span data-ttu-id="c7240-105">Atveriet [drošo sūtītāju iestatījumus](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="c7240-105">Open your [Safe Senders settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-2. <span data-ttu-id="c7240-106">Sadaļā **Drošie sūtītāji un domēni**ievadiet e-pasta adresi vai domēnu, ko vēlaties pievienot, un atlasiet **pievienot**.</span><span class="sxs-lookup"><span data-stu-id="c7240-106">Under **Safe senders and domains**, enter the email address or domain you want to add, and select **Add**.</span></span>
-3. <span data-ttu-id="c7240-107">Lai pievienotu adresātu sarakstu drošo sūtītāju sarakstam, ievadiet adresātu sarakstu sadaļā **drošo adrešu saraksti** un atlasiet **pievienot**.</span><span class="sxs-lookup"><span data-stu-id="c7240-107">To add a mailing list to your safe senders, enter the mailing list under **Safe mailing lists** and select **Add**.</span></span>
-4. <span data-ttu-id="c7240-108">Atlasiet **saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="c7240-108">Select **Save**.</span></span>
+1. <span data-ttu-id="ef4e5-105">Atveriet [drošo sūtītāju iestatījumus](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="ef4e5-105">Open your [Safe Senders settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+2. <span data-ttu-id="ef4e5-106">Sadaļā **Droši sūtītāji un domēni**ievadiet e-pasta adresi vai domēnu, kuru vēlaties pievienot, un atlasiet **Pievienot**.</span><span class="sxs-lookup"><span data-stu-id="ef4e5-106">Under **Safe senders and domains**, enter the email address or domain you want to add, and select **Add**.</span></span>
+3. <span data-ttu-id="ef4e5-107">Lai savam drošo sūtītāju sarakstam pievienotu adresātu sarakstu, lodziņā **drošo adresātu saraksti** ievadiet adresātu sarakstu un atlasiet **Pievienot**.</span><span class="sxs-lookup"><span data-stu-id="ef4e5-107">To add a mailing list to your safe senders, enter the mailing list under **Safe mailing lists** and select **Add**.</span></span>
+4. <span data-ttu-id="ef4e5-108">Atlasiet **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="ef4e5-108">Select **Save**.</span></span>
 
-<span data-ttu-id="c7240-109">Lasīt vairāk pie [bloķēt vai atbloķēt sūtītājus Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c7240-109">Read more at [Block or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="ef4e5-109">Lasiet vairāk par [sūtītāju bloķēšana vai atbloķēšana pakalpojumā Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ef4e5-109">Read more at [Block or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
