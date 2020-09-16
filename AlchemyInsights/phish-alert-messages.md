@@ -1,38 +1,39 @@
 ---
-title: 2491 brīdinājuma e-pasta ziņojumus no "phish piegādāts nomnieka vai lietotāja apiešanas dēļ" politika
+title: 2491 brīdinājuma e-pasta ziņojumi no adresi phish, kas tiek piegādāta nomnieka vai lietotāja ignorēšanas politikā
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758935"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728618"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alert e-pasta ziņojumus no "phish piegādāts dēļ nomnieka vai lietotāja ignorēt" politika
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Brīdinājums par e-pasta ziņojumu saņemšanu no nomnieka vai lietotāja ignorēšanas adresi phish
 
-Noklusējuma brīdinājuma politika ar nosaukumu "phish piegādāts nomnieka vai lietotāja apiešanas dēļ" ir tika izvelēta nomniekiem ar Office 365 ATP P1 un P2 licencēm. Ja saņēmāt šo brīdinājumu, tālāk ir norādītas darbības, kas jāveic, lai izpētītu:
+Noklusējuma brīdinājumu politika "adresi phish, kas tiek piegādāta nomnieka vai lietotāja ignorēšanai", ir izlabota nomniekiem ar Office 365 ATP P1 un P2 licencēm. Ja saņēmāt šo brīdinājumu, ir jāveic tālāk norādītās darbības.
 
-1. Brīdinājuma ziņojumā noklikšķiniet uz **Skatīt brīdinājumu** , lai drošības & atbilstības centrā pārietu uz lapu **brīdinājumi** .
+1. Brīdinājuma ziņojumā noklikšķiniet uz **Skatīt brīdinājumu** , lai atvērtu **brīdinājumu** lapu drošības & atbilstības centrā.
 
-2. Atlasiet brīdinājumu, lai skatītu opciju skatīt **ziņojumu sarakstu** vai **skatītu ziņojumus programmā Explorer**. Abas šīs opcijas ļauj piekļūt ziņojuma detaļām, kas ietver ziņojuma ID. Ņemiet vērā, ka saite Threat Explorer automātiski filtrē ziņojumus, kas atbilst brīdinājuma kritērijiem. Iespējams, ir jāpielāgo datuma filtrs Threat Explorer.
+2. Atlasiet brīdinājumu, lai skatītu **ziņojumu saraksta** vai skata ziņojumu skatīšanas opciju **programmā Explorer**. Abas šīs opcijas sniedz detalizētu informāciju par ziņojumu, kas ietver ziņojuma ID. Ņemiet vērā, ka draudi Explorer saite automātiski filtrēs ziņojumus, kas atbildīs brīdinājuma kritērijiem. Iespējams, ka ir jāpielāgo datuma filtrs draudu pētniekā.
 
-Pikšķerēšanas ziņojums tika piegādāts dēļ manuāli konfigurēta ignorēšana:
+Pikšķerēšanas ziņojums tika piegādāts, jo ir manuāli konfigurēta ignorēšana:
 
-- Atļauto sūtītāju vai domēnu, ko iestatījis lietotājs.
+- Lietotājam iestatīts atļautais sūtītājs vai domēns.
 
-- Atļauto sūtītāju vai domēnu, ko administrators iestatījis pretsurogātpasta politikā.
+- Atļautais sūtītājs vai domēns, ko iestatījis administrators surogātpasta novēršanas politikā.
 
 - Atļauto IP adresi savienojuma filtra politikā.
 
-- Pasta plūsmas kārtula (tiek dēvēta arī par transportēšanas kārtulu), kas ir konfigurēta, lai atļautu ziņojumus.
+- Pasta plūsmas kārtula (tiek dēvēta arī par transporta kārtulu), kas ir konfigurēta, lai atļautu saņemt ziņojumus.
 
-Ja uzskatāt, ka ziņojums ir nepareizi atzīmēts kā phish, izmantojiet Outlook ziņojumu [ziņojumu pievienojumprogrammu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) iesniegt ziņojumu paraugi Microsoft.
+Ja uzskatāt, ka ziņojums ir nepareizi atzīmēts kā adresi phish, izmantojiet Outlook [atskaišu ziņojumu pievienojumprogrammu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) , lai iesniegtu ziņojumu paraugus Microsoft.
