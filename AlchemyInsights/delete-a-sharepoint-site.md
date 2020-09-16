@@ -5,25 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: abd69cb99265b06e9b44181474cb080e0b2c99e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505694"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731048"
 ---
-# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Vietnes dzēšana no jaunā SharePoint administrēšanas centra
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Vietnes dzēšana jaunajā SharePoint administrēšanas centrā
 
-Izmantojot jauno SharePoint administrēšanas centru, var izdzēst gan klasiskās, gan modernās vietnes. Atlasiet **aktīvās vietnes**, atlasiet vietni un pēc tam atlasiet **Dzēst**. Lai [skatītu un atjaunotu izdzēstās vietnes jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), atlasiet **Izdzēstie objekti**. Papildinformāciju skatiet sadaļā [vietnes dzēšana jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+Izmantojot jauno SharePoint administrēšanas centru, varat izdzēst gan klasiskās, gan modernās vietnes. Atlasiet **aktīvās vietnes**, atlasiet vietni un pēc tam atlasiet **Dzēst**. Lai [skatītu un atjaunotu izdzēstās vietnes jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), atlasiet **izdzēstās vietnes**. Papildinformāciju skatiet rakstā [vietnes dzēšana jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Svarīgi:** Ja vietne ir daļa no saglabāšanas politikas, iespējams, nevarēsit to dzēst, līdz vietne tiek noņemta no [ &amp; politikas drošības atbilstības administrēšanas centrs](https://protection.office.com/?rfr=AdminCenter#/homepage). Papildinformāciju skatiet tēmā [saglabāšanas politiku pārskats](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) . 
+**Svarīgi!** Ja vietne ir daļa no saglabāšanas politikas, iespējams, nevarēsit to izdzēst, līdz vietne nebūs noņemta no [drošības &amp; atbilstības administrēšanas centra politikas](https://protection.office.com/?rfr=AdminCenter#/homepage). Lai iegūtu papildinformāciju, skatiet sadaļu [pārskats par saglabāšanas politikām](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) . 
 
-Padomi:
-- SharePoint administratori tagad var dzēst vietnes, kas pieder **Microsoft 365 grupas**. Tiks dzēsta grupa un visi tās resursi, tostarp Outlook pastkaste un kalendārs, kā arī visu grupu kanāli. Papildinformāciju skatiet sadaļā [SharePoint vietnes dzēšana](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Jūs varat atgūt svītrots vietām 93 dienas. Ņemiet vērā, ka dzēstās grupas ir jāatjauno 30 dienu laikā. Papildinformāciju skatiet sadaļā [dzēstu vietņu skatīšana un atjaunošana](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- Lai neatgriezeniski noņemtu vietni, skatiet [vietni neatgriezeniska vietnes dzēšana](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Šī darbība būs jāveic, ja plānojat atkārtoti izmantot vietrādi URL. 
-- Lai noņemtu apakšvietni, skatiet [vietnes vai apakšvietnes dzēšana quicksteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
+Padomi
+- SharePoint administratori tagad var izdzēst vietnes, kas pieder **Microsoft 365 grupām**. Tādējādi tiks izdzēsta grupa un visi tās resursi, tostarp Outlook pastkaste un kalendārs, kā arī visi grupu kanāli. Papildinformāciju skatiet rakstā [SharePoint vietnes dzēšana](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- 93 dienām varat atkopt izdzēstās vietnes. Ņemiet vērā, ka izdzēstās grupas ir jāatjauno 30 dienu laikā. Papildinformāciju skatiet rakstā [izdzēsto vietņu skatīšana un atjaunošana](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Lai neatgriezeniski noņemtu vietni, skatiet sadaļu [pastāvīga vietnes dzēšana](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Šī darbība būs jāveic, ja plānojat atkārtoti izmantot vietrādi URL. 
+- Lai noņemtu apakšvietni, skatiet rakstu [vietnes vai apakšvietnes SmartArt grafikas izkārtojums](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

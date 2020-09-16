@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 5226da86643db58b39687735b67118796e9c40ad
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730958"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>Konta attēla dzēšana operētājsistēmā Windows 10
 
-Sistēma Windows ir izstrādāta, lai ļautu pārslēgties starp trim jaunākajiem attēliem. Ja nepieciešams dzēst kādu no saviem konta attēliem:
+Sistēma Windows ir izstrādāta, lai jūs varētu pārslēgties starp trim pēdējiem attēliem. Ja nepieciešams izdzēst kādu no saviem konta attēliem:
 
-1. Uzdevumjoslā atveriet failu pārlūku. Ja uzdevumjoslā neredzat sadaļu failu pārlūks (mapes ikona), atlasiet **Sākums** un ierakstiet **failu pārlūks**.
+1. Uzdevumjoslā atveriet failu pārlūku. Ja uzdevumjoslā neredzat failu pārlūks (mapes ikona), atlasiet **Sākt** un ierakstiet **failu pārlūks**.
 
-2. Dodieties uz c:\Users\\*yourname*\appdata\roaming\microsoft\windows\accountpictures. 
-    - Nomainiet *yourname* ar savu konta nosaukumu.
-    - Ja nevarat atrast AppData mapi failu pārlūkā, iespējams, tā ir paslēpta. Atlasiet iestatījumu **Skats** un atzīmējiet izvēles rūtiņu **paslēptie vienumi** , lai parādītu visus mapē esošos vienumus.
+2. Dodieties uz \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Aizstājiet *yourname* ar sava konta nosaukumu.
+    - Ja failu pārlūkā nevarat atrast mapi AppData, tas, iespējams, ir paslēpts. Lai rādītu visus mapes vienumus, atlasiet **skata** iestatījumu un atzīmējiet izvēles rūtiņu **paslēptie vienumi** .
 
-3. Dzēsiet konta attēlu, kuru vairs nevēlaties izmantot.
+3. Izdzēsiet konta attēlu, kuru vairs nevēlaties izmantot.
  
  

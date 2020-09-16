@@ -1,40 +1,40 @@
 ---
-title: AIP etiķešu politikas izveide
+title: ARA uzlīmju politikas izveide
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: de7d76564cabb0a5dd1a836984df6b1a63b2b218
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569205"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732182"
 ---
-# <a name="creating-aip-label-policies"></a>AIP etiķešu politikas izveide
+# <a name="creating-aip-label-policies"></a>ARA uzlīmju politikas izveide
 
-Azure informācijas aizsardzības (AIP) etiķetes var izmantot ar pilnu datu klāstu, ko organizācija parasti izveido un uzglabā no zemākās personas datu klasifikācijas līdz visaugstākajai ļoti konfidenciālo datu klasifikācijai. Azure informācijas aizsardzības politikas attiecas uz Azure informācijas aizsardzība (AIP) Classic klients, nevis [AIP vienotais marķēšanas klients](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). AIP politikā var konfigurēt vairākus elementus, tostarp opcijas, piemēram:
+Azure Information Protection (ARA) etiķetes var izmantot kopā ar visu datu diapazonu, ko organizācija parasti izveido un uzglabā no zemākās personas datu klasifikācijas līdz augstākai ļoti konfidenciālu datu klasifikācijai. Azure informācijas aizsardzības politikas attiecas uz Azure Information Protection (AIP) klasisko klientu, nevis  [ARA unificētās marķēšanas klientu](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). ARA politikā varat konfigurēt vairākus elementus, tostarp opcijas, piemēram:
 
-- Opcija, kurai etiķete ļaus administratoriem vai lietotājam klasificēt un aizsargāt (neobligāti) dokumentus un e-pastus
-- Opciju, lai ieviestu klasifikāciju, kad lietotāji saglabā dokumentus un sūta e-pastu
-- Iespēja automātiski marķēt e-pasta ziņojumu, pamatojoties uz tā pielikumiem.
-- Opciju, lai kontrolētu, vai informācijas aizsardzības josla tiek parādīta Office lietojumprogrammās
+- Opcijas, kuras etiķete ļaus administratoriem vai lietotāju klasificēšanai un aizsardzībai (neobligāti) dokumentus un e-pasta ziņojumus
+- Opcija ieviest klasifikāciju, ja lietotāji saglabā dokumentus un nosūta e-pastu
+- Opcija automātiski iezīmēt e-pasta ziņojumu, ņemot vērā tā pielikumus.
+- Opcija, lai kontrolētu, vai Office lietojumprogrammās tiek rādīta informācijas aizsardzības josla
 
-Papildu opcijas un informāciju par Azure informācijas aizsardzības politiku, skatiet: [pārskats par Azure informācijas aizsardzības politika](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Papildu opcijas un informāciju par Azure informācijas aizsardzības politikām skatiet šeit: [Azure informācijas aizsardzības politikas pārskats](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-Citiem noderīgiem resursiem par AIP politikām skatiet:
+Citus noderīgus resursus attiecībā uz AIP politikām skatiet:
 
-- [Pamācība: konfigurējiet Azure informācijas aizsardzības politikas iestatījumus un izveidojiet jaunu etiķeti](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Apmācība: Azure informācijas aizsardzības politikas iestatījumu konfigurēšana un jaunas etiķetes izveide](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
 - [Azure informācijas aizsardzības politikas konfigurēšana](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Veidojiet un konfigurējiet jutīguma etiķetes un to politikas](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Norādījumi par vispārējiem scenārijiem, kas izmanto Azure informācijas aizsardzību](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Jutīguma etiķešu un to politiku izveide un konfigurēšana](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Padomi bieži lietotajiem scenārijiem, kuros tiek izmantota Azure informācijas aizsardzība](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
 - [Azure informācijas aizsardzības dokumentācijas pārskatīšana](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Prasības Azure informācijas aizsardzība](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Ātri sākt apmācība Azure informācijas aizsardzība](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Lejupielādēt Azure informācijas aizsardzības klients](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Azure informācijas aizsardzības prasības](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Īsā lietošanas pamācība Azure informācijas aizsardzībai](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Azure informācijas aizsardzības klienta lejupielāde](https://www.microsoft.com/download/details.aspx?id=53018)
