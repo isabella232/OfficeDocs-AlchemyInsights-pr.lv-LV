@@ -1,27 +1,30 @@
 ---
-title: Atļaut vai aizliegt anonīmajiem lietotājiem pievienoties Teams sapulcēm
+title: Atļaut vai neļaut anonīmiem lietotājiem pievienoties grupu sapulcēm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493329"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669903"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Atļaut vai aizliegt anonīmajiem lietotājiem pievienoties Teams sapulcēm
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Atļaut vai neļaut anonīmiem lietotājiem pievienoties grupu sapulcēm
 
-Varat kontrolēt anonīmo sapulču pievienošanas iestatījumus komandu administrēšanas centrā.
+Varat kontrolēt anonīmas sapulces savienojuma iestatījumus grupu administrēšanas centrā.
 
-1.  Dodieties uz administrēšanas centru [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) .
-2.  Kreisajā navigācijas malā atveriet **sapulces**   >   **sapulces iestatījumus**.
-3.  Sadaļā **dalībnieki** **var pievienoties sapulcei anonīmi lietotāji**.
+**Lai šīs izmaiņas stātos spēkā, var paiet līdz pat 24 stundām.**
+
+1.  Dodieties uz [Teams administrēšanas centru](https://admin.teams.microsoft.com)
+2.  Kreisajā navigācijas rūtī **atveriet sapulču**   >   **sapulces iestatījumi**.
+3.  Sadaļā  **dalībnieki**ieslēdziet  **anonīmus lietotājus, lai pievienotos sapulcei**.

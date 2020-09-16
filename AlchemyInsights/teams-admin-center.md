@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354095"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670371"
 ---
 # <a name="teams-admin-center"></a>Teams administrēšanas centrs
 
@@ -31,5 +32,5 @@ Ja lietotāji netiek rādīti Teams administrēšanas centrā, lūdzu, pārbaudi
 
 - Vai esat izveidojis lietotājus vai piešķīris licences pēdējo 24 stundu laikā? Lūdzu, pirms atbalsta biļetes atvēršanas nogaidiet vismaz 24 stundas.
 - Vai pārbaudījāt, vai esat piešķīris atbilstošas licences?
-- Ja jums ir lokālo Active Directory, pārbaudiet, [vai vērtība msRTCSIP PrimaryUserAddress vai SIP adresi jūsu lokālā Active Directory laukā ProxyAddresses ir unikāla un formāts atbilst](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: lietotāja**lietotājvārds** no [Microsoft 365 administrēšanas centrs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ja plānojat saglabāt Skype Business Server izvietošana un ir lietotāji homed lokālas un tiešsaistes: Skype Business Server vadības paneļa izpildiet **"iestatīt hibrīds ar darba grupas un Skype biznesa online"** un pārvietot lietotājus tiešsaistē.
+- Ja jums ir lokālā Active Directory, pārbaudiet, [vai msRTCSIP-PrimaryUserAddress vai SIP adreses vērtība lokālā Active Directory laukā proxyAddresses ir unikāla un formāts atbilst](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: lietotāja**vārds** no [Microsoft 365 administrēšanas centra](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ja plānojat paturēt Skype darbam servera izvietošanu un jums ir lietotāji, kuri dzīvo lokāli un tiešsaistē: Skype darbam Server vadības panelī izpildiet **sadaļu "iestatīt hibrīdu ar Teams un Skype darbam Online"** un pārvietot lietotājus tiešsaistē.
