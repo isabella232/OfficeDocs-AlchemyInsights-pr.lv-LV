@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 3e89271953303b7b5161bb8846459b0bfa3375c5
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
-ms.translationtype: HT
+ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207490"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657652"
 ---
 # <a name="update-my-credit-card-information"></a>Manas kredītkartes informācijas atjaunināšana
 
-Varat pievienot/noņemt maksāšanas metodi no **Microsoft 365 administrēšanas centra**. Ja jūsu maksāšanas metode nav saistīta ne ar vienu abonementu, varat to nekavējoties izdzēst. Ja tā ir saistīta ar abonementu, skatiet rakstu [Maksāšanas metodes maiņa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+Varat pievienot/noņemt maksāšanas metodi no **Microsoft 365 administrēšanas centra**. Ja jūsu maksāšanas metode nav saistīta ne ar vienu abonementu, varat to nekavējoties izdzēst. Ja tas ir saistīts ar abonementu, skatiet sadaļu [maksājumu metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 1. Dodieties uz **Norēķini > Rēķini un maksājumi > [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
@@ -28,6 +29,6 @@ Varat pievienot/noņemt maksāšanas metodi no **Microsoft 365 administrēšanas
 
 3. Rūts **Dzēst maksāšanas metodi** apakšā noklikšķiniet uz **Dzēst**.
 
-Lai uzzinātu vairāk, skatiet rakstu [Maksāšanas metožu pievienošana, atjaunināšana vai dzēšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+Papildinformāciju skatiet rakstā [maksāšanas metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Lai novērstu problēmas, skatiet rakstu [Ar maksāšanas metodēm saistītu problēmu novēršana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#troubleshoot-payment-methods).
+Lai novērstu problēmas, skatiet rakstu [Ar maksāšanas metodēm saistītu problēmu novēršana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).

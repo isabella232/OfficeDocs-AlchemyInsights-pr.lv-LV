@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 5062148ea5bb258cb7d122154d231164310df49d
-ms.sourcegitcommit: b9c57ee50d59189784dc57d70a235fe15a9ee6c7
+ms.openlocfilehash: 794ec70971fc2eff31047f8346284118eb9d6add
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46555486"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665041"
 ---
 # <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Problēmu novēršana saistībā ar Skype darbam Mac datorā
 

@@ -1,26 +1,27 @@
 ---
-title: DNS ierakstu atjaunināšana pie Cloudflare
+title: DNS ierakstu atjaunināšana vietnē Cloudflare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 73e143cbb62937ade55fe9f7fa260e0f897f8bb3
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 2faa5c37b57e4c49da2cdd212e1bebba76276eb1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650392"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657688"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>DNS ierakstu atjaunināšana pie Cloudflare
+# <a name="update-dns-records-at-cloudflare"></a>DNS ierakstu atjaunināšana vietnē Cloudflare
 
-Izmantojiet tālāk norādītās saites, lai palīdzētu atjaunināt DNS ierakstus.
+Izmantojiet tālāk norādītās saites, lai atjauninātu savus DNS ierakstus.
 
-- [Izveidot DNS ierakstus pie Cloudflare](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
-- [Pielāgotu DNS ierakstu pievienošana vai rediģēšana Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [DNS ierakstu izveide Cloudflare vietnē](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
+- [Pielāgotu DNS ierakstu pievienošana vai rediģēšana sistēmā Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
