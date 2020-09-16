@@ -1,27 +1,30 @@
 ---
-title: Atļaut vai aizliegt anonīmajiem lietotājiem pievienoties Teams sapulcēm
+title: Atļaut vai neļaut anonīmiem lietotājiem pievienoties grupu sapulcēm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493329"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669903"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="d521f-102">Atļaut vai aizliegt anonīmajiem lietotājiem pievienoties Teams sapulcēm</span><span class="sxs-lookup"><span data-stu-id="d521f-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a><span data-ttu-id="2427e-102">Atļaut vai neļaut anonīmiem lietotājiem pievienoties grupu sapulcēm</span><span class="sxs-lookup"><span data-stu-id="2427e-102">Allow or prevent anonymous users from joining Teams meetings</span></span>
 
-<span data-ttu-id="d521f-103">Varat kontrolēt anonīmo sapulču pievienošanas iestatījumus komandu administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="d521f-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
+<span data-ttu-id="2427e-103">Varat kontrolēt anonīmas sapulces savienojuma iestatījumus grupu administrēšanas centrā.</span><span class="sxs-lookup"><span data-stu-id="2427e-103">You can control anonymous meeting join settings in the Teams Admin Center.</span></span>
 
-1.  <span data-ttu-id="d521f-104">Dodieties uz administrēšanas centru [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) .</span><span class="sxs-lookup"><span data-stu-id="d521f-104">Go to the admin center at  [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).</span></span>
-2.  <span data-ttu-id="d521f-105">Kreisajā navigācijas malā atveriet **sapulces**   >   **sapulces iestatījumus**.</span><span class="sxs-lookup"><span data-stu-id="d521f-105">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
-3.  <span data-ttu-id="d521f-106">Sadaļā **dalībnieki** **var pievienoties sapulcei anonīmi lietotāji**.</span><span class="sxs-lookup"><span data-stu-id="d521f-106">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
+<span data-ttu-id="2427e-104">**Lai šīs izmaiņas stātos spēkā, var paiet līdz pat 24 stundām.**</span><span class="sxs-lookup"><span data-stu-id="2427e-104">**It may take up to 24 hours for this change to take effect.**</span></span>
+
+1.  <span data-ttu-id="2427e-105">Dodieties uz [Teams administrēšanas centru](https://admin.teams.microsoft.com)</span><span class="sxs-lookup"><span data-stu-id="2427e-105">Go to the [Teams admin center](https://admin.teams.microsoft.com)</span></span>
+2.  <span data-ttu-id="2427e-106">Kreisajā navigācijas rūtī **atveriet sapulču**   >   **sapulces iestatījumi**.</span><span class="sxs-lookup"><span data-stu-id="2427e-106">In the left navigation, go to  **Meetings**  >  **Meeting settings**.</span></span>
+3.  <span data-ttu-id="2427e-107">Sadaļā  **dalībnieki**ieslēdziet  **anonīmus lietotājus, lai pievienotos sapulcei**.</span><span class="sxs-lookup"><span data-stu-id="2427e-107">Under  **Participants**, turn on  **Anonymous users can join a meeting**.</span></span>
