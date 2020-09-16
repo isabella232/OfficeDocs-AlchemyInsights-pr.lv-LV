@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
-ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163788"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739292"
 ---
-# <a name="collaborate-on-excel-documents"></a>Sadarbība Excel dokumentos
+# <a name="collaborate-on-excel-documents"></a>Sadarbība, strādājot ar Excel dokumentiem
 
-Lai sadarbotos ar kolēģiem Excel dokumentos, izmantojiet **sadarbības autorēšanas līdzekli**. 
+Lai sadarbotos ar kolēģiem Excel dokumentos, izmantojiet **līdzautorēšanas līdzekli**. 
 
-Kā iespējot un izmantot šo līdzekli papildus atbildēm uz bieži uzdotajiem jautājumiem par kopīgošanas un sadarbības autorēšanas scenārijiem, vienlaikus [sadarbojieties Excel darbgrāmatās, izmantojot koprediģēšanu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Uzziniet, kā iespējot un izmantot šo līdzekli, kā arī skatīt atbildes uz bieži uzdotiem jautājumiem par kopīgošanas un sadarbības scenārijiem, vienlaikus [sadarbojoties ar Excel darbgrāmatām vienlaikus ar vienlaicīgu autorēšanu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
