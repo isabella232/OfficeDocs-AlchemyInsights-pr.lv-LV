@@ -5,39 +5,40 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 94dda7a42632f57ce3aef5f467b87df1033b8d49
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268639"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730166"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Bluetooth problēmu novēršana operētājsistēmā Windows 10
 
-Ja trūkst Bluetooth ikonas vai Bluetooth nevar ieslēgt vai izslēgt, iespējams, vēlēsities palaist Bluetooth problēmu risinātāju. [Atveriet problēmu novēršanas iestatījumus](ms-settings:troubleshoot), noklikšķiniet uz **Bluetooth** sadaļā **atrast un novērst citas problēmas**noklikšķiniet uz **palaist problēmu risinātāju**.
+Ja trūkst Bluetooth ikonas vai Bluetooth nevar ieslēgt vai izslēgt, iespējams, vēlēsities palaist Bluetooth problēmu risinātāju. [Atveriet problēmu novēršanas iestatījumus](ms-settings:troubleshoot), noklikšķiniet uz **Bluetooth** sadaļā **atrast un labot citas problēmas**, noklikšķiniet uz **palaist problēmu risinātāju**.
 
-Ja Bluetooth ikona nav redzama, tomēr ierīču pārvaldniekā tiek parādīts Bluetooth.
+Ja netiek rādīta Bluetooth ikona, bet Bluetooth funkcija ir redzama ierīču pārvaldniekā:
 
-1. Ierīču pārvaldniekā noklikšķiniet uz **Bluetooth**. Nospiediet un turiet (vai noklikšķiniet ar peles labo pogu) Bluetooth adaptera nosaukumu un noklikšķiniet uz **atinstalēt ierīci**.
+1. Ierīču pārvaldniekā noklikšķiniet uz **Bluetooth**. Nospiediet un turiet nospiestu (vai noklikšķiniet ar peles labo pogu) uz Bluetooth adaptera nosaukuma un noklikšķiniet uz **atinstalēt ierīci**.
 
-2. Izslēdziet Windows ierīci, pagaidiet dažas sekundes un pēc tam atkal ieslēdziet to. Sistēma Windows mēģinās pārinstalēt draiveri.
+2. Beidzējiet Windows ierīci, uzgaidiet dažas sekundes un pēc tam atkal ieslēdziet to. Windows mēģinās atkārtoti instalēt draiveri.
 
-Ja nesen instalējāt Windows 10 atjauninājumus vai veicāt jaunināšanu uz Windows 10, iespējams, vēlēsities pārbaudīt draiveru atjauninājumus:
+Ja nesen instalējāt Windows 10 atjauninājumus vai jauninājāt uz Windows 10, iespējams, vēlēsities meklēt draiveru atjauninājumus.
 
-1. Ierīču pārvaldniekā noklikšķiniet uz **Bluetooth**un pēc tam uz Bluetooth adaptera nosaukuma (kas var ietvert vārdu "radio").
+1. Ierīču pārvaldniekā noklikšķiniet uz **Bluetooth**un pēc tam noklikšķiniet uz Bluetooth adaptera nosaukuma (tas var ietvert vārdu "radio").
 
-2. Nospiediet un turiet Bluetooth adapteri (vai noklikšķiniet uz tā ar peles labo pogu) un pēc tam noklikšķiniet uz **Atjaunināt draivera** > **meklēšanu automātiski atjauninātai draivera programmatūrai**. Izpildiet norādījumus un pēc tam noklikšķiniet uz **Aizvērt**.
+2. Nospiediet un turiet Bluetooth adapteri (vai noklikšķiniet ar peles labo pogu) un pēc tam noklikšķiniet uz **atjaunināt draiveru**  >  **meklēšanu automātiski, lai atjauninātu draivera programmatūru**. Izpildiet norādītās darbības un pēc tam noklikšķiniet uz **izslēgt**.
 
-      - Ja Windows nevar atrast jaunu Bluetooth draiveri, apmeklējiet datora ražotāja vietni un lejupielādējiet jaunāko Bluetooth draiveri no turienes.
+      - Ja operētājsistēma Windows neatrod jaunu Bluetooth draiveri, apmeklējiet datora ražotāja tīmekļa vietni un lejupielādējiet jaunāko Bluetooth draiveri no šīs vietas.
 
-    - Pēc tās lejupielādes noklikšķiniet uz **Atjaunināt draiveri** > **Meklēt datorā draivera programmatūru** > **atrodiet** atrašanās vietu, kur glabājas draivera faili > **Labi** > **blakus**, un veiciet norādītās darbības, lai to instalētu.
+    - Pēc lejupielādes noklikšķiniet uz **Atjaunināt draiveri**  >  **datorā, lai atrastu draivera programmatūru**  >  **pārlūkojiet** vietu, kur ir saglabāti draiveru faili > **Labi**  >  **Next**, un izpildiet instalēšanas darbības.
 
-3. Pēc atjauninātā draivera instalēšanas restartējiet datoru un pēc tam pārbaudiet, vai savienojuma problēma tiek novērsta.
+3. Pēc atjauninātā draivera instalēšanas restartējiet datoru un pārbaudiet, vai tas novērš savienojuma problēmu.
 
-Lai iegūtu plašāku informāciju par to, kā novērst Bluetooth problēmas, lūdzu, skatiet pilnu rakstu, [novērst Bluetooth problēmas operētājsistēmā Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).
+Papildinformāciju par to, kā novērst Bluetooth problēmas, skatiet rakstā Viss raksts, [ar Bluetooth saistītu problēmu](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)novēršana operētājsistēmā Windows 10.

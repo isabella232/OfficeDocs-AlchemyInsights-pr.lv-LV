@@ -1,39 +1,40 @@
 ---
 title: Izdzēsto vienumu atjaunošana no SharePoint vai OneDrive
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582530"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728186"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Izdzēsto vienumu atjaunošana no SharePoint vai OneDrive
 
-1. Pārejiet uz OneDrive vai SharePoint vietni.
+1. Dodieties uz savu OneDrive vai SharePoint vietni.
     
-2. Kreisajā rūtī noklikšķiniet uz **Atkritne** . 
+2. Kreisajā **rūtī noklikšķiniet uz Atkritne.** 
     
-3. Noklikšķiniet pa kreisi no vienumiem vai failiem, kurus vēlaties atjaunot.
+3. Noklikšķiniet pa kreisi no vienumiem vai failiem, ko vēlaties atjaunot.
     
 4. Noklikšķiniet uz **atjaunot**. 
     
-Ja faili, mapes, bibliotēkas, saraksti un saraksta elementi tiek dzēsti no SharePoint vietnes, tie atrodas atkritnē, kur tie tiek glabāti 93 dienas, ja vien kāds tos neizdzēš no šīs atkritnes. Ja tie tiek dzēsti no šīs atkritnes (saukta par vietnes atkritni), atlikušajam laikam viņi dodas uz vietņu kolekcijas atkritni un pēc tam tiek neatgriezeniski dzēsti. Dzēst vietnes un vietņu kolekcijas doties tieši uz vietņu kolekcijas atkritnes 93 dienas.
+Ja faili, mapes, bibliotēkas, saraksti un saraksta elementi tiek izdzēsti no SharePoint vietnes, tie pāriet uz atkritni, kur tie tiek saglabāti 93 dienas, ja vien kāds tos nedzēš no šīs atkritnes. Ja tās ir izdzēstas no šīs atkritnes (tiek dēvētas par vietnes atkritni), tās pāriet uz vietņu kolekcijas atkritni atlikušajam laikam un pēc tam tiek neatgriezeniski izdzēsti. Izdzēstās vietnes un vietņu kolekcijas pāriet tieši uz vietņu kolekcijas atkritni 93 dienu laikā.
   
 [Vienumu atjaunošana vietņu kolekcijas atkritnē](https://go.microsoft.com/fwlink/?linkid=867800) (vietņu kolekcijas administratori) 
   
-[Atjaunot svītrots vietņu kolekcijas](https://go.microsoft.com/fwlink/?linkid=867660) (Global vai SharePoint admins Microsoft 365) 
+[Izdzēsto vietņu kolekciju atjaunošana](https://go.microsoft.com/fwlink/?linkid=867660) (globālie vai SharePoint administratori pakalpojumā Microsoft 365) 
   
-Vietnes, kas pieder Microsoft 365 grupai, ir jāatjauno grupas atjaunot vietni. Skatiet [atjaunot svītrots Microsoft 365 grupas](https://go.microsoft.com/fwlink/?linkid=867802) (Global admin) 
+Vietnēm, kas pieder Microsoft 365 grupai, ir jāatjauno grupa, lai atjaunotu vietni. Skatiet rakstu [izdzēstas Microsoft 365 grupas atjaunošana](https://go.microsoft.com/fwlink/?linkid=867802) (globālais administrators) 
   
 
