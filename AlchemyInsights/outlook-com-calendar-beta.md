@@ -1,30 +1,31 @@
 ---
-title: 9000198 Outlook.com Calendar Beta
+title: 9000198 Outlook.com kalendāra beta versija
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710882"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753374"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Jauna kalendāra pieredze tuvojas Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Jauna kalendāra pieredze Outlook.com
 
-Jaunais izskats rada vislabāko dizainu un mācība no pasta pieredzi ar kalendāru.
+Jaunais izskats nodrošina labākos noformējumus un apmācības par pasta pieredzi kalendārā.
 
-Jūs varēsiet izbaudīt modernu dizainu, kas mazina vizuālo jucekli un sniedz ātrākus veidus, kā naviģēt jūsu kalendārā. Tāpat ir vieglāk atrast interesantus kalendārus jūsu mīļākajām aktivitātēm — no TV pārraidēm līdz sporta komandām un notikumiem.
+Jums būs mūsdienīgs dizains, kas samazina vizuālo jucekli un nodrošina ātrāku veidu, kā orientēties kalendārā. Varat arī vieglāk atrast interesantus kalendārus jūsu iecienītajām aktivitātēm — no TV šovi līdz sporta komandām un notikumiem.
 
-Mēs paplašināja mūsu kolekcija Event ikonas un atjaunina izskatu un noskaņu esošo-un mēs tagad automātiski pievienot attiecīgās ikonas, lai jūsu notikumiem, lai jūs varētu viegli redzēt, kas notiek īsumā.
+Mēs paplašinājām mūsu notikuma ikonu kolekciju un atjauninājām esošo vienumu izskatu un darbību, kā arī tagad automātiski pievienos atbilstošas ikonas saviem pasākumiem, lai jūs varētu viegli redzēt, kas uzreiz notiek.
 
-Jūs varat sniegt atgriezenisko saiti par jauniem līdzekļiem, izmantojot [Outlook.com kalendāra UserVoice kanālu](https://go.microsoft.com/fwlink/?linkid=2103075).
+Varat sniegt atsauksmes par jauniem līdzekļiem, izmantojot [Outlook.com kalendāra UserVoice kanālu](https://go.microsoft.com/fwlink/?linkid=2103075).

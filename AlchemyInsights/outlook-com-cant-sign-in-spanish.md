@@ -1,23 +1,24 @@
 ---
-title: 8000070-Outlook.com nevar pierakstīties-spāņu
+title: 8000070-Outlook.com nevar pierakstīties-spāņu valodā
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1143"
 - "8000070"
-ms.openlocfilehash: 4172fe35783ca6f9d10a467ec71597adbe6150f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0dc41ac7b82f6db7596c0fc0105c1541955b35b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43746606"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752906"
 ---
-# <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>No puede, Iniciar sesiķn EN Hotmail o EN Outlook.com?
+# <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>¿No puede Iniciar Sesión EN Hotmail o EN Outlook.com?
 
-SI no puede Iniciar sesiķn lv SU Cuenta de correo electrónico de Outlook.com, Hotmail, Live o MSN, o nav sabe con Seguridad Cķmo Iniciar o cerrar sesiķn, [aquķ TIENE algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).
+SI Nr. puede Iniciar Sesión EN SU Cuenta de correo electrónico de Outlook.com, Hotmail, Live o MSN, o nav sabe con Seguridad Cķmo Iniciar o cerrar Sesión, [aquķ TIENE algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).
