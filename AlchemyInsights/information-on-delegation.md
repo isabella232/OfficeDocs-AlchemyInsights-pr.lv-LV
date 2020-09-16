@@ -1,10 +1,11 @@
 ---
-title: 606. informācija par deleģēšanu
+title: 606 informācija par deleģēšanu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661735"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755714"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Problēmu novēršana deleģēšana programmā Outlook un Outlook Web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Problēmu novēršanas deleģēšana programmā Outlook un Outlook tīmeklī
 
-**Problēmu novēršana, izmantojot Monika rīku:**
+**Problēmu novēršana, izmantojot SaRA rīku:**
 
-1. Lejupielādēt un instalēt Monika rīks [šeit](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Atlasiet **Outlook**, un pēc tam **rodas problēmas ar kalendāru**.
-1. Say **Jā** ietekmēto mašīnu.
-1. Pievienojiet attiecīgā lietotāja e-pasta adresi.
-1. Atlasiet **problēmas ar pārstāvja atļaujām**.
-1. Nākamajā uzvednē, ja jums ir persona, kas dod atļauju, ievadiet e-pasta adresi savu pārstāvi. Ja esat saņēmis atļaujas un esat pārstāvis, ievadiet tās personas e-pasta adresi, kura jums piešķīra atļaujas.
+1. Lejupielādējiet un instalējiet SaRA rīku [šeit](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Atlasiet **Outlook**un pēc tam **man ir problēmas ar savu kalendāru**.
+1. Pasakiet **Jā** attiecībā uz ietekmēto datoru.
+1. Pievienojiet skartā lietotāja e-pasta adresi.
+1. Atlasiet **man radušās problēmas ar pārstāvja atļaujām**.
+1. Nākamajā uzvednē, ja esat persona, kas piešķir atļaujas, ievadiet sava pārstāvja e-pasta adresi. Ja esat saņēmis atļaujas un esat pārstāvis, ievadiet tās personas e-pasta adresi, kura jums piešķīra atļaujas.
 1. Nākamajā izvēlnē atlasiet opciju, kas atbilst jūsu scenārijam.
-1. Nākamajā izvēlnē atlasiet atļaujas līmeni.
-1. Šajā posmā, Monika rīks veiks automatizētās pārbaudes un tas nodrošinās jūs ar iespējamo izšķirtspēju vai arī sniegs diagnostikas žurnālu, ko var izmantot tālākai problēmu novēršanai.
-1. Jūs varat atrast žurnālus, kas atrodas mapē SaRA rezultāti, kas atrodas C:\Users\Username\AppData\Local\SaraResults.
+1. Nākamajā izvēlnē atlasiet atļauju līmeni.
+1. Šajā posmā SaRA rīks veiks automatizētās pārbaudes, un tas sniegs jūs ar iespējamu izšķirtspēju, vai arī piedāvās diagnostikas žurnālu, ko var izmantot, lai veiktu tālāku problēmu novēršanu.
+1. Jūs varat atrast žurnālus mapē SaRA Results, kas atrodas vietnē C:\Users\Username\AppData\Local\SaraResults.
