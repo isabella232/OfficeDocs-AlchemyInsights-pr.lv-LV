@@ -1,27 +1,27 @@
 ---
-title: Izmantojiet Office Offline Installer
+title: Office bezsaistes instalēšanas programmas izmantošana
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726327"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770198"
 ---
-# <a name="use-the-office-offline-installer"></a>Izmantojiet Office Offline Installer
+# <a name="use-the-office-offline-installer"></a>Office bezsaistes instalēšanas programmas izmantošana
 
-Lai lejupielādētu instalētāja failus, nepieciešams savienojums ar internetu, taču pēc tam, kad tas ir izdarīts, varat instalēt Office bezsaistes režīmā datorā pēc jūsu ērtībām, izmantojot Office izvietošanas rīku (ODT)
+Lai lejupielādētu Installer failus, ir jāizveido savienojums ar internetu, bet, kad tas ir paveikts, pēc tam varat instalēt Office bezsaistē PC datorā, izmantojot Office izvietošanas rīku (ODT)
 
-ODT ir paredzēts uzņēmuma vidēm un darbojas no komandrindas, tāpēc soļi ir sarežģītāki-bet tie joprojām strādā uzstādīšanai vienā ierīcē. Skatiet [Office Offline Installer izmantošana](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT ir paredzēts Enterprise vidēm un darbojas no komandrindas, tāpēc darbības ir sarežģītākas, bet tās joprojām darbojas instalācijas veikšanai vienā ierīcē. Skatiet rakstu [Office bezsaistes instalēšanas programmas izmantošana](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   
