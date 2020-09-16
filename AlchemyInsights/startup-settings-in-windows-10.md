@@ -5,49 +5,50 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: b4854944d8cbd9bd83fdea609007c15d39c8eb75
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409239"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751142"
 ---
 # <a name="startup-settings-in-windows-10"></a>Startēšanas iestatījumi operētājsistēmā Windows 10
 
-**Mainīt to, kuras lietojumprogrammas darbojas automātiski startēšanas laikā**
+**Programmu automātiskas palaišanas mainīšana startējot**
 
-1. Dodieties uz [iestatījumi > programmas > startēšana](ms-settings:startupapps?activationSource=GetHelp).
+1. Dodieties uz [sadaļu iestatījumi > lietojumprogrammas > startēšana](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Pārliecinieties, vai ir ieslēgta programma, kuru vēlaties palaist, startējot **datoru.**
+2. Pārliecinieties, vai programma, kuru vēlaties izpildīt, startējot ir **ieslēgta.**
 
-**Pievienot lietotni automātiskai palaišanai startēšanas laikā**
+**Programmas pievienošana automātiskai palaišanai startēšanas laikā**
 
-1. Noklikšķiniet uz vai pieskarieties vienumam **Sākt** un atrodiet programmu, kuru vēlaties palaist, startējot datoru.
+1. Noklikšķiniet uz vai pieskarieties pie **Sākt** un atrodiet programmu, kuru vēlaties palaist startēšanas laikā.
 
-2. Ar peles labo pogu noklikšķiniet uz programmas, noklikšķiniet uz **vēl**un pēc tam noklikšķiniet uz **Atvērt faila atrašanās vietu**. Tas atver vietu, kur tiek saglabāta saīsne uz programmu. Ja nav pieejama opcija atvērt faila atrašanās vietu, tas nozīmē, ka programmu nevar palaist, startējot datoru.
+2. Ar peles labo pogu noklikšķiniet uz programmas, noklikšķiniet uz **vēl**un pēc tam noklikšķiniet uz **Atvērt faila atrašanās vietu**. Tiek atvērta vieta, kur tiek saglabāta saīsne uz programmu. Ja nav pieejama opcija atvērt faila atrašanās vietu, tas nozīmē, ka programmu nevar palaist startēšanas laikā.
 
-3. Ja ir atvērta faila atrašanās vieta, nospiediet **Windows logotipa taustiņu + R**, ierakstiet **shell: Startup**, pēc tam noklikšķiniet uz **Labi**. Tiek atvērts sākšanas mape.
+3. Kad faila atrašanās vieta ir atvērta, nospiediet **Windows logotipa taustiņu + R**, ierakstiet **čaula: startēšana**un pēc tam noklikšķiniet uz **Labi**. Tiks atvērta startēšanas mape.
 
-4. Kopējiet un ielīmējiet saīsni uz programmu no faila atrašanās vietas mapē startēšana.
+4. Kopējiet un ielīmējiet saīsni uz lietojumprogrammu no faila atrašanās vietas mapē startēšana.
 
 **Startēšanas papildu opcijas (ieskaitot drošo režīmu, UEFI iestatījumus un sāknēšanu no citas ierīces)**
 
-1. Saglabājiet savu darbu un aizveriet visus atvērtos dokumentus, jo šīs darbības restartēs datoru.
+1. Saglabājiet savu darbu un slēdziet atvērtos dokumentus, jo šīs darbības sāks datora restartēšanu.
 
-2. Dodieties uz [iestatījumi > atjauniniet & drošības > atkopšana](ms-settings:recovery?activationSource=GetHelp).
+2. Dodieties uz [sadaļu iestatījumi > atjauniniet & drošības > atkopšanu](ms-settings:recovery?activationSource=GetHelp).
 
 3. Sadaļā **papildu startēšana**noklikšķiniet uz **Restartēt tūlīt**. 
 
-4. Pēc datora restartēšanas ekrānā izvēlieties opciju:
+4. Pēc tam, kad dators tiek restartēts ekrānā izvēlieties opciju:
 
-    - Lai sāknētu no ierīces, piemēram, USB diska, noklikšķiniet uz **lietot ierīci**.
+    - Lai veiktu sāknēšanu no ierīces, piemēram, USB diska, noklikšķiniet uz **izmantot ierīci**.
 
-    - Lai ievadītu UEFI iestatījumus (dažreiz to sauc par BIOS iestatīšanu), noklikšķiniet uz **problēmu novēršana > papildu opcijas > UEFI programmaparatūras iestatījumus**. 
+    - Lai ievadītu UEFI iestatījumus (ko dažreiz dēvē par BIOS iestatīšanu), noklikšķiniet uz **problēmu novēršana > papildu opcijas > UEFI programmaparatūras iestatījumi**. 
 
-    - Lai ievadītu drošo režīmu vai mainītu papildu startēšanas iestatījumus, noklikšķiniet uz **problēmu novēršana > papildu opcijas > startēšanas iestatījumi**un pēc tam noklikšķiniet uz **Restartēt**. Iespējams, jums tiks lūgts ievadīt [BitLocker atkopšanas atslēgu](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Pēc datora restartēšanas vēlreiz noklikšķiniet uz startēšanas iestatījuma, kuru vēlaties izmantot.
+    - Lai iekļūtu drošajā režīmā vai mainītu startēšanas papildu iestatījumus, noklikšķiniet uz **problēmu novēršana > papildu opcijas > startēšanas iestatījumi**un pēc tam noklikšķiniet uz **Restartēt**. Iespējams, jums būs jāievada [BitLocker atkopšanas atslēga](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Pēc tam, kad dators ir atkārtoti startēts, noklikšķiniet uz startēšanas iestatījuma, kuru vēlaties izmantot.
