@@ -1,30 +1,31 @@
 ---
-title: Microsoft Flow specializēts atbalsts
+title: Microsoft plūsmas specializētais atbalsts
 ms.author: pebaum
 author: pebaum
 manager: mnirke
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698569"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725054"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow specializēts atbalsts
+# <a name="microsoft-flow-specialized-support"></a>Microsoft plūsmas specializētais atbalsts
 
-Specializētam Microsoft Flow atbalstam, lūdzu, dodieties uz jauno [Power Platform administrēšanas centru](https://aka.ms/flowadminsupport). Jaunais portāls nodrošina tiešāku ceļu uz atbalstāmo atbalstu, kas ir optimizēts Microsoft Flow un citiem enerģijas platformas produktiem.
+Lai saņemtu specializētu Microsoft plūsmas atbalstu, dodieties uz jauno [Power Platform administrēšanas centru](https://aka.ms/flowadminsupport). Jaunais portāls nodrošina vairāk tiešu ceļu uz palīdzību, kas ir optimizēta Microsoft Flow un citiem Power Platform produktiem.
 
 apgūt vairāk:
-- [Informāciju par Microsoft Flow bezmaksas licencēm](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Informācija par Microsoft plūsmas bezmaksas licencēm](https://go.microsoft.com/fwlink/?linkid=2095610)
 - [Bieži uzdotie jautājumi par plūsmu jūsu organizācijā](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Microsoft 365 un Dynamics 365 plāni, kas ietver Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow norēķini un mērīšanas jautājumi](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Microsoft 365 un Dynamics 365 plāni, kuros iekļauts Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft plūsmas norēķinu un mērīšanas jautājumi](https://go.microsoft.com/fwlink/?linkid=2072612)
