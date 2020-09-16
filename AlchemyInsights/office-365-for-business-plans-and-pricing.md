@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 biznesa plāniem un izcenojumiem
+title: Microsoft 365 uzņēmumiem plāni un izcenojumi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 9db0179b8f755cec931b6b630b038b2b05cc553b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761641"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729734"
 ---
-# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="3bfa7-102">Salīdziniet Microsoft 365 uzņēmumiem</span><span class="sxs-lookup"><span data-stu-id="3bfa7-102">Compare Microsoft 365 for business</span></span>
+# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="a3994-102">Microsoft 365 for Business salīdzinājums</span><span class="sxs-lookup"><span data-stu-id="a3994-102">Compare Microsoft 365 for business</span></span>
 
-<span data-ttu-id="3bfa7-103">Ir pieejami trīs dažādi plāni ar Microsoft 365 uzņēmumiem.</span><span class="sxs-lookup"><span data-stu-id="3bfa7-103">There are three different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="3bfa7-104">[Salīdziniet Microsoft 365 ar biznesa plāniem un cenām](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="3bfa7-104">[Compare Microsoft 365 for business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
+<span data-ttu-id="a3994-103">Programmā Microsoft 365 darbam ir pieejami trīs dažādi plāni.</span><span class="sxs-lookup"><span data-stu-id="a3994-103">There are three different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="a3994-104">[Salīdziniet Microsoft 365 darbam plānus un izcenojumus](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="a3994-104">[Compare Microsoft 365 for business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
