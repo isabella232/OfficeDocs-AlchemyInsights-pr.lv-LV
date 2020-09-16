@@ -1,41 +1,41 @@
 ---
-title: Jutīguma etiķetes nav redzamas
+title: Jutīguma etiķetes netiek rādītas
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581022"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801191"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Jutīguma etiķetes nav redzamas
+# <a name="sensitivity-labels-not-appearing"></a>Jutīguma etiķetes netiek rādītas
 
-Jutības etiķetes ļauj klasificēt un palīdzēt aizsargāt jūsu sensitīvo saturu. Tās var izveidot Microsoft 365 atbilstības centrs, Microsoft 365 drošības centrs vai Microsoft 365 drošības & atbilstības centrs klasifikācijas > jutīguma etiķetes. Papildinformāciju par šo līdzekli skatiet sadaļā [pārskats par jutības etiķetēm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Jutīguma etiķetes ļauj klasificēt un palīdzēt aizsargāt sensitīvu saturu. Tās var izveidot Microsoft 365 atbilstības centrā, Microsoft 365 drošības centrā vai Microsoft 365 drošības & atbilstības centrā sadaļā klasifikācija > jutīguma etiķetes. Papildinformāciju par šo līdzekli skatiet rakstā [jutīguma etiķešu pārskats](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ja esat konfigurējis jutīguma etiķetes, bet tās neparādās Microsoft 365 lietojumprogrammās, pārbaudiet šo:
+Ja esat konfigurējis jutīguma etiķetes, bet tās netiek rādītas Microsoft 365 lietojumprogrammās, skatiet tālāk norādītās darbības.
 
-- Apstipriniet, ka jutīguma etiķete ir [publicēta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) lietotājiem un grupām, kuras vēlaties.
+- Apstipriniet, ka jutīguma uzlīme ir [publicēta](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) nepieciešamajiem lietotājiem un grupām.
 
-- Apstipriniet, ka lietotājs izmanto programmu, kas atbalsta jutīguma etiķetes-skatiet [dokumentā jutīguma etiķetes](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Pārliecinieties, vai lietotājs izmanto lietojumprogrammu, kas atbalsta jutīguma etiķetes — skatiet sadaļu [jutīguma etiķetes dokumentā](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Ja [migrējat Azure informācijas aizsardzības etiķetes](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ņemiet vērā [šeit](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)minētos apsvērumus.
+- Ja [migrējat Azure informācijas aizsardzības uzlīmes](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ņemiet vērā [šeit](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)norādītos apsvērumus.
 
-- Datu zuduma novēršana (DLP) atbalsts: pašlaik tikai saglabāšanas etiķetes var izmantot kā nosacījums DLP politiku.  Par jutīguma etiķetes DLP politika atbalsts nav pieejams vēl, bet mēs strādājam pie tā.
+- Atbalsts datu zuduma novēršanai (DLP): pašlaik tikai saglabāšanas etiķetes var izmantot kā nosacījumu DLP politikās.  Datu jutības etiķešu atbalsts DLP politikā vēl nav pieejams, bet mēs strādājam pie tā.
 
-- Ja šifrēšana ir iespējota jutīguma etiķetē, varat izvēlēties:
-    - Piešķirt atļaujas tūlīt
-    - Ļaut lietotājiem piešķirt atļaujas
+- Ja jutības etiķetē ir iespējota šifrēšana, varat izvēlēties kādu no šīm darbībām:
+    - Atļauju piešķiršana tūlīt
+    - Atļauju piešķiršana lietotājiem
 
 
-Lai iegūtu papildinformāciju par iespējamās problēmas, skatiet [zināmās problēmas ar jutīguma etiķetes](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Lai iegūtu papildinformāciju par iespējamajām problēmām, skatiet rakstu [zināmās problēmas ar jutības etiķetēm](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

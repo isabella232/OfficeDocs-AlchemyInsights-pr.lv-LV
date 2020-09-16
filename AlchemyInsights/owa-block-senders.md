@@ -1,39 +1,40 @@
 ---
-title: Bloķēt vai atbloķēt sūtītājus programmā Outlook tīmeklī
+title: Sūtītāju bloķēšana vai atbloķēšana programmā Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: e15ac7a1f2c81121bf8fdb66a8872f79f9f227d6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0092ca78a075463c0574357861b41b15fefe59af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720367"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768758"
 ---
-# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Bloķēt vai atbloķēt sūtītājus programmā Outlook tīmeklī
+# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Sūtītāju bloķēšana vai atbloķēšana programmā Outlook tīmeklī
 
 **No iesūtnes:**
 
-- Ziņojumu sarakstā atlasiet ziņojumu un pēc tam atlasiet **Nevēlamais** > **bloks**.
+- Ziņojumu sarakstā atlasiet ziņojumu un pēc tam atlasiet **nevēlams**  >  **Bloķēt**.
 
-**No iestatījumiem:**
+**No iestatījumi:**
 
 1. Lapas augšdaļā atlasiet zobrata ikonu <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- lai atvērtu iestatījumus un pēc tam atlasiet **Skatīt visus Outlook iestatījumus**.
-2. Atlasiet vienumu **pasta** > **Nevēlamais e-pasts**.
-3. Sadaļā **Bloķētie sūtītāji un domēni**atlasiet **pievienot**.
-4. Ierakstiet domēna e-pasta adresi, kuru vēlaties bloķēt, un nospiediet taustiņu ENTER.
-5. Atlasiet **saglabāt**.
+ lai atvērtu sadaļu iestatījumi, un pēc tam atlasiet **Skatīt visus Outlook iestatījumus**.
+2. Atlasiet **pasta**  >  **Nevēlamais e-pasts**.
+3. Sadaļā **Bloķētie sūtītāji un domēni**atlasiet **Pievienot**.
+4. Ierakstiet tā domēna e-pasta adresi, kuru vēlaties bloķēt, un pēc tam nospiediet taustiņu ENTER.
+5. Atlasiet **Saglabāt**.
 
-Lai atbloķētu sūtītāju, atlasiet atkritnes ikonu blakus e-pasta adresei vai domēnam, ko vēlaties atbloķēt.
+Lai atbloķētu sūtītāju, atlasiet atkritnes ikonu pie e-pasta adreses vai domēna, kuru vēlaties atbloķēt.
 
-Papildinformāciju skatiet sadaļā [sūtītāju vai atbloķēt sūtītāju programmā Outlook tīmeklī](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+Papildinformāciju skatiet rakstā [sūtītāju bloķēšana vai atbloķēšana programmā Outlook tīmeklī](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
