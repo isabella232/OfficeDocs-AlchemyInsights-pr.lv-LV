@@ -1,11 +1,12 @@
 ---
-title: 761 savienojuma izveide ar Exchange Online PowerShell, mfa ir iespējots
+title: 761, kas veido savienojumu ar Exchange Online PowerShell, kad ir iespējots MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205310"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748107"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="69aef-102">Izveidot savienojumu ar Exchange Online PowerShell, mfa ir iespējots</span><span class="sxs-lookup"><span data-stu-id="69aef-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="a1bdd-102">Savienojuma izveide ar Exchange Online PowerShell, ja ir iespējota MFA</span><span class="sxs-lookup"><span data-stu-id="a1bdd-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
 
-<span data-ttu-id="69aef-103">Ja jūsu kontam ir iespējota vairāku faktoru autentifikācija (MFA), jums ir jāievēro šie norādījumi, lai izveidotu savienojumu ar Exchange Online PowerShell: [Izmantojiet Exchange Online PowerShell ar mūsdienu autentifikāciju, izmantojot V2 moduli](https://aka.ms/exops-docs).</span><span class="sxs-lookup"><span data-stu-id="69aef-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Use the Exchange Online PowerShell with modern authentication using V2 module](https://aka.ms/exops-docs).</span></span> <span data-ttu-id="69aef-104">Lūdzu, meklējiet MFA / Multi Factor Authentication instrukcijas šajā lapā.</span><span class="sxs-lookup"><span data-stu-id="69aef-104">Please search for MFA / Multi Factor Authentication instructions on that page.</span></span>
+<span data-ttu-id="a1bdd-103">Ja jūsu kontam ir iespējota daudzfaktoru autentifikācija (MFA), ir jāizpilda šīs instrukcijas, lai izveidotu savienojumu ar Exchange Online PowerShell: [Izmantojiet Exchange Online PowerShell ar moderno autentifikāciju, izmantojot v2 moduli](https://aka.ms/exops-docs).</span><span class="sxs-lookup"><span data-stu-id="a1bdd-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Use the Exchange Online PowerShell with modern authentication using V2 module](https://aka.ms/exops-docs).</span></span> <span data-ttu-id="a1bdd-104">Lūdzu, meklējiet MFA/daudzfaktoru autentifikācijas instrukcijas šajā lapā.</span><span class="sxs-lookup"><span data-stu-id="a1bdd-104">Please search for MFA / Multi Factor Authentication instructions on that page.</span></span>
