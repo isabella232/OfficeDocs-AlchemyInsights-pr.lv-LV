@@ -1,36 +1,37 @@
 ---
-title: Pārvaldīt meklēšanas shēmu SharePoint Online
+title: Meklēšanas shēmas pārvaldība pakalpojumā SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042970"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770558"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Pārvaldīt meklēšanas shēmu SharePoint Online
+# <a name="manage-search-schema-in-sharepoint-online"></a>Meklēšanas shēmas pārvaldība pakalpojumā SharePoint Online
 
-Meklēšanas shēma kontrolē to, ko lietotāji var meklēt, kā lietotāji var to meklēt un kā rezultātus var prezentēt meklēšanas vietnēs. 
+Meklēšanas shēma kontrolē to, ko lietotāji var meklēt, kā lietotāji var tos meklēt un kā var prezentēt rezultātus meklēšanas tīmekļa vietnēs. 
 
-Skatiet [pārvaldīt meklēšanas shēmu SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) , lai uzzinātu, kā: 
-- Mainīt meklēšanas shēmu.
+Papildinformāciju [par to,](https://docs.microsoft.com/sharepoint/manage-search-schema) kā: 
+- Mainiet meklēšanas shēmu.
 - Izveidot pārvaldītos rekvizītus.
 - Kartēt pārmeklētos kartes pārmeklētos rekvizītus uz pārvaldītajiem rekvizītiem.
 
-Ņemiet vērā, ka attiecībā uz meklēšanas shēmas pārvaldību:
+Ņemiet vērā tālāk norādītās darbības, lai pārvaldītu meklēšanas shēmu:
 
-- Ja, veicot shēmas maiņu, saņemat brīdinājumu, **ka lietojumprogramma ir pauzēta** , tas ir tikai īslaicīgs, jo notiek servisa uzturēšana. 
+- Ja saņemat brīdinājumu par to, **ka lietojumprogrammas darbība ir apturēta** , veicot izmaiņas shēmā, šī darbība ir tikai pagaidu, jo notiek pakalpojuma uzturēšana. 
 
-    Ja ir pagājušas vairāk nekā 24 stundas un jūs joprojām novērojat brīdinājumu, lūdzu, piesakieties atbalsta gadījumā.
-- Mainot pārvaldītos rekvizītus vai pievienojot jaunus, izmaiņas stāsies spēkā tikai pēc tam, kad saturs ir atkārtoti pārmeklēts. SharePoint Online pārmeklēšanas notiek automātiski, pamatojoties uz definēto pārmeklēšanas grafiku.
-- Lai pārliecinātos, ka izmaiņas tiek pārmeklēti, varat īpaši [pieprasīt saraksta vai bibliotēkas atkārtota indeksēšana](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Ja ir pagājušas vairāk nekā 24 stundas un joprojām tiek rādīts brīdinājums, lūdzu, piesakieties atbalsta lietu.
+- Mainot pārvaldītos rekvizītus vai pievienojot jaunus, izmaiņas stājas spēkā tikai pēc tam, kad saturs ir atkārtoti pārmeklēts. Pakalpojumā SharePoint Online pārmeklēšana notiek automātiski, pamatojoties uz definēto pārmeklēšanas plānu.
+- Lai pārliecinātos, vai veiktās izmaiņas ir pārmeklētas, varat īpaši [pieprasīt saraksta vai bibliotēkas atkārtotu indeksēšanu](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Lai iegūtu pilnīgu pārskatu par meklēšanas shēmu, skatiet sadaļu [meklēšanas shēmas ieviešana](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Pilnīgu pārskatu par meklēšanas shēmu skatiet rakstā [Ievads par meklēšanas shēmu](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 
