@@ -1,11 +1,12 @@
 ---
-title: 1491-meklēšana-not-atgriešanās-sagaidāmais-rezultāti
+title: 1491 — meklēšana — netiek atgriezti — sagaidāmie rezultāti
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 57421d459ef03049d6f931db659a5f9b253f5002
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510579"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740481"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Satura meklēšana, kas neatgriež gaidtos rezultātus
+# <a name="content-search-not-returning-expected-results"></a>Satura meklēšana neatgriež gaidītos rezultātus
 
-Palaižot satura meklēšanu no Microsoft 365 drošības & atbilstības centrs, var tikt parādīts negaidīti meklēšanas rezultātos. Apsveriet tālāk norādītās darbības, kas var ietekmēt meklēšanas rezultātus.
+Kad notiek satura meklēšana no Microsoft 365 drošības & atbilstības centra, iespējams, saņemsit negaidītus meklēšanas rezultātus. Apsveriet tālāk norādītās darbības, kas var ietekmēt meklēšanas rezultātus.
 
-- **Satura atrašanās vietas un meklēšanas nosacījumi**: pārliecinieties, vai esat atlasījis pareizās satura atrašanās vietas un meklēšanas nosacījumus. Ja jums bija liela meklēšana (ar daudzām atrašanās vietām), apsveriet to sadalīšanu vairākās meklēšanām.
+- **Satura atrašanās vietas un meklēšanas nosacījumi**: Pārliecinieties, vai esat atlasījis atbilstošas satura atrašanās vietas un meklēšanas nosacījumus. Ja esat izpildījis lielu meklēšanu (ar daudzām atrašanās vietām), apsveriet iespēju to sadalīt vairākos meklējumos.
 
-- **Daļēji indeksēts vienumus**: [daļēji indeksētu vienumus](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) no pastkastēm tiek iekļauti aptuvenā meklēšanas rezultātos. Tomēr daļēji indeksētu vienumus no vietnes SharePoint un OneDrive nav iekļauti meklēšanas novērtējums.
+- **Daļēji indeksētie vienumi**: aprēķinātajos meklēšanas rezultātos tiek iekļauti  [daļēji indeksētie vienumi](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) no pastkastēm. Tomēr meklēšanas aplēsē nav iekļauta daļēji indeksētie vienumi no SharePoint un OneDrive vietnēm.
 
-- **Meklēšanas kļūmes**: meklējot lielu skaitu pastkastu (vairāk nekā 100 000 pastkastes), var tikt parādīts meklēšanas kļūdas ar kļūdu kodiem, piemēram, CS008-009 un CS012-002). Šādā gadījumā vēlreiz mēģiniet meklēt tikai neizdevušos satura atrašanās vietas. Skatiet [šo rakstu](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) , lai iegūtu papildinformāciju.
+- **Meklēšanas kļūmes**: Ja meklējat lielu skaitu pastkastu (vairāk par 100 000 pastkastēm), varat saņemt meklēšanas kļūdas ar kļūdu kodiem, piemēram, CS008-009 un CS012-002). Šajā gadījumā atkārtoti mēģiniet meklēt tikai neveiksmīgajām satura atrašanās vietām. Lai iegūtu papildinformāciju, skatiet  [šo rakstu](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
