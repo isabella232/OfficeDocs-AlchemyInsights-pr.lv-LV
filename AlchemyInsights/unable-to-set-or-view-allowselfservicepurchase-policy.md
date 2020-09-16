@@ -5,35 +5,36 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158568"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735206"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nevar iestatīt vai skatīt AllowSelfServicePurchase politiku
 
 Mēģinot iestatīt vai skatīt AllowSelfServicePurchase politiku, tiek parādīts šāds kļūdas ziņojums:
 
-*HandleError: neizdevās izgūt produktu politika ar PolicyId "AllowSelfServicePurchase" ErrorMessage-pamata savienojums tika aizvērts: radās neparedzēta kļūda nosūtīt.*
+*HandleError: neizdevās izgūt produkta politiku ar PolicyId ' AllowSelfServicePurchase ', ErrorMessage-galvenais savienojums ir aizvērts: sūtot radās neparedzēta kļūda.*
 
-Tas var būt saistīts ar vecākas versijas transporta slāņa drošība (TLS). Lai savienotu MSCommerce pakalpojumu, ir jāizmanto TLS 1,2 vai jaunāka versija.  
+Iespējams, tas skaidrojams ar vecāku transporta slāņa drošības (TLS) versiju. Lai izveidotu savienojumu ar MSCommerce pakalpojumu, ir jāizmanto TLS 1,2 vai jaunāka versija.  
 
-Izmēģiniet tālāk aprakstītās darbības, lai iespējotu/iestatītu TLS protokolu 1,2, pārbaudiet un mēģiniet vēlreiz.
- 1. PowerShell komandu uzvednē (PS C:\) ievadiet šādu komandu, lai iestatītu TLS protokola versija 1,2:
+Izmēģiniet tālāk norādītās darbības, lai iespējotu/iestatītu TLS protokolu 1,2, pārbaudiet un mēģiniet vēlreiz.
+ 1. PowerShell komandu uzvedne (PS C: ievadiet šo \) komandu, lai IESTATĪTU TLS protokolu versijai 1,2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Pārbaudiet, vai TLS protokolu (s) lietošanā, ar šādu komandu:
+2. Pārbaudiet lietotos TLS protokolus ar šādu komandu:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Ja nepieciešams, vēlreiz mēģiniet iegūt vai atjaunināt komandas.
+3. Pēc nepieciešamības atkārtoti mēģiniet iegūt vai atjaunināt komandas.
 
