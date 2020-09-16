@@ -1,54 +1,55 @@
 ---
-title: Failu atvērt kā tikai lasāmu
+title: Fails ir atvērts kā tikai lasāms
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702781"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745597"
 ---
-# <a name="file-open-read-only"></a>Failu atvērt kā tikai lasāmu
+# <a name="file-open-read-only"></a>Fails ir atvērts kā tikai lasāms
 
-Jūs varat konstatēt, ka, atverot failus, tie tiek atvērti kā tikai lasāmi. Dažos gadījumos tas ir papildu drošībai, piemēram, atverot failus no interneta un citos laikos, tas var būt saistīts ar iestatījumu, ko var mainīt. Lūk, daži scenāriji, kuros fails tiek atvērts kā tikai lasāms, un dažas darbības, ko varat veikt, lai to mainītu.
+Iespējams, ka, atverot failus, tie tiek atvērti kā tikai lasāmi. Dažos gadījumos tas paredzēts papildu drošībai, piemēram, kad atverat failus no interneta, un citos laikos to var veikt, izmantojot iestatījumu, kas var tikt mainīts. Tālāk ir norādīti daži scenāriji, kad fails tiek atvērts kā tikai lasāms, un dažas darbības, ko varat veikt, lai to mainītu.
   
- **Mans antivīruss rada viņiem atvērt tikai lasāmu**
+ **Mana antivīruss izraisa to atvēršanu tikai lasāmu**
   
-Dažas pretvīrusu programmas var aizsargāt no potenciāli nedrošiem failiem, atverot tos kā tikai lasāmus. Lai uzzinātu, kā pielāgot šos iestatījumus, iespējams, ir jāpārbauda pretvīrusu programmatūras nodrošinātājs. BitDefender, piemēram, ir saturs, pievienojot pieteikumu izņēmumi šeit: [kā pievienot pieteikumu vai procesu izslēgšanu BitDefender Control Center](https://aka.ms/AA6098i).
+Dažas pretvīrusu programmas var jūs pasargāt no potenciāli nedrošiem failiem, atverot tos tikai lasāmus. Iespējams, jums būs jāsazinās ar savu pretvīrusu pakalpojumu sniedzēju, lai uzzinātu, kā pielāgot šos iestatījumus. BitDefender, piemēram, ir saturs, kas tiek pievienots lietojumprogrammu izslēgšanas šeit: [kā pievienot lietojumprogrammu vai procesu izņēmumus BitDefender Control Center](https://aka.ms/AA6098i).
   
  **Vai faila rekvizīti ir iestatīti kā tikai lasāmi?**
   
-Jūs varat pārbaudīt faila rekvizītus, ar peles labo pogu noklikšķinot uz faila un izvēloties Properties. Ja tikai lasāms atribūts ir atzīmēts, varat noņemt atzīmi un noklikšķiniet uz Labi.
+Varat pārbaudīt faila rekvizītus, ar peles labo pogu noklikšķinot uz faila un izvēloties rekvizīti. Ja ir atzīmēta izvēles rūtiņa tikai lasāms, varat to atlasīt un noklikšķināt uz Labi.
   
- **Saturs ir aizsargātajā skatā**
+ **Saturs ir aizsargātā skatā**
   
-Faili no interneta un no citām potenciāli nedrošām atrašanās vietām var saturēt vīrusus, tārpus vai cita veida ļaunprogrammatūru, kas var kaitēt jūsu datoram. Parasti tas attiecas arī uz lejupielādētajiem e-pasta pielikumiem vai failiem. Lai palīdzētu aizsargāt datoru, faili no šīm potenciāli nedrošām atrašanās vietām tiek atvērti aizsargātajā skatā. Izmantojot aizsargāto skatu, varat lasīt failu un redzēt tā saturu, vienlaikus samazinot riskus. Lai iegūtu papildinformāciju par aizsargāto skatu un kā mainīt iestatījumus, skatiet šo rakstu: [kas ir aizsargāts skats?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Faili no interneta un citām iespējami nedrošām vietām var saturēt vīrusus, tārpus vai cita veida ļaunprogrammatūru, kas var kaitēt jūsu datoram. Tas parasti attiecas arī uz tiem e-pasta pielikumiem vai lejupielādētajiem failiem. Lai aizsargātu datoru, faili no šīm potenciāli nedrošām atrašanās vietām tiek atvērti aizsargātā skatā. Izmantojot aizsargātu skatu, varat lasīt failu un skatīt tā saturu, vienlaikus samazinot riskus. Papildinformāciju par aizsargāto skatu un to, kā mainīt iestatījumus, skatiet šajā rakstā: [kas ir aizsargāts skats?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Vai OneDrive ir pilna?**
   
-Ja fails ir saglabāts pakalpojumā OneDrive un jūsu OneDrive krātuves vieta ir pilna, dokumentu nevarēs saglabāt, kamēr neesat atvēlētajā vietā. Varat pārbaudīt savu brīvo vietu pakalpojumā OneDrive, paziņojumu centrā noklikšķinot uz ikonas OneDrive un izvēloties pārvaldīt krātuvi, vai varat doties uz [https://onedrive.live.com](https://onedrive.live.com), pierakstīties un atzīmēt izmantotās telpas apjomu ekrāna apakšējā kreisajā malā.
+Ja fails ir saglabāts pakalpojumā OneDrive un jūsu OneDrive krātuves vieta ir pilna, jūs nevarēsit saglabāt dokumentu, kamēr nebūsit atvēlētajā vietā. Varat pārbaudīt savu brīvo vietu pakalpojumā OneDrive, paziņojumu centrā noklikšķinot uz OneDrive ikonas un izvēloties pārvaldīt krātuvi, vai arī varat doties uz [https://onedrive.live.com](https://onedrive.live.com) , pierakstīties un atzīmēt izmantotās vietas apjomu ekrāna kreisajā apakšējā stūrī.
   
- **Vai Office ir aktivizēta?**
+ **Vai sistēma Office ir aktivizēta?**
   
-Ja Office nav aktivizēts vai abonementa derīguma termiņš ir beidzies, varat būt tikai lasāms samazinātas funkcionalitātes režīmā. Informāciju par Office aktivizēšanu skatiet šeit: [nelicencēta produkta un Office aktivizācijas kļūdas](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ja sistēma Office nav aktivizēta vai jūsu abonementa derīguma termiņš ir beidzies, iespējams, ka jums ir tikai lasīšanas režīma samazinātas funkcionalitātes režīms. Informāciju par to, kā aktivizēt sistēmu Office, skatiet šeit: [nelicencēts produkts un aktivizācijas kļūdas sistēmā Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Ja visi cits neizdodas...**
+ **Ja viss pārējais nelīdz...**
   
 - Mēģiniet restartēt datoru
     
 - Office atjauninājumu instalēšana
     
-- Veikt Office tiešsaistes labošanu
+- Office tiešsaistes labošanas veikšana
     
 

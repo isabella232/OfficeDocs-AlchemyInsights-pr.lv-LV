@@ -1,25 +1,26 @@
 ---
-title: Sekot vai ANO sekot SharePoint vietnei
+title: Sekošana vai izsekošana SharePoint vietnē
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720933"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744435"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sekot vai ANO sekot SharePoint vietnei
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sekošana vai izsekošana SharePoint vietnē
 
-Ja lietotājiem ir radušās problēmas, kas rodas pēc vai nav šādu SharePoint resursu, veiciet tālāk norādītās darbības.
+Ja lietotājiem rodas problēmas, kas seko vai neseko SharePoint resursiem, veiciet tālāk norādītās darbības.
 
-* Lūdziet lietotājam Izrakstīties un pierakstieties atpakaļ SharePoint un mēģiniet tās pašas darbības, lai sekotu/unfollow SharePoint resurss.
-* Nosakiet, ja problēma ir ar konkrētu vietni vai visas vietnes. Ja problēma rodas ar konkrētu vietu, pārliecinieties, vai "šādu saturu" līdzeklis ir aktīvs vietnei, dodoties uz **vietnes iestatījumi > pārvaldīt vietnes līdzekļi > šādu saturu**. Ja līdzeklis ir iestatīts uz aktīvs, mēģiniet vēlreiz deaktivizēt un aktivizēt šo līdzekli vietnei.
-* Lūdziet lietotājam izmēģināt citu interneta pārlūkprogrammu, lai noskaidrotu, vai problēma ir specifiska lietotāja pārlūkprogrammai.
-* Ja visiem lietotājiem un visām vietnēm ir viena un tā pati problēma, pārbaudiet [pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai redzētu, vai jūsu organizācija ir ietekmēta.
+* Pieprasiet lietotājam izrakstīties un pierakstīties pakalpojumā SharePoint, un mēģiniet veikt tās pašas darbības, lai sekotu/unfollow SharePoint resursā.
+* Noteikt, vai problēma ir saistīta ar noteiktu vietni vai visām vietnēm. Ja problēma rodas konkrētās vietnēs, nodrošiniet, lai vietnei būtu aktīvs šis saturs, dodoties uz **vietnes iestatījumiem > pārvaldīt vietnes līdzekļus > tālāk norādītajam saturam**. Ja līdzeklis ir iestatīts kā aktīvs, vēlreiz mēģiniet aktivizēt un aktivizēt līdzekli vietnē.
+* Lūdziet lietotājam izmēģināt citu interneta pārlūkprogrammu, lai noskaidrotu, vai problēma ir saistīta ar lietotāja pārlūkprogrammu.
+* Ja visiem lietotājiem un visām vietnēm rodas viena un tā pati problēma, skatiet [Pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noskaidrotu, vai jūsu organizācija ir ietekmēta.

@@ -1,32 +1,33 @@
 ---
-title: 1800019 fokusēta Iesūtne programmā Outlook
+title: 1800019 svarīgo ziņojumu Iesūtne programmā Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719928"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744480"
 ---
-# <a name="focused-inbox-in-outlook"></a>Fokusēta Iesūtne programmā Outlook
+# <a name="focused-inbox-in-outlook"></a>Svarīgo ziņojumu Iesūtne programmā Outlook
 
-Fokusēta Iesūtne atdala jūsu iesūtni divās cilnēs — fokusēti un citi. Svarīgākie ziņojumi ir cilnē fokusēts, bet pārējais joprojām ir viegli pieejams, bet gan no tā — citā cilnē.
+Svarīgo ziņojumu Iesūtne atdala jūsu iesūtni divās cilnēs — svarīgie un citi. Jūsu svarīgākie ziņojumi atrodas cilnē svarīgie, bet pārējie joprojām ir viegli pieejami, bet ārpus tā — cilnē citi.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | Outlook[Web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail for Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook tīmeklī](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 darbam ar Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Pasts darbam ar Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 apgūt vairāk:
   
-- [Skatīt fokusēta Iesūtne darbībā](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Skatīt svarīgo ziņojumu iesūtni darbībā](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Konfigurējiet fokusēta Iesūtne ikvienam jūsu organizācijā, izmantojot PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Svarīgo ziņojumu iesūtnes konfigurēšana visiem organizācijas lietotājiem, izmantojot PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
