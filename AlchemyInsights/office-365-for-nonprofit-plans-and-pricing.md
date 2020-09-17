@@ -1,11 +1,12 @@
 ---
-title: Office 365 bezpeļņas plānu un cenu
+title: Office 365 bezpeļņas organizācijām plāni un izcenojumi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761570"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803108"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 bezpeļņas plānu un cenu
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 bezpeļņas organizācijām plāni un izcenojumi
 
-Kvalificētas bezpeļņas organizācijas var saņemt Office 365 Nonprofit kā ziedojumu vai jaunināt uz progresīvām funkcijām ar ievērojamu atlaidi. Lai kvalificētos Office 365 Nonprofit plānam, jums ir jābūt [atzītam labdarības statusam](https://go.microsoft.com/fwlink/p/?LinkID=330253) jūsu valstī un jāparaksta Microsoft nediskriminēšanas politika. Microsoft patur tiesības jebkurā laikā pārbaudīt atbilstību un apturēt pakalpojumu neatbilstošām organizācijām.
+Kvalificētās bezpeļņas organizācijas var saņemt Office 365 bezpeļņas organizāciju ziedojumu veidā vai veikt jaunināšanu uz papildu līdzekļiem par nozīmīgu atlaidi. Lai pretendētu uz Office 365 Nonprofit plānu, jums ir jāieņem [atzīta labdarības statuss](https://go.microsoft.com/fwlink/p/?LinkID=330253) jūsu valstī un jāpierakstās Microsoft diskriminācijas politika. Microsoft patur tiesības jebkurā laikā pārbaudīt tiesības un apturēt pakalpojumu nepiemērotām organizācijām.
   
-Skatiet [BUJ](https://products.office.com/nonprofit/office-365-nonprofit) par papildu jautājumiem par šo piedāvājumu.
+Papildinformāciju par šo piedāvājumu skatiet rakstā [bieži uzdotie jautājumi](https://products.office.com/nonprofit/office-365-nonprofit) .
   
-- [Pārskatiet bezpeļņas organizāciju plānus](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Nerentablo plānu pārskatīšana](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Visu Microsoft 365 abonementu salīdzināšana](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Visu Microsoft 365 abonementu salīdzinājums](https://products.office.com/business/compare-more-office-365-for-business-plans)
