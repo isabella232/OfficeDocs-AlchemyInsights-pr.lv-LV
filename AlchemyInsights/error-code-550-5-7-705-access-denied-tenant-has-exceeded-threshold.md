@@ -1,10 +1,11 @@
 ---
-title: Kļūdas kods 550 5.7.705 piekļuve liegta, Nomnieka ir pārsniegts slieksnis
+title: Kļūdas kods 550 5.7.705 piekļuve liegta, nomnieks ir pārsniedzis slieksni
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
@@ -12,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702997"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784026"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 piekļuve liegta, Nomnieka pārsniegts slieksnis
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 piekļuve liegta, nomnieks ir pārsniedzis slieksni
 
-Šis ziņojums tiek rādīts, ja jūsu organizācija ir nosūtījusi pārāk daudz surogātpasta vai lielapjoma pasta sūtījumu un jūs izejošajam pastam ievietojat bloku.
-Bieži cēloņi ir apdraudēta lokālajiem serveriem vai kompromitētu admin kontus, kas izmantoti, lai izveidotu savienotāji. Jebkurš nosacījums var ļaut surogātpastu iziet caur jūsu organizāciju.
+Šis ziņojums tiek rādīts, ja jūsu organizācija ir nosūtījis pārāk daudz surogātpasta vai lielapjoma pastu, un mēs novietojam bloku izejošajā pastā.
+Biežākie iemesli ir kompromitēti lokālos serveros vai kompromitētie administratora konti, kas ir izmantoti, lai izveidotu savienotājus. Jebkurš nosacījums var atļaut surogātpasta izplūst no jūsu organizācijas.
 
-Lai noņemtu šo bloku, jums ir jāsaprot un jāpaskaidro iemesls atbalsta aģentam, kā arī jālabo pamata problēma.
-Noklikšķiniet uz **sazināties ar mums** tālāk, kad esat gatavs.
+Lai noņemtu šo bloku, ir jāsaprot un jāizskaidro iemesls atbalsta dienestam, kā arī jālabo pamata problēma.
+Pēc tam, kad esat gatavs, noklikšķiniet uz **sazināties ar mums** .
