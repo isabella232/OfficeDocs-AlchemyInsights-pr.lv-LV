@@ -1,29 +1,30 @@
 ---
-title: Jaunināšana uz pilno Microsoft Teams versiju
+title: Jaunināšana uz Microsoft Teams pilno versiju
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766536"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808354"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Jaunināšana uz pilno Microsoft Teams versiju
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Jaunināšana uz Microsoft Teams pilno versiju
 
-Vai nepieciešams veikt jaunināšanu no bezmaksas uz Microsoft Teams pilno versiju? Skatiet [jaunināt Microsoft Teams Bezmaksas microsoft 365 abonēšanas versija](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Vai vēlaties veikt jaunināšanu no bezmaksas uz Microsoft Teams pilno versiju? Skatiet rakstu [Microsoft Teams jaunināšana bez microsoft 365 abonementa versijas](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Jums būs jāatbilst šīm prasībām:
+Jums ir jāatbilst šīm prasībām:
 
-- Jūs esat persona, kas pierakstījies par pašreizējo bezmaksas versiju komandām.
-- Ja jums ir savs domēns, to nevar jau saistīt ar Azure Active Directory.
-- Lai pārsūtītu datus, kad veicat jaunināšanu, jums ir jāabonē jaunināšanas procesa laikā. Ja abonementu iegādājāties ārpus jaunināšanas procesa, datus nevar pārsūtīt.
+- Jūs esat persona, kas reģistrējušies pašreizējai bezmaksas Teams versijai.
+- Ja jums ir savs domēns, to jau nevar piesaistīt pakalpojumam Azure Active Directory.
+- Lai pārsūtītu datus jaunināšanas procesa laikā, tas ir jāabonē. Ja iegādājāties abonementu ārpus jaunināšanas procesa, datus nevar pārsūtīt.

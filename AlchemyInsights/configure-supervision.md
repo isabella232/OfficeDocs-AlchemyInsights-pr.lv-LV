@@ -1,33 +1,34 @@
 ---
-title: Konfigurēt pārraudzību
+title: Pārraudzības konfigurēšana
 ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507773"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807522"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurēt uzraudzības politiku
+# <a name="configure-supervision-policies"></a>Pārraudzības politikas konfigurēšana
 
-Microsoft 365 pārraudzības politika ļauj pārraudzīt Exchange e-pastu, Skype darbam Online, Microsoft Teams un 3rd Party sakarus, kas nosūtīti gan jūsu organizācijā, gan ārpus tās. Norīkotie recenzenti var pārbaudīt pārraudzītajiem ziņojumiem, lai pārliecinātos, vai tie atbilst jūsu organizācijas politikām, riska pārvaldībai un normatīvo prasību standartiem, un atrisiniet tos ar klasifikācijas tipu.
+Pārraudzības politikas pakalpojumā Microsoft 365 ļauj pārraudzīt Exchange e-pastu, Skype darbam Online, Microsoft Teams, kā arī trešo pušu saziņas ziņojumus, kas tiek nosūtīti gan jūsu organizācijā, gan ārpus tās. Izraudzītie recenzenti var pārbaudīt uzraugāmos ziņojumus, lai pārliecinātos, vai tie atbilst jūsu organizācijas politikām, riska pārvaldības un regulatīvās atbilstības standartiem un atrisina tos ar klasifikācijas tipu.
 
-Lai izmantotu uzraudzības politiku savā organizācijā, jums ir nepieciešams:
+Lai savā organizācijā izmantotu uzraudzības politikas, ir jāveic šādas darbības:
 
-- Nosakiet saziņu, kas jāuzrauga.
+- Noteikt saziņas pārraudzību.
 - Izlemiet, kurš veiks saziņas pārskatīšanu.
-- Iestatīšanas pārraudzības politikas
+- Iestatījumu uzraudzības politikas
 
 apgūt vairāk:
 
-- [Uzraudzības politikas pārskats](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigurēt uzraudzības politiku](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Pārskats par uzraudzības politikām](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Pārraudzības politikas konfigurēšana](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
