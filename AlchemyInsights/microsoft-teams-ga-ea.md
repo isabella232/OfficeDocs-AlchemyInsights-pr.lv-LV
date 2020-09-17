@@ -1,36 +1,36 @@
 ---
-title: Microsoft Teams-Viesu piekļuve
+title: Microsoft Teams — Viesu piekļuve
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
-ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
+ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019105"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798383"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-Viesu piekļuve
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams — Viesu piekļuve
 
-Ja jums ir nepieciešama palīdzība saziņai ar lietotājiem, kas neatrodas jūsu organizācijā, darba grupās, jums ir jāizlemj, vai izmantot [viesa piekļuvi vai ārēju piekļuvi (Federāciju)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), vai varat izmantot abus.
+Ja ir nepieciešams sazināties ar lietotājiem ārpus jūsu organizācijas pakalpojumā Teams, izlemiet, vai izmantot [viesa piekļuvi vai ārēju piekļuvi (Federāciju)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), vai arī varat izmantot abus.
 
-Noteikti [pārskatiet atšķirības](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , lai izprastu, kādas funkcijas ir pieejamas katram.  Piemēram, ārējā piekļuve (Federācijas) ļauj 1:1 sakarus, piemēram, tērzēšana un klātbūtne.  Federatīvajām lietotāji nevar piedalīties Teams sadarbībā tomēr.  Ja vēlaties izmantot ārēju lietotāju, lai pievienotos un piedalītos grupas kanāla sarunās vai koplietotu failus, ir jāieslēdz viesa piekļuve.
+Noteikti [pārskatiet atšķirības](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , lai saprastu katram pieejamos līdzekļus.  Piemēram, ārēja piekļuve (Federācija) nodrošina 1:1 saziņu, piemēram, tērzēšanu un klātbūtni.  Integrētās lietotāji nevar piedalīties grupu sadarbībā.  Ja vēlaties, lai ārējs lietotājs pievienotos un piedalītos grupu kanālu sarunās vai koplietotu failus, jums būs jāieslēdz viesa piekļuve.
 
-**1. iespēja: ieslēdziet viesa piekļuvi**   
-Komandu administrēšanas centrā dodieties uz sadaļu [organizācijas mēroga iestatījumi, > viesa piekļuvi](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) un ieslēdziet opciju "atļaut viesa piekļuvi komandām".  Nomnieka ar visiem citiem noklusējuma iestatījumiem, tas būtu viss, kas jums jādara.  Lai pielāgotu viesa piekļuves konfigurāciju, pārliecinieties, ka esat sekojat visiem [Viesu piekļuves kontrolsaraksta](https://docs.microsoft.com/microsoftteams/guest-access-checklist)soļiem. Kad esat pilnībā pabeidzis, jums būs [jāgaida līdz 24 stundām](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , lai iestatījumi stātos spēkā.
+**1. opcija: viesa piekļuves ieslēgšana**   
+Grupu administrēšanas centrā dodieties uz [organizācijas platie iestatījumi > viesu piekļuvi](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) un ieslēdziet opciju "Atļaut viesu piekļuvi pakalpojumā Teams".  Nomniekam ar visiem pārējiem noklusējuma iestatījumiem ir jāveic visas šīs darbība.  Lai pielāgotu viesu piekļuves konfigurāciju, pārliecinieties, vai ir ievērotas visas darbības, kas norādītas [viesu piekļuves kontrolsarakstā](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Kad tas ir izdarīts, būs [jāgaida līdz pat 24 stundām](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , lai iestatījumi stātos spēkā.
 
-Ja esat pārliecināts, ka esat pabeidzis visas darbības anketā, un tas ir vairāk nekā 24 stundas, iet uz priekšu un mēģināt [pievienot viesim jūsu komandai](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Ja esat pārliecināts, ka esat pabeidzis visas kontrolsarakstā norādītās darbības, un tas ir vairāk nekā 24 stundas, turpiniet darbu un centieties [Pievienot viesi savai komandai](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Lai iegūtu plašāku informāciju, tostarp kā-to videoklipus, skatiet [Viesu piekļuve Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Lai iegūtu papildinformāciju, tostarp padomus par videoklipiem, skatiet rakstu [Viesu piekļuve pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**2. risinājums: ieslēgt ārējās piekļuves (Federācijas)** Ja vēlaties arī ieslēgt ārējo piekļuvi (Federation), komandu administrēšanas centrā dodieties uz [organizācijas līmeņa iestatījumiem > ārēju piekļuvi](https://admin.teams.microsoft.com/company-wide-settings/external-communications) un ieslēdziet opciju "lietotāji var sazināties ar Skype darbam un darba grupu lietotājiem" un pēc tam izpildiet visas darbības, kas jāveic, [lai grupas lietotāji tērzētu un sazinātos ar citiem lietotājiem citā organizācijā](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**2. opcija: ārējas piekļuves (Federācijas) ieslēgšana** Ja vēlaties arī ieslēgt ārējo piekļuvi (Federāciju), komandu administrēšanas centrā dodieties uz [organizācijas mēroga iestatījumiem > ārēju piekļuvi](https://admin.teams.microsoft.com/company-wide-settings/external-communications) un ieslēdziet opciju "lietotāji var sazināties ar Skype darbam un grupu lietotājiem", un pēc tam izpildiet visas darbības, kas jāveic, lai [grupas lietotāji varētu tērzēt un sazināties ar lietotājiem citā organizācijā](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
 
 

@@ -1,49 +1,50 @@
 ---
-title: XLS fails nav atvērts dubultklikšķa
+title: XLS fails netika atvērts, veicot dubultklikšķi uz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530754"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796331"
 ---
 # <a name="excel-file-doesnt-open"></a>Excel fails netiek atvērts
 
-Izmēģiniet kādu no šiem ieteikumiem:
+Izmēģiniet kādu no tālāk norādītajiem ieteikumiem.
 
 **Izvēlieties Excel kā noklusējumu**
 
-* Ar peles labo pogu noklikšķiniet darblapā, izvēlieties **Atvērt ar**un pēc tam izvēlieties **Excel**
+* Ar peles labo pogu noklikšķiniet uz darblapas, izvēlieties **Atvērt ar**un pēc tam izvēlieties **Excel**
 
-**Veikt ātro labošanu**
+**Izpildīt ātro labošanu**
 
-1. Pārejiet uz **vadības paneli > programmas > programmas un līdzekļi**.
+1. Dodieties uz **vadības paneļa > programmas > programmas un līdzekļi**.
 
 2. Atlasiet Office produktu, kuru vēlaties labot, un pēc tam izvēlieties **mainīt**.
 
 3. Izvēlieties opciju **Ātrā labošana** un pēc tam izvēlieties **Labot**.
 
-**Atinstalējiet Office versijas, kuras neizmantojat**
+**Neizmantoto Office versiju atinstalēšana**
 
-1. Pārejiet uz sadaļu **vadības panelis > atinstalējiet programmu**un pēc tam atlasiet noņemto Office versiju.
+1. Dodieties uz **vadības paneļa > atinstalēt programmu**un pēc tam atlasiet to Office versiju, kuru vēlaties noņemt.
 
-2. Noklikšķiniet uz **atinstalēt**.
+2. Noklikšķiniet uz **Atinstalēt**.
 
-3. Restartēt datoru.
+3. Restartējiet datoru.
 
-**Palaidiet šo problēmu risinātāju, lai iestatītu Office failu paplašinājumus, kas jāatver programmā Office**
+**Šī problēmu risinātāja palaišana, lai iestatītu Office failu paplašinājumus atvēršanai sistēmā Office**
 
-1. Palaist šo problēmu risinātāju https://aka.ms/diag_officefile:.
+1. Palaidiet šo problēmu risinātāju: https://aka.ms/diag_officefile .
 
 2. Atkarībā no pārlūkprogrammas **atveriet** vai **saglabājiet** problēmu risinātāju darbvirsmā un pēc tam **palaidiet** to.

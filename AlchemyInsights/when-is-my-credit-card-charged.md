@@ -1,11 +1,12 @@
 ---
-title: Kad tiek iekasēta mana kredītkarte?
+title: Kad tiek iekasēta maksa par kredītkarti?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418079"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796403"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kad tiek iekasēta mana kredītkarte?
+# <a name="when-is-my-credit-card-charged"></a>Kad tiek iekasēta maksa par kredītkarti?
 
-Ar sākotnējo pirkumu var paiet divas dienas, līdz tiek veikta maksa.
+Veicot sākotnējo pirkumu, var paiet līdz pat divām dienām, līdz maksājums notiks.
   
-Periodiskas izmaksas notiek vienas dienas laikā pēc izveidotā rēķina izveidošanas.
+Periodiskie maksājumi notiek vienā dienā ar izveidoto rēķinu.
   
-Ja maksa ir neveiksmīga, sistēma turpinās mēģināt atrisināt bilanci tuvāko nedēļu laikā. Jebkurā brīdī varat veikt maksājumu informācijas atjauninājumus, lai nodrošinātu, ka nākamais maksas mēģinājums ir sekmīgs. Papildinformāciju skatiet sadaļā [maksājumu metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ja maksa ir nesekmīga, sistēma turpinās mēģināt atmaksāt atlikumu nākamajās nedēļās. Jūs jebkurā laikā varat veikt savas maksājumu informācijas atjauninājumus, lai nodrošinātu, ka nākamais maksas mēģinājums ir sekmīgs. Papildinformāciju skatiet rakstā [maksāšanas metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

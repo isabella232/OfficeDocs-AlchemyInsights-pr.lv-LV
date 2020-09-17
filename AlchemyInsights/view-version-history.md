@@ -1,27 +1,28 @@
 ---
-title: Skatīt versiju vēsturi
+title: Versiju vēstures skatīšana
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: c9cdc5065e3f54fd996611d82aa0479b79a634ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cd955ccbc393d7052b42cb75fb0158dc46957a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707266"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796439"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Faila vai saraksta vienuma versiju vēstures skatīšana
+# <a name="view-version-history-of-a-file-or-list-item"></a>Faila vai saraksta elementa versiju vēstures skatīšana
 
-1. Dodieties uz SharePoint vietni un atveriet sarakstu vai bibliotēku no ātrās palaišanas joslas. Ja saraksta vai bibliotēkas nosaukums neparādās, noklikšķiniet uz **vietnes saturs** vai **Skatīt visu vietnes saturu**un pēc tam noklikšķiniet uz nosaukuma.
+1. Dodieties uz SharePoint vietni un no ātrās palaišanas joslas atveriet sarakstu vai bibliotēku. Ja saraksta vai bibliotēkas nosaukums netiek rādīts, noklikšķiniet uz **vietnes saturs** vai **Skatīt visu vietnes saturu**un pēc tam noklikšķiniet uz nosaukuma.
     
-2. Ar peles labo pogu noklikšķiniet uz atstarpes starp vienumu vai dokumenta nosaukumu un datumu un pēc tam izvēlnē noklikšķiniet uz **versiju vēsture** . Iespējams, būs jāritina izvēlne, lai skatītu **versiju vēsturi**. Ja to neredzat, dialoglodziņā noklikšķiniet uz Daudzpunkte (...) un pēc tam noklikšķiniet uz **versiju vēsture**.
+2. Ar peles labo pogu noklikšķiniet uz atstarpes starp vienuma vai dokumenta nosaukumu un datumu un pēc tam izvēlnē noklikšķiniet uz **versiju vēsture** . Lai skatītu **versiju vēsturi**, iespējams, būs jāritina izvēlne. Ja tas netiek rādīts, dialoglodziņā noklikšķiniet uz elipses (...) un pēc tam noklikšķiniet uz **versiju vēsture**.
     
-3. Dialoglodziņā versiju vēsture norādiet uz vēlamo versiju un noklikšķiniet uz lejupvērstās bultiņas labajā pusē, lai iegūtu opciju sarakstu. Noklikšķiniet uz **Skatīt**.
+3. Dialoglodziņā versiju vēsture norādiet uz versiju, kuru vēlaties skatīt, un noklikšķiniet uz lejupvērstās bultiņas labajā pusē, lai iegūtu opciju sarakstu. Noklikšķiniet uz **skats**.
     
 [Papildinformācija par versiju vēsturi](https://go.microsoft.com/fwlink/?linkid=875709)
   
