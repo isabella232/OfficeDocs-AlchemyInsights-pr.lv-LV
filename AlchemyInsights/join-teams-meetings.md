@@ -1,28 +1,29 @@
 ---
-title: Pievienoties Teams sapulcēm
+title: Pievienojieties grupu sapulcei
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627617"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772918"
 ---
-# <a name="join-a-meeting-in-teams"></a>Pievienošanās sapulcei komandās
+# <a name="join-a-meeting-in-teams"></a>Pievienošanās sapulcei pakalpojumā Teams
 
-Lai pievienotos darba grupu sapulcei, vispirms iestatiet sapulču politiku, pēc tam tiešos lietotājus pievienoties no savām vēlaajām ierīcēm:
+Lai pievienotos grupu sapulcei, vispirms iestatiet sapulču politikas, pēc tam tiešu lietotāju pievienošanos no savām vēlamajām ierīcēm:
 
-- Iestatiet sapulču politiku, kas kontrolē, kurš varēs pievienoties sapulcei kā [dalībnieki vai viesi](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Iestatiet sapulču politikas, kas nosaka, kurš var pievienoties sapulcei kā [dalībniekus vai viesus](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
 - Izmantojiet Microsoft Teams [PowerShell cmdlet](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) , lai veiktu politikas izmaiņas.    
 
