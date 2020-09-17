@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743460"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777012"
 ---
 # <a name="my-status-always-shows-as-available"></a>Mans statuss vienmēr tiek rādīts kā pieejams
 
-Katru reizi, kad pierakstāties Outlook.com, jūsu konta statuss tiks atiestatīts uz pieejams. Varat neļaut mainīt statusu, neizrakstoties no Outlook.com. Lai paliktu pierakstījies, aizverot pārlūkprogrammu, atzīmējiet izvēles rūtiņu **paturēt mani pierakstījies** lapā Outlook.com pierakstīšanās.
+Ikreiz, kad pierakstāties pakalpojumā Outlook.com, jūsu konta statuss tiks atiestatīts uz pieejams. Jūs varat novērst sava statusa maiņu, neizmantojot Outlook.com. Lai paliktu pierakstījies, aizverot pārlūkprogrammu, Outlook.com pierakstīšanās lapā atzīmējiet rūtiņu **Saglabāt manu pierakstījies** .
