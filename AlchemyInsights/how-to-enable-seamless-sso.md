@@ -1,10 +1,11 @@
 ---
-title: Kā iespējot bezšuvju SSO
+title: Kā iespējot viengabala SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36663874"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780534"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Kā iespējot bezšuvju SSO
+# <a name="how-to-enable-seamless-sso"></a>Kā iespējot viengabala SSO
 
-Iespējojiet bezšuvju SSO, izmantojot [AZURE ad savienojumu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Iespējojiet nevainojamu SSO, izmantojot [AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Ja veicat jaunu Azure AD savienojumu instalēšanu, izvēlieties [pielāgotās instalēšanas ceļu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Lietotāja pierakstīšanās** lapā izvēlieties **Iespējot vienotās pierakstīšanās** opciju.
+Ja veicat jaunu Azure AD Connect instalāciju, izvēlieties [pielāgoto instalācijas ceļu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). **Lietotāja pierakstīšanās** lapā izvēlieties opciju **Iespējot vienotu pierakstīšanos** .
   
-Lai pārbaudītu, vai ir iespējots bezšuvju SSO pareizi:
+Lai pārliecinātos, vai ir iespējots viengabalains SSO.
   
-1. Pierakstieties pakalpojumā [Azure Active Directory Administrative Center](https://aad.portal.azure.com) kā globālo admin.
+1. Pierakstieties [Azure Active Directory administrēšanas centrā](https://aad.portal.azure.com) kā globālais administrators.
 
 2. Kreisajā rūtī atlasiet **Azure Active Directory** .
 
-3. Pārbaudiet, vai ir **iespējota**bezšuvju vienotā pierakstīšanās.
+3. Pārbaudiet, vai ir **iespējota**bezproblēmu vienotā pierakstīšanās.
 
-Lai uzzinātu vairāk, skatiet [Azure Active Directory bezšuvju vienotās pierakstīšanās: Ātrais sākums](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Lai uzzinātu vairāk, skatiet rakstu [Azure Active Directory vienotā pierakstīšanās: īsā palaišana](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

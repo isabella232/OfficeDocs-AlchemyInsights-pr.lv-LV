@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 bezpeļņas organizācijām-saskaņā Review
+title: Microsoft 365 bezpeļņas organizācijām — sadaļā pārskatīšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005229"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779742"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 bezpeļņas organizācijām-saskaņā Review
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 bezpeļņas organizācijām — sadaļā pārskatīšana
 
-Jūsu tiesības pretendēt uz Microsoft kvalificētu bezpeļņas organizāciju tiek **pārskatī**as. Jūs varat sagaidīt, lai saņemtu paziņojumu par noteiktu jūsu tiesības **48 stundas** no jūsu iesniegšanas laika. Pirms pakalpojuma pieprasījuma atvēršanas, lūdzu, ļaujiet saņemt šo paziņojumu vismaz **48 stundas** . 
+Jūsu tiesības pretendēt uz Microsoft kvalificēto bezpeļņas organizāciju tiek **pārskatītas**. Varat sagaidīt, ka saņemsit paziņojumu par atbilstības noteikšanu **48 stundas** no iesniegšanas laika. Lūdzu, uzgaidiet vismaz **48 stundas**, lai saņemtu šo paziņojumu, pirms pakalpojuma pieprasījuma atvēršanas. 
 
-Lai iegūtu papildinformāciju, skatiet [Microsoft 365 bezpeļņas](https://www.microsoft.com/nonprofits/microsoft-365)organizācijām. 
+Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft 365 for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365). 

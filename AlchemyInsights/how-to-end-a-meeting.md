@@ -1,27 +1,28 @@
 ---
-title: Kā formāli beigt sapulci
+title: Kā formāli pabeigt sapulci
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 1d11e4421559aefd50638555d1309bfcae12d50f
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708700"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780426"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Kā formāli beigt sapulci
+# <a name="how-to-formally-end-a-meeting"></a>Kā formāli pabeigt sapulci
 
-Sapulces organizatori var beigt sapulci visiem sapulces dalībniekiem programmā Teams, sapulces **vadīklās** sapulces vadīklās noklikšķinot uz Beigt sapulci.  
+Sapulces rīkotāji var pabeigt sapulci visiem sapulces dalībniekiem pakalpojumā Teams, sapulces vadīklās noklikšķinot uz **pabeigt sapulci** .  
 
-Lai beigtu visu dalībnieku nepārtraukto sapulci, atlasiet sapulces vadīklas, atlasiet trīs punktu ikonu un noklikšķiniet uz Beigt sapulci. Jums tiks lūgts apstiprināt savu izvēli. Apstiprinot atlasi, sapulce tiks izbeigta visiem.
+Lai pabeigtu sapulces norisi visiem dalībniekiem, atlasiet sapulces vadīklas, atlasiet 3-punktu ikonu un noklikšķiniet uz pabeigt sapulci. Jums būs jāapstiprina atlase. Atlases apstiprināšana pārtrauc sapulci visiem lietotājiem.
 
-Piezīme: Tikai sapulces rīkotājs var "beigt" sapulci.
+Piezīme: sapulcei var pārtraukt tikai sapulces organizators.
