@@ -1,35 +1,36 @@
 ---
-title: Pārvaldīt lietotāju profilus Delve
+title: Lietotāju profilu pārvaldība rīkā Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720546"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811823"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Pārvaldīt lietotāju profilus Delve
+# <a name="manage-user-profiles-in-delve"></a>Lietotāju profilu pārvaldība rīkā Delve
 
-Office Delve ļauj lietotājiem pārvaldīt savu lietotāja profilu. Lietotāji var:
+Office Delve ļauj lietotājiem pārvaldīt lietotāja profilu. Lietotāji var:
   
-- Skatīt un atjaunināt informāciju
+- Skatīt un atjaunināt savu informāciju
     
-- Saglabāt informāciju privātu
+- Informācijas konfidencialitātes saglabāšana
     
-- Mainīt savu profilu vai vāka attēlu
+- Sava profila vai vāciņa attēla mainīšana
     
-- Valodas un laika formāta maiņa Delve
+- Delve valodas un laika formāta mainīšana
     
 > [!NOTE]
-> Ja lietotājs atjauna savu profila attēlu un izmaiņas netiek rādītas pakalpojumā SharePoint vai OneDrive, lūdziet atvērt tīmekļa pārlūkprogrammu, [dodieties uz Office.com](https://www.office.com), pierakstieties ar savu darba vai mācību kontu un pēc tam noklikšķiniet uz OneDrive vai SharePoint mozaīka. Tiks parādīts aicinājums sinhronizēt profila attēlu. Lietotājam, iespējams, būs jāmēģina pabeigt šīs darbības ar savas pārlūkprogrammas privāto versiju. 
+> Ja lietotājs ir atjauninājis savu profila attēlu un izmaiņas netiek rādītas pakalpojumā SharePoint vai OneDrive, palūdziet viņiem atvērt tīmekļa pārlūkprogrammu, [dodieties uz Office.com](https://www.office.com), pierakstieties ar savu darba vai mācību iestādes kontu un pēc tam noklikšķiniet uz OneDrive vai SharePoint elementa. Tādējādi tiks parādīts uzaicinājums sinhronizēt profila attēlu. Lietotājam, iespējams, būs jāmēģina veikt šīs darbības, izmantojot pārlūkprogrammu privāto versiju. 
   
-[Papildinformācija par profilu atjaunināšanu programmā Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Papildinformācija par profilu atjaunināšanu rīkā Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
