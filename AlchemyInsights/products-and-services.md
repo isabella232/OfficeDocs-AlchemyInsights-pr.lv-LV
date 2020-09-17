@@ -1,37 +1,38 @@
 ---
-title: Jūsu produktiem
+title: Jūsu produkti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062868"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799247"
 ---
-# <a name="your-products"></a>Jūsu produktiem
+# <a name="your-products"></a>Jūsu produkti
 
-Varat atrast abonementus, kas pieder jūsu organizācijai lapā **norēķinu**  >  **[jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Šeit ir daži no izceļ šo lapu kopā ar saitēm, lai iegūtu vairāk informācijas par katru iezīme:
+Jūsu organizācijas piederošie abonementi ir atrodami lapā **norēķini**par  >  **[jūsu produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Tālāk ir norādītas dažas no šajā lapā iekļautajām atzīmēm kopā ar saitēm, lai iegūtu papildinformāciju par katru no šiem līdzekļiem:
 
-1. Pārvaldiet katram abonementam iegādāto licenču skaitu kopā ar to, cik tiek izmantots.  **Piezīme**: licences, kas netiek izmantotas (nav piešķirti lietotājam) joprojām tiek iekasēta.  Lai netiktu iekasēta maksa par neizmantotajām licencēm, samaziniet iegādāto licenču skaitu. Lai uzzinātu, kā pievienot vai noņemt licences no abonementa, skatiet [kā pievienot vai samazināt licences](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. Pārvaldiet katram abonementam iegādāto licenču skaitu kopā ar to, cik daudz tiek izmantots.  **Piezīme**: neizmantotās licences (nav piešķirtas lietotājam) joprojām ir uzlādētas.  Lai nav jāmaksā par neizmantotām licencēm, samaziniet iegādāto licenču skaitu. Lai iegūtu informāciju par to, kā pievienot vai noņemt licences no abonementa, skatiet rakstu [kā pievienot vai samazināt licences](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Skatiet abonementa atjaunošanas vai derīguma termiņu.  Atjaunošanu var pārvaldīt, noklikšķinot uz saites **Rediģēt** blakus **renews/beidzas** datums.  Papildinformāciju par to, kā pārvaldīt periodiskos norēķinus, skatiet sadaļā [atjaunot Microsoft 365 uzņēmumiem](https://go.microsoft.com/fwlink/?linkid=2119216) .
+2. Skatiet abonementa atjaunošanu vai derīguma beigu datumu.  Jūs varat pārvaldīt atjaunošanu, noklikšķinot uz saites **Rediģēt** blakus reprezentēšanai **/derīguma beigu** datumam.  Papildinformāciju par to, kā pārvaldīt periodiskos norēķinus, skatiet rakstā [Microsoft 365 for Business atjaunošana](https://go.microsoft.com/fwlink/?linkid=2119216) .
 
-3. [Atkārtoti aktivizēt novecojušu vai atspējotu abonementu](https://go.microsoft.com/fwlink/?linkid=2117519).
+3. [Atkārtoti aktivizējiet abonementa derīgums vai atspējots](https://go.microsoft.com/fwlink/?linkid=2117519).
 
-4. [Rediģējiet maksāšanas metodi, kas tika izmantota, lai samaksātu par abonementu](https://go.microsoft.com/fwlink/?linkid=2117167).
+4. [Labojiet maksāšanas metodi, ko izmanto, lai maksātu par abonementu](https://go.microsoft.com/fwlink/?linkid=2117167).
 
-5. [Mainīt, cik bieži tiek izrakstīts rēķins](https://go.microsoft.com/fwlink/?linkid=2119112).
+5. [Mainiet, cik bieži saņemat rēķinu](https://go.microsoft.com/fwlink/?linkid=2119112).
 
-6. [Atceliet abonementu](https://go.microsoft.com/fwlink/?linkid=2119113).
+6. [Abonementa atcelšana](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Varat iegādāties papildu abonementus lapā **norēķinu**  >  [**iegādes pakalpojumi**](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Jūs varat iegādāties papildu abonementus lapā **norēķinu**  >  [**pirkumu pakalpojumi**](https://go.microsoft.com/fwlink/p/?linkid=868433) .

@@ -6,19 +6,20 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 4ab3a63aa72cadd26ecc69c4322cf970ce52638f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f8968b14b952c1198a8e185b8391d6dccdd257ba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768624"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799283"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Izmantojiet pārlūkprogrammu, lai pārbaudītu pareizrakstību
+# <a name="use-your-browser-to-check-spelling"></a>Pārlūkprogrammas izmantošana pareizrakstības pārbaudei
 
-Nav pareizrakstības pārbaudes opciju programmā Outlook Web. Lai pārbaudītu pareizrakstību, jums vajadzēs izmantot tīmekļa pārlūkprogrammu. Pareizrakstības pārbaude ir pieejama pārlūkprogrammā Microsoft EDGE, Internet Explorer 10 un jaunākās versijās, kā _ gan pašreizējās Firefox, Chrome un Safari versijās. Pārbaudiet Web pārlūkprogrammas opcijas, lai uzzinātu vairāk par to, kā pārbaudīt pareizrakstību.
+Programmā Outlook tīmeklī nav pareizrakstības pārbaudes opcijas. Lai pārbaudītu pareizrakstību, ir jāizmanto tīmekļa pārlūkprogramma. Pareizrakstības pārbaude ir pieejama pārlūkprogrammā Microsoft Edge, Internet Explorer 10 un jaunākās versijās, kā arī jaunākās Firefox, Chrome un Safari versijas. Pārbaudiet savas tīmekļa pārlūkprogrammas opcijas, lai uzzinātu vairāk par to, kā pārbaudīt pareizrakstību.

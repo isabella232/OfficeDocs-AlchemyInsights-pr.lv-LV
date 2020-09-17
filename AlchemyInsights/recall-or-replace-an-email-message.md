@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,33 +14,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509463"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799211"
 ---
-# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Atsaukt vai aizstāt e-pasta ziņojumu Microsoft 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>E-pasta ziņojuma atsaukšana vai aizstāšana programmā Microsoft 365
 
-- Varat **atsaukt tikai tos ziņojumus, kas nosūtīti personām jūsu organizācijā**. Piemēram, ja ziņojums ir nosūtīts uz Gmail adresi, to nevar atsaukt.
-- **No datora var tikai atsaukt ziņojumus, kas nosūtīti no programmas Outlook 2016**. Ja lietotājs nosūta ziņojumu, izmantojot Outlook Mac vai Outlook Web, to nevar atsaukt.
-- Ja esat administrators, varat **atsaukt ziņojumu lietotāju vārdā, izmantojot PowerShell**. Ziņojumus nevar atsaukt administrēšanas centrā. Lai iegūtu papildinformāciju, ritiniet lejup līdz "meklēt un dzēst e-pasta ziņojumus jūsu organizācijā".
+- Varat **tikai atsaukt ziņojumus, kas tiek nosūtīti lietotājiem jūsu organizācijā**. Ja ziņojums tika nosūtīts uz Gmail adresi, piemēram, varat to atsaukt.
+- Varat **atsaukt no programmas Outlook 2016 sūtītos ZIŅOJUMUS datorā**. Ja lietotājs nosūta ziņojumu, izmantojot programmu Outlook darbam ar Mac vai Outlook tīmeklī, to nevar atsaukt.
+- Ja esat administrators, varat **Atsaukt ziņojumus lietotāju vārdā, izmantojot PowerShell**. Jūs nevarat atsaukt ziņojumus no administrēšanas centra. Lai iegūtu papildinformāciju, ritiniet uz leju līdz opcijai meklēt un izdzēst e-pasta ziņojumus jūsu organizācijā.
 
 **Nosūtīta e-pasta ziņojuma atsaukšana vai aizstāšana**
 
-1. Mapju rūtī, kas atrodas Outlook loga kreisajā pusē, izvēlieties mapi Nosūtītie vienumi.
-2. Atveriet ziņojumu, kuru vēlaties atsaukt. Lai atvērtu ziņojumu, ir jāveic dubultklikšķis. Ziņojuma atlasīšana tā, lai tas parādītos lasīšanas rūtī, neļaus atsaukt ziņojumu.
-3. Cilnē ziņojums atlasiet **darbības**  >  **Atsaukt šo ziņojumu**.
+1. Mapju rūtī, kas atrodas pa kreisi no Outlook loga, izvēlieties mapi Nosūtītie vienumi.
+2. Atveriet ziņojumu, kuru vēlaties atsaukt. Lai atvērtu ziņojumu, veiciet uz tā dubultklikšķi. Atlasiet ziņojumu, lai tas tiktu parādīts lasīšanas rūtī, Neļaujiet atsaukt ziņojumu.
+3. Cilnē ziņojums atlasiet **darbības**  >  **Šī ziņojuma atsaukšana**.
 4. Izvēlieties **Dzēst šī ziņojuma nelasītās kopijas** vai **Dzēst nelasītās kopijas un aizstāt ar jaunu ziņojumu un**pēc tam atlasiet **Labi**.
-5. Ja sūtāt ziņojumu ar aizstājējziņu, Sastādiet ziņojumu un pēc tam atlasiet **Sūtīt**.
-6. Ziņojuma atsaukšanas veiksme vai kļūme ir atkarīga no adresātu iestatījumiem programmā Outlook.
+5. Ja sūtāt aizstāšanas ziņojumu, izveidojiet ziņojumu un pēc tam atlasiet **Sūtīt**.
+6. Ziņojuma atsaukšanas sekmīgs vai neizdošanās ir atkarīgs no adresātu iestatījumiem programmā Outlook.
 
-Papildinformāciju, tostarp informāciju par to, kā pārbaudīt atsaukto, skatiet sadaļā [jūsu nosūtītās e-pasta ziņojuma atsaukšana vai aizstāšana](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Papildinformāciju par atsaukšanu skatiet rakstā [e-pasta ziņojuma atsaukšana vai aizstāšana](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***E-pasta ziņojumu meklēšana un dzēšana organizācijā*** Lai meklētu un izdzēstu e-pasta ziņojumus jūsu organizācijā, visvienkāršāk ir, ja esat globāls administrators. Ja neesat globālais administrators, jūsu konts ir jāpievieno lomu grupai eDiscovery Manager vai atbilstības meklēšanas pārvaldības lomai. Lai dzēstu ziņojumus, ir jāpievienojas organizācijas pārvaldības lomu grupai vai lomai meklēšanas un tīrīšanas pārvaldība. Šo lomu atļaujas tiek piešķirtas [drošības & atbilstības centrā](https://protection.office.com/).
+***E-pasta ziņojumu meklēšana un dzēšana savā organizācijā*** Lai meklētu un izdzēstu e-pasta ziņojumus savā organizācijā, ir vienkāršāk, ja esat globālais administrators. Ja neesat globālais administrators, jūsu konts ir jāpievieno e-datu atklāšanas pārvaldnieka lomu grupai vai atbilstības meklēšanas pārvaldības lomai. Lai izdzēstu ziņojumus, ir jāpievienojas organizācijas pārvaldības lomu grupai vai meklēšanas un iztīrīšanas pārvaldības lomai. Atļaujas šīm lomām tiek piešķirtas [drošības & atbilstības centrā](https://protection.office.com/).
 
 1. [Izveidojiet satura meklēšanu](https://docs.microsoft.com/microsoft-365/compliance/content-search) , lai atrastu dzēšamo ziņojumu.
-2. [Izveidot savienojumu ar drošības & atbilstības centra PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Savienojuma izveide ar drošības & atbilstības centra PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ja izmantojat MFA, skatiet [izveidot savienojumu ar Microsoft 365 drošības & atbilstības centrs PowerShell, izmantojot vairāku faktoru autentifikācija](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ja izmantojat MFA, skatiet rakstu [savienojuma izveide ar Microsoft 365 security & atbilstības centra PowerShell, izmantojot daudzfaktoru autentifikāciju](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

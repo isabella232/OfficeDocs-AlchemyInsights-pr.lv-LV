@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522778"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799787"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>E-pasta pārvietošana uz arhīva pastkasti
 
@@ -33,7 +34,7 @@ Ja vēlaties, lai mēs veiktu automatizētās pārbaudes par tālāk norādītaj
 
 Iespējams, ka ir jāspiež pārvaldītā mapes asistents (MFA), lai palaistu un lietotu jaunos iestatījumus lietotāja pastkastē. Izpildiet šādu komandu, kamēr ir [izveidots savienojums ar EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , lai startētu pārvaldīto mapju palīgu noteiktai pastkastei.
   
-Start-ManagedFolderAssistant-Identity<name of the mailbox>
+Start-ManagedFolderAssistant-Identity <name of the mailbox>
 
 Papildinformāciju par arhīva politikas iestatīšanu skatiet rakstā [arhivēšanas un dzēšanas politikas iestatīšana pastkastēm](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   
