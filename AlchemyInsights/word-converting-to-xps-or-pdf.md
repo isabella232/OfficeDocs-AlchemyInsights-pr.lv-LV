@@ -1,43 +1,44 @@
 ---
-title: Word pārvēršana par XPS vai PDF
+title: Word — pārvēršana par XPS vai PDF
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 202d68f3bd1f9b9e5b145a8c4ad8346fa1254d68
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027045"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794846"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Novērst problēmas, konvertējot Word dokumentu uz XPS vai PDF
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Problēmu novēršana saistībā ar Word dokumenta konvertēšanu uz XPS vai PDF
 
-Piedāvājam dažus risinājumus kopīgām problēmām. 
+Tālāk ir norādīti daži bieži izplatītu problēmu risinājumi. 
 
-**Lai eksportētu vai saglabātu Word dokumentu kā PDF vai XPS:**
+**Lai eksportētu vai saglabātu Word dokumentu kā PDF vai XPS, veiciet tālāk norādītās darbības.**
 
-1. Word dokumentā izvēlieties **failu** > **eksportēšana** > **izveidot PDF/XPS dokumentu** > **izveidot PDF/XPS**.
+1. Word dokumentā izvēlieties **Fails**  >  **Eksportēt**  >  **izveidot PDF/XPS dokumentu**  >  **izveidot PDF/XPS**.
 
-2. Logā **Publicēt kā PDF vai XPS** atrodiet faila atrašanās vietu, ja vēlaties, modificējiet faila nosaukumu un pēc tam izvēlieties **publicēt**.
+2. Logā **Publicēšana PDF vai XPS** formātā pārlūkojot norādiet faila atrašanās vietu, modificējiet faila nosaukumu, ja vēlaties, un pēc tam izvēlieties **publicēt**.
 
-**Lai uzlabotu attēlu kvalitāti PDF failā, ko ģenerē programma Word:**
+**Lai uzlabotu attēla kvalitāti PDF failā, ko ģenerē programma Word:**
 
-1. Word dokumentā izvēlieties **failu** > **eksportēšana** > **izveidot PDF/XPS dokumentu** > **izveidot PDF/XPS**.
+1. Word dokumentā izvēlieties **Fails**  >  **Eksportēt**  >  **izveidot PDF/XPS dokumentu**  >  **izveidot PDF/XPS**.
 
-2. Logā **Publicēt kā PDF vai XPS** izvēlieties **Opcijas** > ,**lai optimizētu attēlu kvalitāti**. Iestatiet citas nepieciešamās opcijas un izvēlieties **Labi**. 
+2. Logā **publicēt kā PDF vai XPS** izvēlieties **Opcijas**  >  **optimizēt attēlu kvalitātē**. Iestatiet citas vēlamās opcijas un izvēlieties **Labi**. 
 
-**Lai PDF failam, ko ģenerē programma Word, pievienotu pieejamības tagus:**
+**Lai pievienotu pieejamības tagus PDF failam, ko ģenerē Word:**
  
-1. Word dokumentā izvēlieties **failu** > **eksportēšana** > **izveidot PDF/XPS dokumentu** > **izveidot PDF/XPS**.
+1. Word dokumentā izvēlieties **Fails**  >  **Eksportēt**  >  **izveidot PDF/XPS dokumentu**  >  **izveidot PDF/XPS**.
 
-2. Logā **Publicēt kā PDF vai XPS** izvēlieties **Opcijas** > **dokumenta struktūras tagi pieejamībai**. Iestatiet citas nepieciešamās opcijas un izvēlieties **Labi**.
+2. Logā **Publicēšana PDF vai XPS** formātā izvēlieties **Opcijas**  >  **dokumenta struktūras atzīmes pieejamībai**. Iestatiet citas vēlamās opcijas un izvēlieties **Labi**.
 
-Lai iegūtu papildinformāciju par opcijām Office failu konvertēšanai uz XPS vai PDF, skatiet [saglabāšana vai pārvēršana par PDF vai XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Lai iegūtu papildinformāciju par Office failu pārvēršanas iespējām XPS vai PDF formātā, skatiet rakstu [saglabāšana vai konvertēšana PDF vai XPS formātā](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).

@@ -6,45 +6,46 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766104"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794774"
 ---
 # <a name="workflow-is-not-starting"></a>Darbplūsma netiek sākta
 
-- SharePoint 2010 un SharePoint 2013 darbplūsmas nav sākuma.
+- SharePoint 2010 un SharePoint 2013 darbplūsmas netiek sāktas.
 
-    - Ja darbplūsma netiek sākta, iespējams, pastāv pagaidu pakalpojuma problēma, kuras dēļ lietotāji var saskarties ar neregulāru kavēšanos ar darbplūsmas norisi. Pārbaudiet [pakalpojuma darbspējas informācijas paneli](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noskaidrotu, vai jūsu organizācija ir ietekmēta.
+    - Ja darbplūsma nestartējas, iespējams, pastāv pagaidu pakalpojumu problēma, kur lietotāji var rasties neregulāras aizkaves ar darbplūsmas norisi. Pārbaudiet [Pakalpojuma darbspējas informācijas paneli](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noskaidrotu, vai jūsu organizācija ir ietekmēta.
 
-    - Ja kopš pirmās šīs problēmas instalēšanas ir pagājušas vairāk nekā 24 stundas, lūdzu, piesakieties atbalsta biļetei. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet mums vismaz 24 stundas, lai pabeigtu risinājumu.
+    - Ja kopš pirmoreiz redzējāt šo problēmu, ir pagājušas vairāk nekā 24 stundas, lūdzu, piesakieties atbalsta biļetē. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lai pabeigtu risinājumu, lūdzu, sniedziet mums vismaz 24 stundas.
 
-- SharePoint 2010 darbplūsmas kavējas sākuma.
+- SharePoint 2010 darbplūsmas kavējas sākuma ekrānā.
 
-    - Tā notiek, ja darbplūsma tiek aktivizēta lielās partijās. (piemēram, vienlaicīgi pievienojot vairākus elementus).
+    - Tas notiek tad, ja darbplūsma ir aktivizēta lielās paketēs. (piemēram, ja vienlaikus tiek pievienoti vairāki vienumi).
 
-    - Darbplūsmas nav paredzētas reāllaika palaišanai, tāpēc aizkavēšanās ir pēc noformējuma.
+    - Darbplūsmas nav paredzētas darbībai reālajā laikā, tāpēc atlikšanai ir jānotiek ar noformēšanas darbību.
 
-   -  Ja darbplūsma ir sarežģīta paplašināmās objektu iezīmēšanas valoda (XMOL), kompilēšana var būt lēna. Pārbaudiet [šo](https://support.microsoft.com//kb/3043697) rakstu.
+   -  Ja darbplūsma ir sarežģīta eXtensible Object Markup Language (XMOL), kompilēšana var būt lēna. Atzīmējiet [šo](https://support.microsoft.com//kb/3043697) rakstu.
 
-    - Jums vajadzētu vienkāršot darbplūsmu vai pārprojektējot to, izmantojot Microsoft SharePoint 2013 darbplūsmas platformas tips.
+    - Jums ir jāvienkāršo darbplūsma vai jāpārveido tā, izmantojot Microsoft SharePoint 2013 darbplūsmas platformas tipu.
 
-    - Ja darbplūsmas vēsture ir pieaugusi, iespējams, vēlēsities iztīrīt vienumus vai izveidot jaunu vēstures sarakstu.
+    - Ja jūsu darbplūsmas vēsture ir kļuvusi liela, iespējams, vēlēsities iztīrīt vienumus vai izveidot jaunu vēstures sarakstu.
 
-        Papildinformācija: [darbplūsmu vēstures iztīrīšanas](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Papildinformācija: [Dzēst darbplūsmas vēsturi](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Saistītās tēmas
-Vai vēlaties izmēģināt Microsoft Flow pakalpojumā SharePoint Online?
+Vai vēlaties izmēģināt Microsoft plūsmu pakalpojumā SharePoint Online?
 - [Izveidot plūsmu](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint un plūsmas](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint un plūsma](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

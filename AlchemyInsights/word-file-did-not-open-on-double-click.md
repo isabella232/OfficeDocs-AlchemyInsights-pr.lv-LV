@@ -1,49 +1,50 @@
 ---
-title: Word fails nav atvērts dubultklikšķa
+title: Word fails netika atvērts, veicot dubultklikšķi uz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558192"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794810"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word dokuments, kas atvērts nepareizā lietotnē, vai nav atvērts
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word dokuments ir atvērts nepareizā lietojumprogrammā vai netika atvērts
 
-Izmēģiniet kādu no šiem ieteikumiem:
+Izmēģiniet kādu no tālāk norādītajiem ieteikumiem.
 
 **Izvēlieties Word kā noklusējumu**
 
 - Ar peles labo pogu noklikšķiniet uz dokumenta, izvēlieties **Atvērt ar**un pēc tam izvēlieties **Word**
 
-**Veikt ātro labošanu**
+**Izpildīt ātro labošanu**
 
-1. Pārejiet uz **vadības paneli > programmas > programmas un līdzekļi**.
+1. Dodieties uz **vadības paneļa > programmas > programmas un līdzekļi**.
 
 2. Atlasiet Office produktu, kuru vēlaties labot, un pēc tam izvēlieties **mainīt**.
 
 3. Izvēlieties opciju **Ātrā labošana** un pēc tam izvēlieties **Labot**.
 
-**Atinstalējiet Office versijas, kuras neizmantojat**
+**Neizmantoto Office versiju atinstalēšana**
 
-1. Pārejiet uz sadaļu **vadības panelis > atinstalējiet programmu**un pēc tam atlasiet noņemto Office versiju.
+1. Dodieties uz **vadības paneļa > atinstalēt programmu**un pēc tam atlasiet to Office versiju, kuru vēlaties noņemt.
 
-2. Noklikšķiniet uz **atinstalēt**.
+2. Noklikšķiniet uz **Atinstalēt**.
 
-3. Restartēt datoru.
+3. Restartējiet datoru.
 
-**Palaidiet šo problēmu risinātāju, lai iestatītu Office failu paplašinājumus, kas jāatver programmā Office**
+**Šī problēmu risinātāja palaišana, lai iestatītu Office failu paplašinājumus atvēršanai sistēmā Office**
 
-1. Palaist šo problēmu risinātāju https://aka.ms/diag_officefile:.
+1. Palaidiet šo problēmu risinātāju: https://aka.ms/diag_officefile .
 
 2. Atkarībā no pārlūkprogrammas **atveriet** vai **saglabājiet** problēmu risinātāju darbvirsmā un pēc tam **palaidiet** to.

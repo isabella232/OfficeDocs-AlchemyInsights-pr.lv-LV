@@ -1,9 +1,10 @@
 ---
-title: Uzdevumu un kalendāra notikumu saraksts mūsdienu lietotāja interfeisā
+title: Uzdevumu un kalendāra notikumu saraksts modernā UI
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6137138a-9570-4ac9-892b-143c25ad6f64
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: c92510a6a4f23e9c4524d08a3f567d0b6ba5d61a
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573245"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795467"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Uzdevumu un kalendāra notikumu saraksts mūsdienu lietotāja interfeisā
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Uzdevumu un kalendāra notikumu saraksts modernā UI
 
-Var tikt parādīts kļūdas ziņojums "nosaukums" kā `< ID >_.000` uzdevumu un notikumu sarakstu, mēģinot atveidot tos mūsdienu skatā.
+Mēģinot tās attēlot mūsdienīgā skatā, var tikt parādīta kļūda "Title", kā arī `< ID >_.000` uzdevumu un notikumu saraksts.
 
-Dažu veidu saraksti un bibliotēkas vēl nav izveidotas, lai tiktu rādītas modernā lietotāja interfeisā, piemēram, uzdevumu sarakstā vai notikumu sarakstā.
+Daži sarakstu un bibliotēku tipi vēl nav izveidoti, lai tie tiktu rādīti mūsdienīgā lietotāja interfeisā, piemēram, uzdevumu sarakstā vai notikumu sarakstā.
 
-Viens no prioritārajiem posteņiem mums ir atbalstīt uzdevumu un pasākumu sarakstu, kas ir daļa no mūsdienu UX. Tomēr mums nav ETA par šo atbalstu, tāpēc, lūdzu, turpiniet izmantot klasisko pieredzi šiem sarakstiem.
+Viens no mūsu prioritārajiem vienumiem ir atbalstīt uzdevumu un notikumu sarakstus kā daļu no modernā UX. Taču mums šim atbalstam nav ETA, tāpēc, lūdzu, turpiniet izmantot klasisko pieredzi šiem sarakstiem.
 
-Lai iegūtu papildinformāciju, apmeklējiet [palielināt moderno sarakstu un bibliotēku izmantošanu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Lai iegūtu papildinformāciju, apmeklējiet sadaļu [moderno sarakstu un bibliotēku izmantošanas maksimāla izmantošana](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
