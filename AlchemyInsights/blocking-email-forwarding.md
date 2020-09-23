@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685461"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219862"
 ---
-# <a name="block-email-forwarding"></a>E-pasta pārsūtīšanas bloķēšana
+# <a name="blocking-or-unblocking-email-forwarding"></a>E-pasta pārsūtīšanas bloķēšana un atbloķēšana
 
-Informāciju par to, kā atspējot e-pasta pārsūtīšanu noteiktai pastkastei, skatiet rakstā [e-pasta pārsūtīšanas konfigurēšana](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Lai iespējotu vai atspējotu e-pasta pārsūtīšanu konkrētai pastkastei, skatiet rakstu [e-pasta pārsūtīšanas konfigurēšana](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Lai bloķētu e-pasta pārsūtīšanu visā organizācijā, [ir vairāki veidi, kā bloķēt automātisko e-pasta pārsūtīšanu pakalpojumā Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Nomnieka līmenī ārējo pāradresēšanas kontrole ir veikta, izmantojot izejošo pretsurogātpasta politiku. Ja tas ir iestatīts uz izslēgts vai automātiski, tas var bloķēt e-pasta pārsūtīšanu, izmantojot "550 5.7.520 Access denied, jūsu organizācija neļauj veikt ārējo pārsūtīšanu". Pēc tam, ja pārsūtīšana ir iestatīta kā bloķēta, tā ir kļūda, ko lietotāji redzēs.
+
+Ja pārsūtīšana tiek bloķēta, lūdzu, pārliecinieties, vai politika ir konfigurēta tā, lai iespējotu ārēju pāradresēšanu. Varat pārbaudīt izejošās surogātpasta filtrēšanas politiku no drošības un atbilstības centra vai palaist komandu Get-HostedOutboundSpamFilterPolicy | FL nosaukums AutoForwardingMode. Ja vēlaties iestatīt autopārsūtīšanas bloķēšanu, tā pati komanda izstāstīs politikas stāvokli tūlīt.
+
+Piezīme: ieteicams paturēt ārējo automātisko pārsūtīšanu atspējotu savā noklusējuma izejošās surogātpasta filtrēšanas politikā un iespējot to tikai tiem lietotājiem, kuriem ir jāveic ārēja pārsūtīšana, izveidojot pielāgotu politiku šiem lietotājiem. Varat lasīt vairāk, [konfigurējot ārējo e-pasta pārsūtīšanu pakalpojumā Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
