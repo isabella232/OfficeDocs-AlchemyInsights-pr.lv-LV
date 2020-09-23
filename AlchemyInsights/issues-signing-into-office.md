@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676997"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236132"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problēmas saistībā ar pierakstīšanos Microsoft 365 lietojumprogrammās
 
@@ -25,6 +25,8 @@ Lai novērstu problēmas saistībā ar pierakstīšanos, izmantojot Microsoft 36
 
 - Darbam ar Windows skatiet rakstu [ieteikumi par izplatītu pierakstīšanās problēmu novēršanu](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Mac datorā, skatiet rakstu  [nevaru pierakstīties Office 2016 for Mac lietojumprogrammā](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Padoms** Windows datoros ir iespējams diagnosticēt un automātiski izlabot vairākas biežākas Office pierakstīšanās problēmas. Lejupielādējiet un palaidiet  **[Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SaRA-OfficeSignInScenario)** , lai izmantotu mūsu automatizēto rīku.
 
 **Piezīme:**  **Nav ieteicams**atspējot moderno AUTENTIFIKĀCIJU (ADAL) vai tīmekļa konta pārvaldību (WAM), lai novērstu pierakstīšanās vai aktivizēšanas problēmas. Ja rodas kļūdas, veidojot savienojumu ar Microsoft 365, izmantojot Office 2013, pārliecinieties, vai [iespējojat moderno autentifikāciju](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  Office klientam.
 

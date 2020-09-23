@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802820"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236024"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 lietojumprogrammas ziņojums — diemžēl cits jūsu organizācijas konts jau ir pierakstījies
 
@@ -32,6 +32,8 @@ Lai novērstu šo kļūdu, izmēģiniet tālāk norādīto:
 - Noklikšķiniet uz **+** ikonas, lai pievienotu vai savienotu savu kontu. Ievadiet savus akreditācijas datus un uzgaidiet, līdz process tiek pabeigts.
 
 - Ja nepieciešams, palaidiet Office lietojumprogrammu un pierakstieties vēlreiz. 
+
+**Padoms** Windows datoros ir iespējams diagnosticēt un automātiski izlabot vairākas biežākas Office pierakstīšanās problēmas. Lejupielādējiet un palaidiet  **[Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SaRA-OfficeSignInScenario)** , lai izmantotu mūsu automatizēto rīku.
 
 Ja problēma joprojām pastāv, mēģiniet veikt tālāk norādītās darbības: 
 
