@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711102"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277948"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vai nevarat instalēt vai palaist e-datu atklāšanas eksportēšanas rīku?
 
@@ -47,4 +47,5 @@ Ja nevarat instalēt vai palaist e-datu atklāšanas eksportēšanas rīku, lai 
 - Jums ir piešķirta eksportēšanas loma Microsoft 365 drošības &amp; atbilstības centrā. Pēc noklusējuma šī loma ir piešķirta tikai e-datu atklāšanas pārvaldnieka lomu grupai. Skatiet rakstu [e-datu atklāšanas atļauju piešķiršana](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Papildinformāciju skatiet rakstā [satura meklēšanas rezultātu eksportēšana](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Ja eksportējat vairāk nekā 100K pastkastes, ir jāizmanto tālāk norādītā PowerShell, lai lejupielādētu eksportēšanas rezultātus:  [Eksportējot rezultātus no vairāk nekā 100k pastkastēm](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
