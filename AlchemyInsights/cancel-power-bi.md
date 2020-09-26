@@ -2,7 +2,7 @@
 title: Atcelt Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683481"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287181"
 ---
 # <a name="cancel-power-bi"></a>Atcelt Power BI
 
-Power BI var atcelt **Microsoft 365 administrēšanas centrā**.  
+Power BI var atcelt Microsoft 365 administrēšanas centrā.
 
-1. Dodieties uz lapu **norēķinu > [jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Atrodiet Power BI plānu, lai atceltu.
-
-3. Noklikšķiniet uz **atcelt abonementu**.
+1. Administrēšanas centrā dodieties uz lapu **norēķini > [jūsu produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+2. Cilnē **Products (produkti** ) atrodiet abonementu, kuru vēlaties atcelt. Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **atcelt abonementu**.
+3. Rūtī **atcelt abonementu** izvēlieties iemeslu, kāpēc veicat atcelšanu. Varat arī sniegt atsauksmes.
+4. Atlasiet **Saglabāt**.
 
 **Atmaksa: jebkurš proporcionāls kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.**
 
-**Piezīme**. Ja neredzat opciju atcelt, noklikšķiniet uz abonementa, lai skatītu detalizētu informāciju, un sadaļā **Iestatījumi & darbības**ir jābūt redzamai opcijai **atcelt abonementu** .
+> [!NOTE]
+> Ja neredzat opciju atcelt, atlasiet abonementu, lai skatītu detalizētas informācijas lapu. Sadaļā **abonementa un maksāšanas iestatījumi** atlasiet **atcelt abonementu**.
 
 Lai uzzinātu vairāk, skatiet rakstu [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
