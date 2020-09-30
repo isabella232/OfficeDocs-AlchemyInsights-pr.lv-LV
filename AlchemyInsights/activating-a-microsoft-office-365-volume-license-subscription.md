@@ -2,7 +2,7 @@
 title: Microsoft lielapjoma licenču abonementa aktivizēšana
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,20 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: aa46285e2439ef6c645c0ae83db6bbd3a2350bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698104"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307184"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a><span data-ttu-id="d58a9-102">Microsoft lielapjoma licenču abonementa aktivizēšana</span><span class="sxs-lookup"><span data-stu-id="d58a9-102">Activating a Microsoft Volume License Subscription</span></span>
+# <a name="activating-a-microsoft-volume-license-subscription"></a><span data-ttu-id="47757-102">Microsoft lielapjoma licenču abonementa aktivizēšana</span><span class="sxs-lookup"><span data-stu-id="47757-102">Activating a Microsoft Volume License Subscription</span></span>
 
-1. <span data-ttu-id="d58a9-103">Pierakstieties savā [lielapjoma licencēšanas pakalpojumu centra (VLSC) portālā](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="d58a9-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
-
-2. <span data-ttu-id="d58a9-104">Pārejiet uz savu abonementu un izvēlieties **Aktivizēt**.</span><span class="sxs-lookup"><span data-stu-id="d58a9-104">Navigate to your subscription and choose **Activate**.</span></span>
-
-3. <span data-ttu-id="d58a9-105">E-pasta ziņojums tiks nosūtīts uz jūsu tiešsaistes pakalpojumu (OLS) kontaktpersonu.</span><span class="sxs-lookup"><span data-stu-id="d58a9-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
-
-4. <span data-ttu-id="d58a9-106">Aktivizēšanas e-pasta ziņojumā ir divas opcijas: **reģistrēšanās**vai **pierakstīšanās**.</span><span class="sxs-lookup"><span data-stu-id="d58a9-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="d58a9-107">Ja esat iepriekš izveidojis izmēģinājumversiju, izvēlieties **Pierakstīties**.</span><span class="sxs-lookup"><span data-stu-id="d58a9-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="d58a9-108">Ja jums vēl nav Microsoft 365 nomnieka, izvēlieties **reģistrēties**.</span><span class="sxs-lookup"><span data-stu-id="d58a9-108">If you don't yet have a Microsoft 365 tenant, choose **Sign up**.</span></span>
-
-5. <span data-ttu-id="d58a9-109">Pierakstieties Microsoft 365 administrēšanas centrā ( [https://admin.microsoft.com](https://admin.microsoft.com) ), izmantojot esošos administratora akreditācijas datus.</span><span class="sxs-lookup"><span data-stu-id="d58a9-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing administrator credentials.</span></span> <span data-ttu-id="d58a9-110">Pēc tam, kad būsit sekmīgi pierakstījies, saņemsit citu e-pasta ziņojumu ar apstiprinājumu par pirkumu.</span><span class="sxs-lookup"><span data-stu-id="d58a9-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
-
-6. <span data-ttu-id="d58a9-111">Kad esat pierakstījies, varat pāriet uz lapu **norēķinu** \> [produkti](https://go.microsoft.com/fwlink/p/?linkid=842054) , lai pārliecinātos, vai jūsu iegādātie abonementi tiek aktivizēti jūsu nomniekā.</span><span class="sxs-lookup"><span data-stu-id="d58a9-111">After you've signed in, you can go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased subscriptions are activated within your tenant.</span></span> <span data-ttu-id="d58a9-112">(Varat arī izvēlēties VLSC **abonementu** , lai skatītu detalizētu informāciju par to, vai jūsu abonements ir deponēts.)</span><span class="sxs-lookup"><span data-stu-id="d58a9-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
+1. <span data-ttu-id="47757-103">Pierakstieties savā [lielapjoma licencēšanas pakalpojumu centra (VLSC) portālā](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="47757-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
+2. <span data-ttu-id="47757-104">Pārejiet uz savu abonementu un izvēlieties **Aktivizēt**.</span><span class="sxs-lookup"><span data-stu-id="47757-104">Navigate to your subscription and choose **Activate**.</span></span>
+3. <span data-ttu-id="47757-105">E-pasta ziņojums tiek nosūtīts uz jūsu tiešsaistes pakalpojumu (OLS) kontaktpersonu.</span><span class="sxs-lookup"><span data-stu-id="47757-105">An email is sent to your Online Services (OLS) Contact.</span></span>
+4. <span data-ttu-id="47757-106">Aktivizācijas e-pasta ziņojumā ir pieejamas divas opcijas: **reģistrēšanās**vai **pierakstīšanās**.</span><span class="sxs-lookup"><span data-stu-id="47757-106">The activation email provides you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="47757-107">Ja esat iepriekš izveidojis izmēģinājumversiju, izvēlieties **Pierakstīties**.</span><span class="sxs-lookup"><span data-stu-id="47757-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="47757-108">Ja jums vēl nav Microsoft 365 nomnieka, izvēlieties **reģistrēties**.</span><span class="sxs-lookup"><span data-stu-id="47757-108">If you don't yet have a Microsoft 365 tenant, choose **Sign up**.</span></span>
+5. <span data-ttu-id="47757-109">Pierakstieties Microsoft 365 administrēšanas centrā ( [https://admin.microsoft.com](https://admin.microsoft.com) ), izmantojot esošos administratora akreditācijas datus.</span><span class="sxs-lookup"><span data-stu-id="47757-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing administrator credentials.</span></span> <span data-ttu-id="47757-110">Pēc tam, kad būsit sekmīgi pierakstījies, saņemsit citu e-pasta ziņojumu, kas apstiprinās jūsu pirkumu.</span><span class="sxs-lookup"><span data-stu-id="47757-110">After you successfully sign in, you'll receive another email that confirms your purchase.</span></span>
+6. <span data-ttu-id="47757-111">Kad esat pierakstījies, dodieties uz lapu **norēķini** par \> [produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) , lai pārliecinātos, vai jūsu iegādātie abonementi tagad ir aktīvi.</span><span class="sxs-lookup"><span data-stu-id="47757-111">After you've signed in, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased subscriptions are now active.</span></span> 
+    > [!NOTE]
+    > <span data-ttu-id="47757-112">Varat arī izvēlēties VLSC **abonementu** , lai skatītu detalizētu informāciju, lai pārliecinātos, vai jūsu abonements ir aktivizēts.)</span><span class="sxs-lookup"><span data-stu-id="47757-112">You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been activated.)</span></span>
