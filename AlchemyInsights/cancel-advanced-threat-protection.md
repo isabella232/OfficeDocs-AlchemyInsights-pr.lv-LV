@@ -1,8 +1,8 @@
 ---
 title: Papildu draudu aizsardzības Atcelšana
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683697"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416257"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Papildu draudu aizsardzības Atcelšana
 
-Papildu apdraudējumu aizsardzību var atcelt **Microsoft 365 administrēšanas centrā**.
+Administratori var atcelt Advanced Threat Protection abonementu savai organizācijai Microsoft 365 administrēšanas centrā.
 
 1. Dodieties uz lapu **Billing**  >  [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Atrodiet Advanced Threat Protection plānu, lai atceltu.
-3. Noklikšķiniet uz **atcelt abonementu**.
+2. Cilnē **Products (produkti** ) atrodiet Advanced Threat Protection plānu, kuru vēlaties atcelt. Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **atcelt abonementu**.
+3. Rūtī **atcelt abonementu** izvēlieties iemeslu, kāpēc veicat atcelšanu. Varat arī sniegt atsauksmes.
+4. Atlasiet **Saglabāt**.
 
-Atmaksa: jebkurš proporcionāls kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.
-
-**Piezīme**. Ja neredzat opciju atcelt, noklikšķiniet uz abonementa, lai skatītu detalizētu informāciju, un sadaļā **Iestatījumi & darbības**ir jābūt redzamai opcijai **atcelt abonementu** .
+**Kompensācija:** Jebkurš proporcionāls kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.
 
 Lai uzzinātu vairāk, skatiet rakstu [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

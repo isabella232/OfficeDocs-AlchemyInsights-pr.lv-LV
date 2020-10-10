@@ -1,8 +1,8 @@
 ---
 title: Noklusējuma atjaunošanas subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745866"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416650"
 ---
 # <a name="renewing-your-subscription"></a>Abonementa atjaunošana
 
@@ -25,8 +25,10 @@ Ja maksājat ar kredītkarti vai bankas kontu, periodiskie norēķini pēc noklu
 
 Ja iepriekš apmaksājat savu abonementu, izmantojot produkta atslēgu, abonementa derīguma termiņš beigsies abonementa termiņa beigās. Jūs varat ieslēgt periodiskos norēķinus un nodrošināt kredītkarti vai bankas konta informāciju, lai jūsu abonementa derīgums vienmēr tiktu iekasēts katru gadu dienā, kad to abonējāt.
 
-Lai ieslēgtu periodiskos norēķinus: 
+Lai ieslēgtu periodiskos norēķinus:
 
-1. Dodieties uz **norēķini**par  >  **[produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Izvēlieties abonementu, kuram vēlaties pārvaldīt periodiskos norēķinus.
-3. Sadaļā **norēķini**atlasiet **Rediģēt** un veiciet izmaiņas logā **periodiskie norēķinu iestatījumi** . 
+1. Administrēšanas centrā dodieties uz lapu **norēķini**par  >  [produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Cilnē **produkti** atlasiet abonementu, kuru vēlaties mainīt.
+3. Lapas detalizēta informācija par abonementu sadaļā **abonementi un maksājumu iestatījumi**atlasiet **Rediģēt periodiskos norēķinus**.
+4. Rūtī **Rediģēt periodisko norēķinu iestatījumus** atlasiet **ieslēgts**, **ieslēgts, bet atjaunojiet vienreiz**vai **izslēdziet**.
+5. Atlasiet **Saglabāt**. 
