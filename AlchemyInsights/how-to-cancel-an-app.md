@@ -2,8 +2,8 @@
 title: Kā atcelt programmu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781002"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488852"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="0ce42-102">Kā atcelt programmatūras un pakalpojumu lietojumprogrammas</span><span class="sxs-lookup"><span data-stu-id="0ce42-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="5f830-102">Kā atcelt programmatūras un pakalpojumu lietojumprogrammas</span><span class="sxs-lookup"><span data-stu-id="5f830-102">How to cancel software-as-a-service apps</span></span>
 
-1. <span data-ttu-id="0ce42-103">Microsoft 365 administrēšanas centra lapā **norēķini**par  >  **[produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)** un pēc tam izvēlieties cilni **lietojumprogrammas** .</span><span class="sxs-lookup"><span data-stu-id="0ce42-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
-
-2. <span data-ttu-id="0ce42-104">Atrodiet un atlasiet programmu, ko vēlaties pārvaldīt.</span><span class="sxs-lookup"><span data-stu-id="0ce42-104">Find and select the app you want to manage.</span></span>
-
-3. <span data-ttu-id="0ce42-105">Sadaļā **iestatījumi & darbības**atlasiet **atcelt abonementu**.</span><span class="sxs-lookup"><span data-stu-id="0ce42-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+1. <span data-ttu-id="5f830-103">Administrēšanas centrā uz lapu **norēķini**par  >  [produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="5f830-103">In the admin center, to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="5f830-104">Lapā **produkti** ritiniet uz leju līdz sadaļai **lietojumprogrammas** un atrodiet abonementu, kuru vēlaties atcelt.</span><span class="sxs-lookup"><span data-stu-id="5f830-104">On the **Products** page, scroll down to the **Apps** section, and find the subscription that you want to cancel.</span></span> 
+3. <span data-ttu-id="5f830-105">Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **atcelt abonementu**.</span><span class="sxs-lookup"><span data-stu-id="5f830-105">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+4. <span data-ttu-id="5f830-106">Rūtī **atcelt abonementu** izvēlieties iemeslu, kāpēc veicat atcelšanu.</span><span class="sxs-lookup"><span data-stu-id="5f830-106">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="5f830-107">Varat arī sniegt atsauksmes.</span><span class="sxs-lookup"><span data-stu-id="5f830-107">Optionally, provide any feedback.</span></span>
+5. <span data-ttu-id="5f830-108">Atlasiet **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="5f830-108">Select **Save**.</span></span>

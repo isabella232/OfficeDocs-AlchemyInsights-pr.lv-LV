@@ -1,8 +1,8 @@
 ---
 title: Licenču apturēšana vai pauzēšana
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800183"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488924"
 ---
-# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="ea0ae-102">Licenču apturēšana vai pauzēšana</span><span class="sxs-lookup"><span data-stu-id="ea0ae-102">Suspend or pause licenses</span></span>
+# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="33e79-102">Licenču apturēšana vai pauzēšana</span><span class="sxs-lookup"><span data-stu-id="33e79-102">Suspend or pause licenses</span></span>
 
-<span data-ttu-id="ea0ae-103">Lai īslaicīgi apturētu vai apturētu savas lietotāju licences, varat noņemt licences no **Microsoft 365 administrēšanas centra** un vēlāk tās atkal pievienot.</span><span class="sxs-lookup"><span data-stu-id="ea0ae-103">To suspend or pause your user licenses temporarily, you can remove licenses from the **Microsoft 365 admin center** and add them back at a later time.</span></span>
+<span data-ttu-id="33e79-103">Lai īslaicīgi apturētu vai apturētu licences lietojumu, varat noņemt licences no Microsoft 365 administrēšanas centra un pēc tam vēlāk tās atkal pievienot.</span><span class="sxs-lookup"><span data-stu-id="33e79-103">To suspend or pause your license usage temporarily, you can remove licenses from the Microsoft 365 admin center, and then add them back at a later time.</span></span>
 
-1. <span data-ttu-id="ea0ae-104">Pirms to noņemšanas no sava abonementa, jums vispirms ir [jāpiešķir lietotājiem licences](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) .</span><span class="sxs-lookup"><span data-stu-id="ea0ae-104">You need to first [unassign licenses](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) from users, before removing them from your subscription.</span></span>
+1. <span data-ttu-id="33e79-104">Pirms licenču noņemšanas no sava abonementa, jums vispirms ir jānoņem [lietotāju licences](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="33e79-104">Before removing licenses from your subscription, you must first [unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span></span>
+2. <span data-ttu-id="33e79-105">Pēc tam dodieties uz lapu **Billing**  >  [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="33e79-105">Next, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+3. <span data-ttu-id="33e79-106">Cilnē **produkti** atlasiet abonementu, kuru vēlaties atjaunināt.</span><span class="sxs-lookup"><span data-stu-id="33e79-106">On the **Products** tab, select the subscription that you want to update.</span></span>
+4. <span data-ttu-id="33e79-107">Lapā Detalizēta informācija par abonementu atlasiet **Noņemt licences**.</span><span class="sxs-lookup"><span data-stu-id="33e79-107">On the subscription details page, select **Remove licenses**.</span></span>
+5. <span data-ttu-id="33e79-108">Rūtī **licenču noņemšana** lodziņā **kopējās licences** ievadiet abonementam paredzēto licenču kopskaitu un pēc tam atlasiet **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="33e79-108">In the **Remove licenses** pane, in the **Total licenses** box, enter the total number of licenses that you want for this subscription, then select **Save**.</span></span> <span data-ttu-id="33e79-109">Piemēram, ja jums ir 100 licences un vēlaties apturēt vai pauzēt 25, pēc tam ievadiet 75 kā abonementa kopējās licences.</span><span class="sxs-lookup"><span data-stu-id="33e79-109">For example, if you have 100 licenses and want to suspend or pause 25, then enter 75 as the total licenses for your subscription.</span></span>
 
-2. <span data-ttu-id="ea0ae-105">Pēc tam pārejiet uz sadaļu **norēķini > [jūsu produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="ea0ae-105">Then go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-3. <span data-ttu-id="ea0ae-106">Lapā **jūsu produkti** atrodiet abonementu, kuram vēlaties noņemt licences, un noklikšķiniet uz **Pievienot/noņemt licences**.</span><span class="sxs-lookup"><span data-stu-id="ea0ae-106">On the **Your products** page, find the subscription you want to remove licenses for, and click **Add/Remove licenses**.</span></span>
-
-4. <span data-ttu-id="ea0ae-107">Lodziņā kopējais licenču skaits ievadiet šim abonementam nepieciešamo licenču kopskaitu un pēc tam noklikšķiniet uz **iesniegt izmaiņas**.</span><span class="sxs-lookup"><span data-stu-id="ea0ae-107">In the total licenses box, enter the total number of licenses that you need for this subscription, and then click **Submit change**.</span></span> <span data-ttu-id="ea0ae-108">Piemēram, ja jums ir 100 licences un vēlaties apturēt vai pauzēt 50, pēc tam ievadiet 50 kā abonementa kopējās licences.</span><span class="sxs-lookup"><span data-stu-id="ea0ae-108">For example, if you have 100 licenses and want to suspend or pause 50, then enter 50 as the total licenses for your subscription.</span></span>
-
-<span data-ttu-id="ea0ae-109">Papildinformāciju skatiet rakstā [Abonementu licenču pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="ea0ae-109">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span></span>
+<span data-ttu-id="33e79-110">Papildinformāciju skatiet rakstā [Abonementu licenču pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="33e79-110">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
