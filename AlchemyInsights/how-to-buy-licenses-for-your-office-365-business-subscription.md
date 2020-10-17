@@ -2,8 +2,8 @@
 title: Kā iegādāties licences Microsoft 365 lietojumprogrammām darbam abonementam
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781110"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488888"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kā iegādāties licences Microsoft 365 lietojumprogrammām darbam abonementam
 
-Piešķirot licences saviem lietotājiem, iespējams, jums būs jāiegādājas papildu licences. Lai to izdarītu:
+Piešķirot licences saviem lietotājiem, iespējams, būs jāiegādājas papildu licences. Veiciet tālāk norādītās darbības.
   
-1. Administrēšanas centrā dodieties uz lapu **norēķini** par \> **[produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Administrēšanas centrā dodieties uz lapu **norēķini**par  >  [produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Cilnē **produkti** atrodiet abonementu, kuru vēlaties atjaunināt. Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **iegādāties licences**.
+3. Rūts **licenču iegāde** sadaļā **Jauns daudzums** lodziņā **kopējās licences** ievadiet šī abonementa kopējo licenču skaitu. Piemēram, ja jums ir 100 licences un vēlaties pievienot vēl 25, ievadiet 125.
+4. Atlasiet **Saglabāt**.
 
-2. Atrodiet abonementu, kuram vēlaties pievienot licences, un pēc tam atlasiet **Pievienot/noņemt licences**.
-
-3. Lodziņā **kopējais licenču** skaits ievadiet šim abonementam nepieciešamo licenču kopskaitu un pēc tam atlasiet **iesniegt izmaiņas**. Piemēram, ja jums ir 100 licences un jums ir jāpievieno vēl 5, ievadiet 105.
-
-Lai uzzinātu vairāk, skatiet rakstu [licenču iegāde Microsoft 365 lietojumprogrammām darbam abonementam](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lai uzzinātu vairāk, skatiet rakstu [licenču iegāde savam Microsoft 365 darbam abonementam](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
