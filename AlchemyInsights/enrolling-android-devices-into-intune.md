@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784314"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791265"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Android ierīču piereģistrēšana Intune
 
-Intune atbalsta šādu Android ierīču reģistrēšanu:
-- Samsung KNOX un zebra
-- Android Enterprise darba profils
-- Android Enterprise Dedicated
-- Pilnībā pārvaldāms Android Enterprise
+Ja meklējat iespēju migrēt lietotājus no Android ierīces administratora reģistrācijas uz Android Enterprise, pārskatiet: [pārvietojiet Android ierīces no ierīces administratora uz darba profila pārvaldību](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Pirms reģistrācijas iestatīšanas Android ierīcēs, [pārskatiet priekšnosacījumus] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune atbalsta šādu Android ierīču reģistrēšanu:  
 
-Informāciju par to, kā novērst ierīču iesaistīšanos vispār un dažas Android reģistrācijas kļūdas, skatiet rakstā [ierīču reģistrācijas problēmu novēršana pakalpojumā Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung KNOX, zebra, ierīču administrators](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise darba profils](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise Dedicated](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Pilnībā pārvaldāms Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Varat arī izmantot [saturu, kas apraksta Intune problēmu novēršanas disku](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , lai palīdzētu noteikt, kādas reģistrācijas problēmas ir jūsu lietotājiem.
+Pirms reģistrēšanās Android ierīcēs, [pārskatiet priekšnosacījumus](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Informāciju par to, kā novērst ierīču iesaistīšanos vispār un dažas Android reģistrācijas kļūdas, skatiet rakstā [ierīču reģistrācijas problēmu novēršana pakalpojumā Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Varat arī izmantot saturu, kas apraksta Intune problēmu novēršanas disku, lai palīdzētu noteikt, kādas reģistrācijas problēmas ir jūsu lietotājiem.
