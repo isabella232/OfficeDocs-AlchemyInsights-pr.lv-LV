@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana saistībā ar Office 365 Advanced Threat Protection
+title: Problēmu novēršana saistībā ar Microsoft Defender darbam ar Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658921"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801450"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Problēmu novēršana saistībā ar Office 365 Advanced Threat Protection
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problēmu novēršana saistībā ar Microsoft Defender darbam ar Office 365
 
 - Vai pamanīsit ziņojumu piegādes kavējumus? Izmantojiet [dinamiskās piegādes](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) opciju savā ATP drošas pielikumu politikā. Tas palīdzēs izvairīties no ziņojumu kavējumiem, aizsargājot adresātus no ļaunprātīgiem failiem.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658921"
 
   1. Dodieties uz [https://protection.office.com](https://protection.office.com) un pierakstieties, izmantojot globālo administratora vai drošības administratora kontu.
 
-  2. Kreisajā navigācijas rūtī sadaļā **draudu pārvaldība**izvēlieties **politikas** \> **drošās saites**.
+  2. Kreisajā navigācijas rūtī sadaļā **draudu pārvaldība** izvēlieties **politikas** \> **drošās saites** .
 
-  3. Politikas, **kas attiecas uz visu organizāciju** sadaļu, atlasiet politiku un noklikšķiniet uz **Rediģēt**.
+  3. Politikas, **kas attiecas uz visu organizāciju** sadaļu, atlasiet politiku un noklikšķiniet uz **Rediģēt** .
 
-  4. Sadaļā **Iestatījumi**iespējojiet **lietot drošas saites ziņojumiem, kas tiek sūtīti organizācijā**.
+  4. Sadaļā **Iestatījumi** iespējojiet **lietot drošas saites ziņojumiem, kas tiek sūtīti organizācijā** .

@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Microsoft Defender darbam ar Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696628"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801234"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender darbam ar Office 365
 
-- Drošie pielikumi, drošās saites un pretpikšķerēšanas ir daļa no Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 un Microsoft 365 Business Premium ir ATP. Visiem pārējiem plāniem nepieciešams pievienojumprogrammas ATP abonements.
+- Drošie pielikumi, drošās saites un pretpikšķerēšanas ir daļa no Microsoft Defender darbam ar Office 365 (ATP). Enterprise E5, Education A5 un Microsoft 365 Business Premium ir ATP. Visiem pārējiem plāniem nepieciešams pievienojumprogrammas ATP abonements.
 
 - Jums ir jāpiešķir atbilstošas licences, lai aizsargātu lietotājus, izmantojot Office 365 ATP. Skatiet [šo tēmu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , lai saņemtu norādījumus par to, kā lielapjoma lietot licences saviem lietotājiem.
 
-- Globālie administratori un drošības administratori var piekļūt Office 365 ATP līdzekļiem drošības & atbilstības centrā **draudu Managmeent** \> **politika**.
+- Globālie administratori un drošības administratori var piekļūt Office 365 ATP līdzekļiem drošības & atbilstības centrā **draudu Managmeent** \> **politika** .
 
 - Drošus pielikumus un drošas saišu politikas var tvert visā organizācijā, noteiktos domēnos vai mazākās lietotāju grupās.
 

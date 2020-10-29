@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection iegāde
+title: Iegādāties Microsoft Defender darbam ar Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693562"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801154"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection iegāde
+# <a name="purchase-microsoft-defender-for-office-365"></a>Iegādāties Microsoft Defender darbam ar Office 365
 
-Pakalpojumā Office 365 Advanced Threat Protection (ATP) ir iekļauta noteiktos abonementos, piemēram, Microsoft 365 E5, Office 365 E5, Office 365 A5 un Microsoft 365 Business Premium. Ja jūsu abonementā nav iekļauts Office 365 ATP, varat iegādāties [ATP plānu 1 vai ATP 2. plānu](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kā pievienojumprogrammu noteiktam abonementam. Lai iegādātos Microsoft 365 administrēšanas centru:
+Microsoft Defender darbam ar Office 365 (ATP) ir iekļauts noteiktos abonementos, piemēram, Microsoft 365 E5, Office 365 E5, Office 365 A5 un Microsoft 365 Business Premium. Ja jūsu abonementā nav iekļauts Office 365 ATP, varat iegādāties [ATP plānu 1 vai ATP 2. plānu](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kā pievienojumprogrammu noteiktam abonementam. Lai iegādātos Microsoft 365 administrēšanas centru:
 
 1. Dodieties uz **norēķinu**   >   [iegādes pakalpojumiem](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Atlasiet **Add-ons**  lapu no **citas kategorijas, kas jūs varētu interesēt.**
