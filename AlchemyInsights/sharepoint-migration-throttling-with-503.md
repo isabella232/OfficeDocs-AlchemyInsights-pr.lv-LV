@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720068"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947455"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migrēšanas ierobežošana ar 503 kļūdām
 
-**Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
+Šķiet, ka migrējat uz SharePoint Online un saņemat 503 kļūdas. Veiciet tālāk aprakstītās darbības, lai mēs varētu jums palīdzēt pēc iespējas ātrāk.
 
-**503 kļūdas, veicot migrēšanu uz SharePoint Online**
-
-Šķiet, ka migrējat uz SharePoint Online un saņemat 503 kļūdas. Veiciet tālāk aprakstītās darbības, lai mēs varētu jums palīdzēt pēc iespējas ātrāk. 
-
-1. Noklikšķiniet uz **sazināties ar atbalsta dienestu**un pēc tam uz **Jauns pakalpojuma pieprasījums**.
+1. Noklikšķiniet uz **sazināties ar atbalsta dienestu** un pēc tam uz **Jauns pakalpojuma pieprasījums**.
 2. Lai iegūtu virsrakstu un aprakstu, ierakstiet **SharePoint migrēšanas ierobežošana ar 503**.
 3. Kad biļete ir iesniegta, lūdzu, atjauniniet to ar šādu informāciju:
-    - Cik daudz laika migrācijas ir atlicis (piemēram, cik daudz TBs?).
+    - Cik daudz atlicis no migrācijas (piemēram, cik daudz TBs)?
     - Migrācijas sākuma un beigšanas datums.
     - Aprakstiet, no kurienes migrējat savu saturu, piemēram, SharePoint Server, Box, GDrive, failu koplietojumiem utt.
-    - Novērtēt ierobežošanas kļūdu skaitu (piemēram, x droseli stundā?) un kad notika ierobežošana.
-    - Kuru migrācijas rīku izmantojat (piemēram, SPMT vai ShareGate).
-
-
+    - Aprēķiniet ierobežošanas kļūdu skaitu (piemēram, ar x droseli stundā) un kad notika ierobežošana.
+    - Kuru migrācijas rīku lietojat (piemēram, SPMT vai ShareGate)?
