@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800363"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949824"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Trūkst satura redaktora vai skripta redaktora tīmekļa daļu
 
-Ja trūkst tīmekļa daļa, ko redzat, piemēram, **satura redaktora vai skripta redaktora tīmekļa daļā**, iespējams, jūs mēģināt pievienot [klasisku tīmekļa daļa mūsdienīgā lapā](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Ir svarīgi atzīmēt, ka modernās lapas var izmantot tikai modernām tīmekļa daļām un klasiskajām lapām. Daudzas mūsdienīgas tīmekļa daļas atbilst tiem pašiem nolūkiem kā klasiskajām tīmekļa daļām, taču izskata un funkcionalitātes atšķirības ir redzamas.
+Divas tīmekļa daļas, kas nav pieejamas pakalpojumā SharePoint for Microsoft 365 modernās lapas, ir **skripta redaktora tīmekļa daļa** un **satura redaktora tīmekļa daļa**. Tomēr ir [modernas tīmekļa daļas](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) , kas var izpildīt dažus no šiem mērķiem. Varat arī izveidot [pielāgotas tīmekļa daļas vai migrēt esošās skripta redaktora tīmekļa daļas](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) uz SharePoint Framework.  
 
-Ir daudz tīmekļa daļu, kas netiek rādītas, jo tiek rādīts [pielāgotais skripta iestatījums](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), kas modernās vietnēs ir atspējots pēc noklusējuma. 
-
-Sarakstu ar nepieejamajām tīmekļa daļām skatiet sadaļā līdzekļi, kas tiek [ietekmēti, ja tiek bloķēts pielāgots skripts](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Lai iegūtu papildinformāciju par pielāgotā skripta drošības aspektiem, skatiet rakstu [pielāgotas skripta atļaušanas drošības apsvērumi](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Lai iegūtu papildinformāciju, skatiet rakstu [kur atrodas satura redaktora un skripta redaktora tīmekļa daļas pakalpojumā SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
