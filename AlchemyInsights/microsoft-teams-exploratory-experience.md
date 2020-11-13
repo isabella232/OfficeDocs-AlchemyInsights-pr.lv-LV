@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674945"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019554"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams izpētes pieredze
 
-Microsoft Teams pētnieciskā pieredze ļauj lietotājiem savā organizācijā, kuriem ir Azure Active Directory (AAD) un kas nav licencēti Teams, sākt izpētes pieredzi Teams. Administratori var ieslēgt vai izslēgt šo līdzekli lietotājiem savā organizācijā. (Agrāk Microsoft komerciālā mākoņa izmēģinājums tagad tiek dēvēts par Teams izpētes pieredzi.)
-
-Microsoft Teams izpētes pieredze ir pieejama bez papildu maksas līdz nākamajai uzņēmuma līguma jubilejai vai atjaunošanai vai pēc 2021 janvāra. Šajā laikā lietotājiem Microsoft pētnieciskās pieredzes licencē ir jāpāriet uz maksas licenci, kas ietver Teams.
-
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft Teams pētnieciskās licences pārvaldība](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Kas ir [Teams izpētes](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Microsoft Teams pētnieciskā pieredze ļauj lietotājiem savā organizācijā, kuri nav licencēti Teams, sākt izpētes pieredzi par Teams. Lai iegūtu papildinformāciju, skatiet informāciju [par darba grupu izpētes pieredzi](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Kad beigsies licences derīgums](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Microsoft Teams pētnieciskā pieredze ir pieejama bez papildu maksas līdz nākamajai līguma jubilejai vai atjaunošanai no 2021 janvāra.
+- Kā administrators varat [jaunināt lietotājus no Teams pētnieciskās](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licences, iegādājoties abonementu, kurā iekļautas grupas, noņemot grupu izpētes abonementu no lietotāja un piešķirot nesen iegādāto licenci.
+- Papildinformāciju skatiet rakstā [Teams izpētes licences pārvaldība.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
