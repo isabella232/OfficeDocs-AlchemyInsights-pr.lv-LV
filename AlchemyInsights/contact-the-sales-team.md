@@ -5,24 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932077"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529025"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="0b982-102">Sazinieties ar pārdošanas komandu</span><span class="sxs-lookup"><span data-stu-id="0b982-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="ff548-102">Sazinieties ar pārdošanas komandu</span><span class="sxs-lookup"><span data-stu-id="ff548-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="0b982-103">Izmantojot Microsoft Graph savienotājus, jūsu organizācija var indeksēt trešo pušu datus, lai tie tiktu parādīti Microsoft meklēšanas rezultātos.</span><span class="sxs-lookup"><span data-stu-id="0b982-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="ff548-103">Ir vairāki veidi, kā sazināties ar Microsoft 365 pārdošanas komandu.</span><span class="sxs-lookup"><span data-stu-id="ff548-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="0b982-104">Microsoft savienotāji</span><span class="sxs-lookup"><span data-stu-id="0b982-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="0b982-105">Mūsu partneru savienotāji</span><span class="sxs-lookup"><span data-stu-id="0b982-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="0b982-106">Papildinformāciju skatiet rakstā [Pārskats par Microsoft Graph savienotājiem](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span><span class="sxs-lookup"><span data-stu-id="0b982-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="ff548-104">Izmantojiet  [Saziņa ar mums](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) veidlapu, lai Microsoft 365 pārdošanas eksperts sazinātos ar jums.</span><span class="sxs-lookup"><span data-stu-id="ff548-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="ff548-105">Lai sazinātos ar uzņēmuma līguma lielapjoma licencēšanas ekspertu, sāciet ar  [Lielapjoma licencēšanas pakalpojumu centra](https://go.microsoft.com/fwlink/p/?LinkId=329762) portālu.</span><span class="sxs-lookup"><span data-stu-id="ff548-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
