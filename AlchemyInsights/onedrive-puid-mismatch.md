@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605716"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653267"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID neatbilstība
 
@@ -26,6 +26,6 @@ ms.locfileid: "49605716"
 
 1. Noklikšķiniet uz  **sazināties ar atbalsta dienestu** un pēc tam uz  **Jauns pakalpojuma pieprasījums**.
 2. Atstājiet virsrakstu un aprakstu kā  **OneDrive vietnes lietotāja ID neatbilstību**.
-3. Kad biļete ir iesniegta, lūdzu, atjauniniet to ar šādu informāciju:
+3. Kad biļete ir iesniegta, atjauniniet to, izmantojot tālāk norādīto informāciju.
     - OneDrive vietnes vietrādis URL, kas tiek ietekmēts.
     - Attiecīgā lietotāja pamatnosaukums (UPN).
