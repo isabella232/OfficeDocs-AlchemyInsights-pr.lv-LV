@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815540"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683873"
 ---
 # <a name="how-to-verify-your-domain"></a>Sava domēna pārbaude
 
-Lai verificētu domēnu, izpildiet domēna [pievienošanas vedni](https://admin.microsoft.com/Adminportal#/Domains/Wizard)vai manuāli **dodieties uz sadaļu domēnu**  >  **Domains**  >  **pievienošana**.
+Lai verificētu domēnu, izpildiet domēna [pievienošanas vedni](https://admin.microsoft.com/Adminportal#/Domains/Wizard)vai manuāli **dodieties uz sadaļu domēnu**  >    >  **pievienošana**.
 
 Lai iegūtu papildinformāciju par DNS izmaiņām, kas nepieciešamas, lai verificētu savu domēnu, skatiet norādījumus sadaļā [DNS ierakstu pievienošana, lai izveidotu savienojumu ar savu domēnu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
