@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682095"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726400"
 ---
 # <a name="change-organization-profile"></a>Organizācijas profila maiņa
 
-Mainiet sava uzņēmuma nosaukumu, adresi, tehniskās kontaktinformācijas un citus datus administrēšanas centrā, kas atrodas lapā **iestatījumu**  >  [organizācijas profils](https://go.microsoft.com/fwlink/p/?linkid=2067339) .
+Mainiet sava uzņēmuma nosaukumu, adresi, tehniskās kontaktinformācijas un citus datus administrēšanas centrā, kas atrodas cilnē **iestatījumu**  >  **organizācijas iestatījumi**  >  [organizācijas profils](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
 
 Noteikti aizpildiet visus obligātos laukus, kas atzīmēti ar *, lai iespējotu izmaiņu saglabāšanu.
 
