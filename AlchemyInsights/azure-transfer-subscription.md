@@ -1,5 +1,5 @@
 ---
-title: Azure norēķinu īpašumtiesību nodošana
+title: Nodot Azure norēķinu tiesības
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922079"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736885"
 ---
-# <a name="transfer-azure-billing-ownership"></a>Azure norēķinu īpašumtiesību nodošana
+# <a name="transfer-azure-billing-ownership"></a>Nodot Azure norēķinu tiesības
 
-Pierakstieties [Azure portālā](https://portal.azure.com/) kā norēķinu konta administrators ar abonementu, kuru vēlaties pārsūtīt. Ja neesat pārliecināts, vai esat administrators, vai jums ir nepieciešams noteikt, kas ir, skatiet rakstu [konta norēķinu administratora noteikšana](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Pierakstieties [Azure portālā](https://portal.azure.com/) kā administrators norēķinu kontā, kuram ir abonements, kuru vēlaties nodot. Ja neesat pārliecināti, vai esiet administrators, vai jums ir jānosaka, kas ir administrators, lasiet [Norēķinu konta administratora noteikšana](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Meklējiet par **Cost Management + norēķiniem**.
-- Atlasiet **abonementi** no kreisās rūts. Atkarībā no programmas Access, iespējams, būs jāatlasa norēķinu tvērums un pēc tam **abonementi** vai **Azure abonementi**.
-- Atlasiet **pārsūtīt norēķinu īpašumtiesības** abonementam, kuru vēlaties pārsūtīt
-- Ievadiet tā lietotāja e-pasta adresi, kurš ir tā konta norēķinu administrators, kas būs jaunais abonementa īpašnieks, un pēc tam atlasiet **Sūtīt pārsūtīšanas pieprasījumu**
-- Lietotājs saņem e-pasta ziņojumu ar norādījumiem par pārsūtīšanas pieprasījuma pārskatīšanu. Lai apstiprinātu pārsūtīšanas pieprasījumu, lietotājs atlasa saiti e-pasta ziņojumā un seko instrukcijām.
+1. Meklējiet atslēgas vārdus _Izmaksu pārvaldība + Norēķini_.
+1. Kreisajā rūtī atlasiet **Abonementi**. Atkarībā no piekļuves veida, jums varētu būt nepieciešamas atlasīt norēķinu tvērumu un pēc tam **Abonementi** vai **Azure abonementi**.
+1. Atlasiet **Nodot norēķinu tiesības** nododamajam abonementam.
+1. Ievadiet lietotāja, kas būs jaunais abonementa norēķinu administrators, e-pasta adresi un pēc tam atlasiet **nosūtīt nodošanas pieprasījumu**.
+1. Lietotājs saņems e-pastu ar norādījumiem jūsu nodošanas pieprasījuma pārskatīšanai. Lai apstiprinātu nodošanas pieprasījumu, lietotājam ir jāatlasa e-pasta iekļautā saite un jāseko norādījumiem.
 
-**Ņemiet vērā** : Ja pārsūtāt norēķinu īpašumtiesības uz lietotāja kontu citā Azure AD nomniekā, visi [lomu piekļuves vadības (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)uzdevumi, lai pārvaldītu abonementa resursus, tiek neatgriezeniski noņemti. Tikai jaunajam īpašniekam būs piekļuve pārvaldīt resursus abonementā. Lai iegūtu papildinformāciju, skatiet rakstu [abonementa pārsūtīšana lietotājam citā AZURE ad nomniekā](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Lūdzu, ņemiet vērā, ka, nododot jūsu abonementu lietotāja kontam pie cita Azure AD nomnieka, visas [lomu piekļuves vadības (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) piešķires resursu pārvaldībai abonementā tiks neatgriezeniski noņemtas. Tikai jaunajam īpašniekam būs piekļuve abonementa resursu pārvaldībai. Papildinformācijai par abonementa direktorija maiņu, lasiet [Abonementa nodošana cita Azure AD nomnieka lietotājam](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Ieteicamie dokumenti**
+_**Būtiska ietekme uz jūsu rēķiniem**_: ja nodevāt Azure abonementa norēķinu tiesības, piemērotā maksa tiks dalīta proporcionāli. Jūs varēsit piekļūt rēķiniem šādi:  
 
-- [Norēķinu īpašumtiesību uz Azure abonementu pārsūtīšana uz citu kontu](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [Par norēķinu īpašumtiesību nodošanu Azure abonementam](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [Visual Studio, Microsoft partneru tīkla (MPN) un pay as Go Dev/Test abonementu pārsūtīšana](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Bieži uzdotie jautājumi par īpašumtiesību nodošanu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+1. Atlasiet abonementu  [Abonementu lapā](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure portālā [kā lietotājs ar piekļuvi rēķiniem](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), pēc tam atlasiet **Rēķini**.
+1. Noklikšķiniet **Lejupielādēt rēķinu**, lai apskatītu jūsu rēķina PDF kopiju. Ja tiek parādīts ziņojums _Nav pieejams_, tad lasiet [Kāpēc es neredzu rēķinu par pēdējo norēķinu periodu?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Jūs varat apskatīt lietojumu pa dienām, noklikšķinot uz **norēķinu periods**, lai iegūtu jūsu rēķinu PDF failā un failu (.CSV) ar detalizētu informāciju par lietojumu pa dienām. Papildinformācijai lasiet  [Iegūt rēķinu un lietojuma datus](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+**Ieteiktie dokumenti**
+
+- [Azure abonementa norēķina tiesību nodošana citam kontam](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Par Azure abonementa norēķinu tiesību nodošanu](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [Visual Studio, Microsoft Partner Network (MPN) un Pay as you go Dev/Test abonementi](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [BUJ par īpašumtiesību nodošanu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
 - [Īpašumtiesību nodošanas problēmu novēršana](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
