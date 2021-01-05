@@ -1,5 +1,5 @@
 ---
-title: Pārslēdziet uz rēķinu par samaksu (Check/Wire Transfer)-modernais CL
+title: Pārslēdziet uz maksāt ar rēķinu (Check/Wire Transfer)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706651"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755473"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Pārslēdziet uz rēķinu par samaksu (Check/Wire Transfer)-modernais CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Pārslēdziet uz maksāt ar rēķinu (Check/Wire Transfer)
+
+Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
 
 Ja pārslēdzaties uz maksājumu ar rēķinu, tas nozīmē, ka jūs maksāsit rēķinu 30 dienu laikā pēc rēķina datuma. Lai saņemtu tiesības veikt maksājumus par Azure abonementu, iesniedziet Azure atbalsta pieprasījumu. Kad jūsu pieprasījums ir apstiprināts, varat mainīt abonementa rēķinu par samaksu Azure portālā.
 
@@ -40,7 +42,7 @@ Lai to izdarītu:
 4. *Norēķinu profila* izvēlnē atlasiet **maksāšanas metodes**.
 5. Atlasiet reklāmkarogu, kurā norādīts, ka jums ir tiesības veikt maksājumus ar čeku/bankas pārvedumu.
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
 - [Pieprasīt/lejupielādēt/skatīt savu Azure norēķinu rēķinu un lietojuma datus](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Kā nosūtīt e-pasta ziņojumus tieši uz jūsu iesūtni](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

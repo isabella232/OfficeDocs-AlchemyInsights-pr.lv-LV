@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 0c5cc07399a97d27f77e761556376785d51ed9f7
-ms.sourcegitcommit: 04bc9ed287c1f90874c51f05c0d8647d6395c881
+ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726109"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755662"
 ---
 # <a name="make-an-immediate-payment"></a>Tūlītēja maksājuma veikšana
+
+Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
 
 Microsoft klienta līgumā (MCA) jūsu maksājumu metodes ir saistītas ar [norēķinu profiliem](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile).
 
@@ -36,7 +38,7 @@ Lai apmaksātu rēķinus ar kredītkarti Azure portālā, jums ir jābūt norē�
 
 Rēķina statuss tiks atjaunināts uz apmaksāts rēķinu lāpstiņā.
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
 - [Maksāšanas metodes maiņa — bieži uzdotie jautājumi](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
 - [Norēķinu profila maksāšanas metodes maiņa](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)

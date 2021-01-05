@@ -1,5 +1,5 @@
 ---
-title: Pārslēgties uz rēķinu apmaksu (čeks/bankas pārvedums)-Legacy WD
+title: Pārslēdziet uz apmaksu ar rēķinu (čeks/bankas pārvedums)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726125"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755410"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Pārslēgties uz rēķinu apmaksu (čeks/bankas pārvedums)-Legacy WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Pārslēdziet uz apmaksu ar rēķinu (čeks/bankas pārvedums)
+
+Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
 
 Ja pārslēdzaties uz maksājumu ar rēķinu, tas nozīmē, ka jūs maksāsit rēķinu 30 dienu laikā pēc rēķina datuma. Lai saņemtu tiesības veikt maksājumus par Azure abonementu, iesniedziet Azure atbalsta pieprasījumu. Kad jūsu pieprasījums ir apstiprināts, varat mainīt abonementa rēķinu par samaksu [Azure portālā](https://portal.azure.com/).
 
@@ -39,7 +41,7 @@ Lai to izdarītu:
 2. Atlasiet abonementu, kuru vēlaties mainīt uz rēķinu maksājumiem. Atlasiet **maksāšanas metodes**.
 3. Komandjoslā noklikšķiniet uz pogas **maksāt pēc rēķina** .
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
 - [Pieprasīt/lejupielādēt/skatīt savu Azure norēķinu rēķinu un lietojuma datus](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Kā nosūtīt e-pasta ziņojumus tieši uz jūsu iesūtni](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

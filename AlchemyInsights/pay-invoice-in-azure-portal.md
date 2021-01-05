@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714879"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755626"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Apmaksas rēķins Azure portālā — ieteicamās darbības
+
+Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
 
 Jums ir jābūt norēķinu konta administratoram, lai apmaksātu rēķinus Azure portālā. Norēķinu konta administrators ir lietotājs, kas sākotnēji reģistrēja Microsoft klienta līguma kontu. 
 
 Lai rēķinu apmaksātu Azure portālā: 
 
 1. Pierakstieties [Azure portālā](https://portal.azure.com/).
-1. Meklējiet par **Cost Management + norēķiniem**.
+1. Meklējiet atslēgas vārdus **Izmaksu pārvaldība + Norēķini**.
 1. Kreisās rūts sadaļā **norēķini** noklikšķiniet uz **rēķini**.
 1. Ja kāds no jūsu rēķiniem ir maksājams vai nokavēts, redzēsit šo rēķinu **tūlīt** . Noklikšķiniet uz **maksāt tūlīt**.
 1. Jaunajā asmenī noklikšķiniet uz **Atlasīt maksāšanas veidu** , lai izvēlētos esošu kredītkarti vai pievienotu jaunu karti.

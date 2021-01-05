@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714824"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755806"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Veikt tūlītējus maksājumus — ieteicamās darbības
+
+Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
 
 Lai veiktu tūlītēju maksājumu, nodrošina iespēju atrisināt pagātnes atlikumus. Ja jūsu maksājums nav saņemts vai ja mēs nevaram apstrādāt jūsu maksājumu, iespējams, saņemsit e-pasta ziņojumu vai redzēsit paziņojumu par iepriekšēju apmaksas atlikumu, izmantojot kontu centru vai Azure portālu. 
 
