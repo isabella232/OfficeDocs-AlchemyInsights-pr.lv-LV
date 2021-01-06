@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731246"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768824"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker šifrēšanas iespējošana ar Intune
 
@@ -30,10 +30,12 @@ Informāciju par BitLocker problēmu novēršanu skatiet rakstā [BitLocker poli
  
 **BUJ**
 
- J: kādi Windows izdevumi atbalsta ierīces šifrēšanu, izmantojot galapunktu aizsardzības politiku?<br>
- A: Intune Endpoint Protection politikas iestatījumi tiek ieviesti, izmantojot [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ne visi Windows izdevumi un būvējumi neatbalsta BitLocker CSP. <br><br>
-      Pašlaik tiek atbalstīti šādi Windows izdevumi: Enterprise, Education, Mobile, Mobile Enterprise un Professional (būvējums 1809 un jaunākas versijas).
- 
+J: kādi Windows izdevumi atbalsta ierīces šifrēšanu, izmantojot galapunktu aizsardzības politiku?<br>
+A: Intune Endpoint Protection politikas iestatījumi tiek ieviesti, izmantojot [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ne visi Windows izdevumi un būvējumi neatbalsta BitLocker CSP. <br><br>
+
+J: kā ierīcēs var iespējot BitLocker, nepieprasot lietotāja mijiedarbību?<br>
+A: kamēr ir izpildīti nepieciešamie priekšnosacījumi, ir iespējams iespējot BitLocker "kluso šifrēšanu", izmantojot Intune. Skatiet detalizētu informāciju par ierīces prasībām un piemēra politikas iestatījumiem, lai iespējotu kluso šifrēšanu tālāk esošajā dokumentā [.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
+
 J: ja ierīce jau ir šifrēta ar BitLocker, izmantojot OS noklusējuma iestatījumus šifrēšanas metodei un Cipher Strength (XTS-AES-128), vai tiek lietota politika ar atšķirīgiem iestatījumiem, kas automātiski aktivizē šī diska atkārtotu šifrēšanu ar jaunajiem iestatījumiem?<br>
 A: Nē. Lai lietotu jaunos Cipher iestatījumus, vispirms diskam ir jābūt atšifrētam.<br><br>
 **Piezīme:** Ierīcēm, kuras tiek reģistrētas ar Autopilot, automātiskā šifrēšana, kas notiek OOBE laikā, netiek aktivizēta, kamēr Intune politika tiek novērtēta, kas ļauj izmantot politikas iestatījumus OS noklusējumu vietā.
