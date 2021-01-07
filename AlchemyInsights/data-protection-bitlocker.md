@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768824"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778200"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker šifrēšanas iespējošana ar Intune
 
- Intune galapunkta aizsardzības politika var tikt izmantota, lai konfigurētu BitLocker šifrēšanas iestatījumus Windows ierīcēm. Papildinformāciju skatiet rakstā [Windows 10 (un jaunākas versijas) iestatījumi, lai aizsargātu ierīces, kas izmanto Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Intune galapunkta aizsardzības politika var tikt izmantota, lai konfigurētu BitLocker šifrēšanas iestatījumus Windows ierīcēm. Papildinformāciju skatiet rakstā [Windows 10 (un jaunākas versijas) iestatījumi, lai aizsargātu ierīces, kas izmanto Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Papildus galapunkta aizsardzības politikai ir arī šifrēšanas atskaite, kas sniedz detalizētāku informāciju par ierīces šifrēšanas statusu. Šim ziņojumam var piekļūt no MEM portāla sadaļā **ierīces > monitors** un pēc tam sadaļā **konfigurēšanas** atlases [šifrēšana](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Ja konstatējat, ka BitLocker nav iespējots kā paredzēts vai ka profils, kas tiek izmantots, lai iespējotu BitLocker, ir kļūdas stāvoklī, lūdzu, pārskatiet šifrēšanas atskaiti, lai iegūtu labāku izpratni par to, kāpēc notiek darbība.
+
+Lai atrastu detalizētu informāciju par to, kā interpretēt atskaiti, tostarp dažādas šifrēšanas statusa vērtības, skatiet rakstu [ierīču šifrēšanas pārraudzība, izmantojot Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Ņemiet vērā, ka daudzās jaunākās ierīcēs, kurās darbojas operētājsistēma Windows 10, tiek atbalstīta automātiskā BitLocker šifrēšana, kas tiek palaista, nelietojot MDM politiku. Tas var ietekmēt politikas lietojumu, ja tiek konfigurēti noklusējuma iestatījumi. Papildinformāciju skatiet tālāk norādītajos bieži uzdotajos jautājumos.
- 
+
 Informāciju par BitLocker problēmu novēršanu skatiet rakstā [BitLocker politikas problēmu novēršana pakalpojumā Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
