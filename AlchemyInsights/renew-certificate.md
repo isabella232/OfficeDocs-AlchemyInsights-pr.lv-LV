@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: a1a931df944ed83d538215ad7527bec9ef370469
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: a383124fb4e2a5cd4373be0731a233215bed3725
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974569"
+ms.locfileid: "49976820"
 ---
-# <a name="renew-certificate"></a><span data-ttu-id="a82cf-102">Sertifikāta atjaunošana</span><span class="sxs-lookup"><span data-stu-id="a82cf-102">Renew certificate</span></span>
+# <a name="renew-certificate"></a><span data-ttu-id="2ad73-102">Sertifikāta atjaunošana</span><span class="sxs-lookup"><span data-stu-id="2ad73-102">Renew certificate</span></span>
 
-<span data-ttu-id="a82cf-103">Lai atjaunotu sertifikātu, kura derīgums drīz beigsies, skatiet rakstu [sertifikātu pārvaldība integrētās vienotās pierakstīšanās Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span><span class="sxs-lookup"><span data-stu-id="a82cf-103">To renew a certificate that will soon expire, see [Manage certificates for federated single sign-on in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span></span>
+<span data-ttu-id="2ad73-103">Lai atjaunotu sertifikātu, kura derīgums drīz beigsies, skatiet rakstu [Federētas vienotās pierakstīšanās sertifikātu pārvaldība pakalpojumā Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span><span class="sxs-lookup"><span data-stu-id="2ad73-103">To renew a certificate that will soon expire, see [Manage certificates for federated single sign-on in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).</span></span>
 
-<span data-ttu-id="a82cf-104">Lai iegūtu papildinformāciju par to, kā pārvaldīt savus pilnvarās parakstīšanas sertifikātus un saglabāt tos sinhronizācijā ar Azure AD, [atjaunojiet Federācijas sertifikātus Microsoft 365 un Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="a82cf-104">For additional information on how to manage your token-signing certificates and keep them in sync with Azure AD, [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span></span>
+<span data-ttu-id="2ad73-104">Papildinformāciju par to, kā pārvaldīt savus pilnvaru parakstīšanas sertifikātus un sinhronizēt tos ar Azure AD, skatiet rakstā [Federācijas sertifikātu atjaunošana pakalpojumam Microsoft 365 un Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span><span class="sxs-lookup"><span data-stu-id="2ad73-104">For additional information on how to manage your token-signing certificates and keep them in sync with Azure AD, see [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).</span></span>
 
