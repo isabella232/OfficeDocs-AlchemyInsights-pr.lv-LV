@@ -2,43 +2,39 @@
 title: Maksāšanas iespējas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: b743d7ef20fa2c5ebbc5d3f8a236464522aa79c5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666775"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152565"
 ---
-# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Office 365 darbam abonementa apmaksas iespējas
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Microsoft 365 darbam abonementa apmaksas iespējas
   
-Office 365 darbam abonementiem pieejamās maksāšanas iespējas ir kredītkarte, bankas konts (tiešais debets) un rēķins (apmaksa ar čeku vai elektronisko līdzekļu pārskaitījumu).
+Microsoft 365 darbam pieejamās abonementu apmaksas iespējas ir kredītkarte, debetkarte, bankas konts (tiešais debets) un rēķins (apmaksa ar čeku vai elektronisko līdzekļu pārskaitījumu).
   
-**Apmaksa ar kredītkarti un bankas kontu**
+**Apmaksa ar kredītkarti, debetkarti vai bankas kontu**
   
-Maksājot ar kredītkarti vai bankas kontu, jums tiks automātiski piemērota maksa par abonementu dienu pēc rēķina saņemšanas datuma līdz abonementa termiņa beigām. Varat [atjaunināt kredītkartes vai bankas konta informāciju](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account), kad tas nepieciešams. Varat arī izvēlēties [saņemt rēķinu paziņojuma kopiju kā e-pasta ziņojumu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
-  
-Ja kredītkarte tiek noraidīta vai jums ir kāda nesamaksāta summa, lapā **Norēķini****Preces un pakalpojumi** atlasiet \>opciju [Bilances apmaksa](https://portal.office.com/adminportal/home#/subscriptions).
-  
+Jūs varat apmaksāt abonementu ar kredītkarti, debetkarti vai bankas kontu. Veicot maksājumu ar kādu no šīm maksājuma metodēm mēs turpināsim ieturēt līdzekļus, izmantojot šo metodi, līdz abonementa beigām vai atcelšanai. Jūs varat [pārvaldīt maksājuma metodes](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods), kad vēlaties. Varat arī izvēlēties [saņemt rēķina kopiju e-pastā](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+
+Ja jūsu kredītkarte tikai noraidīta vai tajā trūkst līdzekļu, bet jūs pievienojāt maksājuma metodi, kurā ir nepieciešamie līdzekļi, jūs varat izmantot **Bilances apmaksu**, lai veiktu maksājumu. Maksājuma metode, kuru izmantosit, lai apmaksātu nokavēto summu, kļūs par jauno maksājuma metodi visiem abonementiem, kas izmantoja noraidīto metodi. Papildinformācijai lasiet [Ko darīt, ja ir nokavēts maksājums?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
 **Apmaksa ar rēķinu (čeku vai elektronisko līdzekļu pārskaitījumu)**
   
-Ja jūsu abonementa cena pārsniedz noteiktu summu (šī summa ir atkarīga no pakalpojuma sniegšanas vietas), tiks piedāvāts apmaksāt rēķinu ar čeku vai elektronisko līdzekļu pārskaitījumu. Lielāku rēķina maksājumu veikšanai var būt nepieciešama kredīta pārbaude. Ja nepieciešama kredīta pārbaude, tiksit par to informēts, kad iegādāsities savu abonementu. Turklāt, ja piekrītat, ka ar jums sazinās, saņemsit e-pasta ziņojumu ar papildinformāciju par pieteikšanos kredīta apstiprināšanai. Kredīta pārbaudes parasti tiek pabeigtas divu darba dienu laikā.
-  
-Ja maksājat par abonementu, izmantojot rēķinu, saņemsit e-pasta ziņojumu, kurā norādīts, ka varat skatīt rēķina paziņojumu. Šajā e-pasta ziņojumā nav iekļauta rēķina paziņojuma kopija. Taču varat arī izvēlēties [saņemt rēķinu paziņojuma kopiju kā e-pasta ziņojumu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Jūsu rēķina paziņojumā iekļauta detalizēta informācija par maksāšanas iespējām. Ja ievadāt pirkšanas pasūtījuma numuru, iegādājoties abonementu, šis numurs ir norādīts rēķina paziņojumā. Informāciju par to, kā piekļūt rēķina paziņojumiem, skatiet rakstā [Rēķina skatīšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
-  
-**Maksāšanas veida maiņa**
-  
-Ja vēlaties mainīt pašreizējā abonementa apmaksas veidu, izpildiet [šeit](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method) sniegtos norādījumus.
+Ja jūsu abonementa cena pārsniedz noteiktu summu (šī summa ir atkarīga no pakalpojuma sniegšanas vietas), tiks piedāvāts apmaksāt rēķinu ar čeku vai elektronisko līdzekļu pārskaitījumu. Lielāku rēķina maksājumu veikšanai var būt nepieciešama kredīta pārbaude. Ja nepieciešama kredīta pārbaude, tiksit par to informēts, kad iegādāsities savu abonementu. Ja piekrītat, ka ar jums sazinās, saņemsit e-pasta ziņojumu ar papildinformāciju par pieteikšanos kredīta apstiprināšanai. Kredīta pārbaudes parasti tiek pabeigtas divu darba dienu laikā.
+
+Ja maksājat par abonementu, izmantojot rēķinu, saņemsit e-pasta ziņojumu, kurā norādīts, ka varat skatīt rēķinu. Šajā e-pasta ziņojumā nav iekļauta rēķina kopija. Taču varat izvēlēties [saņemt rēķina kopiju kā e-pasta ziņojumu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Jūsu rēķinā ir iekļauta detalizēta informācija par maksāšanas iespējām. Ja ievadāt pirkšanas pasūtījuma numuru, iegādājoties abonementu, šis numurs ir norādīts rēķina paziņojumā. Informāciju par to, kā piekļūt rēķina paziņojumiem, skatiet rakstā [Rēķina skatīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Papildinformācija**
   
-[Maksāšana par savu Office 365 darbam abonementu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)
+[Kā apmaksāt Microsoft 365 darbam abonementu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

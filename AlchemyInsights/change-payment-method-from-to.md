@@ -1,30 +1,29 @@
 ---
 title: Maksāšanas metodes maiņa
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933404"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152601"
 ---
 # <a name="change-payment-method-fromto"></a>Mainīt maksāšanas metodi no/uz
 
 1. **Mainīt no rēķina uz kredītkarti vai bankas kontu**
 
-    - Kad pārejat no maksājumiem ar rēķinu uz maksājumiem ar kredītkarti vai maksājumiem no bankas konta, tiek automātiski izveidots jauns abonements, lietotāji tiek pārvietoti uz jauno abonementu un pēc tam iepriekšējais abonements tiek atspējots. Neuztraucieties, jo lietotājiem sniegtie pakalpojumi netiks traucēti, un visa lietotāju informācija būs pieejama, izmantojot jauno abonementu. 
-
-    - Veiciet rakstā [Mainīt no rēķina uz kredītkarti vai bankas kontu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account) norādītās darbības.
+    - Jūs varat automātiski mainīt apmaksu ar rēķinu uz citu maksājuma metodi. Tā vietā jums ir [jāiegādājas cits abonements](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), kas ir apmaksāts ar kredītkarti, debetkarti vai maksājumu no bankas konta, [jāpārceļ visi lietotāji uz jauno abonementu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) un pēc tam [jāatceļ vecais abonements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Pārslēgšanās no kredītkartes vai bankas konta uz rēķinu**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933404"
 
     - Ja jūsu pasūtījuma summa būs pārāk liela, var būt nepieciešama jūsu kredītvēstures pārbaude. Šādos gadījumos jums tiks parādīts ziņojums “Nav iespējams mainīt uz rēķinu. Jūsu pasūtījuma veikšanai nepieciešama kredītvēstures pārbaude”. Šādā gadījumā jums būs manuāli jāmaina maksāšanas metode uz apmaksu ar rēķinu.
 
-    - Sekojiet darbībām, kas ir aprakstītas rakstā [Mainīt maksāšanas metodi no kredītkartes vai bankas konta uz rēķinu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice), lai manuāli pabeigtu izmaiņu veikšanu.
+    - Veiciet darbības, kas ir aprakstītas rakstā [Mainīt maksāšanas metodi no kredītkartes uz rēķinu](how-do-i-change-from-credit-card-payments-to-invoice.md), lai manuāli pabeigtu izmaiņu veikšanu.
 
-Lai uzzinātu vairāk, lasiet [Maksāšanas metodes maiņa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Papildinformācijai lasiet [Abonementa apmaksas veidi](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
