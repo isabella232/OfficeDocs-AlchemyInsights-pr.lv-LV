@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287145"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232374"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kā izveidot Microsoft 365 pirkumu
 
 Varat iegādāties Microsoft 365 abonementu administrēšanas centrā.
   
-- Lai iegādātos plānu, dodieties uz lapu **norēķinu** \> [pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-- Lai iegādātos papildu licences, dodieties uz lapu **Billing** \> [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) . Atlasiet abonementu, kuru vēlaties mainīt, un pēc tam atlasiet **iegādāties licences** vai **Noņemt licences**.
+- Lai iegādātos plānu, dodieties uz lapu **norēķinu** \> **[pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+- Lai iegādātos papildu licences, dodieties uz lapu **Billing** \> **[Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Atlasiet abonementu, kuru vēlaties mainīt, un pēc tam atlasiet **iegādāties licences**. \
+**Skatieties videoklipu** , kurā parādīts, kā to paveikt: [jaunu licenču iegāde](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Lai uzzinātu vairāk, skatiet rakstu [licenču iegāde savam Microsoft 365 darbam abonementam](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Lai uzzinātu vairāk, skatiet rakstu [licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Problēmu novēršana**
 
