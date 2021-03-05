@@ -1,32 +1,34 @@
 ---
 title: Visio licenču pārvaldība
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-ms.openlocfilehash: b5f403c04be0750a8c4598119a8d87b6782ed5d6
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+- commerce
+ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947933"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468841"
 ---
 # <a name="visio-license-management"></a>Visio licenču pārvaldība
 
-Visio licences var pārvaldīt **Microsoft 365 administrēšanas centrā**.
+Visio licences var pārvaldīt **Microsoft 365 administrēšanas centrā**.
 
-- Lai **mainītu plānus**, lasiet [Manuāla Microsoft 365 darbam plānu maiņa](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Lai **iegādātos** Visio, dodieties uz **Norēķini > [Pakalpojumu iegāde](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Izmantojiet meklēšanas lodziņu, lai sameklētu “Visio”, atlasiet plānu un lietotāju skaitu. Papildinformāciju skatiet rakstā [Abonementa iegāde](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Lai **piešķirtu lietotājiem** Visio licences, dodieties uz **Norēķini > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lai uzzinātu vairāk, lasiet [Licenču piešķiršana](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Lai **pievienotu/noņemtu** Visio licences, pārejiet uz sadaļu **Norēķini > [Pakalpojumu iegāde](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Papildinformāciju skatiet rakstā [Licenču pievienošana/noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Lai **atceltu** Visio licences, dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet **Iestatījumi un darbības** un noklikšķiniet uz **Atcelt abonementu**. Lai uzzinātu vairāk, lasiet [Abonementa atcelšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
-- [Salīdziniet Visio opcijas](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options), lai uzzinātu vairāk par atšķirībām starp Visio 1. un 2. plānu.
+- [Salīdziniet Visio opcijas](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1), lai uzzinātu vairāk par atšķirībām starp Visio 1. un 2. plānu.
+- Lai **mainītu plānus**, skatiet [Jaunināšana uz citu plānu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Lai **iegādātos** Visio, dodieties uz **Norēķini > [Pakalpojumu iegāde](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Izmantojiet meklēšanas lodziņu, lai sameklētu “Visio”, atlasiet plānu un lietotāju skaitu. Papildinformāciju skatiet rakstā [Cita abonementa iegāde](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Lai **piešķirtu** Visio licences, dodieties uz **Norēķini > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lai uzzinātu vairāk, skatiet rakstu [Licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Lai **iegādātos vai noņemtu** Visio licences, dodieties uz **Norēķini > [Jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Lai **atceltu** Visio abonementu, dodieties uz **Norēķini >[Jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet Visio abonementu un sadaļā **Abonements un maksājumu iestatījumi** atlasiet **Atcelt abonementu**. Lai uzzinātu vairāk, skatiet rakstu [Abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Papildinformāciju skatiet rakstā [Abonementu licenču pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
