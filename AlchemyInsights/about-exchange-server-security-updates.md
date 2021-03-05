@@ -1,0 +1,42 @@
+---
+title: Par Exchange Server drošības atjauninājumiem
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9005482"
+- "9005483"
+- "9413"
+- "9412"
+ms.openlocfilehash: 87a5cf1ac4dfb96a5406f6b1431adb6ead074fd6
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50481951"
+---
+# <a name="about-exchange-server-security-updates"></a>Par Exchange Server drošības atjauninājumiem
+
+Microsoft ir izlaidusi vairākus kritiskos drošības atjauninājumus Exchange Server lokālajā vidē. Ietekmētās servera versijas ir jebkurš Exchange Server 2010, 2013, 2016 un 2019 atjaunināšanas līmenis. Exchange Online netiek ietekmēts, bet, ja jums ir daži lokāli Exchange serveri hibrīdās konfigurācijas dēļ, tie ir potenciāli neaizsargāti.
+
+Lai atjauninātu lokālos serverus, būs jādarbojas vismaz šādām Exchange versijām:
+
+- Exchange 2010 3. servisa pakotne
+- Exchange Server 2013 CU 23
+- Exchange Server 2016 CU 19 vai CU 18
+- Exchange Server 2019 CU 8 vai CU 7
+
+Lūdzu, skatiet tālāk norādīto paziņojumu par labojumu atrašanās vietu: [izlaists: 2021 Exchange Server drošības atjauninājumi](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+
+**Svarīgas piezīmes:**
+
+Atjauninājumu instalēšana nedarbosies, ja jūsu lokālajos serveros nedarbojas nepieciešamās Exchange versijas, kā norādīts iepriekš minētajā sarakstā.
+
+Ja atjauninājumu instalēšana notiek manuāli, lūdzu, izlasiet sadaļu "zināmās problēmas" atjauniniet KB rakstu, lai iegūtu svarīgu informāciju. Drošības atjauninājumi ir jāpalaiž no paaugstināta CMD/PowerShell uzvednes.
