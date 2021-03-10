@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470013"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600993"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licenču apturēšana vai pauzēšana
 
@@ -32,4 +31,4 @@ Lai īslaicīgi apturētu vai apturētu licences lietojumu, varat noņemt licenc
 4. Lapā Detalizēta informācija par abonementu atlasiet **Noņemt licences**.
 5. Rūtī **licenču noņemšana** lodziņā **kopējās licences** ievadiet abonementam paredzēto licenču kopskaitu un pēc tam atlasiet **Saglabāt**. Piemēram, ja jums ir 100 licences un vēlaties apturēt vai pauzēt 25, pēc tam ievadiet 75 kā abonementa kopējās licences.
 
-Papildinformāciju skatiet rakstā [licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lai uzzinātu vairāk, skatiet [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

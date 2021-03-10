@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-- commerce
-ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469597"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601831"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defender for Office 365 licenču piešķiršana
 
@@ -31,4 +30,4 @@ Microsoft Defender darbam ar Office 365 var piešķirt lietotājiem Microsoft 36
 5. Lai piešķirtu vai noņemtu, noklikšķiniet uz **Ieslēgt vai izslēgt programmas un pakalpojumus**  .
 6. Noklikšķiniet uz **piešķirt** un pēc tam uz  **Beigt**.
 
-Lai iegādātos vairāk vai noņemtu licences, skatiet rakstu [licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Lai iegādātos vairāk licenču vai noņemtu tās, skatiet [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
