@@ -1,0 +1,104 @@
+---
+title: Microsoft Graph API problēmas
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004345"
+- "7759"
+ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
+ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
+ms.translationtype: MT
+ms.contentlocale: lv-LV
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50714152"
+---
+# <a name="microsoft-graph-api-issues"></a><span data-ttu-id="68cd5-102">Microsoft Graph API problēmas</span><span class="sxs-lookup"><span data-stu-id="68cd5-102">Microsoft Graph API issues</span></span>
+
+<span data-ttu-id="68cd5-103">Šī tēma var attiekties arī uz izstrādātājiem, kuri joprojām izmanto Azure AD Graph API.</span><span class="sxs-lookup"><span data-stu-id="68cd5-103">This topic may also apply to developers still using Azure AD Graph API.</span></span> <span data-ttu-id="68cd5-104">Tomēr ir **stingri** ieteicams izmantot programmu Microsoft Graph visiem jūsu direktorija, identitātes un piekļuves pārvaldības scenārijiem.</span><span class="sxs-lookup"><span data-stu-id="68cd5-104">However, it is **strongly** recommended that you use Microsoft Graph for all your directory, identity, and access management scenarios.</span></span>
+
+<span data-ttu-id="68cd5-105">**Autentifikācijas vai autorizācijas problēmas**</span><span class="sxs-lookup"><span data-stu-id="68cd5-105">**Authentication or authorization issues**</span></span>
+
+- <span data-ttu-id="68cd5-106">Ja jūsu lietojumprogramma **nevar iegūt pilnvaras** , lai sasauktu Microsoft Graph, izvēlieties problēmu, kas rodas, **iegūstot piekļuves marķiera (autentifikāciju)** Microsoft Graph kategoriju, lai saņemtu konkrētāku palīdzību un atbalstu šajā tēmā.</span><span class="sxs-lookup"><span data-stu-id="68cd5-106">If your app is **unable to acquire tokens** to call Microsoft Graph, pick **Problem with getting an access token (Authentication)** Microsoft Graph category to get more specific help and support on this topic.</span></span>
+- <span data-ttu-id="68cd5-107">Ja jūsu programma **saņem 401 vai 403 autorizācijas kļūdas** , zvanot uz Microsoft Graph, izvēlieties, vai Microsoft Graph API kategorijā iegūt **Access denied kļūdu (autorizācija)** .</span><span class="sxs-lookup"><span data-stu-id="68cd5-107">If your app is **receiving 401 or 403 authorization errors** when calling Microsoft Graph, pick the **Getting an access denied error (Authorization)** Microsoft Graph API category to get more specific help and support on this topic.</span></span>
+
+<span data-ttu-id="68cd5-108">**Es vēlos izmantot programmu Microsoft Graph, taču neesat pārliecināts, kur sākt**</span><span class="sxs-lookup"><span data-stu-id="68cd5-108">**I want to use Microsoft Graph, but not sure where to start**</span></span>
+
+- [<span data-ttu-id="68cd5-109">Pārskats par Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="68cd5-109">Overview of Microsoft Graph</span></span>](https://docs.microsoft.com/graph/overview)
+- [<span data-ttu-id="68cd5-110">Pārskats par identitāti un piekļuves pārvaldību programmā Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="68cd5-110">Overview of Identity and Access Management in Microsoft Graph</span></span>](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [<span data-ttu-id="68cd5-111">Darba sākšana Microsoft Graph programmu izveidē</span><span class="sxs-lookup"><span data-stu-id="68cd5-111">Getting started building Microsoft Graph apps</span></span>](https://docs.microsoft.com/graph/)
+- <span data-ttu-id="68cd5-112">**Microsoft Graph Explorer** — testējiet Microsoft Graph API nomniekā vai demonstrācijas nomniekā</span><span class="sxs-lookup"><span data-stu-id="68cd5-112">**Microsoft Graph Explorer** - Test Microsoft Graph APIs in your tenant or a demo tenant</span></span>
+
+<span data-ttu-id="68cd5-113">**Es vēlos izmantot Microsoft Graph, bet vai tas atbalsta v 1.0 direktorija API, kas man ir nepieciešams?**</span><span class="sxs-lookup"><span data-stu-id="68cd5-113">**I want to use Microsoft Graph, but does it support the v1.0 directory APIs I need?**</span></span>
+
+<span data-ttu-id="68cd5-114">Microsoft Graph ir ieteicamais API direktorijam, identitātei un piekļuves pārvaldībai.</span><span class="sxs-lookup"><span data-stu-id="68cd5-114">Microsoft Graph is the recommended API for directory, identity, and access management.</span></span> <span data-ttu-id="68cd5-115">Tomēr ir vēl dažas atšķirības starp to, kas ir iespējams Azure AD Graph un Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="68cd5-115">However, there are still a few gaps between what is possible in Azure AD Graph and Microsoft Graph.</span></span> <span data-ttu-id="68cd5-116">Pārskatiet tālāk norādītos rakstus, kas izceļ visaktuālākās atšķirības, lai palīdzētu jums izvēlēties:</span><span class="sxs-lookup"><span data-stu-id="68cd5-116">Review the following articles, which highlight the most up-to-date differences to assist in your choice:</span></span>
+
+- [<span data-ttu-id="68cd5-117">Resursu tipa atšķirības starp Azure AD Graph un Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="68cd5-117">Resource type differences between Azure AD Graph and Microsoft Graph</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [<span data-ttu-id="68cd5-118">Rekvizītu atšķirības starp Azure AD Graph un Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="68cd5-118">Property differences between Azure AD Graph and Microsoft Graph</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [<span data-ttu-id="68cd5-119">Metodes atšķirības starp Azure AD un Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="68cd5-119">Method differences between Azure AD and Microsoft Graph</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+
+<span data-ttu-id="68cd5-120">**API, ko es saukšu, nedarbojas — kur varu veikt papildu testēšanu?**</span><span class="sxs-lookup"><span data-stu-id="68cd5-120">**The API I am calling doesn't work - where can I do more testing?**</span></span>
+
+<span data-ttu-id="68cd5-121">**Microsoft Graph Explorer** — testējiet Microsoft Graph API savā nomniekā vai demonstrācijas nomniekā, kā arī skatiet **vaicājumu piemērus** programmā Microsoft Graph Explorer.</span><span class="sxs-lookup"><span data-stu-id="68cd5-121">**Microsoft Graph Explorer** - Test Microsoft Graph APIs in your tenant or a demo tenant and also check out the **sample queries** in Microsoft Graph Explorer.</span></span>
+
+<span data-ttu-id="68cd5-122">**Mana programma ir pārāk lēna, un tiek arī panākta ierobežošana. Kādus uzlabojumus varu veikt?**</span><span class="sxs-lookup"><span data-stu-id="68cd5-122">**My app is too slow and is also getting throttled. What improvements can I make?**</span></span>
+
+<span data-ttu-id="68cd5-123">Atkarībā no jūsu darbības ir pieejamas vairākas iespējas, kā izmantot savu lietojumprogrammu, lai nodrošinātu, ka jūsu lietojumprogramma darbojas, un dažos gadījumos tā ir mazāk nosliece uz pakalpojumu ierobežošanu (kad veicat pārāk daudz zvanu).</span><span class="sxs-lookup"><span data-stu-id="68cd5-123">Depending on your scenario, there are a variety of options at your disposal to make your application more performant, and in some cases, less prone to being throttled by the service (when you are making too many calls).</span></span>
+
+- [<span data-ttu-id="68cd5-124">Microsoft Graph paraugprakse</span><span class="sxs-lookup"><span data-stu-id="68cd5-124">Microsoft Graph best practices</span></span>](https://docs.microsoft.com/graph/best-practices-concept)
+- [<span data-ttu-id="68cd5-125">Pakešapstrādes pieprasījumi</span><span class="sxs-lookup"><span data-stu-id="68cd5-125">Batching requests</span></span>](https://docs.microsoft.com/graph/json-batching)
+- [<span data-ttu-id="68cd5-126">Izmaiņu reģistrēšana, izmantojot Delta vaicājumu</span><span class="sxs-lookup"><span data-stu-id="68cd5-126">Track changes through delta query</span></span>](https://docs.microsoft.com/graph/delta-query-overview)
+- [<span data-ttu-id="68cd5-127">Saņemiet paziņojumus par izmaiņām, izmantojot āķus</span><span class="sxs-lookup"><span data-stu-id="68cd5-127">Get notified of changes through webhooks</span></span>](https://docs.microsoft.com/graph/webhooks)
+- [<span data-ttu-id="68cd5-128">Ierobežošanas norādījumi</span><span class="sxs-lookup"><span data-stu-id="68cd5-128">Throttling guidance</span></span>](https://docs.microsoft.com/graph/throttling)
+
+<span data-ttu-id="68cd5-129">**Kur var iegūt papildinformāciju par kļūdām un zināmajām problēmām?**</span><span class="sxs-lookup"><span data-stu-id="68cd5-129">**Where can I find more information on errors and known issues?**</span></span>
+
+- [<span data-ttu-id="68cd5-130">Microsoft Graph kļūdas atbilžu informācija</span><span class="sxs-lookup"><span data-stu-id="68cd5-130">Microsoft Graph error response information</span></span>](https://docs.microsoft.com/graph/errors)
+- [<span data-ttu-id="68cd5-131">Zināmās problēmas ar Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="68cd5-131">Known issues with Microsoft Graph</span></span>](https://docs.microsoft.com/graph/known-issues)
+
+<span data-ttu-id="68cd5-132">**Kur varu pārbaudīt pakalpojumu pieejamības un savienojamības statusu?**</span><span class="sxs-lookup"><span data-stu-id="68cd5-132">**Where can I check status of service availability and connectivity?**</span></span>
+
+<span data-ttu-id="68cd5-133">Pamata pakalpojumu pieejamība un savienojamība, kam var piekļūt, izmantojot Microsoft Graph, var ietekmēt Microsoft Graph vispārējo pieejamību un veiktspēju.</span><span class="sxs-lookup"><span data-stu-id="68cd5-133">The service availability and connectivity of the underlying services that can be accessed through Microsoft Graph can impact the overall availability and performance of Microsoft Graph.</span></span>
+
+- <span data-ttu-id="68cd5-134">Azure Active Directory pakalpojuma darbspējas pārbaudei pārbaudiet statusu **drošības + identitātes** pakalpojumi, kas norādīti [Azure statusa lapā](https://azure.microsoft.com/status/).</span><span class="sxs-lookup"><span data-stu-id="68cd5-134">For Azure Active Directory service health, check the status of **Security + Identity** services listed in the [Azure status page](https://azure.microsoft.com/status/).</span></span>
+- <span data-ttu-id="68cd5-135">Office pakalpojumiem, kas sniedz ieguldījumu programmā Microsoft Graph, pārbaudiet pakalpojumu statusu, kas norādīti [Office pakalpojumu darbspējas informācijas panelī](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="68cd5-135">For Office services that contribute to Microsoft Graph, check the status of services listed in the [Office Service Health Dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+
+<span data-ttu-id="68cd5-136">Microsoft Graph autorizācijas kļūdas var būt vairāku atšķirīgu problēmu rezultāts, no kurām lielākā daļa rada 401 vai 403 kļūdu.</span><span class="sxs-lookup"><span data-stu-id="68cd5-136">Microsoft Graph authorization errors can be a result of several different issues, most of which generate a 401 or 403 error.</span></span> <span data-ttu-id="68cd5-137">Piemēram, tālāk norādītās darbības var izraisīt autorizācijas kļūdas.</span><span class="sxs-lookup"><span data-stu-id="68cd5-137">For example, the following can all lead to authorization errors:</span></span>
+
+- <span data-ttu-id="68cd5-138">Nepareizas [piekļuves pilnvaru iegūšanas plūsmas](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)</span><span class="sxs-lookup"><span data-stu-id="68cd5-138">Incorrect [access token acquisition flows](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)</span></span>
+- <span data-ttu-id="68cd5-139">Nepareizi konfigurēti [atļauju tvērumi](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)</span><span class="sxs-lookup"><span data-stu-id="68cd5-139">Poorly configured [permission scopes](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)</span></span>
+- <span data-ttu-id="68cd5-140">[Piekrišanas](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) trūkums</span><span class="sxs-lookup"><span data-stu-id="68cd5-140">Lack of [consent](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)</span></span>
+
+<span data-ttu-id="68cd5-141">\**_Azure Active Directory autentifikācijas bibliotēkas (ADAL) un Azure AD Graph API (AAD Graph) atbalsta beigas_* _</span><span class="sxs-lookup"><span data-stu-id="68cd5-141">\**_End of support for Azure Active Directory Authentication Library (ADAL) and Azure AD Graph API (AAD Graph)_* _</span></span>
+
+<span data-ttu-id="68cd5-142">\* \* Sākot Jūnijs 30, 2020 \* \*, mēs vairs nepievienos nekādus jaunus līdzekļus, kas ADAL un Azure AD Graph.</span><span class="sxs-lookup"><span data-stu-id="68cd5-142">_\*Starting June 30th, 2020\*\*, we will no longer add any new features to ADAL and Azure AD Graph.</span></span> <span data-ttu-id="68cd5-143">Mēs turpināsim nodrošināt tehnisko atbalstu un drošības atjauninājumus, bet vairs nenodrošināsim līdzekļu atjauninājumus.</span><span class="sxs-lookup"><span data-stu-id="68cd5-143">We will continue to provide technical support and security updates but will no longer provide feature updates.</span></span>
+
+<span data-ttu-id="68cd5-144">**Sākot no 30. jūnija, 2022**, mēs NODROŠINĀSIM atbalstu ADAL un Azure AD Graph un vairs nenodrošinās tehnisko atbalstu vai drošības atjauninājumus.</span><span class="sxs-lookup"><span data-stu-id="68cd5-144">**Starting June 30th, 2022**, we will end support for ADAL and Azure AD Graph and will no longer provide technical support or security updates.</span></span>
+
+<span data-ttu-id="68cd5-145">Programmas, kas, izmantojot ADAL, pēc šī laika turpinās darboties, bet *nesaņem nekādu tehnisku atbalstu vai drošības atjauninājumus*.</span><span class="sxs-lookup"><span data-stu-id="68cd5-145">Apps using ADAL on existing OS versions will continue to work after this time but will not *get any technical support or security updates*.</span></span>
+
+<span data-ttu-id="68cd5-146">Lietojumprogrammas, kas izmanto Azure AD Graph pēc šī laika, iespējams, vairs nesaņems atbildes no Azure AD Graph galapunkta.</span><span class="sxs-lookup"><span data-stu-id="68cd5-146">Apps using Azure AD Graph after this time may no longer receive responses from the Azure AD Graph endpoint.</span></span>
+
+<span data-ttu-id="68cd5-147">**PārADAL migrācija**</span><span class="sxs-lookup"><span data-stu-id="68cd5-147">**ADAL Migration**</span></span>
+
+<span data-ttu-id="68cd5-148">Iesakām veikt atjaunināšanu uz [Microsoft autentifikācijas bibliotēku (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), kurā ir jaunākie līdzekļi un drošības atjauninājumi.</span><span class="sxs-lookup"><span data-stu-id="68cd5-148">We recommend updating to the [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), which has the latest features and security updates.</span></span>
+
+<span data-ttu-id="68cd5-149">Ja izmantojat Microsoft programmas, zināt, ka korporācija Microsoft pašlaik veic savas lietojumprogrammas migrāciju uz MSAL līdz atbalsta termiņa beigām, nodrošinot, ka tās gūs labumu no MSAL pastāvīgajiem drošības un līdzekļu uzlabojumiem.</span><span class="sxs-lookup"><span data-stu-id="68cd5-149">If you are using Microsoft apps, know that Microsoft is in the process of migrating its applications to MSAL by the end-of-support deadline, ensuring they'll benefit from MSAL's ongoing security and feature improvements.</span></span>
+
+1. [<span data-ttu-id="68cd5-150">Lasīt bieži uzdotos jautājumus par ADAL</span><span class="sxs-lookup"><span data-stu-id="68cd5-150">Read the ADAL FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+2. [<span data-ttu-id="68cd5-151">Uzziniet, kā migrēt lietojumprogrammas katrā platformā</span><span class="sxs-lookup"><span data-stu-id="68cd5-151">Learn about how to migrate apps on a per-platform basis</span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+3. <span data-ttu-id="68cd5-152">Ja jums ir nepieciešama palīdzība, lai izprastu, kura lietojumprogramma izmanto ADAL, iesakām pārskatīt visu savu programmu avota kodu un pēc vajadzības sazināties ar citiem ISV vai lietojumprogrammu nodrošinātājiem.</span><span class="sxs-lookup"><span data-stu-id="68cd5-152">If you need help understanding which of your apps use ADAL, we recommend you review all of your apps' source code, and if applicable, reach out to any ISVs or app providers.</span></span> <span data-ttu-id="68cd5-153">Microsoft atbalsta dienests var jums sniegt sarakstu ar visām jūsu nomniekā esošajām lietojumprogrammām, kas nav Microsoft ADAL lietojumprogrammas.</span><span class="sxs-lookup"><span data-stu-id="68cd5-153">Microsoft support can also provide you with a list of all non-Microsoft ADAL apps in your tenant.</span></span>
+
+<span data-ttu-id="68cd5-154">**AAD Graph migrācija**</span><span class="sxs-lookup"><span data-stu-id="68cd5-154">**AAD Graph Migration**</span></span>
+
+<span data-ttu-id="68cd5-155">Lietojumprogrammas, kas izmanto Azure AD Graph, izpildiet mūsu norādījumus, lai [migrētu AZURE ad Graph programmas uz Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).</span><span class="sxs-lookup"><span data-stu-id="68cd5-155">For applications that are using Azure AD Graph, follow our guidance to [migrate Azure AD Graph apps to Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).</span></span>
+
+1. <span data-ttu-id="68cd5-156">[Mūsu migrācijas kontrolsaraksts nodrošina darba sākšanu](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).</span><span class="sxs-lookup"><span data-stu-id="68cd5-156">[Our migration checklist provides a getting started point](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).</span></span>
+2. <span data-ttu-id="68cd5-157">Azure lietojumprogrammu reģistrācijas portālā tiek rādīts, kuras lietojumprogrammas izmanto AAD Graph.</span><span class="sxs-lookup"><span data-stu-id="68cd5-157">Your Azure app registration portal shows which applications are using AAD Graph.</span></span> <span data-ttu-id="68cd5-158">Iesakām pārskatīt visu jūsu lietojumprogrammu pirmkodu un, ja nepieciešams, sazināties ar jebkuru ISV vai lietojumprogrammu nodrošinātāju.</span><span class="sxs-lookup"><span data-stu-id="68cd5-158">We recommend you review all of your apps' source code, and if applicable, reach out to any ISVs or app providers.</span></span> <span data-ttu-id="68cd5-159">Microsoft atbalsts var arī nodrošināt, lai jūsu nomniekā tiktu parādīts visu AAD Graph izmantošanas saraksts.</span><span class="sxs-lookup"><span data-stu-id="68cd5-159">Microsoft support can also provide you with a list of all AAD Graph usage in your tenant.</span></span>
+3. <span data-ttu-id="68cd5-160">Lai jūsu programmai piekļūtu datiem programmā Microsoft Graph, lietotājam vai administratoram tā ir jāpiešķir pareizas atļaujas, izmantojot piekrišanas procesu.</span><span class="sxs-lookup"><span data-stu-id="68cd5-160">For your app to access data in Microsoft Graph, the user or administrator must grant it the correct permissions via a consent process.</span></span> <span data-ttu-id="68cd5-161">[Microsoft Graph atļauju atsaucēs](https://docs.microsoft.com/graph/permissions-reference) ir uzskaitītas atļaujas, kas ir saistītas ar katru galveno Microsoft Graph API kopu.</span><span class="sxs-lookup"><span data-stu-id="68cd5-161">The [Microsoft Graph permissions reference](https://docs.microsoft.com/graph/permissions-reference) lists the permissions associated with each major set of Microsoft Graph APIs.</span></span> <span data-ttu-id="68cd5-162">Tajā sniegti arī norādījumi par to, kā izmantot atļaujas.</span><span class="sxs-lookup"><span data-stu-id="68cd5-162">It also provides guidance about how to use the permissions.</span></span>
