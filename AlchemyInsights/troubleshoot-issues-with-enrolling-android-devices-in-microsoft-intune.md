@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689961"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709005"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Problēmu novēršana saistībā ar Android ierīču reģistrēšanu pakalpojumā Microsoft Intune
 
@@ -34,7 +34,7 @@ Dažas bieži sastopamās problēmas un risināšanas darbības:
 
 2. Atjauniniet ierīci uz Android 6,0 vai jaunākā versijā.
 
-3. Atspējojiet Samsung Smart Manager, lai pārvaldītu Intune uzņēmuma portālu. Pārskatiet [šo dokumentu](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , lai iegūtu detalizētu informāciju par šīm problēmām un risinājumiem.
+3. Atspējojiet Samsung Smart Manager, lai pārvaldītu Intune uzņēmuma portālu. Pārskatiet [šo dokumentu](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , lai iegūtu detalizētu informāciju par šīm problēmām un risinājumiem.
 
  **Lietotāja licences tips ir nederīgs** vai **lietotājvārds nav atpazīts:** lietotājam ir jāpiešķir Intune vai EMS licence. Pārskatiet šos dokumentus, lai piešķirtu licenci, izmantojot Office administrēšanas centru vai Azure portālu.
   
@@ -42,6 +42,6 @@ Papildu resursi, kas palīdz novērst problēmu:
   
 1. Izmantojiet [Intune problēmu novēršanas portālu](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , lai diagnosticētu un novērstu Biežākās reģistrācijas kļūmes. Lai iegūtu papildinformāciju, pārskatiet [šo dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
 
-2. Pārskatiet [šo dokumentu](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , lai skatītu sarakstu ar bieži sastopamām kļūdām, kas neļauj veikt reģistrāciju un risinājumus.
+2. Pārskatiet [šo dokumentu](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) , lai skatītu sarakstu ar bieži sastopamām kļūdām, kas neļauj veikt reģistrāciju un risinājumus.
 
 3. [Uzziniet, kā reģistrēt Android ierīces programmā Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

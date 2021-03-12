@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010153"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708501"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Nav iespējas instalēt Office, Visio vai Project
 
 Lai instalētu Office klientu programmas, jums ir nepieciešams Office 365 vai Microsoft 365 abonements, kas [ietver Office klientu programmas](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), piemēram, Microsoft 365 Business Premium, Microsoft 365 programmas darbam vai Microsoft 365 programmas lieluzņēmumiem.
 
-**Piezīme**: [Office mājām un darbam](https://products.office.com/home-and-business) ir [Office mājām paredzēts](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) produkts, kas nav daļa no uzņēmējdarbības abonementa. Project Online Essentials nav iekļauta datora programma Project un līdz ar to instalēšana nav nepieciešama. Visio 1. plāna lietotājiem ir piekļuve Visio tīmekļa versijai, jo plānā nav iekļauta Visio lietojumprogramma darbam ar datoru.  Project un Visio lietojumprogrammas darbam ar datoru nav pieejamas Mac datoriem
+**Piezīme**: [Office mājām un darbam](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) ir [Office mājām paredzēts](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) produkts, kas nav daļa no uzņēmējdarbības abonementa. Project Online Essentials nav iekļauta datora programma Project un līdz ar to instalēšana nav nepieciešama. Visio 1. plāna lietotājiem ir piekļuve Visio tīmekļa versijai, jo plānā nav iekļauta Visio lietojumprogramma darbam ar datoru.  Project un Visio lietojumprogrammas darbam ar datoru nav pieejamas Mac datoriem
 
-Ja jums ir abonements, kurā ir iekļautas Office lietojumprogrammas, instalēšanas opcija jums būs redzama tikai, ja jums ir [piešķirta licence](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ja esat Office 365 administrators, kas atbildīgs par licenču piešķiršanu, skatiet rakstu [Licenču piešķiršana lietotājiem](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Ja jums ir abonements, kurā ir iekļautas Microsoft 365 lietojumprogrammas, instalēšanas opcija jums būs redzama tikai tad, ja jums ir [piešķirta licence](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ja esat Office 365 administrators, kas atbildīgs par licenču piešķiršanu, skatiet rakstu [Licenču piešķiršana lietotājiem](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 
 Katram lietotājam lieciet veikt šādas darbības:

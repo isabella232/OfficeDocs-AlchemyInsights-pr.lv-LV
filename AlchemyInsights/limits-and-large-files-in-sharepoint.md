@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675773"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709185"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Faili, kurus nevar augšupielādēt pakalpojumā SharePoint Online
 
@@ -29,6 +29,6 @@ Ja failu nevar augšupielādēt pakalpojumā SharePoint Online, pārliecinieties
     
 - Faila nosaukumā nav rakstzīmju " \* : \< \> ? / \ | un nav [nederīgo nosaukumu](https://go.microsoft.com/fwlink/?linkid=866430)sarakstā.
     
-Ja mēģināt augšupielādēt failu, izmantojot OneDrive datora programmu, skatiet rakstu [ierobežojumi, sinhronizējot failus un mapes](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) vai [izlabojat OneDrive sinhronizācijas problēmas](https://go.microsoft.com/fwlink/?linkid=866431).
+Ja mēģināt augšupielādēt failu, izmantojot OneDrive datora programmu, skatiet rakstu [ierobežojumi, sinhronizējot failus un mapes](https://go.microsoft.com/fwlink/p/?LinkID=717734) vai [izlabojat OneDrive sinhronizācijas problēmas](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

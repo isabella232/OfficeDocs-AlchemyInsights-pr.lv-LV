@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: f249189d8251549fbc22eeb5a408acac7cf515ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3eef7a6e94e1f12ea681448392f20ccdf4eaf061
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665185"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708861"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Problēmu novēršana saistībā ar reģistrācijas iespējām Microsoft Intune
 
@@ -25,7 +25,7 @@ Pārskatiet tālāk norādītos resursus, lai atrisinātu savu problēmu tūlīt
     
 - Izmantojiet [Intune problēmu novēršanas portālu](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , lai diagnosticētu un novērstu Biežākās reģistrācijas kļūmes. Lai iegūtu papildinformāciju, pārskatiet [šo dokumentu](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-- Pārskatiet [šo dokumentu](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , lai skatītu sarakstu ar bieži sastopamām kļūdām, kas neļauj veikt reģistrāciju un risinājumus. 
+- Pārskatiet [šo dokumentu](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) , lai skatītu sarakstu ar bieži sastopamām kļūdām, kas neļauj veikt reģistrāciju un risinājumus. 
     
 - [Uzziniet par reģistrācijas iespējām pakalpojumā Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     

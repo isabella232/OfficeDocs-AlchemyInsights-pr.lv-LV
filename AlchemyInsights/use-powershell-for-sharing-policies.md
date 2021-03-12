@@ -1,30 +1,31 @@
 ---
-title: PowerShell izmantošana politiku un organizācijas attiecību koplietošanai
+title: PowerShell izmantošana politiku koplietošanai un organizācijas attiecībām.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 717cdd6827e243ac6bf375209a911937c97088d2
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: cd1d34e4dae474e61c799ca9234b2f18c718f27b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862090"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709473"
 ---
-# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>PowerShell izmantošana politiku un organizācijas attiecību koplietošanai
+# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>PowerShell izmantošana politiku koplietošanai un organizācijas attiecībām.
 
 
-Attiecībā uz organizācijas attiecībām, lūdzu, pārskatiet detalizētu sintaksi un parametru informāciju: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship) and [Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
+Attiecībā uz organizācijas attiecībām, lūdzu, pārskatiet detalizētu sintaksi un parametru informāciju par: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship)  UN  [Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
 
-Lai izveidotu koplietošanas politiku , [izmantojiet New-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Lai [lietotu koplietošanas politiku pastkastei vai lietotājam,](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy%23use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes) ir jāizmanto [set-mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) un [Get-Mailbox kombinācija](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) ar jaunizveidoto politiku. Lai [modificētu, atspējotu vai noņemtu koplietošanas politiku,](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy) jāizmanto [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) un [Remove-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
+Lai izveidotu koplietošanas politiku, izmantojiet [New-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Lai  [lietotu koplietošanas politiku pastkastei vai lietotājam](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy#use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes)  jāizmanto  [Set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) un [Get-Mailbox](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) kombinācija ar jaunizveidoto politiku. Lai  [modificētu, atspējotu vai noņemtu koplietošanas politiku](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)  ir jāizmanto  [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) un [Remove-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
 
-**Lai iegūtu pilnīgu izpratni par šo tēmu, lūdzu, izlasiet:**
+**Lai pilnībā izprastu šo tēmu, lūdzu, izlasiet:**
 
 [Koplietošana pakalpojumā Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing)
