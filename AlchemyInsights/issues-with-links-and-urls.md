@@ -3,7 +3,7 @@ title: Problēmas ar saitēm un vietrāžiem URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974468"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707889"
 ---
 # <a name="issues-with-links-and-urls"></a>Problēmas ar saitēm un vietrāžiem URL
 
-Novirzīt URI/atbildes vietrāžus URL (abas izteiksmes ir savstarpēji aizvietojamas) ir vietrāži URL, ko izmanto Microsoft Identity Platform, lai atgrieztu lietojumprogrammas, kas pieprasītas. Informāciju par šiem vietrāžiem URL skatiet šajos rakstos:
+Novirzīšanas URI/atbilžu vietrāži URL (abas izteiksmes ir apmaināmas) ir vietrāži URL, ko izmanto Microsoft identitātes platforma, lai atgrieztu lietojumprogrammu pieprasītās pilnvaras. Informāciju par šiem vietrāžiem URL skatiet šajos rakstos:
 
-- [Autentifikācijas plūsmas un lietojumprogrammas scenāriji](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) — informācija par novirzīšanas URI **lietojumprogrammas reģistrācijas** lapā katram scenārijam.
-- [URI/atbildes URL novirzīšanas ierobežojumi](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [Autentifikācijas plūsmas un lietojumprogrammu scenāriji](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) — informācija par novirzīšanas URI **programmas reģistrācijas** lapā katram scenārijam.
+- [Novirzīšanas URI/atbildes vietrāža URL ierobežojumi](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**Es nezinu, kā reģistrēt pareizo savas lietojumprogrammas Pārvirzīšanas URI/atbildes vietrādi URL**
+**Es nezinu, kā reģistrēt pareizo novirzīšanas URI/atbildes vietrādi URL manai lietojumprogrammai**
 
-Kad pierakstāties ar lietojumprogrammu, ko veidojat, ja pierakstīšanās dialogs parāda **AADSTS50011: pieprasījumā norādītais atbildes vietrādis URL neatbilst programmā <your app ID> konfigurētajiem atbilžu vietrāžiem URL**, jums ir jāpievieno lietojumprogrammas reģistrācija, kas norāda, ka jūsu kods, ko izmanto marķierierīces pieprasījumā, norāda uz Microsoft identitātes platformu.
+Ja pierakstāties ar izstrādājamo lietojumprogrammu un pierakstīšanās dialoglodziņā tiek parādīts **AADSTS50011: pieprasījumā norādītais atbildes vietrādis URL neatbilst lietojumprogrammai <your app ID>** konfigurētajiem atbilžu vietrāžiem URL, jums ir jāpievieno lietojumprogrammas reģistrācijai novirzīšanas URI, kuru jūsu kods izmantoja pilnvaras pieprasījumā Microsoft identitātes platformai.
 
-Lai pievienotu atbildes vietrādi URL, Azure portālā atveriet  lapu **lietojumprogrammas reģistrācija** un pievienojiet ierakstu sadaļā **novirzīšanas URI** . Pārvirzīšanas URI ir ierakstīts (tīmeklī vai mobilajā datorā). Vērtība, kas jāievada, ir atkarīga no veidojamās lietojumprogrammas tipa, kā aprakstīts tālāk.
+Lai pievienotu atbildes vietrādi URL, Azure portāla **lietojumprogrammu reģistrācijas** lapā dodieties uz cilni **Autentifikācija** un pievienojiet ierakstu sadaļā **Novirzīšanas URI**. Ievadāmā vērtība ir atkarīga no izstrādājamās lietojumprogrammas tipa, kā aprakstīts tālāk:
 
-- Lai iegūtu atsevišķas lapas lietojumprogrammas un tīmekļa lietojumprogrammas, atbildes vietrādis URL ir vietrādis URL savā lietojumprogrammā. Skatīt [vienas lapas lietojumprogrammas reģistrāciju](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) vai [reģistrēt tīmekļa lietojumprogrammas programmu, izmantojot Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- Datora programmu gadījumā nepieciešamā vērtība jāizvēlas atkarībā no tā, vai:
-    - platforma (MacOS atšķiras no Windows vai Linux)
-    - veids, kādā jūs iegūstat pilnvarojumu (interaktīvi, ar ierīces koda plūsmu, ar integrētu Windows autentifikāciju [IWA] vai ar lietotājvārdu/paroli).
-    Detalizētu informāciju skatiet rakstā [datora lietojumprogrammas — lietojumprogrammu reģistrācija — novirzīšanas URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- Vienas lapas lietojumprogrammām un tīmekļa lietojumprogrammām atbildes vietrādis URL ir vietrādis URL jūsu lietojumprogrammā. Skatiet rakstu [Vienas lapas lietojumprogrammas reģistrācija](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) vai [Tīmekļa programmas reģistrācija, izmantojot Azure portālu](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- Datora programmām ievadāmā vērtība ir atkarīga no:
+    - platformas (MacOS atšķiras no Windows vai Linux)
+    - veida, kā iegūstat pilnvaru (interaktīvi, ar ierīces kodu plūsmu, ar integrēto Windows autentifikāciju [IWA] vai ar lietotājvārdu/paroli).
+    Detalizētu informāciju skatiet sadaļā [Datora programmas — Programmu reģistrācija — Novirzīšanas URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - Mobilajām lietojumprogrammām novirzīšanas URI ir atkarīgs no:
-    - platforma (iOS/Android/UWP)
-    - informāciju, kas tiek izmantota lietojumprogrammas izveidei, piemēram, paketes ID iOS ierīcē, un pakotnes nosaukumu un paraksta hash Android ierīcē Azure Portal lietojumprogrammu Reģistrācija palīdzēs jums. Detalizētu informāciju skatiet rakstā [platformas konfigurēšana un URI novirzīšana](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - platformas (iOS/Android/UWP)
+    - informācijas, kas izmantota jūsu programmas izstrādei, piemēram, komplekta ID operētājsistēmā iOS, un pakotnes nosaukuma un paraksta jaukšanas operētājsistēmā Android. Jums palīdzēs Azure portāla programmu reģistrācija. Detalizētu informāciju skatiet rakstā [Platformas konfigurācija un novirzīšanas URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> Tīmekļa API un dažiem slēptajiem veidiem, kā iegūt marķierus (IWA un username/password), nav nepieciešams novirzīt URI.
+> Tīmekļa API un dažiem nemanāmiem pilnvaru iegūšanas veidiem (IWA un lietotājvārds/parole) nav nepieciešams novirzīšanas URI.
 
-**Esmu izvietojis savu tīmekļa lietojumprogrammu, un, testējot izcelto lietojumprogrammu, tiek parādīts ziņojums par atbildes vietrādi URL neatbilstību**
+**Esmu izvietojis savu tīmekļa lietojumprogrammu, un, testējot izvietoto programmu, tiek parādīts atbildes vietrāža URL neatbilstības ziņojums**
 
-Pievienojiet Pārvirzīšanas URI visām atrašanās vietām, kurās tiek izvietota tīmekļa lietojumprogramma. Papildinformāciju skatiet rakstā [tīmekļa lietojumprogrammas lietojumprogrammas reģistrēšana, izmantojot Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+Pievienojiet novirzīšanas URI visām atrašanās vietām, kurās izvietojat savu tīmekļa lietojumprogrammu. Papildinformāciju skatiet rakstā [Tīmekļa programmas reģistrācija, izmantojot Azure portālu](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
 > [!NOTE]
-> Pievienojiet novirzīšanas URI atrašanās vietai tūlīt pēc tam, kad esat izvietojis lietojumprogrammu šajā atrašanās vietā.
+> Pievienojiet novirzīšanas URI atrašanās vietai uzreiz pēc tam, kad esat izvietojis lietojumprogrammu šajā atrašanās vietā.
 
-**Nevaru reģistrēt pietiekami daudz atbildes URL**
+**Nevaru reģistrēt pietiekami daudz atbilžu vietrāžu URL**
 
-Jūs esat ISV un jums ir viens vai vairāki novirzīšanas URI visiem klientiem. Jūs vēlaties migrēt no ADAL/Azure AD v 1.0 uz MSAL/Microsoft identitātes platformu, un jūs nosita [maksimālo Pārvirzīšanas URI skaitu](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Lai atrisinātu šo problēmu, [pievienojiet novirzīt URI pakalpojumu principāliem](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) , kas atbilst katram jūsu klientiem.
+Jūs esat ISV, un jums ir viens vai vairāki novirzīšanas URI katram jūsu klientam. Jūs vēlaties migrēt no ADAL/Azure AD v1.0 uz MSAL/Microsoft identitātes platformu un esat sasniedzis [maksimālo novirzīšanas URI skaitu](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Lai šo problēmu atrisinātu, [pievienojiet novirzīšanas URI uz pakalpojumu identitātēm](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals), kas atbilst katram jūsu klientam.

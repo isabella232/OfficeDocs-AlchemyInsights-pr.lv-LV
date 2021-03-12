@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602119"
+ms.locfileid: "50707853"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Iegādāties Microsoft Defender darbam ar Office 365
 
-Microsoft Defender darbam ar Office 365 ir iekļauts noteiktos abonementos, piemēram, Microsoft 365 E5, Office 365 E5, Office 365 A5 un Microsoft 365 Business Premium. Ja jūsu abonementā nav iekļauta Microsoft Defender pakalpojumam Office 365, varat iegādāties [Microsoft Defender pakalpojumam office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kā pievienojumprogrammu noteiktam abonementam. Lai iegādātos Microsoft 365 administrēšanas centru:
+Microsoft Defender darbam ar Office 365 ir iekļauts noteiktos abonementos, piemēram, Microsoft 365 E5, Office 365 E5, Office 365 A5 un Microsoft 365 Business Premium. Ja jūsu abonementā nav iekļauta Microsoft Defender pakalpojumam Office 365, varat iegādāties [Microsoft Defender pakalpojumam office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) kā pievienojumprogrammu noteiktam abonementam. Lai iegādātos Microsoft 365 administrēšanas centru:
 
 1. Administrēšanas centrā dodieties uz lapu **norēķinu**  >  [pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 2. Lapas **iegādes pakalpojumi** apakšdaļā sadaļā **pievienojumprogrammas** atrodiet Microsoft Defender darbam ar Office 365 pievienojumprogrammu un atlasiet **Detalizēta informācija**.
