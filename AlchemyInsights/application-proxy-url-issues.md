@@ -1,10 +1,10 @@
 ---
-title: Lietojumprogrammas starpniekservera URL problēmas
+title: Lietojumprogrammas starpniekprogrammas URL problēmas
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50036046"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641489"
 ---
-# <a name="application-proxy-url-issues"></a>Lietojumprogrammas starpniekservera URL problēmas
+# <a name="application-proxy-url-issues"></a>Lietojumprogrammas starpniekprogrammas URL problēmas
 
-Lai novērstu problēmas, kas saistītas ar lietojumprogrammas starpniekservera vietrādi URL, skatiet rakstu:
+Ar lietojumprogrammas starpniekprogrammas URL saistīto problēmu novēršanai skatiet:
 
-- [Saites lapā nedarbojas lietojumprogrammas starpniekservera lietojumprogrammā](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  — norādījumi, kā novērst problēmas, kāpēc jūsu Azure Active Directory (AD) starpniekservera lietojumprogramma nedarbojas pareizi.
+- [Lietojumprogrammas starpniekprogrammas URL saites nedarbojas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem) ― norādījumi problēmu novēršanai par to, kāpēc saites jūsu Azure Active Directory (AD) starpniekprogrammā nedarbojas.
 
-- [Konfigurējiet pielāgotus domēnus ar AZURE ad lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  — informāciju par to, kā izveidot ārēju vietrādi URL saviem lietotājiem.
+- [Pielāgoto domēnu konfigurēšana ar Azure AD lietojumprogrammas starpniekprogrammu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)― informācija par ārējo URL vietrāžu izveidi jūsu lietotājiem.
 
-- [Pārvirziet kodētās saites uz lietojumprogrammām, kas ir publicētas ar AZURE ad lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  — informācija par iekļauto vietrāžu URL tulkošanu
+- [Pārvirzīt iekodētās saites lietojumprogrammām, kas ir publicētas ar Azure AD lietojumprogrammu starpniekprogrammi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation) ― Informācija par iekļauto URL tulkošanu
+
+- [Pielāgotas sākumlapas iestatīšana lietojumprogrammām, kas ir publicētas ar Azure AD lietojumprogrammu starpniekprogrammu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) ― publicējot lietojumprogrammu ar lietojumprogrammu starpniekprogrammu, jūs iestatāt iekšējo URL, taču šī lapa ne vienmēr tiek parādīta lietotājiem. Iestatiet pielāgotu sākumlapu, kas tiek parādīta lietotājiem, kad tie piekļūst lietojumprogrammai. Lietotājiem tiks parādīta jūsu iestatītā sākumlapa neatkarīgi no tā, vai viņi piekļūst lietojumprogrammai no Azure Active Directory sadaļa Manas lietojumprogrammas vai Microsoft 365 lietojumprogrammu palaidēja.
+
+- Jums ir jautājumi par lietojumprogrammas starpniekprogrammas URL konfigurāciju? Lasiet [pievienot lokālo lietojumprogrammu Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+ 
 

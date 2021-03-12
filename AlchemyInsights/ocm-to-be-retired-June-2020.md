@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662764"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704829"
 ---
 # <a name="ocm-to-be-retired-june-2020"></a>OCM ir novecojis jūnijā 2020
 
 
-**2020. gada 30. jūnijs**, Outlook Customer Manager pievienojumprogramma un mobilā programma būs novecojusi. **Pirms šī datuma**varat **eksportēt datus** no tiem.  
+**2020. gada 30. jūnijs**, Outlook Customer Manager pievienojumprogramma un mobilā programma būs novecojusi. **Pirms šī datuma** varat **eksportēt datus** no tiem.  
 
 Varat pārbaudīt, kuras personas jūsu organizācijā ir Microsoft 365 Business Standard (iepriekš zināma kā Office 365 Business Premium) vai Microsoft 365 Business Premium (iepriekš zināma kā Microsoft 365 Business) abonementa plāns ar tiesībām uz Outlook Customer Manager, noklikšķinot [šeit](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
 
-Papildinformāciju skatiet rakstā:
+Papildinformāciju skatiet šeit:
 
 - [Outlook klientu pārvaldnieka datu eksportēšana vai dzēšana](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Bieži uzdotie jautājumi par Outlook Customer Manager](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Bieži uzdotie jautājumi par Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)
