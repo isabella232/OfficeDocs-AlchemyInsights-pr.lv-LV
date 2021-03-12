@@ -13,18 +13,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7bf64c009235bc1dbd3e922296ff6c4bb239450
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700750"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708285"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Izdzēsto vienumu atjaunošana no SharePoint
 
 Izdzēšot vienumu vai vietni no SharePoint, tas netiek noņemts tūlīt. Izdzēstie vienumi tiek ievietoti atkritnē noteiktā laika periodā. Šajā laikā varat atjaunot vienumus, kurus izdzēsāt to sākotnējā atrašanās vietā. Lai iegūtu papildinformāciju, skatiet tālāk norādītās saites.
 
-- [Vienumu atjaunošana SharePoint vietnes atkritnē](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Vienumu atjaunošana SharePoint vietnes atkritnē](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 - [Izdzēsto failu un mapju atjaunošana pakalpojumā OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 

@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
 ms.openlocfilehash: 34d7b9195ff7d8d8d43da173a4c77643080ef67e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801407"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "50713998"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Microsoft 365 grupas atjaunošana, izmantojot Exchange administrēšanas centru
 
-1. Microsoft 365 administrēšanas centra kreisajā navigācijas rūtī izvērsiet **administrēšanas centrs**un pēc tam izvēlieties **Exchange**.
+1. Microsoft 365 administrēšanas centra kreisajā navigācijas rūtī izvērsiet **administrēšanas centrs** un pēc tam izvēlieties **Exchange**.
     
-2. Exchange administrēšanas centrā atlasiet **adresāti**un pēc tam izvēlieties **grupas**. Varat skatīt, vai grupa ir aktīva vai izdzēsta. Ja grupa ir neatgriezeniski izdzēsta, tā nav norādīta.
+2. Exchange administrēšanas centrā atlasiet **adresāti** un pēc tam izvēlieties **grupas**. Varat skatīt, vai grupa ir aktīva vai izdzēsta. Ja grupa ir neatgriezeniski izdzēsta, tā nav norādīta.
     
 3. Lai skatītu precīzu laiku, kad grupa tika klusa izdzēsta, atlasiet grupu un skatiet informāciju labajā rūtī.
     
