@@ -1,29 +1,31 @@
 ---
-title: Problēmas ar iekāpšanas mašīnas
+title: Problēmas ar pievienošanas mašīnām Microsoft Defender galapunktiem
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141653"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901574"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problēmas ar iekāpšanas mašīnas
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problēmas ar pievienošanas mašīnām Microsoft Defender galapunktiem
 
-Iespējams, ir problēmas ar iekāpšanas mašīnas MDATP pakalpojumu. Ja varat piekļūt lietotāja datoram, rīkojieties šādi:
+Jums var rasties problēmas pievienošanas mašīnām ar MDE pakalpojumam. Ja varat piekļūt lietotāja mašīnai, veiciet tālāk norādītās darbības:
 
-1. Lejupielādējiet klienta [savienojamības analizatora](https://aka.ms/mdatpanalyzer) diagnostikas rīku.
-2. Ekstrakts un palaist MDATPAnalyzer.cmd.
-3. Atrodiet diagnostikas žurnālu mapē ar nosaukumu MDATPClientAnalyzerResult, tajā pašā mapē, kurā tiek lejupielādēts rīks Analyzer.
-4. Pārskatiet žurnālfailu, MDATPClientAnalyzer.txt, lai atrastu savienojamības vai interneta starpniekservera iestatījumu problēmas.
+1. Lejupielādējiet jaunāko [MDE klienta analīzes priekšskatījuma versijas](https://aka.ms/betamdeanalyzer) diagnostikas rīku.
+2. Ar peles labo pogu noklikšķiniet uz **MDEClientAnalyzer.cmd** un atlasiet ‘Run as administrator’ (‘Palaist kā administratoram’).
+3. Sekojiet norādījumiem, kas ieteikti **MDEClientAnalyzer.htm**.
+4. Lai iegūtu papildu izvērstākus žurnālus, pārskatiet izveidoto apakšmapi ar nosaukumu **MDEClientAnalyzerResult**.
+5. Ja nepieciešami papildu norādījumi, sazinieties ar [Microsoft Defender uzlaboto pretdraudu aizsardzību](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support), un nodrošiniet iegūto MDEClientAnalyzerResult.zip failu analīzei.
