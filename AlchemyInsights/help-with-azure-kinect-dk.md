@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: 180af08085efeea411f0c8ec21cdd537b24842fa
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036541"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122850"
 ---
-# <a name="help-with-azaure-kinect-dk"></a>Palīdzība par Azaure Kinect DK
+# <a name="help-with-azure-kinect-dk"></a>Palīdzība par Azure Kinect DK
 
 Azure Kinect DK sākuma palīglīnijas (iestatīšana, izstrādātāja palīdzība), padomi un problēmu novēršana skatiet [Azure Kinect DK dokumentācijā](https://docs.microsoft.com/azure/kinect-dk/).
 
