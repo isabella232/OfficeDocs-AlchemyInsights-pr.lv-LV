@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fe3cc8693e41639de590450fc4b678c44bd9e784
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678078"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122886"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="168fe-102">Microsoft 365 lietojumprogrammu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku</span><span class="sxs-lookup"><span data-stu-id="168fe-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="ed807-102">Microsoft 365 lietojumprogrammu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku</span><span class="sxs-lookup"><span data-stu-id="ed807-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
 
-<span data-ttu-id="168fe-103">Organizācijām, kas izmanto konfigurācijas pārvaldnieku, varat izmantot [microsoft 365 programmu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku](https://admin.microsoft.com/adminportal/home#/oppinstall) , lai ģenerētu skriptu, kas automātiski konfigurēs jūsu Microsoft 365 lietojumprogrammu izvietošanu, izmantojot FastTrack inženieru ieteiktās labākās prakses.</span><span class="sxs-lookup"><span data-stu-id="168fe-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://admin.microsoft.com/adminportal/home#/oppinstall) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
+<span data-ttu-id="ed807-103">Organizācijām, kas izmanto konfigurācijas pārvaldnieku, varat izmantot [microsoft 365 programmu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku](https://go.microsoft.com/fwlink/?linkid=2146549) , lai ģenerētu skriptu, kas automātiski konfigurēs jūsu Microsoft 365 lietojumprogrammu izvietošanu, izmantojot FastTrack inženieru ieteiktās labākās prakses.</span><span class="sxs-lookup"><span data-stu-id="ed807-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://go.microsoft.com/fwlink/?linkid=2146549) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
 
-<span data-ttu-id="168fe-104">Izmantojiet šo rokasgrāmatu, lai veidotu savas izvietošanas grupas, pielāgotu savas Office programmas un līdzekļus, konfigurētu dinamiskās vai nojumes instalācijas un pēc tam palaistu skriptu, lai izveidotu lietojumprogrammas, automātisko izvietošanas kārtulas un ierīču kolekcijas, kas nepieciešamas izvietošanai.</span><span class="sxs-lookup"><span data-stu-id="168fe-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
+<span data-ttu-id="ed807-104">Izmantojiet šo rokasgrāmatu, lai veidotu savas izvietošanas grupas, pielāgotu savas Office programmas un līdzekļus, konfigurētu dinamiskās vai nojumes instalācijas un pēc tam palaistu skriptu, lai izveidotu lietojumprogrammas, automātisko izvietošanas kārtulas un ierīču kolekcijas, kas nepieciešamas izvietošanai.</span><span class="sxs-lookup"><span data-stu-id="ed807-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
