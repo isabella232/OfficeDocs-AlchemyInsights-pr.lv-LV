@@ -1,5 +1,5 @@
 ---
-title: Darba sākšana ar attālinātu Windows 10 ierīču atkļūdošanu
+title: Darba sākšana ar attāli atkļūdošanas Windows 10 ierīcēm
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583552"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398571"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darba sākšana ar attālinātu Windows 10 ierīču atkļūdošanu
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darba sākšana ar attāli atkļūdošanas Windows 10 ierīcēm
 
-Lai attāli atkļūdotu Windows 10 ierīcē pieejamo tiešo saturu no Windows vai macOS datora:
+Lai attāli atkļūdotu tiešo saturu Windows 10 ierīcē no Windows vai macOS datora:
 
-1. Iestatiet savu Windows 10 ierīci attālajai atkļūdošanai un pēc tam izveidojiet savienojumu ar to no izstrādes datora.
-2. Savā Windows 10 ierīcē pārbaudīt un atkļūdot savu tiešo saturu no jūsu izstrādes datora.
-3. Screencast saturu no savas Windows 10 ierīces uz DevTools instanci savā izstrādes datorā.
+1. Iestatiet savu Windows 10 ierīci attālajai atkļūdošanai un pēc tam izveidojiet ar to savienojumu no izstrādes datora.
+2. Pārbaudiet un atkļūdojiet tiešo saturu savā Windows 10 ierīcē no izstrādes datora.
+3. Screencast saturs no Jūsu Windows 10 ierīces izstrādes iekārtā DevTools instancē.
 
-Lai uzzinātu vairāk, skatiet rakstu [Darba sākšana ar Windows 10 ierīču attālo atkļūdošanu, izmantojot Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Papildinformāciju skatiet rakstā [Darba sākšana ar attālo atkļūdošanu Windows 10 ierīcēs, kurās tiek izmantots microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

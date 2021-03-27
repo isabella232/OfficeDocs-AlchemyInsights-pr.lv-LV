@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583433"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398628"
 ---
 # <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Kā Microsoft Edge izmanto Microsoft Defender SmartScreen
 
-Lai aizsargātu tīmekli, Microsoft Edge izmanto Microsoft Defender SmartScreen kā agrās brīdināšanas sistēmu attiecībā uz tīmekļa vietnēm, kuras izdarījušas pikšķerēšanas uzbrukumus un izplatītu ļaunprogrammatūru.
+Lai jūs drošinātu tīmeklī, microsoft Edge izmanto Microsoft Defender SmartScreen kā agrīnu brīdinājuma sistēmu pret vietnēm, kurās tiek pastāvīgi izmantoti pikšķerēšanas uzbrukumi, un izplatīt ļaunprogrammatūru, izmantojot fokusētus uzbrukumus.
 
-Administratori var konfigurēt Microsoft Defender SmartScreen, izmantojot grupas politiku, Microsoft Intune vai mobilo ierīču pārvaldības (MDM) iestatījumus. Atkarībā no tā, kā iestatāt Microsoft Defender SmartScreen, varat rādīt lietotājiem brīdinājumu lapu un ļaut tiem turpināt vietni vai pilnībā bloķēt vietni.
+Administratori var konfigurēt Microsoft Defender SmartScreen, izmantojot grupas politikas, Microsoft Intune vai mobilo ierīču pārvaldības (Mobile Device Management — MDM) iestatījumus. Atkarībā no Microsoft Defender SmartScreen iestatīšanas varat lietotājiem rādīt brīdinājuma lapu un ļaut turpināt vietni vai pilnībā bloķēt vietni.
 
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft Edge atbalsts programmai Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) un [Microsoft Defender lietojumprogrammu aizsargs](https://go.microsoft.com/fwlink/?linkid=2132839).
+Papildinformāciju skatiet rakstā [Microsoft Edge atbalsts programmatūrai Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) un [programmatūrai Microsoft Defender Application Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)

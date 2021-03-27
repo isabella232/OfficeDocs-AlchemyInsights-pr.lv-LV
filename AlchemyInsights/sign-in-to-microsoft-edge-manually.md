@@ -1,5 +1,5 @@
 ---
-title: Pierakstīšanās pārlūkprogrammā Microsoft Edge manuāli
+title: Manuāla pierakstīšanās programmā Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677786"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398664"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Pierakstīšanās pārlūkprogrammā Microsoft Edge manuāli
+# <a name="sign-in-to-microsoft-edge-manually"></a>Manuāla pierakstīšanās programmā Microsoft Edge
 
-Ja lietotājam nav automātiskas pierakstīšanās pirmās palaišanas darbības laikā, lietotājs var manuāli pierakstīties, izmantojot pārlūkprogrammas iestatījumus vai identitātes izlidošanas. Lai pārvaldītu pierakstīšanos, izmantojiet tālāk norādītās politikas.
+Ja lietotājs netiek automātiski pierakstījies pirmās palaišanas laikā, lietotājs var manuāli pierakstīties pārlūkprogrammas iestatījumos vai identitātes izlidošanas logā. Lai pārvaldītu pierakstī-ties, izmantojiet šādas politikas:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) -nodrošināt, lai lietotājam vienmēr būtu darba profils pārlūkprogrammā Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) — lai ierobežotu pierakstīšanos ar uzticamo kontu kopu.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) — lai atspējotu pierakstīšanos vai pieliktu lietotājiem pierakstīties.
+1. [Nav noņemamsProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) — lai nodrošinātu, ka lietotājam vienmēr ir darba profils programmā Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) — lai ierobežotu pierakstīšanos uzticamu kontu kopā.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) — lai atspējotu pierakstīšanos vai liktu lietotājiem pierakstīties.
 
