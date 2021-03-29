@@ -3,7 +3,7 @@ title: Aizdomīgu pārsūtīšanas kārtulu noņemšana
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: b1319a1432546efc62e462aafdea5c826d581764
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 6bbda4191d677a137ea0a834385d48a941050ef5
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482166"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403534"
 ---
 # <a name="remove-suspicious-forwarding-rules"></a>Aizdomīgu pārsūtīšanas kārtulu noņemšana
 
-Veiciet tālāk norādītās darbības, lai noņemtu aizdomīgas pārsūtīšanas kārtulas. Tas ir vēl viens veids, kā hakeriem pārsūtīt lietotāju e-pasta ziņojumus.
+Veiciet šīs darbības, lai noņemtu aizdomīgās pārsūtīšanas kārtulas. Tas ir vēl viens veids, kā urķi paši nosūta lietotāju e-pasta ziņojumus.
 
-1. Ja izmantojat programmu Outlook 2016, cilnē **Sākums** noklikšķiniet uz **kārtulas**  >  **Pārvaldīt kārtulas & brīdinājumus**. 
-1. Cilnē **e-pasta kārtulas** ritiniet sarakstu un izdzēsiet neatpazītās kārtulas.
-1. Ja izmantojat Outlook tīmeklī, noklikšķiniet uz ikonas **iestatījumi** > **Skatīt visus Outlook iestatījumus**.
-1. Noklikšķiniet uz **pārsūtīšana** un pēc tam notīriet visas aizdomīgās pārsūtīšanas kārtulas, kuras neatpazīstat.
+1. Ja izmantojat Outlook 2016,  cilnē Sākums noklikšķiniet uz Kārtulu pārvaldība  >  **& brīdinājumiem.** 
+1. Cilnē **E-pasta** kārtulas ritiniet sarakstu un izdzēsiet visas kārtulas, kuras nepazīstat.
+1. Ja izmantojat Outlook tīmeklī, noklikšķiniet uz iestatījumu **ikonas** un > **Skatīt visus Outlook iestatījumus.**
+1. Noklikšķiniet **uz Pārsūtīšana** un pēc tam notīriet visas nepazīstamās aizdomīgās pārsūtīšanas kārtulas.

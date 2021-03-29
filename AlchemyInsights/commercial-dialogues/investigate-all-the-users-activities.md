@@ -1,9 +1,9 @@
 ---
-title: Visu lietotāju darbību izmeklēšana
+title: Izpētīt visu lietotāju darbības
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: f61cc65b889eb854acbf22314452e8fb1bcc5883
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 391ad9f0e19857a6959667c6a86b143f774156cd
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482292"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403282"
 ---
-# <a name="investigate-all-the-users-activities"></a>Visu lietotāju darbību izmeklēšana
+# <a name="investigate-all-the-users-activities"></a>Izpētīt visu lietotāju darbības
 
-Tālāk ir aprakstīts, kā to paveikt.
+Lūk, kā to paveikt:
 
-1. Dodieties uz [drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **meklēšanas**  >  **[audita žurnālu meklēšana](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Dodieties [uz drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Atlasiet **Meklēt**  >  **[audita žurnāla meklēšanā](https://go.microsoft.com/fwlink/?linkid=2103759)**.
     > [!NOTE]
-    > Ja redzat paziņojumu par to, ka šis līdzeklis ir jāieslēdz, turpiniet to ieslēgt tūlīt. Ja līdzeklis nav ieslēgts, meklēšanas rezultātos nevarēs paņemt datus no iepriekšējiem datumiem.
+    > Ja redzat paziņojumu, ka jums ir jāieslēdz šis līdzeklis, ieslēdziet to tūlīt. Ja līdzeklis nav ieslēgts, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
 
-1. Ja esat ieinteresēts noteiktā aktivitātē, atlasiet to sarakstā **aktivitātes** . Ja nav, pēc noklusējuma visa darbība tiks atgriezta atlasītajam lietotājam.
-1. Norādiet datumu diapazonu un pēc tam lodziņā **lietotāji** atlasiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt. Vienlaikus varat atlasīt vairākus lietotājus.
-1. Noklikšķiniet uz **Meklēt**. Darbības būs redzamas sadaļā **rezultāti**. Redzēsit IP adresi, lietotāja un darbības nosaukumu.
-1. Lai lejupielādētu rezultātus, atlasiet **eksportēt rezultātus**.
-1. Lai pārskatītu detalizētu informāciju, atlasiet aktivitāti un pēc tam izvērsiet sadaļu **Papildinformācija**.
+1. Ja jūs interesē noteikta darbība, atlasiet to **darbību** sarakstā. Ja tā nav, pēc noklusējuma atlasītajam lietotājam tiek atgrieztas visas darbības.
+1. Norādiet datumu diapazonu un pēc tam lodziņā **Lietotāji** atlasiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt. Vienlaikus varat atlasīt vairākus lietotājus.
+1. Noklikšķiniet **uz Meklēt.** Darbības tiek rādītas sadaļā **Rezultāti.** Redzēsit IP adresi, lietotāju un darbības nosaukumu.
+1. Lai lejupielādētu rezultātus, atlasiet **Eksportēt rezultātus**.
+1. Lai pārskatītu detalizēto informāciju, atlasiet darbību un pēc tam izvērsiet **sadaļu Papildinformācija**.
 
-Lai uzzinātu vairāk, skatiet rakstu [meklēšanas audita žurnāls, lai novērstu raksturīgākos scenārijus](https://go.microsoft.com/fwlink/?linkid=2103944).
+Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai novērstu izplatītus scenārijus.](https://go.microsoft.com/fwlink/?linkid=2103944)

@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583445"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402382"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Microsoft Edge politikas iestatījumu konfigurēšana operētājsistēmā Windows
 
-Lai konfigurētu politikas iestatījumus un Microsoft Edge pārvaldītos atjauninājumus, izmantojiet grupas politikas objektus (GPO). Varat arī nodrošināt politiku, izmantojot reģistru. tas būtu piemērots (1) Windows ierīces, kas pievienotas Microsoft Active Directory domēnam, un (2) Windows 10 Pro un Enterprise instances, kuras ir piereģistrētas ierīču pārvaldībai pakalpojumā Microsoft Intune.
+Lai konfigurētu politikas iestatījumus un pārvaldītos atjauninājumus programmatūrai Microsoft Edge, izmantojiet grupas politikas objektus (GPOS). Varat arī nodrošināt politiku, izmantojot reģistru. tas būtu piemērots (1) Windows ierīcēm, kas ir savienotas ar Microsoft Active Directory domēnu un (2) Windows 10 Pro un Enterprise instancēm, kas reģistrētas ierīču pārvaldībai pakalpojumā Microsoft Intune.
 
-Lai konfigurētu Microsoft Edge, izmantojot GPO, veiciet tālāk norādītās darbības.
+Lai konfigurētu Microsoft Edge, izmantojot GPOS, rīkojieties šādi:
 
-1. Grupas politikas centrālā krātuve savā Active Directory domēnā vai politikas definēšanas veidnes mapē atsevišķos datoros, instalējiet visas administratīvās veidnes, kas pievieno kārtulu un Microsoft Edge iestatījumus.
-2. Konfigurējiet konkrētās politikas, ko vēlaties iestatīt.
+1. Dodieties uz grupas politikas centrālo krātuvi savā Active Directory domēnā vai politikas definīcijas veidnes mapē atsevišķos datoros instalējiet visas administratīvās veidnes, kas pievieno microsoft Edge kārtulas un iestatījumus.
+2. Konfigurējiet noteiktas politikas, ko vēlaties iestatīt.
 
-Papildinformāciju skatiet rakstā [Microsoft Edge politikas iestatījumu konfigurēšana](https://go.microsoft.com/fwlink/?linkid=2135024)operētājsistēmā Windows.
+Papildinformāciju skatiet rakstā [Microsoft Edge politikas iestatījumu konfigurēšana operētājsistēmā Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)

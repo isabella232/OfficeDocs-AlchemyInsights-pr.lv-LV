@@ -1,9 +1,9 @@
 ---
-title: Konta atbloķēšana, izmantojot draudu pārvaldību
+title: Konta atbloķēšana, izmantojot apdraudējumu pārvaldību
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5092f87abb99c8b8612d3aa0384dcb65a7c56912
-ms.sourcegitcommit: 9181153a51a8624d5e83ca5824c3865c85d0644e
+ms.openlocfilehash: 56df5d66df9559663fbb34ae2349d3e6d01dd678
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841609"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403030"
 ---
-# <a name="unblock-an-account-by-using-threat-management"></a>Konta atbloķēšana, izmantojot draudu pārvaldību
+# <a name="unblock-an-account-by-using-threat-management"></a>Konta atbloķēšana, izmantojot apdraudējumu pārvaldību
 
-Tālāk ir aprakstīts, kā to paveikt. 
+Lūk, kā to paveikt: 
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **Threat Management**  >  **Review**. Lapā **Pārskatīšana** atlasiet **[ierobežotie lietotāji](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Ja sarakstā tiek rādīts kompromitēts konts, noklikšķiniet uz **atbloķēt kontu**. Kontam ir jābūt iespējai sūtīt ziņojumus atkārtoti, parasti pēc stundas.
+1. Dodieties [uz Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Atlasiet **Apdraudējumu pārvaldības**  >  **pārskatīšana**. Pārskatīšanas **lapā** atlasiet **[Ierobežotie lietotāji](https://go.microsoft.com/fwlink/?linkid=2103514)**.
+1. Ja sarakstā tiek rādīts apdraudētais konts, noklikšķiniet uz **Atbloķēt kontu.** Kontam vajadzētu būt iespējai nosūtīt ziņojumus vēlreiz, parasti stundas laikā.

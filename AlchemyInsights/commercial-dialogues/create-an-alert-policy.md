@@ -1,9 +1,9 @@
 ---
-title: Brīdinājumu politikas izveide
+title: Brīdinājuma politikas izveide
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 20a379a4e6ad7e9a14b1eaae21db1c8cee129cdc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482759"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403606"
 ---
-# <a name="create-an-alert-policy"></a>Brīdinājumu politikas izveide
+# <a name="create-an-alert-policy"></a>Brīdinājuma politikas izveide
 
-Tālāk ir aprakstīts, kā to izdarīt.
+Lūk, kā to paveikt:
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **brīdinājumu**  >  [politikas](https://go.microsoft.com/fwlink/?linkid=2103208).
-1. Atlasiet **+ jauna brīdinājumu politika**. Tiek parādīts izlidošanas ekrāns.
-1. Atbilstoši savām vajadzībām iestatiet lauku **Name**, **Description**, **nopietnība** un **Category** . Atlasiet **Tālāk**.
-1. Atlasiet aktivitāti no **darbības** nolaižamās izvēlnes.
+1. Dodieties [uz Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Atlasiet **Brīdinājumu brīdinājumu**  >  [politikas](https://go.microsoft.com/fwlink/?linkid=2103208).
+1. Atlasiet **+ Jauna brīdinājuma politika**. Tiek parādīta izlidošana.
+1. Atbilstoši savām **vajadzībām** **iestatiet** **laukus Nosaukums,** Apraksts, **Nozīmīgums** un Kategorija. Atlasiet **Tālāk**.
+1. Atlasiet darbību nolaižamajā **izvēlnē** Darbības.
 > [!NOTE]
->  Jūs varat izvēlēties tikai vienu aktivitāti, taču varat pievienot nosacījumus, lai precizētu, ko nosaka politika.
-6. Atlasiet brīdinājumu, kas aktivizēs frekvences, kas atbilst jūsu vajadzībām, un pēc tam atlasiet **Tālāk**.
-7. Izlemiet, vai vēlaties lietotājiem paziņot, kad šis brīdinājums tiek rādīts, atlasot **nosūtīt e-pasta paziņojumus** un izvēloties atbilstošus **e-pasta adresātus**. Atlasiet **Tālāk**.
-8. Kad esat gatavs, pārskatiet iestatījumus. Politiku varat ieslēgt uzreiz, atlasot **Jā, ieslēgt** tūlīt un pēc tam atlasiet **pabeigt**.
+>  Varat izvēlēties tikai vienu darbību, bet varat pievienot nosacījumus, lai precizētu, ko nosaka politika.
+6. Atlasiet brīdinājuma trigera biežumu, kas atbilst jūsu vajadzībām, un pēc tam **atlasiet Tālāk**.
+7. Izlemiet, vai vēlaties informēt personas, kad tiek aktivizēts šis brīdinājums, atlasot Sūtīt **e-pasta paziņojumus** un izvēloties atbilstošus **e-pasta adresātus.** Atlasiet **Tālāk**.
+8. Kad esat pabeidzis, pārskatiet iestatījumus. Politiku varat ieslēgt uzreiz, atlasot **Jā, tūlīt to ieslēgt un** pēc tam atlasot **Pabeigt**.
 
-Papildinformāciju skatiet rakstā brīdinājumu politikas iestatījumi
+Papildinformāciju skatiet rakstā Brīdinājumu politikas iestatījumi.
 

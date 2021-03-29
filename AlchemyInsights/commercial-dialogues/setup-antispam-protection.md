@@ -1,9 +1,9 @@
 ---
-title: Aizsardzība pret surogātpastu
+title: Pretsurogātpasta aizsardzības iestatīšana
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 3a9408f94b72770669e75272307c932303666d6b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482130"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401842"
 ---
-# <a name="set-up-an-anti-spam-protection"></a>Aizsardzība pret surogātpastu
+# <a name="set-up-an-anti-spam-protection"></a>Pretsurogātpasta aizsardzības iestatīšana
 
-Tālāk ir aprakstīts, kā to paveikt.
+Lūk, kā to paveikt:
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pārejiet uz **draudu pārvaldības**  >  **politiku** un noklikšķiniet uz **[anti-surogātpasts](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Cilnē **Pielāgota** ieslēdziet opciju **pielāgotie** iestatījumi.
-1. Izvērsiet **noklusējuma surogātpasta filtrēšanas politika**, noklikšķiniet uz **Rediģēt politiku** un pēc tam norādiet tālāk norādītos iestatījumus.
-    1. Sadaļā **surogātpasts un lielapjoma darbības** iestatiet slieksni vērtība 5 vai 6.
+1. Dodieties [uz Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Pārejiet uz **apdraudējumu**  >  **pārvaldības politiku** un noklikšķiniet uz **[Pretsurogātpasta .](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
+1. Cilnē **Pielāgots** ieslēdziet opciju **Pielāgotie** iestatījumi.
+1. Izvērsiet noklusējuma **surogātpasta filtra politiku,** noklikšķiniet **uz Rediģēt politiku** un pēc tam norādiet tālāk norādītos iestatījumus.
+    1. Sadaļā **Surogātpasts un lielapjoma** darbības iestatiet slieksni kā 5 vai 6.
 1. Noklikšķiniet uz **Saglabāt**.
 
-Lai uzzinātu vairāk par savām pretsurogātpasta politikas opcijām, skatiet rakstu surogātpasta [politikas konfigurēšana](https://go.microsoft.com/fwlink/?linkid=2092051).
+Papildinformāciju par surogātpasta novēršanas politikas opcijām skatiet rakstā [Pretsurogātpasta politiku konfigurēšana.](https://go.microsoft.com/fwlink/?linkid=2092051)
