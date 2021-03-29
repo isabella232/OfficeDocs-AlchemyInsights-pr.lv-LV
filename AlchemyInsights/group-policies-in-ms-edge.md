@@ -1,5 +1,5 @@
 ---
-title: Grupu politikas pārlūkprogrammā Microsoft Edge
+title: Grupu politikas programmā Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583446"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403354"
 ---
-# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="99737-102">Grupu politikas pārlūkprogrammā Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="99737-102">Group policies in Microsoft Edge</span></span>
+# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="d4e3c-102">Grupu politikas programmā Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="d4e3c-102">Group policies in Microsoft Edge</span></span>
 
-<span data-ttu-id="99737-103">Izmantojiet pārlūkprogrammā Microsoft Edge pieejamās [grupu politikas](https://go.microsoft.com/fwlink/?linkid=2134623) (versija 77 vai jaunāka), lai norādītu, kā pārlūkprogramma darbojas jūsu organizācijā.</span><span class="sxs-lookup"><span data-stu-id="99737-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
+<span data-ttu-id="d4e3c-103">Izmantojiet microsoft [Edge (77](https://go.microsoft.com/fwlink/?linkid=2134623) vai jaunākā versijā) pieejamās grupu politikas, lai norādītu, kā pārlūkprogramma darbojas jūsu organizācijā.</span><span class="sxs-lookup"><span data-stu-id="d4e3c-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
