@@ -1,5 +1,5 @@
 ---
-title: Politiku piešķiršana pakalpojumā Microsoft Teams
+title: Politiku piešķiršana programmā Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036029"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401806"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>Politiku piešķiršana pakalpojumā Microsoft Teams
+# <a name="assign-policies-in-microsoft-teams"></a>Politiku piešķiršana programmā Microsoft Teams
 
-- Lai varētu viegli pārvaldīt politikas savā organizācijā, komandas piedāvā vairākus veidus, kā lietotājiem piešķirt politikas. Piešķiriet politiku tieši lietotājiem, vai nu atsevišķi, vai ar skalu, izmantojot pakešuzdevumu, vai grupu, kurā lietotāji ir dalībnieki.  Pašlaik politikas piešķiršana grupām, kas izmanto Microsoft Teams administrēšanas centru, ir pieejama tikai konkrētiem politikas tipiem. 
-- Katram politikas tipam lietotājam ir viena efektīva politika. Lai pārskatītu secību, kādā politikas tiek lietotas lietotājiem, skatiet rakstu [kāda politika dominē?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Papildinformāciju skatiet rakstā [politikas piešķiršana lietotājiem pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
+- Lai ērti pārvaldītu politikas savā organizācijā, Teams piedāvā vairākus veidus, kā lietotājiem piešķirt politikas. Piešķiriet politiku tieši lietotājiem atsevišķi vai mērogā, izmantojot pakešu piešķiršanu, vai grupai, kurā lietotāji ir dalībnieki.  Pašlaik politikas piešķiršana grupām, kuras izmanto Microsoft Teams administrēšanas centru, ir pieejama tikai noteiktiem politikas veidiem. 
+- Lietotājam ir viena efektīva politika katram politikas tipam. Lai pārskatītu secību, kādā politikas tiek piemērotas lietotājiem, skatiet sadaļu [kurai politikai ir prioritāte?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Papildinformāciju skatiet rakstā [Politikas piešķiršana lietotājiem Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
