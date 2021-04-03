@@ -1,5 +1,5 @@
 ---
-title: Yammer pārvalda visu uzņēmumu grupu
+title: Yammer Manage All Company Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688845"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505435"
 ---
-# <a name="all-company-group"></a>Visa uzņēmuma grupa
+# <a name="all-company-group"></a>All Company Group
 
-Veidojot Yammer tīklu, tiek automātiski izveidota grupa **viss uzņēmums** . Tā ir noklusējuma sistēmas grupa, kuru nevar pārdēvēt vai izdzēst. Ikviens var izlikt ziņu grupai **visa sabiedrība** , bet tikai Yammer tīkla administratori var publicēt paziņojumus šai grupai. Izmantojiet **grupas ieskatus**, lai skatītu informāciju par iesaistīšanos grupā **viss uzņēmums** .
+Visa uzņēmuma kopiena tagad atbalsta līdzīgas iespējas citām kopienām pakalpojumā Yammer. Tas ietver dažādas opcijas, piemēram, titullapu fotoattēlus un nosaukumu saukšanu. Pakalpojumā Yammer ir iespējams arī ierobežot ziņas Viss uzņēmums. Papildinformāciju skatiet rakstā Viss [uzņēmums tagad darbojas kā citas Yammer kopienas.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 
-Papildinformāciju skatiet rakstā [grupas pārvaldīšana pakalpojumā Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Bieži sastopamās problēmas un risinājumi
+
+- Tīkla administratoriem nav pieejams viss uzņēmuma pielāgošanas vai publicēšanas ierobežojums. Atveriet pakalpojuma pieprasījumu, lai iespējotu moderno grupu Viss uzņēmums.
+
+- Kopienas ieskati nerāda vecos datus. Tagad, kad viss uzņēmums ir reāla kopiena, tīkla iepriekšējie dati nav redzami.
+
+- Šķiet, ka viss uzņēmums tiek izdzēsts. Ja kopiena ir savienota ar Microsoft 365 grupu, šo grupu var izdzēst. Microsoft 365 grupa ir jāatjauno nomniekā.
+

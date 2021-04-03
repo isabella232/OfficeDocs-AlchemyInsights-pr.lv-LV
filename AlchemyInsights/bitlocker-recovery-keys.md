@@ -1,5 +1,5 @@
 ---
-title: BitLocker atkopšanas atslēgas
+title: Bitlocker atkopšanas atslēgas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685893"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505075"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Piekļuve BitLocker atkopšanas taustiņiem
+# <a name="accessing-bitlocker-recovery-keys"></a>Piekļuve Bitlocker atkopšanas atslēgām
 
-Konfigurējot BitLocker iestatījumu Intune galapunktu aizsardzības politiku, ir iespējams definēt, vai BitLocker atkopšanas informācija ir jāglabā Azure Active Directory.
+Konfigurējot Bitlocker iestatījumus Intune galapunktu aizsardzības politiku, ir iespējams definēt, vai Bitlocker atkopšanas informācija jāglabā Azure Active Directory.
 
-Ja šis iestatījums ir konfigurēts, saglabātajiem atkopšanas datiem ir jābūt redzamiem Intune administrators kā daļa no ierīces ieraksta datiem Intune ierīces diskam divējādi:
+Ja šis iestatījums ir konfigurēts, saglabātajiem atkopšanas datiem jābūt redzamiem Intune administratoram kā daļa no ierīces ierakstu datiem Intune ierīču asmenī divos veidos:
 
-Ierīces — Azure AD ierīces — > "ierīce" vai ierīces-> visas ierīces-> "ierīce" — > atkopšanas atslēgas
+Ierīces - Azure AD ierīces -> "Ierīce" OR ierīces -> Visas ierīces -> "Ierīce" -> atkopšanas atslēgas
 
-Vai arī, ja pastāv administratora piekļuve pašai ierīcei, atkopšanas atslēgu (paroli) var redzēt, izpildot šādu komandu no privileģētas komandu uzvednes:
+Alternatīvi, ja pašai ierīcei ir administratīva piekļuve, atkopšanas atslēgu (paroli) var skatīt, priviliģētā komandu uzvednē izpildot šādu komandu:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Ja ierīce tika šifrēta pirms reģistrācijas Intune, atkopšanas atslēga var būt saistīta ar Microsoft kontu (PPL), kas tiek izmantots, lai pierakstītos ierīcē OOBE procesa laikā. Ja tas tā bija, piekļūstot  https://onedrive.live.com/recoverykey un pierakstoties ar šo ppl, ir jāparāda ierīces, kurām ir saglabātas atkopšanas atslēgas.
+Ja ierīce tika šifrēta, pirms iereģistrējat Intune, atkopšanas atslēga, iespējams, ir saistīta ar "Microsoft kontu" (MSA), kas izmantota, lai OOBE procesa laikā pierakstītos ierīcē. Šādā gadījumā, piekļūstot šai MSA un pierakstoties tajā, ir jābūt parādītām ierīcēm,  https://onedrive.live.com/recoverykey kurām tika glabātas atkopšanas atslēgas.
  
-Ja ierīce ir šifrēta kā konfigurācija, kas balstīta uz domēnu grupas politiku, atkopšanas informācija var būt saglabāta lokālajā Active Directory.
- 
+Ja ierīce tika šifrēta, veicot konfigurēšanu, izmantojot domēna grupas politiku, atkopšanas informācija var tikt glabāta lokālajā Active Directory.
+
+Ja esat konfigurējis galapunktu aizsardzības politiku atkopšanas atslēgas glabāšanai pakalpojumā Azure Active Directory, bet konkrētas ierīces atslēga nav augšupielādēta, varat aktivizēt augšupielādi, pagriežot šīs ierīces atkopšanas atslēgu no MEM konsoles. Detalizētu informāciju skatiet rakstā [BitLocker atkopšanas atslēgu pagriešana.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

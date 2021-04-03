@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774711"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505693"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Izdzēstas Microsoft 365 grupas atjaunošana
 
-Izdzēstās grupas tiek saglabātas 30 dienas. Lai atjaunotu izdzēstu grupu:
-  
-1. [Exchange administrēšanas centrā](https://outlook.office365.com/ecp/)kreisajā rūtī atlasiet **adresāti** un pēc tam atlasiet **grupas**. Ja grupa tika izdzēsta ātrāk nekā pirms 30 dienām, tā tiks parādīta sarakstā, bet kolonnā statuss tiks parādīts izdzēstais datums.
+Izdzēstu Microsoft 365 grupu vai Microsoft Teams varat atjaunot 30 dienu laikā pēc dzēšanas.
 
-2. Atlasiet grupu un pēc tam komandjoslā noklikšķiniet uz **atjaunot** , vai noklikšķiniet uz saites "noklikšķiniet šeit, lai atjaunotu" rūtī detalizēta informācija.
+1. Lai pieteiktos Microsoft 365 administrēšanas centrā un uzskaitītu izdzēstās grupas un grupas, dodieties uz [Microsoft 365 administrēšanas centru](https://aka.ms/RestoreDeletedGroup).
 
-Papildinformāciju vai informāciju par to, kā atjaunot grupas, izmantojot PowerShell, skatiet rakstā [izdzēstas Microsoft 365 grupas atjaunošana](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Piezīme.** Piesakieties, izmantojot kontu, kas ir piešķirts nomnieka administratoram vai grupu administratora lomai.
+
+1. Atlasiet izdzēsto Microsoft 365 grupu/grupu, kas jāatjauno, un noklikšķiniet **uz Atjaunot grupu**.
+
+    Ja grupu nevar atjaunot konfliktējošas SMTP adreses dēļ, izmantojiet tālāk norādīto komandu, lai atrastu objektu, kas izraisa konfliktu, un noņemtu SMTP adresi:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Piezīme.** Dažos gadījumos grupas un visu tās datu atjaunošana var ilgt līdz pat 24 stundām.
+
+    Lai iegūtu papildinformāciju vai uzzinātu, kā atjaunot grupas, izmantojot PowerShell, skatiet rakstu [Izdzēstas Microsoft 365 grupas atjaunošana.](https://go.microsoft.com/fwlink/?linkid=867802)
