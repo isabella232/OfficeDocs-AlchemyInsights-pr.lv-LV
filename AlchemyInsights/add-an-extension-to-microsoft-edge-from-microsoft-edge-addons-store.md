@@ -1,5 +1,5 @@
 ---
-title: Pievienojiet Microsoft Edge paplašinājumu no Microsoft Edge pievienojumprogrammu krātuves
+title: Microsoft Edge paplašinājuma pievienošana no Microsoft Edge pievienojumprogrammu veikala
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678445"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505009"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="70e85-102">Pievienojiet Microsoft Edge paplašinājumu no Microsoft Edge pievienojumprogrammu krātuves</span><span class="sxs-lookup"><span data-stu-id="70e85-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="eede5-102">Microsoft Edge paplašinājuma pievienošana no Microsoft Edge pievienojumprogrammu veikala</span><span class="sxs-lookup"><span data-stu-id="eede5-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
 
-<span data-ttu-id="70e85-103">Lai pievienotu Microsoft Edge paplašinājumu no Microsoft Edge pievienojumprogrammu krātuves:</span><span class="sxs-lookup"><span data-stu-id="70e85-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
+<span data-ttu-id="eede5-103">Lai pievienotu microsoft Edge paplašinājumu no Microsoft Edge pievienojumprogrammu veikala:</span><span class="sxs-lookup"><span data-stu-id="eede5-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
 
-- <span data-ttu-id="70e85-104">Atveriet Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="70e85-104">Open Microsoft Edge.</span></span>
-- <span data-ttu-id="70e85-105">Atlasiet **... > paplašinājumi > [iegūt Microsoft Edge paplašinājumus](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span><span class="sxs-lookup"><span data-stu-id="70e85-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
-- <span data-ttu-id="70e85-106">Atlasiet pievienojamo paplašinājumu un pēc tam atlasiet **iegūt**.</span><span class="sxs-lookup"><span data-stu-id="70e85-106">Select the extension you would like to add, and then select **Get**.</span></span>
-- <span data-ttu-id="70e85-107">Apstiprinājuma dialoglodziņā uzmanīgi pārskatiet izmaiņas, kuras var veikt, un atlasiet **Pievienot paplašinājumu**.</span><span class="sxs-lookup"><span data-stu-id="70e85-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
+- <span data-ttu-id="eede5-104">Atveriet microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="eede5-104">Open Microsoft Edge.</span></span>
+- <span data-ttu-id="eede5-105">Atlasiet **... > paplašinājumi > Iegūt Microsoft Edge [paplašinājumus.](https://go.microsoft.com/fwlink/?linkid=2136408)**</span><span class="sxs-lookup"><span data-stu-id="eede5-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
+- <span data-ttu-id="eede5-106">Atlasiet paplašinājumu, kuru vēlaties pievienot, un pēc tam atlasiet **Iegūt**.</span><span class="sxs-lookup"><span data-stu-id="eede5-106">Select the extension you would like to add, and then select **Get**.</span></span>
+- <span data-ttu-id="eede5-107">Apstiprinājuma dialoglodziņā rūpīgi pārskatiet paplašinājuma veiktās modifikācijas un atlasiet **Pievienot paplašinājumu**.</span><span class="sxs-lookup"><span data-stu-id="eede5-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
 
-<span data-ttu-id="70e85-108">Pēc tam jūs saņemsit apstiprinājumu, ka paplašinājums ir pievienots.</span><span class="sxs-lookup"><span data-stu-id="70e85-108">You will then get a confirmation that the extension has been added.</span></span>
+<span data-ttu-id="eede5-108">Pēc tam saņemsiet apstiprinājumu, ka paplašinājums ir pievienots.</span><span class="sxs-lookup"><span data-stu-id="eede5-108">You will then get a confirmation that the extension has been added.</span></span>

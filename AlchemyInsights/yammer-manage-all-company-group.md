@@ -1,5 +1,5 @@
 ---
-title: Yammer pārvalda visu uzņēmumu grupu
+title: Yammer Manage All Company Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688845"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505435"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="4bc71-102">Visa uzņēmuma grupa</span><span class="sxs-lookup"><span data-stu-id="4bc71-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="e2ef7-102">All Company Group</span><span class="sxs-lookup"><span data-stu-id="e2ef7-102">All Company Group</span></span>
 
-<span data-ttu-id="4bc71-103">Veidojot Yammer tīklu, tiek automātiski izveidota grupa **viss uzņēmums** .</span><span class="sxs-lookup"><span data-stu-id="4bc71-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="4bc71-104">Tā ir noklusējuma sistēmas grupa, kuru nevar pārdēvēt vai izdzēst.</span><span class="sxs-lookup"><span data-stu-id="4bc71-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="4bc71-105">Ikviens var izlikt ziņu grupai **visa sabiedrība** , bet tikai Yammer tīkla administratori var publicēt paziņojumus šai grupai.</span><span class="sxs-lookup"><span data-stu-id="4bc71-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="4bc71-106">Izmantojiet **grupas ieskatus**, lai skatītu informāciju par iesaistīšanos grupā **viss uzņēmums** .</span><span class="sxs-lookup"><span data-stu-id="4bc71-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="e2ef7-103">Visa uzņēmuma kopiena tagad atbalsta līdzīgas iespējas citām kopienām pakalpojumā Yammer.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="e2ef7-104">Tas ietver dažādas opcijas, piemēram, titullapu fotoattēlus un nosaukumu saukšanu.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="e2ef7-105">Pakalpojumā Yammer ir iespējams arī ierobežot ziņas Viss uzņēmums.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="e2ef7-106">Papildinformāciju skatiet rakstā Viss [uzņēmums tagad darbojas kā citas Yammer kopienas.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)</span><span class="sxs-lookup"><span data-stu-id="e2ef7-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="4bc71-107">Papildinformāciju skatiet rakstā [grupas pārvaldīšana pakalpojumā Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="4bc71-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="e2ef7-107">Bieži sastopamās problēmas un risinājumi</span><span class="sxs-lookup"><span data-stu-id="e2ef7-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="e2ef7-108">Tīkla administratoriem nav pieejams viss uzņēmuma pielāgošanas vai publicēšanas ierobežojums.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="e2ef7-109">Atveriet pakalpojuma pieprasījumu, lai iespējotu moderno grupu Viss uzņēmums.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="e2ef7-110">Kopienas ieskati nerāda vecos datus.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="e2ef7-111">Tagad, kad viss uzņēmums ir reāla kopiena, tīkla iepriekšējie dati nav redzami.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="e2ef7-112">Šķiet, ka viss uzņēmums tiek izdzēsts.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-112">All Company seems to be deleted.</span></span> <span data-ttu-id="e2ef7-113">Ja kopiena ir savienota ar Microsoft 365 grupu, šo grupu var izdzēst.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="e2ef7-114">Microsoft 365 grupa ir jāatjauno nomniekā.</span><span class="sxs-lookup"><span data-stu-id="e2ef7-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
