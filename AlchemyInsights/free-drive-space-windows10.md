@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036589"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505363"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Diska vietas atbrīvošana operētājsistēmā Windows 10
 
-Tālāk ir divas iespējas, kā atbrīvot vietu diskā operētājsistēmā Windows.
+Šeit ir divas opcijas, lai atbrīvotu diska vietu operētājsistēmā Windows 10:
 
-- Atbrīvojiet vietu diskā operētājsistēmā Windows 10.
-- Atbrīvojiet vietu Windows 10 atjauninājumiem ar ārējās krātuves ierīci.
+- Diska vietas atbrīvošana operētājsistēmā Windows 10.
+- Atbrīvojiet vietu operētājsistēmas Windows 10 atjauninājumiem, izmantojot ārējo krātuves ierīci.
 
-Ja pēc diska tīrīšanas joprojām ir maz brīvas vietas, iespējams, ka jūsu Temp mape ir ātri piepildīta ar lietojumprogrammu (. Appx) failiem, ko izmanto Microsoft Store. Lai novērstu šo problēmu, atiestatiet veikalu, notīriet veikala kešatmiņu un pēc tam palaidiet Windows Update problēmu risinātāju. Pirms turpināt šīs darbības, pārliecinieties, vai Microsoft veikals ir aizvērts.
+Ja pēc diska tīrīšanas izmantošanas vēl joprojām ir maz vietas diskā, iespējams, ka mape Temp ātri tiek piepildīta ar programmas (.appx) failiem, kurus izmanto Microsoft Store. Lai novērstu šo problēmu, atiestatiet Microsoft Store, iztīriet tā kešatmiņu un pēc tam palaidiet Windows Update problēmu risinātāju. Pirms šo darbību veikšanas pārliecinieties, vai Microsoft Store ir aizvērts.
 
 **1. darbība: Microsoft Store atiestatīšana**
 
-**Piezīmes** Šī darbība neatgriezeniski izdzēš lietojumprogrammas datus ierīcē, ieskaitot jūsu preferences un pierakstīšanās informāciju.
+**Piezīme** Tādējādi ierīcē tiks neatgriezeniski izdzēsti programmas dati, tostarp jūsu preferences un pierakstīšanās dati.
 
-1. Atlasiet **Sākt**  >  **iestatījumu**  >  **programmu**  >  **programmas & līdzekļus**.
+1. Atlasiet **Sākt** > **, Iestatījumi** > **, Programmas** > **,Programmas un līdzekļi**.
 
 1. Programmu sarakstā atrodiet un atlasiet Microsoft Store.
 
 1. Atlasiet **Papildu opcijas**.
 
-1. Ritiniet uz leju un atlasiet **Atiestatīt** un pēc tam **apstipriniet atiestatīšanu**.
+1. Ritiniet uz leju un atlasiet **Atiestatīt** un pēc tam **Apstiprināt atiestatīšanu**.
 
 **2. darbība: Microsoft Store kešatmiņas notīrīšana**
 
-1. Nospiediet Windows logotipa taustiņu + R, lai atvērtu palaišanas dialoglodziņu.
+1. Nospiediet taustiņu kombināciju Windows logotipa taustiņš+R, lai atvērtu un palaistu dialoglodziņu.
 
 1. Ierakstiet wsreset.exe un atlasiet **Labi**.
 
-1. Tiek atvērts tukšs komandu uzvednes logs. Pēc aptuveni 10 sekundēm logs tiek aizvērts, un krātuve tiek atvērta automātiski.
+1. Atveras tukšs komandu uzvednes logs. Pēc aptuveni 10 sekundēm logs aizveras un Microsoft Store atveras automātiski.
 
-**3. darbība: atiestatiet Windows Update**
+**3. darbība: Windows Update atiestatīšana**
 
-1. Atlasiet **Sākt**  >  **iestatījumu**  >  **atjaunināšanu & drošības**  >  **problēmu novēršana**.
+1. Atlasiet **Sākt** > **, Iestatījumi** > **, Atjauninājumi un drošība** > **, Problēmu novēršana**.
 
-1. Ritiniet uz leju un sarakstā atlasiet **Windows Update** un atlasiet **palaist problēmu risinātāju**.
+1. Ritiniet uz leju un sarakstā atlasiet **Windows Update** un pēc tam atlasiet **Palaist problēmu risinātāju**.
 
-1. Restartējiet datoru un pārbaudiet, vai joprojām rodas problēma.
+1. Restartējiet datoru un pārbaudiet, vai problēma joprojām pastāv.
 
