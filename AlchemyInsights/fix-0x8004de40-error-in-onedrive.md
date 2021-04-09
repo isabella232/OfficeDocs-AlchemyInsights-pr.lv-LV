@@ -1,5 +1,5 @@
 ---
-title: 0x8004de40 kļūdas novēršana pakalpojumā OneDrive
+title: Pakalpojuma 0x8004de40 labošana pakalpojumā OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745137"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649755"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>0x8004de40 kļūdas novēršana pakalpojumā OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Pakalpojuma 0x8004de40 labošana pakalpojumā OneDrive
 
-Ja saņemat 0x8004de40 kļūdu pakalpojumā OneDrive:
+Ja jūsu datorā darbojas sistēma Windows 7 un tiek parādīta šī kļūda, atjauniniet, lai iespējotu [TLS 1.1 un TLS 1.2 kā noklusējuma drošos protokolus sistēmā WinHTTP sistēmā Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
-- Atsāknējiet ietekmēto datoru, kamēr ir izveidots savienojums ar savu aktivs direktorija domēnu.
-- Ja atsāknēšana nenovērš problēmu, Atsaistiet un atkārtoti Pievienojieties ierīcei no Azure AD. 
+Ja datorā darbojas operētājsistēma Windows 10 un saņemat kļūdas 0x8004de40 saistībā ar OneDrive:
 
-**Piezīme**. veicot šīs darbības, jums jāatrodas korporatīvajā tīklā. Neveiciet šīs darbības, ja nevarat izveidot savienojumu ar savas korporatīvās infrastruktūras (piemēram, ceļojuma laikā). 
+- Restartējiet ietekmēto datoru, kamēr ir izveidots savienojums ar pakalpojuma Acitve direktorija domēnu.
+- Ja atkārtota palaišana nenovērš problēmu, atkārtoti pievienojiet ierīci no Azure AD. 
 
-- Atveriet privileģētu komandu uzvedni. 
-- Lai atvērtu privileģētu komandu uzvedni, noklikšķiniet uz **Sākt**, ar peles labo pogu noklikšķiniet uz **komandu uzvedne**un pēc tam noklikšķiniet uz **Palaist kā administratoram**.
-- Ierakstiet *dsregcmd/Leave* un nospiediet taustiņu **Enter**.
-- Kad tas ir paveikts, ierakstiet *dsregcmd/Join* un nospiediet taustiņu **Enter**.
-- Kad tas ir paveikts, izvērsiet komandu uzvedni.
-- Restartējiet datoru un piesakieties pakalpojumā OneDrive.
+**Piezīme.** Jums ir jābūt korporatīvajā tīklā, veicot šīs darbības. Neveiciet šīs darbības, ja neesat izveidojis savienojumu ar savu korporatīvo infrastruktūru (piemēram, atrodoties braucot). 
+
+1. Atveriet priviliģētu komandu uzvedni, atlasot **Sākums**, ar peles labo **pogu** noklikšķiniet uz Komandu uzvedne un pēc tam atlasiet Palaist **kā administratoram.**
+
+1. Ierakstiet *dsregcmd /leave un* nospiediet taustiņu **Enter.**
+
+1. Kad tas ir pabeigts, *ierakstiet dsregcmd /join un* nospiediet taustiņu **Enter.**
+
+1. Kad esat pabeidzis, aizveriet komandu uzvedni.
+
+1. Restartējiet datoru un piesakieties pakalpojumā OneDrive.
