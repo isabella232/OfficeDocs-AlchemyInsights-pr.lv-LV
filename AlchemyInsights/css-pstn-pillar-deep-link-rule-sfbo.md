@@ -1,5 +1,5 @@
 ---
-title: 'CSS: PSTN pīlāra dziļās saites kārtula'
+title: 'CSS: PSTN kolonnas deep link rule'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 9e0e95ce9890609a878f9346ad1e1ffc7ce5ca98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 277afb1deeca90d1bd56608c969b4b141abe49c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746370"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692581"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN zvani ar Skype darbam Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN zvani, izmantojot Skype darbam Online
 
-Ja vēlaties veikt PSTN zvanus programmā Microsoft 365, jums ir nepieciešams [Microsoft 365 zvanīšanas plāns](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) vai savienojums ar lokālo PSTN telefonijas infrastruktūru. Papildinformāciju skatiet rakstā:
+Ja vēlaties veikt PSTN zvanus microsoft 365, jums ir nepieciešams [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) zvanu plāns vai savienojums ar lokālo PSTN telefonijas infrastruktūru. Papildinformāciju skatiet šeit:
 
-- [Valsts un reģiona pieejamība audio konferencēm un zvanu plāniem](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Valsts un reģiona pieejamība audio konferencēm un Microsoft Teams zvanu plāniem](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
 - [Bieži uzdotie jautājumi par Microsoft 365 audio konferencēm](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Līdzekļu pievienošana un saziņas kredītu pārvaldīšana](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [Līdzekļu pievienošana un sakaru kredītu pārvaldība](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
 - [PSTN zvanītāji nevar pievienoties Skype darbam iezvanes konferences zvanam](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

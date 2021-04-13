@@ -1,5 +1,5 @@
 ---
-title: Kā sākt izmantot pārlūkprogrammu Microsoft Edge
+title: Sāciet izmantot Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678386"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692761"
 ---
-# <a name="start-using-microsoft-edge"></a>Kā sākt izmantot pārlūkprogrammu Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>Sāciet izmantot Microsoft Edge
 
-Microsoft ir izlaidusi jauno Microsoft Edge, kas ir nākamās paaudzes tīmekļa pārlūkprogramma. Tas ir veidots uz hroma Open-Source pamata, un tas ir optimizēts darbam ar Microsoft produktiem, piemēram, SharePoint un OneDrive.
+Microsoft izlaida jauno Microsoft Edge, kas ir nākamā tās tīmekļa pārlūkprogrammas paaudze. Tā ir izveidota uz Chromium pirmkoda pamatiem un ir optimizēta darbam ar Microsoft produktiem, piemēram, SharePoint un OneDrive.
 
-Ja rodas problēmas ar Google Chrome, Mozilla Firefox vai Safari, iesakām izmantot Microsoft Edge.
+Ja radušās problēmas ar Google Chrome, Mozilla Firefox vai Safari, iesakām izmantot Microsoft Edge.
 
-Ja esat lielas organizācijas administrators, izmantojiet mūsu [Microsoft Edge iestatīšanas rokasgrāmatu](https://go.microsoft.com/fwlink/?linkid=2142423) , lai sāktu darbu.
+Ja esat liela uzņēmuma administrators, lai sāktu darbu, izmantojiet [mūsu Microsoft Edge iestatīšanas](https://go.microsoft.com/fwlink/?linkid=2142423) rokasgrāmatu.
 
-Lai vienlaikus lejupielādētu Microsoft Edge vienā ierīcē, dodieties uz sadaļu [jaunās Microsoft Edge ieviešana](https://go.microsoft.com/fwlink/?linkid=2141049).
+Lai lejupielādētu Microsoft Edge vienā ierīcē vienlaikus, dodieties uz [Iepazīšanās ar jauno Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
