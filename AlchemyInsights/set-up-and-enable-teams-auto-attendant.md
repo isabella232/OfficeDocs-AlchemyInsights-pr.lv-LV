@@ -1,8 +1,8 @@
 ---
-title: Iestatīt un iespējot Teams automātiskais operators
+title: Teams automātiskā operatora iestatīšana un iespējošana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801119"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787324"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>Mākoņa automātiskā operatora iestatīšana
 
-Automātiskajiem pavadoņiem pašlaik ir specifiskas licencēšanas prasības. Skatiet rakstu [kas ir mākoņa automātisko pavadoņu operatori?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) lai uzzinātu par grupu automātisko operatoru izveidi un iestatīšanu. 
+Automātiskajiem operatoriem pašlaik ir specifiskas licencēšanas prasības. Skatiet [rakstu Kas ir mākoņa automātiskie operatori?,](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) lai uzzinātu par Teams automātisko operatoru izveidi un iestatīšanu. 
 
-Papildinformāciju skatiet rakstā:
+Papildinformāciju skatiet šeit:
 
-- [Iestatiet mākoņa automātisko](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) pakalpojumu Microsoft Teams. 
-- [Izveidojiet mākoņa izsaukuma rindu](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) ar Microsoft Teams. 
-- [Atbildēt uz automātiskā operatora un zvanu rindas zvaniem tieši no Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Iestatiet mākoņa automātisko operatoru ar](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) Microsoft Teams. 
+- [Izveidojiet mākoņa zvanu rindu,](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) izmantojot pakalpojumu Microsoft Teams. 
+- [Atbildiet uz automātisko operatoru un zvanu rindas zvaniem tieši no Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 

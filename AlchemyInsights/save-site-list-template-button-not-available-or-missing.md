@@ -1,31 +1,32 @@
 ---
-title: Poga saglabāt vietnes/saraksta veidni nav pieejama vai tās nav
+title: Poga Saglabāt vietnes/saraksta veidni nav pieejama vai iztrūkst
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358064"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789295"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Poga saglabāt vietnes/saraksta veidni nav pieejama vai tās nav
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Poga Saglabāt vietnes/saraksta veidni nav pieejama vai iztrūkst
 
-Iespēja saglabāt vietni kā veidni netiek atbalstīta mūsdienu saziņas vai grupas vietnēs. Lai iegūtu papildinformāciju par veidņu lietošanu, skatiet sadaļu [SharePoint vietnes kā veidnes saglabāšana, lejupielāde un augšupielāde](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Modernās saziņas un darba grupas vietnēs iespēja saglabāt vietni kā veidni netiek atbalstīta. Papildinformāciju par vietņu veidņu izmantošanu skatiet rakstā [SharePoint vietnes saglabāšana, lejupielāde un augšupielāde veidnes veidā](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Administratoriem ir jāatļauj pielāgots skripts, lai iespējotu veidnes līdzekļus. Detalizētus soļus, piemērus un apsvērumus skatīt:
+Lai iespējotu veidņu līdzekļus, administratoriem būs jāiespējo opcija Atļaut pielāgotu skriptu. Detalizētu informāciju par darbībām, piemēriem un apsvērumiem skatiet šeit:
 
-- [Atļaut vai aizliegt pielāgotu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Pielāgota skripta atļaušana vai nepieļaušana](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Saglabāt vietni kā veidni komanda netiek atbalstīta un var radīt problēmas vietnēs, kas izmanto SharePoint Server publicēšanas infrastruktūra.
+- Komanda Saglabāt vietni kā veidni netiek atbalstīta un var izraisīt problēmas vietnēs, kas izmanto SharePoint Server publicēšanas infrastruktūru.
 
 

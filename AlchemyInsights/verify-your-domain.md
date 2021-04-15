@@ -1,8 +1,8 @@
 ---
-title: Sava domēna pārbaude
+title: Domēna pārbaude
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734313"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770998"
 ---
-# <a name="verify-your-domain"></a>Sava domēna pārbaude
+# <a name="verify-your-domain"></a>Domēna pārbaude
 
- **Ieraksts, iespējams, nav atjaunināts internetā.**
+ **Iespējams, ka ieraksts nav atjaunināts internetā.**
   
-Parasti ir nepieciešamas tikai dažas minūtes, lai mēs varētu redzēt jauno ierakstu, taču reizēm tas var aizņemt vairākas stundas. 
+Parasti nepieciešamas dažas minūtes, lai redzētu jauno ierakstu, taču dažreiz var būt nepieciešamas dažas stundas. 
   
-- Ja jau ilgi gaidījāt, ka esat to izdarījis, vēlreiz pārbaudiet, vai esat nokopējis un ielīmējis precīzu vērtību TXT verifikācijas ierakstā pie sava DNS viesošanas pakalpojumu sniedzēja. Viens no bieži sastopamajiem jautājumiem neiekļauj ieraksta daļu "MS =". Arī mums tas ir jādara!
+- Ja esat gaidījis tik ilgi, vēlreiz pārbaudiet, vai esat nokopjis un ielīmējis precīzu vērtību TXT verifikācijas ierakstā sava DNS viesošanas pakalpojumuā. Bieži izplatīta problēma ir ieraksta daļas "MS=" neiekšana. Arī šī ir nepieciešama!
 
-- Dažos DNS resursdatoros ir jāveic papildu darbības, lai saglabātu zonas failu (kurā ir saglabāts DNS ieraksts) un tas tiks atjaunināts visā internetā. Pārliecinieties, vai esat saglabājis izmaiņas, lai Microsoft varētu redzēt un verificēt ierakstu.
+- Dažu DNS viesošanas pakalpojumu serveru vietnēs ir jāveic papildu darbība, lai saglabātu zonas failu (kur tiek glabāts DNS ieraksts), un tas tiek atjaunināts internetā. Pārliecinieties, vai esat saglabājis izmaiņas, lai Microsoft varētu skatīt un verificēt ierakstu.

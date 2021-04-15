@@ -2,7 +2,7 @@
 title: Teams 4c7 kļūda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700210"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786676"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c7 kļūda pakalpojumā Microsoft Teams
+# <a name="4c7-error-in-microsoft-teams"></a>Kļūda 4c7 lietojumprogrammā Microsoft Teams
 
-Šī kļūda rodas tādēļ, ka programmai Microsoft Teams ir nepieciešama veidlapu autentifikācija. Kad izvietojat Active Directory Federācijas pakalpojumu (AD FS), pēc noklusējuma iekštīklam nav iespējota veidlapu autentifikācija. Ja Windows integrētā autentifikācija rodas nesekmīga, saņemsit aicinājumu pierakstīties, izmantojot veidlapu autentifikāciju.
+Šī kļūda rodas tāpēc, ka Microsoft Teams pieprasa veidlapu autentifikāciju. Kad izvietojat Active Directory federācijas pakalpojumu (AD FS), veidlapu autentifikācija pēc noklusējuma nav iespējota iekštīklam. Ja Windows integrētā autentifikācija neizdodas, jums tiek piedāvāts pierakstīties, izmantojot veidlapu autentifikāciju.
 
-Lai atrisinātu šo problēmu, iespējojiet veidlapu autentifikāciju, izmantojot AD FS Microsoft pārvaldības konsoles (MMC) papildprogramma datorā, kurā ir lokālā Active Directory kopija. Lai to izdarītu, veiciet tālāk norādītās darbības. 
+Lai novērstu šo problēmu, iespējojiet Forms Authentication, izmantojot AD FS Microsoft Management Console (MMC) papildprogrammu datorā, kurā ir lokālā Active Directory kopija. Lai to izdarītu, veiciet tālāk norādītās darbības. 
 
-1. Navigācijas rūtī pārlūkojiet līdz **autentificēšanas politikas**.
-2. Detalizētās informācijas rūts sadaļā **darbības** atlasiet **Rediģēt globālo primāro autentifikāciju**.
-3. Cilnē **iekštīkls** atlasiet **veidlapu autentifikācija**.
-4. Atlasiet **Labi** (vai **lietot**).
+1. Navigācijas rūtī pārlūkojiet līdz **Autentifikācijas politikas**.
+2. Sadaļas Darbības detalizētas informācijas rūtī atlasiet **Rediģēt globālo primāro autentifikāciju**. 
+3. Cilnē **Iekštīkls** atlasiet Forms **Authentication**.
+4. Atlasiet **Labi** (vai **Lietot**).

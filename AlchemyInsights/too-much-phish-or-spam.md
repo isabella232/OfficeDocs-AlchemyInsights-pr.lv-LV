@@ -1,26 +1,30 @@
 ---
-title: 665 vai pastkastē saņemat pārāk daudz adresi phish vai surogātpasta?
+title: 665 Vai savā pastkastē saņemat pārāk daudz pikšķerēšanas vai surogātpasta?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700246"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767944"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Vai pastkastē saņemat pārāk daudz adresi phish vai surogātpasta?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Vai savā pastkastē saņemat pārāk daudz pikšķerēšanas vai surogātpasta?
 
-Kā Microsoft 365 administrators, vislabākais veids, kā noteikt, kāpēc tika piegādāts pikšķerēšanas ziņojums, ir iesniegt paraugu korporācijai Microsoft, kas piedalās [pieteikumos Explorer](https://protection.office.com/reportsubmission). Jūs saņemsit tūlītējus atsauksmes par ziņojumu filtrēšanu un iemeslus, kāpēc ir problēmas.
+> [!NOTE]
+> Microsoft 365 drošības centram varat piekļūt vietnē [security.microsoft.com](https://security.microsoft.com).
 
-Lai padarītu to easer, varat atļaut lietotājiem ziņot tieši korporācijai Microsoft, izmantojot [atskaites ziņojuma pievienojumprogrammu](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kā Microsoft 365 administrators pikšķerēšanas vai surogātpasta ziņojuma piegādes veidu labākais veids ir iesniegt paraugu korporācijai Microsoft iesniegšanas [pārlūkā.](https://security.microsoft.com/reportsubmission) Jūs saņemsit tūlītējas atsauksmes par ziņojumu filtrēšanu un problēmu iemesliem.
 
-**Vai zinājāt?** tagad varat iesniegt paraugus tieši no [ziņojumu izsekošanas](https://protection.office.com/messagetrace) un E5/ATP 2. plāns klienti var iesniegt paraugus no [draudu pārlūka](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+Lai atvieglotu darbu, varat atļaut lietotājiem ziņot tieši korporācijai Microsoft, izmantojot atskaišu [ziņojumu pievienojumprogrammu.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Vai zinājāt? Tagad** varat iesniegt [](https://security.microsoft.com/messagetrace) paraugus tieši no ziņojumu izsekošanas un E5/ATP 2. plāna klienti var iesniegt paraugus no [Apdraudējumu pārlūka.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

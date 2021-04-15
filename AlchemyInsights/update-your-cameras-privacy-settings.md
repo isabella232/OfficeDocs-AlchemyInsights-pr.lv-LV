@@ -1,8 +1,8 @@
 ---
-title: Savas kameras konfidencialitātes iestatījumu atjaunināšana
+title: Kameras konfidencialitātes iestatījumu atjaunināšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274840"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782662"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Savas kameras konfidencialitātes iestatījumu atjaunināšana
+# <a name="update-your-cameras-privacy-settings"></a>Kameras konfidencialitātes iestatījumu atjaunināšana
 
-Šis kļūdas kods nozīmē, ka jūsu kameras konfidencialitātes iestatījumi ietekmē programmu. Veiciet šīs darbības, lai atjauninātu savas kameras konfidencialitātes iestatījumus.
+Šis kļūdas kods nozīmē, ka programma ietekmēs jūsu kameras konfidencialitātes iestatījumus. Lai atjauninātu savas kameras konfidencialitātes iestatījumus, veiciet tālāk norādītās darbības.
 
-- Atveriet **pogu sākt > iestatījumi > konfidencialitātes > kameru**.
-- Sadaļā **Atļaut piekļuvi kamerai šajā ierīcē**atlasiet **mainīt**. Pārliecinieties **, vai**ir ieslēgta pārslēgšana.
-- Pēc tam sadaļā **Atļaut programmām piekļūt jūsu kamerai** **pārliecinieties, vai**ir ieslēgta pārslēgšana.
-- Pēc tam sadaļā **Izvēlieties, kuras lietojumprogrammas var piekļūt jūsu kamerai**, pārliecinieties, vai ir ieslēgts slēdzis blakus vajadzīgajai programmai.
+- Poga **Atvērt sākuma > Iestatījumi > konfidencialitātes > Kamera**.
+- Sadaļā **Atļaut piekļuvi šīs ierīces kamerai** atlasiet **Mainīt**. Pārliecinieties, vai slēdzis ir **ieslēgts**.
+- Pēc tam sadaļā **Atļaut programmām piekļūt kamerai pārliecinieties,** vai slēdzis ir **ieslēgts**.
+- Pēc tam sadaļā **Izvēlieties, kuras programmas var piekļūt** jūsu kamerai pārliecinieties, vai ir ieslēgts arī slēdzis blakus vajadzīgajai programmai.

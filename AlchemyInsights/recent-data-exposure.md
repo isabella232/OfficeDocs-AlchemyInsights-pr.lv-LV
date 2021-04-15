@@ -1,8 +1,8 @@
 ---
-title: Nesenās datu ekspozīcijas
+title: Nesenā ietekme uz datiem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789367"
 ---
-# <a name="recent-data-exposure"></a>Nesenās datu ekspozīcijas
+# <a name="recent-data-exposure"></a>Nesenā ietekme uz datiem
 
-Trešo personu pētnieks ir informējis Microsoft par to, ka datu bāze, kurā tiek viesoti rediģēti Microsoft atbalsta dati, ir pieejama, neizmantojot autentifikāciju. 2019. gada 31. decembrī Microsoft nodrošināja datu bāzi.
+Trešās puses pētnieks informēja Microsoft, ka datu bāze, kurā tiek veikta ar rediģēšanu veikta Microsoft atbalsta datu piekļuve bez autentifikācijas, bija pieejama. 2019. gada 31. decembrī Microsoft drošinātu datu bāzi.
 
-Mēs esam apņēmušies ievērot mūsu klientu konfidencialitāti un drošību, kā arī veikt darbības, lai novērstu turpmāko šīs problēmas gadījumu. Mums ir sākti paziņojumi klientiem, kuru dati ir iekļauti šajā rediģētajā datu bāzē. Lai iegūtu papildinformāciju, dodieties uz [klientu informācijas informāciju saistībā ar neseno informāciju par ietekmi](https://aka.ms/privacyinfo).
+Mēs esam apņēmušies ievērot mūsu klientu konfidencialitāti un drošību, un pašlaik veicam darbības, lai novērstu problēmas turpmāku rašanos. Esam sākuši paziņojumus klientiem, kuru dati šajā redacted database ir bijuši šajā datu bāzē. Lai iegūtu papildinformāciju, skatiet informāciju [par klientu informētību par neseno informācijas ekspozīcijas informāciju.](https://aka.ms/privacyinfo)

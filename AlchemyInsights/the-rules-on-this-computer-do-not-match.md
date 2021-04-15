@@ -1,8 +1,8 @@
 ---
-title: 'Kļūda: šī datora kārtulas nesakrīt'
+title: 'Kļūda: šī datora kārtulas neatbilst'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690970"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782959"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Kļūda: šī datora kārtulas nesakrīt
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Kļūda: šī datora kārtulas neatbilst
 
-Lai skatītu šīs zināmās problēmas atjauninātu statusu, skatiet [šī datora kārtulas neatbilst Microsoft Exchange kārtulām](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Lai skatītu šīs zināmās problēmas atjaunināto [statusu, skatiet rakstu Kārtulas šajā datorā neatbilst Microsoft Exchange kārtulām](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Outlook komanda ir ieviesusi labojumu būvējumā 12928,10000. Labojums jau ir no programmas Insider Fast, un tas tiks novirzīts uz sadaļu mēneša kanāls 2020 jūnija beigās. Kad ir fiksēts būvējums, var tikt parādīta uzvedne "kuras kārtulas vēlaties paturēt" vienu pēdējo reizi. Pēc uzaicinājuma izvēlieties serveris un pēc tam pārejiet atpakaļ programmā Outlook un atkārtoti iespējojiet kārtulas, kas ir atspējotas.
+Outlook komanda ieviesusi labojumu būvējumā 12928.10000. Labojums jau ir pieejams Insider Fast kanālā, un tas tiks atvērts mēneša kanālā 2020. gada jūnija beigās. Kad ir iegūts labotais būvējumu, vienu reizi var tikt parādīta uzvedne "Kuras kārtulas vēlaties paturēt". Pēc uzaicinājuma izvēlieties Serveris, pēc tam atgriezieties programmā Outlook un atkārtoti iespējojiet visas atspējotās kārtulas.
 
-Līdz brīdim, kad būs pieejams labojums, lūdzu, izmantojiet šo risinājumu:
+Kamēr labojums nav pieejams, lūdzu, izmantojiet tālāk norādīto risinājumu.
 
-**Risinājums**: pēdējo atskaišu gadījumā problēma ir radusies tiem, kas ir izveidojuši tikai klienta kārtulas Outlook datora versijā. Ja joprojām rodas problēma, apsveriet iespēju izdzēst kārtulas un pēc tam izveidot un rediģēt kārtulas tikai OWA (Outlook Web App), līdz problēma ir novērsta.
+**Risinājums. Jaunākajās** atskaitēs šī problēma radās tām atskaitēm, kuras Outlook datora programmā ir izveidotas tikai klienta kārtulas. Ja problēma joprojām pastāv, apsveriet iespēju izdzēst kārtulas un pēc tam izveidot un rediģēt kārtulas tikai programmā OWA (Outlook Web App), līdz problēma tiks atrisināta.
 
-Ja nevarat izdzēst kārtulas manuāli, varat palaist Outlook komandu, startējot programmu Outlook, palaižot Outlook.exe/Cleanrules. Tādējādi tiks izdzēsti gan klienta, gan servera kārtulas. Tiks izdzēsti visi Outlook profilā esošo kontu noteikumi. Šī komanda tālāk ir dokumentēta komandrindas slēdžu rakstā.
+Ja kārtulas nevarat izdzēst manuāli, varat izpildīt outlook komandu, startējot programmu Outlook, palaižot Outlook.exe /cleanrules. Tādējādi tiks izdzēstas gan klienta, gan servera kārtulas. Tā izdzēsīs visas kārtulas visiem kontiem Outlook profilā. Šī komanda ir papildus dokumentēta rakstā Komandrindas slēdži.
 

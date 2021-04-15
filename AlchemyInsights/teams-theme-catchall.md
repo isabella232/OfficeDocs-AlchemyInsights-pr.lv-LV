@@ -1,27 +1,26 @@
 ---
-title: Iesācējs darbā ar Microsoft Teams
+title: Microsoft Teams iestatīšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509152"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786208"
 ---
-# <a name="new-to-microsoft-teams"></a>Iesācējs darbā ar Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Microsoft Teams iestatīšana
 
-Izlasiet  [Darba sākšana ar Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Apskatiet Microsoft Teams IT administratoriem paredzētos apmācību video, informācijas komplektus un citu informāciju šeit:
+[Microsoft Teams iestatīšanas ceļvedis](https://aka.ms/teamsguidance)sniedz jūsu organizācijai norādes, kā iestatīt darba grupas darbvietas, kas vieso sarunas reāllaikā, izmantojot ziņojumapmaiņu, zvanus un audio vai video sapulces gan darba grupas, gan privātai saziņai. Jūs saņemsit norādījumus, kā noteikt jūsu organizācijas tīkla prasības, izmantojot tīkla plānotāja rīku un Teams padomnieku Teams administrēšanas centrā. Kad jūsu izvietošana ir pabeigta, ceļvedis iekļauj noderīgus resursus, lai sāktu darbu, izmantojot Teams.
 
-Ja jums ir nepieciešama palīdzība, lai izvietotu Teams attālināto darbinieku atbalstam (WFH) COVID-19 dēļ, lūdzu, pārskatiet [Attālināto darbinieku atbalsts ar Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Iespējams, ka jums ir tiesības saņemt izvietošanas atbalstu programmas Microsoft 365 FastTrack ietvaros. Lūdzu, apmeklējiet [FastTrack centru](https://www.microsoft.com/fasttrack), lai iesniegtu pieprasījumu.
-
-**Svarīgi**: pēdējā Teams lietojuma palielināšanās dēļ, kad piešķirat Teams licenci lietotājam, var paiet 24 stundas, pirms lietotāji tiks pilnībā iestatīti. Līdz tam jūs nevarēsiet piešķirt Teams politikas, un viņiem, iespējams, nebūs piekļuves dažiem Teams līdzekļiem, piemēram, zvanīšanai un audiokonferencēm.
+Lai iegūtu papildinformāciju, lūdzu, skatiet rakstu [Darba sākšana ar Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

@@ -1,8 +1,8 @@
 ---
-title: Tiešraides notikumu problēmu novēršana pakalpojumā Microsoft Stream
+title: Tiešraides notikumu problēmu novēršana lietojumprogrammā Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: 18ffe57c251db9c36f8c7ab56633fe3772f8aa4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0637bb8f96038c6e9898b5148fe4458358fdc6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749846"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782887"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Tiešraides notikumu problēmu novēršana pakalpojumā Microsoft Stream
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Tiešraides notikumu problēmu novēršana lietojumprogrammā Microsoft Stream
 
-Ir pieejami vairāki apgabali, lai nodrošinātu, ka Microsoft Stream tiešraides notikumi darbojas nevainojami. Papildinformāciju skatiet rakstā [tiešraides notikumu problēmu novēršana programmā Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).
+Ir vairāki apgabali, lai nodrošinātu vienmērīgu Microsoft Stream tiešraides notikumu darbību. Papildinformāciju skatiet rakstā [Tiešraides pasākumu problēmu novēršana lietojumprogrammā Microsoft Stream.](https://docs.microsoft.com/stream/live-event-troubleshooting)

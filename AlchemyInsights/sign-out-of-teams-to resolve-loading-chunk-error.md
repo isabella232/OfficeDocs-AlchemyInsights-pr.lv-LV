@@ -1,8 +1,8 @@
 ---
-title: Izrakstīšanās no darba grupām, lai atrisinātu iekraušanas kļūdas kļūdu
+title: Izrakstīšanās no Teams, lai novērstu bloka ielādes kļūdu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661891"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786928"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Izrakstīšanās no darba grupām, lai atrisinātu iekraušanas kļūdas kļūdu
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Izrakstīšanās no Teams, lai novērstu bloka ielādes kļūdu
 
-Ja saņemat kļūdas ziņojumu "**ielādēšanas porcija XXX neizdevās**", kad piekļūstat cilnei faili pakalpojumā Teams, mēģiniet izrakstīties no Teams un pēc tam atkal pierakstieties, lai atrisinātu kļūdu.
+Ja, piekļūstot failu cilnei pakalpojumā Teams, tiek parādīts kļūdas ziņojums "Notiek faila ielāde **xxx** neizdevās", mēģiniet izrakstīšanās no grupām un pēc tam atkal pierakstīties, lai novērstu kļūdu.
 
-- Lai izprastu, kā izrakstīties no Teams, skatiet rakstu [izrakstīšanās no Teams](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Lai uzzinātu, kā izrakstīties no Teams, skatiet [rakstu Izrakstīšanās no Teams.](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)

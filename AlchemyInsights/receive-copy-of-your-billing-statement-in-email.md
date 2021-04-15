@@ -1,8 +1,8 @@
 ---
-title: Rēķina paziņojuma kopijas saņemšana pa e-pastu
+title: Rēķinu paziņojuma kopijas saņemšana pa e-pastu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693274"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789439"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Rēķina paziņojuma kopijas saņemšana pa e-pastu
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Rēķinu paziņojuma kopijas saņemšana pa e-pastu
 
-Varat izvēlēties saņemt savu norēķinu paziņojuma kopiju kā e-pasta pielikumu. Ja vēlaties, ievērojiet, ka:
+Varat izvēlēties saņemt rēķinu paziņojuma kopiju kā e-pasta ziņojuma pielikumu. Ņemiet vērā:
   
-- E-pasta ziņojums tiks nosūtīts gan primārajai, gan alternatīvajai e-pasta adresei katrai personai, kas norādīta kā paziņojuma adresātam.
+- E-pasta ziņojums tiks nosūtīts uz visu paziņojuma saņēmēju sarakstā norādīto personu primārajām un alternatīvaēm e-pasta adresēm.
 
-- Jūs saņemsit divus atsevišķus e-pasta ziņojumus: to, kas sniedz iespēju uzzināt, ka jūsu rēķins ir gatavs, ar norādījumiem par pieteikšanos administrēšanas centrā, lai to skatītu, un otru e-pasta ziņojumu, kurā ir paziņojums par rēķinu, kā pielikumu.
+- Jūs saņemsit divus atsevišķus e-pasta ziņojumus: vienu ar paziņojumu, ka rēķins ir gatavs, un norādījumiem pieteikties administrēšanas centrā, lai to skatītu, un otru e-pasta ziņojumu, kurā iekļauts rēķina paziņojums kā pielikums.
 
-Lai saņemtu rēķinu paziņojumu e-pastā:
+Lai saņemtu rēķinu paziņojumu pa e-pastu:
   
-1. Administrēšanas centrā dodieties uz lapu **norēķinu** \> [paziņojumu paziņojumi](https://go.microsoft.com/fwlink/p/?linkid=853212) .
+1. Administrēšanas centrā dodieties uz **lapu** \> [Norēķinu norēķinu](https://go.microsoft.com/fwlink/p/?linkid=853212) paziņojumi.
 
-2. Sadaļā **vai saņemt rēķinu paziņojumu kā e-pasta ziņojuma pielikumu?** pārslēdziet slēdzi uz **ieslēgts**. Jūs jebkurā laikā varat pārtraukt rēķinu paziņojuma e-pasta ziņojumu saņemšanu, pārslēdzot **slēdzi pozīcijā izslēgts**.
+2. Sadaļā **Vai saņemt rēķinu paziņojumu kā e-pasta ziņojuma pielikumu?** pārslēdziet slēdzi pret **ieslēgtu**. Jebkurā laikā varat pārtraukt rēķinu paziņojumu e-pasta ziņojumu saņemšanu, pārslēdzot slēdzi uz **Izslēgts.**
