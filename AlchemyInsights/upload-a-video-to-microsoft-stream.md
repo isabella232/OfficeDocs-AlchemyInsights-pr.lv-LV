@@ -1,8 +1,8 @@
 ---
-title: Videoklipa augšupielāde pakalpojumā Microsoft Stream
+title: Video augšupielāde pakalpojumā Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811887"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782482"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="6cb9f-102">Videoklipa augšupielāde pakalpojumā Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="6cb9f-102">Upload a video to Microsoft Stream</span></span>
+# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="62b91-102">Video augšupielāde pakalpojumā Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="62b91-102">Upload a video to Microsoft Stream</span></span>
 
-<span data-ttu-id="6cb9f-103">Video augšupielāde ar Microsoft Stream ir vienkārša, un to var izdarīt jebkurš.</span><span class="sxs-lookup"><span data-stu-id="6cb9f-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
+<span data-ttu-id="62b91-103">Video augšupielāde, izmantojot Microsoft Stream, ir vienkārša, un to var darīt ikviens.</span><span class="sxs-lookup"><span data-stu-id="62b91-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
 
-- [<span data-ttu-id="6cb9f-104">Videoklipa augšupielāde</span><span class="sxs-lookup"><span data-stu-id="6cb9f-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
+- [<span data-ttu-id="62b91-104">Video augšupielāde</span><span class="sxs-lookup"><span data-stu-id="62b91-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)

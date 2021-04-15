@@ -1,31 +1,32 @@
 ---
-title: Vietnes veidni nevar izveidot
+title: Nevar izveidot vietnes veidni
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0b5e5d7cc2ddd939562ac6bb392441120c703515
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358111"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786892"
 ---
-# <a name="site-template-cannot-be-created"></a><span data-ttu-id="0e137-102">Vietnes veidni nevar izveidot</span><span class="sxs-lookup"><span data-stu-id="0e137-102">Site template cannot be created</span></span>
+# <a name="site-template-cannot-be-created"></a><span data-ttu-id="cf9d0-102">Nevar izveidot vietnes veidni</span><span class="sxs-lookup"><span data-stu-id="cf9d0-102">Site template cannot be created</span></span>
 
-<span data-ttu-id="0e137-103">Iespējams, ka veidnei trūkst līdzekļa, un tā netiks aktivizēta.</span><span class="sxs-lookup"><span data-stu-id="0e137-103">The template may be missing a feature and won't activate.</span></span> <span data-ttu-id="0e137-104">Ja līdzeklis nav pieejams, lai aktivizētu pašreizējā vietņu kolekcijā, vietnes veidni nevar izmantot, lai izveidotu vietni.</span><span class="sxs-lookup"><span data-stu-id="0e137-104">If the feature is not available to activate in the current site collection, you cannot use the site template to create a site.</span></span>
+<span data-ttu-id="cf9d0-103">Iespējams, ka veidnei trūkst kāda līdzekļa, tāpēc tas netiek aktivizēts.</span><span class="sxs-lookup"><span data-stu-id="cf9d0-103">The template may be missing a feature and won't activate.</span></span> <span data-ttu-id="cf9d0-104">Ja līdzeklis nav pieejams aktivizēšanai pašreizējā vietņu kolekcijā, nevarat izmantot vietnes veidni, lai izveidotu vietni.</span><span class="sxs-lookup"><span data-stu-id="cf9d0-104">If the feature is not available to activate in the current site collection, you cannot use the site template to create a site.</span></span>
 
-- <span data-ttu-id="0e137-105">Pārbaudiet, vai kādi saraksti vai bibliotēkas pārsniedz [saraksta skata ierobežojuma slieksnis](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 vienumus, jo tas var bloķēt vietnes veidnes izveide.</span><span class="sxs-lookup"><span data-stu-id="0e137-105">Check to see if any lists or libraries exceed the [List View Limit Threshold](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) of 5000 items as this can block creation of a site template.</span></span>
+- <span data-ttu-id="cf9d0-105">Pārbaudiet, vai kāds saraksts vai bibliotēka nepārsniedz 5000 vienumu [saraksta skata ierobežojuma slieksni](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59), jo tas var neļaut izveidot vietnes veidni.</span><span class="sxs-lookup"><span data-stu-id="cf9d0-105">Check to see if any lists or libraries exceed the [List View Limit Threshold](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) of 5000 items as this can block creation of a site template.</span></span>
 
-- <span data-ttu-id="0e137-106">Vietne var izmantot pārāk daudz resursu un tādēļ vietnes veidne pārsniedz 50 MB ierobežojumu.</span><span class="sxs-lookup"><span data-stu-id="0e137-106">The site may be using too many resources and therefore the site template exceeds the 50 MB limit.</span></span>
+- <span data-ttu-id="cf9d0-106">Vietne, iespējams, izmanto pārāk daudz resursu, tāpēc vietnes veidne pārsniedz 50 MB ierobežojumu.</span><span class="sxs-lookup"><span data-stu-id="cf9d0-106">The site may be using too many resources and therefore the site template exceeds the 50 MB limit.</span></span>
 
-- <span data-ttu-id="0e137-107">Ir problēmas, parādot datus no saraksta, kas izmanto uzmeklēšanas kolonnu.</span><span class="sxs-lookup"><span data-stu-id="0e137-107">There are problems displaying data from a list that uses a lookup column.</span></span> <span data-ttu-id="0e137-108">Lai iegūtu papildinformāciju, skatiet [veidne ģenerēts saraksts netiek parādīts datus no pareizā uzmeklēšanas saraksta SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span><span class="sxs-lookup"><span data-stu-id="0e137-108">For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span></span>
+- <span data-ttu-id="cf9d0-107">Rādot datus no saraksta, kas izmanto uzmeklēšanas kolonnu, rodas problēmas.</span><span class="sxs-lookup"><span data-stu-id="cf9d0-107">There are problems displaying data from a list that uses a lookup column.</span></span> <span data-ttu-id="cf9d0-108">Papildinformāciju skatiet rakstā [Veidnes ģenerētajā sarakstā netiek rādīti dati no pareizā uzmeklēšanas saraksta pakalpojumā SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span><span class="sxs-lookup"><span data-stu-id="cf9d0-108">For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span></span>
 
-<span data-ttu-id="0e137-109">Sīkāku informāciju par kopīgām problēmām un risinājumiem, lūdzu, skatiet [izveidot un izmantot vietnes veidnes](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span><span class="sxs-lookup"><span data-stu-id="0e137-109">For more detailed information on common problems and solutions, please see [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span></span>
+<span data-ttu-id="cf9d0-109">Detalizētu informāciju par bieži sastopamām problēmām un risinājumiem skatiet rakstā [Vietnes veidņu izveide un izmantošana](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span><span class="sxs-lookup"><span data-stu-id="cf9d0-109">For more detailed information on common problems and solutions, please see [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span></span>
