@@ -2,7 +2,7 @@
 title: OneDrive darbam tīmekļa OneDrive novirzīšana uz Delve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776386"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799996"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Novirzīts uz Delve pēc noklikšķināšanas uz OneDrive
 
-Skatiet detalizētu informāciju par [problēmu novēršanu](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Skatiet mūsu detalizēto [problēmu novēršanas rokasgrāmatu.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Lai novērstu šo problēmu, administratoram ir jāpiešķir lietotājiem tiesības izveidot savu vietni Mana vietne. Tas ir tāpēc, ka manas vietnes ir izveidota OneDrive darbam lapa.
+Lai novērstu šo problēmu, administratoram jāpiešķir lietotājiem tiesības izveidot savu vietņu Mana vietne. Tas ir tāpēc, ka pakalpojuma OneDrive darbam lapa ir izveidota lapā Manas vietnes.
 
 Lai piešķirtu šīs tiesības, veiciet tālāk norādītās darbības.
 
-1. SharePoint administrēšanas centrā noklikšķiniet uz **lietotāju profili**.
+1. SharePoint administrēšanas centrā noklikšķiniet uz lietotāju **profili.**
 
-2. Sadaļā **personas** noklikšķiniet uz **lietotāju atļauju pārvaldība**.
+2. Sadaļā **Personas noklikšķiniet** uz Lietotāju **atļauju pārvaldība.**
 
-3. Pievienojiet lietotājus, kuriem ir nepieciešamas atļaujas, lai izveidotu savu vietni Mana vietne. Šis iestatījums pēc noklusējuma ir iestatīts uz **Visi, izņemot ārējos lietotājus**.
+3. Pievienojiet lietotājus, kuriem nepieciešamas atļaujas, lai izveidotu savu vietni Mana vietne. Pēc noklusējuma šis iestatījums ir iestatīts uz **Ikviens, izņemot ārējos lietotājus.**
 
-4. Pēc tam, kad esat pievienojis lietotāju, lietotājus vai grupu, pārliecinieties, vai ir atlasīts pievienotais lietotājs, lietotāji vai grupa, ritiniet līdz sadaļai **atļaujas** un pēc tam atzīmējiet izvēles rūtiņu blakus **izveidot personisko vietni (nepieciešama personiskai krātuvei, jaunumu plūsma un saturs)**.
+4. Pēc tam, kad esat pievienojis lietotāju, lietotājus vai grupu, pārliecinieties, vai ir  atlasīts pievienotais lietotājs, lietotāji vai grupa, ritiniet līdz atļauju sadaļai un pēc tam atzīmējiet izvēles rūtiņu pie Izveidot personisko vietni (nepieciešama personiskajai krātuvēm, jaunumu plūsmai un saturam, kam **sekojat).**
 
-5. Noklikšķiniet uz **Labi**un pēc tam lietotājam ir jādodas uz OneDrive lapu, lai izveidotu vietni.
+5. Noklikšķiniet **uz** Labi un pēc tam lū spiediet lietotāju, lai tas pārlūkojot atrastu OneDrive lapu un izveidotu vietni.
