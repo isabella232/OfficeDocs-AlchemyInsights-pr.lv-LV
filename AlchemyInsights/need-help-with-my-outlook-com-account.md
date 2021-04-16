@@ -1,8 +1,8 @@
 ---
-title: Palīdzība saistībā ar manu Outlook.com kontu
+title: Nepieciešama palīdzība saistībā ar Outlook.com kontu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803288"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792391"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a><span data-ttu-id="c169b-102">Palīdzība saistībā ar manu Outlook.com kontu</span><span class="sxs-lookup"><span data-stu-id="c169b-102">Need help with my Outlook.com account</span></span>
+# <a name="need-help-with-my-outlookcom-account"></a><span data-ttu-id="01569-102">Nepieciešama palīdzība saistībā ar Outlook.com kontu</span><span class="sxs-lookup"><span data-stu-id="01569-102">Need help with my Outlook.com account</span></span>
 
-<span data-ttu-id="c169b-103">Ja jums ir nepieciešama palīdzība saistībā ar Outlook.com pakalpojumu, mums ir īpaša palīdzība, lai jums palīdzētu.</span><span class="sxs-lookup"><span data-stu-id="c169b-103">If you need help with the Outlook.com service, we have dedicated help to assist you.</span></span> <span data-ttu-id="c169b-104">Lai saņemtu atbalstu tieši tīmekļa lietojumprogrammā:</span><span class="sxs-lookup"><span data-stu-id="c169b-104">To get support directly on the web app:</span></span> 
+<span data-ttu-id="01569-103">Ja jums nepieciešama palīdzība saistībā Outlook.com pakalpojumu, mums ir īpaša palīdzība, lai jums palīdzētu.</span><span class="sxs-lookup"><span data-stu-id="01569-103">If you need help with the Outlook.com service, we have dedicated help to assist you.</span></span> <span data-ttu-id="01569-104">Lai saņemtu atbalstu tieši tīmekļa lietojumprogrammā:</span><span class="sxs-lookup"><span data-stu-id="01569-104">To get support directly on the web app:</span></span> 
 
-1. <span data-ttu-id="c169b-105">Noklikšķiniet uz?</span><span class="sxs-lookup"><span data-stu-id="c169b-105">Click on the ?</span></span> <span data-ttu-id="c169b-106">ikona ekrāna augšējā labajā stūrī.</span><span class="sxs-lookup"><span data-stu-id="c169b-106">icon on the top right of the screen.</span></span> 
+1. <span data-ttu-id="01569-105">Noklikšķiniet uz ?</span><span class="sxs-lookup"><span data-stu-id="01569-105">Click on the ?</span></span> <span data-ttu-id="01569-106">ekrāna augšējā labajā stūrī.</span><span class="sxs-lookup"><span data-stu-id="01569-106">icon on the top right of the screen.</span></span> 
 
-2. <span data-ttu-id="c169b-107">Ierakstiet nepieciešamo palīdzību ar palīdzības lodziņu, kas redzams uznirstošajā panelī, un noklikšķiniet uz **iesniegt**.</span><span class="sxs-lookup"><span data-stu-id="c169b-107">Type what you need assistance with on the help box displayed on the pop up panel and click **submit**.</span></span> 
+2. <span data-ttu-id="01569-107">Ierakstiet, kāda palīdzība ir nepieciešama, lai palīdzības lodziņā, kas redzams uznirstošajā panelī, un noklikšķiniet uz **Iesniegt.**</span><span class="sxs-lookup"><span data-stu-id="01569-107">Type what you need assistance with on the help box displayed on the pop up panel and click **submit**.</span></span> 
 
-3. <span data-ttu-id="c169b-108">Ja risinājums nav iesniegts, lūdzu, ritiniet uz leju sānu panelī un noklikšķiniet uz **nosūtīt mums e-pastu**.</span><span class="sxs-lookup"><span data-stu-id="c169b-108">If a solution is not presented, please scroll down the side panel and click **email us**.</span></span>
+3. <span data-ttu-id="01569-108">Ja risinājums netiek parādīts, lūdzu, ritiniet uz leju sānu panelī un noklikšķiniet uz Sūtīt mums **e-pasta ziņojumu.**</span><span class="sxs-lookup"><span data-stu-id="01569-108">If a solution is not presented, please scroll down the side panel and click **email us**.</span></span>
