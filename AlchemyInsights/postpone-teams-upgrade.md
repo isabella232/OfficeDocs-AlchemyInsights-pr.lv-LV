@@ -1,8 +1,8 @@
 ---
-title: Grupu atjaunināšanas atlikšana
+title: Teams jaunināšanas atlikšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741778"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801238"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kā atlikt Microsoft vadīto grupu jaunināšanu
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kā atlikt Microsoft Teams jaunināšanu
 
-**Svarīgi**! mēs varam palīdzēt to novērst, izmantojot atbalsta diagnostiku, bet izskatās, ka jūs neizmantojat jauno administrēšanas centru. Lai izmantotu jauno administrēšanas centru, slidiniet pārslēgu augšējā labajā stūrī, kurā norādīts **jaunais administrēšanas centrs** . Izmantojot jauno administrēšanas centru, noklikšķiniet uz **nepieciešamā palīdzība?** logrīks, ierakstiet "atlikt grupu jaunināšanu", pēc tam izpildiet uzvednēs sniegtos norādījumus par diagnostikas izpildi.
+**Svarīgi!** Mēs varam palīdzēt novērst šo problēmu, izmantojot atbalsta diagnostiku, bet šķiet, ka neizmantojat jauno administrēšanas centru. Lai izmantotu jauno administrēšanas centru, slidiet pārslēgu augšējā labajā stūrī, jaunā **administrēšanas** centra labajā pusē. Izmantojot jauno administrēšanas centru, noklikšķiniet uz logrīka Vai nepieciešama **palīdzība?,** ierakstiet "Atlikt Grupu jaunināšanu", pēc tam izpildiet uzvednēs norādītās darbības, lai palaistu diagnostiku.
 
-Ja saņēmāt paziņojumu par Microsoft vadīto automatizēto jaunināšanu no Skype darbam uz Microsoft Teams, un jūs vēlaties atlikt automātisko jaunināšanu uz vēlāku datumu, jūsu globālais administrators var pieteikties [grupu administrēšanas portālā](https://admin.teams.microsoft.com/dashboard) un pēc tam, kad Microsoft Teams jaunināšanas sadaļā atlasāt pogu **Atsvaidzināt statusu** , atlasiet pogu **atlikt** . Lai jauno nomnieka automatizētās jaunināšanas datumu skatītu pakalpojumā Microsoft Teams, atsvaidziniet lapu komandu administrēšanas portāls.
+Ja esat saņēmis paziņojumu par Microsoft automatizētu jaunināšanu no Skype darbam uz Microsoft Teams un vēlaties atlikt automātisko jaunināšanu uz vēlāku datumu,  globālais administrators var pieteikties [Teams](https://admin.teams.microsoft.com/dashboard) administrēšanas portālā un pēc tam, kad sadaļā Microsoft Teams jaunināšana ir atlasīta poga Atsvaidzināt statusu, atlasiet pogu **Atlikt.** Lai skatītu sava nomnieka automatizētās jaunināšanas uz Microsoft Teams datumu, atsvaidziniet Teams administrēšanas portāla lapu.
 
-**Piezīme:** Poga **atlikt atlikšanu** būs pieejama tikai tad, ja ir saņemts ziņojums centra paziņojums par automatizēto jaunināšanu. 
+**Piezīme.** Poga **Atlikt** būs pieejama tikai tad, ja esat saņēmis ziņojumu centra paziņojumu par automātisko jaunināšanu. 
 
-Globālie administratori var arī palaist [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) , lai uzzinātu vairāk par pašreizējo jaunināšanas statusu.
+Globālie administratori var arī palaist [Get-CsTeamsUpgradeStatus,](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) lai iegūtu papildinformāciju par to pašreizējo jaunināšanas statusu.

@@ -1,8 +1,8 @@
 ---
-title: Politikas catchall
+title: Politikas ir visas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721301"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801674"
 ---
-# <a name="teams-policies"></a>Grupu politikas
+# <a name="teams-policies"></a>Teams politikas
 
-Microsoft Teams iestatījumus kontrolē politikas. Lai veiktu izmaiņas, ir jākonfigurē atbilstošā politika un pēc tam tā jālieto lietotājiem. Ātrākais veids, kā to izdarīt visiem lietotājiem, ir modificēt noklusējuma politiku ar nosaukumu Global. 
+Microsoft Teams iestatījumus kontrolē politikas. Lai veiktu izmaiņas, jums jākonfigurē atbilstošā politika un pēc tam tā jālieto lietotājiem. Ātrākais veids, kā to izdarīt visiem lietotājiem, ir modificēt noklusējuma politiku ar nosaukumu Globāli. 
 
-**Piezīmes** Politikas izmaiņas stāsies ***spēkā vismaz 4 līdz 48 stundām***. Ja izveidojat pielāgotu politiku, pirms papildu izmaiņu veikšanas ir jāgaida vismaz 4 stundas. Pēc tam šo politiku varat lietot lietotājiem. Tas nozīmē, ka pielāgotas politikas var ilgt līdz pat 48 stundām. Globālās politikas tiek iestatītas kā noklusējuma visiem lietotājiem, un globālās politikas izmaiņas var ilgt līdz pat 24 stundām. Ja esat izveidojis pielāgotu politiku, lietojāt to lietotājiem, un tā joprojām nav spēkā pēc 48 stundām, vai esat modificējis globālo politiku un gaidījis vismaz 24 stundas, lūdzu, atveriet atbalsta lietu.
+**NOTE** Lai politikas izmaiņas **_stātos spēkā, ir ne vairāk kā 4–48 stundas._** Ja veidojat pielāgotu politiku, ir jāgaida vismaz 4 stundas, pirms varat tajā veikt papildu izmaiņas. Pēc tam šo politiku varat lietot lietotājiem. Tas nozīmē, ka pielāgoto politiku darbība var ilgt līdz pat 48 stundām. Globālās politikas ir iestatītas kā noklusējuma politikas visiem lietotājiem, un globālās politikas izmaiņu spēkā var būt līdz pat 24 stundām. Ja esat izveidojis pielāgotu politiku, lietota lietotājiem un tā joprojām nav stāsies spēkā pēc 48 stundām vai esat modificējis globālo politiku un gaidījis vismaz 24 stundas, lūdzu, atveriet atbalsta gadījumu.
 
 Grupu politikas ir sadalītas šādās jomās:
 
-- [Grupu politikas](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontrolē lietotāju personisko grupu atklāšanu, meklējot un veidojot privātus kanālus.  
-- [Sapulču politikas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolē to, ko lietotāji var darīt ar grupu sapulcēm, tostarp vestibila vadību. Lai saņemtu palīdzību saistībā ar vestibila problēmām, piemēram, grupu konfigurēšanu visiem lietotājiem, skatiet tēmu [vestibila iestatījumu un dalības līmeņu kontrole](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
-- [Ziņojumapmaiņas politikas](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrolē to, ko lietotāji var darīt ar tērzēšanu un ziņojumiem, kā arī ieslēgt tērzēšanu, izdzēst tērzēšanu, pieprasot lasīt apliecinājumus, izmantojot giphy un uzlīmes un veikt citas darbības.
-- [Programmu iestatīšanas politikas](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrolē, kuras lietojumprogrammas ir pieejamas lietotājiem, ieskaitot pielāgotas un trešo personu lietojumprogrammas, kā arī to parādīšanās secību.  
-- Datu [saglabāšanas politikas](https://docs.microsoft.com/microsoftteams/retention-policies) grupām ir atrodamas Microsoft 365 drošības un atbilstības centrā.
-- Teams adrešu grāmatas politikas tiek iestatītas, izmantojot [tverto direktorija meklēšanu](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Teams politikas](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontrolē lietotāju privāto grupu atklāšanu privāto kanālu meklēšanas un izveides laikā.  
+- [Sapulču politikas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolē to, kādas darbības lietotāji var veikt ar Teams sapulcēm, tostarp vadīt vestibilu. Lai saņemtu palīdzību saistībā ar vestibila problēmām, piemēram, par Teams konfigurēšanu visu dalībnieku uzņemšanai, skatiet rakstu [Vestibila iestatījumu un dalības līmeņu kontrole.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Ziņojumapmaiņas politikas](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrolē to, ko lietotāji var darīt ar tērzēšanu un ziņojumiem, tostarp ieslēgt vai izslēgt tērzēšanu, dzēst tērzēšanu, pieprasīt lasīšanas apliecinājumus, izmantot giphys un uzlīmes, un veikt citas darbības.
+- [Programmu iestatīšanas](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) politikas kontrolē, kuras programmas ir pieejamas lietotājiem, tostarp pielāgotas un trešo pušu programmas, kā arī to parādīšanas secību.  
+- Teams [datu](https://docs.microsoft.com/microsoftteams/retention-policies) saglabāšanas politikas pieejamas Microsoft 365 drošības un atbilstības centrā.
+- Teams adrešu grāmatas politikas tiek iestatītas, izmantojot [tvēruma meklēšanu direktorijā.](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)
