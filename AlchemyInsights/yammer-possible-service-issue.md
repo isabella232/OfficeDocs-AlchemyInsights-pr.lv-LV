@@ -1,8 +1,8 @@
 ---
-title: Yammer — iespējamās pakalpojumu problēmas
+title: Yammer — iespējamā pakalpojuma problēma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: 51ccf2517a8f4bddcfc63d38011bb9dd2f0f9fc5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf01341a34719326824847bb44d55ab995a9faba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748872"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796243"
 ---
-# <a name="yammer---possible-service-issue"></a><span data-ttu-id="752a5-102">Yammer — iespējamās pakalpojumu problēmas</span><span class="sxs-lookup"><span data-stu-id="752a5-102">Yammer - possible service issue</span></span>
+# <a name="yammer---possible-service-issue"></a><span data-ttu-id="74891-102">Yammer — iespējama pakalpojuma problēma</span><span class="sxs-lookup"><span data-stu-id="74891-102">Yammer - possible service issue</span></span>
 
-<span data-ttu-id="752a5-103">Lai piekļūtu pakalpojumam Yammer, var rasties īslaicīga problēma.</span><span class="sxs-lookup"><span data-stu-id="752a5-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="752a5-104">Pārbaudiet [Pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai uzzinātu, vai tas ietekmē jūsu tīklu.</span><span class="sxs-lookup"><span data-stu-id="752a5-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
+<span data-ttu-id="74891-103">Var rasties īslaicīga problēma, kur lietotājiem, piekļūstot Yammer, var rasties kļūdas.</span><span class="sxs-lookup"><span data-stu-id="74891-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="74891-104">Pārbaudiet pakalpojuma [darbspējas informācijas paneli,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) lai uzzinātu, vai tas ietekmē jūsu tīklu.</span><span class="sxs-lookup"><span data-stu-id="74891-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
