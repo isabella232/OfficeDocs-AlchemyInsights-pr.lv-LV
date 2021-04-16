@@ -1,8 +1,8 @@
 ---
-title: Wi-Fi tīkla paroles skatīšana operētājsistēmā Windows 10
+title: Tīkla Wi-Fi skatīšana operētājsistēmā Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689097"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807385"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Wi-Fi tīkla paroles skatīšana operētājsistēmā Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Tīkla Wi-Fi skatīšana operētājsistēmā Windows 10
 
-1. Pārliecinieties, vai jūsu Windows 10 datorā ir izveidots savienojums ar Wi-Fi tīklu.
+1. Pārliecinieties, vai Windows 10 datoram ir Wi-Fi savienojums.
 
-2. Dodieties uz **sadaļu iestatījumi > tīkla & interneta > statusu**vai noklikšķiniet uz vai pieskarieties [šeit](ms-settings:network?activationSource=GetHelp) , lai to izdarītu tagad.)
+2. Dodieties **uz Iestatījumi > Tīkla & interneta > statuss** vai noklikšķiniet [](ms-settings:network?activationSource=GetHelp) vai pieskarieties šeit, lai ļautu mums doties šeit tūlīt.)
 
-3. Noklikšķiniet uz **tīkla un koplietošanas centrs**.
+3. Noklikšķiniet **uz Tīkla un koplietošanas centrs**.
 
     ![Tīkla un koplietošanas centrs.](media/network-sharing-center.png)
 
-4. **Tīkla un koplietošanas centrā**blakus opcijai **savienojumi**redzēsit sava bezvadu tīkla nosaukumu. Piemēram, ja jūsu tīkla nosaukums ir "ABC123", iespējams, redzēsit:
+4. Sadaļā **Network and Sharing Center**(Tīkls un koplietošanas centrs) blakus **Connections**(Savienojumi) redzēsit sava bezvadu tīkla nosaukumu. Piemēram, ja jūsu tīkla nosaukums ir "ABC123", varat redzēt:
 
     ![Tīkla savienojumi.](media/network-connections.png)
 
-    Noklikšķiniet uz bezvadu tīkla nosaukuma, lai atvērtu Wi-Fi statusa logu. 
+    Noklikšķiniet uz bezvadu tīkla nosaukuma, lai Wi-Fi statusa logu. 
 
-5. Logā Wi-Fi statuss noklikšķiniet uz **bezvadu rekvizīti**, noklikšķiniet uz cilnes **Drošība** un atzīmējiet **Rādīt rakstzīmes**.
+5. Loga Statuss Wi-Fi Bezvadu rekvizīti **noklikšķiniet** uz cilnes **Drošība** un atzīmējiet Rādīt **rakstzīmes**.
 
-    ![Rādīt Wi-Fi paroļu rakstzīmes.](media/show-password-characters.png)
+    ![Rādīt Wi-Fi paroles rakstzīmes.](media/show-password-characters.png)
 
