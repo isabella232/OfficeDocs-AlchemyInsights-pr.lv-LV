@@ -1,27 +1,28 @@
 ---
-title: Lejupielādēt apmeklējumu pārskatus darba grupās
+title: Dalības atskaišu lejupielāde Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: d11f8114595b8201cfdd1bdf6c925097aee185cb
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569149"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814704"
 ---
-# <a name="download-attendance-reports-in-teams"></a>Lejupielādēt apmeklējumu pārskatus darba grupās
+# <a name="download-attendance-reports-in-teams"></a>Dalības atskaišu lejupielāde Teams
 
-Sanāksmju rīkotāji var lejupielādēt apmeklējumu pārskatus sanāksmju laikā. Kā administrators jūs kontrolējat, vai sapulces organizatori var lejupielādēt sapulces apmeklējumu pārskatus, iestatot komandu sapulču politiku. Pēc noklusējuma iespēja lejupielādēt ziņojumu ir izslēgta. Norādījumus par to, kā ieslēgt šo līdzekli, skatiet sadaļā [Sapulču politikas iestatījumi-sapulces apmeklējuma atskaite](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Sapulču rīkotāji var lejupielādēt dalības atskaites sapulču laikā. Kā administrators jūs kontrolējiet, vai sapulces rīkotāji var lejupielādēt sapulču dalības atskaites, iestatot Teams sapulces politiku. Iespēja lejupielādēt atskaiti pēc noklusējuma ir izslēgta. Norādījumus par to, kā ieslēgt šo līdzekli, skatiet rakstā  [Sapulces politikas iestatījumi — sapulču dalības atskaites](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
 
-Kad tas ir iespējots, sapulces rīkotāji sanāksmes laikā var atlasīt **Rādīt dalībniekus** un izvēlēties **lejupielādēt dalībnieku sarakstu**. Lai iegūtu papildinformāciju, skatiet sadaļu [lejupielādes apmeklējumu ziņojumi Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) un [Microsoft Teams sapulču apmeklētības pārskatā](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
+Kad šī opcija ir iespējota, sapulces rīkotāji var atlasīt  **Rādīt dalībniekus un**  izvēlēties  **Lejupielādēt dalībnieku sarakstu**. Papildinformāciju skatiet rakstā [Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) un [Microsoft Teams sapulču dalības atskaites](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
 
-**Svarīgi**: jūs varēsiet lejupielādēt tikai apmeklējuma ziņojumu, kamēr notiek sapulce un dalībnieki joprojām ir klāt.
+**Svarīgi**: dalības atskaiti varēsit lejupielādēt tikai sapulces norises laikā un kamēr dalībnieki vēl piedalās.

@@ -2,28 +2,29 @@
 title: EDU verifikācija
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
-ms.translationtype: MT
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205274"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814379"
 ---
 # <a name="edu-verification"></a>EDU verifikācija
 
-Vairumā gadījumu akadēmiskie atbilstības pieprasījumi tiek apstrādāti 24-48 stundu laikā. Dažiem pieprasījumiem var būt nepieciešama rūpīgāka pārskatīšana, un tie var ilgt līdz pat 10 darba dienām, lai tos apstrādātu. Kad tas būs pabeigts, mēs nosūtīsim e-pastu ar jūsu skolas atbilstības statusu.
+Vairākumā gadījumu akadēmiskās atbilstības pieprasījumi tiek apstrādāti 24–48 stundu laikā. Dažiem pieprasījumiem var būt nepieciešama padziļināta pārskatīšana, un to apstrāde var ilgt līdz pat 10 darba dienām. Pēc pabeigšanas mēs nosūtīsim e-pasta ziņojumu ar jūsu mācību iestādes atbilstības statusu.
 
-**Svarīga informācija** Ja pirms domēna ievadīšanas izgājāt no verifikācijas vedņa, varat [atsākt akadēmiskās pārbaudes vedni](https://go.microsoft.com/fwlink/p/?linkid=2135255) jebkurā laikā bezmaksas izmēģinājumversijas laikā.
+**Svarīgi!** Ja pirms domēna ievadīšanas izgājāt no verifikācijas vedņa, varat [atsākt akadēmiskās verifikācijas vedni](https://go.microsoft.com/fwlink/p/?linkid=2135255) jebkurā brīdī, izmantojot bezmaksas izmēģinājumversiju.
 
-Ja vēlaties pārbaudīt sava domēna statusu, dodieties uz [Microsoft 365 administrēšanas centru](https://go.microsoft.com/fwlink/p/?linkid=2024339). Sākumlapā ritiniet līdz apakšai un atrodiet **norēķinu** karti. Norēķinu **karte** norāda verifikācijas procesa statusu (apstiprināts, gaidošs, noraidīts vai pievienot jūsu domēnu).
+Ja vēlaties pārbaudīt sava domēna statusu, dodieties uz [Microsoft 365 administrēšanas centru](https://go.microsoft.com/fwlink/p/?linkid=2024339). Sākumlapā ritiniet līdz apakšai un atrodiet kartīti **Norēķini**. Kartītē **Norēķini** ir norādīts verifikācijas procesa statuss (apstiprināts, gaida, noraidīts vai pievienot domēnu).
 
-Ja jūsu pieprasījums ir noraidīts, [skatiet rakstu Mana skola nav piemērota. Ko man darīt tagad?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Ja jūsu pieprasījums ir noraidīts, skatiet rakstu [Mana skola nav piemērota. Ko iesākt?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

@@ -1,8 +1,8 @@
 ---
-title: Failu koplietošana tīklā Windows 10
+title: Failu koplietošana tīklā operētājsistēmā Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745398"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813155"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Failu koplietošana tīklā Windows 10
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Failu koplietošana tīklā operētājsistēmā Windows 10
 
-**Piezīme**. Ja iepriekš izmantojāt mājas grupu failu koplietošanai, lūdzu, ņemiet vērā, ka mājas grupa ir noņemta no Windows 10 (versija 1803). Tagad varat koplietot printerus un failus, izmantojot iebūvētos līdzekļus operētājsistēmā Windows 10.
+**Piezīme.** Ja iepriekš izmantojāt mājas grupu failu koplietošanai, ņemiet vērā, ka mājas grupa ir noņemta no Windows 10 (versija 1803). Tagad varat kopīgot printerus un failus, izmantojot iebūvētos līdzekļus operētājsistēmā Windows 10.
 
-**Failu vai mapju koplietošana tīklā**
+**Failu un mapju koplietošana tīklā**
 
-- **Failu pārlūkā**atlasiet failu, > noklikšķiniet uz cilnes **kopīgošana** , kas atrodas sadaļas **kopīgot ar** augšpusē >, noklikšķiniet uz **noteiktas personas**.
+- Failu **pārlūkā** atlasiet failu> noklikšķiniet uz  cilnes Koplietošana augšējā > sadaļā **Koplietot ar** noklikšķiniet uz **Noteiktas personas.**
 
-    ![Koplietot failu ar noteiktām personām.](media/share-with-specific-people.png)
+    ![Koplietojiet failu ar konkrētām personām.](media/share-with-specific-people.png)
           
-- Ja atlasāt vairākus failus vienlaikus, tos var kopīgot vienādi. Tas darbojas arī mapēm.
+- Ja vienlaikus atlasāt vairākus failus, varat tos visus kopīgot tādā pašā veidā. Tā darbojas arī mapēs.
 
-**Lai skatītu ierīces tīklā, kas koplieto failus**
+**Lai skatītu tīkla ierīces, kas koplieto failus**
 
-- **Failu pārlūkā**atveriet **tīkls**. Ja tīkla noteikšana nav iespējota, tiks parādīts kļūdas ziņojums "tīkla noteikšana ir izslēgta..."
+- Failu **pārlūkā** dodieties uz **Tīkls**. Ja tīkla atklāšana nav iespējota, tiks parādīts kļūdas ziņojums "Tīkla atklāšana ir izslēgta..."
 
-- Noklikšķiniet uz **tīkla noteikšana ir** izslēgta reklāmkarogā un pēc tam noklikšķiniet uz **Ieslēgt tīkla noteikšanu un failu koplietošanu**.
+- Noklikšķiniet uz **reklāmkaroga Tīkla atklāšana** ir izslēgta, pēc tam noklikšķiniet **uz Ieslēgt tīkla atklāšanu un failu koplietošanu.**
 
-    ![Ieslēdziet tīkla noteikšanu un failu koplietošanu.](media/turn-on-network-discovery.png)
+    ![Ieslēdziet tīkla atklāšanu un failu koplietošanu.](media/turn-on-network-discovery.png)
 
-[Lasiet vairāk par failu koplietošanu tīklā](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[Papildinformācija par failu koplietošanu tīklā](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Failu kopīgošana, izmantojot lietojumprogrammas, OneDrive, e-pasta ziņojumus un citas funkcijas](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Failu koplietošana, izmantojot programmas, OneDrive, e-pasta ziņojumus un daudz ko citu](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

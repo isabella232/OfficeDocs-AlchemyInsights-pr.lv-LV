@@ -1,8 +1,8 @@
 ---
-title: Grupas un pamata grupas derīguma termiņš nesakrīt
+title: Grupas un pamatā esošās grupas beigu datums neatbilst
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364879"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813443"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Grupas un pamata grupas derīguma termiņš nesakrīt
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Grupas un pamatā esošās grupas beigu datums neatbilst
 
-Pirms grupas atjaunošanas grupa, kas atbalsta grupu, vispirms tiek atjaunota. Atjaunojot jauno derīguma beigu datumu grupa tiek iestatīta nākotnē. Šis jaunais datums nevar būt uzreiz redzams pakalpojumā Teams. Sinhronizācija var ilgt līdz pat 24 stundām. Ja tiek parādīta neatbilstība starp komandas beigu datumu un tās pamatgrupu, nogaidiet 24 stundas pirms papildu atbalsta saņemšanas.  
+Pirms grupas atjaunošanas grupa, kas atbalsta grupu, tiek atjaunota pirmo reizi. Atjaunošanas ietvaros grupai tiek iestatīts jauns derīguma termiņa beigu datums nākotnes datumam. Jaunais datums, iespējams, nebūs uzreiz redzams programmā Teams. Sinhronizācija var ilgt līdz pat 24 stundām. Ja redzat neatbilstību starp grupas derīguma termiņa beigu datumu un pamatā esošo grupu, uzgaidiet 24 stundas, pirms tiek meklēts papildu atbalsts.  
 
-Papildinformāciju skatiet sadaļā [grupas termiņš un atjaunošana pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Papildinformāciju skatiet rakstā Komandas derīguma termiņš un atjaunošana lietojumprogrammā [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

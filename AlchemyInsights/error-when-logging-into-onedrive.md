@@ -2,7 +2,7 @@
 title: 0x8004de40 kļūda, palaižot OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823052"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813659"
 ---
 # <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 kļūda, palaižot OneDrive
 
-Ja, pierakstoties pakalpojumā OneDrive, saņemat kļūdas ziņojumu **0x8004de40** , restartējiet datoru, kamēr ir izveidots savienojums ar darba vai mācību iestādes domēnu. Ja pēc atsāknēšanas saņemat šo kļūdu, izmēģiniet to, kamēr ir izveidots savienojums ar darba vai mācību iestādes domēnu:
+Ja, piesakoties **pakalpojumā** OneDrive, 0x8004de40 kļūda, restartējiet datoru, kamēr ir izveidots savienojums ar darba vai mācību domēnu. Ja pēc atkārtotas palaišanas tiek parādīta šāda kļūda, mēģiniet to veikt, kamēr ir izveidots savienojums ar darba vai mācību domēnu.
 
-1. Noklikšķiniet uz Sākt un meklēšanas lodziņā ierakstiet **cmd** vai **komandu uzvedne**  , ar peles labo pogu noklikšķiniet uz komandu uzvednes lietojumprogrammas un atlasiet  **Palaist kā administratoram** . Ja tiek parādīta uzvedne ar aicinājumu ievadīt administratora paroli vai apstiprinājumu, ierakstiet paroli vai noklikšķiniet uz **Atļaut** .  
+1. Noklikšķiniet uz Sākt un  meklēšanas **lodziņā ierakstiet cmd** vai komandu uzvedne, ar peles labo pogu noklikšķiniet uz komandu uzvednes lietojumprogrammas un atlasiet Palaist **kā administratoram.** Ja saņemat aicinājumu ierakstīt administratora paroli vai apstiprinājumu, ierakstiet paroli vai noklikšķiniet uz **Atļaut**.  
 
-2. Komandu uzvednes logā ierakstiet **dsregcmd/Leave**  un uzgaidiet, līdz tiek pabeigta komanda. Pēc tam ierakstiet **dsregcmd/Join** un uzgaidiet, līdz tiek pabeigta komanda.
+2. Komandu uzvednes logā ierakstiet **dsregcmd /leave un**  gaidiet, līdz komanda tiek pabeigta. Pēc tam **ierakstiet dsregcmd /join un** gaidiet, līdz komanda tiek pabeigta.
 3. Restartējiet datoru.
