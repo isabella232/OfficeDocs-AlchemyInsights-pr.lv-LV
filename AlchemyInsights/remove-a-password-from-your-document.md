@@ -1,8 +1,8 @@
 ---
-title: Paroles noņemšana no dokumenta
+title: Dokumenta paroles noņemšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768218"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799420"
 ---
-# <a name="remove-a-password-from-a-word-document"></a><span data-ttu-id="66cdc-102">Paroles noņemšana no Word dokumenta</span><span class="sxs-lookup"><span data-stu-id="66cdc-102">Remove a password from a Word document</span></span>
+# <a name="remove-a-password-from-a-word-document"></a><span data-ttu-id="2da1b-102">Paroles noņemšana Word dokumentā</span><span class="sxs-lookup"><span data-stu-id="2da1b-102">Remove a password from a Word document</span></span>
 
-<span data-ttu-id="66cdc-103">Kamēr esat iepazinies ar sākotnējo paroli, dokumenta paroles noņemšana ir vienkāršs process.</span><span class="sxs-lookup"><span data-stu-id="66cdc-103">As long as you know the original password, removing a password from a document is a simple process.</span></span>
+<span data-ttu-id="2da1b-103">Ja zināt sākotnējo paroli, paroles noņemšana no dokumenta ir vienkāršs process.</span><span class="sxs-lookup"><span data-stu-id="2da1b-103">As long as you know the original password, removing a password from a document is a simple process.</span></span>
 
-1. <span data-ttu-id="66cdc-104">Atveriet dokumentu un ievadiet paroli.</span><span class="sxs-lookup"><span data-stu-id="66cdc-104">Open the document and enter the password.</span></span>
-2. <span data-ttu-id="66cdc-105">Dodieties uz sadaļu informācija par **failu**  >  **Info**  >  **Aizsargājiet dokumentu**  >  **Šifrēt ar paroli**.</span><span class="sxs-lookup"><span data-stu-id="66cdc-105">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
-3. <span data-ttu-id="66cdc-106">Notīriet paroli **lodziņā Parole**un pēc tam atlasiet **Labi**.</span><span class="sxs-lookup"><span data-stu-id="66cdc-106">Clear the password in the **Password box**, and then select **OK**.</span></span>
+1. <span data-ttu-id="2da1b-104">Atveriet dokumentu un ievadiet paroli.</span><span class="sxs-lookup"><span data-stu-id="2da1b-104">Open the document and enter the password.</span></span>
+2. <span data-ttu-id="2da1b-105">Dodieties **uz**  >  **sadaļu Faila informācija** Par dokumenta  >    >  **šifrēšanu ar paroli.**</span><span class="sxs-lookup"><span data-stu-id="2da1b-105">Go to **File** > **Info** > **Protect Document** > **Encrypt with Password**.</span></span>
+3. <span data-ttu-id="2da1b-106">Notīriet paroli lodziņā **Parole un** pēc tam atlasiet **Labi**.</span><span class="sxs-lookup"><span data-stu-id="2da1b-106">Clear the password in the **Password box**, and then select **OK**.</span></span>
