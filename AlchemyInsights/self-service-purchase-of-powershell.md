@@ -1,8 +1,8 @@
 ---
-title: PowerShell pašapkalpošanās iegāde
+title: PowerShell patstāvīgi iegādāts pirkums
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739977"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797728"
 ---
-# <a name="self-service-purchase-of-powershell"></a>PowerShell pašapkalpošanās iegāde
+# <a name="self-service-purchase-of-powershell"></a>PowerShell patstāvīgi iegādāts pirkums
 
-Lai izmantotu MSCommerce PowerShell moduli, tas ir jāinstalē Windows 10 ierīcē, izmantojot TLS 1,2 (lokālās administratora atļaujas).  Importējiet un izveidojiet savienojumu ar MSCommerce moduli.  Kad tiek prasīts pieteikties, jums ir jāizmanto globālie vai norēķinu administratora lomu akreditācijas dati.  
+Lai izmantotu MSCommerce PowerShell moduli, tas ir jāinstalē Windows 10 ierīcē ar TLS 1.2 (nepieciešamas lokālā administratora atļaujas).  Importējiet un izveidojiet savienojumu ar MSCommerce moduli.  Pēc pieteikšanās ir jāizmanto globālās vai norēķinu administratora lomas akreditācijas dati.  
 
-Ja jums nav TLS 1,2, iespējams, tiek parādīts šāds kļūdas ziņojums, mēģinot iegūt vai atjaunināt politiku.
+Ja jums nav TLS 1.2, iespējams, mēģinot iegūt vai atjaunināt politiku, var tikt parādīts šāds kļūdas ziņojums:
 
-*ErrorMessage — pamatā esošais savienojums ir aizvērts: nosūtīšanas laikā radās neparedzēta kļūda*.
+*ErrorMessage — pamatā esošais savienojums tika aizvērts:* sūtīšanas laikā radās neparedzēta kļūda.
 
 
 
