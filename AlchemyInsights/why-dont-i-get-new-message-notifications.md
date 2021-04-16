@@ -2,7 +2,7 @@
 title: Kāpēc nesaņemu paziņojumus par jauniem ziņojumiem?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002579"
 - "4995"
-ms.openlocfilehash: 0607f9cea693e0d0775326d60e76bd867ac60c6a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6128f1f68f33b0d6070ffd6f867a65ff4a5716c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664537"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805801"
 ---
 # <a name="why-dont-i-get-new-message-notifications"></a>Kāpēc nesaņemu paziņojumus par jauniem ziņojumiem?
 
@@ -25,7 +25,7 @@ Pēc noklusējuma paziņojumi tiek rādīti tikai jaunajiem ziņojumiem svarīgo
 
 1. Programmā pieskarieties pie **Iestatījumi**.
 
-2. Sadaļā **Pasts**pieskarieties pie **Paziņojumi**.
+2. Sadaļā **Pasts** pieskarieties pie **Paziņojumi**.
 
 3. Mainiet paziņojumus par pastu kontam uz **Visi**, **Tikai svarīgo ziņojumu iesūtne** vai **Nav**.
 

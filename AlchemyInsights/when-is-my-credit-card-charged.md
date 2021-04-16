@@ -1,8 +1,8 @@
 ---
-title: Kad tiek iekasēta maksa par kredītkarti?
+title: Kad tiek iekasēta maksa no manas kredītkartes?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796403"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806089"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kad tiek iekasēta maksa par kredītkarti?
+# <a name="when-is-my-credit-card-charged"></a>Kad tiek iekasēta maksa no manas kredītkartes?
 
-Veicot sākotnējo pirkumu, var paiet līdz pat divām dienām, līdz maksājums notiks.
+Sākot ar sākotnējo pirkumu, var paiet līdz pat divām dienām, līdz maksa tiek iekasēta.
   
-Periodiskie maksājumi notiek vienā dienā ar izveidoto rēķinu.
+Periodisku maksājumu veikšana notiek vienas dienas laikā pēc rēķina izveides.
   
-Ja maksa ir nesekmīga, sistēma turpinās mēģināt atmaksāt atlikumu nākamajās nedēļās. Jūs jebkurā laikā varat veikt savas maksājumu informācijas atjauninājumus, lai nodrošinātu, ka nākamais maksas mēģinājums ir sekmīgs. Papildinformāciju skatiet rakstā [maksāšanas metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ja maksa ir nesekmīga, sistēma turpinās mēģināt bilances atslādēties tuvāko dažu nedēļu laikā. Jebkurā laikā varat veikt maksājumu informācijas atjauninājumus, lai nodrošinātu sekmīgu nākamā maksājuma mēģinājumu. Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
