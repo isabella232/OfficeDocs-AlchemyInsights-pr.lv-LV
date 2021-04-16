@@ -2,9 +2,10 @@
 title: OneDrive sinhronizācijas problēmu novēršana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,13 +13,13 @@ ms.custom:
 - "9002286"
 - "4415"
 - "4416"
-ms.openlocfilehash: 0c29a494226cc58a6f23feff38976d3b45ca1be0
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: 5e92e15dcbcb39ac702d91ed2a20dac2cf16c0ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282768"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812795"
 ---
-# <a name="fix-onedrive-sync-issues"></a><span data-ttu-id="e95c7-102">OneDrive sinhronizācijas problēmu novēršana</span><span class="sxs-lookup"><span data-stu-id="e95c7-102">Fix OneDrive sync issues</span></span>
+# <a name="fix-onedrive-sync-issues"></a><span data-ttu-id="f9bae-102">OneDrive sinhronizācijas problēmu novēršana</span><span class="sxs-lookup"><span data-stu-id="f9bae-102">Fix OneDrive sync issues</span></span>
 
-<span data-ttu-id="e95c7-103">Windows vai Mac, Uzziniet vairāk par [OneDrive sinhronizācijas problēmas un to risināšanas](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2).</span><span class="sxs-lookup"><span data-stu-id="e95c7-103">For Windows or Mac, learn more about [OneDrive sync issues and how to solve them](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2).</span></span>
+<span data-ttu-id="f9bae-103">Ja lietojat Windows vai Mac datoru, uzziniet vairāk par [OneDrive sinhronizācijas problēmām un to, kā tās novērst](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2).</span><span class="sxs-lookup"><span data-stu-id="f9bae-103">For Windows or Mac, learn more about [OneDrive sync issues and how to solve them](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2).</span></span>
