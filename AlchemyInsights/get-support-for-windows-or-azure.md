@@ -1,29 +1,30 @@
 ---
-title: Saņemt atbalstu operētājsistēmai Windows vai Azure
+title: Saņemt atbalstu Windows vai Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: fdc2b1fc30e5f3b5a06c9a489789e81fe342a890
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
-ms.translationtype: MT
+ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812147"
 ---
-# <a name="get-support-for-windows-or-azure"></a>Saņemt atbalstu operētājsistēmai Windows vai Azure
+# <a name="get-support-for-windows-or-azure"></a>Saņemt atbalstu Windows vai Azure
 
-Operētājsistēmai Windows vai Azure korporācija Microsoft piedāvā dažādus plānus, lai palīdzētu jums iegūt nepieciešamo atbalsta biznesa atbalstu, sākot no Premium atbalsta, kas pieejams dienā un naktī, līdz pat maksas opcijām. Ja jūsu organizācijai nav maksas atbalsta plāna, izvēlieties kādu no tālāk norādītajām opcijām, lai iegūtu papildinformāciju.
+Microsoft piedāvā dažādus Windows vai Azure, lai palīdzētu jums saņemt atbalstu uzņēmējdarbībai, sākot ar Premium atbalstu, kas pieejams dienu un nakti, un beidzot ar iespēju maksāt par katru gadījumu atsevišķi. Ja jūsu organizācijai nav maksas atbalsta plāna, papildinformācijai atlasiet opciju zemāk.
 
-- **Microsoft vienotais atbalsts** -Microsoft vienotais atbalsts pašos pamatos maina uzņēmuma atbalsta pieredzi, nodrošinot visu jūsu Microsoft produktu un pakalpojumu visu organizāciju pārklājumu, plašas jaunas iespējas IT speciālistu un izstrādātāju atbalstītājiem un uz rezultātiem balstītu pieeju, kas sniedz lielāku atbalsta vērtību, pieaugot jūsu organizācijai. Uzziniet vairāk par [vienoto atbalsta vietni](https://aka.ms/unified-support).
-- **Microsoft profesionālais atbalsts (maksājot par katru incidentu)** -ja jūsu uzņēmumam ir nepieciešams tūlītējs tehniskais atbalsts, profesionālais atbalsts ir pieejams kā vienreizēja samaksa par katru INCIDENTU (ppi) vai 5 incidentu pakotne. Microsoft speciālisti palīdz novērst konkrētu problēmu, kļūdas ziņojumu vai funkcionalitāti, kas nedarbojas, kā paredzēts. Lai uzzinātu vairāk un iegādātos maksas par incidentu atbalstu, [izveidojiet jaunu atbalsta pieprasījumu](https://support.microsoft.com/supportforbusiness/productselection).
-- **Azure atbalsts** — norēķinu un abonēšanas atbalsts ir iekļauts jūsu Microsoft Azure abonementā, kuru varat iesniegt, izmantojot [Microsoft Azure administrēšanas portālu](https://portal.azure.com/). Tehniskajam atbalstam varat iegādāties [Microsoft Azure atbalsta plānus](https://azure.microsoft.com/support/plans/) , izmantojot lielapjoma licencēšanas programmas vai tieši no korporācijas Microsoft.
+- **Microsoft vienotais atbalsts** — Microsoft vienotais atbalsts būtiski maina uzņēmumu atbalsta pieredzi, nodrošināt visu jūsu Microsoft produktu un pakalpojumu atbalstu visas organizācijas mērogā, sniedzot jaunas iespējas IT ekspertiem un izstrādātājiem, kā arī rezultātos balstītā pieejā, kas nodrošina atbalstu, kura vērtība aug kopā ar jūsu organizāciju. Lasiet vairāk [Vienotā atbalsta vietnē](https://aka.ms/unified-support).
+- **Microsoft profesionālais atbalsts (maksa par katru gadījumu)** — ja jums ir nepieciešams tūlītējs tehniskais atbalsts jūsu uzņēmumam, Microsoft profesionālais atbalsts ir pieejams ar katra gadījuma atsevišķas apmaksas iespēju vai piecu gadījumu komplektā. Microsoft eksperti palīdzēs jums novērst konkrētu problēmu, kļūdas paziņojumu vai darbības traucējumus. Papildinformācijai un šī atbalsta plāna iegādei, [izveidojiet jaunu atbalsta pieprasījumu](https://support.microsoft.com/supportforbusiness/productselection).
+- **Azure Support** — norēķinu un abonementa atbalsts ir iekļauts jūsu Microsoft Azure abonementā, ko jūs varat iesniegt [Microsoft Azure administrēšanas portālā](https://portal.azure.com/). Tehniskajam atbalstam varat iegādāties [Microsoft Azure atbalsta plānus](https://azure.microsoft.com/support/plans/), izmantojot lielapjoma licencēšanas programmas vai tiešā veidā no Microsoft.
 
-Ja problēma ir saistīta ar Microsoft 365, pārveidot jūsu vaicājumu, izmantojot noteiktu produktu nosaukumus un līdzekļus.
+Ja jūsu problēma ir saistīta ar Microsoft 365, pārfrāzējiet savu pieprasījumu, izmantojot konkrēto produktu un līdzekļu nosaukums.

@@ -2,7 +2,7 @@
 title: USB printera problēmu novēršana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677502"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812723"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>USB printera savienojuma problēmu novēršana
 
-Izmēģiniet šīs **problēmu novēršanas darbības** , lai vēlreiz mēģinātu izmantot USB printeri:
+Mēģiniet veikt **šīs problēmu novēršanas darbības,** lai vēlreiz darbojas USB printeris:
 
-1. Izslēdziet printeri un atvienojiet USB kabeli no datora un printera.
+1. Izslēdziet printeri un atvienojiet USB vadu no datora un printera.
 2. Pārbaudiet kabeli, lai pārliecinātos, vai nav bojājumu.
-3. Pievienojiet vadu atpakaļ savam DATORAM un printerim.
+3. Iespraudiet kabeli atpakaļ datorā un printerī.
 
-Ja tas nepalīdz, mēģiniet **Noņemt un atkārtoti instalēt USB printeri**.
+Ja tas nedarboties, mēģiniet **noņemt un atkārtoti instalēt USB printeri:**
 
-1. Noņemiet printeri sadaļā iestatījumi.
-    1. Atvienojiet printera USB kabeli no datora.
-    2. Atlasiet **Sākt**  >  **iestatījumu**  >  **ierīces**  >  **printerus & skeneri**.
-    3. Sadaļā **printeri & skeneri**atlasiet printeri, ar kuru veicat problēmu novēršanu. Atlasiet **Noņemt ierīci**. Sekojiet norādījumiem, lai pilnībā dzēstu printeri.
-2. Noņemiet visu trešo pušu printera ražotāja programmatūru:
-    1. Atlasiet **Sākt**  >  **iestatījumu**  >  **lietojumprogrammas**.
-    2. Sadaļā **lietojumprogrammas & līdzekļi**ritiniet, lai atrastu jebkuru programmatūru, kas instalēta no printera ražotāja (piemēram, HP, Canon vai Epson).
+1. Noņemiet printeri sadaļā Iestatījumi:
+    1. Atvienojiet printera USB vadu no datora.
+    2. Atlasiet **Startēt**  >  **iestatījumu ierīces**  >  **Printeri**&  >  **skeneri**.
+    3. Sadaļā **Printeri & skeneri** atlasiet printeri, kuru lietojat. Atlasiet **Noņemt ierīci**. Sekojiet norādījumiem, lai pilnībā dzēstu printeri.
+2. Noņemiet trešās puses printera ražotāja programmatūru:
+    1. Atlasiet **Sākums**  >  **Iestatījumi**  >  **Programmas**.
+    2. Sadaļā **& vai līdzekļi** ritiniet, lai atrastu programmatūru, kas instalēta no printera ražotāja (piemēram, HP, Kanons vai Neikli).
     3. Atlasiet programmatūru un atlasiet **Atinstalēt**.
 3. Izslēdziet un restartējiet printeri.<br>
-    1. Izslēdziet printeri un atvienojiet strāvas padeves vadu no kontaktligzdas. Uzgaidiet 30 sekundes. Savienojiet printeri.
-    2. Pievienojiet sava printera USB kabeli datoram. Jūsu DATORAM automātiski jāreģistrējas, ka jūsu ierīce ir pieslēgta.
+    1. Izslēdziet printeri un atvienojiet strāvas padeves vadu no kontaktligzdas. Uzgaidiet 30 sekundes. Iespraudiet printeri atpakaļ.
+    2. Iespraudiet printera USB kabeli atpakaļ datorā. Datoram ir automātiski jāreģistrējas tam, ka ierīce ir pievienota elektrotīklam.
 4. Mēģiniet drukāt vēlreiz.

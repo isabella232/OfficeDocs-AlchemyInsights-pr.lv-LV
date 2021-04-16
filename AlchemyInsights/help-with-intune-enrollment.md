@@ -1,36 +1,37 @@
 ---
-title: Palīdzība ar InTune iesaistīšanās
+title: Palīdzība ar Intune reģistrāciju
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 184612df677770413c04ff6d62468373e8e17e4a
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569152"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811571"
 ---
-# <a name="help-with-intune-enrollment"></a>Palīdzība ar InTune iesaistīšanās
+# <a name="help-with-intune-enrollment"></a>Palīdzība ar Intune reģistrāciju
 
 
-- [Uzziniet par ierīču reģistrāciju, izmantojot InTune](https://docs.microsoft.com/intune/device-enrollment)
+- [Informācija par ierīču reģistrāciju pakalpojumā Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [IOS ierīces reģistrācijas iestatīšana, izmantojot InTune](https://docs.microsoft.com/intune/ios-enroll)
+- [iOS ierīces reģistrācija pakalpojumā Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Android ierīces reģistrācijas iestatīšana InTune](https://docs.microsoft.com/intune/android-enroll)
+- [Android ierīces reģistrācija pakalpojumā Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Iestatīt Windows ierīču reģistrāciju, izmantojot InTune](https://docs.microsoft.com/intune/windows-enroll)
+- [Windows ierīces reģistrācija pakalpojumā Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-**Ierīces iesaistīšanās problēmu novēršana**
+**Ierīču reģistrācijas problēmu novēršana**
 
-1. Izmantojiet InTune problēmu novēršanas portālu, lai diagnosticētu un novērstu vispārējas reģistrācijas kļūmes. Pārskatiet [šo](https://docs.microsoft.com/intune/help-desk-operators) dokumentu, lai iegūtu detalizētu informāciju.
+1. Izmantojiet Intune problēmu novēršanas portālu, lai diagnosticētu un novērstu vispārējas reģistrācijas kļūmes. Papildinformāciju skatiet [šajā](https://docs.microsoft.com/intune/help-desk-operators) dokumentā.
 
-2. Pārskatiet šos dokumentus, lai iegūtu sarakstu ar bieži sastopamas kļūdas, kas neļauj iesaistīšanās un risinājumi: [problēmu novēršanas rokasgrāmata](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) un [problēmu novēršana doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Pārskatiet šos dokumentus, lai noskaidrotu bieži sastopamās kļūdas, kas neļauj veikt reģistrāciju, un to novēršanas darbības: [problēmu novēršanas norādījumi](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) un [problēmu novēršanas dokuments](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

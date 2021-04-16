@@ -2,7 +2,7 @@
 title: Kā meklēt e-pasta ziņojumu?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811103"
 ---
 # <a name="how-do-i-search-for-an-email"></a>Kā meklēt e-pasta ziņojumu?
 
-Varat meklēt e-pasta ziņojumu, uzmeklējot kontaktpersonu, kas jums nosūtīja e-pasta ziņojumu, vai arī meklējot e-pasta ziņojumā ietverto atslēgvārdu.
+Varat meklēt e-pasta ziņojumu, meklējot kontaktpersonu, kas jums nosūtīja e-pasta ziņojumu, vai meklējot atslēgvārdu, kas iekļauts e-pasta ziņojumā.
 
-Pieskarieties pie palielināmā stikla apakšējā navigācijas joslā. Pēc tam ierakstiet meklēšanas pieprasījumu lodziņā, kas atrodas ekrāna augšdaļā. 
+Pieskarieties pie palielināmā stikla apakšējā navigācijas joslā. Pēc tam ekrāna augšdaļā lodziņā ierakstiet savu meklēšanas pieprasījumu. 
 
-**Padoms:** Varat veikt dubultskārienu pie palielināmā stikla, lai fokusu novietotu uz meklēšanas lodziņa. Jūsu rezultāti tiks parādīti, rakstot savu pieprasījumu. 
+**Padoms.** Varat veikt dubultskārienu pie palielināmā stikla, lai fokusu novietotu meklēšanas lodziņā. Rezultāti tiks parādīti, rakstot pieprasījumu. 

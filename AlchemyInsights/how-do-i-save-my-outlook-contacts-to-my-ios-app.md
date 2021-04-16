@@ -1,8 +1,8 @@
 ---
-title: Kā saglabāt savas Outlook kontaktpersonas lietojumprogrammā iOS kontaktpersonas?
+title: Kā saglabāt Outlook kontaktpersonas iOS kontaktpersonu programmā?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811139"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kā saglabāt savas Outlook kontaktpersonas lietojumprogrammā iOS kontaktpersonas?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kā saglabāt Outlook kontaktpersonas iOS kontaktpersonu programmā?
 
-Lai saglabātu Outlook kontaktpersonas savā dzimtajā adrešu grāmatā:
+Lai Outlook kontaktpersonas saglabātu vietējā adrešu grāmatā:
  
-1. Dodieties uz **ierīces iestatījumu**  >  **kontaktpersonas** un apstipriniet, ka **noklusējuma konts** ir iestatīts uz **iCloud**. Ņemiet vērā, ka šis iestatījums ir pieejams tikai tad, ja jūsu ierīcei ir pievienoti vairāki konti. Ja ierīcei nav savienojuma ar kontu, jūsu Outlook kontaktpersonas tiks saglabātas lokāli, bet netiks sinhronizētas ar citām ierīcēm.
+1. Dodieties **uz Ierīces iestatījumi**  >  **Kontaktpersonas** un pārliecinieties, vai noklusējuma **konts** ir iestatīts uz **iCloud**. Ņemiet vērā, ka šis iestatījums ir pieejams tikai tad, ja jūsu ierīcei ir pievienoti vairāki konts. Ja ierīcei nav izveidots savienojums ar kontu, jūsu Outlook kontaktpersonas tiks saglabātas lokāli, bet netiks sinhronizētas ar citām ierīcēm.
  
-2. Atveriet programmu Outlook darbam ar iOS un kreisajā navigācijas rūtī atlasiet zobrata iestatījumi, izvēlieties **Atlasiet savu kontu**un pēc tam ieslēdziet opciju **saglabāt kontaktpersonas** .
+2. Atveriet programmu Outlook darbam ar iOS un kreisajā navigācijas rūtī atlasiet zobrata  zobrata pogu Iestatījumi, izvēlieties Atlasīt kontu **un** ieslēdziet opciju Saglabāt kontaktpersonas.
  
-Saglabātās kontaktpersonas tiks pievienotas zem jūsu iCloud konta kontaktpersonām. Šīs kontaktpersonas tiks sinhronizētas ar visām ierīcēm, kas ir pierakstījušies ar vienu iCloud kontu. Ņemiet vērā, ka vienlaikus varat eksportēt kontaktpersonas tikai no vienas ierīces.
+Saglabātās kontaktpersonas tiks pievienotas zem kontaktpersonām jūsu iCloud kontā. Šīs kontaktpersonas tiks sinhronizētas ar visām ierīcēm, kas ir pierakstījušas ar to pašu iCloud kontu. Ņemiet vērā, ka vienlaikus varat eksportēt kontaktpersonas tikai no vienas ierīces.
  
-Ja lietotājam ir ieslēgta kontaktpersonu eksportēšana, ir jāatspējo gan to iPad, gan iPhone, lai izvairītos no konfliktiem. Dublikāti var ilgt 24 stundas, lai kuras ir piesaistītas.
+Ja lietotājam ir ieslēgta kontaktpersonu eksportēšana, jāizvairās no konfliktiem, gan iPad, gan iPhone ierīcē. Dublikātu saskaņošanai var būt nepieciešams līdz 24 stundām.
