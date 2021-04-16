@@ -1,8 +1,8 @@
 ---
-title: Problēmu novēršana saistībā ar Windows ierīču reģistrēšanu pakalpojumā Microsoft Intune
+title: Problēmu novēršana saistībā ar Windows ierīču reģistrāciju programmā Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 88105671ef6dc34553a265937bf1fb3463353963
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708897"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808978"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Problēmu novēršana saistībā ar Windows ierīču reģistrēšanu pakalpojumā Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Problēmu novēršana saistībā ar Windows ierīču reģistrāciju programmā Microsoft Intune
 
-Pārskatiet tālāk norādītos resursus, lai atrisinātu savu problēmu tūlīt.
+Pārskatiet tālāk norādītos resursus, lai tūlīt novērstu savu problēmu.
   
-Daži bieži sastopami kļūdu ziņojumi un atrisināšanas darbības:
+Daži bieži sastopami kļūdu ziņojumi un risinājuma darbības:
   
- **Šo programmatūru nevar instalēt, 0x80cf4017:** Jūsu konta sertifikāta derīguma termiņš ir beidzies. Atkārtoti lejupielādējiet PC klienta programmatūras pakotni Intune administratora konsolē. Lai iegūtu papildinformāciju, pārskatiet šo dokumentāciju.
+ **Programmatūru nevar instalēt, un 0x80cf4017:** Jūsu konta sertifikāta derīgums ir beidzies. Atkārtoti lejupielādējiet PC Client programmatūras pakotni Intune administratora konsolē. Lai iegūtu papildinformāciju, pārskatiet šo dokumentāciju.
   
- **Kļūdas kods 0x801c0003:** Kļūda var rasties tālāk norādītajos gadījumos.
+ **Kļūdas kods 0x801c0003:** Kļūda var rasties šādos scenārijos:
   
--  Lietotājam ir vairāk ierīču, kas reģistrējušies nekā ierīces ierobežojums. Pārskatiet šos dokumentus, lai [noņemtu ierīci](https://docs.microsoft.com/intune/devices-wipe) vai [mainītu ierīces ierobežojumu](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Lietotājam ir reģistrēts vairāk ierīču, nekā ierīces ierobežojums. Pārskatiet šos [dokumentus, lai noņemtu ierīci](https://docs.microsoft.com/intune/devices-wipe) [vai mainītu ierīču ierobežojumu.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
 
--  "Lietotāji var pievienoties ierīcēm uz Azure AD" ir iestatīts uz "nav". Iestatiet to visiem vai atlasiet lietotāji. Lai iegūtu papildinformāciju, pārskatiet [šo dokumentāciju](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) .
+-  "Lietotāji var savienot ierīces ar Azure AD" ir iestatīts uz "none". Iestatiet to visiem vai atlasiet lietotājus. Lai [iegūtu papildinformāciju,](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) pārskatiet šo dokumentāciju.
 
--  Ierīci jau ir reģistrējis cits lietotājs. Ja tā ir, izņemiet ierīci no Azure Intune konsoles vai manuāli noņemiet ierīci, pirms mēģināt vēlreiz.
+-  Ierīci jau ir reģistrējis cits lietotājs. Šādā gadījumā noņemiet ierīci no Azure Intune konsoles vai manuāli atņemiet ierīces sarakstu, pirms mēģināt vēlreiz.
 
--  Ierīce ir Windows 10 Home. Azure Active Directory var pievienot tikai Windows 10 Pro, Education un Enterprise SKU.
+-  Ierīce ir Windows 10 Home. Pakalpojumam Azure Active Directory var pievienoties tikai Windows 10 Pro, Education un Enterprise SKU.
 
-Papildu resursi, kas palīdz novērst problēmu:
+Papildu resursi, lai palīdzētu novērst problēmu:
   
--  Izmantojiet [Intune problēmu novēršanas portālu](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , lai diagnosticētu un novērstu Biežākās reģistrācijas kļūmes. Lai iegūtu papildinformāciju, pārskatiet [šo dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
+-  Izmantojiet [Intune problēmu novēršanas portālu,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) lai diagnosticētu un novērstu bieži sastopamās reģistrācijas kļūmes. Pārskatiet [šo dokumentu,](https://docs.microsoft.com/intune/help-desk-operators) lai iegūtu papildinformāciju.
 
--  Pārskatiet šos dokumentus, lai skatītu sarakstu ar bieži sastopamām kļūdām, kas neļauj veikt reģistrāciju un risinājumus: [problēmu novēršanas rokasgrāmata](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) un [problēmu novēršana](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
+-  Pārskatiet šos dokumentus, lai iegūtu sarakstu ar bieži sastopamajām kļūdām, kas novērš reģistrāciju un atrisināšanu katrā sarakstā: Problēmu novēršanas [rokasgrāmata](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) un [Problēmu novēršana dokumentā](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
-[Uzziniet, kā sistēmā Microsoft Intune reģistrēt Windows ierīces](https://docs.microsoft.com/intune/windows-enroll).
+[Uzziniet, kā reģistrēt Windows ierīces programmā Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

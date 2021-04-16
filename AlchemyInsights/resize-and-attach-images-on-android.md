@@ -1,8 +1,8 @@
 ---
-title: Attēlu lieluma maiņa un pievienošana Android ierīcē
+title: Attēlu izmēru maiņa un pievienošana Android ierīcē
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795683"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809518"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Attēlu lieluma maiņa un pievienošana Android ierīcē
+# <a name="resize-and-attach-images-on-android"></a>Attēlu izmēru maiņa un pievienošana Android ierīcē
 
-Kad pievienojat attēlu, kas ir lielāks par 1 MB, lai e-pasta ziņojumā, jums ir iespēja attēlu saspiest/mainīt tā lielumu.
+Pievienojot e-pasta ziņojumam attēlu, kas ir lielāka par 1 MB, tiek piedāvāta opcija saspiest attēlus ziņojumā vai mainīt to izmērus.
  
-- Ja izvēlēsities paturēt oriģinālu, visi ziņojuma attēli tiek nosūtīti pilnā lielumā.
+- Ja izvēlaties paturēt oriģinālu, visi ziņojumā pievienotie attēli tiek nosūtīti pilnā izmērā.
  
-- Ja izvēlēsities mainīt izmērus, visi ziņojuma attēli tiek saspiesti.  Tas ietver attēlus, kas pievienoti vēlāk, rediģējot šo melnrakstu.
+- Ja izvēlaties mainīt ziņojuma lielumu, visi ziņojumā pievienotie attēli tiek saspiesti.  Tas attiecas arī uz attēliem, kas pievienoti vēlāk, kamēr joprojām rediģējat šo melnrakstu.
  
-- Ja saglabājat melnrakstu un atgriežaties vēlāk, bet pievienojat vēl vienu lielu attēlu, jums tiks lūgts vēlreiz, un jūsu izvēle tiks lietota visiem melnrakstu rediģēšanas sesijas laikā.
+- Ja saglabāsit melnrakstu un atgriezīsieties vēlāk, pievienojot vēl vienu lielu attēlu, jums tiks lūgts vēlreiz, un jūsu izvēle tiks lietota visiem melnrakstiem šīs rediģēšanas sesijas laikā.
  

@@ -2,7 +2,7 @@
 title: Vai vēlaties iegādāties jaunu abonementu?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fdeb916ca8d3e9d949dbdad7560679f2c92c1289
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675190"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810599"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Vai vēlaties iegādāties jaunu abonementu?
 
-Ja jums jau ir Microsoft 365 darbam abonements un vēlaties iegādāties citu savas organizācijas abonementu, dodieties uz lapu **norēķinu** \> [pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) , lai skatītu jūsu organizācijai pieejamo abonementu sarakstu.
+Ja jums jau ir Microsoft 365 darbam abonements un vēlaties iegādāties citu  abonementu jūsu organizācijai, dodieties uz lapu Norēķinu iegādes pakalpojumi, lai skatītu organizācijai pieejamo \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) abonementu sarakstu.
  
-1. Atlasiet nepieciešamo abonementu un pēc tam atlasiet **iegādāties**.
+1. Atlasiet abonementu un pēc tam atlasiet **Iegādāties**.
 
 2. Izvēlieties apmaksas veidu un nepieciešamo lietotāju licenču skaitu.
 
-3. Izvēlieties **paņemt tūlīt**. Nākamajā lapā varat pārskatīt pasūtījumu un pabeigt pirkumu.
+3. Izvēlieties **Paņemt tūlīt**. Nākamajā lapā varat pārskatīt pasūtījumu un pabeigt pirkumu.
 
-4. Kad pirkums ir pabeigts, iespējams, vajadzēs atkārtoti piešķirt licences vai anulēt abonementu. Lai saņemtu palīdzību par šo problēmu, skatiet tālāk sadaļu papildu resursi.
+4. Pabeidzot pirkumu, iespējams, būs atkārtoti jāsignē licences vai jā anulēts abonements. Lai saņemtu palīdzību, skatiet tālāk sadaļu Papildu resursi.
 
  **Papildu resursi:**
   
-- [Licenču piešķiršana lietotājiem pakalpojumā Microsoft 365 darbam](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Licenču piešķiršana lietotājiem lietojumprogrammā Microsoft 365 darbam](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 - [Abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Ja vēlaties mainīt abonementu, skatiet rakstu [Pārslēgšanās uz citu Microsoft 365 darbam plānu.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Ja vēlaties mainīt abonementus, skatiet rakstu [Pārslēgšanās uz citu Microsoft 365 darbam plānu.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

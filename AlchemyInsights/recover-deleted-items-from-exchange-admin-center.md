@@ -1,29 +1,30 @@
 ---
-title: Izdzēsto vienumu atkopšana no Exchange administrēšanas centrs
+title: Izdzēsto vienumu atkopšana no Exchange administrēšanas centra
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 88e55056456014fdac218b317bf4f4d60308478a
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809734"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>Izdzēsto vienumu atkopšana no Exchange administrēšanas centrs
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>Izdzēsto vienumu atkopšana no Exchange administrēšanas centra
 
-Vienkāršotu un [atjauninātu pastkastes pārvaldības pieredzi](https://admin.exchange.microsoft.com/#/mailboxes), Exchange administrēšanas centru (EAC), varat atlasīt konkrētu pastkastes un atkopt vienumus lietotājiem.
+Vienkāršotajā un [atjauninātajā pastkastes pārvaldības līdzeklī](https://admin.exchange.microsoft.com/#/mailboxes)Exchange administrēšanas centrā (Exchange Admin Center — EAC) varat atlasīt lietotājam atbilstošu pastkasti un atkopt vienumus.
 
-1. Izvēlieties **pastkastes** zem **adresāti**.
+1. Sadaļā **Adresāti** izvēlieties **pastkastes**.
 2. Atlasiet lietotāju, no kura vēlaties atkopt e-pasta ziņojumus.
 3. Atlasiet **Atkopt izdzēstos vienumus**.
-    - Jums var būt nepieciešams meklēt zem **... vairāk** nolaižamajā izvēlnē, lai skatītu **izdzēsto vienumu atkopšana**.
-4. Lietotājs filtrēšanas opcijas, lai atrastu vienumus, jums ir nepieciešams, lai atgūtu.
+    - Iespējams, ka opcija **atkopt izdzēstos vienumus** jums būs jāmeklē nolaižamajā izvēlnē **... vēl**.
+4. Izmantojiet filtra opcijas, lai atrastu atkopjamos vienumus.

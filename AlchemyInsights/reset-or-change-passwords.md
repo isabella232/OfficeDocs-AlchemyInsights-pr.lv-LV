@@ -1,8 +1,8 @@
 ---
-title: Paroļu atiestatīšana vai mainīšana
+title: Paroļu atiestatīšana vai maiņa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692158"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810203"
 ---
-# <a name="reset-or-change-passwords"></a>Paroļu atiestatīšana vai mainīšana
+# <a name="reset-or-change-passwords"></a>Paroļu atiestatīšana vai maiņa
 
-Lietotājs var mainīt savu paroli no **mana konta**  >  [drošības & konfidencialitātes](https://portal.office.com/account/#security).
+Lietotājs var mainīt savu paroli no mana konta **drošības un**  >  [& konfidencialitāti.](https://portal.office.com/account/#security)
   
-Ja lietotājs ir aizmirsis savu paroli, administrators var atiestatīt paroli, atverot **lietotāji**  >  [Aktīvie lietotāji](https://portal.office.com/adminportal/home#/users), atlasiet lietotāju un pēc tam noklikšķiniet uz **Atiestatīt paroli**.
+Ja lietotājs ir aizmirsis paroli, administrators var atiestatīt paroli, dodoties uz Lietotāji Aktīvie lietotāji, atlasiet  >  [](https://portal.office.com/adminportal/home#/users)lietotāju(s) un noklikšķiniet uz **Atiestatīt paroli.**
   
-[Noklikšķiniet šeit, lai iegūtu papildinformāciju](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), vai ļaut lietotājiem atiestatīt savas aizmirstās paroles.
+[Noklikšķiniet šeit, lai uzzinātu vairāk,](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)vai arī, lai ļautu lietotājiem atiestatīt savas aizmirstās paroles.

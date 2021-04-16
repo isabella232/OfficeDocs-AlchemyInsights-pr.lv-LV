@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 bezpeļņas organizācijām '
+title: 'Microsoft 365 bezpeļņas organizācijām — apstiprināts '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779820"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810671"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 bezpeļņas organizācijām
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 bezpeļņas organizācijām — apstiprināts
 
-Jūsu statuss ir apstiprināts kā Microsoft kvalificēta bezpeļņas organizācija. Varat pabeigt pirkumu no Microsoft 365 administrēšanas centra.
+Jūsu Microsoft kvalificētās bezpeļņas organizācijas statuss ir apstiprināts. Varat pabeigt pirkumu Microsoft 365 administrēšanas centrā.
 
-1. Administrēšanas centrā dodieties uz lapu **norēķinu** \> [pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. Administrēšanas centrā dodieties uz lapu **Norēķinu** \> [iegādes](https://go.microsoft.com/fwlink/p/?linkid=868433) pakalpojumi.
 
-2. Izvēlieties no saraksta sadaļā **Nonprofit plāni**.
+2. Izvēlieties sarakstā zem **Bezpeļņas plāni.**
 
-3. Novietojiet kursoru uz abonementa, kuru vēlaties iegādāties, un izvēlieties **iegādāties tūlīt**.
+3. Norādiet uz abonementu, kuru vēlaties iegādāties, un izvēlieties **Iegādāties tūlīt.**
 
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft 365 resursi bezpeļņas organizācijām](https://www.microsoft.com/nonprofits/microsoft-365) vai [sazinieties ar pārdošanu](https://www.microsoft.com/nonprofits/contact-us).
+Papildinformāciju skatiet rakstā [Microsoft 365 resursi bezpeļņas](https://www.microsoft.com/nonprofits/microsoft-365) organizācijām vai [saziņai ar pārdošanu.](https://www.microsoft.com/nonprofits/contact-us)

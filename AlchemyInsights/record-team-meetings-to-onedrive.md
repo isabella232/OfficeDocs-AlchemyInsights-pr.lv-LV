@@ -1,8 +1,8 @@
 ---
-title: Grupu sapulču ieraksti pakalpojumā OneDrive
+title: Teams sapulču ieraksti OneDrive krātuvē
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
-ms.translationtype: MT
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807413"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810275"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Grupu sapulču ieraksti pakalpojumā OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Teams sapulču ieraksti OneDrive krātuvē
 
-Microsoft Teams ir jauna metode sapulču ierakstu saglabāšanai. Kā pirmo pārejas posmu no klasiskā Microsoft Stream uz [jauno straumi](https://docs.microsoft.com/stream/streamnew/new-stream), šī metode saglabā ierakstus pakalpojumā Microsoft OneDrive darbam un SharePoint pakalpojumā Microsoft 365 un piedāvā daudz priekšrocību.  
+Programmā Microsoft Teams ir pieejama jauna metode sapulču ierakstu saglabāšanai. Kā pirmais pārejas no klasiskā pakalpojuma Microsoft Stream uz [jauno Stream](https://docs.microsoft.com/stream/streamnew/new-stream) posms šī metode saglabā ierakstus Microsoft OneDrive darbam krātuvē un SharePoint vidē pakalpojumā Microsoft 365 un piedāvā daudzas priekšrocības.  
 
-- [Sapulču ieraksta opcijas iestatīšana pakalpojumam OneDrive darbam un SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Atteikties no pakalpojuma OneDrive darbam un SharePoint, lai turpinātu izmantot Stream](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Sapulču ierakstīšanas opcijas iestatīšana OneDrive darbam krātuvei un SharePoint videi](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Nepiekrišana OneDrive darbam un SharePoint izmantošanai, lai turpinātu izmantot Stream](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Bieži uzdotie jautājumi](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)
