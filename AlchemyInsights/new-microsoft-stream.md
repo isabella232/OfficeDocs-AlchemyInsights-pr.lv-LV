@@ -1,8 +1,8 @@
 ---
-title: Migrēšana no Microsoft Stream (Classic) uz jauno Microsoft Stream
+title: Migrēšana no Microsoft Stream (klasiskā) uz jauno Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: bb4143d241f403093090640078d2a9bded37a874
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: f7239abd554e36b4d209687dae98f27fb72f41f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48274894"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791743"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream ir uzņēmuma video pakalpojums, kurā lietotāji jūsu organizācijā var droši augšupielādēt, skatīt un koplietot videoklipus. Varat kopīgot mācību priekšmeta, sapulču, prezentāciju, apmācības sesiju vai citu video ierakstus, kas palīdzēs jūsu darba grupai.  
+Microsoft Stream ir Enterprise video pakalpojums, kuru izmantojot jūsu organizācijas lietotāji var droši augšupielādēt, skatīt un koplietot video. Varat kopīgot mācību nodarbību, sapulču, prezentāciju, mācību sesiju vai citu videoklipu ierakstus, kas palīdz jūsu komandas sadarbībai.  
 
-- [Jaunā Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (Classic)](https://docs.microsoft.com/stream/overview)
-- [Migrēšana no Microsoft Stream (Classic) uz jauno Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Jaunais Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
+- [Microsoft Stream (klasiskais)](https://docs.microsoft.com/stream/overview)
+- [Migrēšana no Microsoft Stream (klasiskā) uz jauno Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)

@@ -1,8 +1,8 @@
 ---
-title: Trūkstoši dublikāti
+title: Trūkst — dublikāts
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673757"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793219"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Kalendāra vienumu trūkstošo un dublēto problēmu novēršana
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Problēmu novēršana saistībā ar trūkstošiem kalendāra vienumiem un to dublikātiem
 
-Lai iegūtu informāciju par to, kā novērst problēmas saistībā ar trūkstošu un dublētu tikšanos, ja izmantojat programmu Microsoft Outlook un Microsoft Exchange Server, skatiet rakstu [kā novērst ar trūkstošo un dublēto tikšanos skaitu programmā Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+Informāciju par to, kā novērst problēmas saistībā ar trūkstošiem tikšanās ierakstiem un tikšanās dublikātiem, izmantojot programmu Microsoft Outlook un Microsoft Exchange Server, skatiet rakstā Problēmu novēršana trūkstošu tikšanās gadījumu un tikšanos dublikātu gadījumā [programmā Outlook.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)

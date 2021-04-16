@@ -1,8 +1,8 @@
 ---
-title: Palīdzība saistībā ar manu Outlook.com kontu
+title: Nepieciešama palīdzība saistībā ar Outlook.com kontu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803288"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792391"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Palīdzība saistībā ar manu Outlook.com kontu
+# <a name="need-help-with-my-outlookcom-account"></a>Nepieciešama palīdzība saistībā ar Outlook.com kontu
 
-Ja jums ir nepieciešama palīdzība saistībā ar Outlook.com pakalpojumu, mums ir īpaša palīdzība, lai jums palīdzētu. Lai saņemtu atbalstu tieši tīmekļa lietojumprogrammā: 
+Ja jums nepieciešama palīdzība saistībā Outlook.com pakalpojumu, mums ir īpaša palīdzība, lai jums palīdzētu. Lai saņemtu atbalstu tieši tīmekļa lietojumprogrammā: 
 
-1. Noklikšķiniet uz? ikona ekrāna augšējā labajā stūrī. 
+1. Noklikšķiniet uz ? ekrāna augšējā labajā stūrī. 
 
-2. Ierakstiet nepieciešamo palīdzību ar palīdzības lodziņu, kas redzams uznirstošajā panelī, un noklikšķiniet uz **iesniegt**. 
+2. Ierakstiet, kāda palīdzība ir nepieciešama, lai palīdzības lodziņā, kas redzams uznirstošajā panelī, un noklikšķiniet uz **Iesniegt.** 
 
-3. Ja risinājums nav iesniegts, lūdzu, ritiniet uz leju sānu panelī un noklikšķiniet uz **nosūtīt mums e-pastu**.
+3. Ja risinājums netiek parādīts, lūdzu, ritiniet uz leju sānu panelī un noklikšķiniet uz Sūtīt mums **e-pasta ziņojumu.**
