@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 pakalpojuma darbspējas
+title: Microsoft 365 pakalpojuma darbspēja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742750"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794479"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 pakalpojuma darbspējas
+# <a name="microsoft-365-service-health"></a>Microsoft 365 pakalpojuma darbspēja
 
 
-Skatiet pakalpojuma darbspējas [informācijas panelī](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)pakalpojumu darbspējas pakalpojumu. Augšējā labajā stūrī atlasot **jauno administrēšanas centru** , būs redzamas jaunās pakalpojuma darbspējas opcijas.
+Pārbaudiet jebkura pakalpojuma darbspējas informāciju no pakalpojuma [darbspējas informācijas paneļa.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Augšējā **labajā stūrī atlasot** Jaunais administrēšanas centrs, redzēsit jaunas pakalpojumu darbspējas opcijas.
 
-- Atlasiet **preferences** , lai saņemtu pakalpojumu darbspējas **e-pasta paziņojumus**.
+- Atlasiet **Preferences,** lai saņemtu pakalpojuma darbspējas **e-pasta paziņojumus**.
 
-- Ja rodas problēmas ar pakalpojumu, atlasiet **ziņot par problēmu** .
+- Atlasiet **Ziņot par** problēmu, ja rodas problēma ar pakalpojumu.
 
-- Atlasiet **Vēsture** , lai pārskatītu savas organizācijas pakalpojumu darbspējas vēsturi. 
+- Atlasiet **Vēsture,** lai pārskatītu savas organizācijas pakalpojumu darbspējas vēsturi. 
 
-Papildinformāciju skatiet rakstā [Microsoft 365 pakalpojuma darbspējas pārbaude](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Papildinformāciju skatiet rakstā [Kā pārbaudīt Microsoft 365 pakalpojuma darbspēju.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
