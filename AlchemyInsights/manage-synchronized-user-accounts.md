@@ -1,8 +1,8 @@
 ---
-title: Sinhronizētu lietotāju kontu pārvaldība
+title: Sinhronizēto lietotāju kontu pārvaldība
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777826"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802894"
 ---
-# <a name="manage-synchronized-user-accounts"></a>Sinhronizētu lietotāju kontu pārvaldība
+# <a name="manage-synchronized-user-accounts"></a>Sinhronizēto lietotāju kontu pārvaldība
 
-Parasti jūs izmantojat Microsoft 365 administrēšanas centru, lai pievienotu un mainītu lietotāju kontus. Taču to nevar izmantot, ja ir iespējoti direktorija sinhronizācijas vai SSO. Tā vietā pārvaldiet lietotājus, izmantojot programmu Windows PowerShell, kā aprakstīts rakstā [lietotāja konta rekvizītu konfigurēšana, izmantojot Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+Lai pievienotu un mainītu lietotāju kontus, parasti tiek izmantots Microsoft 365 administrēšanas centrs. Taču to nevar izmantot, ja ir iespējota direktorija sychronization vai SSO. Tā vietā pārvaldiet lietotājus, izmantojot Windows PowerShell, kā aprakstīts rakstā [Lietotāja konta rekvizītu konfigurēšana, izmantojot Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 

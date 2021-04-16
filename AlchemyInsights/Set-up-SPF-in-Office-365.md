@@ -1,26 +1,26 @@
 ---
-title: Iestatīt SPF Microsoft 365
+title: SPF iestatīšana programmā Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 8b77871b7ae2706ca2d493f4a53f27d151d8bf77
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 11a972bf7f3c13c2fc67a79439873f587e4a9f15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44501354"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804352"
 ---
-# <a name="set-passwords-to-never-expire"></a>Paroļu iestatīšana, lai tā nekad nebeigtos 
+# <a name="set-passwords-to-never-expire"></a>Iestatiet paroles ar nekad nebeidzas termiņš 
 
-Lai iestatītu, ka visām parolēm nekad nebeidzas, Microsoft 365 administrēšanas centrā atveriet lapu **iestatījumu**  >  [drošības &amp; Konfidencialitāte](https://portal.office.com/adminportal/home#/settings/security) . Atlasiet **Rediģēt** blakus **paroļu politika**un pagrieziet slīdni uz **ieslēgts**.
+Lai iestatītu VISĀM parolēm nekad nebeidzas termiņš, Microsoft 365 administrēšanas centrā dodieties uz **iestatījumu**  >  [drošības &amp; konfidencialitātes](https://portal.office.com/adminportal/home#/settings/security) lapu. Atlasiet **Rediģēt** blakus **Paroles politika** un pārvietojiet slīdni uz **Ieslēgts**.
   
-Sīkāku informāciju skatīt: [iestatiet paroles derīguma politiku jūsu organizācijai.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+Detalizētāku informāciju skatiet rakstā [Paroles derīguma politikas iestatīšana organizācijai.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-[Iestatiet paroli, lai tā nekad nebeidzas konkrētiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+[Paroles iestatīšana, lai tā nekad nebeidzas noteiktiem lietotājiem](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
   
