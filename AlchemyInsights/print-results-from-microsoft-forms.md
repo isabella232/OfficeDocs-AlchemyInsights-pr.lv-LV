@@ -2,7 +2,7 @@
 title: Rezultātu drukāšana no Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800617"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a><span data-ttu-id="acd7e-102">Atbilžu rezultātu kopsavilkums</span><span class="sxs-lookup"><span data-stu-id="acd7e-102">Print results in a summary of responses</span></span>
+# <a name="print-results-in-a-summary-of-responses"></a><span data-ttu-id="b15c9-102">Rezultātu drukāšana atbilžu kopsavilkumā</span><span class="sxs-lookup"><span data-stu-id="b15c9-102">Print results in a summary of responses</span></span>
 
-<span data-ttu-id="acd7e-103">Varat [Drukāt Microsoft Forms rezultātus](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) kā atbilžu kopsavilkumu vai individuālai lietošanai.</span><span class="sxs-lookup"><span data-stu-id="acd7e-103">You can [print Microsoft Forms results](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) as a summary of responses or for an individual.</span></span> 
+<span data-ttu-id="b15c9-103">Microsoft [Forms rezultātus varat drukāt](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) kā atbilžu kopsavilkumu vai kā atsevišķu personu.</span><span class="sxs-lookup"><span data-stu-id="b15c9-103">You can [print Microsoft Forms results](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) as a summary of responses or for an individual.</span></span> 
 
-<span data-ttu-id="acd7e-104">Jūs nevarat drukāt formas bez atbildēm, taču varat pieprasīt vai balsot par šo līdzekli, apmeklējot [Microsoft Forms UserVoice vietni](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span><span class="sxs-lookup"><span data-stu-id="acd7e-104">You can't print forms without responses, but you can request or vote on this feature by visiting the [Microsoft Forms UserVoice site](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span></span>
+<span data-ttu-id="b15c9-104">Veidlapas nevar izdrukāt bez atbildēm, bet varat pieprasīt šo līdzekli vai balsot par to, apmeklējot [Microsoft Forms UserVoice vietni.](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)</span><span class="sxs-lookup"><span data-stu-id="b15c9-104">You can't print forms without responses, but you can request or vote on this feature by visiting the [Microsoft Forms UserVoice site](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span></span>
