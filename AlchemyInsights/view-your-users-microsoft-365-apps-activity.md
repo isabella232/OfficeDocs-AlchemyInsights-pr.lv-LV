@@ -1,8 +1,8 @@
 ---
-title: Lietotāju Microsoft 365 lietojumprogrammu darbības skatīšana
+title: Savu lietotāju Microsoft 365 programmu darbību skatīšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664645"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806629"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a><span data-ttu-id="d655c-102">Lietotāju Microsoft 365 lietojumprogrammu darbības skatīšana</span><span class="sxs-lookup"><span data-stu-id="d655c-102">View your users' Microsoft 365 apps activity</span></span>
+# <a name="view-your-users-microsoft-365-apps-activity"></a><span data-ttu-id="bb033-102">Savu lietotāju Microsoft 365 programmu darbību skatīšana</span><span class="sxs-lookup"><span data-stu-id="bb033-102">View your users' Microsoft 365 apps activity</span></span>
 
-<span data-ttu-id="d655c-103">[Office aktivizēšanas atskaite](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) sniedz iespēju skatīt, kuri lietotāji ir instalējuši un aktivizējuši savas Microsoft 365 lietojumprogrammas vismaz vienā ierīcē.</span><span class="sxs-lookup"><span data-stu-id="d655c-103">The [Office Activation report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gives you a view of which users have installed and activated their Microsoft 365 apps on at least one device.</span></span>
+<span data-ttu-id="bb033-103">Office [aktivizācijas atskaitē](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) varat skatīt, kuri lietotāji ir instalējuši un aktivizēuši savas Microsoft 365 programmas vismaz vienā ierīcē.</span><span class="sxs-lookup"><span data-stu-id="bb033-103">The [Office Activation report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gives you a view of which users have installed and activated their Microsoft 365 apps on at least one device.</span></span>
 
-<span data-ttu-id="d655c-104">Turklāt varat gūt ieskatu par jūsu lietotāju Microsoft 365 programmu aktivitāti, izmantojot [microsoft 365 programmu lietojuma atskaiti](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="d655c-104">Additionally, you can get a view into your users' Microsoft 365 Apps activity by using the [Microsoft 365 Apps usage report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span></span>
+<span data-ttu-id="bb033-104">Turklāt varat skatīt savu lietotāju Microsoft 365 programmu darbības, izmantojot [Microsoft 365 programmu lietojuma atskaiti](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="bb033-104">Additionally, you can get a view into your users' Microsoft 365 Apps activity by using the [Microsoft 365 Apps usage report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span></span>

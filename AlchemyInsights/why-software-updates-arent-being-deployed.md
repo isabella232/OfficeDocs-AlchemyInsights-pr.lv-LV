@@ -1,8 +1,8 @@
 ---
-title: Kāpēc netiek ieviesti programmatūras atjauninājumi?
+title: Kāpēc programmatūras atjauninājumi netiek izvietoti?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461852"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805693"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="5a475-102">Kāpēc netiek ieviesti programmatūras atjauninājumi?</span><span class="sxs-lookup"><span data-stu-id="5a475-102">Why software updates are not being deployed?</span></span>
+# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="bbac2-102">Kāpēc programmatūras atjauninājumi netiek izvietoti?</span><span class="sxs-lookup"><span data-stu-id="bbac2-102">Why software updates are not being deployed?</span></span>
 
-<span data-ttu-id="5a475-103">Pārskatiet tālāk norādītās darbības, ja esat konfigurējis programmatūras atjauninājumus, izmantojot Windows 10 atjaunināšanas gredzenu, bet neizvieto atjauninājumus.</span><span class="sxs-lookup"><span data-stu-id="5a475-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
+<span data-ttu-id="bbac2-103">Ja esat konfigurējis programmatūras atjauninājumus, izmantojot Windows 10 atjaunināšanas loku, taču atjauninājumi netiek izvietoti, rīkojieties šādi:</span><span class="sxs-lookup"><span data-stu-id="bbac2-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
 
-- <span data-ttu-id="5a475-104">Apsveriet iespēju mainīt Windows apkopes no  **pusgada kanāla**  laidiena tipa līdz stingrākam, biežākam laidiena tipam</span><span class="sxs-lookup"><span data-stu-id="5a475-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
-- <span data-ttu-id="5a475-105">Pārbaudiet atlikšanas periodu  **kvalitātes atjauninājumā**  un  **līdzekļu atjauninājumā**.</span><span class="sxs-lookup"><span data-stu-id="5a475-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="5a475-106">Atlikšanas periods var izraisīt kavēšanos 180 dienu atjauninājumos.</span><span class="sxs-lookup"><span data-stu-id="5a475-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
+- <span data-ttu-id="bbac2-104">Apsveriet iespēju mainīt Windows apkopi no **pusgada kanāla** izlaišanas tipa uz stingrāku, biežāk izmantotu izlaišanas tipu</span><span class="sxs-lookup"><span data-stu-id="bbac2-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
+- <span data-ttu-id="bbac2-105">Pārbaudiet **kvalitātes atjauninājuma** un **līdzekļa atjauninājuma** atliktā maksājuma periodu.</span><span class="sxs-lookup"><span data-stu-id="bbac2-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="bbac2-106">Atliktā maksājuma periods var aizkavēt atjauninājumus uz laiku līdz 180 dienām.</span><span class="sxs-lookup"><span data-stu-id="bbac2-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
