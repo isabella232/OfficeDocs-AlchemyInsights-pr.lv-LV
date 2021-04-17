@@ -1,8 +1,8 @@
 ---
-title: To lietotāju ierobežošana, kuri var augšupielādēt straumē
+title: Kā ierobežot lietotājus, kas var augšupielādēt pakalpojumā Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740842"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831309"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="16b4d-102">To lietotāju ierobežošana, kuri var augšupielādēt straumē</span><span class="sxs-lookup"><span data-stu-id="16b4d-102">Restrict users who can upload to Stream</span></span>
+# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="a2274-102">Kā ierobežot lietotājus, kas var augšupielādēt pakalpojumā Stream</span><span class="sxs-lookup"><span data-stu-id="a2274-102">Restrict users who can upload to Stream</span></span>
 
-<span data-ttu-id="16b4d-103">Kā organizācija iespējams, vēlēsities ierobežot to darbinieku, kas var augšupielādēt video.</span><span class="sxs-lookup"><span data-stu-id="16b4d-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="16b4d-104">Pēc noklusējuma ikviens lietotājs jūsu organizācijā var augšupielādēt video.</span><span class="sxs-lookup"><span data-stu-id="16b4d-104">By default, everyone in your organization can upload videos.</span></span>
+<span data-ttu-id="a2274-103">Ja esat organizācija, iespējams, vēlēsities ierobežot to darbinieku skaitu, kuri var augšupielādēt videoklipus.</span><span class="sxs-lookup"><span data-stu-id="a2274-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="a2274-104">Pēc noklusējuma ikviens lietotājs jūsu organizācijā var augšupielādēt video.</span><span class="sxs-lookup"><span data-stu-id="a2274-104">By default, everyone in your organization can upload videos.</span></span>
 
-- [<span data-ttu-id="16b4d-105">To darbinieku ierobežošana, kuri var izveidot saturu pakalpojumā Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="16b4d-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
+- [<span data-ttu-id="a2274-105">Kā ierobežot darbiniekus, kuri var izveidot saturu lietojumprogrammā Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a2274-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
