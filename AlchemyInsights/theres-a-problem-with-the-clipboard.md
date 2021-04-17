@@ -1,8 +1,8 @@
 ---
-title: Ir radusies problēma ar starpliktuvi
+title: Starpliktuvē radās problēma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750278"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824658"
 ---
-# <a name="resolving-excel-clipboard-error"></a><span data-ttu-id="68e98-102">Excel starpliktuves kļūdas novēršana</span><span class="sxs-lookup"><span data-stu-id="68e98-102">Resolving Excel clipboard error</span></span>
+# <a name="resolving-excel-clipboard-error"></a><span data-ttu-id="8423f-102">Excel starpliktuves kļūdas atrisināšana</span><span class="sxs-lookup"><span data-stu-id="8423f-102">Resolving Excel clipboard error</span></span>
 
-<span data-ttu-id="68e98-103">Ja programmā Excel saņemat kļūdas ziņojumu, kurā teikts, ka ir radusies problēma ar starpliktuvi, bet jūs joprojām varat ielīmēt savu saturu šajā darbgrāmatā, "mēģiniet atspējot tiešo priekšskatījuma līdzekli, veicot tālāk norādītās darbības.</span><span class="sxs-lookup"><span data-stu-id="68e98-103">If you receive an error in Excel that says, "There's a problem with the clipboard, but you can still paste your content within this workbook," try disabling the Live Preview feature by following these steps:</span></span>
+<span data-ttu-id="8423f-103">Ja programmā Excel tiek parādīts kļūdas ziņojums "Pastāv problēma ar starpliktuvi, bet jūs joprojām varat ielīmēt saturu šajā darbgrāmatā", mēģiniet atspējot tiešā priekšskatījuma līdzekli, veicot tālāk norādītās darbības.</span><span class="sxs-lookup"><span data-stu-id="8423f-103">If you receive an error in Excel that says, "There's a problem with the clipboard, but you can still paste your content within this workbook," try disabling the Live Preview feature by following these steps:</span></span>
 
-1. <span data-ttu-id="68e98-104">Programmā Excel noklikšķiniet uz **Fails**  >  **Opcijas**.</span><span class="sxs-lookup"><span data-stu-id="68e98-104">In Excel, click **File** > **Options**.</span></span>
-3. <span data-ttu-id="68e98-105">Dialoglodziņā **Excel opcijas** atlasiet **Vispārīgs**.</span><span class="sxs-lookup"><span data-stu-id="68e98-105">In the **Excel Options** dialog box, select **General**.</span></span>
-4. <span data-ttu-id="68e98-106">Sadaļā **lietotāja interfeisa opcijas**notīriet **Iespējot tiešo priekšskatījumu**.</span><span class="sxs-lookup"><span data-stu-id="68e98-106">Under **User Interface options**, clear **Enable Live Preview**.</span></span>
-5. <span data-ttu-id="68e98-107">Noklikšķiniet uz **Labi**.</span><span class="sxs-lookup"><span data-stu-id="68e98-107">Click **OK**.</span></span>
-6. <span data-ttu-id="68e98-108">Restartējiet programmu Excel.</span><span class="sxs-lookup"><span data-stu-id="68e98-108">Restart Excel.</span></span>
+1. <span data-ttu-id="8423f-104">Programmā Excel noklikšķiniet uz **Faila**  >  **opcijas**.</span><span class="sxs-lookup"><span data-stu-id="8423f-104">In Excel, click **File** > **Options**.</span></span>
+3. <span data-ttu-id="8423f-105">Dialoglodziņā **Excel opcijas** atlasiet **Vispārīgi**.</span><span class="sxs-lookup"><span data-stu-id="8423f-105">In the **Excel Options** dialog box, select **General**.</span></span>
+4. <span data-ttu-id="8423f-106">Sadaļā **Lietotāja interfeisa opcijas notīriet** Iespējot tiešo **priekšskatījumu**.</span><span class="sxs-lookup"><span data-stu-id="8423f-106">Under **User Interface options**, clear **Enable Live Preview**.</span></span>
+5. <span data-ttu-id="8423f-107">Noklikšķiniet uz **Labi**.</span><span class="sxs-lookup"><span data-stu-id="8423f-107">Click **OK**.</span></span>
+6. <span data-ttu-id="8423f-108">Restartējiet programmu Excel.</span><span class="sxs-lookup"><span data-stu-id="8423f-108">Restart Excel.</span></span>
