@@ -2,7 +2,7 @@
 title: DNS ierakstu atjaunināšana, lai savu tīmekļa vietni uzturētu ar pašreizējo viesošanas pakalpojumu sniedzēju
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709293"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834486"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS ierakstu atjaunināšana, lai savu tīmekļa vietni uzturētu ar pašreizējo viesošanas pakalpojumu sniedzēju
 
-Kā daļa no Microsoft 365 publiskās tīmekļa vietnes pārvietošanas uz citu viesošanas pakalpojumu sniedzēju, iespējams, būs jāveic izmaiņas domēna ierakstos.
+Lai savu Microsoft 365 publisko tīmekļa vietni pārvietotu uz citu viesošanas pakalpojumu sniedzēju, visdrīzāk jums būs jāveic izmaiņas domēna ierakstos.
   
-1. Administrēšanas centrā dodieties uz **iestatīšanas** \> **Domēni** un izvēlieties maināmā domēna nosaukumu.
+1. Administrēšanas centrā dodieties  uz \> **Iestatīšanas domēni** un izvēlieties domēna nosaukumu, kuru vēlaties mainīt.
 
-2. Ievadiet informāciju, kas tiek līdzināta uz jūsu tīmekļa vietni, izmantojot jauno viesošanas pakalpojumu sniedzēju.
+2. Ievadiet informāciju, kas atbilst jūsu tīmekļa vietnei, pie jūsu jaunā viesošanas pakalpojumu sniedzēja.
 
-Papildinformāciju skatiet rakstā [DNS ierakstu atjaunināšana, lai savu tīmekļa vietni uzturētu ar pašreizējo viesošanas pakalpojumu sniedzēju](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).
+Papildinformāciju skatiet rakstā [DNS ierakstu atjaunināšana, lai tīmekļa vietni uzturētu pie pašreizējā viesošanas pakalpojumu sniedzēja.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Lai uzzinātu vairāk par publiskas vietnes pārtraukšanu, skatiet rakstu [SharePoint Online publisko tīmekļa vietņu lietošana](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Papildinformāciju par publiskās vietnes darbības izbeigšanu skatiet rakstā [SharePoint Online publisko tīmekļa vietņu izbeigšana.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

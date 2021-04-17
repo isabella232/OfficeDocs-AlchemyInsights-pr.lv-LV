@@ -2,7 +2,7 @@
 title: 'Teams: dzēst tērzēšanu'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9ff0fcc734361d733deb37ca0db55689b2ac85c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835098"
 ---
-# <a name="delete-a-chat-in-microsoft-teams"></a>Tērzēšanas dzēšana pakalpojumā Microsoft Teams
+# <a name="delete-a-chat-in-microsoft-teams"></a>Tērzēšanas dzēšana lietojumprogrammā Microsoft Teams
 
-Lai uzzinātu vairāk par to, kā atsevišķi lietotāji var rediģēt vai dzēst ziņojumus, skatiet rakstu [nosūtītā ziņojuma rediģēšana vai dzēšana pakalpojumā Teams](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263). 
+Lai uzzinātu vairāk par to, kā atsevišķi lietotāji var rediģēt vai dzēst ziņojumus, skatiet [nosūtīto ziņojumu rediģēšana vai dzēšana programmā Teams.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263) 
 
 Dzēšanas opcijas ir šādas:
 
-- Lietotāji var dzēst savus ziņojumus jebkur komandās.
-- Grupas īpašnieki var izvēlēties, vai lietotāji var rediģēt vai dzēst savā nomniekā vai izdzēst jebkuru ziņu, kas publicēta publiskajos kanālos.
-- Lietotāji var paslēpt vai izslēgt privātos tērzēšanas pavedienus (pavedienus, kas parādās, kad noklikšķināt uz tērzēšanas ikonas).
+- Lietotāji var izdzēst savus ziņojumus jebkur programmā Teams.
+- Darba grupu īpašnieki var izvēlēties, vai lietotāji savā nomniekā var rediģēt vai dzēst jebkuru ziņojumu, kas izlikts publiskos kanālos.
+- Lietotāji var paslēpt vai izslēgt savu privāto tērzēšanas pavedienu (pavedienu, kas parādās, kad noklikšķināt uz ikonas Tērzēšana).
 
-**Piezīme:** Iespēja izdzēst privātus tērzēšanas pavedienus joprojām tiek pārskatīta, un to var reģistrēt [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads). 
+**Piezīme.** Iespēja izdzēst privātus tērzēšanas pavedienus joprojām tiek pārskatīta, un to var reģistrēt [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads). 

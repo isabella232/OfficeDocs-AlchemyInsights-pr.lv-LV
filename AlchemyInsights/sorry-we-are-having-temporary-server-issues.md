@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 programmu labošana Diemžēl mums ir ziņojumi par pagaidu servera problēmām
+title: Microsoft 365 programmu labošana Diemžēl mums ir īslaicīgu servera problēmu ziņojums
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758252"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835278"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Izlabojot Microsoft 365 lietojumprogrammas, tiek parādīts ziņojums "Diemžēl radās īslaicīgas problēmas ar serveri"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 lietojumprogrammu kļūdas ziņojums "Diemžēl mums ir īslaicīgas servera problēmas"
 
-Ja tiek parādīts šis ziņojums, izmēģiniet tālāk norādītās darbības.
+Ja saņemat šādu ziņojumu, mēģiniet veikt šādas darbības:
 
-1. Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai pārliecinātos, vai tie nebloķē interneta piekļuvi Microsoft 365 programmām. Skatiet [vietrāžus URL un IP adrešu diapazoni](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai pārliecinātos, vai nebloķē piekļuvi internetam Microsoft 365 programmām. Skatiet [rakstu URL un IP adrešu diapazoni.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Dodieties uz **Sākt**  >  **izpildi**un pēc tam ierakstiet **Services. msc**. Pārliecinieties, vai visi šie pakalpojumi darbojas:
-    - Tīkla pievienotās ierīces automātiskā iestatīšana
+2. Dodieties **uz Start**  >  **Run** un pēc tam ierakstiet **services.msc**. Pārliecinieties, vai darbojas tālāk sniegtie pakalpojumi.
+    - Tīkla savienoto ierīču automātiskā iestatīšana
     - Tīkla saraksta pakalpojums
-    - Tīkla vietas izpratne
+    - Tīkla atrašanās vietas informētība
     - Windows notikumu žurnāls
 
-Ja kāds no šiem pakalpojumiem nedarbojas, mēģiniet sākt to. Ja rodas problēmas, sākot pakalpojumu, izpildiet šādu komandu, atverot komandu uzvedni ar paaugstinātām atļaujām:
+Ja kāds no šiem pakalpojumiem nedarbojas, mēģiniet to startēt. Ja rodas problēma, startējot pakalpojumu, palaidiet tālāk norādīto komandu, atverot komandu uzvedni ar paaugstinātām atļaujām:
 
-**sfc/scannow**
+**sfc /scannow**
 
 Kad šī komanda ir pabeigta, restartējiet datoru.
 
-Detalizētu informāciju skatiet rakstā ["Diemžēl mēs nevaram izveidot savienojumu ar jūsu kontu. Lūdzu, mēģiniet vēlreiz vēlāk, kad aktivizējat](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Detalizētu informāciju skatiet sadaļā ["Diemžēl nevaram izveidot savienojumu ar jūsu kontu. Lūdzu, vēlāk mēģiniet vēlreiz", kad aktivizējat.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

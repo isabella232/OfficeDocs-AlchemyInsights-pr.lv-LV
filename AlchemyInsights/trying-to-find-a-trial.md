@@ -1,8 +1,8 @@
 ---
-title: Mēģināt atrast izmēģinājumversiju?
+title: Vai mēģināt atrast izmēģinājumversiju?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834702"
 ---
-# <a name="trying-to-find-a-trial"></a>Mēģināt atrast izmēģinājumversiju?
+# <a name="trying-to-find-a-trial"></a>Vai mēģināt atrast izmēģinājumversiju?
 
-Ja vēlaties izmēģināt jaunu pakalpojumu, varat atrast izmēģinājumversijai pieejamo abonementu sarakstu Microsoft 365 administrēšanas centrā.
+Ja vēlaties izmēģināt jaunu pakalpojumu, Microsoft 365 administrēšanas centrā ir pieejams saraksts ar abonementiem, kuri ir pieejami izmēģinājumversijai.
   
-1. Administrēšanas centrā dodieties uz lapu **norēķinu** \> [pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. Administrēšanas centrā dodieties uz lapu **Norēķinu** \> [iegādes](https://go.microsoft.com/fwlink/p/?linkid=868433) pakalpojumi.
 
-2. Atlasiet abonementu, kas atbilst jūsu vajadzībām, un pēc tam atlasiet  **saņemt bezmaksas izmēģinājumversiju**.
+2. Atlasiet abonementu, kas atbilst jūsu vajadzībām, un pēc tam atlasiet Iegūt  **bezmaksas izmēģinājumversiju**.
 
     > [!NOTE]
-    > Ne visi abonementi ir pieejami kā izmēģinājums. Ja neredzat pogu **saņemt bezmaksas izmēģinājumversiju** , kad noklikšķināt uz abonementa, tas nozīmē, ka izmēģinājums nav pieejams.
+    > Ne visi abonementi ir pieejami kā izmēģinājumversija. Ja, novietojot peles rādītāju **virs** abonementa, netiek redzama poga Iegūt bezmaksas izmēģinājumversiju, tas nozīmē, ka izmēģinājumversija nav pieejama.
   
-3. Iespējams, jums tiks lūgts ievadīt kredītkarti vai citu maksāšanas veidu, lai iegūtu papildu verifikāciju kā drošības mēru. Par šo bezmaksas izmēģinājumversiju nav jāmaksā. Mēs paturēsim jūsu maksājuma informāciju par failu un to neizmantosit, lai saņemtu pirkumu bez jūsu apstiprinājuma.
+3. Iespējams, jums tiks lūgts ievadīt kredītkarti vai citu maksāšanas metodi, lai nodrošinātu papildu drošības pārbaudi. Jums nebūs jāmaksā par šo bezmaksas izmēģinājumversiju. Mēs saglabāsim failā jūsu informāciju par maksājumu, un nelietosim to pirkumu iegādei bez jūsu piekrišanas.
 
-4. Izvēlieties **izmēģināt tūlīt**.
+4. Izvēlieties **Izmēģināt tūlīt**.

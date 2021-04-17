@@ -1,8 +1,8 @@
 ---
-title: Viena ārēja monitora iestatīšana
+title: Viena ārējā monitora iestatīšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773917"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835530"
 ---
 # <a name="set-up-one-monitor"></a>Viena monitora iestatīšana
 
-**DATORA projekta iestatījumu pārbaude**
+**Datora projekta iestatījumu pārbaude**
 
-1. Atveriet projekta iestatījumus, vienlaikus nospiežot šos taustiņus: Windows taustiņš (Windows logotipa poga Sākt) + P.
-2. Atkarībā no preferencēm izvēlieties **dublēt**, **pagarināt**vai **tikai sekundi**.
+1. Atveriet projekta iestatījumus, vienlaikus nospiežot šos taustiņus: Windows taustiņš (Windows logotipa poga Sākums) + P.
+2. Izvēlieties **Dublēt,** **Paplašināt** vai **Tikai otrais ekrāns** atkarībā no jūsu preferencēm.
 
-**Piezīme:** Ja datorā ir tikai viens parādāmais ports (piemēram, HDMI vai VGA), ir nepieciešama dokstacija vai USB adapteris vairāku monitoru iestatīšanai.
+**Piezīme.** Ja jūsu datoram ir tikai viens displeja ports (piemēram, HDMI vai VGA), jums būs nepieciešama dokstacija vai USB adapteris, lai iestatītu vairākus monitorus.
 
-Turklāt, ja varat iestatīt vienu monitoru, bet ne vairākus, jūsu dators, iespējams, nav saderīgs ar vairākiem monitoriem. Lai iegūtu papildinformāciju, skatiet datora oriģinālos dokumentus.
+Turklāt, ja varat iestatīt vienu monitoru, bet ne vairākus, dators, iespējams, nav saderīgs ar vairākiem monitoriem. Papildinformāciju skatiet datora sākotnējos dokumentos.

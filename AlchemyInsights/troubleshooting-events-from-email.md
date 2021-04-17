@@ -1,8 +1,8 @@
 ---
-title: Problēmu novēršanas notikumi no e-pasta
+title: Problēmu novēršana saistībā ar notikumiem no e-pasta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658741"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834846"
 ---
-# <a name="troubleshooting-events-from-email"></a>Problēmu novēršanas notikumi no e-pasta
+# <a name="troubleshooting-events-from-email"></a>Problēmu novēršana saistībā ar notikumiem no e-pasta
 
-1. Pārbaudiet, vai pastkastei ir iespējots līdzeklis: **Get-EventsFromEmailConfiguration-Identity <mailbox> **
+1. Pārbaude, vai pastkastei šis līdzeklis ir iespējots: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Pēc tam aplūkojiet notikumus no e-pasta žurnāliem **, eksportējot-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Pēc tam skatiet žurnālus "Notikumi no **e-pasta" Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. Žurnālos "notikumi no e-pasta" atrodiet InternetMessageId, kas atbilst pastkastes elementam.  
+3. Žurnālos "Notikumi no e-pasta" atrodiet InternetMessageId, kas atbilst vienumam pastkastē.  
 
-4. TrustScore nosaka, vai vienums ir pievienots. Notikumi tiks pievienoti tikai tad, ja TrustScore = "uzticams".
+4. TrustScore nosaka, vai vienums ir pievienots vai nē. Notikumi tiks pievienoti tikai tad, ja TrustScore = "Trusted".
 
-TrustScore nosaka SPF, DKIM vai Dmarc rekvizīti, kas atrodas ziņojuma iesākumā.
+TrustScore nosaka rekvizīti SPF, Dkim vai Dmarc, kuri ir ziņojuma iesākumā.
 
 Lai skatītu šos rekvizītus:
 
-**Darbvirsmas Outlook**
+**Outlook datora versija**
 
 - Atvērt vienumu
-- Failu-> rekvizīti — > interneta galvenes
+- File -> Properties -> Internet Headers
 
 vai
 
 **MFCMapi**
 
-- Pārvietošanās uz vienumu iesūtnē
-- PR_TRANSPORT_MESSAGE_HEADERS_W meklēšana
+- Naviģēt uz vienumu iesūtnē
+- Meklējiet PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Šos rekvizītus nosaka un reģistrē transportēšanas un maršrutēšanas laikā. Lai veiktu citas darbības problēmu novēršanai, iespējams, jums būs jāseko transporta atbalstam attiecībā uz SPF, DKIM un DMARC.
+Šie rekvizīti tiek noteikti un ierakstīti transporta un maršrutēšanas laikā. Lai novērstu citas problēmas, iespējams, būs jāseko transporta atbalsta dienestam par kļūmēm SPF, DKIM un.vai DMARC.

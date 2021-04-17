@@ -2,7 +2,7 @@
 title: Atsvaidzināšanas scenāriju problēmu novēršana — elementu kļūdas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690682"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834918"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Atsvaidzināšanas scenāriju problēmu novēršana — elementu kļūdas
 
-Ja pakalpojumā Power BI rodas elementu atsvaidzināšanas kļūdas, lūdzu, uzgaidiet aptuveni 10-15 minūtes, līdz atsvaidzināšana tiek parādīta informācijas paneļa elementos. Ja tā joprojām netiek rādīta, atkārtoti piespraudiet vizualizāciju informācijas panelim.
+Ja Power BI pakalpojumā rodas elementu atsvaidzināšanas kļūdas, uzgaidiet aptuveni 10–15 minūtes, līdz atsvaidzināšana tiks atspoguļota informācijas paneļa elementos. Ja vizualizācija joprojām netiek rādīta, atkārtoti piespīdiet vizualizāciju informācijas panelī.
 
-Lai iegūtu papildinformāciju: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Papildinformācija: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

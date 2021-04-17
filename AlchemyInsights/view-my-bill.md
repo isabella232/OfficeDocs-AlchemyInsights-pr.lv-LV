@@ -1,8 +1,8 @@
 ---
-title: Skatīt manu rēķinu vai rēķinu
+title: Rēķina skatīšana
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 05df0632b94862e96b21f6c68c0dde392e7b0cdc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb0a1a5535fc041103b31dea33fa5aa2d40ecfed
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796475"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834306"
 ---
-# <a name="view-my-bill-or-invoice"></a>Skatīt manu rēķinu vai rēķinu
+# <a name="view-my-bill-or-invoice"></a>Rēķina skatīšana
 
-1. Microsoft 365 administrēšanas centrā dodieties uz lapu **norēķinu** \> [rēķini & maksājumi](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. Microsoft 365 administrēšanas centrā dodieties uz **norēķinu** \> [rēķinu & lapu.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. Nolaižamajā sarakstā atlasiet datumu diapazonu un pēc tam izvēlieties secību, kuru vēlaties skatīt.
+2. Atlasiet datumu diapazonu nolaižamajā sarakstā un pēc tam izvēlieties secību, kuru vēlaties skatīt.
 
-3. Lai izdrukātu rēķinu, lejupielādējiet rēķinu kā PDF failu un noklikšķiniet uz **Drukāt**.
+3. Lai izdrukātu rēķinu, lejupielādējiet rēķinu PDF faila formātā un noklikšķiniet uz **Drukāt.**
 
 Lai uzzinātu vairāk, lasiet [Jūsu rēķina skatīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).

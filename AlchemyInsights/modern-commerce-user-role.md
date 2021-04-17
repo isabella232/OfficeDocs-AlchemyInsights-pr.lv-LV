@@ -1,8 +1,8 @@
 ---
-title: Mūsdienīga komercijas lietotāja loma
+title: Modern Commerce lietotāja loma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667021"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833622"
 ---
-# <a name="modern-commerce-user-role"></a>Mūsdienīga komercijas lietotāja loma
+# <a name="modern-commerce-user-role"></a>Modern Commerce lietotāja loma
 
-Modernās komercijas lietotāja loma nodrošina dažiem lietotājiem atļauju piekļūt Microsoft 365 administrēšanas centram un skatīt kreisās puses navigācijas ierakstus **mājas**lietošanai, **norēķiniem**un **atbalstam**. Šajā apgabalā pieejamo saturu kontrolē tirdzniecības specifiskās lomas, kas lietotājiem ir piešķirtas, lai varētu pārvaldīt produktus, ko tie iegādājās vai jūsu organizācijā. Tas var ietvert tādus uzdevumus kā rēķinu apmaksāšana, vai piekļuve norēķinu kontiem un norēķinu profiliem.
+Modern Commerce lietotāja loma sniedz noteiktiem lietotājiem atļauju piekļūt Microsoft 365 administrēšanas centram un skatiet kreisajā navigācijas ierakstus sadaļā Mājas **lietošanai,** Norēķini un **Atbalsts.** Šajās jomās pieejamo saturu kontrolē tirdzniecības lomas, kas piešķirtas lietotājiem, lai pārvaldītu produktus, ko viņi iegādājušies sev vai jūsu organizācijai. Tas var ietvert uzdevumus, piemēram, rēķinu apmaksu, vai piekļuvi norēķinu kontiem un norēķinu profiliem.
 
-Lietotājiem ar moderno komercijas lietotāja lomu parasti ir administratora atļaujas citās Microsoft iegādes sistēmās, taču jums nav globālā administratora vai norēķinu administratora privilēģijas.
+Lietotājiem, kuriem ir modernās komercijas lietotāja loma, parasti ir administratīvās atļaujas citās Microsoft pirkumu sistēmās, taču nav globālā administratora vai norēķinu administratora tiesību.
 
-Papildinformāciju par šo un citām administrēšanas lomām skatiet rakstā [administratora lomu atļaujas Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Papildinformāciju par šo un citām administratīvajām lomām skatiet rakstā [Administratora lomu atļaujas pakalpojumā Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)
