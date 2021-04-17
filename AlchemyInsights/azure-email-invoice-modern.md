@@ -1,8 +1,8 @@
 ---
-title: Modernā Azure e-pasta rēķini
+title: Azure rēķini pa e-pastu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922065"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820833"
 ---
-# <a name="email-invoicing-in-azure"></a>E-pasta rēķinu izrakstīšana Azure
+# <a name="email-invoicing-in-azure"></a>Azure e-pasta rēķini
 
-Lai atjauninātu savas e-pasta rēķinu preferences, jums ir jābūt īpašniekam vai līdzstrādnieka lomai norēķinu profilā vai tā norēķinu kontā. Kad būsit pieteicies, visi lietotāji, kuriem ir īpašnieks, līdzstrādnieks, lasītāji un rēķinu pārvaldnieka lomas norēķinu profilā, saņems rēķinu e-pasta ziņojumā.
-
-1. Pierakstieties [Azure portālā](https://portal.azure.com/).
-2. Meklējiet **izmaksu pārvaldību + norēķini**.
-3. Atlasiet **rēķinus** no kreisās puses un pēc tam lapas augšdaļā atlasiet **e-pasta rēķins** .
-4. Ja jums ir vairāki norēķinu profili, atlasiet norēķinu profilu un pēc tam atlasiet **pieteikties**.
-
-5. Atlasiet **atjaunināt**.
-6. Ja jums ir vairāki norēķinu profili, atlasiet norēķinu profilu un pēc tam atlasiet **pieteikties**.
-
-Jūs piešķirat citiem piekļuvi, lai skatītu, lejupielādētu un apmaksātu rēķinus, piešķirot tiem rēķinu pārvaldnieka lomu MCA vai MPA norēķinu profilam. Ja esat pieteicies saņemt rēķinu e-pasta ziņojumā, lietotāji saņem arī rēķinus e-pasta ziņojumā.
+Lai mainītu e-pasta adresi rēķinu saņemšanai jums ir jābūt norēķinu profila vai norēķinu konta īpašniekam vai līdzstrādniekam. Pēc reģistrācijas, visi lietotāji ar īpašnieka, līdzstrādnieka, lasītāja un rēķinu pārvaldnieka lomām norēķinu profilā saņems rēķinu savā e-pastā.
 
 1. Pierakstieties [Azure portālā](https://portal.azure.com/).
-2. Meklējiet **izmaksu pārvaldību + norēķini**.
-3. Atlasiet **norēķinu profilus** no kreisās puses. Sarakstā norēķinu profili atlasiet norēķinu profilu, kuram vēlaties piešķirt rēķinu pārvaldnieka lomu.
-4. Kreisās puses pusē atlasiet **piekļuves vadība (IAM)** un pēc tam lapas augšdaļā atlasiet **Pievienot** .
+2. Meklējiet **Izmaksu pārvaldība + norēķini**.
+3. Atlasiet **Rēķini** kreisajā pusē un pēc tam atlasiet **Rēķins e-pastā** lapas augšdaļā.
+4. Ja jums ir vairāki norēķini profili, atlasiet vienu un pēc tam atlasiet **Reģistrēt**.
 
-Nolaižamajā sarakstā lomai atlasiet **rēķinu pārvaldnieks**. Ievadiet lietotāja e-pasta adresi, lai piešķirtu piekļuvi. Atlasiet **Saglabāt** , lai piešķirtu lomu.
+5. Atlasiet **Atjaunināt**.
+6. Ja jums ir vairāki norēķini profili, atlasiet vienu un pēc tam atlasiet **Reģistrēt**.
+
+Piešķirat lietotājam rēķinu pārvaldnieka lomu MCA vai MPA norēķinu profilā, jūs piešķirat lietotājam piekļuvi skatīt, lejupielādēt un apmaksāt rēķinus. Ja izvēlējāties saņemt rēķinu e-pastā, tas tiks nosūtīts arī uz citu lietotāju e-pastiem.
+
+1. Pierakstieties [Azure portālā](https://portal.azure.com/).
+2. Meklējiet **Izmaksu pārvaldība + norēķini**.
+3. Atlasiet **Norēķinu profili** kreisajā pusē. Norēķinu profilu sarakstā atlasiet norēķinu profilu, kuram vēlaties piešķirt rēķinu pārvaldnieka lomu.
+4. Atlasiet **Piekļuves vadība (IAM)** kreisajā pusē un pēc tam atlasiet **Pievienot** lapas augšdaļā.
+
+Lomu nolaižamajā sarakstā atlasiet **Rēķinu pārvaldnieks**. Ievadiet lietotāja e-pasta adresi, lai piešķirtu piekļuvi. Atlasiet **Saglabāt**, lai piešķirtu lomu.

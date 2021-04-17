@@ -1,8 +1,8 @@
 ---
-title: Azure e-pasta rēķini
+title: Azure e-pasta rēķinu izrakstīšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922053"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820797"
 ---
-# <a name="azure-email-invoicing"></a>Azure e-pasta rēķini
+# <a name="azure-email-invoicing"></a>Azure e-pasta rēķinu izrakstīšana
 
-Jums ir jābūt konta administratora lomai abonementā vai atbalsta plānā, lai pieteiktos saņemt rēķinu pa e-pastu. E-pasta rēķini ir pieejami tikai abonementiem un atbalsta plāniem, nevis rezervācijām vai Azure Marketplace pirkumiem. Kad esat izvēlējies-in, varat pievienot papildu adresātus, kas saņem rēķinu arī pa e-pastu. Veiciet tālāk norādītās darbības.
+Lai piekristu konta rēķinus saņemt pa e-pastu, jums abonementā vai atbalsta plānā ir jābūt šī konta administratora lomai. E-pasta rēķini ir pieejami tikai abonementiem un atbalsta plāniem, bet ne rezervācijām vai Azure Marketplace pirkumiem. Kad esat piekritis, varat pievienot papildu adresātus, kas rēķinu arī saņems pa e-pastu. Lūdzu, izpildiet tālāk norādītās darbības.
 
 1. Pierakstieties [Azure portālā](https://portal.azure.com/).
-2. Meklējiet **izmaksu pārvaldību + norēķini**.
-3. Atlasiet **rēķinus** no kreisās puses.
-4. Atlasiet savu Azure abonementu vai atbalsta plānu abonementu un pēc tam atlasiet **saņemt rēķinu pa e-pastu**.
-5. Noklikšķiniet uz **e-pasta rēķins** un akceptējiet noteikumus.
-6. Rēķins tiek nosūtīts uz vēlamo saziņas e-pasta ziņojumu. Atlasiet **atjaunināt profilu** , lai atjauninātu e-pasta ziņojumu.  
+2. Meklējiet **Izmaksu pārvaldība + norēķini**.
+3. Kreisajā pusē atlasiet **Rēķini**.
+4. Atlasiet savu Azure abonementu vai atbalsta plāna abonementu un pēc tam **Saņemt rēķinu pa e-pastu**.
+5. Noklikšķiniet un **E-pasta rēķins** un piekrītiet nosacījumiem.
+6. Rēķins tiek nosūtīts uz vēlamo saziņas e-pasta adresi. Atlasiet **Atjaunināt profilu,** lai atjauninātu e-pasta adresi.  
 
-    Jūs varat kopīgot rēķinus savam abonementam un atbalsta plānam katru mēnesi ar savu grāmatvedības grupu vai nosūtīt tos uz kādu citu e-pasta adresi.  
+    Iespējams, vēlēsities katru mēnesi kopīgot sava abonementa un atbalsta plāna rēķinus ar grāmatvedības komandu vai nosūtīt tos uz kādu citu savu e-pasta adresi.  
 
-7. Veiciet iepriekš aprakstītās darbības, lai vispirms iespējotu rēķinu pa e-pastu un pēc tam atlasiet  **konfigurēt adresātus.**
-8. Ievadiet e-pasta adresi un pēc tam atlasiet **Pievienot adresātu**. Varat pievienot vairākas e-pasta adreses.
-9. Kad esat pievienojis visas e-pasta adreses, atlasiet **gatavs** ekrāna lejasdaļā.
+7. Veiciet iepriekš aprakstītās darbības, lai vispirms iespējotu rēķinu saņemšanu pa e-pastu, un pēc tam atlasiet **Konfigurēt adresātus.**
+8. Ievadiet e-pasta adresi un atlasiet **Pievienot adresātu**. Varat pievienot vairākas e-pasta adreses.
+9. Kad esat pievienojis visas e-pasta adreses, ekrāna lejasdaļā atlasiet **Gatavs**.

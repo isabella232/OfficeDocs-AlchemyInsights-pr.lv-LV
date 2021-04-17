@@ -1,8 +1,8 @@
 ---
-title: Vai jau maksā?
+title: Vai jau samaksājāt?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821526"
 ---
-# <a name="already-paid"></a>Vai jau maksā?
+# <a name="already-paid"></a>Vai jau samaksājāt?
 
-Ja esat jau nosūtījis maksājumu, jūs varat mums paziņot:
+Ja esat jau nosūtījis maksājumu, varat mums to darīt:
   
-1. Administrēšanas centrā dodieties uz lapu **norēķinu** \> [abonementi](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Administrēšanas centrā dodieties uz **lapu** \> [Norēķinu abonementi.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Izvēlieties abonementu un sadaļā **mans rēķins** izvēlieties **Skatīt rēķinu**.
+2. Izvēlieties abonementu un sadaļā Mans **rēķins** izvēlieties **Skatīt rēķinu.**
 
-3. Lapā **Detalizēta informācija par rēķinu** izvēlieties vai **jau samaksāts?** Jums tiks lūgts ievadīt informāciju, kas saistīta ar nosūtīto maksājumu.
+3. Lapā Detalizēta **informācija par rēķinu** izvēlieties Vai jau **samaksāts?** Jums tiks lūgts ievadīt informāciju par nosūtīto maksājumu.
 
-4. Kad visa nepieciešamā informācija ir ievadīta, izvēlieties **nosūtīt**.
+4. Kad visa nepieciešamā informācija ir ievadīta, izvēlieties **Sūtīt.**

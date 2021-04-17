@@ -1,25 +1,26 @@
 ---
-title: Bloķēt lejupielādi kopīgošanas saitēs
+title: Lejupielādes bloķēšana, kopīgojot saites
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358039"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820257"
 ---
-# <a name="block-download-on-sharing-links"></a>Bloķēt lejupielādi kopīgošanas saitēs
+# <a name="block-download-on-sharing-links"></a>Lejupielādes bloķēšana, kopīgojot saites
 
-**Bloķēt lejupielādi** ir pieejama **tikai skatīt saites** uz Office dokumentiem. Atlasot šo opciju, personas, kas piekļūst failam, izmantojot izveidoto saiti, neredzēs opcijas faila lejupielādei, drukāšanai vai kopēšanai.
+Kad ar citiem kopīgojat vienumus OneDrive krātuvē vai SharePoint vidē, varat piešķirt piekļuvi skatīšanai, bet neļaut lejupielādēt.
 
-Administratori var kontrolēt, vai iestatījums "bloķēt lejupielādi" ir redzams tikai Office failus vai nav, mainot `BlockDownloadLinksFileType` iestatījumu [Set sponomnieka](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) vai [Set sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell cmdlet.
+Papildinformāciju skatiet rakstā [Tikai skatāmu failu lejupielādes bloķēšana SharePoint vidē un OneDrive krātuvē](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
