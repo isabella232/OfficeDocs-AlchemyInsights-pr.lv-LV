@@ -2,7 +2,7 @@
 title: W-Fi maršrutētāja paroles maiņa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733442"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818191"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Wi-Fi maršrutētāja paroles maiņa
+# <a name="change-your-wi-fi-router-password"></a>Maršrutētāja Wi-Fi paroles maiņa
 
 Lai mainītu Wi-Fi maršrutētāja paroli, veiciet tālāk norādītās darbības.
 
-1. Atlasiet **Sākt**  >  **iestatījumu**  >  **tīkla & interneta**  >  **tīkla un koplietošanas centra**.
+1. Atlasiet **Sākt**  >  **iestatījumus**  >  **Tīkls & Interneta** tīkls un koplietošanas  >  **centrs**.
 
-2. Sadaļā **Skatīt savus aktīvos tīklus**meklējiet tīklu, ar kuru ir izveidots savienojums. Atlasiet zilo saiti blakus **Connections**.<br>
+2. Sadaļā **Skatīt jūsu aktīvos tīklus** meklējiet tīklu, ar kuru ir izveidots savienojums. Atlasiet zilo saiti blakus **Connections**.<br>
 
-   **Piezīme:** Ja nav izveidots savienojums ar Wi-Fi, ir jāpievieno savienojums, lai varētu mainīt paroli.
+   **Piezīme.** Ja nav izveidots savienojums ar Wi-Fi, pirms paroles maiņas ir nepieciešams izveidot savienojumu.
 
 3. Atlasiet **Detalizēta informācija**.
 
-4. Meklējiet savu IPv4 noklusējuma vārteju un ņemiet vērā šo skaitļu virkni, tostarp periodus. Piemēram: 192.168.0.1, 192.168.1.1, 10.0.0.1 vai 10.0.1.1
+4. Meklējiet savu IPv4 noklusējuma vārteju un atzīmējiet šo skaitļu virkni, ieskaitot periodus. Piemēram: 192.168.0.1, 192.168.1.1, 10.0.0.1 vai 10.0.1.1
 
-5. Atveriet pārlūkprogrammu, ievadiet šo skaitļu virkni, ieskaitot periodus adreses joslā, un nospiediet taustiņu ENTER, lai pārietu uz maršrutētāja konfigurācijas lapu.
+5. Atveriet pārlūkprogrammu, ievadiet šo skaitļu virkni, ieskaitot periodus adreses joslā, un nospiediet taustiņu Enter, lai dotos uz maršrutētāja konfigurācijas lapu.
 
 6. Kad tiek atvērta maršrutētāja konfigurācijas lapa, ievadiet savu lietotājvārdu un paroli.<br>
-   - Ja nekad neesat mainījis maršrutētāja noklusējuma lietotājvārdu un paroli, iespējams, šī informācija būs pieejama maršrutētāja rokasgrāmatā.
+   - Ja nekad neesat mainījis maršrutētāja noklusējuma lietotājvārdu un paroli, visdrīzāk šo informāciju atradīsit maršrutētāja rokasgrāmatā.
 
-   - Sazinieties ar maršrutētāja ražotāju, ja jums ir nepieciešams papildu atbalsts, lai pieteiktos šajā tīmekļa lapā.
+   - Ja jums ir nepieciešams papildu atbalsts, lai pieteiktos šajā tīmekļa lapā, sazinieties ar maršrutētāja ražotāju.
 
-7. Kad esat pieteicies, atrodiet bezvadu iestatījumus. Tagad ir iespējams mainīt Wi-Fi paroli.
+7. Kad esat pieteicies, atrodiet bezvadu iestatījumus. Tagad jums vajadzētu būt iespējai mainīt Wi-Fi paroli.

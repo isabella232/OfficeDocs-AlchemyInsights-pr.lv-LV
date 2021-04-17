@@ -2,7 +2,7 @@
 title: Nevar piekļūt publiskajām mapēm
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819519"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook nevar izveidot savienojumu ar publiskajām mapēm
 
-Ja dažiem lietotājiem nedarbojas piekļuve publiskajai mapei, izmēģiniet tālāk norādītās darbības.
+Ja piekļuve publiskajām mapēm dažiem lietotājiem nedarbojas, izmēģiniet tālāk norādītās darbības.
 
-Izveidot savienojumu ar EXO PowerShell un konfigurēt DefaultPublicFolderMailbox parametru problēmu lietotāja kontā, lai tas atbilstu parametram darba lietotāja kontā.
+Izveidojiet savienojumu ar EXO PowerShell un konfigurējiet parametru DefaultPublicFolderMailbox problēmas lietotāja kontā, lai tas atbilstu parametram lietotāja kontā, kas darbojas.
 
-Piemēram
+Piemērs:
 
-Get-Pastkaste WorkingUser | pēdu DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Iestatīt-pastkastes ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-Lai izmaiņas stātos spēkā, uzgaidiet vismaz vienu stundu.
+Uzgaidiet vismaz vienu stundu, līdz izmaiņas stājas spēkā.
 
-Ja problēma joprojām pastāv, lūdzu, veiciet [šīs darbības](https://aka.ms/pfcte) , lai novērstu publisko mapju piekļuves problēmas, izmantojot programmu Outlook.
+Ja problēma joprojām pastāv, izpildiet šo procedūru, lai [novērstu](https://aka.ms/pfcte) publisko mapju piekļuves problēmas, izmantojot Outlook.
  
-**Lai kontrolētu, kuri lietotāji var piekļūt publiskajām mapēm, izmantojot programmu Outlook**:
+**Lai noteiktu, kuri lietotāji var piekļūt publiskajām mapēm, izmantojot programmu Outlook:**
 
-1.  Izmantojiet Set-CASMailbox <mailboxname> -PublicFolderClientAccess $TRUE vai $FALSE  
+1.  Use Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true vai $false  
       
-    $true: atļaut lietotājiem piekļūt publiskajām mapēm programmā Outlook  
+    $true. Atļaut lietotājiem piekļūt publiskajām mapēm programmā Outlook  
       
-    $false: neļaut lietotājiem piekļūt publiskajām mapēm programmā Outlook. Šī ir noklusējuma vērtība.  
+    $false: neļaujiet lietotājiem piekļūt publiskajām mapēm programmā Outlook. Šī ir noklusējuma vērtība.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Piezīmes** Šī procedūra var vadīt savienojumus tikai ar Outlook datora Windows klientiem. Lietotājs var turpināt piekļūt publiskajām mapēm, izmantojot OWA vai Outlook darbam ar Mac.
+**Piezīme** Šī procedūra var kontrolēt savienojumus tikai ar Outlook datora versiju Windows klientiem. Lietotājs var turpināt piekļūt publiskajām mapēm, izmantojot OWA vai Outlook darbam ar Mac.
  
-Lai iegūtu papildinformāciju, skatiet rakstu kā paziņot [par atbalstu kontrolētajiem savienojumiem ar publiskajām mapēm programmā Outlook](https://aka.ms/controlpf).
+Papildinformāciju skatiet rakstā [Atbalsts kontrolētiem savienojumiem ar publiskajām mapēm programmā Outlook.](https://aka.ms/controlpf)

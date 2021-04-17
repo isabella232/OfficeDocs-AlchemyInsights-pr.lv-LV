@@ -1,8 +1,8 @@
 ---
-title: Norēķinu adreses maiņa
+title: Mainīt savu norēķinu adresi
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714443"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818215"
 ---
-# <a name="change-your-billing-address"></a>Norēķinu adreses maiņa
+# <a name="change-your-billing-address"></a>Mainīt savu norēķinu adresi
 
-Rēķinā vai rēķinā ietilpst trīs adreses.
+Rēķinā vai rēķinā ir trīs adreses.
 
 **Maksāšanas metodes norēķinu adreses maiņa**
 
-1. Administrēšanas centrā dodieties uz **norēķinu > [maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Administrēšanas centrā dodieties uz **sadaļu Norēķini > [Maksāšanas veidi.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Atlasiet kredītkarti vai bankas kontu, kuru vēlaties mainīt.
-3. Lapā **maksāšanas metodes detalizēti** noklikšķiniet uz **Rediģēt**.
-4. Atjauniniet savu norēķinu adresi un pēc tam noklikšķiniet uz **saglabāt > gatavs**.
+3. Lapā Detalizēta **informācija par maksāšanas** metodi noklikšķiniet uz **Rediģēt.**
+4. Atjauniniet savu norēķinu adresi un pēc tam noklikšķiniet **uz > Gatavs.**
 
-Papildinformāciju par adresēm un paziņojumiem par izmaiņām skatiet rakstā [norēķinu adreses maiņa pakalpojumā Microsoft 365 darbam](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Papildinformāciju par adresēm un paziņojumu izmaiņām skatiet [rakstā Savu rēķina adrešu maiņa programmā Microsoft 365 darbam.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)
 
-**Norēķinu konta informācijas maiņa**
+**Mainīt norēķinu konta informāciju**
 
-1. Administrēšanas centrā dodieties uz **norēķinu > [norēķinu konti](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+1. Administrēšanas centrā dodieties uz **sadaļu Norēķini > [Norēķinu konti.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Atlasiet **Rediģēt norēķinu konta informāciju**.
-3. Atjauniniet norēķinu konta informāciju un pēc tam noklikšķiniet uz **saglabāt > gatavs**.
+3. Atjauniniet norēķinu konta informāciju un pēc tam noklikšķiniet **uz > Gatavs.**
 
-**Piezīme**: valsts/reģions nav iespējams mainīt. Ja šis lauks ir jāmaina, ir jāiegādājas jauns nomnieks.
+**Piezīme.** Valsti/reģionu nevar mainīt. Ja šis lauks ir jāmaina, ir jāiegādājas jauns nomnieks.

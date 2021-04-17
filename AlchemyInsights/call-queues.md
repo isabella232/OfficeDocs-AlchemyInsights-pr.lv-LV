@@ -1,8 +1,8 @@
 ---
-title: Zvanīšanas rindas
+title: Zvanu rindas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734342"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819843"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Zvanu rindas pakalpojumā Microsoft Teams un Skype darbam 
 
-Lai sāktu darbu ar zvanīšanas rindām, skatiet tālāk norādītās saites.
+Lai sāktu izmantot zvanu rindas, skatiet tālāk norādītās saites.
 
-- [Mākoņa zvanīšanas rindas izveide](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Atbildēt uz automātiskā operatora un zvanu rindas zvaniem tieši no Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Mākoņa zvanu rindas izveide](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Atbildēšana uz automātisko operatoru un zvanu rindas zvaniem tieši no Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

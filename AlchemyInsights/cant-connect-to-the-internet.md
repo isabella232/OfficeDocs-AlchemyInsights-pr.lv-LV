@@ -2,7 +2,7 @@
 title: Nevar izveidot savienojumu ar internetu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794269"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819447"
 ---
-# <a name="fix-network-connection"></a>Tīkla savienojuma labošana
+# <a name="fix-network-connection"></a>Labot tīkla savienojumu
 
-Lai atrisinātu tīkla savienojuma problēmas, vispirms izmēģiniet tīkla problēmu risinātāju. 
+Lai novērstu tīkla savienojuma problēmas, vispirms mēģiniet palaist tīkla problēmu risinātāju. 
 
-1. [Atveriet iestatījumu problēmu novēršana](ms-settings:troubleshoot).
+1. [Atveriet problēmu novēršanas iestatījumus](ms-settings:troubleshoot).
 
-2. Sadaļā **interneta savienojumi**atlasiet **palaist problēmu risinātāju**.
+2. Sadaļā **Interneta savienojumi** atlasiet Palaist problēmu **risinātāju**.
 
-Ja izmantojat Wi-Fi savienojumu, pārliecinieties, vai jūsu ierīcē ir ieslēgts Wi-Fi (tostarp jebkurš fiziskais Wi-Fi slēdzis) un vai lidmašīnas režīms nav ieslēgts.
+Ja izmantojat interneta Wi-Fi, pārliecinieties, vai Wi-Fi ierīcē ir ieslēgts (tostarp jebkurš fiziskais Wi-Fi slēdzis) un vai nav ieslēgts lidmašīnas režīms.
 
 Ja izmantojat Ethernet savienojumu, pārliecinieties, vai kabelis ir droši pievienots datoram un maršrutētājam vai modemam.
 
-Ja tas nepalīdz, mēģiniet restartēt datoru, modemu un maršrutētāju (ja tāda ir):
+Ja tas nedarbojas, mēģiniet restartēt datoru, modemu un maršrutētāju (ja jums tāds ir):
 
-1. Atvienojiet strāvu no modema un maršrutētāja. Ja jūsu modemā ir akumulators, akumulators ir jānoņem, lai pilnībā izslēgtu Power.
+1. Atvienojiet strāvas padeves savienojumu no modema un maršrutētāja. Ja jūsu modemam ir akumulatora dublējums, ir jānoņem akumulators, lai pilnībā izslēgtu enerģiju.
 
-2. Uzgaidiet aptuveni 30 sekundes. Ja esat noņēmis akumulatoru no modema, ievietojiet to atpakaļ.
+2. Uzgaidiet aptuveni 30 sekundes. Ja noņēmām akumulatoru no modema, ievietojiet to atpakaļ.
 
-3. Pievienojiet modema un maršrutētāja Power Cable.
+3. Iespraudiet modema un maršrutētāja strāvas kabeli.
 
-4. Uzgaidiet, līdz modems un maršrutētājs pilnībā ieslēdzas, restartējiet datoru: **startējiet**  >  **Power**  >  **restartēšanu**.
+4. Kamēr tiek gaidīts, līdz modems un maršrutētājs pilnībā barošanas režīmā, restartējiet datoru: **startējiet**  >  **barošanas**  >  **restartēšanu.**
 
-**Papildu problēmu novēršana**
+**Detalizēta problēmu novēršana**
 
-Papildinformāciju par sarežģītākām problēmu novēršanas darbībām skatiet rakstā [Wi-Fi savienojuma problēmu labošana](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)operētājsistēmā Windows. 
+Papildu problēmu novēršanas darbības skatiet rakstā [Savienojuma Wi-Fi labošana operētājsistēmā Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
-Ja nevēlaties izmantot citas tehniskās problēmu novēršanas darbības, [sazinieties ar mums](https://support.microsoft.com/contactus).
+Ja ne ērtāk izmantojat sarežģītākas tehniskās problēmu novēršanas darbības, sazinieties [ar mums.](https://support.microsoft.com/contactus)

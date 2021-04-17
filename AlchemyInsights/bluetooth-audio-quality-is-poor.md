@@ -1,8 +1,8 @@
 ---
-title: Bluetooth audio kvalitāte ir slikta
+title: Bluetooth audio kvalitāte ir zema
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820113"
 ---
 # <a name="fix-bluetooth-audio-quality-issue"></a>Bluetooth audio kvalitātes problēmas novēršana
 
-Ja Bluetooth ierīce ir pievienota, bet skaņas kvalitāte ir slikta, izmēģiniet tālāk norādītās darbības.
+Ja Bluetooth ierīce ir pievienota, taču skaņas kvalitāte ir zema, izmēģiniet tālāk norādītās darbības.
 
-- Pārliecinieties, vai audio tiek atskaņots, izmantojot Bluetooth ierīci. Atlasiet **Sākt**  >  **iestatījumu**  >  **sistēmas**  >  **skaņu**. Sadaļā **Izvēlieties izvades ierīci**atlasiet Bluetooth audio ierīci.
-- Pauzējiet citas lietas, kas varētu būt ar Bluetooth, piemēram, failu kopīgošana, izmantojot tehnoloģiju Bluetooth. Papildinformāciju skatiet rakstā [skaņas problēmu novēršana operētājsistēmā Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Pārbaudiet, vai Bluetooth ierīcei ir atlasīts stereo, lai nodrošinātu vislabāko audio kvalitāti. Lai to izdarītu: 
-    1. Uzdevumjoslas labajā pusē atlasiet **Skaļums**un pēc tam atlasiet leņķpēdiņas ikonu, lai izvēlētos atskaņošanas ierīci.
-    2. Atlasiet Bluetooth ierīci un pārliecinieties, vai ir atlasīta opcija **stereo** . (Zemāka audio kvalitātes opcija ir **brīvroku režīmā**.)
-    3. Ja opcija stereo nav pieejama, noņemiet ierīci **iestatījumu**  >  **ierīces**  >  **Bluetooth & citas ierīces**un pēc tam atkārtoti pievienojiet ierīci. Pēc tam vēlreiz pārbaudiet **skaļuma** paneli, lai pārliecinātos, vai ir atlasīts stereo.
+- Pārliecinieties, vai audio tiek atskaņots, izmantojot Bluetooth ierīci. Atlasiet **Sākt**  >  **iestatījumus**  >  **Sistēmas**  >  **skaņa**. Sadaļā **Izvēlieties izvades ierīci** atlasiet Bluetooth audioierīci.
+- Apturiet citus failus, kas, iespējams, izmanto tehnoloģiju Bluetooth, piemēram, failu koplietošanu, izmantojot tehnoloģiju Bluetooth. Papildinformāciju skatiet rakstā [Skaņas problēmu novēršana operētājsistēmā Windows 10.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- Pārbaudiet, vai Bluetooth ierīcei ir izvēlēts stereo, lai nodrošinātu vislabāko audio kvalitāti. Lai to paveiktu: 
+    1. Uzdevumjoslas labajā pusē atlasiet Skaļums un **pēc** tam atlasiet skujiņas ikonu, lai izvēlētos atskaņošanas ierīci.
+    2. Atlasiet Bluetooth ierīci un pārliecinieties, vai **ir atlasīta stereo** opcija. (Zemākās audio kvalitātes opcija ir **Brīvroku**.)
+    3. Ja stereo nav pieejams kā opcija, noņemiet ierīci sadaļā Ierīces Bluetooth & citās ierīcēs un pēc tam  >    >  atkārtoti pievienojiet ierīci. Pēc tam vēlreiz pārbaudiet **skaļuma paneli,** lai pārliecinātos, vai ir atlasīts stereo.
 

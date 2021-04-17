@@ -2,7 +2,7 @@
 title: UPN maiņa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 63831912c9781c73135790f0f855c71ee6ee6621
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756470"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818259"
 ---
 # <a name="change-a-users-email-address"></a>Lietotāja e-pasta adreses maiņa
 
-Personas e-pasta adreses maiņa ir vienkārša! Vienkārši veiciet tālāk norādītās darbības.
+Lietotāja e-pasta adreses maiņa ir vienkārša! Vienkārši veiciet tālāk norādītās darbības.
   
-1. Microsoft 365 administrēšanas centrā dodieties uz lapu [lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) vai izvēlieties **lietotāju** \> **Aktīvie lietotāji**.
+1. Microsoft 365 administrēšanas centrā dodieties uz [lapu Lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822) vai izvēlieties Lietotāji  \> **aktīvie lietotāji.**
     
 2. Atlasiet lietotāju.
     
-3. Pa labi, rindā **lietotājvārds/e-pasta aizstājvārdi** izvēlieties **Rediģēt**.
+3. Labajā pusē rindā **Lietotājvārds/e-pasta aizstājvārdi** izvēlieties **Rediģēt**.
     
-4. Lodziņā **aizstājvārds** ierakstiet jauno e-pasta ziņojumu un pēc tam izvēlieties **Pievienot**.
+4. Lodziņā **Aizstājvārds** ierakstiet jaunu e-pasta adresi un pēc tam izvēlieties **Pievienot.**
     
-    **Svarīgi**! ja saņemat kļūdas ziņojumu " **nevar atrast parametru, kas atbilst parametra nosaukumam ' parametrā EmailAddresses norādītā**", tas nozīmē, ka ir nepieciešams mazliet ilgāks laiks, līdz Microsoft var pabeigt nomnieka iestatīšanu, vai savu pielāgoto domēnu, ja to nesen pievienojāt. Iestatīšanas process var ilgt līdz pat 4 stundām. Mazliet uzgaidiet, līdz ar to iestatīšanas procesam ir pienācis laiks to pabeigt, un pēc tam mēģiniet vēlreiz. Ja problēma joprojām pastāv, sazinieties ar atbalsta dienestu un viņi veiks pilnīgu sinhronizāciju.
+    **SVARĪGI!** Ja tiek parādīts kļūdas ziņojums "Nevar atrast parametru, kas atbilst parametra nosaukumam **EmailAddresses**", tas nozīmē, ka, lai pabeigtu nomnieka iestatīšanu vai pielāgotā domēna iestatīšanu, ja nesen to pievienojāt, korporācijai Microsoft nepieciešams ilgāks laiks. Iestatīšanas procesa pabeigšanai var būt nepieciešams līdz 4 stundām. Uzgaidiet, līdz iestatīšanas process ir pabeigts, un mēģiniet vēlreiz. Ja problēma joprojām pastāv, zvaniet atbalsta dienesta darbiniekiem, un viņi jums veiks pilnu sinhronizāciju.
     
-    Ja tiek parādīts kļūdas ziņojums " **diemžēl nav iespējams rediģēt lietotāju. Pārskatiet informāciju par lietotāju un mēģiniet vēlreiz**"tas nozīmē, ka neesat globālais administrators, un jums nav atļauju mainīt lietotāja vārdu.
+    Ja tiek parādīts kļūdas ziņojums **"Diemžēl lietotāju nevar rediģēt. Pārskatiet informāciju par lietotāju un mēģiniet** vēlreiz", tas nozīmē, ka jūs neesat globālais administrators un jums nav atļaujas mainīt lietotājvārdu.
     
-5. Izvēlieties **Iestatīt kā primāro** e-pasta adresei, kuru vēlaties iestatīt kā šīs personas primāro e-pasta adresi. Ja abonementu iegādājāties no GoDaddy, jums ir jāpierakstās savā pārvaldības konsolē, lai iestatītu primāro e-pasta adresi. 
+5. Ja **vēlaties iestatīt personas** e-pasta adresi kā viņa primāro e-pasta adresi, izvēlieties Iestatīt kā primāro. Ja abonementu iegādājāties no GoDaddy, primārās e-pasta adreses iestatīšanai jāpierakstās goDaddy pārvaldības konsolē. 
     
-6. Izvēlieties **Saglabāt**, pēc tam **aizvērts**, un tas ir paveikts!
+6. Izvēlieties **Saglabāt,** pēc **tam** Aizvērt , un viss ir paveikts!
     
-Vai tas nebija vienkārši? Detalizētāku informāciju un darbības ar Ekrānuzņēmumiem skatiet šajā rakstā: [lietotājvārda un e-pasta adreses maiņa](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Tas bija vienkārši, vai ne? Lai iegūtu papildinformāciju un darbības ar ekrānuzņēmumiem, skatiet šo rakstu: [Lietotājvārda un e-pasta adreses maiņa](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

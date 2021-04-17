@@ -1,8 +1,8 @@
 ---
-title: Norēķinu adreses vai norēķinu e-pasta paziņojumu maiņa
+title: Mainīt norēķinu adreses vai norēķinu e-pasta paziņojumus
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793549"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819195"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Norēķinu adreses vai norēķinu e-pasta paziņojumu maiņa
+# <a name="change-billing-address-or-billing-email-notifications"></a>Mainīt norēķinu adreses vai norēķinu e-pasta paziņojumus
 
-**Norēķinu adreses maiņa**
+**Savas Bill-To adreses maiņa**
 
-1. Administrēšanas centrā dodieties uz lapu **norēķinu > [maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Maksāšanas](https://go.microsoft.com/fwlink/p/?linkid=2018806)** metodes.
 
 2. Atlasiet kredītkarti vai bankas kontu, kuru vēlaties mainīt.
 
-3. Lapā **maksāšanas metodes detalizēti** noklikšķiniet uz **Rediģēt**.
+3. Lapā Detalizēta **informācija par maksāšanas** metodi noklikšķiniet uz **Rediģēt.**
 
-4. Atjauniniet savu norēķinu adresi un pēc tam noklikšķiniet uz **saglabāt > gatavs**.
+4. Atjauniniet savu norēķinu adresi un pēc tam noklikšķiniet **uz > Gatavs.**
 
 **Norēķinu paziņojumu nosūtīšanas alternatīvās e-pasta adreses maiņa** 
 
-1. Noklikšķiniet uz **lietotāja ikonas**un pēc tam uz **Mans konts**.
+1. Noklikšķiniet uz **ikonas Lietotājs**, pēc tam noklikšķiniet uz **Mans konts.**
 
-2. Noklikšķiniet uz **personiskā informācija**.
+2. Noklikšķiniet **uz Personiskā informācija**.
 
-3. Lodziņā **kontaktpersonas detaļas** noklikšķiniet uz **Rediģēt**.
+3. Lodziņā **Kontaktinformācija** noklikšķiniet uz **Rediģēt.**
 
-4. Lodziņā **Alternatīvā e-pasta** adrese ierakstiet alternatīvo e-pasta adresi, ko vēlaties izmantot, un pēc tam noklikšķiniet uz **Saglabāt**.
+4. Lodziņā Alternatīvā **e-pasta** adrese ierakstiet alternatīvo e-pasta adresi, ko vēlaties izmantot, un pēc tam noklikšķiniet uz **Saglabāt.**
 
-Papildinformāciju par adresēm un paziņojumiem par izmaiņām skatiet rakstā [norēķinu adreses maiņa pakalpojumā Microsoft 365 darbam](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Papildinformāciju par adresēm un paziņojumu izmaiņām skatiet [rakstā Savu rēķina adrešu maiņa programmā Microsoft 365 darbam.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)

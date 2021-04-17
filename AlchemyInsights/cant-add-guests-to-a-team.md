@@ -1,8 +1,8 @@
 ---
-title: Nevar pievienot viesus grupai
+title: Darba grupai nevar pievienot vieslietotājus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
-ms.translationtype: MT
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364712"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819483"
 ---
-# <a name="cant-add-guests-to-a-team"></a>Nevar pievienot viesus grupai
+# <a name="cant-add-guests-to-a-team"></a>Darba grupai nevar pievienot vieslietotājus
 
-Lai grupai pievienotu grupu, ir jāizpilda tālāk norādītie nosacījumi.  
+Lai darba grupai pievienotu vieslietotāju, ir jāizpildās šiem nosacījumiem:  
 
-- Jūsu administrators ir ieslēdzis viesu piekļuvi pakalpojumā Teams.
-- Jūs esat grupas īpašnieks.
-- Persona, ko vēlaties pievienot, ir ārpus jūsu organizācijas, piemēram, partneris vai konsultants.
+- Jūsu administrators ir ieslēdzis viesu piekļuvi programmā Teams.
+- Jūs esat darba grupas īpašnieks.
+- Persona, kuru vēlaties pievienot, ir ārpus jūsu organizācijas, piemēram, partneris vai konsultants.
 
-Detalizētu informāciju skatiet rakstā  [viesis pievienojas darba grupai](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Detalizētu informāciju skatiet rakstā [Kā viesis pievienojas darba grupai](https://docs.microsoft.com/MicrosoftTeams/guest-joins).

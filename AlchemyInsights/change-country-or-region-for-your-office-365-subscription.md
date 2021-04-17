@@ -1,8 +1,8 @@
 ---
-title: Sava Microsoft 365 abonementa valsts vai reģiona maiņa
+title: Valsts vai reģiona maiņa Microsoft 365 abonementam
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001671"
 - "3738"
-ms.openlocfilehash: acccd8f3b656fbb7fee0d474cae1263cff076932
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62eead6a4a2d06652c0218738c417f2c6aa0159c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748332"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819159"
 ---
-# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>Sava Microsoft 365 abonementa valsts vai reģiona maiņa
+# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>Valsts vai reģiona maiņa Microsoft 365 abonementam
 
-Jūs **nevarat mainīt** sava abonementa valsti vai reģionu. Tas ir tāpēc, ka valsts vai reģions, kur atrodas jūsu organizācija, nosaka, kuri pakalpojumi ir jums pieejami, nodokļi un norēķinu valūta un datu centra atrašanās vieta. Lai mainītu savas organizācijas valsti vai reģionu, reģistrējieties jaunam kontam, izvēlieties vajadzīgo valsti vai reģionu un iegādājieties jaunu abonementu.
+**Nevarat mainīt abonementa** valsti vai reģionu. Tas ir tāpēc, ka valsts vai reģions, kurā atrodas jūsu organizācijas galvenais birojs, nosaka, kādi ir jums pieejamie pakalpojumi, nodokļu un norēķinu valūtu un datu centra atrašanās vietu. Lai mainītu savas organizācijas valsti vai reģionu, reģistrēieties jaunam kontam, izvēlieties vajadzīgo valsti vai reģionu un iegādājieties jaunu abonementu.
 
-Lai iegūtu papildinformāciju, skatiet rakstu [savas organizācijas adreses, tehniskās kontaktinformācijas un citas informācijas mainīšana](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide). Ja vēlaties mainīt saistīto norēķinu vai abonementa adresi, skatiet rakstu [Microsoft 365 darbam norēķinu adrešu mainīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+Papildinformāciju skatiet [rakstā Savas organizācijas adreses, tehniskās kontaktpersonas un citas informācijas mainīšana.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide) Ja vēlaties mainīt saistīto norēķinu vai abonementa adresi, skatiet rakstu Norēķinu [adrešu maiņa lietojumprogrammā Microsoft 365 darbam.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide) 

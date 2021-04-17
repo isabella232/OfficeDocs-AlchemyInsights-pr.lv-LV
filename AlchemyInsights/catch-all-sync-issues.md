@@ -2,7 +2,7 @@
 title: Visu sinhronizācijas problēmu notveršana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757055"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819411"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Pamata Outlook sinhronizācijas problēmu novēršana
+# <a name="basic-outlook-sync-troubleshooting"></a>Outlook sinhronizācijas pamatinformācijas problēmu novēršana
 
-Ja rodas sinhronizācijas problēmas, mēģiniet veikt tālāk norādītās darbības.
+Ja rodas sinhronizācijas problēmas, mēģiniet veikt šādas darbības:
 
 - Palaidiet [šo diagnostikas rīku](https://aka.ms/sara-outlooksendreceive) attiecīgajā datorā.
-- Samaziniet mapju skaitu primārajā vai koplietotajā pastkastē. Skatiet rakstu [Outlook veiktspējas problēmas, ja ir pārāk daudz vienumu vai mapju Kešotajā režīmā. ost vai. pst faila mapē](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
-- Atspējojiet visu koplietojamo mapju kešdarbi.
-- Mainiet sekundāro Exchange pastkastes konfigurāciju uz otro Exchange kontu savā profilā.
+- Samaziniet primārās vai koplietojamās pastkastes mapju skaitu. Skatiet [rakstu Outlook veiktspējas problēmas, ja kešatmiņā](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)saglabātajā režīmā .ost vai .pst failu mapē ir pārāk daudz vienumu vai mapju.
+- Atspējojiet visu koplietoto mapju kešatmiņu.
+- Mainiet sekundārās Exchange pastkastes konfigurāciju uz otru Exchange kontu savā profilā.
 - Pārliecinieties, vai lietotājs var izveidot savienojumu ar internetu. 
-- [Pārbaudiet, vai esat tiešsaistē](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- [Nosakiet, vai kārtula tiek lietota](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Pārliecinieties, vai ir iespējota opcija **Lejupielādēt koplietojamās mapes** , atverot **File**  >  **Account Settings**  >  **konta**iestatījumi  >  **More Settings**  >  **papildu**iestatījumus.
+- [Pārliecinieties, vai esat tiešsaistē.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
+- [Nosakiet, vai kārtula tiek lietota.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
+- Lai **pārbaudītu, vai ir iespējota koplietoto** mapju lejupielāde, dodoties uz   >  **Faila konta iestatījumi** Konta  >  **iestatījumi**  >  **Papildu**  >  **iestatījumi**.
