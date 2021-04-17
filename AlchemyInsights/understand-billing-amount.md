@@ -1,8 +1,8 @@
 ---
-title: Norēķinu summas izprašana
+title: Izprast norēķinu summu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,73 +12,73 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808314"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827871"
 ---
-# <a name="understand-billing-amount"></a>Norēķinu summas izprašana
+# <a name="understand-billing-amount"></a>Izprast norēķinu summu
 
-**Klientu vadībā (dd):**
+**Klienta vadītais (WD):**
 
-- Lai palīdzētu pārskatīt un saprast rēķinu, lūdzu, skatiet: [apmācība: atsevišķa Azure rēķina pārskatīšana](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Izpratne par rēķina terminiem: [Azure rēķinu terminu skaidrojums](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Informācija par Azure lietošanas maksu terminiem: [lietošanas terminu skaidrojums](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Lai iegūtu sava rēķina PDF failu un sava detalizētā ikdienas lietojuma faila kopiju (. CSV): [rēķinu un lietojuma datu iegūšana](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Lai palīdzētu pārskatīt un izprast savu rēķinu, skatiet: [apmācība: individuāla Azure rēķina pārskatīšana](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Informācija par sava rēķina noteikumiem: [Azure rēķina nosacījumu skaidrojums](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Informācija par Azure lietojuma maksas noteikumiem: [lietojuma nosacījumu skaidrojums](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Lai iegūtu sava rēķina PDF failu un detalizētu dienas lietojuma faila kopiju (. CSV): [iegūt rēķina un lietojuma datus](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Piezīme** . Ja atcēlāt savu abonementu/resursu norēķinu cikla vidū, iespējams, joprojām redzēsit maksu, kas būs pieejama visiem lietojumiem iepriekšējā mēnesī. Piemēram, ja jūsu norēķinu cikls bija no katra mēneša 26. nākamā mēneša 25 & jūs pārtraucat abonementu uz 23, kas ir 28 dienas uz norēķinu ciklu jūnijā, iespējams, redzēsit maksu par 28 dienu lietošanas laiku. Ja, neskatoties uz abonementa atcelšanu, tiek rādīta maksa, lūdzu, pārliecinieties, vai jums nav citu atbalsta plānu, kas izraisa maksu. Ja tā ir, lūdzu, pārejiet uz priekšu un atceliet plānu.
+**Piezīme.** Ja atcelsit abonementu/resursu norēķinu cikla vidū, iespējams, joprojām redzēsit maksu, kas tiks iekasēta par jebkura lietojuma laiku iepriekšējā mēnesī. Piemēram, ja norēķinu cikls no katra mēneša 26. līdz 25. mēnesim & jūs 23. mēnesī atcēlāt abonementu, kas ir 28 dienas jūnija norēķinu ciklā, iespējams, redzēsit maksu par 28 dienu lietošanu. Ja redzat samaksu par abonementa atcelšanu, lūdzu, pārliecinieties, vai jums nav citu atbalsta plānu, kas izraisa maksas iekasēšanu. Ja tā darīsiet, lūdzu, atceliet plānu.
 
 **Microsoft klienta līgums (MCA):**
 
 [Kā pārbaudīt piekļuvi Microsoft klienta līgumam?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
-- Lai palīdzētu pārskatīt un saprast savu rēķinu, skatiet: [apmācība: Microsoft klienta līguma rēķina pārskatīšana](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Terminu izpratne par rēķinu: [Microsoft klientu līguma rēķinu termini izskaidroti](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Informācija par Azure lietošanas izmaksām: [Microsoft klientu līguma lietošanas nosacījumi paskaidrots](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Ja jums ir [Microsoft klienta līgums](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), varat lejupielādēt izmantošanu [Azure portālā](https://portal.azure.com/).
+- Lai palīdzētu pārskatīt un izprast savu rēķinu, skatiet rakstu [Apmācība: Microsoft klienta līguma rēķina pārskatīšana](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Rēķina nosacījumi: Skaidrojumi [par Microsoft klienta līguma rēķina noteikumiem](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Informācija par Azure lietojuma maksas noteikumiem: [Microsoft klienta līguma lietošanas noteikumi](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Ja jums ir [Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)klienta līgums, varat lejupielādēt lietojumu [Azure portālā.](https://portal.azure.com/)
 
-**Microsoft partneru līgums (MPA):**
+**Microsoft partnera līgums (MPA):**
 
-- Lai palīdzētu pārskatīt un saprast rēķinu, skatiet: [apmācība: Microsoft partnera līguma rēķina pārskatīšana](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Terminu izpratne par rēķinu: [termini Microsoft partnera līguma rēķinā](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Lai palīdzētu pārskatīt un izprast savu rēķinu, skatiet rakstu: [Apmācība: Microsoft partnera līguma rēķina pārskatīšana](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Informācija par sava rēķina noteikumiem: [informācija Microsoft partnera līguma rēķinā](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Uzņēmuma līgums (EA)**
+**Līgums Enterprise (EA)**
 
-- Lai palīdzētu pārskatīt un saprast savu rēķinu, skatiet: [Azure Enterprise Agreement rēķinu izpratne](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Ja esat Azure klients ar Enterprise līgumu (EA klients), nevarat lejupielādēt savas organizācijas rēķinus. Rēķini tiek nosūtīti tiem, kas ir iestatīti saņemt rēķinus par reģistrāciju, varat lejupielādēt izmantošanu [Azure portālā](https://portal.azure.com/).
+- Lai palīdzētu pārskatīt un izprast savu rēķinu, skatiet: [Azure Enterprise līguma rēķina izpratumu](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Ja esat Azure klients, kuram ir līgums Enterprise (EA klients), jūs nevarat lejupielādēt savas organizācijas rēķinus. Rēķini tiek nosūtīti personām, kas ir iestatītas saņemt rēķinus reģistrācijai, varat lejupielādēt lietojumu [Azure portālā.](https://portal.azure.com/)
 
-Pārskatiet pakalpojumu rēķina pārrēķinu:
+Pārskatīt pakalpojumu pārtkaru rēķinu:
 
-- Pierakstieties **uzņēmuma portālā** . Atlasiet **atskaites**
-- Cilnes augšējā labajā stūrī pārslēdziet skatu no **M** līdz **C** un saskaņojiet rēķina periodu
-- Kopējās **lietojuma** **summas summai ir jāatbilst kopējās** izmaksātās summas atmaksāšanai rēķinā
-- Lai iegūtu papildinformāciju par **savām izmaksām, skatiet sadaļu** **lejupielāde par > papildu atskaišu lejupielādi** : Šī atskaite neietver nodokļus, izmaksas par rezervācijām vai Marketplace izmaksas
+- Pierakstieties Enterprise **portālā**. Atlasiet **Atskaites**
+- Cilnes augšējā labajā stūrī pārslēdziet skatu no **M** uz **C** un saskaņoiet periodu rēķinā
+- Kopējā lietojuma **summai** jāatbilst kopējā kopējā **summa** jūsu pakalpojuma pārtajā rēķinā
+- Dodieties uz Lejupielādēt **lietojumu > Detalizētas** atskaites lejupielāde, lai iegūtu papildinformāciju par jūsu maksājumiem **Piezīme.** Šajā atskaitē nav iekļauti nodokļi, maksa par rezervācijām vai tiešsaistes tirgus maksa.
 
 **Azure Marketplace**
 
-- Uzziniet vairāk par to, kā trešo pušu norēķinu: [Azure Marketplace norēķini](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Papildinformācija par trešo pušu norēķinu izmantošanu: [Azure Marketplace norēķini](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 Pārskatiet Marketplace rēķinu:
 
-Salīdziniet savu Azure Marketplace kopsummu atskaitēs > lietojuma kopsavilkums uzņēmuma portālā ar savu Marketplace rēķinu. Marketplace rēķins attiecas tikai uz Azure Marketplace pirkumiem un lietojumu. Lietojuma kopsavilkuma summā nav iekļauts nodoklis.
+Salīdziniet savu Azure Marketplace kopsummu atskaitēs > lietojuma kopsavilkumu Enterprise portālā ar marketplace rēķinu. Marketplace rēķins ir paredzēts tikai Azure Marketplace pirkumiem un lietošanai. Lietojuma kopsavilkumā iekļautie apjomi neietver nodokļus.
 
-- Pierakstieties **uzņēmuma portālā** . Atlasiet **atskaites**
-- Cilnes augšējā labajā stūrī pārslēdziet skatu no **M** līdz **C** un saskaņojiet rēķina periodu
-- **Pakalpojumam Azure Marketplace** kopā ir jāatbilst **pārdošanas kopapjomam** savā tirgū
-- Dodieties uz **lejupielādes lietojumu** , lai iegūtu papildinformāciju par lietošanas izmaksām. Sadaļā **Marketplace izmaksas** atlasiet **lejupielādēt** **piezīmi** : šajā pārskatā nav iekļauti nodokļi vai Rādīt vienreizējus pirkumus
+- Pierakstieties Enterprise **portālā**. Atlasiet **Atskaites**
+- Cilnes augšējā labajā stūrī pārslēdziet skatu no **M** uz **C** un saskaņoiet periodu rēķinā
+- **Azure Marketplace kopsummai** ir jāatbilst **Pārdošanas kopsummai** tiešsaistes tirgus rēķinā
+- Dodieties **uz sadaļu Lietojuma** lejupielāde, lai iegūtu papildinformāciju par jūsu lietojuma maksājumiem. Sadaļā **Marketplace maksas** atlasiet **Lejupielādēt** **piezīmi**: Šajā atskaitē nav iekļauti nodokļi vai netiek rādīti vienreizēji pirkumi
 
-**Mākoņa risinājumu nodrošinātājs (CSP)**
+**Mākoņrisinājumu nodrošinātājs (CSP)**
 
-- Uzziniet vairāk par to, kā norēķinu darbojas Azure mākoņa risinājumu nodrošinātāja (Azure CSP) programmā: [AZURE CSP norēķini](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Uzziniet, kā lasīt un saprast savu CSP rēķinu: [AZURE CSP rēķins](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Papildinformācija par to, kā norēķini darbojas Azure mākoņrisinājumu nodrošinātāju (Azure CSP) programmā: [Azure CSP norēķini](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Uzziniet par sava CSP rēķina lasīšanu un [iztīšanu: Azure CSP rēķins](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
-- Uzziniet, kā novērst neparedzētas izmaksas un kontrolēt savas izmaksas: [negaidītu izmaksu novēršana](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Norēķinu vai kredīta brīdinājumu iestatīšana, lai pārraudzītu un pārvaldītu norēķinu darbības saviem kontiem: [norēķinu brīdinājumu iestatīšana](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Izpratne par Azure tēriņu ierobežojumiem](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Izprotiet Azure norēķinus par ārējām pakalpojumu izmaksām: [kā ārējie pakalpojumi ir izrakstīti](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Uzziniet, kā novērst neparedzētas maksas un kontrolēt savas izmaksas: [neparedzētu izmaksu samazināšana](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Iestatīt norēķinu vai kredīta brīdinājumus, lai pārraudzītu un pārvaldītu norēķinu darbības jūsu kontiem: [norēķinu brīdinājumu iestatīšana](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Izpratne par Azure izdevumu ierobežojumu](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Izpratne par Azure norēķiniem par ārējiem pakalpojumiem: [Kā tiek izrakstīti ārējie pakalpojumi](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Bieži uzdotie jautājumi par Azure bezmaksas kontu](https://azure.microsoft.com/free/free-account-faq/)
-- [Izpratne par Azure Enterprise Agreement administratīvo lomu Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Izpratne par Azure Enterprise līguma administratīvajām lomām programmā Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

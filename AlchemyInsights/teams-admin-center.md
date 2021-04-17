@@ -2,7 +2,7 @@
 title: Teams administrēšanas centrs
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670371"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826386"
 ---
 # <a name="teams-admin-center"></a>Teams administrēšanas centrs
 
@@ -32,5 +32,5 @@ Ja lietotāji netiek rādīti Teams administrēšanas centrā, lūdzu, pārbaudi
 
 - Vai esat izveidojis lietotājus vai piešķīris licences pēdējo 24 stundu laikā? Lūdzu, pirms atbalsta biļetes atvēršanas nogaidiet vismaz 24 stundas.
 - Vai pārbaudījāt, vai esat piešķīris atbilstošas licences?
-- Ja jums ir lokālā Active Directory, pārbaudiet, [vai msRTCSIP-PrimaryUserAddress vai SIP adreses vērtība lokālā Active Directory laukā proxyAddresses ir unikāla un formāts atbilst](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP: lietotāja**vārds** no [Microsoft 365 administrēšanas centra](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ja plānojat paturēt Skype darbam servera izvietošanu un jums ir lietotāji, kuri dzīvo lokāli un tiešsaistē: Skype darbam Server vadības panelī izpildiet **sadaļu "iestatīt hibrīdu ar Teams un Skype darbam Online"** un pārvietot lietotājus tiešsaistē.
+- Ja izmantojat lokālo Active Directory, pārliecinieties, vai parametra [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) vērtība vai lokālā Active Directory lauka ProxyAddresses lauka SIP adrese ir unikāla un formāts atbilst **sip:** lietotāja lietotājvārds [no Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)administrēšanas centra.
+- Ja vēlaties paturēt Skype darbam Server izvietošanu un lietotāji ir mājās lokāli un tiešsaistē: izpildiet Skype darbam Server vadības paneļa sadaļā "Hibrīda iestatīšana ar Teams un Skype darbam **Online"** un pārvietojiet lietotājus tiešsaistē.

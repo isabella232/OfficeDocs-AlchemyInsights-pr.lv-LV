@@ -1,8 +1,8 @@
 ---
-title: OneDrive avāriju problēmu novēršana
+title: OneDrive avarēšanu novēršana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 1155d370911b28bbb1ba83a15eace66d1daea28f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bf45e7780dcbabb95b3eecfb2df55beffde11d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665005"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826206"
 ---
-# <a name="troubleshoot-onedrive-crashes"></a>OneDrive avāriju problēmu novēršana
+# <a name="troubleshoot-onedrive-crashes"></a>OneDrive avarēšanu novēršana
 
-Ja OneDrive vairākkārt avarē, izmēģiniet šīs problēmu novēršanas darbības:
+Ja OneDrive atkārtoti avarē, izmēģiniet šīs problēmu novēršanas darbības:
 
-**Pārliecinieties, vai nav iestatītas reģistra atslēgas:**
+**Pārliecinieties, vai reģistra atslēgas nav iestatītas:**
 
-1. Izmantojot reģistra redaktoru, pārejiet uz HKEY_LOCAL_MACHINE \SOFTWARE\Policies\Microsoft\OneDrive
-2. Ja DisableFileSyncNGSC ir klātesošs un iestatīts uz 1, atveriet atslēgu un mainiet vērtību uz 0.
-3. Manuāli palaidiet OneDrive, dodoties uz sākumu ![Nospiediet Windows taustiņu](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), meklēšanas lodziņā ierakstiet OneDrive un pēc tam noklikšķiniet uz OneDrive datora lietojumprogrammas.
+1. Izmantojot reģistra redaktoru, naviģējiet uz HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
+2. Ja parametra DisableFileSyncNGSC vērtība ir 1, atveriet atslēgu un mainiet vērtību uz 0.
+3. Manuāla OneDrive palaišana, dodoties uz sākumu ![Nospiediet Windows taustiņu](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), meklēšanas lodziņā ierakstiet OneDrive un pēc tam noklikšķiniet uz OneDrive datora programmas.
 
 **OneDrive atiestatīšana:**
 
-Piezīmes
+Piezīmes.
 
-- OneDrive atiestatīšana atveido visus esošos sinhronizācijas savienojumus (tostarp savu personisko OneDrive, ja tas ir iestatīts).
-- Jūs nezaudēsit failus vai datus, atiestatot OneDrive savā datorā.
+- OneDrive atiestatīšana atvieno visus esošos sinhronizācijas savienojumus (ieskaitot OneDrive individuālai lietošanai, ja tas ir iestatīts).
+- Datorā atiestatot OneDrive, jūs nezaudēsit failus vai datus.
 
 **Lai atiestatītu OneDrive:**
 
-1. Atveriet palaišanas dialoglodziņu, nospiežot Windows taustiņu un R.
-2. Ierakstiet% LOCALAPPDATA% \Microsoft\OneDrive\onedrive.exe/reset un nospiediet Labi. Var īslaicīgi parādīties komandu logs.
-3. Manuāli palaidiet OneDrive, dodoties uz sākumu ![Nospiediet Windows taustiņu](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), meklēšanas lodziņā ierakstiet OneDrive un pēc tam noklikšķiniet uz OneDrive datora lietojumprogrammas.
+1. Atveriet izpildes dialoglodziņu, nospiežot Windows taustiņu un R.
+2. Ierakstiet %localappdata%\Microsoft\OneDrive\onedrive.exe /reset un nospiediet Labi. Var īslaicīgi parādīties komandu logs.
+3. Manuāla OneDrive palaišana, dodoties uz sākumu ![Nospiediet Windows taustiņu](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), meklēšanas lodziņā ierakstiet OneDrive un pēc tam noklikšķiniet uz OneDrive datora programmas.
 
-Piezīmes
+Piezīmes.
 
-- Ja izvēlējāties sinhronizēt tikai dažas mapes pirms atiestates, jums tā būs jāveic atkārtoti, kad sinhronizācija ir pabeigta. Lai iegūtu papildinformāciju, izlasiet rakstu kā [izvēlēties, kuras OneDrive mapes sinhronizēt ar datoru](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)   .
-- Šī darbība ir jāveic jūsu personiskajai OneDrive un OneDrive darbam.
+- Ja pirms atiestatīšanas izvēlējāties sinhronizēt tikai dažas mapes, to vajadzēs izdarīt vēlreiz (pēc tam, kad būs pabeigta sinhronizācija).  [Papildinformāciju skatiet rakstu Ar datoru sinhronizējamo OneDrive](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)mapju   izvēlēšana.
+- Šīs darbības būs jāveic personiskajam OneDrive un OneDrive darbam.

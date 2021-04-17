@@ -1,8 +1,8 @@
 ---
-title: Nevar iestatīt vai skatīt AllowSelfServicePurchase politiku
+title: Nevar iestatīt vai skatīt politiku AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735206"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826098"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nevar iestatīt vai skatīt AllowSelfServicePurchase politiku
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nevar iestatīt vai skatīt politiku AllowSelfServicePurchase
 
-Mēģinot iestatīt vai skatīt AllowSelfServicePurchase politiku, tiek parādīts šāds kļūdas ziņojums:
+Mēģinot iestatīt vai skatīt politiku AllowSelfServicePurchase, tiek rādīts šāds kļūdas ziņojums:
 
-*HandleError: neizdevās izgūt produkta politiku ar PolicyId ' AllowSelfServicePurchase ', ErrorMessage-galvenais savienojums ir aizvērts: sūtot radās neparedzēta kļūda.*
+*HandleError: Neizdevās izgūt produkta politiku ar PolicyId 'AllowSelfServicePurchase', ErrorMessage — pamatā esošais savienojums tika aizvērts: sūtīšanas laikā radās neparedzēta kļūda.*
 
-Iespējams, tas skaidrojams ar vecāku transporta slāņa drošības (TLS) versiju. Lai izveidotu savienojumu ar MSCommerce pakalpojumu, ir jāizmanto TLS 1,2 vai jaunāka versija.  
+Iemesls var būt vecāka transporta slāņa drošības (TLS) versija. Lai izveidotu savienojumu ar MSCommerce pakalpojumu, ir jāizmanto TLS 1.2 vai jaunāka versija.  
 
-Izmēģiniet tālāk norādītās darbības, lai iespējotu/iestatītu TLS protokolu 1,2, pārbaudiet un mēģiniet vēlreiz.
- 1. PowerShell komandu uzvedne (PS C: ievadiet šo \) komandu, lai IESTATĪTU TLS protokolu versijai 1,2:
+Mēģiniet veikt tālāk norādītās darbības, lai iespējotu/iestatītu TLS protokolu uz 1.2, pārbaudītu un mēģinātu vēlreiz.
+ 1. PowerShell komandu uzvednē (PS C: ievadiet šo komandu, lai \) iestatītu TLS protokolu uz versiju 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
@@ -36,5 +36,5 @@ Izmēģiniet tālāk norādītās darbības, lai iespējotu/iestatītu TLS proto
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Pēc nepieciešamības atkārtoti mēģiniet iegūt vai atjaunināt komandas.
+3. Mēģiniet vēlreiz iegūt vai atjaunināt komandas pēc nepieciešamības.
 
