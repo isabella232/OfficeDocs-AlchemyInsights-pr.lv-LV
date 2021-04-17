@@ -2,7 +2,7 @@
 title: Noklusējuma video augšupielādes atļauju ierobežošana
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6622deada7e652bdad86cd95f1564f22634e7b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692014"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835674"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Noklusējuma video augšupielādes atļauju ierobežošana
 
-Ja lietotāji augšupielādē video pakalpojumā Microsoft Stream, izmantojot straumes portālu ārpus grupas vai grupas kanāla konteksta, pēc noklusējuma tiek atzīmēta izvēles rūtiņa "atļaut visiem jūsu uzņēmumam skatīt šo video". Tādējādi video ir pieejams visiem jūsu uzņēmuma lietotājiem.
+Kad lietotāji pakalpojumā Microsoft Stream augšupielādē video, izmantojot Stream portālu ārpus grupas vai grupas kanāla konteksta, pēc noklusējuma ir atzīmēta izvēles rūtiņa "Atļaut visiem jūsu uzņēmuma lietotājiem skatīt šo video". Tādējādi video var skatīt ikviens lietotājs jūsu uzņēmumā.
 
 - [Noklusējuma video augšupielādes atļauju iestatīšana](https://docs.microsoft.com/stream/default-video-permissions)

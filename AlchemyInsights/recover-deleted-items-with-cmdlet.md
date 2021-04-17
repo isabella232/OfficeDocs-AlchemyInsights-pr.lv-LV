@@ -1,27 +1,28 @@
 ---
-title: Atkopt izdzēstos vienumus, izmantojot cmdlet
+title: Izdzēsto vienumu atkopšana, izmantojot cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835818"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Atkopt izdzēstos vienumus, izmantojot cmdlet
+# <a name="recover-deleted-items-with-cmdlet"></a>Izdzēsto vienumu atkopšana, izmantojot cmdlet
 
-- Izmantojiet [Get RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet skatīt izdzēsto vienumu pastkastēm. Pēc tam, kad esat atradis izdzēstos vienumus, izmantojiet [atjaunošanas-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) cmdlet, lai tos atjaunotu.
+- Izmantojiet cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps), lai skatītu pastkastēs izdzēstos vienumus. Kad izdzēstie vienumi ir atrasti, izmantojiet cmdlet [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps), lai tos atjaunotu.
 
-- Skatīt pilnu informāciju par [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Pilnu detalizēto informāciju skatiet aprakstā par [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- Jums ir jāpiešķir pastkastes importa eksporta lomu pirms varat palaist šo cmdlet. Lai iegūtu papildinformāciju, skatiet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) .
+- Lai varētu palaist šo cmdlet, jums ir jābūt piešķirtai pastkastes importēšanas/eksportēšanas lomai. Papildinformāciju skatiet aprakstā par [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
