@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 lietojumprogrammas ziņojums — diemžēl cits jūsu organizācijas konts jau ir pierakstījies
+title: Microsoft 365 programmu ziņojums. Diemžēl cits jūsu organizācijas konts jau ir pierakstījies
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236024"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836250"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 lietojumprogrammas ziņojums — diemžēl cits jūsu organizācijas konts jau ir pierakstījies
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 programmu ziņojums. Diemžēl cits jūsu organizācijas konts jau ir pierakstījies
 
 Lai novērstu šo kļūdu, izmēģiniet tālāk norādīto:
 
@@ -33,7 +33,7 @@ Lai novērstu šo kļūdu, izmēģiniet tālāk norādīto:
 
 - Ja nepieciešams, palaidiet Office lietojumprogrammu un pierakstieties vēlreiz. 
 
-**Padoms** Windows datoros ir iespējams diagnosticēt un automātiski izlabot vairākas biežākas Office pierakstīšanās problēmas. Lejupielādējiet un palaidiet  **[Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SaRA-OfficeSignInScenario)** , lai izmantotu mūsu automatizēto rīku.
+**Padoms** Windows datoros mēs varam diagnosticēt un automātiski risināt vairākas bieži sastopamas Office pierakstīšanās problēmas. Lejupielādējiet un palaidiet  **[Microsoft atbalsta un atkopšanas palīgu](https://aka.ms/SaRA-OfficeSignInScenario)**, lai izmantotu mūsu automatizēto rīku.
 
 Ja problēma joprojām pastāv, mēģiniet veikt tālāk norādītās darbības: 
 

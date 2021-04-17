@@ -1,8 +1,8 @@
 ---
-title: E-pasta ziņojuma neatgriezeniska dzēšana programmā Outlook
+title: Neatgriezeniska e-pasta ziņojuma dzēšana programmā Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771692"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836106"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>E-pasta ziņojuma neatgriezeniska dzēšana programmā Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Neatgriezeniska e-pasta ziņojuma dzēšana programmā Outlook
 
-- Iesūtnes skatā, turot nospiestu ziņojumu, parādās atkritnes ikona. Pieskarieties šai ikonai, lai izdzēstu ziņojumu.
+- Iesūtnes skatā turiet nospiestu ziņojumu un redzēsit atkritnes ikonu. Pieskarieties šai ikonai, lai izdzēstu ziņojumu.
 
-- Varat arī iestatīt "Delete" kā pavilkšanas opciju (**Iestatījumi-> pavilkšanas opcijas**); pēc tam izmantojiet pirkstu, lai pavilktu e-pasta ziņojumu, kuru vēlaties dzēst. 
+- Varat arī iestatīt opciju Dzēst kā pavilkšanas opciju (Iestatījumi **-pārvilkšanas > opcijas**); pēc tam ar pirkstu pavelciet uz e-pasta ziņojuma, kuru vēlaties izdzēst. 
 
-- Lai izdzēstu ziņojumu no atvērta e-pasta skata, ekrāna augšā pieskarieties atkritnes ikonai. Izdzēstie ziņojumi tiks pārvietoti uz mapi trash. 
+- Lai izdzēstu ziņojumu atvērtā e-pasta skatā, ekrāna augšdaļā pieskarieties atkritnes ikonai. Izdzēstie ziņojumi tiks pārvietoti uz mapi Trash (Atkritne). 
 
-**Lai neatgriezeniski izdzēstu e-pasta ziņojumu**
+**E-pasta neatgriezeniska dzēšana**
 
-- Piekļūstiet atkritnes mapei no pasta skata, pieskarieties konta ikonai (3 rindiņas) un pieskarieties atkritnes mapē.
+- Pasta skatā piekļūstiet atkritumu mapei, pieskarieties konta ikonai (3 rindiņas) un pieskarieties atkritnes mapei.
 
-- Izdzēsiet atsevišķos e-pasta ziņojumus vai atzīmējiet vairākus e-pasta ziņojumus un izdzēsiet tos no šejienes. tie tiks neatgriezeniski izdzēsti.
+- Dzēst atsevišķus e-pasta ziņojumus vai atzīmēt vairākus e-pasta ziņojumus un izdzēst tos no šīs vietas; tie tiks neatgriezeniski izdzēsti.

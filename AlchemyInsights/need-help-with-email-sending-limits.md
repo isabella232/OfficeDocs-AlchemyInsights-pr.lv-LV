@@ -1,28 +1,29 @@
 ---
-title: Vai nepieciešama palīdzība ar e-pasta sūtīšanas ierobežojumiem?
+title: Vai nepieciešama palīdzība saistībā ar e-pasta sūtīšanas ierobežojumiem?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 7f563df313c869d18c3e4240d271c649a74914af
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
-ms.translationtype: MT
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357866"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836286"
 ---
-# <a name="need-help-with-email-sending-limits"></a>Vai nepieciešama palīdzība ar e-pasta sūtīšanas ierobežojumiem?
+# <a name="need-help-with-email-sending-limits"></a>Vai nepieciešama palīdzība saistībā ar e-pasta sūtīšanas ierobežojumiem?
 
-Tālāk ir norādīts **pēc konstrukcijas sūtīšanas ierobežojumi** , kas tiek ieviesti pakalpojumā. Plašāka informācija par šiem limitiem ir dokumentēta [šeit](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
+Tālāk ir norādīti **izstrādē iekļautie sūtīšanas ierobežojumi**, kurus izmanto pakalpojums. Papildinformācija par šiem ierobežojumiem ir dokumentēta [šeit](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
 
-- Lai atturētu no nevēlamu lielapjoma ziņojumu piegādes, mēs izmantojam katra lietotāja **adresāta likmju ierobežojumus visiem izejošajiem un iekšējiem ziņojumiem**. Visos SKU, šis limits ir **10 000 adresāti dienā**.  Klientiem, kuriem jānosūta likumīgs lielapjoma komerciālais e-pasts (piemēram, klientu biļeteni), jāizmanto trešo pušu pakalpojumu sniedzēji, kas specializējas šajos pakalpojumos.
-    - **Piezīme**: pēc adresāta likmju ierobežojums ir sasniegts, ziņojumus nevar nosūtīt no pastkastes līdz adresātu skaits, kas tika nosūtīti ziņojumi pēdējo 24 stundu laikā nokrītas zem ierobežojuma. Lietotājs nevarēs nosūtīt ziņojumus līdz šim brīdim.
-- Ziņojumu pārraides ātruma ierobežojums **30 ziņojumiem minūtē** tiek lietots visās SKU. Tas nosaka, cik daudz ziņojumu lietotājs var nosūtīt no sava Exchange Online konta noteiktā periodā.
-- **Maksimālais atļautais adresātu skaits laukos kam, kopija un Diskrētā kopija** vienam e-pasta ziņojumam visās skus ir **1000 adresāti**. Lai pielāgotu šo limitu, dodieties [šeit](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
+- Lai novērstu nevēlamu lielapjoma ziņojumu piegādi, katra lietotājam mēs lietojam **adresātu daudzuma ierobežojumus visiem izejošajiem un iekšējiem ziņojumiem**. Visos SKU šis ierobežojums ir **10 000 adresātu dienā**.  Klientiem, kuriem jānosūta likumīgs komercpasts (piemēram, biļeteni klientiem), ir jāizmanto tādu trešo pušu pakalpojumu sniedzēju pakalpojumi, kas specializējas šādu pakalpojumu sniegšanā.
+    - **Piezīme**. Tiklīdz šis ierobežojums tiek sasniegts, ziņojumus no pastkastes nevar nosūtīt līdz brīdim, kad adresātu, kuriem pēdējo 24 stundu laikā tika nosūtīti ziņojumi, skaits kļūst mazāks par šo ierobežojuma vērtību. Līdz tam lietotājs nevarēs nosūtīt ziņojumus.
+- Ziņojumu daudzuma ierobežojums **30 ziņojumi minūtē** tiek lietots visos SKU. Tas nosaka, cik daudz ziņojumu lietotājs var nosūtīt no sava Exchange Online konta noteiktā laika periodā.
+- **Maksimālais adresātu skaits, kas atļauts viena e-pasta ziņojuma laukā Kam, Kopija un Diskrētā kopija**, ir **1000 adresātu**. Lai pielāgotu šo ierobežojumu, dodieties [šeit](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).

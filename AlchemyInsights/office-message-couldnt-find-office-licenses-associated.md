@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 Apps message-nevarēja atrast saistīto Office licenci
+title: Microsoft 365 programmu ziņojums — nevarēja atrast saistītās Office licences
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802784"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836214"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 Apps message-nevarēja atrast saistīto Office licenci
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 programmu ziņojums — nevarēja atrast saistītās Office licences
 
 Lai novērstu šo kļūdu, izmēģiniet tālāk norādīto:
 
@@ -39,10 +39,10 @@ Ja problēma joprojām pastāv, mēģiniet veikt tālāk norādītās darbības:
 
 - Atiestatiet Office aktivācijas stāvokli. Skatiet rakstu [Atiestatīt Microsoft 365 programmas uzņēmumam aktivizēšanas statusam](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai apstiprinātu, ka tie nebloķē Microsoft 365 programmas piekļuvi internetam. 
+- Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai pārliecinātos, vai tās nebloķē Microsoft 365 programmu piekļuvi internetam. 
 
 Papildu problēmu novēršanas risinājumus skatiet šeit:
 
 [Nelicencēts produkts un aktivizācijas kļūdas sistēmā Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365 vietrāži URL un IP adrešu diapazoni](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL un IP adrešu diapazoni](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
