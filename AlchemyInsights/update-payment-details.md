@@ -2,21 +2,22 @@
 title: Kedītkartes informācijas atjaunināšana
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830328"
 ---
 # <a name="update-credit-card-information"></a>Kedītkartes informācijas atjaunināšana
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720072"
 
 Ja rodas problēmas saistībā ar lapas ielādi, mēģiniet atvērt tīmekļa lapu citā pārlūkprogrammā vai atvērt lapu privātā pārlūkprogrammas logā, piemēram, InPrivate logā programmā Microsoft Edge vai inkognito logā pārlūkprogrammā Google Chrome. 
 
-Papildinformāciju skatiet rakstā [Kredītkartes vai bankas konta pievienošana, atjaunināšana vai noņemšana pakalpojumā Microsoft 365 darbam](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) un [Kredītkaršu un bankas kontu problēmu novēršana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

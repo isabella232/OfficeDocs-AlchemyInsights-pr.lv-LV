@@ -1,8 +1,8 @@
 ---
-title: Trūkstošie e-pasta ziņojumi karantīnā
+title: Trūkstoši e-pasta ziņojumi karantīnā
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831741"
 ---
-# <a name="missing-emails-in-quarantine"></a>Trūkstošie e-pasta ziņojumi karantīnā
+# <a name="missing-emails-in-quarantine"></a>Missing emails in quarantine"
 
-Administratori var [Skatīt, izlaist vai izdzēst šos ziņojumus.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Administratori [var skatīt, izlaist vai dzēst šos ziņojumus.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Lai atvērtu drošības & atbilstības centru, dodieties uz [https://protection.office.com](https://protection.office.com/) . Lai tieši atvērtu karantīnas lapu, dodieties uz [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Lai atvērtu drošības & centru, dodieties uz [https://protection.office.com](https://protection.office.com/) . Lai tieši atvērtu lapu Karantīnā, dodieties uz [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
 Varat meklēt pēc šādām vērtībām:  
 
-- **Ziņojuma ID**: ziņojuma globāli unikālais identifikators. Ja sarakstā atlasāt ziņojumu,  **ziņojuma ID**  vērtība tiek rādīta rūtī  **Detalizēta informācija**  , kas tiek parādīta. Administratori var izmantot [ziņojumu izsekošanu](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) , lai atrastu ziņojumus un to atbilstošos ziņojuma ID vērtības.
-- **Sūtītāja e-pasta adrese**: viena sūtītāja e-pasta adrese.
-- **Adresāta e-pasta adrese**: viena adresāta e-pasta adrese.
-- **Tēma**: izmantojiet visu ziņojuma tēmu. Meklēšana nav reģistrjutīga.
+- **Ziņojuma ID:** ziņojuma globāli unikāls identifikators. Ja sarakstā atlasāt ziņojumu, izlidošanas rūtī  Detalizēti tiek rādīta vērtība Ziņojuma **ID.** Administratori var izmantot ziņojumu [izsekošanu,](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) lai atrastu ziņojumus un to atbilstošās vērtības Ziņojuma ID.
+- **Sūtītāja e-pasta** adrese: viena sūtītāja e-pasta adrese.
+- **Adresāta e-pasta** adrese: viena adresāta e-pasta adrese.
+- **Tēma:** izmantojiet visu ziņojuma tēmu. Meklēšana nav reģistrjutīga.
 
-Pēc meklēšanas kritēriju ievadīšanas noklikšķiniet uz ![ Atsvaidzināt pogas Atsvaidzināt ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **,** lai filtrētu rezultātus.  
+Kad esat ievadījis meklēšanas kritērijus, noklikšķiniet uz ![ Atsvaidzināt pogas ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Atsvaidzināt,** lai filtrētu rezultātus.  
 
-Cmdlet, ko izmantojat, lai skatītu un pārvaldītu ziņojumus un failus karantīnā, ir šādi:
-- [Dzēst-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Eksportēšana — QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+Cmdlet, kuras izmantojat ziņojumu un failu skatīšanai un pārvaldīšanai karantīnā, ir:
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
 - [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): ievērojiet, ka šajā cmdlet ir tikai ziņojumi, nevis ļaunprogrammatūras faili no ATP pakalpojumam SharePoint Online, OneDrive darbam vai Teams.
-- [Laidiens — QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Ņemiet vērā, ka šī cmdlet ir pieejama tikai ziņojumiem, nevis ļaunprogrammatūras failiem no ATP pakalpojumā SharePoint Online, OneDrive darbam vai Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

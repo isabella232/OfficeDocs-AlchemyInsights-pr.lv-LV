@@ -1,27 +1,28 @@
 ---
-title: SharePoint bibliotēkas sinhronizēšana ar OneDrive sinhronizāciju
+title: SharePoint bibliotēkas sinhronizēšana, izmantojot programmu OneDrive sinhronizācija
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: 9aa8bd9cf2293092436f547c0fc9cc8ff0528b8a
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
-ms.translationtype: MT
+ms.openlocfilehash: 66ed9c9e579eb591ea56436966976f6b1d9669b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831129"
 ---
-# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>SharePoint bibliotēkas sinhronizēšana ar OneDrive sinhronizāciju
+# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>SharePoint bibliotēkas sinhronizēšana, izmantojot programmu OneDrive sinhronizācija
 
-Lai sinhronizētu jūsu SharePoint failus lokālajā cietajā diskā, veiciet šādas darbības:
+Lai jūsu SharePoint faili tiktu sinhronizēti ar lokālo cieto disku, veiciet šādas darbības:
 
-1. Naviģējiet uz dokumentu bibliotēku, kuru vēlaties sinhronizēt ar lokālo cieto disku.
-2. Izvēlnē Opcijas atlasiet pogu sinhronizācija.
-3. Izpildiet soli pa solim, lai pabeigtu sinhronizāciju.
+1. Pārvietojieties uz dokumentu bibliotēku, kuru vēlaties sinhronizēt ar savu lokālo cieto disku.
+2. Izvēlnes opcijās atlasiet pogu Sinhronizēt.
+3. Izpildiet detalizētos norādījumus, lai pabeigtu sinhronizāciju.

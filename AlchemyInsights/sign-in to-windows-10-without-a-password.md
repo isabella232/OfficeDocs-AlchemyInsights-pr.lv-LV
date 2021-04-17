@@ -2,7 +2,7 @@
 title: Pierakstīšanās operētājsistēmā Windows 10, neizmantojot paroli
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830553"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Pierakstīšanās operētājsistēmā Windows 10, neizmantojot paroli
 
-Lai izvairītos no paroles ievadīšanas Windows startēšanas laikā, iesakām izmantot kādu no Windows Hello drošās pierakstīšanās opcijām, piemēram, PIN, sejiņas atpazīšanu vai pirksta nospiedumu, ja tas ir pieejams. Ja tiešām vēlaties atspējot drošu pierakstīšanos, skatiet tālāk sniegtos norādījumus "automātiska pierakstīšanās Windows 10".
+Lai izvairītos no nepieciešamības ievadīt paroli Windows startēšanas laikā, ieteicams izmantot kādu no Windows Hello drošās pierakstīšanās opcijām, piemēram, PIN, sejas atpazīšanu vai pirksta nospiedumu, ja tāda ir pieejama. Ja tiešām vēlaties atspējot drošo pierakstīšanu, skatiet tālāk esošos norādījumus "Automātiska pierakstīšanās sistēmā Windows 10".
 
-**Drošas Windows Hello alternatīvas konta parolei**
+**Kā aizsargāt Windows Hello alternatīvas konta parolei**
 
-Dodieties uz **sadaļu iestatījumi > konti > pierakstīšanās opcijas** (vai noklikšķiniet [šeit](ms-settings:signinoptions?activationSource=GetHelp)). Būs norādītas pieejamās pierakstīšanās opcijas. Piemērs:
+Dodieties **uz > konti > Pierakstīšanās opcijas** (vai noklikšķiniet [šeit).](ms-settings:signinoptions?activationSource=GetHelp) Tiks uzskaitītas pieejamās pierakstīšanās opcijas. Piemēram:
 
 ![Pierakstīšanās opcijas.](media/sign-in-options.png)
 
-Noklikšķiniet uz vai pieskarieties vienai no opcijām, lai to konfigurētu. Nākamreiz, kad startējat vai atbloķējat Windows, paroles vietā varēsit izmantot jauno opciju. 
+Noklikšķiniet uz vai pieskarieties pie vienas no opcijām, lai to konfigurētu. Nākamreiz, kad startēsit vai atbloķēsit sistēmu Windows, varēsit izmantot jauno opciju, nevis paroli. 
 
 **Automātiska pierakstīšanās operētājsistēmā Windows 10**
 
-**Piezīme**: automātiska pierakstīšanās ir ērta, taču ir ieviesti drošības riski, it īpaši tad, ja jūsu dators ir pieejams vairākām personām. 
+**Piezīme.** Automātiskā pierakstīšanās ir ērta, taču rada drošības risku, īpaši, ja jūsu dators ir pieejams vairākiem cilvēkiem. 
 
-1. Noklikšķiniet uz vai pieskarieties pie pogas **Sākt** uzdevumjoslā.
+1. Uzdevumjoslā **noklikšķiniet uz** vai pieskarieties pie pogas Sākt.
 
-2. Ierakstiet **netplwiz** un nospiediet taustiņu ENTER, lai atvērtu lietotāju kontu logu.
+2. Ierakstiet **netplwiz** un nospiediet taustiņu Enter, lai atvērtu logu Lietotāju konti.
 
-3. **Lietotāju kontos**noklikšķiniet uz konta, kuram vēlaties automātiski pierakstīties, startējot sistēmu Windows.
+3. Izvēlnē **Lietotāju konti** noklikšķiniet uz konta, kurā vēlaties automātiski pierakstīties sistēmas Windows startēšanas laikā.
 
-4. Atzīmējiet izvēles rūtiņu "lietotājiem ir jāievada lietotājvārds un parole, lai izmantotu šo datoru".
+4. Notīriet izvēles rūtiņu Lai izmantotu šo datoru, lietotājiem ir jāievada lietotājvārds un parole.
 
-    ![Lietotājiem ir jāievada lietotājvārds un parole.](media/users-must-enter-username.png)
+    ![Lietotājiem ir jāievada lietotājvārda un paroles opcija.](media/users-must-enter-username.png)
 
-5. Noklikšķiniet uz **Labi**. Jums būs jāievada un jāapstiprina atlasītā konta parole. Noklikšķiniet uz **Labi** , lai pabeigtu. Nākamreiz, kad tiks palaista operētājsistēma Windows 10, tā automātiski pierakstīsies atlasītajā kontā.
+5. Noklikšķiniet uz **Labi**. Jums tiks lūgts ievadīt un apstiprināt atlasītā konta paroli. Noklikšķiniet **uz Labi,** lai pabeigtu. Nākamajā Windows 10 startēšanas reizē tā automātiski pierakstīsies atlasītajā kontā.

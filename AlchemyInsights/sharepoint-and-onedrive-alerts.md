@@ -1,8 +1,8 @@
 ---
-title: SharePoint un OneDrive brīdinājumu saņemšanas aizkave
+title: SharePoint un OneDrive brīdinājumu saņemšanas kavējumi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599859"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831237"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint un OneDrive brīdinājumu saņemšanas aizkave
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>SharePoint un OneDrive brīdinājumu saņemšanas kavējumi
 
-- Ja **visi brīdinājumi no vairākiem failiem vai bibliotēkām ir aizkavēti**, apmeklējiet [Pakalpojuma darbspējas informācijas paneli](https://portal.office.com/adminportal/home?ref=/servicehealth) , lai noskaidrotu, vai nav konsultantu/starpgadījumu, kas var notikt ar SharePoint vai Exchange.
-- Ja **atsevišķa faila vai bibliotēkas brīdinājums nav piegādāts**, mēģiniet to izdzēst un izveidot no jauna. Lai atkārtoti izveidotu brīdinājumu, skatiet rakstu [SharePoint brīdinājumu pārvaldība, skatīšana un dzēšana](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- Pārbaudiet mapi Nevēlamais e-pasts.
+- Ja **tiek aizkavēti** visi brīdinājumi no vairākiem [](https://portal.office.com/adminportal/home?ref=/servicehealth) failiem vai bibliotēkām, apmeklējiet pakalpojuma darbspējas informācijas paneli, lai meklētu konsultantus/incidentus, kas var rasties ar SharePoint vai Exchange.
+- Ja atsevišķs brīdinājums no konkrēta faila vai bibliotēkas **nav piegādāts,** mēģiniet to izdzēst un izveidot atkārtoti. Lai [no jauna izveidotu brīdinājumu, skatiet rakstu SharePoint brīdinājumu pārvaldība,](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) skatīšana vai dzēšana.
+- Pārbaudiet nevēlamā e-pasta vai surogātpasta mapi savā e-pastā.
 
 > [!NOTE]
-> - Brīdinājumus nevar nosūtīt uz adresātu grupu. Tiek atbalstītas tikai drošības un O365 grupas.
-> - Jūs nevarat pielāgot brīdinājuma e-pasta veidnes. Lai sasniegtu šos pakalpojumus, ir jāizmanto Microsoft Flow vai SharePoint Designer darbplūsma.
+> - Brīdinājumus nevar nosūtīt adresātu grupai. Tiek atbalstītas tikai grupas Drošība un O365.
+> - Brīdinājuma e-pasta veidnes nevar pielāgot. Lai tos sasniegtu, izmantojiet Microsoft Flow vai SharePoint Designer darbplūsmu.
