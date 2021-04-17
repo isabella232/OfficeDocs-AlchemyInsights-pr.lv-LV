@@ -1,23 +1,24 @@
 ---
-title: Instalējiet grupas kā savrupas vai ar jaunu Office instalāciju
+title: Instalējiet Teams kā savrupu vai ar jaunām Office insinstācijām
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: d0e0f2ecace065d9f56b8eebc4bc6eb54879cfc5
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358208"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832029"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a><span data-ttu-id="f04e1-102">Instalējiet grupas kā savrupas vai ar jaunu Office instalāciju</span><span class="sxs-lookup"><span data-stu-id="f04e1-102">Install Teams as standalone or with new office installs</span></span>
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a><span data-ttu-id="11d18-102">Instalējiet Teams kā savrupu vai ar jaunām Office insinstācijām</span><span class="sxs-lookup"><span data-stu-id="11d18-102">Install Teams as standalone or with new office installs</span></span>
 
-<span data-ttu-id="f04e1-103">Lūdzu, skatiet [šeit](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) informāciju par to, kā izvietot savas organizācijas grupas.</span><span class="sxs-lookup"><span data-stu-id="f04e1-103">Please see [here](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for information on how to deploy Teams in your organization.</span></span>
+<span data-ttu-id="11d18-103">Lūdzu, skatiet [šeit](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) informāciju par to, kā izvietot Teams jūsu organizācijā.</span><span class="sxs-lookup"><span data-stu-id="11d18-103">Please see [here](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for information on how to deploy Teams in your organization.</span></span>

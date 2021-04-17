@@ -1,8 +1,8 @@
 ---
-title: Grupu instalēšana VDI vidēs
+title: Teams instalēšana VDI vidēs
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663052"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831849"
 ---
-# <a name="installing-teams-on-vdi-environments"></a><span data-ttu-id="f8c8b-102">Grupu instalēšana VDI vidēs</span><span class="sxs-lookup"><span data-stu-id="f8c8b-102">Installing Teams on VDI environments</span></span>
+# <a name="installing-teams-on-vdi-environments"></a><span data-ttu-id="af6a9-102">Teams instalēšana VDI vidēs</span><span class="sxs-lookup"><span data-stu-id="af6a9-102">Installing Teams on VDI environments</span></span>
 
-<span data-ttu-id="f8c8b-103">Lai iegūtu informāciju par grupu izvietošanu koplietojamos datoros, attālās darbvirsmas pakalpojumos (RDS) vai virtuālās darbvirsmas infrastruktūrā (VDI), skatiet rakstu [koplietojama datora un VDI vidē ar Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="f8c8b-103">For information about deploying Teams on shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+<span data-ttu-id="af6a9-103">Informāciju par Teams izvietošanu koplietotos datoros, [attālās darbvirsmas pakalpojumos](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)(Rds) vai virtuālās darbvirsmas infrastruktūrā (VDI) skatiet rakstā Koplietojams dators un VDI vides ar Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="af6a9-103">For information about deploying Teams on shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
