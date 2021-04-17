@@ -2,7 +2,7 @@
 title: iOS 13 — iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695944"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833154"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS atjauninājumi nosacījuma piekļuves politikai
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>Nosacījum piekļuves politikas iOS 13+/iPadOS atjauninājumi
 
-Ja rodas problēmas saistībā ar piekļuvi nosacījumam ierīcē iPad, kas ir jauninātas uz iPadOS (iOS 13 vai jaunākas versijas), pārskatiet šo rakstu no AAD grupas attiecībā uz izmaiņām, kas jums, iespējams, būs jāveic, lai nodrošinātu, ka Nosacījumformatēšana turpina darboties pēc vajadzības.
+Ja ir radušās problēmas saistībā ar nosacījum piekļuvi ipad ierīcēs, kas ir jauninātas uz iPadOS (iOS 13 vai jaunāku versiju), skatiet šo AAD komandas rakstu par izmaiņām, kas, iespējams, jāveic, lai nodrošinātu to, ka nosacījum piekļuve turpina funkcionēt, kā nepieciešams:
 
-[Nepieciešamā darbība: nosacījuma piekļuves politikas novērtēšana un atjaunināšana, gatavojoties iPadOS laidienam](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Nepieciešama darbība: nosacījum piekļuves politiku izvērtēšana un atjaunināšana, gatavojoties iPadOS laidienam](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

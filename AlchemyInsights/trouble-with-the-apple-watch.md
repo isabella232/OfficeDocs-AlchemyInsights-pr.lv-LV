@@ -1,8 +1,8 @@
 ---
-title: Problēmas ar Apple pulksteni
+title: Problēmas ar Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700030"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832281"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Problēmas ar Apple pulksteni
+# <a name="trouble-with-the-apple-watch"></a>Problēmas ar Apple Watch
 
-Ja rodas problēmas, izmantojot Outlook Apple pulksteni, Lūk, dažas problēmu novēršanas darbības: 
+Ja rodas problēmas, izmantojot Outlook Apple Watch ierīcē, problēmu novēršanas darbības ir dažas tālāk norādītās. 
 
-1. Dodieties uz uzraudzības programmu iPhone tālrunī.
+1. Dodieties uz programmu Watch tālrunī iPhone.
 
 2. Ritiniet līdz programmai Outlook.
 
-3. Pārslēdziet "Show app on Apple pulksteni **", lai** atinstalētu.
+3. Lai atinstalētu, pārslēdziet opciju "Rādīt lietojumprogrammu Apple Watch **datorā"** uz IZSLĒGTS.
 
-4. Pārslēdziet "Show app on Apple pulksteni", lai **ieslēgtu** to atkārtotai instalēšanai pulkstenī.
+4. Pārslēdziet "Rādīt programmu Apple Watch ierīcē" uz **IESLĒGTS,** lai atkārtoti instalētu watch ierīcē.
 
-5. Palaidiet programmu Outlook Apple vērojiet un uzgaidiet, līdz tiek sinhronizēti dati ar jaunākajiem datiem. 
+5. Apple Watch ierīcē palaidiet programmu Outlook un gaidiet, līdz dati tiek sinhronizēti ar jaunāko versiju. 
 
-Ja jūsu problēma nav novērsta, atbalsta komandai būtu priecīgi palīdzēt. Dodieties uz **iestatījumi > palīdzība & atsauksmes > sazinieties ar atbalsta dienestu**. 
+Ja jūsu problēma nav novērsta, atbalsta komanda labprāt palīdzētu. Dodieties **uz Iestatījumi > Palīdzības & atsauksmes > Sazināties ar atbalsta dienestu**. 

@@ -2,7 +2,7 @@
 title: 'Tastatūras iestatījumi operētājsistēmā Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772810"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832974"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Tastatūras iestatījumi operētājsistēmā Windows 10
 
 **Tipa iestatījumi**
 
-Lai mainītu ar pareizrakstības pārbaudi, automātisko koriģēšanu, ieteikumiem un citiem aparatūras un skārientastatūras aspektiem saistītus Windows iestatījumus, dodieties uz **sadaļu iestatījumi > ierīces > rakstīšana**. 
+Lai mainītu Windows iestatījumus, kas saistīti ar pareizrakstības pārbaudi, automātisko labojumu, ieteikumiem un citiem aparatūras un skārientastatūras aspektiem, dodieties uz sadaļu **Iestatījumi > Ierīces un > Rakstīšana.** 
 
 **Valodas un tastatūras iestatījumi**
 
-Lai mainītu iestatījumus, kas saistīti ar to, kādu tastatūru vai ievades metodi izmantot Windows valodai, dodieties uz **iestatījumi > laiku & valodas > valodas**. Sarakstā **vēlamās valodas** atlasiet valodas un noklikšķiniet uz **Opcijas** , lai pievienotu/noņemtu tastatūras vai ievades metodes (IME).
+Lai mainītu iestatījumus, kas attiecas uz to, kuru tastatūru vai ievades metodi izmantot Windows valodai, dodieties uz Iestatījumi > laika **& > valodu**. Sarakstā Vēlamās valodas **atlasiet valodas un** noklikšķiniet uz **Opcijas,** lai pievienotu/noņemtu tastatūras vai ievades metodes (IMEs).
