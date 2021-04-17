@@ -1,8 +1,8 @@
 ---
-title: Drukas kļūdu novēršana programmā Word
+title: Drukāšanas kļūdu novēršana programmā Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720869"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828699"
 ---
-# <a name="resolving-print-failures-in-word"></a>Drukas kļūmju novēršana programmā Word
+# <a name="resolving-print-failures-in-word"></a>Drukas kļūmju atrisināšana programmā Word
 
-Ja, drukājot programmā Word, tiek saņemtas kļūdas, mēģiniet drukāt no jauna testa dokumenta, lai noteiktu, vai problēma ir saistīta ar konkrētu dokumentu.
+Ja, drukājot programmā Word, saņemat kļūdas, mēģiniet drukāt no jauna testa dokumenta, lai noteiktu, vai jūsu problēma ir saistīta ar noteiktu dokumentu.
 
-- Ja varat drukāt no testa dokumenta, bet joprojām nevarat drukāt oriģinālo dokumentu, iespējams, ka sākotnējais dokuments ir bojāts. Izpildiet norādījumus rakstā [bojātu dokumentu problēmu novēršana programmā Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Ja joprojām nevarat drukāt, izpildiet norādījumus rakstā [drukas kļūmju novēršana programmā Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) , lai diagnosticētu un novērstu šo problēmu.
+- Ja varat izdrukāt no testa dokumenta, bet joprojām nevarat izdrukāt oriģinālo dokumentu, iespējams, tas ir bojāts. Izpildiet norādījumus sadaļā [Kā novērst bojātu dokumentu problēmas programmā Word.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)
+- Ja joprojām nevarat izdrukāt, izpildiet rakstā Drukas kļūmju novēršana programmā [Word sniegtos](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) norādījumus, lai diagnosticētu un novērstu problēmu.

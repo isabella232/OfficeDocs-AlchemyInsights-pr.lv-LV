@@ -1,8 +1,8 @@
 ---
-title: Teams virtualizācijas galddatoru infrastruktūrai
+title: Virtualizētās darbvirsmas infrastruktūras grupas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736439"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829419"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams virtualizācijas galddatoru infrastruktūrai
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Virtualizētās darbvirsmas infrastruktūras grupas
 
-Lai iegūtu detalizētu informāciju par Teams virtualizācijas darbvirsmas infrastruktūras vidēm, skatiet rakstu [Teams virtualizācijas darbvirsmas infrastruktūrai](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Detalizētu informāciju par Teams virtualizētās darbvirsmas infrastruktūras vidēm skatiet rakstā [Teams virtualizētās darbvirsmas infrastruktūras lietotājiem.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
-Zināmās problēmas un ierobežojumi VDI vidēs ir detalizēti aprakstīti tā paša raksta sadaļā [zināmās problēmas un ierobežojumi ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) , kas ietver tālāk norādītās tēmas.
- - Klienta izvietošana, instalēšana un iestatīšana
+Zināmās problēmas un ierobežojumi VDI vidēs ir detalizēti izklāstīti šī raksta sadaļā Zināmās problēmas un ierobežojumi, kurā iekļautas šādas tēmas: [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations)
+ - Klientu izvietošana, instalēšana un iestatīšana
  - Zvanīšana un sapulces

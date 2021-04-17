@@ -1,8 +1,8 @@
 ---
-title: Saglabājiet diska vietu, izmantojot OneDrive failus pēc pieprasījuma Mac datorā
+title: Diska vietas taupīšana, izmantojot OneDrive failus pēc pieprasījuma Mac datoriem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 32aa2fa21acc647092aac75484dde809a7208113
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828663"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Saglabājiet diska vietu, izmantojot OneDrive failus pēc pieprasījuma Mac datorā
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Diska vietas taupīšana, izmantojot OneDrive failus pēc pieprasījuma Mac datoriem
 
-OneDrive faili pēc pieprasījuma palīdz piekļūt visiem jūsu OneDrive failiem bez nepieciešamības lejupielādēt visus failus un izmantot krātuves vietu savā ierīcē.  
+OneDrive faili pēc pieprasījuma palīdz piekļūt visiem jūsu failiem pakalpojumā OneDrive bez nepieciešamības tos lejupielādēt un izmantot krātuves vietu savā ierīcē.  
 
-Lai iegūtu jaunus OneDrive kontus Mac OS Mojave vai jaunākās versijās, pēc noklusējuma ir ieslēgts faili pēc pieprasījuma, iestatot OneDrive. Esošiem lietotājiem ir jāieslēdz failu pēc pieprasījuma OneDrive preferencēs.  
+Jauniem OneDrive kontiem operētājsistēmā Mac OS Mojave vai jaunākās versijas OneDrive iestatīšanas laikā faili pēc pieprasījuma tiek ieslēgti pēc noklusējuma. Esošajiem lietotājiem ir jāieslēdz Faili pēc pieprasījuma OneDrive preferencēs.  
 
-[Uzziniet vairāk par failiem pēc pieprasījuma Mac OS](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).
+[Papildinformācija par failiem pēc pieprasījuma operētājsistēmai Mac OS](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).

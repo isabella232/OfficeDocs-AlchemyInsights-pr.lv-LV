@@ -2,21 +2,22 @@
 title: Jūsu maksājums tika noraidīts
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161013"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829059"
 ---
 # <a name="your-payment-was-declined"></a>Jūsu maksājums tika noraidīts
 
@@ -24,20 +25,31 @@ ms.locfileid: "43161013"
 
 **Svarīgi**: ja pievienojāt jaunu karti un joprojām saņemat paziņojumus par noraidītiem maksājumiem vecās kredītkartes kontā, iespējams, ka jums jaunā karte ir jāpiesaista pie abonementa.
 
-1. Dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Aizstāt maksājuma metodi visiem vienumiem**
 
-2. Atlasiet abonementu, kuru vēlaties apmaksāt ar jauno karti vai bankas kontu. Sadaļā **Norēķini**, kas atrodas blakus maksāšanas metodēm, noklikšķiniet uz **Rediģēt**.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** > **Rēķini un maksājumi** > [Maksājuma metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Noklikšķiniet uz **Mainīt** pie pašreizējās maksāšanas metodes.
+2. Atlasiet maksājuma metodes rindu, kuru vēlaties aizstāt. Labajā rūtī ir norādīti visi norēķinu profili un individuālie abonementi, kas izmanto atlasīto maksājuma metodi.
 
-4. Nolaižamajā izvēlnē atlasiet alternatīvu maksāšanas metodi vai pievienojiet jaunu.
+3. Labajā rūti atlasiet **Aizstāt maksājuma metodi visiem vienumiem**.
 
-**Atjaunot vai pievienot jaunu maksāšanas metodi**
+4. Lai izmantotu esošu maksājuma metodi, atlasiet to nolaižamajā sarakstā un pēc tam atlasiet **Aizstāt**.
 
-1. Dodieties uz lapu **Norēķini > Rēķini un maksājumi > [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Ja jūsu norēķinu profilam ir piesaistīti abonementi, jūs varat izmantot tikai kredītkarti vai debetkarti, lai samaksātu par tiem. Ja jūsu **Maksājuma metožu** lapā ir norāditi bankas konti, tie nebūs pieejami izvēlei nolaižamajā sarakstā.
 
-2. Noklikšķiniet uz **Pievienot maksāšanas metodi**, izvēlieties attiecīgo bankas karti vai kontu un noklikšķiniet **Rediģēt**.
+5. Lai pievienot jaunu maksājuma metodi, atlasiet **Pievienot maksājuma metodi**.
 
-3. Atjauniniet jūsu maksāšanas metodes informāciju (vārds, uzvārds uz kartes vai bankas konts, adrese, tālruņa numurs, derīguma termiņš) un noklikšķiniet uz **Saglabāt**.
+6. Rūtī **Pievienot maksājuma metodi** ievadiet konta informāciju un pēc tam atlasiet **Saglabāt**. Jums ir jāizmanto maksājuma metode no jūsu nomnieka valsts.
 
-4. Neaizmirstiet nomainīt abonementa(u) apmaksas metodi uz šo jauno maksāšanas metodi. Lai uzzinātu vairāk, lasiet rakstu [Maksāšanas metožu pievienošana, atjaunināšana vai dzēšana](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Jaunā maksājuma metode jau ir atlasīta nolaižamajā sarakstā. Atlasiet **Aizstāt**.
+
+**Maksājuma informācijas atjaunināšana**
+
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** > **Rēķini un maksājumi** > [Maksājuma metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Atlasiet maksājuma metodes rindu, kuru vēlaties atjaunināt. Maksājumu metodes detalizētās informācijas rūtī atlasiet **Rediģēt**.
+
+3. Atjauniniet maksājuma metodes informāciju, tai skaitā vārdu, uzvārdu uz kredītkartes vai debetkartes, norēķinu adresi vai derīguma termiņu un atlasiet **Saglabāt**.
+
+Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -1,8 +1,8 @@
 ---
-title: Atļaujas pakalpojumā Microsoft Stream
+title: Atļaujas lietojumprogrammā Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721418"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829023"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Atļaujas pakalpojumā Microsoft Stream
+# <a name="permissions-in-microsoft-stream"></a>Atļaujas lietojumprogrammā Microsoft Stream
 
-Pēc noklusējuma, kad augšupielādējat video, atļaujas ir iestatītas videoklipam, lai tas būtu redzams visā uzņēmumā. Ja vēlaties norādīt atļaujas konkrētiem lietotājiem/grupām, varat pielāgot video atļaujas.
+Pēc noklusējuma, augšupielādējot video, tiek iestatītas atļaujas, lai video būtu redzams visam uzņēmumam. Ja vēlaties norādīt atļaujas konkrētiem lietotājiem/grupām, varat pielāgot video atļaujas.
 
-- [Atļaujas un konfidencialitāte pakalpojumā Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
+- [Atļaujas un konfidencialitāte lietojumprogrammā Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
 
 - [Grupas atļaujas](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 

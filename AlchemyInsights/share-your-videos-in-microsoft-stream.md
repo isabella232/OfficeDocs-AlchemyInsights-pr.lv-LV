@@ -1,8 +1,8 @@
 ---
-title: Videoklipu kopīgošana pakalpojumā Microsoft Stream
+title: Video kopīgošana pakalpojumā Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8363706fbc6dc87ce06ead90a6ff68f809ca9ac4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828411"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Videoklipu kopīgošana pakalpojumā Microsoft Stream
+# <a name="share-your-videos-in-microsoft-stream"></a>Video kopīgošana pakalpojumā Microsoft Stream
 
-Jūs, iespējams, vēlēsities kopīgot video pakalpojumā Microsoft Stream ar cilvēkiem, kuriem citādi nav piekļuves. Ir vairāki veidi, kā kopīgot video:
+Iespējams, vēlēsities kopīgot video pakalpojumā Microsoft Stream ar personām, kurām citādi nav piekļuves. Ir vairāki veidi, kā kopīgot video:
 
-- [Videoklipu kopīgošana pakalpojumā Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Video kopīgošana pakalpojumā Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 
-- [Video atļaujas](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [Atļaujas videoklipā](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

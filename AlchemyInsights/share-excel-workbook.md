@@ -2,7 +2,7 @@
 title: Excel darbgrāmatas koplietošana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739292"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828447"
 ---
-# <a name="collaborate-on-excel-documents"></a>Sadarbība, strādājot ar Excel dokumentiem
+# <a name="collaborate-on-excel-documents"></a>Sadarbība, izmantojot Excel dokumentus
 
-Lai sadarbotos ar kolēģiem Excel dokumentos, izmantojiet **līdzautorēšanas līdzekli**. 
+Lai sadarbotos ar kolēģiem, strādājot ar Excel dokumentiem, izmantojiet **koprediģēšanas līdzekli.** 
 
-Uzziniet, kā iespējot un izmantot šo līdzekli, kā arī skatīt atbildes uz bieži uzdotiem jautājumiem par kopīgošanas un sadarbības scenārijiem, vienlaikus [sadarbojoties ar Excel darbgrāmatām vienlaikus ar vienlaicīgu autorēšanu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Uzziniet par šī līdzekļa iespējošanu un izmantošanu, kā arī skatiet atbildes uz bieži uzdotajiem jautājumiem par koplietošanas un koprediģēšanas scenārijiem vietnē Izmantojot koprediģēšanu, var vienlaikus kopīgi ar citiem strādāt ar [Excel darbgrāmatām.](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
