@@ -2,7 +2,7 @@
 title: Jaunas ierīces aktivizēšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823290"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Jaunas ierīces, kurā darbojas operētājsistēma Windows 10, aktivizēšana
+# <a name="activating-a-new-device-running-windows-10"></a>Jaunas ierīces aktivizēšana, kurā darbojas operētājsistēma Windows 10
 
-Ja esat iegādājies jaunu ierīci, kurā darbojas operētājsistēma Windows 10, tā tiks automātiski aktivizēta, kad savienojat ierīci ar internetu. Ja aktivizēšanas serveri ir aizņemti, iespējams, būs jāgaida, kamēr sistēmai Windows ir jāaktivizē.
+Ja esat iegādājies jaunu ierīci, kurā darbojas operētājsistēma Windows 10, tā tiks aktivizēta automātiski, kad savienojat ierīci ar internetu. Ja aktivizācijas serveri ir aizņemti, iespējams, būs jāgaida, līdz Windows tiks aktivizēts.
 
-Lai pārbaudītu aktivizācijas statusu, izvēlieties **Sākt** **iestatījumu**  >  **atjaunināšanu & drošības**  >  **aktivizēšana**.
+Lai pārbaudītu aktivizācijas statusu, izvēlieties **Sākt iestatījumu**   >  **atjaunināšanu un & aktivizācija**  >  .
 
-**Piezīme:** Dažos gadījumos, iespējams, būs jāievada Windows 10 produkta atslēga, kas pievienota ierīces iepakojumam, vai ir iekļauta ierīcei piestiprinātā kartītē vai autentiskuma sertifikātā (COA).
+**Piezīme.** Dažos gadījumos, iespējams, būs jāievada Windows 10 produkta atslēga, kas iekļauta ierīces iepakojumā vai iekļauta kā kartīte vai autentiskuma sertifikāts (Certificate of Authenticity — COA), kas pievienota ierīcei.
 
 [Papildinformācija par aktivizāciju operētājsistēmā Windows 10](https://support.microsoft.com/help/12440)

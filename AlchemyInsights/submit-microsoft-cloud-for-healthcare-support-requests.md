@@ -1,8 +1,8 @@
 ---
-title: Iesniegt Microsoft Cloud for Healthcare atbalsta pieprasījumiem
+title: Iesniegt Microsoft mākoni veselības aprūpes atbalsta pieprasījumiem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6811"
 - "9003813"
-ms.openlocfilehash: 4dd4b38efa361372d6d59874f9738a0bf5d0a7c7
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: 336ac24a32fb67e74634208c3fad79b46295dc8b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823065"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824982"
 ---
-# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Iesniegt Microsoft Cloud for Healthcare atbalsta pieprasījumiem
+# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Iesniegt Microsoft mākoni veselības aprūpes atbalsta pieprasījumiem
 
-Microsoft mākoņa for Healthcare klients, lūdzu, iesniedziet savu biļeti, izmantojot jauno [Power Platform administrēšanas centru.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+Microsoft mākonis veselības aprūpes klientam, lūdzu, iesniedziet savu biļeti, izmantojot jauno[Power platformas administrēšanas centru.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
 
-Jaunais portāls nodrošina precīzāku ceļu uz palīdzību, kas ir optimizēta Microsoft mākoņa veselības aprūpei.
+Jaunais portāls nodrošina tiešāku ceļu palīdzības atbalstam, kas ir optimizēts Microsoft mākonim veselības aprūpei.

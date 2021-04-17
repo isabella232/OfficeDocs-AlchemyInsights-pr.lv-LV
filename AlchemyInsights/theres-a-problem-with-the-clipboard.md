@@ -1,8 +1,8 @@
 ---
-title: Ir radusies problēma ar starpliktuvi
+title: Starpliktuvē radās problēma
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750278"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824658"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Excel starpliktuves kļūdas novēršana
+# <a name="resolving-excel-clipboard-error"></a>Excel starpliktuves kļūdas atrisināšana
 
-Ja programmā Excel saņemat kļūdas ziņojumu, kurā teikts, ka ir radusies problēma ar starpliktuvi, bet jūs joprojām varat ielīmēt savu saturu šajā darbgrāmatā, "mēģiniet atspējot tiešo priekšskatījuma līdzekli, veicot tālāk norādītās darbības.
+Ja programmā Excel tiek parādīts kļūdas ziņojums "Pastāv problēma ar starpliktuvi, bet jūs joprojām varat ielīmēt saturu šajā darbgrāmatā", mēģiniet atspējot tiešā priekšskatījuma līdzekli, veicot tālāk norādītās darbības.
 
-1. Programmā Excel noklikšķiniet uz **Fails**  >  **Opcijas**.
-3. Dialoglodziņā **Excel opcijas** atlasiet **Vispārīgs**.
-4. Sadaļā **lietotāja interfeisa opcijas**notīriet **Iespējot tiešo priekšskatījumu**.
+1. Programmā Excel noklikšķiniet uz **Faila**  >  **opcijas**.
+3. Dialoglodziņā **Excel opcijas** atlasiet **Vispārīgi**.
+4. Sadaļā **Lietotāja interfeisa opcijas notīriet** Iespējot tiešo **priekšskatījumu**.
 5. Noklikšķiniet uz **Labi**.
 6. Restartējiet programmu Excel.

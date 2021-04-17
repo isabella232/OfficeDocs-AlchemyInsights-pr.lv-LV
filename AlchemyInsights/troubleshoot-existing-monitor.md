@@ -1,8 +1,8 @@
 ---
-title: Esošā monitora problēmu novēršana
+title: Esoša monitora problēmu novēršana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690718"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824586"
 ---
-# <a name="troubleshoot-an-existing-monitor"></a>Esošā monitora problēmu novēršana
+# <a name="troubleshoot-an-existing-monitor"></a>Problēmu novēršana esošā monitorā
 
-Izmēģiniet šos risinājumus, lai novērstu monitoru. 
+Izmēģiniet šos risinājumus, lai novērstu problēmas monitorā. 
 
-**Atsvaidzināt monitora displeju:**
+**Atsvaidziniet monitora displeju.**
 
-Vienlaikus nospiediet šos taustiņus: Windows taustiņš + CTRL + SHIFT + B. Tādējādi tiks atsvaidzināta komunikācija ar jūsu grafikas draiveri. Jūsu monitori acumirklī mirgos un atgriezīsies pēc dažām sekundēm.
+Vienlaikus nospiediet šādus taustiņus: Windows taustiņš + Ctrl + Shift + B. Tādējādi tiks atsvaidzināta saziņa ar jūsu grafikas draiveri. Jūsu monitori uz brīdi mirgos un atgriezīsies pēc dažām sekundēm.
 
-**Monitora aparatūras problēmu novēršana:**
+**Problēmu novēršana saistībā ar monitora aparatūru:**
 
-1. Atvienojiet kabeli, kas savieno jūsu datoru ar monitoru, un pievienojiet to atpakaļ.
-2. Atvienojiet ierīces no datora (piemēram, adapterus vai dokus).
+1. Atvienojiet kabeli, kas savieno datoru ar monitoru, un iespraudiet to atpakaļ.
+2. Atvienojiet no datora visas svarīgākās ierīces (piemēram, adapterus vai dokos).
 
-**Ja nesen instalējāt atjauninājumu savā datorā, varat atritināt savu interfeisa draiveri:**
+**Ja nesen instalējāt atjauninājumu savā datorā, varat atritiniet displeja draiveri:**
 
-1. Atlasiet **Sākt**, ierakstiet **ierīču pārvaldnieks**un pēc tam rezultātos atlasiet **ierīču pārvaldnieks** .
-2. Izvērsiet sadaļu **parādāmie adapteri** , ar peles labo pogu noklikšķiniet uz parādāmā adaptera, rupjās daļas atlasiet **Rekvizīti**.
-3. Pārejiet uz cilni **draiveris** un atlasiet **atritināt draiveri**. <br>
-Piezīme. Ja tas nav pieejams vai ir pelēkots, atlasiet **Nē** no tālāk norādītajām opcijām, lai pārietu uz nākamo darbību.
+1. Atlasiet **Sākt**, ierakstiet **Ierīču pārvaldnieks** un **rezultātos** atlasiet Ierīču pārvaldnieks.
+2. Izvērsiet **sadaļu Displeja adapteri,** ar peles labo pogu noklikšķiniet uz displeja adaptera un atlasiet **Rekvizīti**.
+3. Naviģējiet **uz cilni** Draiveris un **atlasiet Atritiniet draiveri**. <br>
+Piezīme. Ja šī opcija nav pieejama vai  ir pelēkota, tālāk redzamajās opcijās atlasiet Nē, lai pārietu uz nākamo darbību.
 4. Lai šīs izmaiņas stātos spēkā, iespējams, būs jārestartē dators.
 
-**Atinstalējiet un atkārtoti instalējiet savu interfeisa draiveri:**
+**Atinstalējiet un atkārtoti instalējiet displeja draiveri.**
 
-1. Atlasiet **Sākt**, ierakstiet **ierīču pārvaldnieks**un pēc tam rezultātos atlasiet **ierīču pārvaldnieks** .
-2. Izvērsiet sadaļu **parādāmie adapteri** , ar peles labo pogu noklikšķiniet uz jūsu parādāmā adaptera, rupjās atlasiet **atinstalēt ierīci**. 
-3. Atzīmējiet izvēles rūtiņu blakus **Dzēst draivera programmatūru šai ierīcei** un atlasiet **Atinstalēt**.<br>
-Piezīme. Šajā posmā jums, iespējams, būs jārestartē dators. Pirms restartēšanas noteikti pierakstiet atlikušās instrukcijas.
+1. Atlasiet **Sākt**, ierakstiet **Ierīču pārvaldnieks** un **rezultātos** atlasiet Ierīču pārvaldnieks.
+2. Izvērsiet **sadaļu Displeja adapteri,** ar peles labo pogu noklikšķiniet uz displeja adaptera un atlasiet **Atinstalēt ierīci**. 
+3. Atzīmējiet izvēles rūtiņu **blakus Dzēst šīs ierīces draivera programmatūru un** atlasiet **Atinstalēt**.<br>
+Piezīme. Iespējams, jums tiks lūgts restartēt datoru šajā posmā. Pirms restartēšanas noteikti pierakstiet pārējos norādījumus.
 4. Vēlreiz atveriet ierīču pārvaldnieku.
-5. Izvērsiet sadaļu **parādāmie adapteri** , ar peles labo pogu noklikšķiniet uz jūsu parādāmā adaptera un atlasiet **Atjaunināt draiveri**.
-6. **Lai atjauninātu draivera programmatūru, atlasiet automātiski meklēt** un izpildiet instalēšanas norādījumus.
+5. Izvērsiet **sadaļu Displeja adapteri,** ar peles labo pogu noklikšķiniet uz displeja adaptera un atlasiet **Atjaunināt draiveri**.
+6. Atlasiet **Automātiski meklēt draivera programmatūras atjaunināšanu un** izpildiet instalēšanas norādījumus.

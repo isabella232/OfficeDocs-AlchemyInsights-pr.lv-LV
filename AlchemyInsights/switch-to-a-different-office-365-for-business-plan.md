@@ -2,7 +2,7 @@
 title: Pārslēgšanās uz citu Microsoft 365 darbam plānu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 1bf07503828422cc85b7e3321f5ac1cb55d79c8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81cbfc71f5cdbf616f998212ee4eb2734b09728c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670479"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824910"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Pārslēgšanās uz citu Microsoft 365 darbam abonementu
 
-Kad uzņēmumā tiek veiktas izmaiņas vai nepieciešami papildu līdzekļi, varat veikt jaunināšanu uz jaunu plānu.
+Ja mainās jūsu uzņēmējdarbība vai jums ir nepieciešami papildu līdzekļi, varat jaunināt uz jaunu plānu.
   
-1. Administrēšanas centrā dodieties uz lapu **norēķini** par \> **[produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Administrēšanas centrā dodieties  uz lapu \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
 
 2. Atlasiet abonementu, kuru vēlaties jaunināt.
 
-3. [Lapā Detalizēta informācija par abonementu](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)atlasiet **Jaunināšana**.  Ja cilne **Jaunināšana** ir tukša, tiek parādīts skaidrojums par to, kāpēc pašlaik nevar veikt jaunināšanu. Tā vietā [plāni ir jāmaina manuāli](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).
+3. Lapā [Detalizēta informācija par abonementu](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)atlasiet **Jaunināt**.  Ja cilne **Jaunināšana** ir tukša, tiks parādīts skaidrojums par to, kāpēc šobrīd nevarat veikt jaunināšanu. Tā vietā plāni [jāmaina manuāli.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)
 
-4. Atrodiet plānu, kuru vēlaties jaunināt, un pēc tam atlasiet **jaunināšanas** pogu.
+4. Atrodiet plānu, uz kuru vēlaties veikt jaunināšanu, un pēc tam atlasiet **pogu** Jaunināt.
 
-5. Ievadiet nepieciešamo licenču skaitu, izvēlieties, vai maksāt katru mēnesi vai visu gadu, pēc tam atlasiet **norēķināšanās**.
+5. Ievadiet nepieciešamo licenču skaitu, izvēlieties, vai maksāt katru mēnesi vai par visu gadu, pēc tam atlasiet **Norēķināties**.
 
-Lai uzzinātu vairāk, skatiet rakstu [Jaunināšana uz citu plānu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Papildinformāciju skatiet rakstā [Jaunināšana uz citu plānu.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)

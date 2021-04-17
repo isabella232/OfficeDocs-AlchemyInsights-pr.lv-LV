@@ -1,8 +1,8 @@
 ---
-title: Migrēšana no AIP uz MIP/vienotās marķēšanas atbilstības centrā
+title: Migrēšana no AIP uz MIP/vienotās etiķetes atbilstības centrā
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674333"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825378"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrēšana no AIP uz MIP/vienotās marķēšanas atbilstības centrā
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrēšana no AIP uz MIP/vienotās etiķetes atbilstības centrā
 
-Lai migrētu no AIP etiķetēm uz vienotu marķējumu drošības un atbilstības centrā, rīkojieties šādi:
+Lai migrētu no AIP etiķetēm uz vienoto uzlīmēšanu drošības un atbilstības centrā, rīkojieties šādi:
 
 **Aizsardzības aktivizēšana no Azure portāla**
 
-1. Ja vēl neesat to izdarījis, atveriet jaunu pārlūkprogrammas logu un [pierakstieties Azure portālā](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Pārejiet uz **Azure informācijas aizsardzības** asmeni. Piemēram, izvēlnē centrmezgls noklikšķiniet uz **Visi pakalpojumi** un sāciet rakstīt **informāciju** filtra lodziņā. Atlasiet **Azure informācijas aizsardzība**. Ja iepriekš neesat piekļuvis Azure informācijas aizsardzības diskam, skatiet vienreizējās [papildu darbības](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) , lai šo disku pievienotu portālam. Lai atvērtu Azure Information Protection asmeni, jums ir jābūt [Azure Information Protection Premium plānam](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) vai Office 365 plānam, kurā ir iekļauta tiesību pārvaldība. Ja jums ir kāds no šiem abonementiem, bet redzat ziņojumu, ka derīgu abonementu nevar atrast, [sazinieties ar Microsoft atbalsta dienestu](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) vai izmantojiet savus standarta atbalsta kanālus.
+1. Ja vēl neesat to izdarījis, atveriet jaunu pārlūkprogrammas logu [un pierakstieties Azure portālā.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Naviģējiet uz **Azure informācijas aizsardzības asmens stieņu.** Piemēram, centrmezgla izvēlnē noklikšķiniet uz **Visi pakalpojumi** un sāciet **rakstīt informācija** lodziņā Filtrs. Atlasiet **Azure informācijas aizsardzība**. Ja iepriekš neesat piekļuvis Azure informācijas aizsardzības asmenim, skatiet vienreizējās papildu darbības, lai šo asmeni pievienotu portālam. [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) Lai atvērtu Azure informācijas aizsardzības asmens stieņu, ir nepieciešams [Azure Informācijas](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) aizsardzības Premium plāns vai Office 365 plāns, kurā ir iekļauta tiesību pārvaldība. Ja jums ir kāds no šiem abonementiem, bet tiek parādīts ziņojums, ka nevar atrast derīgu abonementu, sazinieties ar [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) atbalsta dienestu vai izmantojiet standarta atbalsta kanālus.
 
-2. Atrodiet **pārvaldības** izvēlnes opcijas un atlasiet **aizsardzības aktivizēšana**. Noklikšķiniet uz **Aktivizēt**un pēc tam apstipriniet savu darbību. Kad aktivizēšana ir pabeigta, informācijas joslā aktivizācija ir **sekmīgi pabeigta**.
+2. Atrodiet **izvēlnes opciju** Pārvaldība un atlasiet Aizsardzība **aktivizācija**. Noklikšķiniet **uz** Aktivizēt un pēc tam apstipriniet savu darbību. Kad aktivizācija ir pabeigta, informācijas joslā ir redzams, ka **aktivizēšana ir sekmīgi pabeigta.**
 
-**Azure informācijas aizsardzības etiķešu migrēšana uz Office 365 drošības & atbilstības centrs**
+**Azure informācijas aizsardzības etiķešu migrēšana uz Office 365 & atbilstības centru**
 
-1. Pārliecinieties, vai esat pieteicies kā lietotājs, kuram ir globālās administratora atļaujas.
+1. Pārliecinieties, vai esat pieteicies kā lietotājs ar globālā administratora atļauju.
 
-2. Pārejiet uz **Azure informācijas aizsardzības** asmeni.
+2. Naviģējiet uz **Azure informācijas aizsardzības asmens stieņu.**
 
-3. Izvēlnē **Manage (pārvaldīt** ) atlasiet **vienota marķēšana**.
+3. Izvēlnes **opcijā** Pārvaldīt atlasiet **Vienotā etiķetēšana**.
 
-4. **Azure Information Protection — vienotās marķēšanas** asmens, noklikšķiniet uz **Aktivizēt** un izpildiet tiešsaistes instrukcijas.
+4. Azure Informācijas **aizsardzības vietnē — vienotās uzlīmju asmensmens** nosaukums noklikšķiniet uz **Aktivizēt** un izpildiet tiešsaistes norādījumus.
 
-**Piezīme**. Pārbaudiet, vai jums ir atbilstošas atļaujas, pirms aktivizējat drošības & atbilstības centra migrāciju. Lai iegūtu papildinformāciju, skatiet šos rakstus:
+**Piezīme.** Pārliecinieties, vai jums ir nepieciešamās atļaujas, pirms aktivizējot & atbilstības centra migrāciju. Papildinformāciju skatiet šajos rakstos:
 
-1. [Vai jums ir jābūt globālajam administratoram, lai konfigurētu Azure informācijas aizsardzību vai varu deleģēt citiem administratoriem?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Vai jums ir jābūt globālajam administratoram, lai konfigurētu Azure informācijas aizsardzību, vai vai varu deleģēt citiem administratoriem?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Svarīga informācija par administratīvajām lomām pēc migrēšanas uz drošības & atbilstības centru.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Svarīga informācija par administratīvajām lomām pēc migrēšanas uz & atbilstības centru.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Lai iegūtu papildinformāciju par to, kā AIP ir vienots pārzīmju migrēšanas uz drošības un atbilstības centru, skatiet rakstu [etiķešu migrēšana](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+Papildinformāciju par AIP uz vienoto uzlīmju migrāciju uz drošības un atbilstības centru skatiet rakstā [Etiķešu migrēšana.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)
