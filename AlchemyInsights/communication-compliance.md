@@ -2,7 +2,7 @@
 title: Saziņas atbilstība
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875131"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817503"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Saziņas atbilstība programmā Microsoft 365
 
-Saziņas atbilstība ir jauns Microsoft 365 atbilstības risinājums, kas organizācijām palīdz ievērot uzraudzības atbilstības prasības un samazināt saziņas riskus. Tas ir balstīts uz uzraudzības līdzekli un ietver jaunus uzlabojumus, tostarp:
+Saziņas atbilstība ir jauns Microsoft 365 atbilstības risinājums, kas organizācijām palīdz ievērot uzraudzības atbilstības prasības un samazināt saziņas riskus. Tās pamatā ir pārraudzības līdzeklis, un tajā ir iekļauti jauni uzlabojumi, tostarp:
 
-- Inteliģentas pielāgojamas veidnes
-- Elastīgas atlīdzināšanas darbplūsmas
-- Ieskati darbībā
+- Intelektiskas pielāgojamas veidnes
+- Elastīgas koriģējošās darbplūsmas
+- Veicamo darbību ieskati
 
-Ja pašlaik izmantojat [uzraudzības politikas](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), iesakām tagad izmantot jauno saziņas atbilstību, lai apmierinātu normatīvās vajadzības.
+Ja pašlaik izmantojat [pārraudzības politikas](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), iesakām izmantot jauno saziņas atbilstību, lai ievērotu normatīvās vajadzības.
 
-Lai iestatītu saziņas saderību, skatiet rakstu [saziņas atbilstības konfigurēšana](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Lai iestatīšanas saziņas atbilstību, skatiet [rakstu Saziņas atbilstības konfigurēšana.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Lai izpētītu, pārskatītu un nodrošinātu saziņas atbilstību, skatiet rakstu [saziņas atbilstības brīdinājumu izmeklēšana un sanācija](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Lai izpētītu, pārskatītu un koriģētu saziņas atbilstību, skatiet rakstu Saziņas atbilstības brīdinājumu izpēte [un labošana.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Pārskatu par saziņas atbilstības līdzekli skatiet rakstā [saziņas atbilstība programmā Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Pārskatu par saziņas atbilstības līdzekli skatiet rakstā Saziņas [atbilstība programmā Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Licences prasības: saziņas politikām pārraudzītajiem lietotājiem ir jābūt kādai no šīm:
+Licences prasības. Ar saziņas politikām pārraudzītiem lietotājiem ir jābūt kādai no šīm opcijām:
 
 - Microsoft 365 E5 atbilstības licence
-- Office 365 Enterprise E3 licence ar papildu atbilstības pievienojumprogrammu
+- Office 365 Enterprise E3 licence ar uzlabotās atbilstības pievienojumprogrammu
 - Office 365 Enterprise E5 abonements
 
-Ja jums nav nevienas no iepriekš norādītajiem un vēlaties izmēģināt saziņas atbilstību, **[reģistrējiet Office 365 Enterprise E5 izmēģinājumversiju](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Ja jums nav neviena no iepriekš minētajiem un vēlaties izmēģināt saziņas atbilstību, reģistrēieties **[Office 365 Enterprise E5 izmēģinājumversijai.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Var paiet līdz pat 24 stundām, līdz e-pasta ziņojumi tiks pilnībā apstrādāti politikā. Saziņa pakalpojumā Microsoft Teams, Yammer un trešo pušu platformās var ilgt līdz 48 stundām, lai pilnībā apstrādātu politiku.
+> Lai e-pasta ziņojumi tiktu pilnībā apstrādāti politikā, var paiet līdz pat 24 stundām. Saziņai Microsoft Teams, Yammer un trešo pušu platformās var būt nepieciešams līdz 48 stundām, lai pilnībā apstrādātu politiku.

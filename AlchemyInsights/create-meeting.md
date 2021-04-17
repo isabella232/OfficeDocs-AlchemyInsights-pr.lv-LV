@@ -1,8 +1,8 @@
 ---
-title: Sapulces plānošana pakalpojumā Teams
+title: Sapulces plānošana programmā Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746910"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815982"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Sapulces plānošana pakalpojumā Teams
+# <a name="schedule-a-meeting-in-teams"></a>Sapulces plānošana programmā Teams
 
-**Svarīgi** ! Ja rodas problēmas saistībā ar sapulces veidošanu vai nevarat atrast sapulces opciju pakalpojumā Teams, pārliecinieties, vai ir iespējots Exchange pastkastes Microsoft Teams atbalstītā versijā. Kamēr ir ieteicams Exchange Online, Exchange lokālajā pastkastēs tiek atbalstītas Exchange Server 2016 CU3 vai jaunāka versija ar OAuth veiksmīgi konfigurēta starp tiešsaistes un lokālo. Papildinformāciju skatiet rakstā [lietotāju pastkastu izveide pakalpojumā Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) un [lokāli viesoto pastkastu prasības](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Svarīgi!** Ja rodas problēmas saistībā ar sapulces izveidi vai nevarat atrast sapulces opciju programmā Teams, pārbaudiet, vai ietekmētajiem lietotājiem ir iespējota Exchange pastkaste atbalstītā Microsoft Teams versijā. Lai gan ir ieteicams izmantot Exchange Online, Exchange lokālās pastkastes tiek atbalstītas Exchange Server 2016 CU3 vai jaunākā versijā, un OAuth ir sekmīgi konfigurēts starp Tiešsaistes un Lokālo. Papildinformāciju skatiet [rakstā Lietotāju pastkastu izveide exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) un [Lokālās pastkastes](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)prasības. 
 
-1. Varat ieplānojiet sapulci, atlasot:
+1. Varat ieplānot sapulci, atlasot:
 
-    - **Ieplānojiet sapulces** ikonu tērzēšanā zem ziņojuma izveides lodziņa, lai rezervētu sapulci kopā ar personām, kas ir tērzēšanā.
+    - **Ieplānojiet sapulces** ikonu tērzēšanas sarunā zem sastādīšanas lodziņa, lai rezervētu sapulci ar tērzēšanas dalībniekiem.
 
-    - **Kalendāra** ikona lietojumprogrammas kreisajā malā. Atlasiet **Jauna sapulce** augšpusē pa labi vai atlasiet laika diapazonu kalendārā, lai atvērtu plānošanas formu.
+    - **Kalendāra** ikona programmas kreisajā pusē. Atlasiet **Jauna sapulce** augšējā labajā stūrī vai atlasiet laika diapazonu savā kalendārā, lai atvērtu plānošanas formu.
 
-2. Līdzīgi kā sapulces ieplānošana programmā Outlook, jums būs jāsniedz sapulcei virsraksts, jāaicina personas un jāpievieno sapulces detaļas.
+2. Līdzīgi kā plānojot sapulci programmā Outlook, jūs piešķirsit sapulcei virsrakstu, uzaicināsit personas un pievienosit sapulču informāciju.
 
-3. Plānošanas formas labajā pusē varat pievienot kanālu vai atsevišķas personas vai atstāt tukšu, lai ieplānotu privātu tikšanos.
+3. Plānošanas formas labajā pusē varat pievienot kanālu vai atsevišķas personas, vai arī atstāt abus tukšus, lai ieplānotu privātu tikšanos.
 
-Papildinformāciju par sapulču izveidi un plānošanu pakalpojumā Microsoft Teams skatiet rakstā [sapulces plānošana pakalpojumā Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Papildinformāciju par sapulču izveidi un ieplānošanu lietojumprogrammā Microsoft Teams skatiet [rakstā Sapulces ieplānošana programmā Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Papildinformāciju par sapulču ierobežojumiem un specifikācijām skatiet rakstā [Microsoft Teams ierobežojumi un specifikācijas](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Papildinformāciju par sapulču ierobežojumiem un specifikācijām skatiet [rakstā Microsoft Teams ierobežojumi un specifikācijas.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Lai saņemtu palīdzību par problēmu novēršanu un Exchange mijiedarbību, īpaši par pārstāvja plānošanas problēmām, skatiet rakstu [Microsoft Teams un Exchange Server mijiedarbības problēmu novēršana](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Lai saņemtu palīdzību ar Teams un Exchange darbību problēmu novēršanai, īpaši saistībā ar pārstāvja plānošanas problēmām, skatiet rakstu Microsoft Teams un [Exchange Server saziņas problēmu novēršana.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

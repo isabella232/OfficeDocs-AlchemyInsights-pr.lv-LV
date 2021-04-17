@@ -1,8 +1,8 @@
 ---
-title: Pārbaudiet, vai jums ir Skype darbam jaunākā versija
+title: Pārbaudiet, vai jums ir jaunākā Skype darbam versija
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000550"
 - "2388"
-ms.openlocfilehash: 976b09a057c4edb634645fd63729f74bf34454cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b9e7afe7393cf688db68d13b7964c714a516533
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812410"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817791"
 ---
-# <a name="check-for-skype-for-business-updates"></a>Pārbaudiet, vai nav Skype darbam atjauninājumu
+# <a name="check-for-skype-for-business-updates"></a>Skype darbam atjauninājumu pārbaude
 
-Lai iegūtu informāciju par jaunākajiem Skype darbam programmu atjauninājumiem visās platformās (Mac, Windows, Mobile), skatiet rakstu [Sekošana jaunākajiem atjauninājumiem pakalpojumā Skype darbam](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781).
+Informāciju par jaunākajiem Skype darbam programmu atjauninājumiem visās platformās (Mac, Windows un Mobile) skatiet rakstā Sekošana jaunākajiem atjauninājumiem [pakalpojumā Skype darbam.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)

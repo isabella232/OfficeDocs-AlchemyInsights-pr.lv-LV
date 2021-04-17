@@ -1,8 +1,8 @@
 ---
-title: Sadarbība
+title: Kop pārvaldība
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896802"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817719"
 ---
-# <a name="co-management"></a>Sadarbība
+# <a name="co-management"></a>Kop pārvaldība
 
-**Priekšnosacījumi migrēšanai no konfigurācijas pārvaldnieka Hibrīdā uz Intune**
+**Priekšnosacījumi migrēšana no Config Manager hibrīda uz Intune**
 
-- Pārskatiet [šo rakstu](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [Pievienojiet Intune licenci saviem lietotājiem](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Konfigurējot līdzpārvaldību, izmantojiet [Edge pārlūkprogrammu](https://www.microsoft.com/edge) .
+- Pārskatiet [šo rakstu.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Pievienojiet Saviem lietotājiem Intune licenci.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Konfigurējot [kop pārvaldību,](https://www.microsoft.com/edge) izmantojiet pārlūkprogrammu Edge.
 
-[Tālāk](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)ir norādītas darbības, kas jāveic, izmantojot pakāpeniskas sadarbības pārvaldības iespējas.
+Vadītas, pakāpeniskas līdzās pārvaldības iestatīšanas iespējas ir [atrodamas šeit.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Kā es varu instalēt konfigurācijas pārvaldnieka klientu Intune pārvaldītās ierīcēs**
+**Kā instalēt Config Manager klientu Intune pārvaldītās ierīcēs**
 
-Skatiet sadaļu [INTUNE MDM pārvaldītās Windows ierīces](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Skatiet [sadaļu Intune MDM pārvaldītas Windows ierīces.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Kā rīkoties, ja vēlos mainīt MDM iestādi?**
+**Ko darīt, ja vienkārši vēlos mainīt MDM iestādi?**
 
-MDM pilnvaras var mainīt, neatverot atbalsta lietu. Lai palīdzētu mainīt MDM iestādi, lūdzu, pārskatiet šo dokumentu:
+MDM iestādi var mainīt, neatverot atbalsta gadījumu. Lūdzu, pārskatiet tālāk norādīto dokumentāciju, lai palīdzētu mainīt MDM autoritāti.
 
-- [MDM iestādes mainīšana no konfigurācijas pārvaldnieka uz Intune savrupo versiju](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [MDM iestādes maiņa no Intune Standalone uz konfigurācijas pārvaldnieku](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Mainiet MDM autoritāti no konfigurācijas pārvaldnieka uz Intune savrupo](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MdM iestādes maiņa no Intune savrupā uz konfigurācijas pārvaldnieku](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

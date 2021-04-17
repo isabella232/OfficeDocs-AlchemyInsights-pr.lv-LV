@@ -1,8 +1,8 @@
 ---
-title: Iztīrīt kešatmiņu vai lokāli atiestatīt programmu
+title: Kešatmiņas notīrīšana vai lietojumprogrammas atiestatīšana lokāli
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681231"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817755"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Iztīrīt kešatmiņu vai lokāli atiestatīt programmu
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Kešatmiņas notīrīšana vai lietojumprogrammas atiestatīšana lokāli
 
-Ja redzat nepilnīgus vai nepareizus datus, aizveriet un vēlreiz atveriet programmu.  Ja problēma netiek atrisināta, atiestatiet ierīcē esošo kontu. 
+Ja redzat nepilnīgus vai nepareizus datus, lūdzu, aizveriet un vēlreiz atveriet programmu.  Ja tas neatrisina problēmu, atiestatiet kontu ierīcē: 
 
-**Atveriet mūsu programmu > iestatījumi > atlasiet e-pasta kontu > atiestatīt kontu.**
+**Atveriet mūsu programmu > Iestatījumi > Atlasiet e-pasta kontu, > Atiestatīt kontu**
