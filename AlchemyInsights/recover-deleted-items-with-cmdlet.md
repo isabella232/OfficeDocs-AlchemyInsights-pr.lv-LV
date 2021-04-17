@@ -1,27 +1,28 @@
 ---
-title: Atkopt izdzēstos vienumus, izmantojot cmdlet
+title: Izdzēsto vienumu atkopšana, izmantojot cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835818"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a><span data-ttu-id="a1bdc-102">Atkopt izdzēstos vienumus, izmantojot cmdlet</span><span class="sxs-lookup"><span data-stu-id="a1bdc-102">Recover deleted items with cmdlet</span></span>
+# <a name="recover-deleted-items-with-cmdlet"></a><span data-ttu-id="65e37-102">Izdzēsto vienumu atkopšana, izmantojot cmdlet</span><span class="sxs-lookup"><span data-stu-id="65e37-102">Recover deleted items with cmdlet</span></span>
 
-- <span data-ttu-id="a1bdc-103">Izmantojiet [Get RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet skatīt izdzēsto vienumu pastkastēm.</span><span class="sxs-lookup"><span data-stu-id="a1bdc-103">Use the [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet to view deleted items in mailboxes.</span></span> <span data-ttu-id="a1bdc-104">Pēc tam, kad esat atradis izdzēstos vienumus, izmantojiet [atjaunošanas-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) cmdlet, lai tos atjaunotu.</span><span class="sxs-lookup"><span data-stu-id="a1bdc-104">After you find the deleted items, you use the [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) cmdlet to restore them.</span></span>
+- <span data-ttu-id="65e37-103">Izmantojiet cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps), lai skatītu pastkastēs izdzēstos vienumus.</span><span class="sxs-lookup"><span data-stu-id="65e37-103">Use the [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet to view deleted items in mailboxes.</span></span> <span data-ttu-id="65e37-104">Kad izdzēstie vienumi ir atrasti, izmantojiet cmdlet [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps), lai tos atjaunotu.</span><span class="sxs-lookup"><span data-stu-id="65e37-104">After you find the deleted items, you use the [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) cmdlet to restore them.</span></span>
 
-- <span data-ttu-id="a1bdc-105">Skatīt pilnu informāciju par [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="a1bdc-105">See full details in [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).</span></span>
+- <span data-ttu-id="65e37-105">Pilnu detalizēto informāciju skatiet aprakstā par [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="65e37-105">See full details in [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).</span></span>
 
-- <span data-ttu-id="a1bdc-106">Jums ir jāpiešķir pastkastes importa eksporta lomu pirms varat palaist šo cmdlet.</span><span class="sxs-lookup"><span data-stu-id="a1bdc-106">You need to be assigned the Mailbox Import Export role before you can run this cmdlet.</span></span> <span data-ttu-id="a1bdc-107">Lai iegūtu papildinformāciju, skatiet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) .</span><span class="sxs-lookup"><span data-stu-id="a1bdc-107">Please see [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) for more information.</span></span>
+- <span data-ttu-id="65e37-106">Lai varētu palaist šo cmdlet, jums ir jābūt piešķirtai pastkastes importēšanas/eksportēšanas lomai.</span><span class="sxs-lookup"><span data-stu-id="65e37-106">You need to be assigned the Mailbox Import Export role before you can run this cmdlet.</span></span> <span data-ttu-id="65e37-107">Papildinformāciju skatiet aprakstā par [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="65e37-107">Please see [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) for more information.</span></span>
