@@ -2,7 +2,7 @@
 title: Satura tipa pievienošana sarakstam vai bibliotēkai
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: 2f3a4983ef43fd2157170c895da814a3d5294627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90dccd7afeb645ab07fc36f79ef18fd1710e7872
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697384"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822822"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>Satura tipa pievienošana sarakstam vai bibliotēkai
 
-1. Dodieties uz  [saraksta vai bibliotēkas iestatījumiem](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f).
-2. Sadaļā  **satura tipi**atlasiet  **Pievienot no esošiem vietņu satura tipiem**. Ja  **satura tipi**  netiek parādīti, atlasiet  **Papildu iestatījumi**.
-3. Atlasiet no saraksta  **Atlasīt vietnes satura tipus**  .
-4. Sarakstā Pieejamie vietnes satura tipi atlasiet vēlamā satura tipa nosaukumu un pārvietojiet atlasīto satura tipu uz sarakstu pievienojamie satura tipi, atlasiet Pievienot.
-5. Atkārtojiet darbības, lai skatītu papildu satura tipus.
+1. Dodieties [uz saraksta vai bibliotēkas iestatījumiem.](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f)
+2. Sadaļā  **Satura tipi** atlasiet Pievienot no  **esošajiem vietnes satura tipiem**. Ja  **satura tipi**  netiek rādīti, atlasiet Papildu  **iestatījumi**.
+3. Sarakstā Atlasīt **vietnes satura tipus.**
+4. Sarakstā Pieejamie vietnes satura tipi atlasiet satura tipa nosaukumu un atlasīto satura tipu pārvietojiet uz sarakstu Pievienojamie satura tipi atlasiet Pievienot.
+5. Atkārtojiet darbības papildu satura tipiem.
 
-Papildinformāciju skatiet rakstā  [satura tipa pievienošana sarakstam vai bibliotēkai](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60).
+Papildinformāciju skatiet [rakstā Satura tipa pievienošana sarakstam vai bibliotēkai.](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)

@@ -2,7 +2,7 @@
 title: Active Directory netiek sinhronizēts
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697636"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822858"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory netiek sinhronizēts
 
-Ja saņemat sinhronizācijas kļūdas, piemēram, "nav pēdējās sinhronizācijas" vai paziņojums par direktorija sinhronizēšanas statusu Office administrēšanas portālā, tiek rādīts ziņojums "Pēdējoreiz sinhronizēts vairāk nekā pirms 3 dienām", iespējams, ka AADConnect ir nepareizi iestatījumi vai nepietiekamas atļaujas, lai veiktu sinhronizēšanu.  
+Ja saņemat sinhronizācijas kļūdas, piemēram, "nav nesenas sinhronizācijas", vai saņemat paziņojumu par direktorija sinhronizēšanas statusu Office administrēšanas portālā:"Pēdējoreiz sinhronizēts pirms vairāk nekā 3 dienām", iespējams, AADConnect ir nepareizi iestatījumi vai nepietiekamas atļaujas sinhronizācijas veikšanai.  
 
-AADConnect atkārtota instalēšana, izmantojot ekspresiestatījumus, var ātri atrisināt šo problēmu:
+AADConnect atkārtota instalēšana, izmantojot ekspresiestatādes iestatījumus, var ātri atrisināt problēmu:
 
-1. [Lejupielādējiet jaunāko AADConnect versiju](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Lejupielādējiet AADConnect jaunāko versiju.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Izpildiet norādījumus saistībā ar izteiktu instalēšanu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Izpildiet norādījumus par ekspresinstalēšanu.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Papildinformāciju par AADConnect pakalpojumu kontiem skatiet rakstā [AZURE ad Connect: konti un atļaujas](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Papildinformāciju par AADConnect pakalpojumu kontiem skatiet rakstā [Azure AD Connect: konti un atļaujas.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

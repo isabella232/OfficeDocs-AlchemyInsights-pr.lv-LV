@@ -1,8 +1,8 @@
 ---
-title: Kāpēc poga Pievienot budžetu ir atspējota man?
+title: Kāpēc man ir atspējota poga Pievienot budžetu?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807412"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822642"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Kāpēc poga Pievienot budžetu ir atspējota man?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Kāpēc man ir atspējota poga Pievienot budžetu?
 
-Lai izveidotu budžetu, jums ir jābūt kādai no tālāk norādītajām atļaujām.
+Lai izveidotu budžetu, nepieciešama kāda no šīm atļaujām:
 
 - Pārvaldības grupa, abonements, resursu grupas tvērumi
-- Izmaksu pārvaldības līdzstrādnieks
+- Cost Management Contributor
 - Īpašnieks
 - Līdzstrādnieks
-- Tikai uzņēmuma klients: reģistrācija, nodaļa, kontu tvērumi
-- Reģistrācijas administrators (iestatīt budžetu pēc reģistrācijas apjoma)
+- Tikai Enterprise klients: Reģistrācija, Nodaļa, Konta tvērumi
+- Reģistrācijas administrators (iestatīt budžetu reģistrācijas tvērumā)
 - Nodaļas administrators (iestatīt budžetu nodaļas tvērumā)
-- Konta īpašnieks (iestatīt budžetu pēc konta tvēruma)
-- Mūsdienīgs klienta līgums: norēķinu konts, norēķinu profils, rēķinu sadaļu tvērumi
-- Azure abonēšanas veidotājs
+- Konta īpašnieks (budžeta iestatīšana konta tvērumā)
+- Tikai modernais klientu līgums: Norēķinu konts, norēķinu profils, rēķinu sadaļu tvērumi
+- Azure abonementa veidotājs
 
-**Es izveidoju budžetu, kad manas izmaksas par pašreizējo mēnesi jau pārsniedza budžetu. Kāpēc nesaņēmu brīdinājumu?**  
-Ja jums jau ir pārsniegts noteiktais izmaksu slieksnis, kad izveidojat budžetu, ko brīdinājums neaizdegsies. Tiklīdz jaunais cikls sāksies, ja pārtrauksit slieksni, brīdinājums tiek uzkurināts.
+**Es izveidoju budžetu, ja pašreizējā mēneša izmaksas jau bija pārsniedzis budžetu. Kāpēc es nesaņēma brīdinājumu?**  
+Ja jau esat pārsniedzis norādīto izmaksu slieksni, kad izveidojat brīdinājumu par budžetu, šis brīdinājums netiks atlaists. Tiklīdz sākas jauns cikls, ja pārsniegsiet slieksni, brīdinājums tiks atlaists.
 
-**Kad gaidīt saņemt brīdinājumu pēc tam, kad būšu pārsniedzis kādu no maniem definētajiem budžeta brīdinājumu sliekšņiem?**  
-Budžeti tiek novērtēti ik pēc 4 stundām. Lietojuma datiem ir nepieciešamas vismaz 8 stundas, lai sasniegtu budžetu sistēmu. Ņemot vērā šo, brīdinājumi var ilgt līdz 12 stundām pēc sliekšņa pārsniegšanas.
+**Kad ir paredzams, ka saņemsit brīdinājumu, kad pārsniegšu kādu no maniem definētajiem budžeta brīdinājumu sliekšņiem?**  
+Budžeti tiek novērtēti ik pēc 4 stundām. Lai lietojuma dati sasniegtu budžeta sistēmu, ir nepieciešamas vismaz 8 stundas. Pēc šī brīdinājuma pārsniegšanas var paiet pat 12 stundas, līdz pārsniegsiet slieksni.
 
-**Kāpēc, atlasot mēneša vai norēķinu mēneša atiestates periodu, ir atspējota poga sākuma datums?**  
-Budžeti tiek līdzināti uz pašreizējo kalendāra mēnesi vai pašreizējo norēķinu periodu (ja ir atlasīts norēķinu mēnesis). Tāpēc šī vērtība ir iepriekš aizpildīta.
+**Kāpēc poga Sākuma datums ir atspējota, kad atlasu mēneša vai norēķinu mēneša atiestatīšanas periodu?**  
+Budžeti ir saskaņoti ar pašreizējo kalendāra mēnesi vai pašreizējo norēķinu periodu (gadījumā, ja ir atlasīts Norēķinu mēnesis). Tāpēc mēs iepriekš aizpildajam šo vērtību jūsu lietošanai.
 
-**Kāpēc budžeta izveides pieredzē nav redzama mana izmaksu grafika?**  
-Lai varētu izveidot diagrammu, kas jums palīdzēs ar budžeta izveidi, mums ir nepieciešami vismaz 2 mēnešus.
+**Kāpēc es neredzu savu izmaksu diagrammu budžeta izveides pieredzē?**  
+Lai varētu atveidot diagrammu, kas palīdzēs izveidot budžetu, mums ir nepieciešami vismaz 2 mēnešu izmaksu dati.
 
-**Kāpēc nevaru iestatīt budžetu uz tikko izveidoto abonementu?**  
-Pēc abonementa izveides datu darbība ilgst 24-48 stundas, pirms tiek iestatīts budžets pret to.
+**Kāpēc es nevaru iestatīt budžetu tikko izveidotam abonementam?**  
+Pēc abonementa izveides dati tiek apstrādāti 24–48 stundas pirms budžeta iestatīšanas.
 
 **Budžeta API resursi**
 
-- [Budžets API V1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): nodrošina darbības, lai izveidotu un atjauninātu budžetus. Izmantojot API budžeti, varat iestatīt budžeta slieksni un konfigurēt vairākus brīdinājumus, lai tie tiktu palaisti, kad tuvojas šis slieksnis. Brīdinājumi var izraisīt e-pasta vai Azure darbību grupu, lai veiktu automatizāciju. Piezīme. Šī API filtrēšana netiek līdzināta ar vaicājumu API filtrēšanu/dimensijām.
-- [Budžeti API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): izveidojiet budžetu ar lielākām izmaksu filtrēšanas iespējām nekā V1. Filtrēšana tiek līdzināta atbilstoši mūsu vaicājumu un dimensiju API izmantotajam līgumam. Šis ir ieteicamais budžets API, kas jāizmanto, lai pārietu uz priekšu.
-- [Dimensions](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): nodrošina darbības, lai iegūtu atbalstītos izmērus jūsu lietojumam dažādos tvērumos. Izmantojot dimensiju API, varat izgūt to dimensiju sarakstu, ko var izmantot kā ievades vaicājumu ģenerēšanai ar vaicājuma API.
-- [Vaicājums](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): nodrošina darbības, lai iegūtu apkopotu izmaksas un lietojuma datus, pamatojoties uz jūsu sniegto vaicājumu. Izmantojot vaicājumu API, varat norādīt vēlamo filtrēšanu, kārtošanu un grupēšanu visās pieejamajās dimensijās (kam piekļūst no izmēriem API).
+- [Budžeta API v1 :](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support)nodrošina darbības, lai izveidotu un atjauninātu budžetus. Izmantojot budžeta API, varat iestatīt budžeta slieksni un konfigurēt vairākus brīdinājumus, lai tie parādītos, tuvojoties šim slieksnim. Brīdinājumi var aktivizēt e-pasta ziņojumu vai Azure darbību grupu, lai veiktu automatizāciju. Piezīme. Šī API filtrēšana netiek izlīdzināta ar vaicājuma API filtrēšanu/dimensijām.
+- [Budgets API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): Izveidojiet budžetus ar lielākām izmaksu filtrēšanas iespējām nekā v1. Filtrēšana atbilst mūsu vaicājumu un dimensiju API izmantotajiem līgumiem. Šis ir ieteicamais budžeta API pārvietošanai uz priekšu.
+- [Dimensijas](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): nodrošina darbības, lai iegūtu atbalstītās dimensijas jūsu lietojumam dažādos tvērumos. Izmantojot dimensiju API, varat izgūt dimensiju sarakstu, ko var izmantot kā ievadi vaicājumu ģenerēšanas vaicājumiem, izmantojot vaicājuma API.
+- [Vaicājums:](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support)nodrošina darbības, lai iegūtu apkopotus izmaksu un lietojuma datus, pamatojoties uz jūsu nodrošināto vaicājumu. Izmantojot vaicājuma API, varat norādīt vēlamo filtrēšanu, kārtošanu un grupēšanu pēc visām pieejamajām dimensijām (piekļūstot no dimensiju API).
 
 **Prognozētās izmaksas**
 
-**Kāpēc es neredzu prognozes par izmaksām izmaksu analīzē?**  
-Pastāv vairāki iemesli, kāpēc, veicot izmaksu analīzi, trūkst prognozes prognozes, daži no tiem ir šādi:
+**Kāpēc izmaksu analīzē nav redzamas manu izmaksu prognozes?**  
+Ir vairāki iemesli, kādēļ izmaksu analīzē trūkst prognozes prognožu, daži no tiem ir šādi:
 
-1. Ja jūsu izmaksas dati ir jaunāki par 10 dienām, prognozes diagramma netiks ielādēta. Modelim ir nepieciešamas vismaz 10 dienas no pēdējiem izmaksu datiem precīzas prognozes
-2. Ja ir atlasīti vēsturiskie datumi, prognozes diagramma nebūs redzama. Lūdzu, atlasiet datumu diapazonu, kurā tiks parādīti prognozes diagrammas nākamie datumi
-3. Ja jūsu kontam ir vairākas valūtas, prognozes diagramma sedz tikai projekta izmaksas par "visām izmaksām USD"
+1. Ja izmaksu dati ir mazāki par 10 dienām, prognozes diagramma netiks ielādēta. Lai modelī varētu izmantot precīzas projekcijas, ir nepieciešamas vismaz 10 dienas pēdējo izmaksu datu
+2. Ja esat atlasījis vēsturiskos datumus, prognozes diagramma nebūs redzama. Lūdzu, atlasiet datumu diapazonu ar prognozes diagrammas nākotnes datumiem
+3. Ja jūsu kontam ir vairākas valūtas, prognozes diagrammā tiks prognozētas tikai projekta izmaksas "Visas izmaksas USD"
 
-**Kāpēc prognozes netiek mainītas, kad veicu izmaiņas manos resursos?**  
-Prognozes modelim ir nepieciešamas pāris dienas, lai kontā veiktu izmaiņas kontā, un neveic tūlītējus projekcijas, pamatojoties uz izmaiņām resursos.  
-Lai palielinātu vai samazinātu resursu palielināšanas darbības, modelim ir nepieciešams mazliet ilgāks laiks, lai pielāgotos šīm izmaiņām kontā, kas nav anomālijas
+**Kāpēc prognoze nemainās, veicot izmaiņas resursos?**  
+Prognozes modelī ir nepieciešamas pāris dienas, lai ņemti vērā konta izmaiņas, un netiek veiktas tūlītējas projekcijas, ņemot vērā resursu izmaiņas  
+Lielāku resursu palielināšanas vai samazināšanas darbību gadījumā modelī būs nepieciešams mazliet ilgāks laiks, lai pielāgotu šīs izmaiņas attiecībā uz anomālijām
 
-**Kāpēc mana prognoze palielinās pēc rezervācijas vai Marketplace iegādes?**  
-Prognozes modelī ir ņemta vērā jūsu faktiskā pašizmaksa, un tas nenodrošina izmantošanu un iegādi atsevišķi. Vienreizēja pirkuma gadījumā modelis samazinās prognozes pēc 10 dienām, lai pieskaitītu pēkšņo izmaksu pieaugumu
+**Kāpēc mana prognoze palielinās pēc tam, kad veicu rezervāciju vai Marketplace pirkumu?**  
+Prognozes modelī tiek ņemti vērā jūsu "faktiskās izmaksas", un tas neattiecas uz lietojumu un iegādi atsevišķi. Ja iegādājaties vienreizēju pirkumu, pēc 10 dienām modelis samazinās projekcijas, ja pēkšņi palielināsies izmaksas
 
-**Vēlos redzēt prognozes vienai dimensijai (piemēram,. Mērītājs**  
-Prognoze pašlaik atbalsta kopējās izmaksu prognozes, nevis atsevišķiem skaitītājiem. Līdz ar to, kad ir sagrupēts pēc dimensijas, prognozes būs visu dimensiju vienumu kopskaits
+**Vēlos skatīt prognozes atsevišķai dimensijai (piemēram, Metrs)**  
+Prognoze pašlaik atbalsta kopējo izmaksu projekcijas, nevis atsevišķus metriem. Tādējādi, ja dimensija tiek "grupēta pēc", projekcijas tiks prognozētas visu dimensijas elementu kopsummai.
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
 - [Kas ir Azure izmaksu pārvaldība?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure izmaksu pārvaldības labākā prakse](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Izmaksu un izdevumu analīze](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Pētīt un analizēt izmaksas ar izmaksu analīzi](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure izmaksu pārvaldības paraugprakse](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Analizējiet savas izmaksas un izdevumus](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Izpētiet un analizējiet izmaksas, izmantojot izmaksu analīzi](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Azure izmaksu pārvaldība: cenas](https://azure.microsoft.com/services/cost-management/#pricing)
-- [Izmaksu analīzes izmaksas](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [Video apmācība: budžeta izveide Azure portālā](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
-- [Budžeta skatīšanas un pielāgošanas priekšnoteikumi](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
+- [Pārskatīt izmaksas izmaksu analīzē](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
+- [Video apmācība: Budžeta izveide Azure portālā](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [Budžeta skatīšanas un pielāgošanas priekšnosacījumi](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
 - [Budžetu izveide un pārvaldība](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [Automatizācijas konfigurēšana, izmantojot Azure darbību grupas un budžetu API](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
-- [Izmaksu brīdinājumu izmantošana, lai pārraudzītu lietojumu un tēriņus](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Automatizācijas konfigurēšana, izmantojot Azure darbību grupas un budžeta API](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [Brīdinājumu par izmaksām izmantošana, lai pārraudzītu lietojumu un izdevumus](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Izmaksu pārvaldības paraugprakse](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Apmācības video**
+**Apmācību video**
 
 - [Budžeta izveide Azure portālā](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [Pārvaldīt izmaksas ar budžetu API un darbību grupām](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [Pārvaldiet izmaksas, izmantojot budžeta API un darbību grupas](https://go.microsoft.com/fwlink/?linkid=2147038)

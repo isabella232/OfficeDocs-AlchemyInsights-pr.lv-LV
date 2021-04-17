@@ -2,7 +2,7 @@
 title: Ārējo lietotāju pievienošana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: b54a5f9eb53d777eb97cc5523a4ed3b64a4a5812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ac235dd78f942dac4e9ec52af202d97439e61a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663448"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822102"
 ---
 # <a name="adding-external-users"></a>Ārējo lietotāju pievienošana
 
-Darbības, kas jāveic, lai pievienotu ārējos/viesu lietotājus, var atšķirties atkarībā no tā, kas jums ir nepieciešams, lai varētu piekļūt. Izvēlieties kādu no tālāk norādītajām opcijām.
+Ārējo/viesa lietotāju pievienošanas darbības var atšķirties atkarībā no tā, kas viņiem ir nepieciešams, lai varētu tiem piekļūt. Izvēlieties kādu no šīm opcijām:
   
 - [SharePoint Online ārējās koplietošanas pārskats](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Viesu piekļuve programmā Microsoft 365 groups](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Viesu piekļuve Microsoft 365 grupās](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Viesu piekļuve pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Viesu piekļuve lietojumprogrammā Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

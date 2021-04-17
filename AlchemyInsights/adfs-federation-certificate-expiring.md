@@ -1,8 +1,8 @@
 ---
-title: ADFS Federācijas sertifikāta derīguma termiņš beidzas
+title: ADFS federācijas sertifikāta derīguma termiņš beidzas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: a3172bc402a22999a3bf963233cc26db1ddf2a03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821958"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS Federācijas sertifikāta derīguma termiņš beidzas
+# <a name="adfs-federation-certificate-expiring"></a>ADFS federācijas sertifikāta derīguma termiņš beidzas
 
-Lai atrisinātu šo problēmu, veiciet tālāk norādītās darbības.
+Lai novērstu šo problēmu, veiciet tālāk norādītās darbības.
   
-1. Instalējiet Microsoft Azure Active Directory moduli, kas paredzēts Windows PowerShell datorā (ja modulis jau nav instalēts). Lai to izdarītu, dodieties uz [AZURE ad pārvaldība, izmantojot Windows PowerShell](https://aka.ms/aadposh).
+1. Instalējiet datorā Microsoft Azure Active Directory moduli čaulai Windows PowerShell (ja modulis vēl nav instalēts). Lai to izdarītu, dodieties uz [Azure AD pārvaldība, izmantojot Windows PowerShell.](https://aka.ms/aadposh)
 
-2. Rīkojieties saskaņā ar darbībām, kas aprakstītas sadaļā "1. scenārijs: AD FS pilnvaru parakstīšanas sertifikāta derīgums" [ir radusies problēma, piekļūstot vietnei "kļūdas ziņojums no AD FS, kad ārējs lietotājs pierakstās pakalpojumā Microsoft 365, Azure vai Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Izpildiet darbības sadaļā "1. scenārijs: AD FS pilnvaru parakstīšanas sertifikāta derīgums beidzies" rakstā Kļūda "Piekļūstot vietnei, radās problēma" no AD FS, kad federatīvs lietotājs pierakstās pakalpojumā [Microsoft 365, Azure vai Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
-3. Izpildiet darbības, kas aprakstītas rakstā [Microsoft, Azure vai Intune integrētās domēna iestatījumu atjaunināšana vai labošana](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Izpildiet rakstā [Federatīvā domēna Microsoft, Azure vai Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)iestatījumu atjaunināšana vai labošana minētās darbības.
 
-    Papildinformāciju par Federācijas sertifikātu atjaunošanu skatiet rakstā [Microsoft 365 un Azure Active Directory Federācijas sertifikātu atjaunošana](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Papildinformāciju par federācijas sertifikātu atjaunošanu skatiet rakstā [Microsoft 365 federācijas](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)sertifikātu atjaunošana un Azure Active Directory.
