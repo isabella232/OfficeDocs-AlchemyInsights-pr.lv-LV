@@ -1,8 +1,8 @@
 ---
-title: Maksāšana ar kvīti
+title: Apmaksa ar Boleto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5aa793fd39e4c36798dab7104e63e14192c42c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751754"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829095"
 ---
-# <a name="como-pagar-com-boleto"></a><span data-ttu-id="0bea6-102">Como pagar com boleto</span><span class="sxs-lookup"><span data-stu-id="0bea6-102">Como pagar com boleto</span></span>
+# <a name="como-pagar-com-boleto"></a><span data-ttu-id="4272f-102">Como pagar com boleto</span><span class="sxs-lookup"><span data-stu-id="4272f-102">Como pagar com boleto</span></span>
 
-<span data-ttu-id="0bea6-103">**Como pagar minha fatura**</span><span class="sxs-lookup"><span data-stu-id="0bea6-103">**Como pagar minha fatura**</span></span>
+<span data-ttu-id="4272f-103">**Como pagar minha fatura**</span><span class="sxs-lookup"><span data-stu-id="4272f-103">**Como pagar minha fatura**</span></span>
 
-<span data-ttu-id="0bea6-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span><span class="sxs-lookup"><span data-stu-id="0bea6-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span></span>
+<span data-ttu-id="4272f-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span><span class="sxs-lookup"><span data-stu-id="4272f-104">Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.</span></span>
 
-<span data-ttu-id="0bea6-105">**Como pagar com  boleto**</span><span class="sxs-lookup"><span data-stu-id="0bea6-105">**Como pagar com  boleto**</span></span>
+<span data-ttu-id="4272f-105">**Como pagar com  boleto**</span><span class="sxs-lookup"><span data-stu-id="4272f-105">**Como pagar com  boleto**</span></span>
 
-<span data-ttu-id="0bea6-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span><span class="sxs-lookup"><span data-stu-id="0bea6-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span></span> <span data-ttu-id="0bea6-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span><span class="sxs-lookup"><span data-stu-id="0bea6-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span></span> 
+<span data-ttu-id="4272f-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span><span class="sxs-lookup"><span data-stu-id="4272f-106">Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido.</span></span> <span data-ttu-id="4272f-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span><span class="sxs-lookup"><span data-stu-id="4272f-107">Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados.</span></span> 

@@ -2,31 +2,32 @@
 title: Partnera dzēšana abonementam
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5064"
-ms.openlocfilehash: cea3980bbac64109b8d3c5258c49849c1bbad848
-ms.sourcegitcommit: a9e6b2fcce8bd12fd079ed967f426b67d5c6d239
+ms.openlocfilehash: ec500ac54c3bd610bf83d1f1e237a5e5f2d3c557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43928359"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828843"
 ---
-# <a name="remove-a-partner-from-a-subscription"></a><span data-ttu-id="b0529-102">Partnera dzēšana abonementam</span><span class="sxs-lookup"><span data-stu-id="b0529-102">Remove a partner from a subscription</span></span>
+# <a name="remove-a-partner-from-a-subscription"></a><span data-ttu-id="9a330-102">Partnera dzēšana abonementam</span><span class="sxs-lookup"><span data-stu-id="9a330-102">Remove a partner from a subscription</span></span>
 
-<span data-ttu-id="b0529-103">Partnerus var dzēst no jūsu abonementa **Microsoft 365 administrēšanas centrā**.</span><span class="sxs-lookup"><span data-stu-id="b0529-103">Partners can be deleted from your subscription in the **Microsoft 365 Admin Center**.</span></span> <span data-ttu-id="b0529-104">Tālākpārdevēja attiecības pats **noņemt** nevarat.</span><span class="sxs-lookup"><span data-stu-id="b0529-104">You **can't** remove a reseller relationship yourself.</span></span> <span data-ttu-id="b0529-105">Jums būs jāprasa savam tālākpārdevējam izpildīt norādījumus: [Tālākpārdevēja attiecību noņemšana kopā ar partneri](https://docs.microsoft.com/partner-center/remove-a-relationship).</span><span class="sxs-lookup"><span data-stu-id="b0529-105">You will have to ask your reseller partner to follow the instructions to [Remove a reseller relationship with partner](https://docs.microsoft.com/partner-center/remove-a-relationship).</span></span>
+<span data-ttu-id="9a330-103">Partnerus var dzēst no jūsu abonementa **Microsoft 365 administrēšanas centrā**.</span><span class="sxs-lookup"><span data-stu-id="9a330-103">Partners can be deleted from your subscription in the **Microsoft 365 Admin Center**.</span></span> <span data-ttu-id="9a330-104">Tālākpārdevēja attiecības pats **noņemt** nevarat.</span><span class="sxs-lookup"><span data-stu-id="9a330-104">You **can't** remove a reseller relationship yourself.</span></span> <span data-ttu-id="9a330-105">Jums būs jāprasa savam tālākpārdevējam izpildīt norādījumus: [Tālākpārdevēja attiecību noņemšana kopā ar partneri](https://docs.microsoft.com/partner-center/remove-a-relationship).</span><span class="sxs-lookup"><span data-stu-id="9a330-105">You will have to ask your reseller partner to follow the instructions to [Remove a reseller relationship with partner](https://docs.microsoft.com/partner-center/remove-a-relationship).</span></span>
 
-<span data-ttu-id="b0529-106">**Partnera dzēšana abonementam**</span><span class="sxs-lookup"><span data-stu-id="b0529-106">**Delete a partner from a subscription**</span></span>
+<span data-ttu-id="9a330-106">**Partnera dzēšana abonementam**</span><span class="sxs-lookup"><span data-stu-id="9a330-106">**Delete a partner from a subscription**</span></span>
 
-1. <span data-ttu-id="b0529-107">Administrēšanas centrā dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="b0529-107">In the admin center, got to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="b0529-108">Ja jums ir vairāki abonementi, atlasiet tā abonementa nosaukumu, kuru vēlaties rediģēt.</span><span class="sxs-lookup"><span data-stu-id="b0529-108">If you have multiple subscriptions, select the name of the subscription you want to edit.</span></span>
-3. <span data-ttu-id="b0529-109">Sadaļā **Partnera ID** noklikšķiniet uz **Rediģēt ieraksta partneri**.</span><span class="sxs-lookup"><span data-stu-id="b0529-109">Under the **Partner ID**, click **Edit partner of record**.</span></span>
-4. <span data-ttu-id="b0529-110">Lapā **Partnera informācija** notīriet rūtiņu **partnera ID** un pēc tam noklikšķiniet uz **Iesniegt**.</span><span class="sxs-lookup"><span data-stu-id="b0529-110">On the **Partner information** page, clear the **partner ID** box, and then click **Submit**.</span></span>
+1. <span data-ttu-id="9a330-107">Administrēšanas centrā dodieties uz **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="9a330-107">In the admin center, got to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+2. <span data-ttu-id="9a330-108">Ja jums ir vairāki abonementi, atlasiet tā abonementa nosaukumu, kuru vēlaties rediģēt.</span><span class="sxs-lookup"><span data-stu-id="9a330-108">If you have multiple subscriptions, select the name of the subscription you want to edit.</span></span>
+3. <span data-ttu-id="9a330-109">Sadaļā **Partnera ID** noklikšķiniet uz **Rediģēt ieraksta partneri**.</span><span class="sxs-lookup"><span data-stu-id="9a330-109">Under the **Partner ID**, click **Edit partner of record**.</span></span>
+4. <span data-ttu-id="9a330-110">Lapā **Partnera informācija** notīriet rūtiņu **partnera ID** un pēc tam noklikšķiniet uz **Iesniegt**.</span><span class="sxs-lookup"><span data-stu-id="9a330-110">On the **Partner information** page, clear the **partner ID** box, and then click **Submit**.</span></span>
 
-<span data-ttu-id="b0529-111">Papildinformāciju skatiet rakstā [Abonementu padomdevēja partnera pievienošana, mainīšana vai dzēšana](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="b0529-111">For more info, see [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span></span>
+<span data-ttu-id="9a330-111">Papildinformāciju skatiet rakstā [Abonementu padomdevēja partnera pievienošana, mainīšana vai dzēšana](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="9a330-111">For more info, see [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).</span></span>
