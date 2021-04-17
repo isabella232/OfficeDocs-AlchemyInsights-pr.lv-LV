@@ -1,8 +1,8 @@
 ---
-title: Grupas derīguma termiņš un atjaunošana pakalpojumā Microsoft Teams
+title: Komandas derīguma beigas un atjaunošana lietojumprogrammā Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364759"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827907"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a><span data-ttu-id="38a0a-102">Grupas derīguma termiņš un atjaunošana pakalpojumā Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="38a0a-102">Team expiration and renewal in Microsoft Teams</span></span>
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a><span data-ttu-id="1aa07-102">Komandas derīguma beigas un atjaunošana lietojumprogrammā Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1aa07-102">Team expiration and renewal in Microsoft Teams</span></span>
 
-<span data-ttu-id="38a0a-103">Grupas derīguma termiņš un atjaunošana pakalpojumā Microsoft Teams var palīdzēt pārvaldīt neizmantotās grupas.</span><span class="sxs-lookup"><span data-stu-id="38a0a-103">Team expiration and renewal in Microsoft Teams can help manage unused teams.</span></span> <span data-ttu-id="38a0a-104">Kā administrators varat izmantot  [Microsoft 365 grupas termiņa politiku](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  , lai automātiski notīrītu neizmantotās grupas.</span><span class="sxs-lookup"><span data-stu-id="38a0a-104">As an admin, you can use  [Microsoft 365 group expiration policy](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  to automatically clean up unused teams.</span></span> <span data-ttu-id="38a0a-105">Tā kā grupas ir dublētas grupās, grupu termiņu politika automātiski attiecas arī uz grupām.</span><span class="sxs-lookup"><span data-stu-id="38a0a-105">Because teams are backed by groups, group expiration policies automatically apply to teams as well.</span></span>
+<span data-ttu-id="1aa07-103">Komandas derīguma beigu termiņš un atjaunošana lietojumprogrammā Microsoft Teams var palīdzēt pārvaldīt neizmantotās grupas.</span><span class="sxs-lookup"><span data-stu-id="1aa07-103">Team expiration and renewal in Microsoft Teams can help manage unused teams.</span></span> <span data-ttu-id="1aa07-104">Kā administrators varat izmantot  [Microsoft 365 grupu](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  derīguma termiņa politiku, lai automātiski notīrītu neizmantotās grupas.</span><span class="sxs-lookup"><span data-stu-id="1aa07-104">As an admin, you can use  [Microsoft 365 group expiration policy](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  to automatically clean up unused teams.</span></span> <span data-ttu-id="1aa07-105">Tā kā grupas atbalsta grupas, grupu termiņa beigu politikas automātiski attiecas arī uz grupām.</span><span class="sxs-lookup"><span data-stu-id="1aa07-105">Because teams are backed by groups, group expiration policies automatically apply to teams as well.</span></span>
 
-<span data-ttu-id="38a0a-106">Lai izvairītos no nejaušas dzēšanas, automātiska atjaunošanās ir automātiski iespējota grupai grupas derīguma termiņa politikā.</span><span class="sxs-lookup"><span data-stu-id="38a0a-106">To prevent accidental deletion, auto-renewal is automatically enabled for a team in the group expiration policy.</span></span> <span data-ttu-id="38a0a-107">Kad grupas derīguma politika ir iestatīta, jebkura darba grupa, kurai ir vismaz viens kanālu apmeklējums no jebkura grupas dalībnieka, pirms tā beigu datuma, tiek automātiski atjaunota bez manuālas darba grupas īpašnieka iejaukšanās.</span><span class="sxs-lookup"><span data-stu-id="38a0a-107">When the group expiration policy is set up, any team that has at least one channel visit from any team member before its expiration date is automatically renewed without any manual intervention from the team owner.</span></span>  
+<span data-ttu-id="1aa07-106">Lai novērstu nejaušu dzēšanu, grupas derīguma termiņa politikā automātiskās atjaunošanas līdzeklis tiek automātiski iespējots grupai.</span><span class="sxs-lookup"><span data-stu-id="1aa07-106">To prevent accidental deletion, auto-renewal is automatically enabled for a team in the group expiration policy.</span></span> <span data-ttu-id="1aa07-107">Kad ir iestatīta grupas derīguma termiņa politika, jebkura grupa, kam ir vismaz viens kanāla apmeklējums no jebkura darba grupas dalībnieka, pirms tā beigu datums tiek automātiski atjaunota bez darba grupas īpašnieka manuālas iejaukšanās.</span><span class="sxs-lookup"><span data-stu-id="1aa07-107">When the group expiration policy is set up, any team that has at least one channel visit from any team member before its expiration date is automatically renewed without any manual intervention from the team owner.</span></span>  
 
-<span data-ttu-id="38a0a-108">Papildinformāciju skatiet sadaļā  [grupas termiņš un atjaunošana pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .</span><span class="sxs-lookup"><span data-stu-id="38a0a-108">See  [Team expiration and renewal in Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  for more information.</span></span>
+<span data-ttu-id="1aa07-108">Papildinformāciju skatiet rakstā Komandas derīguma termiņš un atjaunošana lietojumprogrammā [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)</span><span class="sxs-lookup"><span data-stu-id="1aa07-108">See  [Team expiration and renewal in Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  for more information.</span></span>
