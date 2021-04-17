@@ -1,25 +1,26 @@
 ---
-title: Bloķēt failu lejupielādi, izmantojot Azure AD ierobežotu piekļuvi
+title: Faila lejupielādes bloķēšana, izmantojot Azure AD nosacīto piekļuvi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: 284c82d3f7e3e75ad1ac2f502df11cd682781566
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: MT
+ms.openlocfilehash: 9c18d711616e8ae7f1ba469b95524818f0f2a5b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357992"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820221"
 ---
-# <a name="block-file-download-with-azure-ad-conditional-access"></a><span data-ttu-id="6e2f0-102">Bloķēt failu lejupielādi, izmantojot Azure AD ierobežotu piekļuvi</span><span class="sxs-lookup"><span data-stu-id="6e2f0-102">Block file download with Azure AD conditional access</span></span>
+# <a name="block-file-download-with-azure-ad-conditional-access"></a><span data-ttu-id="0c0bd-102">Faila lejupielādes bloķēšana, izmantojot Azure AD nosacīto piekļuvi</span><span class="sxs-lookup"><span data-stu-id="0c0bd-102">Block file download with Azure AD conditional access</span></span>
 
-<span data-ttu-id="6e2f0-103">Mākoņa lietojumprogrammas drošības sesijas politika ļauj ierobežot sesiju, pamatojoties uz ierīces stāvokli.</span><span class="sxs-lookup"><span data-stu-id="6e2f0-103">Cloud App Security session policies allow you to restrict a session based on device state.</span></span> <span data-ttu-id="6e2f0-104">Lai veiktu sesijas vadību, izmantojot ierīci kā nosacījumu, izveidojiet gan ierobežotas piekļuves politiku, gan sesijas politiku.</span><span class="sxs-lookup"><span data-stu-id="6e2f0-104">To accomplish control of a session using its device as a condition, create both a conditional access policy AND a session policy.</span></span>
+<span data-ttu-id="0c0bd-103">Cloud App Security sesiju politikas ļauj ierobežot sesiju atbilstoši ierīces stāvoklim.</span><span class="sxs-lookup"><span data-stu-id="0c0bd-103">Cloud App Security session policies allow you to restrict a session based on device state.</span></span> <span data-ttu-id="0c0bd-104">Lai veiktu sesijas vadību, izmantojot atbilstošo ierīci kā nosacījumu, izveidojiet nosacītās piekļuves politiku UN sesijas politiku.</span><span class="sxs-lookup"><span data-stu-id="0c0bd-104">To accomplish control of a session using its device as a condition, create both a conditional access policy AND a session policy.</span></span>
 
-- [<span data-ttu-id="6e2f0-105">Bloķēt failu lejupielādi, izmantojot Azure AD ierobežotu piekļuvi</span><span class="sxs-lookup"><span data-stu-id="6e2f0-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [<span data-ttu-id="0c0bd-105">Faila lejupielādes bloķēšana, izmantojot Azure AD nosacīto piekļuvi</span><span class="sxs-lookup"><span data-stu-id="0c0bd-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
