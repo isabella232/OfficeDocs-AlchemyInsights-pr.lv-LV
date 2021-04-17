@@ -1,8 +1,8 @@
 ---
-title: SFBO pensija
+title: SFBO pensijas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: 1945a7be3c4b2f4b926f754ff57dd1c25ae6d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6fe8cb8067b5aa121f8cf88ab56d7fbeb7b0b72d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739472"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835458"
 ---
-# <a name="skype-for-business-online-retirement"></a><span data-ttu-id="735e6-102">Skype darbam Online pensija</span><span class="sxs-lookup"><span data-stu-id="735e6-102">Skype for Business Online retirement</span></span>
+# <a name="skype-for-business-online-retirement"></a><span data-ttu-id="7576e-102">Skype darbam Online pensijas</span><span class="sxs-lookup"><span data-stu-id="7576e-102">Skype for Business Online retirement</span></span>
 
-<span data-ttu-id="735e6-103">Lai iegūtu informāciju par Skype darbam Online pensionēšanos, lūdzu, skatiet [šo rakstu](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span><span class="sxs-lookup"><span data-stu-id="735e6-103">For information regarding the retirement of Skype for Business Online, please see [this article](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span></span>
+<span data-ttu-id="7576e-103">Informāciju par Skype darbam Online aiziešanu no darba skatiet [šajā rakstā.](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)</span><span class="sxs-lookup"><span data-stu-id="7576e-103">For information regarding the retirement of Skype for Business Online, please see [this article](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span></span>
 
-<span data-ttu-id="735e6-104">Piezīme: Šis paziņojums neskar Skype darbam telpās.</span><span class="sxs-lookup"><span data-stu-id="735e6-104">Note: Skype for Business on premises is NOT affected by this announcement.</span></span> 
+<span data-ttu-id="7576e-104">Piezīme. Šis paziņojums neietekmē Skype darbam lokālajā vidē.</span><span class="sxs-lookup"><span data-stu-id="7576e-104">Note: Skype for Business on premises is NOT affected by this announcement.</span></span> 

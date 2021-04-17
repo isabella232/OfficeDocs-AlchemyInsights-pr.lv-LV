@@ -1,8 +1,8 @@
 ---
-title: Ārējas koplietošanas ieslēgšana vai izslēgšana vietnē
+title: Ārējās koplietošanas ieslēgšana vai izslēgšana vietnē
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 24d170132070008b9c78aca39a0208f028e639b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797159"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834666"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="80a5c-102">Ārējas koplietošanas ieslēgšana vai izslēgšana vietnē</span><span class="sxs-lookup"><span data-stu-id="80a5c-102">Turn external sharing on or off for a site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="fe333-102">Ārējās koplietošanas ieslēgšana vai izslēgšana vietnē</span><span class="sxs-lookup"><span data-stu-id="fe333-102">Turn external sharing on or off for a site</span></span>
 
-<span data-ttu-id="80a5c-103">Lai mainītu vietnes ārējās koplietošanas iestatījumu (iepriekš dēvēta par "vietņu kolekciju"), jums ir jābūt globālajam vai SharePoint administratoram.</span><span class="sxs-lookup"><span data-stu-id="80a5c-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="80a5c-104">Vietņu īpašniekiem nav atļauts mainīt šo iestatījumu.</span><span class="sxs-lookup"><span data-stu-id="80a5c-104">Site owners are not allowed to change this setting.</span></span> 
+<span data-ttu-id="fe333-103">Lai mainītu vietnes ārējās koplietošanas iestatījumu (iepriekš dēvēta par "vietņu kolekciju"), jums ir jābūt globālajam vai SharePoint administratoram.</span><span class="sxs-lookup"><span data-stu-id="fe333-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="fe333-104">Vietņu īpašniekiem nav atļauts mainīt šo iestatījumu.</span><span class="sxs-lookup"><span data-stu-id="fe333-104">Site owners are not allowed to change this setting.</span></span> 
 
-<span data-ttu-id="80a5c-105">Papildinformāciju skatiet rakstā [ārējas koplietošanas ieslēgšana vai izslēgšana vietnē](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span><span class="sxs-lookup"><span data-stu-id="80a5c-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
+<span data-ttu-id="fe333-105">Papildinformāciju skatiet [rakstā Ārējās koplietošanas ieslēgšana vai izslēgšana vietnē.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)</span><span class="sxs-lookup"><span data-stu-id="fe333-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>

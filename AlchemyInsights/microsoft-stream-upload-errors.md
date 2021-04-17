@@ -2,7 +2,7 @@
 title: Microsoft Stream augšupielādes kļūdas
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5094"
-ms.openlocfilehash: 25adfcf9df258c29b21f78e37ce4247ba5bdc61b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6f0f9cc6a65be912b72431b4b4824011faef0f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675269"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833910"
 ---
-# <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="49d68-102">Microsoft Stream augšupielādes kļūdas</span><span class="sxs-lookup"><span data-stu-id="49d68-102">Microsoft Stream upload errors</span></span>
+# <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="92154-102">Microsoft Stream augšupielādes kļūdas</span><span class="sxs-lookup"><span data-stu-id="92154-102">Microsoft Stream upload errors</span></span>
 
-<span data-ttu-id="49d68-103">Ja saņemat augšupielādes kļūdas pakalpojumā Microsoft Stream, skatiet rakstu [plūsmas augšupielādes kļūdu novēršana](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span><span class="sxs-lookup"><span data-stu-id="49d68-103">If you are receiving upload errors in Microsoft Stream, please see [Stream upload errors](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span></span>
+<span data-ttu-id="92154-103">Ja pakalpojumā Microsoft Stream saņemat augšupielādes kļūdas, skatiet rakstu [Augšupielādes kļūdu straumēšana.](https://docs.microsoft.com/stream/portal-understanding-upload-errors)</span><span class="sxs-lookup"><span data-stu-id="92154-103">If you are receiving upload errors in Microsoft Stream, please see [Stream upload errors](https://docs.microsoft.com/stream/portal-understanding-upload-errors).</span></span>
