@@ -1,29 +1,31 @@
 ---
-title: Aizstāt SharePoint saknes vietni
+title: SharePoint saknes vietnes aizstāšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493293"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826782"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>Aizstāt SharePoint saknes vietni
-Ja jūs meklējat modernizēt savu saknes vietni ar esošo vietni vai vienkārši vēlaties, lai būtu citā vietā saknes vietnes līmenī, jūs varat izvēlēties, lai aizstātu (mijmaiņas) vietās.
+# <a name="replace-the-sharepoint-root-site"></a>SharePoint saknes vietnes aizstāšana
+Ja vēlaties modernizēt saknes vietni ar esošu vietni vai vienkārši vēlaties izmantot citu vietni saknes vietnes līmenī, varat izvēlēties aizstāt (samainīt) vietnes.
 
-1. Izmantojot jauno SharePoint administrēšanas centru, pārejiet uz sadaļu [aktīvās vietnes](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. Izmantojot jauno SharePoint administrēšanas centru, dodieties uz [sadaļu Aktīvās vietnes.](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)
 2. Atlasiet saknes vietni, kuru vēlaties aizstāt.
-3. Atlasiet **aizstāt vietni**.
-4. Norādiet esošās vietnes vietrādi URL, ar kuru aizstāt. **Piezīme:** Jūs būsiet informēts, ja vietā var izmantot kā rezerves saknes vietnē.
+3. Atlasiet **Aizstāt vietni**.
+4. Norādiet esošās vietnes vietrādi URL, ar kuru aizstāt. **Piezīme.** Jūs tiksit informēts, ja vietni var izmantot kā aizstājējsaknes vietni.
 
-Lai iegūtu papildinformāciju par prasībām, skatiet sadaļu [savas saknes vietnes modernizācija](https://docs.microsoft.com/sharepoint/modern-root-site).
+Papildinformāciju par prasībām skatiet rakstā [Saknes vietnes modernizācija.](https://docs.microsoft.com/sharepoint/modern-root-site)
+
