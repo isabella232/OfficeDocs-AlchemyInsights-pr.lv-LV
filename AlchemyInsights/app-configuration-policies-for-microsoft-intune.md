@@ -1,25 +1,36 @@
 ---
-title: Lietojumprogrammas konfigurācijas politikas programmai Microsoft Intune
+title: Microsoft Intune programmu konfigurācijas politikas
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821337"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Lietojumprogrammas konfigurācijas politikas programmai Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Microsoft Intune programmu konfigurācijas politikas
 
-Programmu konfigurācijas politikas programmā Microsoft Intune nodrošina konfigurācijas iestatījumus iOS vai Android lietojumprogrammās. Šie konfigurācijas iestatījumi ļauj pielāgot lietojumprogrammu. Konfigurācijas politikas atbalstu ierobežo operētājsistēmu versijas un lietojumprogrammas.
+Programmu konfigurācijas politikas programmā Microsoft Intune tiek izmantotas, lai nodrošinātu konfigurācijas iestatījumus iOS vai Android lietojumprogrammām. Šie konfigurācijas iestatījumi ļauj pielāgot programmu. Ņemiet vērā, ka pastāv ierobežojumi attiecībā uz to, kuras operētājsistēmas versijas un kuras lietojumprogrammas atbalsta konfigurācijas politiku izmantošanu.
 
-Papildinformāciju skatiet rakstā [programmu konfigurācijas politikas programmai Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Detalizētu informāciju, lūdzu, skatiet tālāk norādīto dokumentāciju.
+
+[Microsoft Intune programmu konfigurācijas politikas](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Programmu konfigurācijas politiku pievienošana pārvaldītām iOS ierīcēm](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Programmu konfigurācijas politiku pievienošana pārvaldītām Android ierīcēm](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Pārvaldīto programmu konfigurācijas politiku pievienošana bez ierīces reģistrācijas](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

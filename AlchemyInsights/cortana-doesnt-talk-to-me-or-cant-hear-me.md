@@ -1,40 +1,41 @@
 ---
-title: Cortana nerunā ar mani vai nedzird mani
+title: Līdzeklis Cortana ar mani nerunā vai nedzird mani
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357758"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816531"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana nerunā ar mani vai nedzird mani
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Līdzeklis Cortana ar mani nerunā vai nedzird mani
 
-Ja mēģināt izmantot līdzekli "Hey Cortana", kas ļauj runāt ar Cortana, neatlasot pogu Cortana uzdevumjoslā vai mikrofona pogu panelī Cortana, apstipriniet, ka līdzeklis ir iespējots.
+Ja mēģināt izmantot līdzekli "Hey Cortana", kas ļauj runāt ar Cortana, neatlasot Cortana pogu uzdevumjoslā vai mikrofona pogu Cortana panelī, pārliecinieties, vai līdzeklis ir iespējots:
 
-1. Dodieties uz **Sākums**un pēc tam atlasiet **[Iestatījumi > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. Sadaļā **Hey Cortana**pārslēdziet pogu **ļaut līdzeklim Cortana reaģēt uz "Hey Cortana"** slēdzi **ieslēgts**.
+1. Atveriet **Sākums**, pēc tam atlasiet **[Iestatījumi > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. Sadaļā **Hey Cortana** pārslēdziet slēdzi Ļaut **Cortana atbildēt uz "Hey Cortana"** (Sveiks, Cortana), lai pārslēgtu uz **Ieslēgts**.
 
 ![Hey Cortana](media/hey-cortana.png)
 
-**Vai jūsu konfidencialitātes iestatījumi neļauj Cortana jūs dzirdēt?**
+**Vai jūsu konfidencialitātes iestatījumi neļauj līdzeklim Cortana jūs dzirdēt?**
 
 Jūsu konfidencialitātes iestatījumi var neļaut līdzeklim Cortana atbildēt uz jūsu balsi.
-- Pārbaudiet, vai ir ieslēgta tiešsaistes runas pazīšana:
-    - Dodieties uz **Sākums**un pēc tam noklikšķiniet uz **[iestatījumi > konfidencialitāte > runa](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - Sadaļā **tiešsaistes runas pazīšana**pārslēdziet iestatījumu uz **ieslēgts**.
+- Pārbaudiet, vai tiešsaistes runas atpazīšana ir ieslēgta:
+    - Atveriet Sākt **, pēc** tam noklikšķiniet uz Iestatījumi **[> konfidencialitāte > runas ievadi.](ms-settings:privacy-speech?activationSource=GetHelp)**
+    - Sadaļā **Tiešsaistes runas atpazīšana** pārslēdziet iestatījumu uz **Ieslēgts**.
 - Pārbaudiet, vai līdzeklim Cortana ir atļauja piekļūt jūsu mikrofonam. 
-    - Dodieties uz Sākums un pēc tam noklikšķiniet uz **[iestatījumi > konfidencialitāte > mikrofons](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - Sadaļā **izvēlēties, kuras programmas var piekļūt jūsu mikrofonam**meklējiet **Cortana** programmu un pakalpojumu sarakstā un pārliecinieties, vai slēdzis ir **pārslēgts uz ieslēgts**.
+    - Atveriet Sākt, pēc tam noklikšķiniet uz **[Iestatījumi > mikrofona > Mikrofons.](ms-settings:privacy-microphone?activationSource=GetHelp)**
+    - Sadaļā **Izvēlieties, kuras programmas** var piekļūt jūsu mikrofonam meklējiet **Cortana** programmu un pakalpojumu sarakstā un pārliecinieties, vai slēdzis ir pārslēgts uz **Ieslēgts**.
 
-Turklāt, lūdzu, pārliecinieties, ka jūsu skaļruņi vai mikrofoni ir izveidota un strādā, lai runātu ar Cortana.
+Turklāt, lūdzu, pārliecinieties arī, vai jūsu skaļruņi vai mikrofoni darbojas, lai sarunātos ar Līdzekli Cortana.

@@ -1,30 +1,31 @@
 ---
-title: Problēmu risināšana Teams pierakstīšanās kļūda AADSTS9000411
+title: Teams pierakstīšanās kļūdas AADSTS9000411 adresēšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: b70f1320ea1dfa29e6fa489bd02acfcd1d92971b
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: 7b0e90e3fea716df649ec906ad8b3008386684be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357877"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821994"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Problēmu risināšana Teams pierakstīšanās kļūda AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Teams pierakstīšanās kļūdas AADSTS9000411 adresēšana
 
-Pierakstoties Microsoft Teams, var tikt parādīts kļūdas ziņojums: **Atvainojiet, bet mums ir problēmas ar PIERAKSTĪŠANOS AADSTS9000411: pieprasījums nav pareizi formatēts. Tiek dublēts parametrs "login_hint".**
+Pierakstoties Microsoft Teams, iespējams, tiks parādīta kļūda: Diemžēl radās problēmas ar pierakstīšanos **AADSTS9000411: Pieprasījums nav pareizi formatēts. Parametra "login_hint" dublikāts.**
 
-Lai risinātu šo problēmu, lūdzu, pārliecinieties, vai jūsu Microsoft Teams klienti tiek atjaunināti. Papildinformāciju par klienta atjaunināšanu skatiet sadaļā [Microsoft Teams atjaunināšana](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+Lai novērstu šo problēmu, lūdzu, pārliecinieties, vai jūsu Microsoft Teams klienti tiek atjaunināti. Papildinformāciju par klienta atjaunināšanu skatiet rakstā [Microsoft Teams atjaunināšana.](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)
 
-Ja nevarat atjaunināt savu klientu kādu iemeslu dēļ, atteikšanās klients būs skaidrs visvairāk kešatmiņā datus. Tomēr, ja jums joprojām ir problēmas pēc atteikšanās/pieteikšanās, beidziet darbu ar komandām un, lūdzu, iztīriet klienta kešatmiņu, rīkojoties šādi:
+Ja kāda iemesla dēļ nevarat atjaunināt savu klientu, piesakoties klientam, tiks notīrīta lielākā daļa kešoto datu. Tomēr, ja problēmas joprojām pastāv pēc pieteikšanās/logotipa pievienošanas, aizveriet programmu Teams un, lūdzu, notīriet klienta kešatmiņu, rīkojoties šādi:
 1. Aizveriet Microsoft Teams.
-2. Dodieties uz:%AppData%\microsoft\teams un izdzēsiet visus failus.
-3. Atkārtoti atveriet Microsoft Teams.
+2. Dodieties uz: %appdata%\microsoft\teams un izdzēsiet visus failus.
+3. Atkārtoti atveriet pakalpojumu Microsoft Teams.

@@ -1,26 +1,27 @@
 ---
-title: Office programmās tiek parādīts beidzies abonementa derīgums paziņojums
+title: Paziņojums par abonementa derīguma beigām Microsoft 365 programmās
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789273"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823578"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Office programmās tiek parādīts paziņojums “Beidzies abonementa derīgums” 
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Paziņojums "Beidzies abonementa derīgums" Microsoft 365 programmās
 
-- Pārbaudiet, vai lapā [Pkalpojumu darbspēja](https://docs.microsoft.com/office365/enterprise/view-service-health), lai uzzinātu, vai pastāv zināmas problēmas ar pakalpojumu.
+- Pārbaudiet lapu [Pakalpojumu darbspēja](https://docs.microsoft.com/office365/enterprise/view-service-health), lai uzzinātu, vai pastāv zināmas problēmas ar pakalpojumu.
 
 - Pārbaudiet, vai jūsu [abonementa statuss](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) ir derīgs, attiecīgajam lietotājam ir piešķirta [derīga licenci](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) un lietotājs ir pieslēdzies internetam. Ja nesen esat pārslēdzies uz jaunu Microsoft abonementu/plānu, mēģiniet atinstalēt Office un atkārtoti to instalēt ietekmētajā datorā.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789273"
 
 - Palaidiet [Aktivizēšanas problēmu novērsēju](https://aka.ms/SARA-OfficeActivation-Alchemy) un restartējiet datoru.
 
-- Attiecīgajā datorā, [atiestatiet Office aktivizēšanas stāvokli](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Attiecīgajā datorā, [atiestatiet Office aktivizēšanas stāvokli](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Detalizētus norādījumus skatiet rakstā: 
 
