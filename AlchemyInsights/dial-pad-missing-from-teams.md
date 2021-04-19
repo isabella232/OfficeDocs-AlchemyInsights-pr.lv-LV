@@ -1,23 +1,24 @@
 ---
-title: Komandās trūkst numura sastādīšanas tastatūra
+title: Programmā Teams trūkst numuru sastādīšanas tastatūras
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: 098dd889747fadcd404935c022bf1e75a283955a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 86a642db6ec0a81f91ad07240c90cc116aa970ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358075"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815289"
 ---
-# <a name="dial-pad-missing-from-teams"></a>Komandās trūkst numura sastādīšanas tastatūra
+# <a name="dial-pad-missing-from-teams"></a>Programmā Teams trūkst numuru sastādīšanas tastatūras
 
-Nevar atrast dial-pad komandā? Pārbaudiet [šeit](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) , lai iegūtu vairāk informācijas.
+Vai nevarat atrast numuru sastādīšanas tastatūru programmā Teams? Papildinformāciju skatiet [šeit](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing).

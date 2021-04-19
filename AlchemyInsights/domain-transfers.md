@@ -2,34 +2,32 @@
 title: Domēnu nodošana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814884"
 ---
 # <a name="domain-transfers"></a>Domēnu nodošana
 
-- [Kā pēc 60 dienām nodot Microsoft iegādāto domēnu citam pakalpojumu sniedzējam](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+[Kā pēc 60 dienām nodot Microsoft iegādāto domēnu citam pakalpojumu sniedzējam](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-    - Lai gan Microsoft iegādātie domēni neatbalsta NS ierakstu maiņu, apsveriet iespēju [atjaunināt savas tīmekļa vietnes DNS ierakstus](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) tā vietā, lai nodotu domēna reģistrāciju tīmekļa viesošanas pakalpojumu sniedzējam.
+- Lūdzu, ņemiet vērā, ka Microsoft iegādāto domēnu nevar nodot no Microsoft 365 nomnieka citam nomniekam.
+- Lai gan Microsoft iegādātie domēni neatbalsta NS ierakstu maiņu, apsveriet iespēju [atjaunināt savas tīmekļa vietnes DNS ierakstus](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) tā vietā, lai nodotu domēna reģistrāciju tīmekļa pakalpojumu viesotājam.
 
-- Microsoft iegādāto domēnu nevar nodot no Microsoft 365 nomnieka citam nomniekam. 
+Pielāgotus domēnus var [verificēt un izmantot ar Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
-    - Tomēr trešās personas domēnu varat nodot no viena Microsoft 365 nomnieka citam nomniekam, [noņemot domēnu vienam nomniekam](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) un pēc tam verificējot šo domēnu citā nomniekā.
+- Trešo personu pielāgoto domēnu reģistrāciju vai norēķinus nevar nodot korporācijai Microsoft.
 
-- Trešo personu domēnu reģistrāciju vai norēķinus nevar nodot korporācijai Microsoft.
-
-    - Tomēr pielāgotus domēnus var [verificēt un izmantot ar Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- Onmicrosoft.com sākotnējos noklusējuma domēnus nevar ne nodot, ne pārdēvēt.
+Onmicrosoft.com noklusējuma domēnus nevar ne nodot, ne pārdēvēt.

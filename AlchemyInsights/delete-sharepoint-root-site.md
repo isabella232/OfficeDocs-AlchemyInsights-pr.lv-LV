@@ -2,7 +2,7 @@
 title: SharePoint saknes vietnes dzēšana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713818"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815478"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>SharePoint saknes vietnes dzēšana
 
 SharePoint saknes vietnes dzēšana  **netiek atbalstīta.**
 
-1.  Ja saknes vietne jau ir izdzēsta, lietotāji pieredzēs, ka 404 fails nav atrasts, mēģinot piekļūt vietnei.
-2.  Lai novērstu šo problēmu, atjaunojiet vietni no jaunā SharePoint administrēšanas centra, apmeklējot lapu  [izdzēstās vietnes](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  , atlasiet saknes vietni un noklikšķiniet uz atjaunot.
-3.  Tā vietā, lai dzēstu saknes vietni, izmantojiet jauno SharePoint administrēšanas centru, lai pēc tam, kad tiek atjaunota saknes vietne, [aizstātu vietni](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  .
+1.  Ja saknes vietne jau ir izdzēsta, mēģinot piekļūt vietnei, lietotājiem tiek parādīts kļūdas ziņojums 404 Fails nav atrasts.
+2.  Lai atrisinātu šo problēmu, atjaunojiet vietni jaunajā SharePoint administrēšanas centrā, dodoties uz lapu Izdzēstās vietnes, atlasiet saknes vietni un noklikšķiniet uz Atjaunot. [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)
+3.  Tā vietā, lai izdzēstu saknes vietni, [pēc](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  saknes vietnes atjaunošanas izmantojiet vietni aizstāt no jaunā SharePoint administrēšanas centra.
 
-Papildinformāciju skatiet rakstā [saknes vietnes modernizācija](https://docs.microsoft.com/sharepoint/modern-root-site)
+Papildinformāciju skatiet rakstā [Saknes vietnes modernizācija](https://docs.microsoft.com/sharepoint/modern-root-site)
