@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
+ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692329"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51897320"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="23fa4-102">Adresātu grupas pārvēršana par Microsoft 365 grupu</span><span class="sxs-lookup"><span data-stu-id="23fa4-102">Convert a distribution group to a Microsoft 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="6de0b-102">Adresātu grupas pārvēršana par Microsoft 365 grupu</span><span class="sxs-lookup"><span data-stu-id="6de0b-102">Convert a distribution group to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="23fa4-103">Adresātu grupas varat pārvērst par Microsoft 365 grupām, ja tās atbilst noteiktiem kritērijiem.</span><span class="sxs-lookup"><span data-stu-id="23fa4-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="23fa4-104">Lai konvertētu grupu vai novērstu ar pārvēršanu saistītas problēmas, skatiet rakstu Adresātu [sarakstu jaunināšana uz Microsoft 365 grupām programmā Outlook.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)</span><span class="sxs-lookup"><span data-stu-id="23fa4-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="6de0b-103">Adresātu grupas varat pārvērst par Microsoft 365 grupām, ja tās atbilst noteiktiem kritērijiem.</span><span class="sxs-lookup"><span data-stu-id="6de0b-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="6de0b-104">Lai konvertētu grupu vai novērstu ar pārvēršanu saistītas problēmas, skatiet rakstu Adresātu [sarakstu jaunināšana uz Microsoft 365 grupām programmā Outlook.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)</span><span class="sxs-lookup"><span data-stu-id="6de0b-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
 
-<span data-ttu-id="23fa4-105">We ir arī skripts, kuru varat palaist, lai palīdzētu jums validēt adresātu grupas piemērotību jaunināšanai uz [Microsoft 365 grupu.](https://aka.ms/DLToM365Group)</span><span class="sxs-lookup"><span data-stu-id="23fa4-105">W alsoe have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
+<span data-ttu-id="6de0b-105">Mums ir arī skripts, kuru varat palaist, lai palīdzētu jums validēt adresātu grupas piemērotību jaunināšanai [uz Microsoft 365 grupu.](https://aka.ms/DLToM365Group)</span><span class="sxs-lookup"><span data-stu-id="6de0b-105">We also have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
