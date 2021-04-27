@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826170"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059822"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST importēšanas problēmu novēršana
 
-- Ja importējat pats Outlook klientā, skatiet rakstu [Problēmu novēršana saistībā ar Outlook.pst faila](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Ja importējat Pašā Outlook klientā, skatiet rakstu [Outlook .pst faila importēšanas problēmu novēršana.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Ja izmantojat importēšanas pakalpojumu un tas ir iestrēdzis, ņemiet vērā, ka katrs PST fails, kas tiek augšupielādēts Azure krātuves atrašanās vietā, nedrīkst būt lielāks par 20 GB. PST faili, kas lielāki par 20 GB, var ietekmēt PST importēšanas procesa veiktspēju.
+- Ja izmantojat importēšanas pakalpojumu un tas iestrēgst, ņemiet vērā, ka katrs PST fails, ko augšupielādējat Azure krātuves atrašanās vietā, nedrīkst būt lielāks par 20 GB. PST faili, kas ir lielāki par 20 GB, var ietekmēt PST importēšanas procesa veiktspēju. Lai iegūtu papildinformāciju par problēmu novēršanu saistībā ar [iestrēgušiem darbiem, skatiet rakstu Problēmas, kas ietekmē PST importēšanas darbus.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
-- Ja vēlaties pārbaudīt konkrētu importēšanas darba statusu, varat izmantot [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Ja vēlaties pārbaudīt konkrēta importēšanas darba statusu, izmantojiet [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- Lai iegūtu pilnu informāciju par importēšanas pakalpojumu, lūdzu, skatiet [Pārskats par savas organizācijas PST failu importēšanu](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- Pilnu informāciju par importēšanas pakalpojumu skatiet [rakstā Pārskats par organizācijas PST failu importēšanu.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
