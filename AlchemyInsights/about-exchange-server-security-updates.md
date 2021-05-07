@@ -1,5 +1,5 @@
 ---
-title: Par Exchange Server drošības atjauninājumiem
+title: Par Exchange Server atjauninājumiem
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726534"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233469"
 ---
-# <a name="about-exchange-server-security-updates"></a>Par Exchange Server drošības atjauninājumiem
+# <a name="about-exchange-server-updates"></a>Par Exchange Server atjauninājumiem
 
-Microsoft ir izlaidusi vairākus kritiskos drošības atjauninājumus Exchange Server lokālajā vidē. Ietekmētās servera versijas ir jebkurš Exchange Server 2010, 2013, 2016 un 2019 atjaunināšanas līmenis. Exchange Online netiek ietekmēts, bet, ja jums ir daži lokāli Exchange serveri hibrīdās konfigurācijas dēļ, tie ir potenciāli neaizsargāti.
+Microsoft parasti izlaiž Exchange Server atjaunināšanas otrdienā (drošības atjauninājumos) vai ceturkšņu (kumulatīvie atjauninājumi). Lai skatītu paziņojumus par jaunākajiem izlaistajiem atjauninājumiem, skatiet [Exchange grupas emuāru.](https://aka.ms/ehlo)
 
-Lūdzu, skatiet tālāk norādīto paziņojumu par labojumu atrašanās vietu: [izlaists: 2021 Exchange Server drošības atjauninājumi](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Lai krājumus Exchange serverus, izmantojiet Exchange Server darbspējas pārbaudes skriptu [(GitHub, izmantojiet jaunāko laidienu).](https://aka.ms/ExchangeHealthChecker) Izpildot šo skriptu, tiek paziņots, vai kāds no jūsu Exchange serveriem nav atjauninājumu (CU un SV).
 
-**Svarīgas piezīmes:**
+- Lai atjauninātu uz jaunāko kumulatīvo atjauninājumu, dodieties [uz Exchange atjaunināšanas](https://aka.ms/ExchangeUpdateWizard) vedni un izvēlieties savu pašlaik izpildīto CU un mērķa KA. Atlasiet **Pastāstiet, kā veikt darbības,** lai saņemtu norādes savā vidē.
 
-Ja atjauninājumu instalēšana notiek manuāli, lūdzu, izlasiet sadaļu "zināmās problēmas" atjauniniet KB rakstu, lai iegūtu svarīgu informāciju. Drošības atjauninājumi ir jāpalaiž no paaugstināta CMD/PowerShell uzvednes.
-
-Atjaunināšanas problēmu novēršanas informāciju var [atrast šeit](https://aka.ms/exupdatefaq).
+- Ja atjaunināšanas instalēšanas laikā vai pēc tās rodas Exchange Server kļūdas, skatiet rakstu Nesekmīga Exchange un drošības [atjauninājumu labošana.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

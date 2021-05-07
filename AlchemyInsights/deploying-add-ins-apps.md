@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125679"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233541"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Pievienojumprogrammu izvietošana Microsoft 365 programmas
 
 Centralizētā izvietošana ir ieteicamais veids, Office pievienojumprogrammas izvietot lietotājiem un grupām jūsu organizācijā. Lai izvietotu pievienojumprogrammas, veiciet tālāk norādītās darbības.
 
-**Piezīme.** Lai instalētu pievienojumprogrammas Office kā atsevišķs lietotājs, skatiet rakstu Pievienojumprogrammu skatīšana, pārvaldība un instalēšana [Office programmās.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Pārliecinieties arī par to, ka ir iespējota Office veikala pievienojumprogrammu iegāde. 
+**Piezīme.** Lai instalētu pievienojumprogrammas Office kā atsevišķs lietotājs, skatiet rakstu Pievienojumprogrammu skatīšana, pārvaldība un instalēšana [Office programmās.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Pārliecinieties arī par to, ka ir iespējota Office veikala pievienojumprogrammu iegāde. Detalizētu informāciju skatiet rakstā [Pievienojumprogrammu lejupielādes neļaušana, izslēdzot pievienojumprogrammu Office veikalu visos](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)klientos (izņemot Outlook).
 
 1. Pārliecinieties, vai jūsu vide atbilst prasībām par pievienojumprogrammu izvietošanu, izmantojot centralizēto izvietošanu. Papildinformāciju skatiet [rakstā Prasības](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Lai **izvietotu Iestatījumi,** dodieties uz sadaļu  >    >   Integrēto lietojumprogrammu iegūšana Microsoft 365 administrēšanas centrā. 
