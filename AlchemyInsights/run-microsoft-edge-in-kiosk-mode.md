@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge izmantošana kioska režīmā
+title: Palaidiet Microsoft Edge kioska režīmā
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708537"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312411"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Microsoft Edge izmantošana kioska režīmā
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Palaidiet Microsoft Edge kioska režīmā
 
-Varat konfigurēt Kiosk režīmu pārlūkprogrammā Microsoft Edge versijas 77 un jaunākās versijās, kā arī pārlūkprogrammā Microsoft Edge Legacy versijas 45 un vecākās versijās.
+Varat konfigurēt kioska režīmu Microsoft Edge 87 un jaunākās versijās, kā arī Microsoft Edge mantotā versija 45 un vecākās versijās. Papildinformāciju skatiet rakstā [Kioska Microsoft Edge konfigurēšana.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Varat konfigurēt ierīces, kas darbojas operētājsistēmā Windows 10, lai [palaistu vienas lietojumprogrammas vai vairāku programmu Kiosk režīmā](https://go.microsoft.com/fwlink/?linkid=2133659).
+Varat konfigurēt ierīces, kas darbojas Windows 10 palaist vienā programmā vai vairāku programmu [kioska režīmā.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Papildinformāciju par to, kā iestatīt Kiosk režīmu jaunākajā Microsoft Edge stabilitātes kanālā un pārlūkprogrammā Microsoft Edge Legacy, skatiet:
+Papildinformāciju par kioska režīma iestatīšanu jaunākajā kanāla Microsoft Edge un Microsoft Edge mantotā versija skatiet:
 
-- [Microsoft Edge ar piešķirto piekļuvi](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Microsoft Edge "--Kiosk" komandrindas parametrs](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Atbalsts Microsoft Edge mantotajai kioska režīmam](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge ar piešķirtu piekļuvi](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge Komandrindas parametrs "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Atbalsts Microsoft Edge mantotā versija kioska režīmam](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
