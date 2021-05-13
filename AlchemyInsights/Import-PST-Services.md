@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-pakalpojumi
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664069"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470267"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 importēšanas pakalpojums
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Pakalpojuma importēšana
 
-Microsoft 365 importēšanas pakalpojums ļauj lielapjoma importēt vairākus PST failus Exchange Online pastkastēs.
+Importēšanas Microsoft 365 ļauj importēt vairākus PST failus lielapjoma importēšanai, lai Exchange Online pastkastes.
 
-Lai piekļūtu importēšanas pakalpojumam un sāktu importēšanu, veiciet tālāk norādītās darbības.
+Lai piekļūtu importēšanas pakalpojumam un sāktu importēšanas procesu:
 
-1. Dodieties uz [drošības & atbilstības centru](https://protection.office.com) un pierakstieties, izmantojot sava uzņēmuma administratora konta akreditācijas datus.
+1. Dodieties [uz drošības & un](https://protection.office.com) pierakstieties, izmantojot savas organizācijas administratora konta akreditācijas datus.
 
-2. **Drošības & atbilstības centra**kreisajā rūtī noklikšķiniet uz **datu pārvaldības > importēšana**.
+2. Drošības kontroles centra kreisajā **rūtī noklikšķiniet & Informācijas** pārvaldība un > **Importēt.**
 
-3. Lapā **importēšana** noklikšķiniet uz **Jauns importēšanas darbs**.
+3. Lapā Importēšana **noklikšķiniet** uz Jauns **importēšanas darbs**.
 
-4. Lai pabeigtu vednī norādītās darbības, izpildiet šos [detalizētos norādījumus](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. Lai pabeigtu vednī norādītās darbības, izpildiet [šos dejotos norādījumus.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**Svarīgi**: lai piekļūtu **importēšanas** lapai drošības & atbilstības centrā, jums ir piešķirtas  [atbilstošas atļaujas](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**Svarīgi:** lai **piekļūtu** lapai Importēšana & atbilstības centrā, jums ir  [piešķirtas atbilstošas atļaujas](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).
 
-Ja vēlaties savu pastkasti importēt tikai savā pastkastē, skatiet [šo rakstu](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Ja vēlaties importēt PST failu savā pastkastē, skatiet [šo rakstu.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
