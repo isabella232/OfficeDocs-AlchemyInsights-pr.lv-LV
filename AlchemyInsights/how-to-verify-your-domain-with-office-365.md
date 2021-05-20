@@ -1,5 +1,5 @@
 ---
-title: 'Sava domēna pārbaude '
+title: 'Kā verificēt savu domēnu '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683873"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569622"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="7d264-102">Sava domēna pārbaude</span><span class="sxs-lookup"><span data-stu-id="7d264-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="f1b34-102">Kā verificēt savu domēnu</span><span class="sxs-lookup"><span data-stu-id="f1b34-102">How to verify your domain</span></span>
 
-<span data-ttu-id="7d264-103">Lai verificētu domēnu, izpildiet domēna [pievienošanas vedni](https://admin.microsoft.com/Adminportal#/Domains/Wizard)vai manuāli **dodieties uz sadaļu domēnu**  >    >  **pievienošana**.</span><span class="sxs-lookup"><span data-stu-id="7d264-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="f1b34-103">Lai pārbaudītu domēnu, izpildiet [domēna pievienošanas vedni](https://admin.microsoft.com/Adminportal#/Domains/Wizard)vai manuāli dodieties uz **Domēnu**  >  **pievienošanas**  >  **domēna iestatīšana.**</span><span class="sxs-lookup"><span data-stu-id="f1b34-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setting** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="7d264-104">Lai iegūtu papildinformāciju par DNS izmaiņām, kas nepieciešamas, lai verificētu savu domēnu, skatiet norādījumus sadaļā [DNS ierakstu pievienošana, lai izveidotu savienojumu ar savu domēnu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="7d264-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="f1b34-104">Papildinformāciju par DNS izmaiņām, kas nepieciešamas, lai verificētu savu domēnu, skatiet rakstā DNS ierakstu [pievienošana domēna pievienošanai.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)</span><span class="sxs-lookup"><span data-stu-id="f1b34-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="7d264-105">Jautājumus par citiem domēniem skatiet rakstā [bieži uzdotie jautājumi par domēniem](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="7d264-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="f1b34-105">Citus jautājumus par domēniem skatiet bieži [uzdotajos jautājumos par domēniem.](/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="f1b34-105">For other domains questions, see the [Domains FAQ](/microsoft-365/admin/setup/domains-faq).</span></span>

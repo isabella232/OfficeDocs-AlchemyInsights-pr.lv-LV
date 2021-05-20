@@ -1,5 +1,5 @@
 ---
-title: Ārpus biroja automātisko atbilžu problēmu novēršana
+title: Problēmu novēršana ārpus Office automātiskajām atbildēm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832245"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573717"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="aa376-102">Ārpus biroja automātisko atbilžu problēmu novēršana</span><span class="sxs-lookup"><span data-stu-id="aa376-102">Troubleshooting Out Of Office automatic replies</span></span>
+# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="5a97e-102">Problēmu novēršana ārpus Office automātiskajām atbildēm</span><span class="sxs-lookup"><span data-stu-id="5a97e-102">Troubleshooting Out Of Office automatic replies</span></span>
 
-<span data-ttu-id="aa376-103">Problēmu iemesls var būt dažādi iespējamie iemesli atkarībā no tā, kā esat konfigurējis automātiskās atbildes ārpus biroja.</span><span class="sxs-lookup"><span data-stu-id="aa376-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
+<span data-ttu-id="5a97e-103">Problēmu iemesls var būt dažādi iespējamie iemesli atkarībā no tā, kā esat konfigurējis ārpus biroja Office automātiskās atbildes.</span><span class="sxs-lookup"><span data-stu-id="5a97e-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
 
-<span data-ttu-id="aa376-104">Lai iegūtu padziļinātu izpratni par to, kur varētu būt problēma, lūdzu, izlasiet rakstu Par ārpus biroja [(OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972) atbildēm un problēmu novēršanu</span><span class="sxs-lookup"><span data-stu-id="aa376-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
+<span data-ttu-id="5a97e-104">Lai padziļināti izprastu, kur varētu būt problēma, lūdzu, izlasiet rakstu Par ārpussavienības (Out of Office – [OOF) atbildēm](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)un to novēršana.</span><span class="sxs-lookup"><span data-stu-id="5a97e-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies).</span></span>
