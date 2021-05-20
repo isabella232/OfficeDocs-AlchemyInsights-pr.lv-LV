@@ -1,5 +1,5 @@
 ---
-title: Mainīt lietojumprogrammas licences daudzumu
+title: Programmu licenču daudzuma maiņa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232266"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543152"
 ---
-# <a name="change-app-license-quantity"></a>Mainīt lietojumprogrammas licences daudzumu
+# <a name="change-app-license-quantity"></a>Programmu licenču daudzuma maiņa
 
-Varat skatīt vai mainīt licenču skaitu un piešķirt tās lietotājiem Microsoft 365 administrēšanas centrā.
+Varat skatīt vai mainīt licenču skaitu un tās piešķirt lietotājiem, izmantojot Microsoft 365 administrēšanas centru.
 
-## <a name="to-change-license-quantity"></a>Lai mainītu licenču skaitu
+## <a name="to-change-license-quantity"></a>Licenču daudzuma maiņa
 
-**Skatieties videoklipu** , kurā parādīts, kā to paveikt: [jaunu licenču iegāde](https://go.microsoft.com/fwlink/p/?linkid=2154857) vai [esošo licenču noņemšana](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**NOSkatieties video,** kurā parādīts, kā to paveikt: [Iegādāties jaunas licences](https://go.microsoft.com/fwlink/p/?linkid=2154857) vai Noņemt [esošās licences](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Dodieties uz lapu **Billing**  >  **[Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Cilnes **produkti** sadaļā **lietojumprogrammas** atrodiet programmu, kuru vēlaties pārvaldīt. Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **iegādāties licences**.
-3. Ja vēlaties samazināt licenču skaitu, rūts **licenču iegāde** augšdaļā atlasiet **Noņemt licences**.
-4. Lai iegādātos vai noņemtu licences, sadaļā **Jauns daudzums** lodziņā **kopējās licences** ievadiet šī abonementa kopējo licenču skaitu. Piemēram, ja jums ir 100 licences un vēlaties pievienot vēl piecas, ievadiet 105. Ja vēlaties noņemt piecus no tiem, ievadiet 95.
+1. Dodieties uz **lapu**  >  **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
+2. Cilnes **Produkti** sadaļā **Programmas atrodiet** programmu, kuru vēlaties pārvaldīt. Atlasiet daudzpunkti (vairāk darbību), pēc tam **atlasiet Iegādāties licences**.
+3. Ja vēlaties samazināt licenču skaitu, rūts Licenču iegāde **augšdaļā** atlasiet **Noņemt licences**.
+4. Lai iegādātos vai noņemtu licences, **lodziņā** Licenču **kopskaits** sadaļā Jauns licenču skaits ievadiet šim abonementam nepieciešamais licenču skaits. Piemēram, ja jums ir 100 licences un vēlaties pievienot vēl piecas licences, ievadiet 105. Ja vēlaties noņemt piecas no tām, ievadiet 95.
 5. Atlasiet **Saglabāt**.
 
 ## <a name="to-assign-app-licenses"></a>Programmu licenču piešķiršana
 
-1. Dodieties uz lapu **Billing**  >  **[Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Cilnes **produkti** sadaļā **lietojumprogrammas** atrodiet programmu, kuru vēlaties pārvaldīt.
-3. Sadaļā **iestatījumi & darbības** atlasiet saiti, ko **pārvaldīt programmas Publisher portālā**.
+1. Dodieties uz **lapu**  >  **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
+2. Cilnes **Produkti** sadaļā **Programmas atrodiet** programmu, kuru vēlaties pārvaldīt.
+3. Sadaļā **Iestatījumi &** darbības atlasiet saiti **Pārvaldīt izdevēja portālā**.

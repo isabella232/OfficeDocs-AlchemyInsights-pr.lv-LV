@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286965"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542792"
 ---
 # <a name="subscription-status"></a>Abonementa statuss
 
-Abonementa statuss, derīguma termiņš un licenču skaits ir atrodams Microsoft 365 administrēšanas centra lapā **produkti** .
+Abonementa statusu, derīguma beigu datumu un licenču skaitu var atrast jūsu produktu **lapā** Microsoft 365 administrēšanas centrā.
 
-1. Administrēšanas centrā dodieties uz lapu **norēķini**par  >  [produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Cilnē **produkti** pēc noklusējuma redzēsit visus abonementus un to statusu (aktīvs, beidzies, atspējots vai izdzēsts). Lai skatītu visu abonementu apakškopu, atlasiet filtra ikonu un pēc tam atlasiet **abonementa statusu** , ko vēlaties redzēt.
-3. Lai atkārtoti aktivizētu abonementa derīguma vai atspējošanas abonementu, atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **atkārtoti aktivizēt šo abonementu**.
-4. Lapā **produkti** tiek parādīta arī šāda informācija:
-    - Lietotājiem piešķirto licenču skaits tiek rādīts kolonnā **piešķirtās licences** .
-    - Abonementā iekļauto licenču kopskaits ir parādīts kolonnā **iepirktais daudzums** .
-    - Derīguma vai atjaunošanas datums kolonnā **abonementa statuss** .
-    - Apmaksas veids, kas tiek izmantots, lai maksātu par katru abonementu, tiek rādīts kolonnā **apmaksāts ar** .
-    - Norēķinu konts, kas saistīts ar katru abonementu, tiek rādīts kolonnā **norēķinu konts** .
-5. Lai pievienotu vai noņemtu kolonnas, atlasiet **izvēlēties kolonnas**.
+1. Administrēšanas centrā dodieties uz lapu  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
+2. Cilnē Produkti **pēc** noklusējuma tiek rādīti visi abonementi un to statuss (Aktīvs, Beidzies derīgums, Atspējots vai Izdzēsts). Lai skatītu visu abonementu apakškopu, atlasiet filtra ikonu un pēc tam atlasiet **abonementa** statusu, kuru vēlaties skatīt.
+3. Lai atkārtoti aktivizētu, beidzies derīgums vai atspējots abonements, atlasiet daudzpunkti (vairāk darbību), pēc tam **atlasiet Atkārtoti aktivizēt šo abonementu.**
+4. Lapā **Jūsu produkti** tiek parādīta arī šāda informācija:
+    - Lietotājiem piešķirto licenču skaits tiek parādīts kolonnā **Piešķirtās** licences.
+    - Abonementā iekļauto licenču kopskaits ir redzams kolonnā **Iegādātais** daudzums.
+    - Abonementa statusa kolonnā norādīts derīguma **beigu vai atjaunošanas** datums.
+    - Katra abonementa apmaksas metode ir parādīta kolonnā **Apmaksāts ar.**
+    - Ar katru abonementu saistītais norēķinu konts ir redzams **kolonnā Norēķinu** konts.
+5. Lai pievienotu vai noņemtu kolonnas, atlasiet **Izvēlēties kolonnas**.

@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook pievienojumprogramma
+title: Teams Outlook (Koplietot sapulcē, Teams, Tikties tūlīt, Teams sapulce, Pievienoties Teams sapulcei)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835026"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542756"
 ---
-# <a name="teams-outlook-add-in"></a>Teams Outlook pievienojumprogramma
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook pievienojumprogramma (Koplietot sapulcē Teams, Tikties tūlīt, Jauna Teams sapulce, Pievienoties Teams sapulcei)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Lai novērstu problēmas, kas saistītas ar trūkstošu Teams Outlook pievienojumprogrammu
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Lai novērstu problēmas, Teams Outlook pievienojumprogrammu trūkstošai pievienojumprogrammai
 
-1. Palaidiet pakalpojuma diagnostiku administrēšanas portālā. 
-2. Ja Pakalpojuma diagnostika nenovērš problēmas, diagnosticējiet un izlabojiet klienta problēmas attiecīgajās lietotāju datoros, lejupielādējot un palaižot Microsoft atbalsta un atkopšanas [palīga](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook pievienojumprogrammas scenāriju.**
+1. Palaidiet diagnostikas komandu "Grupas pievienojumprogramma trūkst programmā Outlook", kas pārbauda, vai lietotājam ir pareizās politikas, lai iespējotu Teams Outlook pievienojumprogrammu. Lai piekļūtu diagnostikas rīkam, **ierakstiet Diag: Teams Trūkst pievienojumprogrammas Outlook** meklēšanas lodziņā.
 
-Lai manuāli novērstu problēmas trūkstošā Outlook pievienojumlietojumprogrammā Teams, pārskatiet sarakstu ar iespējamajiem faktoriem, kas var izraisīt to, ka jūsu Teams pievienojumprogramma netiek rādīta sarakstā. Papildinformāciju skatiet rakstā [Teams sapulču pievienojumprogramma programmā Outlook darbam ar Windows netiek rādīta.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+1. Ja Pakalpojuma diagnostika nenovērš problēmas, diagnosticējiet un izlabojiet klienta problēmas attiecīgajās lietotāju datoros, lejupielādējot un palaižot [Microsoft atbalsta un atkopšanas palīgs](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook pievienojumprogrammas scenāriju.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Lai novērstu problēmas saistībā ar Teams sapulces plānošanu citas personas vārdā (pārstāvis)
+Lai manuāli novērstu trūkstošas pievienojumprogrammas Teams Outlook, pārskatiet sarakstu ar iespējamajiem faktoriem, Teams pievienojumprogramma netiek rādīta sarakstā. Papildinformāciju skatiet [rakstā Teams Sapulču pievienojumprogrammas Outlook for Windows nerāda](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-Lai ieplānotu Teams sapulci citas personas vārdā, skatiet rakstu [Microsoft Teams un Exchange Server saziņas problēmu novēršana.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Problēmu novēršana, ieplānojot Teams sapulci citas personas vārdā (pārstāvis)
+
+Lai ieplānotu Teams cita lietotāja [vārdā,](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)skatiet rakstu Darbības Microsoft Teams un Exchange Server problēmu novēršana.

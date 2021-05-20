@@ -1,5 +1,5 @@
 ---
-title: Projekta abonementa atcelšana
+title: Abonementa Project atcelšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416500"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543404"
 ---
-# <a name="cancel-project-subscription"></a>Projekta abonementa atcelšana
+# <a name="cancel-project-subscription"></a>Abonementa Project atcelšana
 
-Administratori var atcelt savas organizācijas projekta abonementu Microsoft 365 administrēšanas centrā.
+Administratori var atcelt Project abonementu savā organizācijā Microsoft 365 centrā.
 
-1. Dodieties uz lapu **Billing** \> [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Cilnē **produkti** atrodiet projekta abonementu, kuru vēlaties atcelt. Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **atcelt abonementu**.
-3. Rūtī **atcelt abonementu** izvēlieties iemeslu, kāpēc veicat atcelšanu. Varat arī sniegt atsauksmes.
+1. Dodieties uz **lapu** \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
+2. Cilnē **Produkti** atrodiet atcelšanas Project abonementu. Atlasiet daudzpunkti (citas darbības), pēc tam atlasiet **Atcelt abonementu**.
+3. Rūtī **Abonementa** atcelšana izvēlieties atcelšanas iemeslu. Ja vēlaties, sniedziet atsauksmes.
 4. Atlasiet **Saglabāt**.
 
-**Kompensācija:** Jebkurš proporcionāls kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.
+**Atmaksa:** Visu atpakaļvērtēto kredītu jums atgriezīs nākamajā norēķinu ciklā.
 
-Lai uzzinātu vairāk, skatiet rakstu [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Papildinformāciju skatiet rakstā [Abonementa atcelšana.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

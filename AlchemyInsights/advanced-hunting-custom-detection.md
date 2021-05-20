@@ -1,5 +1,5 @@
 ---
-title: 9001220 papildu medību pielāgoti atklāšana
+title: 9001220 advanced hunting custom detections
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801522"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543008"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Papildu medību pielāgoti atklāšana
+# <a name="advanced-hunting-custom-detections"></a>Advanced Hunting Custom detections
 
-Varat uzzināt, kā izveidot un pārvaldīt pielāgotas noteikšanas kārtulas, pamatojoties uz uzlabotiem medību vaicājumiem. Ar pielāgotām atklāšanām varat aktīvi uzraudzīt un atbildēt uz dažādiem notikumiem un sistēmas stāvokļiem, ieskaitot iespējamās pārkāpuma darbības un nepareizi konfigurētās ierīces. To var izdarīt, izmantojot pielāgojamas atklāšanas kārtulas, kas automātiski aktivizē brīdinājumus un reaģēšanas darbības
+Uzziniet, kā izveidot un pārvaldīt pielāgotas noteikšanas kārtulas, ņemot vērā uzlabotus meklēšanas vaicājumus. Izmantojot pielāgotas noteikšanas, varat proaktīvi pārraudzīt dažādus notikumus un sistēmas situācijās, tostarp saistībā ar iespējamu pārkāpumu darbību un nepareizi konfigurētām ierīcēm, kā arī atbildēt uz tiem. To var izdarīt, izmantojot pielāgojamas noteikšanas kārtulas, kas automātiski aktivizē brīdinājumus un atbildes darbības
   
-Ja izmantojat Microsoft Defender ATP, detalizētu informāciju skatiet tālāk norādītajās tēmās. 
-- [Pielāgoto atklāšanas pārskats](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Pielāgotu atklāšanas kārtulu izveide](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Pielāgotu atklāšanas kārtulu skatīšana un pārvaldība](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Ja izmantojat programmu Microsoft Defender ATP, detalizētu informāciju skatiet šajās tēmās: 
+- [Pielāgotas noteikšanas pārskats](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Pielāgotas noteikšanas kārtulu izveide](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Pielāgotas noteikšanas kārtulu skatīšana un pārvaldība](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ja izmantojat Microsoft 365 Defender, detalizētu informāciju skatiet tālāk norādītajās tēmās. 
-- [Pielāgoto atklāšanas pārskats](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Pielāgotu noteikšanas kārtulu izveide un pārvaldība](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Ja izmantojat programmatūru Microsoft 365 Defender, detalizētu informāciju skatiet šajās tēmās: 
+- [Pielāgotas noteikšanas pārskats](/microsoft-365/security/mtp/custom-detections-overview)
+- [Pielāgoto noteikšanas kārtulu izveide un pārvaldība](/microsoft-365/security/mtp/custom-detection-rules)

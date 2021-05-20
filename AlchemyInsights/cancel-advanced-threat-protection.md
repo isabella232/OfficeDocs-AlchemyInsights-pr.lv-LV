@@ -1,5 +1,5 @@
 ---
-title: Papildu draudu aizsardzības Atcelšana
+title: Uzlabotās pretdraudu aizsardzības atcelšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416257"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543512"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Papildu draudu aizsardzības Atcelšana
+# <a name="cancel-advanced-threat-protection"></a>Uzlabotās pretdraudu aizsardzības atcelšana
 
-Administratori var atcelt Advanced Threat Protection abonementu savai organizācijai Microsoft 365 administrēšanas centrā.
+Administratori savas organizācijas uzlabotās pretdraudu aizsardzības abonementu var atcelt Microsoft 365 centrā.
 
-1. Dodieties uz lapu **Billing**  >  [Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Cilnē **Products (produkti** ) atrodiet Advanced Threat Protection plānu, kuru vēlaties atcelt. Atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **atcelt abonementu**.
-3. Rūtī **atcelt abonementu** izvēlieties iemeslu, kāpēc veicat atcelšanu. Varat arī sniegt atsauksmes.
+1. Dodieties uz **lapu**  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
+2. Cilnē **Produkti** atrodiet uzlabotā pretdraudu aizsardzības plānu, kuru vēlaties atcelt. Atlasiet daudzpunkti (citas darbības), pēc tam atlasiet **Atcelt abonementu**.
+3. Rūtī **Abonementa** atcelšana izvēlieties atcelšanas iemeslu. Ja vēlaties, sniedziet atsauksmes.
 4. Atlasiet **Saglabāt**.
 
-**Kompensācija:** Jebkurš proporcionāls kredīts tiks atgriezts jums nākamā norēķinu cikla laikā.
+**Atmaksa:** Visu atpakaļvērtēto kredītu jums atgriezīs nākamajā norēķinu ciklā.
 
-Lai uzzinātu vairāk, skatiet rakstu [abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Papildinformāciju skatiet rakstā [Abonementa atcelšana.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

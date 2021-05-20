@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender darbam ar Office 365
+title: Microsoft Defender programmatūrai Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801234"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542900"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender darbam ar Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender programmatūrai Office 365
 
-- Drošie pielikumi, drošās saites un pretpikšķerēšanas ir daļa no Microsoft Defender darbam ar Office 365 (ATP). Enterprise E5, Education A5 un Microsoft 365 Business Premium ir ATP. Visiem pārējiem plāniem nepieciešams pievienojumprogrammas ATP abonements.
+- Seifs Pielikumi, Seifs saites un pretpikšķerēšana ir daļa no programmatūras Microsoft Defender programmatūrai Office 365. Enterprise E5, Education A5 un Microsoft 365 Business Premium ietvert Microsoft Defender Office 365. Citos plānos ir nepieciešama pievienojumprogramma Microsoft Defender Office 365 abonementam.
 
-- Jums ir jāpiešķir atbilstošas licences, lai aizsargātu lietotājus, izmantojot Office 365 ATP. Skatiet [šo tēmu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , lai saņemtu norādījumus par to, kā lielapjoma lietot licences saviem lietotājiem.
+- Jums ir jāpiešķir atbilstošas licences, lai aizsargātu lietotājus, programmatūrai Microsoft Defender Office 365. Norādījumus par to, kā lietotājiem [lietot lielapjoma licences,](/microsoft-365/admin/add-users/add-users) skatiet rakstā Lietotāju pievienošana un licenču piešķiršana vienlaikus.
 
-- Globālie administratori un drošības administratori var piekļūt Office 365 ATP līdzekļiem drošības & atbilstības centrā **draudu Managmeent** \> **politika** .
+- Globālie administratori vai drošības administratori var piekļūt programmatūrai Microsoft Defender Office 365 drošības drošības & drošības kontroles centra threat **Managmeent** \> **politikā**.
 
-- Drošus pielikumus un drošas saišu politikas var tvert visā organizācijā, noteiktos domēnos vai mazākās lietotāju grupās.
+- Seifs Pielikumu un Seifs saišu politikas var norādīt uz visu organizāciju, konkrētiem domēniem vai mazākām lietotāju grupām.
 
-- Nav noklusējuma ATP drošas pielikumu politikas. Jums ir [jāizveido politika](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) un tā jālieto lietotājiem.
+- Nav noklusējuma Seifs politiku. Jums jāizveido [politika un tā](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) jālieto lietotājiem.
 
-- Pastāv noklusējuma ATP drošu saišu politika, kas attiecas uz ikvienu jūsu organizācijā. Lai rediģētu šo politiku vai izveidotu pielāgotas politikas, skatiet [šo tēmu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Saišu noklusējuma Seifs, kas attiecas uz visiem lietotājiem jūsu organizācijā. Lai rediģētu šo politiku vai izveidotu pielāgotas politikas, skatiet rakstu Saišu Seifs iestatīšana programmatūrā [Microsoft Defender Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
