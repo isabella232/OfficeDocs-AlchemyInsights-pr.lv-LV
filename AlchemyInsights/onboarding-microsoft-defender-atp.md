@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender ATP ieguldīšana
+title: Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673432"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545311"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a><span data-ttu-id="a6c77-102">Microsoft Defender ATP ieguldīšana</span><span class="sxs-lookup"><span data-stu-id="a6c77-102">Onboarding Microsoft Defender ATP</span></span>
+# <a name="onboarding-microsoft-defender-atp"></a><span data-ttu-id="6de17-102">Microsoft Defender ATP</span><span class="sxs-lookup"><span data-stu-id="6de17-102">Onboarding Microsoft Defender ATP</span></span>
 
-<span data-ttu-id="a6c77-103">Lai iegūtu resursus uz Microsoft Defender ATP darbam ar Windows 10, Windows serveriem un Mac un Linux datoriem, skatiet:</span><span class="sxs-lookup"><span data-stu-id="a6c77-103">For resources to onboard Microsoft Defender ATP for Windows 10, Windows servers, and Mac and Linux machines, see:</span></span> 
+<span data-ttu-id="6de17-103">Lai iegūtu resursus par Microsoft Defender ATP Windows 10, Windows serveriem un Mac un Linux datoriem, skatiet:</span><span class="sxs-lookup"><span data-stu-id="6de17-103">For resources to onboard Microsoft Defender ATP for Windows 10, Windows servers, and Mac and Linux machines, see:</span></span> 
 
-- <span data-ttu-id="a6c77-104">**Windows 10 datori** Atkarībā no darba prasībām varat izvēlēties kādu no opcijām, kas atrodas datorā, kurā darbojas operētājsistēma Windows 10.</span><span class="sxs-lookup"><span data-stu-id="a6c77-104">**Windows 10 machines** Depending on your business requirements, you can choose from options to onboard a machine running Windows 10.</span></span> <span data-ttu-id="a6c77-105">Papildinformāciju skatiet rakstā [Microsoft Windows 10 ierīču iekārtošanas rīki un metodes](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span><span class="sxs-lookup"><span data-stu-id="a6c77-105">For more info, see [Onboarding tools and methods for Windows 10 devices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span></span> 
+- <span data-ttu-id="6de17-104">**Windows 10 datori** Atkarībā no jūsu uzņēmuma prasībām varat izvēlēties no opcijām, lai datoru, kurā darbojas Windows 10.</span><span class="sxs-lookup"><span data-stu-id="6de17-104">**Windows 10 machines** Depending on your business requirements, you can choose from options to onboard a machine running Windows 10.</span></span> <span data-ttu-id="6de17-105">Papildinformāciju skatiet rakstā [Pievienošanas rīki un Windows 10 metodes.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints)</span><span class="sxs-lookup"><span data-stu-id="6de17-105">For more info, see [Onboarding tools and methods for Windows 10 devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span></span> 
 
-- <span data-ttu-id="a6c77-106">**Windows serveri** Lai ieskatītos Microsoft Defender ATP savā Windows Server versijā, skatiet rakstu [borta serveri uz Microsoft Defender ATP pakalpojumu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span><span class="sxs-lookup"><span data-stu-id="a6c77-106">**Windows servers** To onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span></span>
+- <span data-ttu-id="6de17-106">**Windows serveri** Lai Microsoft Defender ATP servera versiju, Windows skatiet rakstu Microsoft Defender ATP [serveri.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)</span><span class="sxs-lookup"><span data-stu-id="6de17-106">**Windows servers** To onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span></span>
 
-- <span data-ttu-id="a6c77-107">**Non-Windows galapunkti**  Pirms neizmantojat sistēmu Windows, jums ir jāatbilst sistēmas prasībām [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) vai [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)sistēmai.</span><span class="sxs-lookup"><span data-stu-id="a6c77-107">**Non-Windows endpoints**  Before you onboard a non-Windows system, you must meet the system requirements for [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) or [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span></span>
+- <span data-ttu-id="6de17-107">**Galapunkti, Windows nav**  Pirms sistēmu, kas nav Windows, jāatbilst [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) un Linux sistēmas [prasībām.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)</span><span class="sxs-lookup"><span data-stu-id="6de17-107">**Non-Windows endpoints**  Before you onboard a non-Windows system, you must meet the system requirements for [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) or [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span></span>
 
-    <span data-ttu-id="a6c77-108">Pēc sistēmas prasību apstiprināšanas skatiet rakstā [ne-Windows ierīces](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span><span class="sxs-lookup"><span data-stu-id="a6c77-108">After you confirm your system requirements, see [Onboard non-Windows devices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span></span>
+    <span data-ttu-id="6de17-108">Pēc sistēmas prasību apstiprināšanas skatiet rakstu Ierīcēs, kas [nav Windows.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)</span><span class="sxs-lookup"><span data-stu-id="6de17-108">After you confirm your system requirements, see [Onboard non-Windows devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span></span>
