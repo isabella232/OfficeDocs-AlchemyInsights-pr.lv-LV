@@ -1,5 +1,5 @@
 ---
-title: Teams pievienojumprogramma darbam ar Mac
+title: Teams for Mac pievienojumprogramma
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670335"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582077"
 ---
-# <a name="teams-add-in-for-mac"></a>Teams pievienojumprogramma darbam ar Mac
+# <a name="teams-add-in-for-mac"></a>Teams for Mac pievienojumprogramma
 
-Lai novērstu problēmas saistībā ar trūkstošo grupu pievienojumprogrammu darbam ar Mac operētājsistēmu lietotājiem, veiciet tālāk norādītās darbības.
+Lai novērstu problēmas, Teams pievienojumprogrammas operētājsistēmai Mac lietotājiem, rīkojieties šādi:
 
-**1. darbība:** Ja jums ir hibrīda Exchange lokāli (2016 CU3 vai jaunāka versija), izmantojiet Test-HMA.ps1 rīku, lai apstiprinātu, ka hibrīdā modernā autentifikācija ir pareizi konfigurēta. Papildinformāciju skatiet rakstā [hibrīdās modernās autentifikācijas iestatīšana programmā Outlook darbam ar iOS un Android](https://aka.ms/AA980zq).  
+**1. darbība.** Ja izmantojat hibrīdo Exchange (2016. gada 3. vai jaunāku versiju), izmantojiet Test-HMA.ps1 rīku, lai apstiprinātu, ka hibrīdā modernā autentifikācija ir pareizi konfigurēta. Papildinformāciju skatiet rakstā [Hibrīdās modernās autentifikācijas iestatīšanas validēšana Outlook iOS un Android ierīcēm.](https://aka.ms/TestHMAEAS)  
 
-**Piezīmes** Izmantojiet UPN adreses formātu (piemēram, [username@contoso.com](mailto:username@contoso.com)), not domēns \ lietotājvārds To var paveikt arī lietotājiem, kuriem ir Exchange Online pastkastes.
+**Piezīme** Izmantojiet UPN adreses formātu (piemēram, [username@contoso.com](mailto:username@contoso.com)), nevis domēns\lietotājvārds. Tas ir iespējams pat lietotājiem ar Exchange Online pastkastēm.
 
-**2. darbība.** Vai lietotājam ir jāpāriet uz **rīku**  >  **konti**... programmā Outlook darbam ar Mac atrodiet un atlasiet kontu. Apstipriniet, ka sarakstā norādītais lietotājvārds ir UPN formātā (piemēram, [username@contoso.com](mailto:username@contoso.com)).
+**2. darbība.** Lai lietotājs pārietu uz rīku   >  **kontiem...** programmā Outlook for Mac, atrodiet un atlasiet kontu. Apstipriniet lietotājvārdu, kas norādīts UPN formātā (piemēram, [username@contoso.com](mailto:username@contoso.com)).
 
-**3. darbība:** Apstipriniet, ka lietotājs ir licencēts Microsoft Teams lietotājs. Lietotājam ir jāizmanto Office 365 for Mac abonements, produkta versija 16,24 vai jaunāka versija.
+**3. darbība.** Pārliecinieties, vai lietotājs ir licencēts Microsoft Teams lietotājs. Lietotājam jāizmanto operētājsistēmas Mac Office 365 versija 16.24 vai jaunāka versija.

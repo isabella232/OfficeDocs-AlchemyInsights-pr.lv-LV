@@ -1,5 +1,5 @@
 ---
-title: 'Sava domēna pārbaude '
+title: 'Kā verificēt savu domēnu '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683873"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569622"
 ---
-# <a name="how-to-verify-your-domain"></a>Sava domēna pārbaude
+# <a name="how-to-verify-your-domain"></a>Kā verificēt savu domēnu
 
-Lai verificētu domēnu, izpildiet domēna [pievienošanas vedni](https://admin.microsoft.com/Adminportal#/Domains/Wizard)vai manuāli **dodieties uz sadaļu domēnu**  >    >  **pievienošana**.
+Lai pārbaudītu domēnu, izpildiet [domēna pievienošanas vedni](https://admin.microsoft.com/Adminportal#/Domains/Wizard)vai manuāli dodieties uz **Domēnu**  >  **pievienošanas**  >  **domēna iestatīšana.**
 
-Lai iegūtu papildinformāciju par DNS izmaiņām, kas nepieciešamas, lai verificētu savu domēnu, skatiet norādījumus sadaļā [DNS ierakstu pievienošana, lai izveidotu savienojumu ar savu domēnu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Papildinformāciju par DNS izmaiņām, kas nepieciešamas, lai verificētu savu domēnu, skatiet rakstā DNS ierakstu [pievienošana domēna pievienošanai.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Jautājumus par citiem domēniem skatiet rakstā [bieži uzdotie jautājumi par domēniem](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Citus jautājumus par domēniem skatiet bieži [uzdotajos jautājumos par domēniem.](/microsoft-365/admin/setup/domains-faq)

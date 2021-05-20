@@ -1,5 +1,5 @@
 ---
-title: Ārpus biroja automātisko atbilžu problēmu novēršana
+title: Problēmu novēršana ārpus Office automātiskajām atbildēm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832245"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573717"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Ārpus biroja automātisko atbilžu problēmu novēršana
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Problēmu novēršana ārpus Office automātiskajām atbildēm
 
-Problēmu iemesls var būt dažādi iespējamie iemesli atkarībā no tā, kā esat konfigurējis automātiskās atbildes ārpus biroja.
+Problēmu iemesls var būt dažādi iespējamie iemesli atkarībā no tā, kā esat konfigurējis ārpus biroja Office automātiskās atbildes.
 
-Lai iegūtu padziļinātu izpratni par to, kur varētu būt problēma, lūdzu, izlasiet rakstu Par ārpus biroja [(OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972) atbildēm un problēmu novēršanu
+Lai padziļināti izprastu, kur varētu būt problēma, lūdzu, izlasiet rakstu Par ārpussavienības (Out of Office – [OOF) atbildēm](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)un to novēršana.
