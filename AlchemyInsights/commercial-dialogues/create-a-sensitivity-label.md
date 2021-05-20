@@ -1,5 +1,5 @@
 ---
-title: Jutīguma etiķetes izveide
+title: Sensitivitātes etiķetes izveide
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745373"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543764"
 ---
-# <a name="create-a-sensitivity-label"></a>Jutīguma etiķetes izveide
+# <a name="create-a-sensitivity-label"></a>Sensitivitātes etiķetes izveide
 
-Lai izveidotu jutīguma etiķeti, veiciet tālāk norādītās darbības.
+Lai izveidotu jūtīguma etiķeti, veiciet šādas darbības:
 
-1. Dodieties uz **[Office 365 drošības & atbilstības centra](https://sip.protection.office.com/) > klasifikācija > jutības uzlīmes**.
-2. Noklikšķiniet uz **+ izveidot etiķeti** , lai sāktu **jaunu jutīguma uzlīmju** vedni. Papildinformāciju par šifrēšanas iestatījumiem un automātisko etiķetēšanu skatiet rakstā satura [piekļuves ierobežošana, izmantojot šifrēšanu jutības etiķetēs](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) un [Automātiska jutīguma etiķetes lietošana saturam](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Atkārtojiet šīs darbības, lai izveidotu vairāk etiķešu. Tomēr, ja vēlaties izveidot apakšetiķeti, vispirms atlasiet galveno uzlīmi, noklikšķiniet uz **...** , lai iegūtu **papildu darbības**, un pēc tam noklikšķiniet uz **Pievienot apakšetiķeti**.
-4. Kad esat izveidojis visas vajadzīgās uzlīmes, pārskatiet tās secību un, ja nepieciešams, pārvietojiet tās uz augšu vai uz leju. Lai mainītu etiķetes secību, noklikšķiniet uz **...** , lai iegūtu **papildu darbības**, un pēc tam noklikšķiniet uz **Pārvietot augšup** vai **Pārvietot lejup**. 
+1. Dodieties **[uz Office 365 drošības & centra](https://sip.protection.office.com/) > klasifikācijas > sensitivitātes etiķetes**.
+2. Noklikšķiniet **uz + Izveidot etiķeti,** lai startētu jauna **sensitivitātes etiķetes** vedni. Papildinformāciju par šifrēšanas iestatījumiem [](/microsoft-365/compliance/encryption-sensitivity-labels) un automātisko etiķetēm skatiet sadaļā Piekļuves ierobežošana saturam, izmantojot [šifrēšanu](/microsoft-365/compliance/apply-sensitivity-label-automatically)sensitivitātes etiķetēs un Jūtīguma etiķetes automātiska lietošana saturam , atbilstoši.
+3. Atkārtojiet šīs darbības, lai izveidotu papildu etiķetes. Taču, ja vēlaties izveidot apakšizvēlni, vispirms atlasiet vecākelementa etiķeti, atlasiet trīs punktus (citas darbības) un pēc tam atlasiet **Pievienot apakšizvēlni**.
+4. Kad esat izveidojis visas nepieciešamās uzlīmes, pārskatiet to secību un, ja nepieciešams, pārvietojiet tās augšup vai lejup. Lai mainītu etiķetes secību, atlasiet trīs punktus (citas darbības) un pēc tam atlasiet Pārvietot augšup **vai** **Pārvietot lejup**. 

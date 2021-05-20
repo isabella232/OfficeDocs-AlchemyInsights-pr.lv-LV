@@ -1,22 +1,23 @@
 ---
 title: Atspējota licence vai konts
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 57331da43579af705c7e9ba52211295c0e37ce34
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286730"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544873"
 ---
 # <a name="license-or-account-disabled"></a>Atspējota licence vai konts
 
@@ -24,12 +25,11 @@ Ja jūsu abonementa derīgums beidzas vai korporācija Microsoft ir atspējojusi
 
 **Abonementa atkārtota aktivizēšana**
 
-1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Produkti un pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Administrēšanas centrā dodieties uz lapu  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
+2. Cilnē **Produkti** atrodiet abonementu, ko vēlaties atkārtoti aktivizēt. Atlasiet daudzpunkti (vairāk darbību) un pēc tam atlasiet **Atkārtoti aktivizēt šo abonementu.**
+    > [!NOTE]
+    > Ja neredzat sadaļu Atkārtoti **aktivizēt šo abonementu, sazinieties** ar atbalsta dienestu.
+3. Rūtī **Atkārtoti aktivizēt šo** abonementu atlasiet maksāšanas metodi nolaižamajā sarakstā vai atlasiet Pievienot **maksāšanas metodi**.
+4. Atlasiet **Saglabāt**.
 
-2. Lapā Produkti un pakalpojumi izvēlieties abonementu, ko vēlaties atkārtoti aktivizēt.
-
-3. Sadaļā Norēķini noklikšķiniet uz **Atkārtoti aktivizēt**.  Ja atrodaties skatā Kartes, noklikšķiniet uz daudzpunktes starp izvēlni Nosaukums un Pieejamais daudzums un izvēlnē atlasiet Aktivizēt atkārtoti. **Piezīme**: Ja neredzat vēlamo abonementu, iespējams, būs jāpielāgo filtrs Abonementa statuss lapas augšdaļā uz **Visi**.
-
-4. Apstipriniet savu maksājuma informāciju, lai atjauninātu jūsu esošo maksājumu informāciju. Kad esat ievadījis maksāšanas metodi, noklikšķiniet uz **Atkārtoti aktivizēt**.
-
-Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713878"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544007"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Kā pārvaldīt pievienojumprogrammas ziņojuma lasīšanas laikā
 
-1. Programmā Outlook tīmeklī atlasiet ziņojumu.
+1. Sarakstā Outlook tīmeklī atlasiet ziņojumu.
     
-2. Atlasiet **vairāk darbību** ziņojuma augšdaļā.
+2. Atlasiet daudzpunkti (vairāk darbību) ziņojuma augšdaļā.
 
-3. Dodieties uz saraksta beigām un atlasiet **iegūt pievienojumprogrammas**.
+3. Saraksta lejasdaļā atlasiet **Iegūt pievienojumprogrammas.**
     
-4. Lapā pievienojumprogrammas darbam ar Outlook atlasiet vajadzīgo pievienojumprogrammu.
+4. Lapā Pievienojumprogrammas Outlook pievienojumprogrammu.
     
-    Lai saņemtu bezmaksas pievienojumprogrammas, atlasiet **Pievienot** , lai to pievienotu savai pastkastei.
+    Bezmaksas pievienojumlietojumprogrammām atlasiet **Pievienot,** lai to pievienotu savā pastkastē.
     
-    Maksas pievienojumprogrammām un bezmaksas izmēģinājumiem atlasiet **iegūt to** , lai sāktu pirkumu.
+    Maksas pievienojumlietojumprogrammām un bezmaksas izmēģinājumversiēm atlasiet **Iegūt,** lai sāktu pirkumu.
     
-Papildinformāciju skatiet rakstā [pievienojumprogrammu izmantošana programmā Outlook tīmeklī](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
+Papildinformāciju skatiet [rakstā Pievienojumprogrammu izmantošana Outlook tīmeklī.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)
