@@ -1,5 +1,5 @@
 ---
-title: Jutīguma uzlīmju publicēšana
+title: Sensitivitātes etiķešu publicēšana
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745542"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539723"
 ---
-# <a name="publish-sensitivity-labels"></a>Jutīguma uzlīmju publicēšana
+# <a name="publish-sensitivity-labels"></a>Sensitivitātes etiķešu publicēšana
 
-Lai publicētu jutīguma etiķetes, veiciet tālāk norādītās darbības.
+Lai publicētu sensitivitātes etiķetes, veiciet šādas darbības:
 
-1. Izvēlieties **Office 365 drošības & atbilstības centra > klasifikācija > jutības uzlīmes**.
-2. Lapā **jutīguma etiķetes** noklikšķiniet uz cilnes **uzlīmju politikas** .
-3. Noklikšķiniet uz **publicēt uzlīmes**.
-4. Noklikšķiniet uz **izvēlēties jutības uzlīmes, kuras publicēt**. 
-5. Atlasiet uzlīmes, kuras vēlaties padarīt pieejamas lietojumprogrammās un pakalpojumos, un pēc tam noklikšķiniet uz **Pievienot**.
+1. Izvēlieties **Office 365 security & Compliance Center > Classification > Sensitivity labels**.
+2. Lapā **Sensitivitātes** etiķetes noklikšķiniet uz **cilnes Etiķešu** politikas.
+3. Noklikšķiniet **uz Publicēt uzlīmes**.
+4. Noklikšķiniet **uz Izvēlieties jūtīguma etiķetes, lai publicētu**. 
+5. Atlasiet etiķetes, kuras vēlaties padarīt pieejamas programmās un pakalpojumos, un pēc tam noklikšķiniet uz **Pievienot.**
 > [!IMPORTANT]
-> Ja atlasāt apakšetiķeti, pārliecinieties, vai ir atlasīta arī tās vecākobjekta uzlīme.
-6. Pārskatiet atlasītās etiķetes. Lai veiktu izmaiņas, noklikšķiniet uz **Rediģēt**; Pretējā gadījumā noklikšķiniet uz **Tālāk**.
-7. Izpildiet uzvednēs sniegtos norādījumus, lai konfigurētu politikas iestatījumus.
-8. Atkārtojiet šīs darbības, ja nepieciešami dažādi politikas iestatījumi dažādiem lietotājiem vai atrašanās vietām. Piemēram, vēlaties papildu etiķetes lietotāju grupai vai citu noklusējuma etiķeti lietotāju apakškopā.
-9. Ja izveidojat vairāk nekā vienu uzlīmju politiku, kas var izraisīt konflikta lietotājam vai atrašanās vietai, pārskatiet politikas secību un, ja nepieciešams, pārvietojiet to uz augšu vai uz leju. Lai mainītu uzlīmju politikas secību, atlasiet **..** . Lai iegūtu **papildu darbības**, un pēc tam atlasiet **Pārvietot augšup** vai **Pārvietot lejup**.
+> Atlasot apakšizvēlnes etiķeti, pārliecinieties, vai ir atlasīta arī tā vecākelementa etiķete.
+6. Pārskatiet atlasītās uzlīmes. Lai veiktu izmaiņas, noklikšķiniet uz **Rediģēt**; pretējā gadījumā noklikšķiniet uz **Tālāk**.
+7. Izpildiet norādījumus, lai konfigurētu politikas iestatījumus.
+8. Atkārtojiet šīs darbības, ja dažādiem lietotājiem vai atrašanās vietām ir nepieciešami atšķirīgi politikas iestatījumi. Piemēram, jūs vēlaties papildu etiķetes lietotāju grupai vai citu noklusējuma etiķeti lietotāju apakškopai.
+9. Ja esat izveidojis vairākas uzlīmju politikas, kas var radīt konfliktu lietotājam vai atrašanās vietai, pārskatiet politikas secību un, ja nepieciešams, pārvietojiet tos augšup vai lejup. Lai mainītu etiķešu politikas secību, atlasiet trīs punktus (citas darbības) un pēc tam atlasiet Pārvietot **augšup** vai **Pārvietot lejup**.
 
-Pabeidzot vedni, tiek automātiski publicēta etiķetes politika.
+Vedņa pabeigšana automātiski publicē uzlīmju politiku.
 
