@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook pievienojumprogramma
+title: Teams Outlook (Koplietot sapulcē, Teams, Tikties tūlīt, Teams sapulce, Pievienoties Teams sapulcei)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835026"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542756"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="3261b-102">Teams Outlook pievienojumprogramma</span><span class="sxs-lookup"><span data-stu-id="3261b-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a><span data-ttu-id="09363-102">Teams Outlook pievienojumprogramma (Koplietot sapulcē Teams, Tikties tūlīt, Jauna Teams sapulce, Pievienoties Teams sapulcei)</span><span class="sxs-lookup"><span data-stu-id="09363-102">Teams Outlook add-in (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)</span></span>
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="3261b-103">Lai novērstu problēmas, kas saistītas ar trūkstošu Teams Outlook pievienojumprogrammu</span><span class="sxs-lookup"><span data-stu-id="3261b-103">To troubleshoot a missing Teams Outlook add-in</span></span>
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="09363-103">Lai novērstu problēmas, Teams Outlook pievienojumprogrammu trūkstošai pievienojumprogrammai</span><span class="sxs-lookup"><span data-stu-id="09363-103">To troubleshoot a missing Teams Outlook add-in</span></span>
 
-1. <span data-ttu-id="3261b-104">Palaidiet pakalpojuma diagnostiku administrēšanas portālā.</span><span class="sxs-lookup"><span data-stu-id="3261b-104">Run the Service Diagnostic in the Admin Portal.</span></span> 
-2. <span data-ttu-id="3261b-105">Ja Pakalpojuma diagnostika nenovērš problēmas, diagnosticējiet un izlabojiet klienta problēmas attiecīgajās lietotāju datoros, lejupielādējot un palaižot Microsoft atbalsta un atkopšanas [palīga](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook pievienojumprogrammas scenāriju.**</span><span class="sxs-lookup"><span data-stu-id="3261b-105">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
+1. <span data-ttu-id="09363-104">Palaidiet diagnostikas komandu "Grupas pievienojumprogramma trūkst programmā Outlook", kas pārbauda, vai lietotājam ir pareizās politikas, lai iespējotu Teams Outlook pievienojumprogrammu.</span><span class="sxs-lookup"><span data-stu-id="09363-104">Run the diagnostic “Team Add-in is missing in Outlook,” which validates that a user has the correct policies to enable the Teams Outlook add-in.</span></span> <span data-ttu-id="09363-105">Lai piekļūtu diagnostikas rīkam, **ierakstiet Diag: Teams Trūkst pievienojumprogrammas Outlook** meklēšanas lodziņā.</span><span class="sxs-lookup"><span data-stu-id="09363-105">To access the diagnostic, type **Diag: Teams Add-in Missing in Outlook** in the search box.</span></span>
 
-<span data-ttu-id="3261b-106">Lai manuāli novērstu problēmas trūkstošā Outlook pievienojumlietojumprogrammā Teams, pārskatiet sarakstu ar iespējamajiem faktoriem, kas var izraisīt to, ka jūsu Teams pievienojumprogramma netiek rādīta sarakstā.</span><span class="sxs-lookup"><span data-stu-id="3261b-106">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="3261b-107">Papildinformāciju skatiet rakstā [Teams sapulču pievienojumprogramma programmā Outlook darbam ar Windows netiek rādīta.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="3261b-107">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+1. <span data-ttu-id="09363-106">Ja Pakalpojuma diagnostika nenovērš problēmas, diagnosticējiet un izlabojiet klienta problēmas attiecīgajās lietotāju datoros, lejupielādējot un palaižot [Microsoft atbalsta un atkopšanas palīgs](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook pievienojumprogrammas scenāriju.**</span><span class="sxs-lookup"><span data-stu-id="09363-106">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="3261b-108">Lai novērstu problēmas saistībā ar Teams sapulces plānošanu citas personas vārdā (pārstāvis)</span><span class="sxs-lookup"><span data-stu-id="3261b-108">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+<span data-ttu-id="09363-107">Lai manuāli novērstu trūkstošas pievienojumprogrammas Teams Outlook, pārskatiet sarakstu ar iespējamajiem faktoriem, Teams pievienojumprogramma netiek rādīta sarakstā.</span><span class="sxs-lookup"><span data-stu-id="09363-107">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="09363-108">Papildinformāciju skatiet [rakstā Teams Sapulču pievienojumprogrammas Outlook for Windows nerāda](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="09363-108">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
 
-<span data-ttu-id="3261b-109">Lai ieplānotu Teams sapulci citas personas vārdā, skatiet rakstu [Microsoft Teams un Exchange Server saziņas problēmu novēršana.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="3261b-109">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="09363-109">Problēmu novēršana, ieplānojot Teams sapulci citas personas vārdā (pārstāvis)</span><span class="sxs-lookup"><span data-stu-id="09363-109">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+
+<span data-ttu-id="09363-110">Lai ieplānotu Teams cita lietotāja [vārdā,](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)skatiet rakstu Darbības Microsoft Teams un Exchange Server problēmu novēršana.</span><span class="sxs-lookup"><span data-stu-id="09363-110">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
