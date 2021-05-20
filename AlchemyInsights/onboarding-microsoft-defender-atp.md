@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender ATP ieguldīšana
+title: Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673432"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545311"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defender ATP ieguldīšana
+# <a name="onboarding-microsoft-defender-atp"></a>Microsoft Defender ATP
 
-Lai iegūtu resursus uz Microsoft Defender ATP darbam ar Windows 10, Windows serveriem un Mac un Linux datoriem, skatiet: 
+Lai iegūtu resursus par Microsoft Defender ATP Windows 10, Windows serveriem un Mac un Linux datoriem, skatiet: 
 
-- **Windows 10 datori** Atkarībā no darba prasībām varat izvēlēties kādu no opcijām, kas atrodas datorā, kurā darbojas operētājsistēma Windows 10. Papildinformāciju skatiet rakstā [Microsoft Windows 10 ierīču iekārtošanas rīki un metodes](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 datori** Atkarībā no jūsu uzņēmuma prasībām varat izvēlēties no opcijām, lai datoru, kurā darbojas Windows 10. Papildinformāciju skatiet rakstā [Pievienošanas rīki un Windows 10 metodes.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows serveri** Lai ieskatītos Microsoft Defender ATP savā Windows Server versijā, skatiet rakstu [borta serveri uz Microsoft Defender ATP pakalpojumu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows serveri** Lai Microsoft Defender ATP servera versiju, Windows skatiet rakstu Microsoft Defender ATP [serveri.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
-- **Non-Windows galapunkti**  Pirms neizmantojat sistēmu Windows, jums ir jāatbilst sistēmas prasībām [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) vai [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)sistēmai.
+- **Galapunkti, Windows nav**  Pirms sistēmu, kas nav Windows, jāatbilst [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) un Linux sistēmas [prasībām.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 
-    Pēc sistēmas prasību apstiprināšanas skatiet rakstā [ne-Windows ierīces](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    Pēc sistēmas prasību apstiprināšanas skatiet rakstu Ierīcēs, kas [nav Windows.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)

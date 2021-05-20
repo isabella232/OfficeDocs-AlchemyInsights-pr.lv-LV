@@ -1,5 +1,5 @@
 ---
-title: Iespējojiet Office 365 ATP pakalpojumam SharePoint, OneDrive un Microsoft Teams
+title: AtP Office 365 iespējošana SharePoint, OneDrive un Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801058"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543935"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Iespējot Microsoft Defender pakalpojumam Office 365 pakalpojumam SharePoint Online, OneDrive un Microsoft Teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Microsoft Defender iespējošana programmatūrai Office 365 SharePoint Online, OneDrive un Microsoft Teams
 
-1. Dodieties uz https://protection.office.com un pierakstieties.
-2. Izvēlieties **draudus pārvaldības**  >  **politikas**  >  **drošības pielikumi** .
-3. Atlasiet **Ieslēgt ATP pakalpojumam SharePoint, OneDrive un Microsoft Teams** un pēc tam noklikšķiniet uz **Saglabāt** .
-4. Ieteicams Kā globālais administrators vai SharePoint Online administrators izpildiet [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet ar parametru **DisallowInfectedFileDownload** , kas iestatīts kā *patiess* .
-5. Ieteicams [Iestatiet brīdinājumus](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) par noteiktajiem failiem.
+1. Dodieties https://protection.office.com uz sadaļu un pierakstieties.
+2. Izvēlieties **Apdraudējumu pārvaldības**  >  **politika** Seifs  >  **pielikumiem.**
+3. Atlasiet **Opciju Programmatūras Defender Office 365 programmatūrām SharePoint, OneDrive programmatūrā un Microsoft Teams** tam noklikšķiniet uz **Saglabāt.**
+4. (Ieteicams) Kā globālais administrators vai SharePoint Online administrators izpildiet [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet ar iestatīto parametru **DisallowInfectedFileDownload** kā *true*.
+5. (Ieteicams) [Iestatīt brīdinājumus par konstatētajiem](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) failiem.
 
 > [!NOTE]
-> ATP ir NTO skenē katru atsevišķu failu pakalpojumā SharePoint Online, OneDrive vai Microsoft Teams. Faili tiek skenēti asinhroni, izmantojot procesu, kas izmanto koplietošanas un viesa aktivitāšu notikumus, kā arī viedos heiristiku un draudu signālus, lai identificētu ļaunprātīgus failus. Skatiet rakstu [ATP for SharePoint, OneDrive un Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+> Microsoft Defender Office 365 neskenēs katru failu programmā SharePoint Online, OneDrive vai Microsoft Teams. Faili tiek skenēti asinhroni, izmantojot procesu, kas izmanto koplietošanas un viesdarbību notikumus, kā arī viedos heurtiku un apdraudējumu signālus, lai identificētu ļaunprātīgus failus. Skatiet [rakstu Microsoft Defender Office 365 SharePoint, OneDrive un Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

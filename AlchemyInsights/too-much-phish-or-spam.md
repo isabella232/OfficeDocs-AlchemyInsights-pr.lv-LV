@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824622"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544837"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Vai savā pastkastē saņemat pārāk daudz pikšķerēšanas vai surogātpasta?
 
@@ -26,4 +26,4 @@ Kā Microsoft 365 administrators pikšķerēšanas vai surogātpasta ziņojuma p
 
 Lai atvieglotu darbu, varat atļaut lietotājiem ziņot tieši korporācijai Microsoft, izmantojot atskaišu [ziņojumu pievienojumprogrammu.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**Vai zinājāt? Tagad** varat iesniegt [](https://security.microsoft.com/messagetrace) paraugus tieši no ziņojumu izsekošanas un E5/ATP 2. plāna klienti var iesniegt paraugus no [Apdraudējumu pārlūka.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+**Vai zinājāt? Tagad** varat iesniegt [](https://security.microsoft.com/messagetrace) paraugus tieši no ziņojumu izsekošanas un E5/Microsoft Defender Office 365 2. plāna klienti var iesniegt paraugus no [Threat Explorer.](/microsoft-365/security/office-365-security/threat-explorer)
