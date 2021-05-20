@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Enterprise plānu atšķirības
+title: Microsoft 365 Enterprise plāna atšķirības
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745662"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539759"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise plānu atšķirības
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise plāna atšķirības
 
-Microsoft 365 Enterprise E5 ietver visus Microsoft 365 Enterprise E3 līdzekļus, kā arī papildu drošības pasākumus, piemēram:
+Microsoft 365 Enterprise E5 ietver visus E3 līdzekļus Microsoft 365 Enterprise kā arī papildu drošības pasākumus, piemēram:
 
-- Uzlabotā aizsardzība pret draudiem (ATP)
+- Pretdraudu aizsardzība
 - Uzlabotā datu pārvaldība
-- Klienta Lockbox
-- Microsoft 365 Cloud lietojumprogrammas drošība
-- Papildu e-datu atklāšana
+- Klientu slēdzeņu lodziņš
+- Microsoft 365 Cloud App Security
+- Advanced eDiscovery
 - Tiesību pārvaldības pakalpojumi
-- Azure taustiņu krātuve
+- Azure atslēgu glabātava
 
-Microsoft 365 Enterprise E5 ietilpst arī jaudīgās analīzes un balss iespējas, piemēram:
+Microsoft 365 Enterprise E5 komplektācijā ir arī jaudīgas analīzes un balss iespējas, piemēram:
 
-- Live informācijas paneļi
-- Atskaites ar Power BI
-- Modernā balss
+- Live Dashboards
+- Atskaites, izmantojot Power BI
+- Modern Voice
 - Audiokonferences
 - Tiešsaistes sapulces
 
-Lai uzzinātu vairāk par Microsoft 365 Enterprise E5 vai pierakstīšanos izmēģinājuma abonementam, skatiet rakstu [Microsoft 365 abonementa izmēģināšana vai iegāde](https://go.microsoft.com/fwlink/?linkid=2099673).
+Lai iegūtu papildinformāciju Microsoft 365 Enterprise abonementu E5 vai lai reģistrēties izmēģinājuma abonementam, skatiet rakstu Izmēģiniet [vai iegādājieties Microsoft 365 abonementu.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Lai salīdzinātu līdzekļus vairākos uzņēmuma plānos, skatiet rakstu [uzņēmumu plānu salīdzinājums](https://go.microsoft.com/fwlink/?linkid=2097200).
+Lai salīdzinātu Līdzekļus Enterprise plānos, skatiet [rakstu Enterprise plānu salīdzinājums.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
-Mēs novērtējam jūsu atsauksmes, tāpēc, lūdzu, atlasiet Jā/Nē, kas tiek parādīts, un pēc tam novērtējiet savu pieredzi.
+Pateicamies par jūsu atsauksmēm, tāpēc, lūdzu, atlasiet Jā/nē uz parādīto jautājumu un pēc tam novērtējiet savu pieredzi.

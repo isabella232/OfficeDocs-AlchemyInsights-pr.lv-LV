@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286857"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539975"
 ---
 # <a name="subscription-recurring-billing"></a>Abonementa periodiskie norēķini
 
-Ja vēlaties uzzināt, vai jūsu mēneša vai gada abonements ir izrakstīts (ja **periodiskie norēķini** ir ieslēgti) vai beidzas tā derīguma termiņš (ja **periodiskie norēķini** ir izslēgti), veiciet tālāk norādītās darbības.
+Ja vēlaties uzzināt, kad tiek izrakstīts rēķins  par mēneša vai gada abonementu (ja periodiskie norēķini ir ieslēgti) vai kad beidzas tā derīgums (ja periodiskie norēķini ir izslēgti), veiciet tālāk norādītās darbības. 
   
-1. Administrēšanas centrā dodieties uz lapu **norēķini** par \> [produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Cilnē **Products (produkti** ) atrodiet abonementu, par kuru vēlaties uzzināt vairāk. Kolonna **abonementa statuss** rāda atjaunošanas vai derīguma beigu datumu.
-3. Lai veiktu izmaiņas, atlasiet **citas darbības** (trīs punkti) un pēc tam atlasiet **Rediģēt periodiskos norēķinus**.
-4. Rūtī **Rediģēt periodiskos norēķinus** atlasiet **ieslēgts**, **ieslēgts, atjaunot vienreiz**vai **izslēgts**.
+1. Administrēšanas centrā dodieties  uz lapu \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
+2. Cilnē **Produkti** atrodiet abonementu, par kuru vēlaties uzzināt papildinformāciju. Kolonnā **Abonementa** statuss tiek rādīts atjaunošanas vai derīguma beigu datums.
+3. Lai veiktu izmaiņas, atlasiet daudzpunkti (vairāk darbību) un pēc tam atlasiet **Rediģēt periodiskos norēķinus**.
+4. Rūtī Rediģēt **periodiskos norēķinus** atlasiet **Ieslēgts**, **Ieslēgts, atjaunot vienreiz** vai **Izslēgts**.
 5. Atlasiet **Saglabāt**.
 
-Lai uzzinātu vairāk, skatiet sadaļu [Periodisko norēķinu izslēgšana vai ieslēgšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Lai uzzinātu vairāk, skatiet sadaļu [Periodisko norēķinu izslēgšana vai ieslēgšana](/microsoft-365/commerce/subscriptions/renew-your-subscription).

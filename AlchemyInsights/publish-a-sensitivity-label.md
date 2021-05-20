@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233793"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539651"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kā publicēt jūtīguma etiķeti
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233793"
 
 1. Atkārtojiet šīs darbības, ja dažādiem lietotājiem vai atrašanās vietām ir nepieciešami atšķirīgi politikas iestatījumi. Piemēram, jūs vēlaties papildu etiķetes lietotāju grupai vai citu noklusējuma etiķeti lietotāju apakškopai.
 
-1. Ja esat izveidojis vairākas uzlīmju politikas, kas var radīt konfliktu lietotājam vai atrašanās vietai, pārskatiet politikas secību un, ja nepieciešams, pārvietojiet tos augšup vai lejup. Lai mainītu etiķešu politikas secību, atlasiet **...** vienumam **Citas darbības** un pēc tam atlasiet Pārvietot **augšup** vai **Pārvietot lejup**.
+1. Ja esat izveidojis vairākas uzlīmju politikas, kas var radīt konfliktu lietotājam vai atrašanās vietai, pārskatiet politikas secību un, ja nepieciešams, pārvietojiet tos augšup vai lejup. Lai mainītu etiķešu politikas secību, atlasiet trīs punktus (citas darbības) un pēc tam atlasiet Pārvietot **augšup** vai **Pārvietot lejup**.
 
 Vedņa pabeigšana automātiski publicē uzlīmju politiku.
