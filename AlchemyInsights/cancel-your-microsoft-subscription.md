@@ -1,29 +1,31 @@
 ---
 title: Microsoft abonementa atcelšana
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707749"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543332"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="459ec-102">Microsoft abonementa atcelšana</span><span class="sxs-lookup"><span data-stu-id="459ec-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="a085b-102">Microsoft abonementa atcelšana</span><span class="sxs-lookup"><span data-stu-id="a085b-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="459ec-103">Dodieties uz [Pakalpojumi un abonementi](https://account.microsoft.com/services/), un pierakstieties ar Microsoft, kuru izmantojāt abonementa iegādei.</span><span class="sxs-lookup"><span data-stu-id="459ec-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="a085b-103">Administratori savas organizācijas abonementu var atcelt Microsoft 365 centrā.</span><span class="sxs-lookup"><span data-stu-id="a085b-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="459ec-104">Atrodiet savu abonementu un noklikšķiniet uz **Pārvaldīt**.</span><span class="sxs-lookup"><span data-stu-id="459ec-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="459ec-105">Ja tiek rādīts **Ieslēdziet periodiskos norēķinus** nevis **Pārvaldīt**, pārejiet uz problēmu novēršanas sadaļu. Ja viss ir kārtībā, pārejiet pie 3. darbības.</span><span class="sxs-lookup"><span data-stu-id="459ec-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="a085b-104">Dodieties uz **lapu** \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.</span><span class="sxs-lookup"><span data-stu-id="a085b-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="a085b-105">Cilnē **Produkti** atrodiet abonementu, ko vēlaties atcelt.</span><span class="sxs-lookup"><span data-stu-id="a085b-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="a085b-106">Atlasiet daudzpunkti (citas darbības), pēc tam atlasiet **Atcelt abonementu**.</span><span class="sxs-lookup"><span data-stu-id="a085b-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="a085b-107">Rūtī **Abonementa** atcelšana izvēlieties atcelšanas iemeslu.</span><span class="sxs-lookup"><span data-stu-id="a085b-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="a085b-108">Ja vēlaties, sniedziet atsauksmes.</span><span class="sxs-lookup"><span data-stu-id="a085b-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="a085b-109">Atlasiet **Saglabāt**.</span><span class="sxs-lookup"><span data-stu-id="a085b-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="459ec-106">Nākamajā lapā noklikšķiniet uz **Atcelt** vai **Jaunināt vai atcelt**, atbilstoši no jūsu abonementa veidam.</span><span class="sxs-lookup"><span data-stu-id="459ec-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="459ec-107">Sekojiet norādījumiem lapā, lai veiktu atcelšanu.</span><span class="sxs-lookup"><span data-stu-id="459ec-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="a085b-110">**Atmaksa:** Visu atpakaļvērtēto kredītu jums atgriezīs nākamajā norēķinu ciklā.</span><span class="sxs-lookup"><span data-stu-id="a085b-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
