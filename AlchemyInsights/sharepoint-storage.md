@@ -1,5 +1,5 @@
 ---
-title: SharePoint krātuve
+title: Savas SharePoint tiešsaistes krātuves pārvaldība
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773746"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689865"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online krātuves pārvaldība
+# <a name="manage-your-sharepoint-online-storage"></a>Savas SharePoint tiešsaistes krātuves pārvaldība
 
-Uzziniet, kā [tiek aprēķināta nomnieka krātuve](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) atbilstoši jūsu plānam.
+Lielākajā daļā organizāciju SharePoint krātuve tiek pārvaldīta automātiski, tāpēc jums nav jāiestata ierobežojumi katrai vietņu kolekcijai. Papildinformāciju par to, kā tiek aprēķināta nomnieka krātuve, pamatojoties uz jūsu plānu, skatiet [rakstā Ierobežojumi pēc plāna.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-Lielākajai daļai organizāciju SharePoint krātuve tiek pārvaldīta automātiski, līdz ar to nav jāiestata ierobežojumi katrai vietņu kolekcijai.
+Papildinformāciju skatiet rakstā:
 
-Uzziniet, kā [Skatīt savas organizācijas kopējo un pieejamo krātuves vietu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Vietņu krātuves ierobežojumu pārvaldība](/sharepoint/manage-site-collection-storage-limits)
 
-Uzziniet, kā [pārvaldīt atsevišķas vietņu kolekcijas krātuves robežas](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Atsevišķo vietņu krātuves ierobežojumu pārvaldība](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Ja jūsu vietne ir nepietiekama vai vēlaties uzzināt, kura bibliotēka vai saraksts izmanto atstarpi, dodieties uz **vietnes iestatījumu**  >  **krātuves metrika** (vietņu kolekcijas administratora atļaujas ir nepieciešamas).
+Ja jūsu vietnē nepietiek vietas vai vēlaties uzzināt, kura bibliotēka vai saraksts izmanto vietu, dodieties uz vietnes **Iestatījumi** krātuves  >  **metrika (nepieciešamas** vietņu kolekcijas administratora atļaujas).
 
-Uzziniet, kā [pārraudzīt vietņu krātuves ierobežojumus, izmantojot PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Papildinformāciju skatiet rakstā:
 
-Uzziniet, kā [iegādāties papildu krātuvi](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Vietnes krātuves ierobežojumu pārraudzība, izmantojot PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Abonementa krātuves vietas pievienošana](/microsoft-365/commerce/add-storage-space) 
   
