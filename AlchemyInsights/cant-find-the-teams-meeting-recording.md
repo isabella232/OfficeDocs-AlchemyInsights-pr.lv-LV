@@ -1,5 +1,5 @@
 ---
-title: Nevar atrast grupu sapulču ierakstīšanu
+title: Nevar atrast sapulces Teams ierakstu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294249"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696943"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Nevar atrast grupu sapulču ierakstīšanu
+# <a name="cant-find-the-teams-meeting-recording"></a>Nevar atrast sapulces Teams ierakstu
 
-Ja nevarat atrast vai atrast grupu sapulču ierakstu, skatiet tālāk norādīto problēmu novēršanas dokumentāciju.
+Ja nevarat atrast sapulces ierakstu vai Teams ierakstu, vispirms palaidiet trūkstošās sapulces ieraksta diagnostiku, ierakstot **Diag:** trūkst ieraksta lodziņā augstāk. 
 
-[Sapulču ierakstu problēmu novēršana — Microsoft Teams | Microsoft dokumenti](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Ieraksti tiek atrasti lapā Stream, OneDrive vai SharePoint atkarībā no tā, kā jūsu nomnieks ir konfigurēts un vai ieraksts bija paredzēts kanāla sapulcei. Norādījumus par to, kā manuāli atrast sapulces ierakstu, skatiet šeit: 
 
-Jūsu sapulces ieraksts tiks izvietots straumē, OneDrive vai SharePoint atkarībā no tā, kā nomnieks ir konfigurēts.
+[2. problēma: sapulces ierakstīšanas saite nav redzama tērzēšanas logā](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Norādījumus par to, kā atrast sapulces ierakstu, skatiet šeit:
-
-**[2. problēma: sapulces ieraksta saite nav redzama tērzēšanas logā](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Papildinformāciju skatiet rakstā [Problēmas ar sapulču ierakstiem.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
