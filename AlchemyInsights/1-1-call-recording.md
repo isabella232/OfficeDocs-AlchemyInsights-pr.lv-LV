@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: lv-LV
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696965"
+ms.locfileid: "52702097"
 ---
 # <a name="11-call-recording"></a>1:1 zvanu ierakstīšana
 
-Ja poga **Sākt ierakstīšanu** 1:1 zvanā ir pelēkota, ir jāmaina ietekmētā lietotāja politikas iestatījumi.   
+Ja poga **Sākt ierakstīšanu** 1:1 zvanā ir pelēkota, ir jāmaina ietekmētā lietotāja politikas iestatījumi. Lai pārbaudītu politikas iestatījumu, palaidiet diagnostiku ietekmētā lietotājam, ierakstot **Diag: Teams 1:1 Zvana** ierakstīšana.     
 
 Sākot ar 2021. gada 31. maiju, sāksim ieviest jaunu zvanīšanas Teams *AllowCloudRecordingForCalls*. Pirms šo izmaiņu 1:1 zvana ierakstu kontrolē *AllowCloudRecording* Teams sapulces politika. Šīs izmaiņas ir dokumentētas ziņojumu centra ziņā: [(Atjaunināts) 1:1 Zvanu ierakstīšanas politikas ievads.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
 *AllowCloudRecordingForCalls*   zvanu politikas opcija pēc **$False** ir iestatīta. Ja vēlaties visiem lietotājiem bloķēt 1:1 zvanu ierakstīšanu, jums nav jāveic nekādas darbības.  
 
-Lai iespējotu zvanu ierakstīšanu visiem lietotājiem 1:1 zvanos, izmantojiet Teams PowerShell, lai izpildītu šādu cmdlet komandu: 
+Lai iespējotu zvanu ierakstīšanu visiem lietotājiem 1:1 zvanos, izmantojiet [Teams PowerShell,](/microsoftteams/teams-powershell-install) lai izpildītu šādu cmdlet komandu: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
