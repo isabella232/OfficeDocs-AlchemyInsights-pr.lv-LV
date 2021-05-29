@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830040"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702133"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Exchange Online PowerShell mikro aiztures vai ierobežošana
 
-Palaižot skriptus vai komandlietotnes Exchange Online, jums var tikt parādīts paziņojums “Piemērotas mikro aiztures” vai piemērota ierobežošana. Tālāk ir sniegti divi ieteikumi par to:
+Palaižot skriptus vai komandlietotnes Exchange Online, jums var tikt parādīts paziņojums “Piemērotas mikro aiztures” vai piemērota ierobežošana. Lūk, daži ieteikumi, kā to novērst:
 
-- Iespējams, ka vēlaties izmēģināt [Exchange Online v2 PowerShell moduli](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), kas iekļauj komandlietotnes, kas ir balstītas uz REST API un tām ir būtiski lielāka veiktspēja. Šis varētu būt lielisks risinājums daudzām bieži izmantotām Get- komandlietotnēm.
-- Ja jums ir jāizmanto komandlietotnes, kas vēl nav iekļautas v2 modulī, lūdzu, lasiet [PowerShell komandlietotņu palaišana lielam Office 365 lietotāju skaitam](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), kur ir aprakstīts risinājums PowerShell ierobežojumu apiešanai pakalpojumā Exchange Online.
+- Lūdzu, palaidiet mūsu diagnostiku, lai atslābtu nomnieka PowerShell ierobežošanas politikas. Šis risinājums atrisinās problēmu lielākajai daļai.
+- Ja problēmu joprojām nevar atrisināt, izmantojiet [Exchange Online v2 PowerShell](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)moduli, kurā iekļauti CMDlets, kuru pamatā ir REST API un kuri ir ievērojami efektīvāki. Šis varētu būt lielisks risinājums daudzām bieži izmantotām Get- komandlietotnēm.
+- Ja vēlaties izmantot CMDlets, kas nav apskatītas v2 modulī, lūdzu, skatiet rakstu [PowerShell cmdlet](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)izpildīšana lielam lietotāju skaitam programmā Office 365, kurā ir ietvertas sarunas par PowerShell ierobežošanas ierobežojumu apiet Exchange Online.
