@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470267"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721643"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Pakalpojuma importēšana
 
-Importēšanas Microsoft 365 ļauj importēt vairākus PST failus lielapjoma importēšanai, lai Exchange Online pastkastes.
-
 Lai piekļūtu importēšanas pakalpojumam un sāktu importēšanas procesu:
 
-1. Dodieties [uz drošības & un](https://protection.office.com) pierakstieties, izmantojot savas organizācijas administratora konta akreditācijas datus.
+1. Dodieties [uz M365 atbilstības centru](https://compliance.microsoft.com/)un pierakstieties, izmantojot savas organizācijas administratora konta akreditācijas datus.
 
-2. Drošības kontroles centra kreisajā **rūtī noklikšķiniet & Informācijas** pārvaldība un > **Importēt.**
+1. M365 atbilstības centra kreisajā rūtī sadaļā **Risinājumi** atlasiet Informācijas pārvaldības   >  **importēšana**.
 
-3. Lapā Importēšana **noklikšķiniet** uz Jauns **importēšanas darbs**.
+1. Lapā **Importēšana** atlasiet Jauns **importēšanas darbs**.
 
-4. Lai pabeigtu vednī norādītās darbības, izpildiet [šos dejotos norādījumus.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. Lai veiktu vednī norādītās darbības, skatiet rakstu Augšupielādes tīklā izmantošana, lai importētu jūsu organizācijas [PST failus pakalpojumā Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
-**Svarīgi:** lai **piekļūtu** lapai Importēšana & atbilstības centrā, jums ir  [piešķirtas atbilstošas atļaujas](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).
+Lai piekļūtu **lapai** Importēt, pārliecinieties, vai jums ir piešķirtas atbilstošas atļaujas. Papildinformāciju skatiet rakstā [Augšupielāde tīklā, lai importētu PST failus.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Ja vēlaties importēt PST failu savā pastkastē, skatiet [šo rakstu.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Ja vēlaties importēt PST failu savā pastkastē, skatiet rakstu [E-pasta, kontaktpersonu un kalendāra importēšana no Outlook .pst faila.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+Ja rodas ar importēšanu saistītas problēmas, skatiet rakstu Problēmas, kas [ietekmē PST importēšanas darbus.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+
