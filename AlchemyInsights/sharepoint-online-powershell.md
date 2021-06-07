@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830589"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774366"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
 Vai strādājat ar PowerShell vai skriptiem koplietošanas vidē SharePoint Online? Lai iegūtu papildinformāciju, apmeklējiet tālāk esošās saites.
-- [Darba sākšana ar SharePoint Online pārvaldības čaulu](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Savienojuma izveide ar SPO PowerShell, izmantojot daudzfaktoru autentifikāciju (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint modeļi un prakses (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) satur PowerShell komandu bibliotēku, kas sniedz iespēju veikt sarežģītas pārvaldības darbības attiecībā uz SPO.
-
-> [!NOTE]
-> - Ja rodas problēmas, veidojot savienojumu ar SPO pārvaldības čaulu, pārliecinieties, [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) vai esat atjauninājis uz jaunāko versiju, un mēģiniet atkārtoti importēt moduli, izmantojot *"Microsoft.Online.SharePoint.PowerShell* moduļa importēšana".
-> - Ja mēģināt palaist klienta puses objekta modeļa skriptus, jūsu lokālajā datorā jābūt instalētam [Sharepoint Online](https://www.microsoft.com/download/details.aspx?id=42038) klienta komponentu SDK.
-> - Ja rodas problēmas ar PowerShell skriptu pašanu, iespējams, vēlēsities kā administratoru palaist PowerShell un mainīt [izpildes politiku.](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
+- [Darba sākšana ar SharePoint Online pārvaldības čaulu](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Savienošana līdz SPO PowerShell ar daudzfaktoru autentifikāciju (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- SharePoint modeļi un prakse [(PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) satur PowerShell komandu bibliotēku, kas sniedz iespēju veikt sarežģītas pārvaldības darbības attiecībā uz SPO.
