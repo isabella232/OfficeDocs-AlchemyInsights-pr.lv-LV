@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822858"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930982"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory netiek sinhronizēts
 
-Ja saņemat sinhronizācijas kļūdas, piemēram, "nav nesenas sinhronizācijas", vai saņemat paziņojumu par direktorija sinhronizēšanas statusu Office administrēšanas portālā:"Pēdējoreiz sinhronizēts pirms vairāk nekā 3 dienām", iespējams, AADConnect ir nepareizi iestatījumi vai nepietiekamas atļaujas sinhronizācijas veikšanai.  
+Ja saņemat sinhronizācijas kļūdas, piemēram, "nav nesenas sinhronizācijas" vai saņemat paziņojumu par direktorija sinhronizēšanas statusu Office administrēšanas portālā, tiek parādīts ziņojums "Pēdējoreiz sinhronizēts pirms vairāk nekā 3 dienām", iespējams, AADConnect ir nepareizi iestatījumi vai nepietiekamas atļaujas sinhronizācijas veikšanai.  
 
 AADConnect atkārtota instalēšana, izmantojot ekspresiestatādes iestatījumus, var ātri atrisināt problēmu:
 
 1. [Lejupielādējiet AADConnect jaunāko versiju.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Izpildiet norādījumus par ekspresinstalēšanu.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Izpildiet norādījumus par ekspresinstalēšanu.](/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Papildinformāciju par AADConnect pakalpojumu kontiem skatiet rakstā [Azure AD Connect: konti un atļaujas.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+Azure AD Connect ir jāinstalē Windows Server 2012 vai jaunākā versijā. Šim serverim ir jābūt pievienotam domēnam, un tas var būt domēna kontrolleris vai dalībnieku serveris. Lai iegūtu pilnu Azure AD ad Savienošana prasības un priekšnosacījumus, pārskatiet [Azure AD](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)Savienošana .
+
+Papildinformāciju par AADConnect pakalpojumu kontiem skatiet rakstā [Azure AD Savienošana: Konti un atļaujas.](/azure/active-directory/hybrid/reference-connect-accounts-permissions)
