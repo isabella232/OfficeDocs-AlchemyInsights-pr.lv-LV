@@ -1,5 +1,5 @@
 ---
-title: Jamf izmantošana Microsoft Edge politikas iestatījumu konfigurēšanai operētājsistēmā macOS
+title: Jamf izmantošana, lai Microsoft Edge politikas iestatījumus operētājsistēmā macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003852"
 - "9004632"
+- "9006494"
 - "6901"
 - "8360"
-ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11115"
+ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403462"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989796"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a><span data-ttu-id="95426-102">Jamf izmantošana Microsoft Edge politikas iestatījumu konfigurēšanai operētājsistēmā macOS</span><span class="sxs-lookup"><span data-stu-id="95426-102">Use Jamf to configure Microsoft Edge policy settings on macOS</span></span>
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a><span data-ttu-id="79d0e-102">Jamf izmantošana, lai Microsoft Edge politikas iestatījumus operētājsistēmā macOS</span><span class="sxs-lookup"><span data-stu-id="79d0e-102">Use Jamf to configure Microsoft Edge policy settings on macOS</span></span>
 
-<span data-ttu-id="95426-103">Lai sistēmā macOS konfigurētu Microsoft Edge (stabilais kanāls 81 vai jaunāka versija), izmantojiet Microsoft Edge politikas manifesta failu Jamf Pro 10.19.</span><span class="sxs-lookup"><span data-stu-id="95426-103">To configure Microsoft Edge (Stable channel 81 or later) on macOS, use a Microsoft Edge policy manifest file on Jamf Pro 10.19.</span></span>
+<span data-ttu-id="79d0e-103">Lai sistēmā macOS Microsoft Edge nosaukumu (stabilais kanāls 81 vai jaunāka versija), izmantojiet Microsoft Edge politikas manifesta failu Jamf Pro 10.19.</span><span class="sxs-lookup"><span data-stu-id="79d0e-103">To configure Microsoft Edge (Stable channel 81 or later) on macOS, use a Microsoft Edge policy manifest file on Jamf Pro 10.19.</span></span>
 
-<span data-ttu-id="95426-104">Papildinformāciju skatiet rakstā [Microsoft Edge politikas iestatījumu konfigurēšana operētājsistēmā macOS ar Jamf.](https://go.microsoft.com/fwlink/?linkid=2134761)</span><span class="sxs-lookup"><span data-stu-id="95426-104">For more information, see [Configure Microsoft Edge policy settings on macOS with Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span></span>
+<span data-ttu-id="79d0e-104">Papildinformāciju skatiet rakstā [MacOS Microsoft Edge iestatījumu konfigurēšana, izmantojot Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span><span class="sxs-lookup"><span data-stu-id="79d0e-104">For more information, see [Configure Microsoft Edge policy settings on macOS with Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span></span>
