@@ -1,5 +1,5 @@
 ---
-title: Microsoft programmu pārvaldības statusa skatīšana, izmantojot Microsoft Edge darbam ar iOS vai Android ierīces
+title: Microsoft programmu pārvaldības statusa skatīšana, izmantojot programmu Microsoft Edge iOS vai Android ierīcēm
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678022"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989904"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Microsoft programmu pārvaldības statusa skatīšana, izmantojot Microsoft Edge darbam ar iOS vai Android ierīces
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Microsoft programmu pārvaldības statusa skatīšana, izmantojot programmu Microsoft Edge iOS vai Android ierīcēm
 
-Lai piekļūtu lietojumprogrammas žurnāliem, kas izmantojami pārvaldīto iOS vai Android programmu problēmu novēršanai, atveriet Microsoft Edge un lodziņā Adrese ierakstiet **par: intunehelp** . Pārlūkprogrammā Microsoft Edge tiek palaista problēmu novēršanas režīmā.
+Lai piekļūtu programmu žurnāliem izmantošanai pārvaldīto iOS vai Android programmu problēmu novēršanai, atveriet Microsoft Edge un adreses lodziņā ierakstiet **about:intunehelp.** Microsoft Edge tiek palaista problēmu novēršanas režīmā.
 
-Informāciju par lietojumprogrammu žurnālos saglabāto iestatījumu sarakstu skatiet rakstā [klientu lietojumprogrammu aizsardzības žurnālu pārskatīšana](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Lietojumprogrammu žurnālos glabāto iestatījumu sarakstu skatiet rakstā Klientu [lietojumprogrammu aizsardzības žurnālu pārskatīšana.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Lai uzzinātu, kā skatīt lietojumprogrammas žurnālus Android ierīcēs, skatiet rakstu [augšupielāde un e-pasta žurnāli](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Lai uzzinātu, kā skatīt programmu žurnālus Android ierīcēs, skatiet rakstu Upload [e-pasta žurnāli.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

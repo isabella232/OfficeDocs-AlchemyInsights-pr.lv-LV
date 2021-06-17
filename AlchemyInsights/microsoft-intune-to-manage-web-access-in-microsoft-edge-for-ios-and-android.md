@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune izmantošana, lai pārvaldītu tīmekļa piekļuvi pārlūkprogrammā Microsoft Edge darbam ar iOS un Android
+title: Microsoft Intune izmantošana, lai pārvaldītu piekļuvi tīmeklim pārlūkprogrammā Microsoft Edge darbam ar iOS un Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678260"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989681"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Microsoft Intune izmantošana, lai pārvaldītu tīmekļa piekļuvi pārlūkprogrammā Microsoft Edge darbam ar iOS un Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Microsoft Intune izmantošana, lai pārvaldītu piekļuvi tīmeklim pārlūkprogrammā Microsoft Edge darbam ar iOS un Android
 
-Microsoft Edge darbam ar iOS un Android ļauj lietotājam pārlūkot tīmekli no vairākiem pilnīgi atsevišķiem profiliem.
+Microsoft Edge iOS un Android ierīcēm ļauj lietotājam pārlūkot tīmekli no vairākiem pilnībā atsevišķiem profiliem.
 
-Microsoft 365 datu lielākās aizsardzības iespējas kļūst pieejamas, ja abonējat Enterprise Mobility + Security Suite, kurā ietilpst Microsoft Intune un Azure Active Directory Premium līdzekļi, piemēram, piekļuve nosacījumam. Vismaz jūs vēlaties izvietot nosacījuma piekļuves politiku, kas (1) ļauj lietotājiem izveidot savienojumu no mobilajām ierīcēm uz pārlūkprogrammu Microsoft Edge operētājsistēmai iOS un Android un (2) ievieš Microsoft Intune programmu aizsardzības politiku, kas nodrošina aizsargātu pārlūkošanas pieredzi.
+Platākās aizsardzības iespējas Microsoft 365 datiem kļūst pieejamas, ja abonējat Enterprise Mobility + Security komplektu, kurā ietilpst Microsoft Intune un Azure Active Directory Premium līdzekļi, piemēram, nosacījuma piekļuve. Jūs vēlaties ieviest nosacījumu piekļuves politiku, (1) ļauj lietotājiem izveidot savienojumu no mobilajām ierīcēm ar Microsoft Edge operētājsistēmām iOS un Android un šī (2) ievieš Microsoft Intune programmu aizsardzības politiku, kas nodrošina aizsargātas pārlūkošanas iespējas.
 
-Lai izprastu, kā varat izmantot ierobežotu piekļuvi un politikas, skatiet:
+Lai saprastu, kā varat izmantot nosacījum piekļuvi un politikas, skatiet:
 
-[Azure Active Directory nosacījuma piekļuves politikas lietošana](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Azure Active Directory nosacījum piekļuves politiku lietot](https://go.microsoft.com/fwlink/?linkid=2132481)
 
 [Microsoft Intune programmu aizsardzības politiku izveide](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Vienotās pierakstīšanās izmantošana pakalpojumam Azure Active Directory — Savienotās tīmekļa lietojumprogrammas politikas aizsargātās pārlūkprogrammās](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Vienotās pierakstīšanās izmantošana Azure Active Directory tīmekļa lietojumprogrammām, kas pievienotas ar politiku aizsargātās pārlūkprogrammās](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[Lietojumprogrammas konfigurācijas izmantošana, lai pārvaldītu pārlūkošanas pieredzi](https://go.microsoft.com/fwlink/?linkid=2132483)
+[Izmantojiet programmu konfigurāciju, lai pārvaldītu pārlūkošanas iespējas](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Atļaut tikai darba un mācību kontu lietošanu](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Atļaut izmantot tikai darba un mācību iestādes kontus](https://go.microsoft.com/fwlink/?linkid=2132652)
 
 [Vispārīgo programmu konfigurācijas politiku izvietošana](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Lietojumprogrammas konfigurācijas politikas izvietošana datu aizsardzībai](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Lietojumprogrammu konfigurācijas politiku izvietošana datu aizsardzībai](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Microsoft Endpoint Manager izmantošana, lai izvietotu lietojumprogrammas konfigurācijas politikas](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Microsoft Endpoint Manager izmantošana, lai izvietotu programmu konfigurācijas politikas](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Lai uzzinātu, kā piekļūt pārvaldīto lietojumprogrammu žurnāliem, skatiet rakstu [Microsoft Edge darbam ar iOS un Android izmantošana, lai piekļūtu pārvaldīto lietojumprogrammu žurnāliem](https://go.microsoft.com/fwlink/?linkid=2132578).
+Lai uzzinātu, kā piekļūt pārvaldīto programmu žurnāliem, skatiet rakstu Microsoft Edge darbam ar iOS un Android izmantošana, lai piekļūtu [pārvaldītajiem programmu žurnāliem.](https://go.microsoft.com/fwlink/?linkid=2132578)

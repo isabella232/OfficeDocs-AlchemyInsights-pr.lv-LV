@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge izvietošanas plānošana
+title: Izvietošanas plānošana Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036192"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989940"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Microsoft Edge izvietošanas plānošana
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Izvietošanas plānošana Microsoft Edge
 
-Jauna pārlūka izvietošana lietotāju saišķī var justies biedējošs. Mēs varam jums palīdzēt to sadalīt, veicot tālāk norādītās darbības. Ja veiksit šīs septiņas darbības, jums būs veiksmīga Microsoft Edge izvietošana ar minimālu lietotāja vilšanos:
+Jaunas pārlūkprogrammas izvietošana jauniem lietotājiem var būt biedējoša. Mēs varam palīdzēt jums to sadalīt darbībās un veikt katru no darbībām. Ja izpildīsit šīs septiņas darbības, varēsit sekmīgi izvietot Microsoft Edge ar minimālu lietotāju vilšanos:
 
 1. Novērtējiet esošo pārlūkprogrammas vidi un vajadzības.
-2. Noteikt izvietošanas metodiku.
-3. Veikt vietnes atklāšanu
-4. Noteikt kanālu stratēģiju.
+2. Nosakiet izvietošanas metodiku.
+3. Vietņu atklāšana.
+4. Nosakiet savu kanāla stratēģiju.
 5. Definējiet un konfigurējiet politikas.
-6. Programmu saderības pārbaude.
-7. Izvietojiet Microsoft Edge pie izmēģinājuma grupas un validējiet to.
+6. Veikt programmu saderības testēšanu.
+7. Izvietojiet Microsoft Edge izmēģinājuma grupā un validējiet to.
 
-Lai patstāvīgi strādātu ar šīm darbībām, skatiet rakstu [Microsoft Edge izvietošanas plānošana](https://go.microsoft.com/fwlink/?linkid=2129990).
+Informāciju par to, kā veikt šīs darbības pats, [skatiet rakstā Savu Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
