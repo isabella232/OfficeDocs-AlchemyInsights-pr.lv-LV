@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721643"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023110"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Pakalpojuma importēšana
 
@@ -29,9 +29,9 @@ Lai piekļūtu importēšanas pakalpojumam un sāktu importēšanas procesu:
 
 1. M365 atbilstības centra kreisajā rūtī sadaļā **Risinājumi** atlasiet Informācijas pārvaldības   >  **importēšana**.
 
-1. Lapā **Importēšana** atlasiet Jauns **importēšanas darbs**.
+1. Lapā **Importēšana** atlasiet Jauns **importēšanas darbs**. Ievadiet darba nosaukumu un atlasiet **Tālāk**.
 
-1. Lai veiktu vednī norādītās darbības, skatiet rakstu Augšupielādes tīklā izmantošana, lai importētu jūsu organizācijas [PST failus pakalpojumā Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Atlasiet **Upload datus,** lai izmantotu opciju Tīkla augšupielāde **importēšanas darba tipam.** Detalizētu informāciju par veicamajām darbībām skatiet rakstā Augšupielādes tīklā izmantošana, lai importētu [jūsu organizācijas PST failus pakalpojumā Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 Lai piekļūtu **lapai** Importēt, pārliecinieties, vai jums ir piešķirtas atbilstošas atļaujas. Papildinformāciju skatiet rakstā [Augšupielāde tīklā, lai importētu PST failus.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

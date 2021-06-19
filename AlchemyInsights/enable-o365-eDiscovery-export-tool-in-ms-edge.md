@@ -1,5 +1,5 @@
 ---
-title: Iespējot Office 365 e-datu atklāšanas eksportēšanas rīku pārlūkprogrammā Microsoft Edge
+title: E Office 365 datu atklāšanas eksportēšanas rīka iespējošana Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583410"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023182"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Iespējot Office 365 e-datu atklāšanas eksportēšanas rīku pārlūkprogrammā Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>E Office 365 datu atklāšanas eksportēšanas rīka iespējošana Microsoft Edge
 
-ClickOnce atbalsts pēc noklusējuma vairs nav iespējots pārlūkprogrammā Microsoft Edge. Lai turpinātu lietot Microsoft Office 365 e-datu atklāšanas eksportēšanas rīku, jums ir jāizmanto Microsoft Internet Explorer vai ClickOnce atbalsta opcija pārlūkprogrammā hroma Microsoft Edge, veicot tālāk norādītās darbības.
+Atbalsts ClickOnce vairs nav iespējots programmā Microsoft Edge pēc noklusējuma. Lai turpinātu izmantot Microsoft Office 365 e-datu atklāšanas eksportēšanas rīku, ir jāizmanto Microsoft Internet Explorer vai ClickOnce atbalsta opcija Chromium Microsoft Edge šādi:
 
-1. Dodieties uz edge://flags/#edge — vienreiz.
-1. Opcijai **ClickOnce atbalsts** mainiet vērtību no **noklusējuma** vai **atspējots** uz **iespējots**.
-1. Pārlūkprogrammas loga lejasdaļā noklikšķiniet uz **Restartēt**. Izmaiņas stāsies spēkā pēc Microsoft Edge restartēšanas.
+1. Dodieties uz edge://flags/#edge-click-once.
+1. Lai ClickOnce **opciju Atbalsts,** mainiet vērtību no Noklusējums **vai** **Atspējots** uz **Iespējots.**
+1. Pārlūkprogrammas loga lejasdaļā noklikšķiniet uz **Restartēt.** Izmaiņas stāsies spēkā pēc programmas Microsoft Edge.
 
-Lai uzzinātu vairāk, skatiet rakstu [Office 365 e-datu atklāšanas eksportēšanas rīka izmantošana pārlūkprogrammā Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Papildinformāciju skatiet [rakstā E-Office 365 eksportēšanas rīka izmantošana programmā Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
