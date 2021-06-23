@@ -1,5 +1,5 @@
 ---
-title: Teams jaunināšanas norādījumi
+title: Teams norādījumi par jaunināšanu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333935"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095407"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams jaunināšana
 
-**Svarīgi**! ja esat veicis jaunināšanu no Skype darbam Online uz Microsoft Teams tikai Teams režīmā, taču jūs vēl neesat gatavs, mēs varam palīdzēt to novērst, izmantojot atbalsta diagnostiku. Pārliecinieties, vai izmantojat jauno administrēšanas centru, pabīdot slēdzi augšējā labajā stūrī, kurā rakstīts **jaunais administrēšanas centrs**. Izmantojot jauno administrēšanas centru, noklikšķiniet uz **nepieciešamā palīdzība?** logrīks, ierakstiet "**Teams Upgrade**", pēc tam izpildiet uzvednēs sniegtos norādījumus par diagnostikas izpildi.
+Neatkarīgi no tā, vai tikai sākat darbu ar Teams, jau izmantojat programmu Teams kopā ar Skype darbam vai esat gatavs veikt jaunināšanu, mēs vēlamies nodrošināt, lai jums būtu viss nepieciešamais, lai jūs varētu sekmīgi doties uz Teams. Lai iegūtu papildinformāciju, apmeklējiet tālāk norādītās saites.
 
-Neatkarīgi no tā, vai tikko esat sācis darbu ar Teams, jau izmantojat komandas kopā ar Skype darbam vai esat gatavs veikt jaunināšanu, mēs vēlamies nodrošināt, lai jums būtu viss, kas nepieciešams, lai pārietu uz sekmīgu braucienu uz Teams. Lai iegūtu papildinformāciju, skatiet tālāk norādītās saites.
+[Darba sākšana ar Microsoft Teams jaunināšanu](/MicrosoftTeams/upgrade-start-here)
 
-[Darba sākšana ar Microsoft Teams jaunināšanu](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Jaunināšanas plānošana](/MicrosoftTeams/upgrade-plan-journey)
 
-[Jaunināšanas plānošana](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Izpratne Microsoft Teams un Skype darbam līdzāspastāvēšanu](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Izpratne par Microsoft Teams un Skype darbam līdzāspastāvēšanu](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Jaunināšanas no Skype darbam Online uz Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Veicot jaunināšanu no Skype darbam Online uz Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Jaunināšanas veikšana no Skype darbam lokāli uz Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Jaunināšana no lokālās Skype darbam uz Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Pārbaudiet Skype darbam Online statusu grupu jaunināšanai, izmantojot PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Pārbaudiet statusa Skype darbam Tiešsaistē, lai Teams ar PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

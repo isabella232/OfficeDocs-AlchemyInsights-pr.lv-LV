@@ -1,5 +1,5 @@
 ---
-title: SMTP autentifikācijas problēmu novēršana
+title: SMTP autentifikācijas un problēmu novēršanas iespējošana
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826422"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077658"
 ---
-# <a name="solving-smtp-authentication-issues"></a>SMTP autentifikācijas problēmu novēršana
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>SMTP autentifikācijas un problēmu novēršanas iespējošana
 
-Ja, mēģinot nosūtīt SMTP e-pastu un autentificēšanu klientā vai lietojumprogrammā, rodas kļūdas 5.7.57 vai 5.7.3, ir dažas lietas, kas jāpārbauda:
+Ja vēlaties iespējot SMTP autentifikāciju pastkastei vai saņemat kļūdu "Klients nav autentificēts", "Autentifikācija nesekmīga" vai "SmtpClientAuthentication" ar kodu 5.7.57 vai 5.7.3 vai 5.7.139, kad mēģināt nosūtīt e-pasta ziņojumu, autentificējot ierīci vai lietojumprogrammu ar Microsoft 365, veiciet šīs trīs darbības, lai novērstu šo problēmu:
 
-- Autentificēts SMTP iesniegšana var būt atspējota jūsu nomniekā vai pastkastē, kuru mēģināt izmantot (pārbaudiet abus iestatījumus). Papildinformāciju skatiet rakstā Autentificēta klienta SMTP iesniegšanas iespējošana [vai atspējošana.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Atspējojiet [Azure drošības noklusējumus,](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) izslēdzot opciju **Iespējot drošības noklusējumus** uz **Nē**.
 
-- Pārbaudiet, [vai jūsu nomniekam](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) ir iespējoti Azure drošības noklusējums. ja iespējota, SMTP autentifikācija, izmantojot pamata autentifikāciju (tiek dēvēta arī par mantoto; tas izmantos lietotājvārdu un paroli) neizdosies.
+    a. Pierakstieties Azure portālā kā drošības administrators, nosacījum piekļuves administrators vai globālais administrators.<BR/>
+    b. Pārlūkojot atrodiet Azure Active Directory > **rekvizīti.**<BR/>
+    c. Atlasiet **Pārvaldīt drošības noklusējumus**.<BR/>
+    d. Iestatiet **Iespējot drošības noklusējumus** **uz Nē**.<BR/>
+    e. Atlasiet **Saglabāt**.
+
+2. [Licencētajā pastkastē iespējojiet](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) klienta SMTP iesniegšanu.
+
+    a. Izvēlnē Microsoft 365 administrēšanas centrs dodieties **uz Aktīvie** lietotāji un atlasiet lietotāju.<BR/>
+    b. Dodieties uz cilni Pasts un sadaļā **E-pasta programmas** atlasiet Pārvaldīt **e-pasta programmas**.<BR/>
+    d. **Pārliecinieties, vai ir atzīmēta** opcija Autentificēts SMTP (iespējots).<BR/>
+    e. Atlasiet **Saglabāt izmaiņas**.<BR/>
+
+3. [Atspējojiet daudzfaktors autentifikācijas (multi-Factor Authentication — MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) licencētajā pastkastē.
+
+    a. Dodieties uz Microsoft 365 administrēšanas centrs un kreisajā navigācijas izvēlnē **atlasiet** Lietotāji  >  **Aktīvie lietotāji**.<BR/>
+    b. Atlasiet **Daudzfaktors autentifikācija**.<BR/>
+    c. Atlasiet lietotāju un atspējojiet **Daudzfaktors autentifikāciju**.<BR/>
