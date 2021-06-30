@@ -1,5 +1,5 @@
 ---
-title: Vai Teams klients avarē?
+title: Teams klienta avārija
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826278"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187728"
 ---
-# <a name="teams-client-crashing"></a>Vai Teams klients avarē?
+# <a name="teams-client-crashing"></a>Teams klienta avārija
 
 Ja jūsu Teams klients avarē, mēģiniet veikt tālāk norādītās darbības:
 
 - Ja izmantojat Teams datora programmu, [pārliecinieties, vai programma ir pilnībā atjaunināta](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Pārliecinieties, vai [visi Microsoft 365 vietrāži URL un adrešu diapazoni](https://docs.microsoft.com/microsoftteams/connectivity-issues) ir pieejami.
+- Pārliecinieties, vai [visi Microsoft 365 vietrāžu URL un adrešu diapazoni](/microsoftteams/connectivity-issues) ir pieejami.
 
-- Piesakieties ar sava nomnieka administratora kontu un pārbaudiet pakalpojuma darbspējas informācijas [paneli,](https://docs.microsoft.com/office365/enterprise/view-service-health) lai pārliecinātos, vai nepastāv pārtraukums vai pakalpojuma degradācija.
+- Piesakieties ar sava nomnieka administratora kontu un pārbaudiet pakalpojuma darbspējas informācijas [paneli,](/office365/enterprise/view-service-health) lai pārliecinātos, vai nepastāv pārtraukums vai pakalpojuma degradācija.
 
-- Atinstalējiet un atkārtoti instalējiet Teams programmu (saiti)
-    - Pārlūkojiet līdz mapei %appdata%\Microsoft\teams\ savā datorā un izdzēsiet visus failus šajā direktorijā.
-    - [Lejupielādējiet un instalējiet Teams lietotni](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)un, ja iespējams, instalējiet Teams kā administrators (ar peles labo pogu noklikšķiniet uz Teams instalēšanas programmas un atlasiet "Palaist kā administratoram", ja pieejams).
+- Atinstalējiet un atkārtoti instalējiet Teams programmu
+    - Pārlūkojiet līdz mapei %appdata%\Microsoft\Teams\ savā datorā un izdzēsiet visus šajā direktorijā esošos failus.
+    - [Lejupielādējiet un instalējiet lietojumprogrammu Teams](https://www.microsoft.com/microsoft-teams/download-app)un, ja iespējams, instalējiet Teams kā administrators (ar peles labo pogu noklikšķiniet uz Teams instalētāja un atlasiet Palaist kā administratoram, **ja** pieejams).
 
-Ja jūsu Teams klients joprojām avarē, vai varat atveidot problēmu? Ja tā ir:
+Ja jūsu Teams joprojām avarē, mēģiniet atveidot problēmu. Ja jūs varat:
 
 1. Izmantojiet darbību ierakstītāju, lai tvertu darbības.
     - Aizveriet VISAS nevajadzīgās vai konfidenciālās lietojumprogrammas.
     - Palaidiet darbību ierakstītāju un atveidot problēmu, kad esat pieteicies ar ietekmētā lietotāja kontu.
-    - [Apkopojiet to grupu žurnālus, kas tver ierakstītās pārpro darbību veikšanas darbības.](https://docs.microsoft.com/microsoftteams/log-files) **Piezīme.** Noteikti tveriet ietekmētā lietotāja pierakstīšanās adresi.
-    - Apkopojiet informācija par spaļu un/vai kļūmes intervālu (Windows). Datorā palaidiet Windows Powershell, kur notiek avārija, un izpildiet šādas komandas:
+    - [Apkopojiet to grupu žurnālus, kas tver ierakstītās pārpro darbību veikšanas darbības.](/microsoftteams/log-files) **Piezīme.** Noteikti tveriet ietekmētā lietotāja pierakstīšanās adresi.
+    - Apkopojiet informācija par atmeti un/vai kļūmes intervālu (Windows). Datorā palaidiet Windows Powershell, kur notiek avārija, un izpildiet šādas komandas (pēc katras komandas nospiediet taustiņu Enter):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Pievienojiet failu savam atbalsta pieteikumam.
+2. Kad teksta fails ir ģenerēts un parādīts ekrānā, saglabājiet failu un pievienojiet to pakalpojuma pieprasījumam. 
