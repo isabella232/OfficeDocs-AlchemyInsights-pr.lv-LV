@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470210"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195491"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Bieži sastopamās atbilstības problēmas un risinājumi
 
-Lai saņemtu palīdzību saistībā ar brīdinājumu skatīšanu, [skatiet rakstu Brīdinājumu politikas drošības un atbilstības centrā.](/microsoft-365/compliance/alert-policies.md)
+Lai saņemtu palīdzību saistībā ar brīdinājumu skatīšanu, [skatiet rakstu Brīdinājumu politikas drošības un atbilstības centrā.](/microsoft-365/compliance/alert-policies)
 
 Tālāk ir norādīti biežāk uzdotie jautājumi par atbilstību:
 
-- Kā konfigurēt arhīvu un ziņojumus, kas netiek automātiski pārvietoti uz arhivēšanu: [iespējot Arhīvu, iestatīt arhīva politiku](/microsoft-365/compliance/enable-archive-mailboxes.md)un [palielināt arhīva krātuves izmēru](/microsoft-365/compliance/enable-unlimited-archiving.md).
+- Kā konfigurēt arhīvu un ziņojumus, kas netiek automātiski pārvietoti uz arhivēšanu: [iespējot Arhīvu, iestatīt arhīva politiku](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)un [palielināt arhīva krātuves izmēru](/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Saglabāšanas politikas: jautājumi par [saglabāšanas vecuma aprēķināšanu](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [saglabāšanas atzīmju pievienošanu vai noņemšanu](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [Saglabāšanas politiku izmantošana drošības un atbilstības centrā](/microsoft-365/compliance/retention-policies.md) satura saglabāšanai vai dzēšanai.
+- Saglabāšanas politikas: jautājumi par [saglabāšanas vecuma aprēķināšanu](/exchange/security-and-compliance/messaging-records-management/retention-age), [saglabāšanas atzīmju pievienošanu vai noņemšanu](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [Saglabāšanas politiku izmantošana drošības un atbilstības centrā](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) satura saglabāšanai vai dzēšanai.
 
-- EDiscovery iestatīšana, satura meklēšana un eksportēšana: [Satura meklēšana](/microsoft-365/compliance/search-for-content.md) un [Eksporta meklēšanas rezultāti](/microsoft-365/compliance/export-search-results.md).
+- Iestatiet e-datu atklāšanu un satura meklēšanu un eksportēšanu: [satura meklēšanu](/microsoft-365/compliance/content-search) un meklēšanas [rezultātu eksportēšanu.](/microsoft-365/compliance/export-search-results)
 
-- O365 auditēšana: [Meklēšana O365 audita žurnālā](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+- O365 auditēšana: [Meklēšana O365 audita žurnālā](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Datu zuduma novēršana (DLP) : lasiet [Datu zuduma novēršanas (DLP) pārskats](/microsoft-365/compliance/data-loss-prevention-policies.md), lai uzzinātu vairāk.
+- Datu zuduma novēršana(DLP): Papildinformāciju skatiet rakstā Datu zuduma novēršanas [(DLP)](/microsoft-365/compliance/data-loss-prevention-policies) pārskats.
  
-- Sensitivitātes etiķetes. Papildinformāciju skatiet rakstā [Sensitivitātes etiķešu un to politiku izveide un konfigurēšana](/microsoft-365/compliance/create-sensitivity-labels.md).
+- Sensitivitātes etiķetes: Lai uzzinātu vairāk, skatiet [rakstu Sensitivitātes etiķešu un to politiku izveide un konfigurēšana.](/microsoft-365/compliance/create-sensitivity-labels)
+
+- Brīdinājumu politiku skatīšana: skatiet [rakstu Brīdinājumu politikas Microsoft 365 atbilstības centrs.](/microsoft-365/compliance/alert-policies)
+
+- Complicance center permisions: Skatiet [Permissions in Microsoft 365 atbilstības centrs](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Piezīme**: Lai saņemtu precīzāku atbildi uz jautājumiem par atbilstību, pārfrāzējiet savu jautājumu un norādiet kļūdas, kura redzat, vai izmantotos līdzekļus.
