@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge atbalsts Microsoft Defender lietojumprogrammu aizsargam
+title: Microsoft Edge atbalsta dienestu Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583580"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346069"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a><span data-ttu-id="488f5-102">Microsoft Edge atbalsts Microsoft Defender lietojumprogrammu aizsargam</span><span class="sxs-lookup"><span data-stu-id="488f5-102">Microsoft Edge's support for Microsoft Defender Application Guard</span></span>
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a><span data-ttu-id="a14e5-102">Microsoft Edge atbalsta dienestu Microsoft Defender Application Guard</span><span class="sxs-lookup"><span data-stu-id="a14e5-102">Microsoft Edge's support for Microsoft Defender Application Guard</span></span>
 
-<span data-ttu-id="488f5-103">Paredzēts darbam ar Windows 10 un Microsoft Edge, lietojumprogramma Guard izmanto aparatūras izolēšanas pieeju, kas ļauj lietotājam pāriet uz neuzticamu vietni, izmantojot izolētu, Hyper-V-iespējoto konteineru, kas atdalīts no resursdatora.</span><span class="sxs-lookup"><span data-stu-id="488f5-103">Designed for Windows 10 and Microsoft Edge, Application Guard uses a hardware-isolation approach that lets a user navigate an untrusted site from inside an isolated, Hyper-V–enabled container, separated from the host operating system.</span></span>
+<span data-ttu-id="a14e5-103">Microsoft Defender for Identity nodrošina centrālo atrašanās vietu, kur administratori var identificēt, atklāt un izpētīt lokālo identitātes apdraudējumu.</span><span class="sxs-lookup"><span data-stu-id="a14e5-103">Microsoft Defender for Identity provides a central location where admins can identify, detect, and investigate on-premises identity threats.</span></span> 
 
-<span data-ttu-id="488f5-104">Uzņēmuma administrators definē uzticamo tīmekļa vietņu, mākoņa resursu un iekšējo tīklu sarakstu.</span><span class="sxs-lookup"><span data-stu-id="488f5-104">An enterprise admin defines a list of trusted websites, cloud resources, and internal networks.</span></span> <span data-ttu-id="488f5-105">Kad lietotājs apmeklē vietni, kas nav sarakstā, Microsoft Edge atvērs šo vietni konteinerā.</span><span class="sxs-lookup"><span data-stu-id="488f5-105">When a user visits a site that's not on the list, Microsoft Edge will open the site in the container.</span></span> <span data-ttu-id="488f5-106">Tas nozīmē, ka, ja vietne izrādās ļaunprātīga, resursdatora dators paliks aizsargāts, un uzbrucējs neredzēs uzņēmuma datus.</span><span class="sxs-lookup"><span data-stu-id="488f5-106">This means that if the site turns out to be malicious, the host PC will remain protected and the attacker won't get to the enterprise data.</span></span>
+<span data-ttu-id="a14e5-104">Izmantojiet [Microsoft Defender identitātes iestatīšanas ceļvedi, lai pārbaudītu,](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) vai esat apmierināts ar visiem vides priekšnosacījumiem. izveidojiet instanci, izveidojiet savienojumu ar Active Directory un instalējiet sensoru.</span><span class="sxs-lookup"><span data-stu-id="a14e5-104">Use the [‎Microsoft Defender for Identity‎ setup guide](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) to verify that you've satisfied all environment prerequisites; create an instance, connect to Active Directory, and install your sensor.</span></span> 
 
-<span data-ttu-id="488f5-107">Tiek atbalstīta paplašinājumu instalēšana konteinerā Microsoft Edge versija 81, un to var kontrolēt, izmantojot politiku.</span><span class="sxs-lookup"><span data-stu-id="488f5-107">Installation of extensions in the container is supported as of Microsoft Edge version 81, and it can be controlled via a policy.</span></span> <span data-ttu-id="488f5-108">UpdateURL adrese, kas tiek izmantota ExtensionInstallForcelist politikā, ir jāpievieno kā neitrāls resurss tīkla izolācijas politikās, ko izmanto lietojumprogrammas aizsargs.</span><span class="sxs-lookup"><span data-stu-id="488f5-108">The updateURL address that gets used in the ExtensionInstallForcelist policy should be added as a Neutral Resource in the Network Isolation policies used by Application Guard.</span></span>
-
-<span data-ttu-id="488f5-109">Papildinformāciju skatiet rakstā [Microsoft Edge atbalsts Microsoft Defender lietojumprogrammu aizsargam](https://go.microsoft.com/fwlink/?linkid=2134229).</span><span class="sxs-lookup"><span data-stu-id="488f5-109">For more info, see [Microsoft Edge support for Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2134229).</span></span>
+<span data-ttu-id="a14e5-105">Kad esat pabeidzis, lietotāju identitātes tiek pārraudzītas, un tūlītējas darbības var veikt, salīdzinot ar ļaunprātīgām darbībām, kas kompromitē jūsu organizāciju.</span><span class="sxs-lookup"><span data-stu-id="a14e5-105">When you've finished, users' identities are monitored, and immediate action can be taken against any malicious activity that compromises your organization.</span></span>
