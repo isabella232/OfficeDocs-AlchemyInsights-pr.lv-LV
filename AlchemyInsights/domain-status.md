@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125676"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389188"
 ---
 # <a name="domain-status---no-services-selected"></a>Domēna statuss — nav atlasīts neviens pakalpojums
 
-Domēna darbspējas statuss ir pieejams pēc tam, kad savienosit domēnu tieši ar Microsoft 365 pakalpojumiem, piemēram, Exchange. Lai to izdarītu, dodieties uz Microsoft 365 administrēšanas centru un atlasiet **DNS ieraksti**  >  **Pārvaldīt DNS**.
+**Neviens pakalpojums** nav atlasīts, tas nozīmē, ka neesat atlasījis nevienu Microsoft 365 pakalpojumu, piemēram, Exchange Online, Skype darbam vai Intune, kā arī mobilo ierīču pārvaldību ierīcei Microsoft 365 izmantošanai ar savu pielāgoto domēnu. Ja izmantojat Exchange hibrīdu (Exchange lokāli ar Exchange Online) vai ārēju surogātpasta filtrēšanu ar Exchange un nevienu citu Microsoft pakalpojumi, varat ignorēt šo ziņojumu. Domēna darbspējas statuss ir pieejams tikai domēniem, kas ir savienoti tieši ar pakalpojumu.
 
-Ja nevarat tieši savienot domēnu ar Microsoft 365 pakalpojumiem, domēna darbspējas statuss nav pieejams. Piemēram, ja izmantojat pielāgotu DNS maršrutēšanu e-pastam, ārējiem surogātpasta filtrēšanas pakalpojumiem vai izmantojat gan Exchange lokālo, gan Exchange Online (dēvētu arī par hibrīdo izvietošanu).
+Lai atlasītu pakalpojumus savam domēnam:
+
+1. No **Iestatījumi**  >  [**domēni**](https://admin.microsoft.com/Adminportal/Home)atzīmējiet izvēles rūtiņu blakus domēnam ar statusa ziņojumu **Nav atlasīts neviens pakalpojums.**
+1. Atlasiet **Pārvaldīt DNS,** lai startētu domēna iestatīšanas vedni.
+    - Ja **izvēlaties Pievienot savus DNS ierakstus**, noteikti atlasiet pakalpojumu, kad tas tiek piedāvāts. Papildu pakalpojumi var būt pieejami sadaļā **Papildu opcijas.**
+    - Ja izvēlaties **Ļaut korporācijai Microsoft pievienot** jūsu DNS ierakstus vai Papildu opcijas Iestatīt manus tiešsaistes pakalpojumus, visi pieejamie pakalpojumi tiek ieteikti un   >   atlasīti automātiski.
+1. Turpiniet ar vedņa starpniecību, lai pabeigtu DNS iestatīšanu un pakalpojumu izvēli.
+ 
+Lai saņemtu papildu palīdzību saistībā ar domēna iestatīšanu, skatiet [rakstu DNS ierakstu pievienošana domēna pievienošanai.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
