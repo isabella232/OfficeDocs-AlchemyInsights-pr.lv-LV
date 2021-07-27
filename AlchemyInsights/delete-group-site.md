@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745829"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532118"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Microsoft 365 grupai piederošas SharePoint vietnes dzēšana
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Dzēst SharePoint vietni, kas pieder Microsoft 365 grupai
 
-Ar grupu saistītas vietnes dzēšana izdzēsīs grupu un visus tās resursus, tostarp Outlook pastkasti un kalendāru, kā arī jebkādus grupu kanālus.
+Dzēšot ar grupu pievienotu vietni, tiek izdzēsta grupa un visi tās resursi, tostarp Outlook pastkaste un kalendārs, kā arī Teams kanāli.
   
-Svarīgi
+Svarīgi!
 
-- 93 dienām varat atkopt izdzēstās vietnes. Izdzēstās grupas ir jāatjauno 30 dienu laikā. [Skatiet un atjaunojiet izdzēstās vietnes](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) tieši no SharePoint administrēšanas centra. Lai [skatītu un atjaunotu **izdzēstās grupas**](https://outlook.office.com/people/group/deleted), atlasiet **pārvaldīt grupas**un pēc tam izvēlieties **Dzēst**.
-- Ja vietne ir daļa no saglabāšanas politikas, iespējams, nevarēsit to izdzēst, līdz vietne nebūs noņemta no [drošības & atbilstības administrēšanas centra](https://protection.office.com/?rfr=AdminCenter#/retention). Lai iegūtu papildinformāciju, skatiet [pārskatu par saglabāšanas politikām](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Izdzēstas vietnes var atgūt 93 dienas. Izdzēstās grupas ir jāatjauno 30 dienu laikā. [Skatiet un atjaunojiet izdzēstās](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) vietnes tieši SharePoint administrēšanas centrā. Lai [skatītu un atjaunotu **izdzēstās grupas,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)atlasiet **Pārvaldīt grupas un** pēc tam izvēlieties **Izdzēstās**.
+- Ja vietne ir saglabāšanas politikas daļa, iespējams, to nevarēsit izdzēst, kamēr vietne netiks noņemta [no drošības & administrēšanas centra.](https://protection.office.com/?rfr=AdminCenter#/retention) Papildinformāciju skatiet rakstā [Pārskats par saglabāšanas politikām.](/microsoft-365/compliance/retention-policies)
   
-Papildinformāciju skatiet rakstā [vietņu pārvaldība jaunajā SharePoint administrēšanas centrā](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Papildinformāciju skatiet [rakstā Vietņu pārvaldība jaunajā SharePoint centrā.](/sharepoint/manage-sites-in-new-admin-center)

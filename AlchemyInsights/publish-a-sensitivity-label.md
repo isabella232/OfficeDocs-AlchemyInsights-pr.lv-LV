@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539651"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532262"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kā publicēt jūtīguma etiķeti
 
-1. Dodieties uz Office 365 drošības & centra >   >  **Klasifikācijas sensitivitātes etiķetes**.
+1. Dodieties uz atbilstības Microsoft 365 un > **aizsardzības**  >  **etiķešu politikas**.
 
-1. Lapā Sensitivitātes etiķetes atlasiet cilni **Etiķešu politikas** un pēc tam atlasiet **Publicēt etiķetes**.
+1. Atlasiet **+ Publicēt etiķeti,** lai startētu jaunas sensitivitātes etiķetes vedni.
 
 1. Atlasiet **Izvēlieties jūtīguma etiķetes, lai publicētu**. Atlasiet etiķetes, kuras vēlaties padarīt pieejamas programmās un pakalpojumos, un pēc tam atlasiet **Pievienot**.
 
