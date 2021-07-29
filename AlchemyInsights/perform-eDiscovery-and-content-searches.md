@@ -1,5 +1,5 @@
 ---
-title: 1488 — e-datu atklāšanas un satura meklēšanas vaicājumu veikšana
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668521"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630220"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanu un e-datu atklāšanu meklēšana
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanu un e-datu atklāšanas meklēšanu
 
-**Lai veiktu satura meklēšanu**:
+**Lai veiktu satura meklēšanu:**
 
-1. Dodieties uz [drošības & atbilstības centru](https://protection.office.com) un pierakstieties.
-2. Noklikšķiniet uz **meklēt > satura meklēšanā**.
-3. Noklikšķiniet uz **Jauna meklēšana** , lai izveidotu jaunu meklēšanu.
+1. Dodieties uz Microsoft 365 atbilstības centru un pierakstieties.
+2. Atlasiet **Meklēt > Satura meklēšana**.
+3. Atlasiet **Jauna meklēšana,** lai izveidotu jaunu meklēšanu.
 4. Ievadiet nepieciešamos meklēšanas nosacījumus, tostarp atslēgvārdus un satura atrašanās vietas.
-5. Noklikšķiniet uz **saglabāt & palaist** , lai piešķirtu nosaukumu meklēšanai, startētu to un pēc tam priekšskatītu rezultātus.
+5. Atlasiet **Saglabāt & izpildīt,** lai nosaukumu meklēšanai, sāktu to un pēc tam priekšskatītu rezultātus.
 
 > [!NOTE]
-> **M365 atbilstības centra** sadaļā **risinājumi** izvēlieties Izvērst **e-datu atklāšanu** un atlasiet vēlamo e-datu atklāšanas rīku.
+> Atbilstības **Microsoft 365 risinājumu**  >  **sadaļā** izvērsiet **e-datu** atklāšana un atlasiet vēlamo e-datu atklāšanas rīku.
 
-Detalizētus norādījumus par satura meklēšanu, eksportējot rezultātus un izveidojot e-datu atklāšanas lietas, lai glabātu datus, skatiet sadaļā [satura meklēšanas](https://docs.microsoft.com/microsoft-365/compliance/content-search) un [e-datu atklāšanas lietas](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Detalizētus norādījumus par satura meklēšanu, rezultātu eksportēšanu un e-datu atklāšanas lietu izveidi datu glabāšanai skatiet sadaļā [Satura](/microsoft-365/compliance/content-search) meklēšana [un e-datu atklāšanas lietas.](/microsoft-365/compliance/ediscovery-cases)
 
-**Papildinformācija**:
+**Papildinformācija:**
 
-- Papildinformāciju par e-datu atklāšanas rīkiem programmā Microsoft 365 skatiet rakstā [e-datu atklāšana](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Uzziniet par atļaujām, prasībām un ierobežojumiem, kas nepieciešami e-datu atklāšanas meklēšanai no [atļaujām, kas nepieciešamas e-datu atklāšanas meklēšanai](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) un [prasībām un ierobežojumiem](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Ja problēmu novēršana saistībā ar e-datu atklāšanas problēmām, skatiet rakstu [e-datu atklāšanas problēmu novēršana biežāk sastopamām problēmām](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) un [daļēji indeksētu vienumu](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- Papildinformāciju par e-datu atklāšanas rīkiem Microsoft 365 [e-datu atklāšana.](/microsoft-365/compliance/ediscovery)
+- Uzziniet par atļaujām, prasībām un ierobežojumiem, kas nepieciešami e-datu atklāšanas meklējumu veikšanai, no atļaujām, kas nepieciešamas [e-datu](/microsoft-365/compliance/assign-ediscovery-permissions) atklāšanas meklēšanai, prasībām [un ierobežojumiem.](/microsoft-365/compliance/limits-for-content-search)
+- Ja novērst e-datu atklāšanas problēmas, skatiet rakstu [E-datu](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) atklāšana Biežāk sastopamo problēmu novēršana un daļēji [indeksēto vienumu izmeklēšana.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

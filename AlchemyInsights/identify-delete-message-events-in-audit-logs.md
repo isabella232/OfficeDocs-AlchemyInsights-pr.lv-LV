@@ -1,5 +1,5 @@
 ---
-title: Dzēst ziņojuma notikumu noskaidrošana audita žurnālos
+title: Ziņojuma dzēšanas notikumu identificēšana audita žurnālos
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696520"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630076"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Izdzēsto e-pasta ziņojumu audita žurnāli
+# <a name="audit-logs-for-deleted-email-messages"></a>Izdzēsto e-pasta ziņojumu auditēšanas žurnāli
 
-Sākot ar 2019. janvāri, Microsoft pēc noklusējuma ieslēdz pastkastes audita reģistrēšanu. Pretējā gadījumā, lai pārskatītu dzēst ziņojuma notikumus konkrētam lietotājam, ir manuāli jāiespējo dzēšanas darbības auditēšanai. Ja jums jau ir iespējota pastkastes audita reģistrēšana jūsu organizācijai vai konkrētam lietotājam, veiciet tālāk norādītās darbības.
+Sākot ar 2019. gada janvāri, Microsoft pēc noklusējuma ieslēdz pastkastes audita reģistrēšanu. Pretējā gadījumā, lai pārskatītu ziņojuma dzēšanas notikumus konkrētam lietotājam, ir manuāli jāiespējo dzēšanas darbības auditēšanas vajadzībām. Ja pastkastes audita reģistrēšana jau ir iespējota jūsu organizācijai vai konkrētam lietotājam, veiciet tālāk norādītās darbības.
 
-1. Piesakieties [Microsoft 365 drošības & atbilstības centrā](https://protection.office.com/)
+1. Piesakieties [Microsoft 365 atbilstības centrā](https://protection.office.com/)
 
-2. Noklikšķiniet uz **meklēšana un izpēte** un atlasiet **audita žurnālu meklēšana**.
+2. Noklikšķiniet **uz Meklēšana un izpēte** un atlasiet Meklēšana **audita žurnālā.**
 
-3. Atlasiet datumu diapazonu lauku **sākuma datums** un **beigšanas datums** . Norādiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt (lietotāju, kurš izdzēsis šos vienumus). Laukā **aktivitātes** atlasiet **Izdzēstie ziņojumi no mapes** Izdzēstie vienumi un **pārvietoti ziņojumi uz mapi Izdzēstie vienumi**.
+3. Atlasiet datumu diapazonu laukos **Sākuma datums** **un Beigu** datums. Norādiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt (lietotājs, kurš izdzēsa vienumus). Laukā **Darbības** atlasiet Izdzēstie **ziņojumi no mapes Izdzēstie vienumi un Pārvietoti** ziņojumi uz mapi **Izdzēstie vienumi.**
 
-4. Noklikšķiniet uz **Meklēt**.
+4. Noklikšķiniet **uz Meklēt.**
 
-Rezultātos atlasiet audita ierakstu. Detalizētas informācijas izlidošanas sarakstā noklikšķiniet uz **Papildinformācija**. Papildinformāciju par izdzēsto vienumu (piemēram, tēmas rindiņu un vienuma atrašanās vietu, kad tas tika izdzēsts) tiek parādīta laukā **AffectedItems** . Rekvizīts **ClientInfoString** tiek parādīts, ja dzēšana notiek programmā Outlook, Outlook tīmeklī (iepriekš zināma kā Outlook Web App) vai jebkura cita ierīce.
+Rezultātos atlasiet audita ierakstu. Detalizētas informācijas izlidošanas lodziņā noklikšķiniet uz **Papildinformācija**. Papildinformācija par izdzēsto vienumu (piemēram, tēmas rindiņa un vienuma atrašanās vieta, kad tas tika izdzēsts) tiek rādīta **laukā AffectedItems.** Rekvizīts **ClientInfoString** tiek rādīts, ja dzēšana notika Outlook, Outlook tīmeklī (iepriekš tika dēvēta par Outlook Web App) vai jebkurā citā ierīcē.
 
-Papildinformāciju skatiet rakstā [e-pasta pārsūtīšanas iestatīšana pastkastei](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Papildinformāciju skatiet rakstā [Noteikšana, kurš iestatījis e-pasta pārsūtīšanu pastkastei.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Piezīme**. jūs nevarat izgūt izdzēstos vienumus, izmantojot audita žurnālu līdzekli. Lai izdzēstos ziņojumus izgūtu programmā Outlook tīmeklī, skatiet rakstu [izdzēsto vienumu atkopšana programmā Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Piezīme.** Izdzēstos vienumus nevar izgūt, izmantojot audita žurnāla līdzekli. Lai izgūtu izdzēstos ziņojumus Outlook tīmeklī, skatiet [rakstu Izdzēsto vienumu atkopšana Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
