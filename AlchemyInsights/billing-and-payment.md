@@ -3,6 +3,8 @@ title: Norēķini un maksājumi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820401"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686893"
 ---
 # <a name="billing-and-payment"></a>Norēķini un maksājumi
 
@@ -35,27 +38,27 @@ Ja maksājat ar kredītkarti vai no bankas konta, ar jūsu abonementu(iem) saist
 
 Ja esat pievienojis jaunu karti un vecajā kredītkartē joprojām saņemat paziņojumu par noraidītu karti, iespējams, šī jaunā karte būs jāsaista ar abonementu.
 
-1. Administrēšanas centrā dodieties uz lapu **Norēķinu**  >  **rēķini &**  >  [maksāšanas](https://go.microsoft.com/fwlink/p/?linkid=2018806) metodes.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini** > **Rēķini un maksājumi** > [Maksājuma metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Atlasiet aizstājamās maksāšanas metodes rindu. Labajā rūtī ir uzskaitīti visi norēķinu profili un atsevišķie abonementi, kas izmanto atlasīto maksāšanas metodi.
+2. Atlasiet maksājuma metodes rindu, kuru vēlaties aizstāt. Labajā rūtī ir norādīti visi norēķinu profili un individuālie abonementi, kas izmanto atlasīto maksājuma metodi.
 
-3. Labajā rūtī atlasiet Aizstāt **maksāšanas metodi visiem vienumiem.**
+3. Labajā rūti atlasiet **Aizstāt maksājuma metodi visiem vienumiem**.
 
-4. Lai izmantotu esošu maksāšanas metodi, nolaižamajā sarakstā izvēlieties kādu no tiem un pēc tam atlasiet **Aizstāt**.
+4. Lai izmantotu esošu maksājuma metodi, atlasiet to nolaižamajā sarakstā un pēc tam atlasiet **Aizstāt**.
 
     > [!NOTE]
-    > Ja jums ir abonementi, kas saistīti ar norēķinu profilu, varat izmantot tikai kredītkarti vai debetkarti, lai par tiem maksātu. Ja jums ir bankas **konti, kas norādīti** lapā Maksāšanas veidi, tie nav pieejami atlasei nolaižamajā sarakstā.
+    > Ja jūsu norēķinu profilam ir piesaistīti abonementi, jūs varat izmantot tikai kredītkarti vai debetkarti, lai samaksātu par tiem. Ja jūsu **Maksājuma metožu** lapā ir norāditi bankas konti, tie nebūs pieejami izvēlei nolaižamajā sarakstā.
 
-5. Lai pievienotu jaunu maksāšanas metodi, atlasiet **Pievienot maksāšanas metodi**.
+5. Lai pievienot jaunu maksājuma metodi, atlasiet **Pievienot maksājuma metodi**.
 
-6. Rūtī **Maksāšanas metodes pievienošana ievadiet** konta informāciju un pēc tam atlasiet **Saglabāt**. Ir jāizmanto maksāšanas metode no tās pašas valsts/reģiona, kurā atrodas jūsu nomnieks.
+6. Rūtī **Pievienot maksājuma metodi** ievadiet konta informāciju un pēc tam atlasiet **Saglabāt**. Jums ir jāizmanto maksājuma metode no jūsu nomnieka valsts.
 
-7. Jaunais maksāšanas veids jau ir atlasīts nolaižamajā sarakstā. Atlasiet **Aizstāt**.
+7. Jaunā maksājuma metode jau ir atlasīta nolaižamajā sarakstā. Atlasiet **Aizstāt**.
 
-Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Norēķinu biežums**
 
 Rēķini tiek ģenerēti reizi mēnesī vai gadā atkarībā no norēķināšanas biežuma, kas izvēlēts norēķināties.  
 
-**Piezīme.** Pasūtījumi ar gada norēķiniem var saņemt rēķinu norēķinu perioda vidū, ja ir veiktas izmaiņas, piemēram, pievienot vai noņemt licences. [Mainiet norēķinu biežumu.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Piezīme.** Pasūtījumi ar gada norēķiniem var saņemt rēķinu norēķinu perioda vidū, ja ir veiktas izmaiņas, piemēram, pievienot vai noņemt licences. [Mainiet norēķinu biežumu.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

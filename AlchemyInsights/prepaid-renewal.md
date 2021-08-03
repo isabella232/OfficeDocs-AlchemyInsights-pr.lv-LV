@@ -3,6 +3,8 @@ title: Priekšapmaksas atjaunošana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 63f28eb536d965dde1e6cb381632a460a02f7279
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602335"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686173"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Priekšapmaksas Microsoft 365 atjaunošana
 
-1. Administrēšanas centrā dodieties uz lapu **norēķini** par \> **[produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Cilnē **produkti** atlasiet abonementu, kuru vēlaties pagarināt.
-3. Lapas detalizēta informācija par abonementu sadaļā **abonementa un maksājumu iestatījumi** atlasiet **pagarināt beigšanas datumu**.
-4. Lapā **lietotāju licenču atjaunošana vai pievienošana** atlasiet **izmantot jaunu un neizmantotu produkta atslēgu un** pēc tam atlasiet **Tālāk**.
+1. Administrēšanas centrā dodieties  uz lapu \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
+2. Cilnē **Produkti** atlasiet abonementu, kuru vēlaties pagarināt.
+3. Detalizētas informācijas par abonementu lapas sadaļā **Abonements un maksāšanas** iestatījumi atlasiet **Pagarināt beigu datumu**.
+4. Atjaunošanas **vai lietotāju licenču pievienošanas lapā atlasiet** Izmantot **jaunu un neizmantotu produkta atslēgu** un pēc tam atlasiet **Tālāk**.
 5. Ievadiet produkta atslēgu un pēc tam atlasiet **Tālāk**.
     > [!NOTE]
-    > Ja jums ir vairāk nekā viena produkta atslēga, lai tās ievadītu, varat atlasīt **Pievienot citu produkta atslēgu** .
-6. Pārskatiet detalizētu informāciju par pasūtījumu un pēc tam atlasiet **izpirkt**.
+    > Ja jums ir vairākas produkta atslēgas, lai tās ievadītu, **varat atlasīt Pievienot citu** produkta atslēgu.
+6. Pārskatiet pasūtījuma datus un pēc tam atlasiet **Izmantot**.
 
-Lai uzzinātu vairāk, skatiet rakstu [licenču pievienošana vai pagarināšana abonementam, kas apmaksāts, izmantojot produkta atslēgu](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+Papildinformāciju skatiet rakstā [Licenču pievienošana vai abonementa paplašināšana, par kuru tiek maksāts, izmantojot produkta atslēgu.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)

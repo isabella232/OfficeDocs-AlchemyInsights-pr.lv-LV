@@ -3,6 +3,7 @@ title: Microsoft abonementa atcelšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5a753e6ef663281916626747df836bc57c459d97
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543332"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687289"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Microsoft abonementa atcelšana
 
-Administratori savas organizācijas abonementu var atcelt Microsoft 365 centrā.
+Administratori var atcelt savas organizācijas abonementu Microsoft 365 administrēšanas centrs.
 
 1. Dodieties uz **lapu** \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 2. Cilnē **Produkti** atrodiet abonementu, ko vēlaties atcelt. Atlasiet daudzpunkti (citas darbības), pēc tam atlasiet **Atcelt abonementu**.

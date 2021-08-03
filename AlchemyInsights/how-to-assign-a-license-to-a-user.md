@@ -3,6 +3,8 @@ title: Licenču piešķiršana vai noņemšana lietotājiem
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "325"
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781146"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685849"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Licenču piešķiršana vai noņemšana lietotājiem
 
-Lietotājam ir nepieciešama licence, lai piekļūtu pakalpojumiem. Tālāk ir norādītas darbības, kas jāveic, lai lietotājam piešķirtu licenci vai piešķirtu licenci.
+Lai lietotājs varētu piekļūt pakalpojumiem, viņam ir nepieciešama licence. Tālāk ir darbības, kas jāveic, lai piešķirtu licenci lietotājam vai atceltu licences piešķiri.
   
-1. Administrēšanas centrā dodieties uz **lietotāji** \> [Aktīvie lietotāji](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Administrēšanas centrā dodieties  uz Lietotāji \> [Aktīvie lietotāji.](https://go.microsoft.com/fwlink/p/?linkid=834822)
 2. Atlasiet tā lietotāja rindu, kuram vēlaties piešķirt licenci.
-3. Labajā rūtī atlasiet **licences un lietojumprogrammas**.
-4. Izvērsiet sadaļu **licences** , atzīmējiet vai notīriet izvēles rūtiņas tām licencēm, kuras vēlaties piešķirt vai noņemt, un pēc tam atlasiet **Saglabāt izmaiņas**.
+3. Labajā rūtī atlasiet Licences **un programmas**.
+4. Izvērsiet **sadaļu Licences,** atzīmējiet vai notīriet to licenču izvēles rūtiņas, kuras vēlaties piešķirt vai noņemt piešķiri, un pēc tam **atlasiet Saglabāt izmaiņas**.
 
-Lai iegūtu papildinformāciju, skatiet rakstu [licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)un [licenču atpiešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+Papildinformāciju skatiet [rakstā Licenču piešķiršana lietotājiem](/microsoft-365/admin/manage/assign-licenses-to-users)un Licenču noņemšana no [lietotājiem.](/microsoft-365/admin/manage/remove-licenses-from-users)
