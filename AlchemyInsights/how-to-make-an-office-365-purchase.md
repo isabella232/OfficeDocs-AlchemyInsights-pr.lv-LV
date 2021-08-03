@@ -1,8 +1,10 @@
 ---
-title: Kā izveidot Microsoft 365 pirkumu
+title: Kā veikt Microsoft 365 pirkumu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232374"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689089"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Kā izveidot Microsoft 365 pirkumu
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Kā veikt Microsoft 365 pirkumu
 
-Varat iegādāties Microsoft 365 abonementu administrēšanas centrā.
+Administrēšanas centrā Microsoft 365 abonementu.
   
-- Lai iegādātos plānu, dodieties uz lapu **norēķinu** \> **[pirkumu pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
-- Lai iegādātos papildu licences, dodieties uz lapu **Billing** \> **[Your Products](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Atlasiet abonementu, kuru vēlaties mainīt, un pēc tam atlasiet **iegādāties licences**. \
-**Skatieties videoklipu** , kurā parādīts, kā to paveikt: [jaunu licenču iegāde](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Lai iegādātos plānu, dodieties uz **lapu** \> **[Norēķinu pirkumu](https://go.microsoft.com/fwlink/p/?linkid=868433)** pakalpojumi.
+- Lai iegādātos papildu licences, dodieties uz **lapu** \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti. Atlasiet abonementu, kuru vēlaties mainīt, un pēc tam atlasiet **Iegādāties licences**.\
+**NOSKATIETIES video,** kurā parādīts, kā to [paveikt: Jaunu licenču iegāde](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Lai uzzinātu vairāk, skatiet rakstu [licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Papildinformāciju skatiet [rakstā Licenču iegāde vai noņemšana.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Problēmu novēršana**
 
@@ -35,5 +38,5 @@ Ja rodas problēmas saistībā ar lapas ielādi, mēģiniet atvērt tīmekļa la
 
 **Papildu resursi**
   
-- [Licenču piešķiršana lietotājiem pakalpojumā Microsoft 365 darbam](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Microsoft 365 darbam Atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Licenču piešķiršana Microsoft 365 uzņēmumiem](/microsoft-365/admin/add-users/add-users)
+- [Atcelt Microsoft 365 darbam](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

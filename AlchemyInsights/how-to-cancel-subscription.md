@@ -3,6 +3,7 @@ title: Abonementa atcelšana
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,28 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: af5b16a55afd7e26601e8ffa6288a72c94b9b1fb
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: e8aa177477c1f87de6ce87cecd5f015d1a03756c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088795"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689125"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Abonementa atcelšana
 
-Azure portālā debeszils abonementu varat atcelt tikai tad, ja esat konta administrators vai abonements. Veiciet tālāk norādītās darbības.
+Azure abonementu Azure portālā varat atcelt tikai tad, ja esat konta administrators vai abonements. Veiciet tālāk norādītās darbības.
 
-1. [Azure portāla lapā abonementi](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)atlasiet savu abonementu.
-2. Atlasiet abonementu, kuru vēlaties atcelt.
-3. Atlasiet **pārskats** un pēc tam atlasiet **atcelt abonementu**.
+1. Azure portāla lapā [Abonementi atlasiet savu abonementu](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Atlasiet abonementu, ko vēlaties atcelt.
+3. Atlasiet **Pārskats** un pēc tam **Atcelt abonementu**.
 
-**Kas notiek pēc abonementa atcelšanas?**
+**Kas notiks pēc tam, kad atcelšu savu abonementu?**
 
-Pēc abonementa atcelšanas norēķini tiek nekavējoties apturēti. Tomēr var paiet līdz pat 10 minūtēm, līdz tiek atcelts atsaukums, kas tiks rādīts portālā. Ja atceļat savu abonementu norēķinu perioda vidū, pēc perioda beigām mēs nosūtīsim galīgo rēķinu par savu parasto rēķina datumu.
+Pēc abonementa atcelšanas norēķini tiek apturēti nekavējoties. Taču var paiet līdz 10 minūtēm, līdz atcelšana tiek parādīta portālā. Ja atcelsit savu abonementu norēķinu perioda vidū, mēs nosūtīsim pēdējo rēķinu uz jūsu standarta rēķina datuma pēc šī perioda beigām.
 
-Pēc atcelšanas pakalpojumi ir atspējoti. Tas nozīmē, ka jūsu virtuālās mašīnas ir atdalītas, pagaidu IP adreses tiek atbrīvotas, un krātuve ir tikai lasāma.
+Pēc atcelšanas jūsu pakalpojumi tiek atspējoti. Tas nozīmē, ka jūsu virtuālo mašīnu piešķire tiek atcelta, pagaidu IP adreses tiek atbrīvotas, bet krātuve ir tikai lasāma.
 
-Pēc abonementa atcelšanas Microsoft gaida 30-90 dienas pirms neatgriezenisku datu dzēšanas gadījumam, ja jums tā ir jāpiekļūst vai jūs pārdomājat. Mums nav jāmaksā par datu saglabāšanu. Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft drošības kontroles centrs — datu pārvaldība](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Pēc abonementa atcelšanas Microsoft nogaida 30–90 dienas, pirms neatgriezeniski dzēš jūsu datus gadījumam, ja jums ir nepieciešama piekļuve tiem vai ja pārdomājat. Par šo datu glabāšanu maksu neiekasējam. Papildinformāciju skatiet [rakstā Microsoft drošības kontroles centrs — kā mēs pārvaldām jūsu datus.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 

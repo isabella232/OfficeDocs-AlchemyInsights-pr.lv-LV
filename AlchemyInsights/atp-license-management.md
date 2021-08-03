@@ -1,8 +1,10 @@
 ---
-title: Microsoft Defender darbam ar Office 365 licenču pārvaldība
+title: Microsoft Defender Office 365 licenču pārvaldībai
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 8bd6b4378c81241839ffe39dd36dc0a66c5c7f06
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: a60f70953e30ad490f51d7b9ca8495b81d84071a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601687"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688117"
 ---
-# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender darbam ar Office 365 licenču pārvaldība
+# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender Office 365 licenču pārvaldībai
 
-Microsoft Defender darbam ar Office 365 licenču pārvaldību var pabeigt  **microsoft 365 administrēšanas centrā**.
+Microsoft Defender Office 365 licences pārvaldībai var pabeigt Microsoft 365 administrēšanas centrs.
 
-- Lai iegādātos Microsoft Defender pakalpojumam Office 365:
-    1. Dodieties uz **norēķinu**  >  [iegādes pakalpojumiem](https://go.microsoft.com/fwlink/p/?linkid=868433).
-    2. Lapas apakšdaļā atlasiet **pievienojumprogrammas**.
-    3. **Pakalpojumu iegādes** lapā atlasiet Microsoft Defender for Office 365 plānu, kuru vēlaties iegādāties, ievadiet to lietotāju skaitu, kuriem ir nepieciešama licence, un pēc tam atlasiet **paņemt tūlīt**. Papildinformāciju skatiet rakstā [pievienojumprogrammas iegāde](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Lai piešķirtu Microsoft Defender pakalpojumam Office 365 licences, dodieties uz **norēķinu**  >  **licences**. Papildinformāciju skatiet rakstā [licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Lai pievienotu vai noņemtu licences no Microsoft Defender pakalpojumam Office 365, dodieties uz sadaļu **norēķini**  >  . Atlasiet abonementu, kuru vēlaties atjaunināt, un pēc tam atlasiet **iegādāties licences** vai **Noņemt licences**. Papildinformāciju skatiet rakstā [abonementu licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Lai iegādātos Microsoft Defender Office 365:
+    1. Dodieties uz **sadaļu**  >  [Norēķinu iegādes pakalpojumi.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. Lapas apakšdaļā atlasiet **Pievienojumprogrammas**.
+    3. Pakalpojumu **iegādes lapā** atlasiet Microsoft Defender šim Office 365, kuru vēlaties iegādāties, ievadiet to lietotāju skaitu, kuriem nepieciešama licence, un pēc tam atlasiet **Paņemt tūlīt**. Papildinformāciju skatiet [rakstā Pievienojumprogrammas iegāde.](/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Lai piešķirtu programmatūru Microsoft Defender Office 365 licencēm, dodieties **uz**  >  **sadaļu Norēķinu licences**. Papildinformāciju skatiet [rakstā Licenču piešķiršana lietotājiem.](/microsoft-365/admin/manage/assign-licenses-to-users)
+- Lai pievienotu vai noņemtu licences no programmatūras Microsoft Defender Office 365, dodieties uz  >  **Norēķini jūsu produktiem.** Atlasiet abonementu, kuru vēlaties atjaunināt, un pēc tam atlasiet **Iegādāties licences** vai **Noņemt licences**. Papildinformāciju skatiet rakstā [Abonementa licenču iegāde vai noņemšana.](/microsoft-365/commerce/licenses/buy-licenses)
