@@ -1,5 +1,5 @@
 ---
-title: Ieteikt Dynamics 365 krātuves problēmu risinājumus
+title: Ieteikt risinājumus Dynamics 365 krātuves problēmām
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922958"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Ieteikt Dynamics 365 krātuves problēmu risinājumus
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Ieteikt risinājumus Dynamics 365 krātuves problēmām
 
-* Kā globālais administrators skatīt krātuves sadalījumu pēc vides, 10 augšējo tabulu un citas iespējas
+* Kā globālais administrators varat skatīt krātuves sadalījumu pēc vides, 10 populārākās tabulas un citas iespējas
 
-* [Krātuves norēķini un abonementa jautājumi](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Jautājumi par krātuves norēķiniem un abonementiem](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 izcenojumu un licencēšanas rokasgrāmata](https://dynamics.microsoft.com/pricing/)
+* [Dynamics 365 cenu un licencēšanas rokasgrāmata](https://dynamics.microsoft.com/pricing/)
 
 * [Kā iegādāties papildu krātuvi](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Krātuves vietas atbrīvošana](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Kā atbrīvot krātuvi](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

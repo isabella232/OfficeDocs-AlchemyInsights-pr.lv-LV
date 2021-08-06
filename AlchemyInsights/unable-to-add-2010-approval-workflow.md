@@ -1,5 +1,5 @@
 ---
-title: Nevar pievienot 2010 apstiprinājuma darbplūsmu
+title: Nevar pievienot 2010. gada apstiprinājuma darbplūsmu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,37 +9,37 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e74c842f8b4be321664f8c2f1f58c570d0724d80edb1264add0647bf313bc82f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020343"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Nevar pievienot 2010 apstiprinājuma darbplūsmu
+# <a name="unable-to-add-2010-approval-workflow"></a>Nevar pievienot 2010. gada apstiprinājuma darbplūsmu
 
-Microsoft SharePoint vietņu kolekcijā sarakstam vai bibliotēkai nevar pievienot globāli atkārtoti izmantojamas darbplūsmas (piemēram, "apstiprinājums-SharePoint 2010").
+Microsoft SharePoint kolekcijā nevar pievienot globāli atkārtoti pielāgojamu darbplūsmu (piemēram, "Apstiprināšana — SharePoint 2010") sarakstam vai bibliotēkai.
   
-Lai atrisinātu šo problēmu, veiciet tālāk norādītās darbības. 
+Lai novērstu šo problēmu, veiciet tālāk norādītās darbības. 
   
-1. Atveriet vietņu kolekcijas saknes tīmekļa vietni programmā SharePoint Designer 2013.
+1. Programmā SharePoint Designer 2013 atveriet vietņu kolekcijas saknes tīmekļa vietni.
   
-2. Sadaļā **vietnes objekti**atlasiet **darbplūsmas**. 
+2. Sadaļā **Vietnes objekti** atlasiet **Darbplūsmas.** 
   
-3. Sadaļā **jauna** **darbplūsmas** lente atlasiet **atkārtoti izmantojama darbplūsma**. 
+3. Lentes **Darbplūsmas** sadaļā **Jauns** atlasiet Atkārtoti **izmantot darbplūsmu.** 
   
-4. Veidlapā atkārtoti **izmantojamas darbplūsmas izveide** ievadiet nosaukumu * * *Repair2010* * *. **Platformas tipam**noklikšķiniet uz **SharePoint 2010 darbplūsma**un pēc tam noklikšķiniet uz **Labi**. 
+4. Veidlapā **Atkārtotas darbplūsmas izveide ievadiet** nosaukumu ** *Labošana2010* **. Sadaļā **Platformas tips** noklikšķiniet uz SharePoint **2010 darbplūsma** un pēc tam noklikšķiniet uz **Labi**. 
   
-1. **Darbplūsmas** lentes sadaļā **Saglabāt** atlasiet **publicēt**. 
+1. Darbplūsmas **lentes** sadaļā **Saglabāt** atlasiet **Publicēt.** 
   
-2. **Darbplūsmas** lentes sadaļā **pārvaldība** atlasiet **publicēt globāli**. Apstiprinājuma dialoglodziņā, kas tiek parādīts, atlasiet **Labi**. 
+2. Darbplūsmas **lentes** sadaļā **Pārvaldība** atlasiet Publicēt **globāli.** Parādītajā apstiprinājuma dialoglodziņā atlasiet **Labi**. 
   
-3. Tīmekļa pārlūkprogrammā atrodiet vietņu kolekcijas saknes tīmekļa vietni un pēc tam piekļūstiet **vietnes iestatījumu** \> **vietņu kolekcijas līdzekļiem**. Pārslēdziet **darbplūsmas** līdzekli: 
+3. Tīmekļa pārlūkprogrammā atrodiet vietņu kolekcijas saknes tīmekļa vietni un pēc tam piekļūstiet vietņu kolekcijas **Iestatījumi** \> **līdzekļiem.** Līdzekļa **Darbplūsmas pārslēgšana:** 
   
-· Ja līdzeklis ir  *aktivizēts*  , noklikšķiniet uz **deaktivizēt** un pēc tam uz **Aktivizēt**. 
+· Ja līdzeklis ir *aktivizēts, noklikšķiniet* uz **Deaktivizēt un pēc** tam uz **Aktivizēt.** 
   
-· Ja līdzeklis ir  *deaktivizēts*  , noklikšķiniet uz **Aktivizēt**. 
+· Ja līdzeklis ir *deaktivizēts, noklikšķiniet* uz **Aktivizēt.** 
   
-Lai iegūtu papildinformāciju, lūdzu, skatiet šo [rakstu](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Papildinformāciju skatiet šajā [rakstā.](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)
   
 

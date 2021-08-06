@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph API vaicājumu
+title: Vaicājumu izmantošana Microsoft Graph API
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923246"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Microsoft Graph API vaicājumu
+# <a name="querying-the-microsoft-graph-api"></a>Vaicājumu izmantošana Microsoft Graph API
 
-Šī tēma var attiekties arī uz izstrādātājiem, kuri joprojām izmanto Azure AD Graph API. Tomēr ir **stingri** ieteicams izmantot programmu Microsoft Graph visiem jūsu direktorija, identitātes un piekļuves pārvaldības scenārijiem.
+Šī tēma var arī attiecas uz izstrādātājiem, kuri joprojām izmanto Azure AD Graph API. Tomēr ir stingri **ieteicams izmantot** Microsoft Graph visos direktorija, identitātes un piekļuves pārvaldības scenārijos.
 
 **Autentifikācijas vai autorizācijas problēmas**
 
-- Ja jūsu lietojumprogramma **nevar iegūt pilnvaras** , lai sasauktu Microsoft Graph, izvēlieties problēmu, kas rodas, **iegūstot piekļuves marķiera (autentifikāciju)** Microsoft Graph kategoriju, lai saņemtu konkrētāku palīdzību un atbalstu šajā tēmā.
-- Ja jūsu programma **saņem 401 vai 403 autorizācijas kļūdas** , zvanot uz Microsoft Graph, izvēlieties, vai Microsoft Graph API kategorijā iegūt **Access denied kļūdu (autorizācija)** .
+- Ja jūsu  lietojumprogramma nevar iegūt marķierus, lai zvanītu korporācijai Microsoft Graph, izvēlieties Problēma ar piekļuves pilnvaras **(autentifikācijas)** saņemšana Microsoft Graph kategoriju, lai saņemtu specifiskāku palīdzību un atbalstu šajā tēmā.
+- Ja lietojumprogramma saņem **401 vai 403** autorizācijas kļūdas, zvanot Microsoft Graph, izvēlieties kategorijas Iegūt liegtu piekļuvi **kļūda (Autorizācija)** Microsoft Graph API, lai saņemtu specifiskāku palīdzību un atbalstu par šo tēmu.
 
-**Es vēlos izmantot programmu Microsoft Graph, taču neesat pārliecināts, kur sākt**
+**Es vēlos izmantot Microsoft Graph, taču nezinu, kur sākt**
 
-Lai uzzinātu vairāk par Microsoft Graph, skatiet:
+Papildinformāciju par Microsoft Graph skatiet:
 
 - [Pārskats par Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Pārskats par identitāti un piekļuves pārvaldību programmā Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Darba sākšana Microsoft Graph programmu izveidē](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** — testējiet Microsoft Graph API nomniekā vai demonstrācijas nomniekā
+- [Pārskats par identitātes un piekļuves pārvaldību programmā Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Darba sākšana, veidojot Microsoft Graph programmas](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** — microsoft Graph API jūsu nomniekā vai demonstrācijas nomniekā
 
-**Es vēlos izmantot Microsoft Graph, bet vai tas atbalsta v 1.0 direktorija API, kas man ir nepieciešams?**
+**Es vēlos izmantot Microsoft Graph, bet vai tā atbalsta v1.0 direktorija API, kas nepieciešami?**
 
-Microsoft Graph ir ieteicamais API direktorijam, identitātei un piekļuves pārvaldībai. Tomēr ir vēl dažas atšķirības starp to, kas ir iespējams Azure AD Graph un Microsoft Graph. Pārskatiet tālāk norādītos rakstus, kas izceļ visaktuālākās atšķirības, lai palīdzētu jums izvēlēties:
+Microsoft Graph ir ieteicamais API direktorija, identitātes un piekļuves pārvaldībai. Tomēr starp Azure AD Graph un Microsoft Graph iespējamas atstarpes. Pārskatiet tālāk norādītos rakstus, kuros iezīmētas vistehnīgākās atšķirības, kas varētu palīdzēt izdarīt jūsu izvēli.
 
-- [Resursu tipa atšķirības starp Azure AD Graph un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Azure AD Graph un Microsoft Graph resursu tipu atšķirības](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
 - [Rekvizītu atšķirības starp Azure AD Graph un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Metodes atšķirības starp Azure AD un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Azure AD un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Veicot vaicājumu *lietotāja* objektam, trūkst daudz tā rekvizītu**
+**Veidojot vaicājumu lietotāja *objektam,* trūkst daudzu tā rekvizītu**
 
-`GET https://graph.microsoft.com/v1.0/users` atgriež tikai 11 rekvizītus, jo Microsoft Graph automātiski atlasa noklusējuma *lietotāju* rekvizītu kopu, kas jāatgriež. Ja ir nepieciešami citi *lietotāja* rekvizīti, izmantojiet $SELECT, lai izvēlētos lietojumprogrammas rekvizītus. Vispirms izmēģiniet to programmā **Microsoft Graph Explorer** .
+`GET https://graph.microsoft.com/v1.0/users`atgriež tikai 11 rekvizītus, jo Microsoft Graph automātiski atlasa noklusējuma lietotāja rekvizītu *kopu, kas* jāatgriež. Ja nepieciešami citi *lietotāja rekvizīti,* izmantojiet $select, lai izvēlētos lietojumprogrammas rekvizītus. Vispirms izmēģiniet to **pārlūkā Microsoft Graph Explorer.**
 
-**Dažas lietotāja rekvizīta vērtības ir *Null* , kaut gan es zinu, ka tās ir iestatītas**
+**Dažas lietotāja rekvizītu vērtības ir *Null pat tad,* ja es zinu, ka tās ir iestatītas**
 
-Visticamākais skaidrojums ir tāds, ka lietojumprogrammai ir piešķirts *lietotājs. ReadBasic. All* permissions. Tas ļauj lietojumprogrammai lasīt ierobežotu lietotāja rekvizītu kopu, atgriežot visus pārējos rekvizītus kā Null pat tad, ja tie ir iepriekš iestatīti. Mēģiniet piešķirt lietojumprogrammas *lietotāju. Read. All* Permission tā vietā.
+Visdrīzāk tiek skaidrots, ka programmai ir piešķirta *atļauja User.ReadBasic.All.* Tādējādi lietojumprogramma var lasīt ierobežotu lietotāja rekvizītu kopu, atgriežot visus pārējos rekvizītus kā Null, pat ja tie ir iestatīti iepriekš. Mēģiniet piešķirt *lietojumprogrammu User.Read.All* atļauju.
 
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft Graph lietotāju atļaujas](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Papildinformāciju skatiet rakstā [Microsoft Graph atļaujas](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
-**Man rodas problēmas, izmantojot OData vaicājuma parametrus, lai filtrētu datus manos pieprasījumos**
+**Man ir problēmas, izmantojot OData vaicājuma parametrus, lai filtrētu manus pieprasījumus**
 
-Kamēr Microsoft Graph atbalsta plašu OData vaicājuma parametru diapazonu, daudzus no šiem parametriem pilnībā neatbalsta direktoriju pakalpojumi (resursi, kas pārmanto no *directoryObject*) programmā Microsoft Graph. Tie paši ierobežojumi, kas bija atrodami Azure AD Graph programmā Microsoft Graph, joprojām ir iespējami lielākoties:
+Lai gan Microsoft Graph atbalsta plašu OData vaicājumu parametru diapazonu, daudzi no šiem parametriem netiek pilnībā atbalstīti direktoriju pakalpojumi (resursi, kas pārmanto no *directoryObject*) programmā Microsoft Graph. Tie paši ierobežojumi, kas bija Azure AD Graph pastāv lielākajā daļā Microsoft Graph:
 
-1. **Netiek atbalstīts**: $count, $search un $Filter vērtību *Null* vai *Not Null*
-2. **Netiek atbalstīts**: $Filter noteiktos rekvizītos (skatīt resursu tēmas, kuru rekvizītus var filtrēt)
-3. **Netiek atbalstīts**: lapošana, filtrēšana un kārtošana vienlaikus
-4. **Netiek atbalstīts**: relācijas filtrēšana. Piemēram, atrodiet visus tās tehniskās grupas dalībniekus, kas ir Apvienotajā Karalistē.
-5. **Daļējs atbalsts**: $orderby *lietotājam* (tikai displayName un userPrincipalName) un *grupu*
-6. **Daļējs atbalsts**: $Filter (atbalsta tikai *EQ*, startswith *,* *kā arī* *un ierobežots)* atbalstu, $Expand (viena objekta relāciju izvēršana atgriež visas relācijas, taču objektu kopuma paplašināšana ir ierobežota) 
+1. **Netiek atbalstīts**: $count, $search un $filter null *vai* *ne Null vērtībām*
+2. **Netiek atbalstīts**: $filter par noteiktiem rekvizītiem (skatiet resursu tēmas par filtrējamiem rekvizītiem)
+3. **Netiek atbalstīts:** vienlaikus lapošana, filtrēšana un kārtošana
+4. **Netiek atbalstīts**: relācijas filtrēšana. Piemēram, atrodiet visus apvienotās Karalistes tehniskā grupa dalībniekus.
+5. **Daļējs** atbalsts: $orderby *lietotājam* (tikai displayName un userPrincipalName) un *grupā*
+6. **Daļējs** atbalsts : $filter (atbalsta tikai *eq*, start  *ar* *vai* *,* un , un ierobežots ) atbalstu, $expand (izvēršot viena objekta relācijas, tiek atgrieztas visas relācijas, bet objektu relāciju kolekcijas izvērššana ir ierobežota)
 
-Lai iegūtu papildinformāciju, skatiet rakstu [atbilžu pielāgošana ar vaicājuma parametriem](https://docs.microsoft.com/graph/query-parameters).
+Papildinformāciju skatiet rakstā [Atbilžu pielāgošana, izmantojot vaicājuma parametrus.](https://docs.microsoft.com/graph/query-parameters)
 
-**API, ko es saukšu, nedarbojas — kur varu veikt papildu testēšanu?**
+**API, uz kuru zvanu, nedarbojas — kur var veikt papildu testēšanu?**
 
-**Microsoft Graph Explorer** — testējiet Microsoft Graph API savā nomniekā vai demonstrācijas nomniekā, kā arī skatiet **vaicājumu piemērus** programmā Microsoft Graph Explorer.
+**Microsoft Graph Explorer** — pārbaudiet Microsoft Graph API jūsu nomniekā vai demonstrācijas nomniekā, kā arī skatiet vaicājumu **paraugus** programmā Microsoft Graph Explorer.
 
-**Veicot vaicājumu, lai iegūtu datus, šķiet, ka tiek atgriezta nepilnīga datu kopa**
+**Kad es izveidoju vaicājumu par datiem, šķiet, ka saņemu nepabeigtu datu kopu**
 
-Ja veicat vaicājumu par kolekciju (piemēram, *lietotāji*), Microsoft Graph izmanto servera puses lappušu ierobežojumus, tāpēc rezultāti vienmēr tiek atgriezti, izmantojot noklusējuma lappuses izmērus. Jūsu programmai vienmēr būtu jāgaida no pakalpojuma atdots kolekcijas.
+Ja vaicājumu kolekcijai (piemēram, *lietotājiem)* izmantojat microsoft Graph izmanto servera puses lapu ierobežojumus, lai rezultāti vienmēr tiek atgriezti ar noklusējuma lappuses izmēriem. Programmai vienmēr vajadzētu gaidīt, izmantojot pakalpojuma atgrieztās kolekcijas.
 
 Papildinformāciju skatiet rakstā:
 
 - [Microsoft Graph paraugprakse](https://docs.microsoft.com/graph/best-practices-concept)
-- [Microsoft Graph datu lapošana jūsu lietojumprogrammā](https://docs.microsoft.com/graph/paging)
+- [Paging Microsoft Graph data in your app](https://docs.microsoft.com/graph/paging)
 
-**Mana programma ir pārāk lēna, un tiek arī panākta ierobežošana. Kādus uzlabojumus varu veikt?**
+**Mana programma ir pārāk lēna un arī tiek ierobežošana. Kādus uzlabojumus var veikt?**
 
-Atkarībā no tā jūsu rīcībā ir dažādi varianti, kā jūsu lietojumprogrammā veikt papildu darbības, un dažos gadījumos mazāk noslieces uz darbu, izmantojot pakalpojumu (kad veicat pārāk daudz zvanu).
+Atkarībā no scenārija jūsu rīcībā ir dažādas opcijas, lai padarītu lietojumprogrammu izpildāmāku, un dažos gadījumos arī mazāk noslodzētas pakalpojuma darbības laikā (ja veicat pārāk daudz zvanu).
 
 Lai uzzinātu vairāk, skatiet:
 
 - [Microsoft Graph paraugprakse](https://docs.microsoft.com/graph/best-practices-concept)
-- [Pakešapstrādes pieprasījumi](https://docs.microsoft.com/graph/json-batching)
-- [Izmaiņu reģistrēšana, izmantojot Delta vaicājumu](https://docs.microsoft.com/graph/delta-query-overview)
-- [Saņemiet paziņojumus par izmaiņām, izmantojot āķus](https://docs.microsoft.com/graph/webhooks)
+- [Pakešveida pieprasījumi](https://docs.microsoft.com/graph/json-batching)
+- [Izmaiņu reģistrēšana, izmantojot delta vaicājumu](https://docs.microsoft.com/graph/delta-query-overview)
+- [Paziņojumu par izmaiņām veikšana tīmeklī](https://docs.microsoft.com/graph/webhooks)
 - [Ierobežošanas norādījumi](https://docs.microsoft.com/graph/throttling)
 
-**Kur var iegūt papildinformāciju par kļūdām un zināmajām problēmām?**
+**Kur var atrast papildinformāciju par kļūdām un zināmajām problēmām?**
 
-- [Microsoft Graph kļūdas atbilžu informācija](https://docs.microsoft.com/graph/errors)
+- [Microsoft Graph informācija par kļūdu atbildēm](https://docs.microsoft.com/graph/errors)
 - [Zināmās problēmas ar Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Kur varu pārbaudīt pakalpojumu pieejamības un savienojamības statusu?**
+**Kur var pārbaudīt pakalpojumu pieejamības un savienojamības statusu?**
 
-Pamata pakalpojumu pieejamība un savienojamība, kam var piekļūt, izmantojot Microsoft Graph, var ietekmēt Microsoft Graph vispārējo pieejamību un veiktspēju.
+To pamatā esošo pakalpojumu pieejamība un savienojamība, kuriem var piekļūt, izmantojot Microsoft Graph, var ietekmēt Microsoft Graph kopējo pieejamību un veiktspēju.
 
-- Azure Active Directory pakalpojuma darbspējas pārbaudei pārbaudiet statusu **drošības + identitātes** pakalpojumi, kas norādīti [Azure statusa lapā](https://azure.microsoft.com/status/).
-- Office pakalpojumiem, kas sniedz ieguldījumu programmā Microsoft Graph, pārbaudiet pakalpojumu statusu, kas norādīti [Office pakalpojumu darbspējas informācijas panelī](https://portal.office.com/adminportal/home#/servicehealth).
+- Lai Azure Active Directory pakalpojuma darbspēju, pārbaudiet **Azure** statusa lapā norādīto drošības un [identitātes pakalpojumu statusu.](https://azure.microsoft.com/status/)
+- Lai Office pakalpojumus, kas veicina Microsoft Graph, pārbaudiet to pakalpojumu statusu, kas uzskaitīti [Office pakalpojuma darbspējas informācijas panelī.](https://portal.office.com/adminportal/home#/servicehealth)

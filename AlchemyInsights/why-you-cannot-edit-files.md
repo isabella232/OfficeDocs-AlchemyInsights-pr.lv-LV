@@ -1,5 +1,5 @@
 ---
-title: Fails ir bloķēts rediģēšanai
+title: Faili ir bloķēti rediģēšanai
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,26 +14,26 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907817"
 ---
 # <a name="why-cant-i-edit-files"></a>Kāpēc nevar rediģēt failus?
 
-Ātri aplūkojiet dažus iemeslus, kādēļ, [iespējams, nevarēsit rediģēt failu](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Īsi aplūkojiet dažus no [iemesliem, kāpēc, iespējams, nevarēsit rediģēt failu.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Ja jums ir bibliotēkas ar **paņemšanu, nepieciešamajām** vai **validācijas** kolonnām vai metadatiem, vai, ja **Melnraksta vienumu drošība** ir iestatīta **tikai tiem lietotājiem, kuri var rediģēt** vai **tikai lietotāji, kas var apstiprināt vienumus** bibliotēkas versijas iestatījumos:
+Ja jums ir bibliotēkas ar  kolonnām Paņemšanu, Obligāts vai Validācijas  vai metadatiem,  kā arī **tad,** ja melnraksta vienumu drošības iestatījums ir Tikai lietotāji, kas var rediģēt vai Tikai lietotāji, kas var apstiprināt vienumus bibliotēkas Iestatījumi versijā: 
 
-- SharePoint dokumentu bibliotēkām šie vienumi tiks sinhronizēti tikai lasāmi.
+- Dokumentu SharePoint bibliotēkām šie vienumi tiks sinhronizēti kā tikai lasāmi.
 
-- OneDrive bibliotēkās OneDrive tiks parādīta slēdzenes ikona (OneDrive failu bloķēšanas ikona) blakus sinhronizācijas statusam, un lietotājs nevarēs sinhronizēt bibliotēku, kamēr norādītie iestatījumi nebūs noņemti. 
+- OneDrive bibliotēkām OneDrive sinhronizācijas statusam būs bloķēšanas ikona ( OneDrive faila bloķēšanas ikona ), un lietotājs bibliotēku varēs sinhronizēt tikai pēc tam, kad būs noņemti minētie iestatījumi. 
 
-Papildinformāciju par bloķēto failu lietošanu programmā Word vai Excel skatiet tālāk norādītajos rakstos.
+Lai iegūtu papildinformāciju par bloķētiem failiem programmā Word vai Excel, lūdzu, lasiet tālāk esošos rakstus.
 
-- [Rediģējot Office failu, tika parādīts kļūdas ziņojums "augšupielāde neizdevās" vai "nevarēja saglabāt automātiski"](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Rediģējot Office failu, tiek parādīts kļūdas ziņojums “Augšupielāde neizdevās” vai “Nevarēja automātiski saglabāt”](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
 - [Excel failu rediģēšanai ir bloķējis cits lietotājs](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

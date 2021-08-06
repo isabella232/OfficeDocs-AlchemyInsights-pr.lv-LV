@@ -1,5 +1,5 @@
 ---
-title: Nelicencēti līdzekļi ir izslēgti biznesa standarta lietotājiem
+title: Nelicencēts līdzekļi izslēgti Business Standard lietotājiem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908573"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Nelicencēti līdzekļi ir izslēgti biznesa standarta lietotājiem
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Nelicencēts līdzekļi izslēgti Business Standard lietotājiem
 
-Dažiem Microsoft 365 biznesa standarta lietotājiem un organizācijām pašlaik ir pieejami papildu līdzekļi, nekā tiem ir licence. Šie līdzekļi ietver tālāk norādītos klasifikācijas, marķēšanas un aizsardzības (CLP) un digitālā satura tiesību pārvaldības (DRM) iestatījumus.
+Dažiem Microsoft 365 Business Standard lietotājiem un organizācijām pašlaik ir pieejams vairāk līdzekļu nekā viņiem ir piešķirta licence. Šie līdzekļi ietver tālāk norādītos klasifikācijas, marķēšanas un aizsardzības (CLP) un digitālā satura tiesību pārvaldības (Digital Rights Management — DRM) iestatījumus.
     
-30. jūnija 2020 papildu līdzekļi šiem lietotājiem ir izslēgti programmā Microsoft Excel, Microsoft Word, Microsoft PowerPoint un Microsoft Outlook.
+No 2020. gada 30. jūnija papildu līdzekļi šiem lietotājiem ir izslēgti Microsoft Excel, Microsoft Word, Microsoft PowerPoint un Microsoft Outlook.
 
-Apsveriet iespēju mainīt lietotāja licences tipu uz licenci, kas ietver šos līdzekļus. 
+Apsveriet iespēju mainīt ietekmētā lietotāja licences tipu uz licenci, kurā iekļauti šie līdzekļi. 
 
-Papildinformāciju skatiet rakstā [nelicencētu līdzekļu līdzekļi, kas piešķirti Microsoft 365 biznesa standarta lietotājiem](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Papildinformāciju skatiet rakstā [Nelicencēts līdzekļi, kas Microsoft 365 Business Standard lietotājiem](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

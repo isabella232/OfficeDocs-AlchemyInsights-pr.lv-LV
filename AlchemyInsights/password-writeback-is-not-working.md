@@ -1,5 +1,5 @@
 ---
-title: Paroļu arī atpakaļrakstīšanas nedarbojas
+title: Paroles rakstīšanas nedarbojas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999751"
 ---
-# <a name="password-writeback-is-not-working"></a>Paroļu arī atpakaļrakstīšanas nedarbojas
+# <a name="password-writeback-is-not-working"></a>Paroles rakstīšanas nedarbojas
 
-**Man rodas problēmas, konfigurējot paroļu arī atpakaļrakstīšanas**
+**Man radušās problēmas ar paroles atraksta konfigurēšanu**
 
-- Paroļu arī atpakaļrakstīšanas ir Premium līdzeklis.
-- Pārliecinieties, vai jums ir izpratne par licencēšanas prasībām:
-  - Jums ir nepieciešama vismaz viena licence, kas piešķirta jūsu organizācijā
-  - **Tikai mākoņi** — visi Office 365 (O365) apmaksātie SKU vai Azure AD Basic
-  - **Mākoņa un/vai Lokālie lietotāji** — Azure AD Premium P1 vai P2, Enterprise Mobility + Security (EMS) vai Secure ražīgs uzņēmums (SPE)
-    - Papildinformāciju par licencēšanas prasībām skatiet rakstā Azure AD pašapkalpošanās [paroles atiestatīšanas licencēšanas prasības](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Jums ir vismaz viens administratora konts un viens testa lietotāja konts ar vienu no attiecīgās licences.
-- Lai strādātu ar paroļu arī atpakaļrakstīšanas, ir jāizveido savienojums ar Azure AD savienojumu ar primāro domēna kontrollera administratoru. Azure AD Connect varat konfigurēt, lai izmantotu primāro domēna kontrolleri, ar peles labo pogu noklikšķinot uz Active Directory sinhronizācijas savienotāja **rekvizītiem** un pēc tam atlasot **konfigurēt direktoriju nodalījumus**. Šeit meklējiet sadaļu **domēna kontrollera savienojuma iestatījumi** un atzīmējiet izvēles rūtiņu **izmantot tikai vēlamos domēna kontrollerus**.
+- Paroles rakstīšana ir premium līdzeklis.
+- Pārliecinieties, vai izprotat licencēšanas prasības:
+  - Jūsu organizācijā ir jābūt piešķirtai vismaz vienai licencei.
+  - **Tikai mākoņa lietotāji** — Office 365 (O365) maksas SKU vai Azure AD Basic
+  - **Mākonis un/vai** lokālie lietotāji — Azure AD Premium P1 vai P2, Enterprise Mobility + Security (EMS) vai Secure Productive Enterprise (SPE)
+    - Papildinformāciju par licencēšanas prasībām skatiet [rakstā Azure AD pašapkalpošanās paroles atiestatīšanas licencēšanas prasības.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Jums ir vismaz viens administratora konts un viens testa lietotāja konts ar vienu no atbilstošo licenci.
+- Lai paroles rakstīšana darbotos, Savienošana Azure AD domēna kontrollera emulatoram ir jāpievieno primārā domēna kontrollera emulators. Varat konfigurēt Azure AD Savienošana primārā domēna kontrolleri, ar peles  labo pogu noklikšķinot uz Active Directory sinhronizācijas savienotāja rekvizītiem un pēc tam atlasot **konfigurēt direktorija nodalījumus**. Šajā sadaļā meklējiet domēna **kontrollera savienojuma iestatījumu** sadaļu un atzīmējiet izvēles rūtiņu ar nosaukumu **Izmantojiet tikai vēlamos domēna kontrollerus**.
   > [!NOTE]
-  > Ja vēlamais DC nav PDC emulators, Azure AD Connect joprojām sasniedz PDC paroļu arī atpakaļrakstīšanas.
-- Paroles atiestatīšana ir konfigurēta un iespējota jūsu nomniekā. Lai iegūtu papildinformāciju, skatiet rakstu [kā atļaut lietotājiem atiestatīt savas AZURE ad paroles](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
-- Pārliecinieties, vai administratora konts, kas tiek izmantots, lai iespējotu paroļu arī atpakaļrakstīšanas, ir mākoņa administratora konts (izveidots Azure AD nav lokālās reklāmas)
-- Jums ir viena vai vairāku mežu reklāma lokālajā izvietojumā, kurā darbojas sistēma Windows Server 2008 R2, Windows Server 2012 vai Windows Server 2012 R2 ar pēdējām instalētajām servisa pakotnēm
-- Jūs esat instalējis Azure AD Connect instrumentu un esat sagatavojis savu reklāmas vidi, lai sinhronizētu mākonī. Pirms paroļu arī atpakaļrakstīšanas pārbaudes vispirms pārliecinieties, vai esat pabeidzis pilnu importēšanu un pilnīgu sinhronizāciju no AD un Azure AD Azure AD Connect.
-- Lai uzzinātu vairāk, skatiet rakstu kā veikt [pilno sinhronizāciju un pilnīgu importēšanu AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
+  > Ja vēlamais DC nav PDC emulators, Azure AD Savienošana joprojām sazināties ar PDC, lai rakstītu ar paroli.
+- Paroles atiestatīšana ir konfigurēta un iespējota jūsu nomniekā. Papildinformāciju skatiet rakstā [Azure AD paroļu atiestatīšanas iespējošana lietotājiem.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Pārliecinieties, vai administratora konts, kas tiek izmantots paroles rakstīšanas iespējošanai, ir mākoņa administratora konts (izveidots Azure AD, kas nav lokāli AD)
+- Jums ir viens vai vairāku mežu AD lokāls izvietojums, kurā darbojas Windows Server 2008 R2, Windows Server 2012 vai Windows Server 2012 R2 ar instalētām jaunākajām servisa pakotnēm
+- Ir instalēts rīks Azure AD Savienošana un esat sagatavojis savu AD vidi sinhronizēšanai mākonī. Pirms paroles rakstīšanas pārbaudes pārliecinieties, vai vispirms esat pabeidzis pilnu importēšanu un pilnu sinhronizāciju no AD un Azure AD azure AD ar Azure AD Savienošana.
+- Lai uzzinātu vairāk, skatiet, kā veikt [pilnu sinhronizāciju un pilnu importēšanu Azure AD Savienošana](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
-**Man radās problēma ar paroļu arī atpakaļrakstīšanas savienojumu**
+**Man ir problēma ar paroles atraksta savienojamību**
 
-1. Jaunākās [AZURE ad Connect](https://www.microsoft.com/download/details.aspx?id=47594) versijas lejupielāde un iespējošana
-2. Ugunsmūra konfigurācija: Azure AD Connect rīkam (1.1.443 un augstāk) vajadzēs **izejošo https** piekļuvi:
+1. Lejupielādējiet un iespējojiet jaunāko [Azure AD versiju Savienošana](https://www.microsoft.com/download/details.aspx?id=47594)
+2. Ugunsmūra konfigurācija: Rīkam Azure AD Savienošana (1.1.443 un vairāk) būs nepieciešama **izejošā HTTPS** piekļuve, lai:
     - passwordreset.microsoftonline.com
-    - servicebus. Windows. Networks
-3. Atļaut saglabāt dīkstāvi vismaz 2-3 minūtes
+    - servicebus.windows.networks
+3. Atļaut dīkstāves savienojumiem saglabāties vismaz 2–3 minūtes
 
-**Joprojām pastāv problēmas ar paroļu arī atpakaļrakstīšanas**
+**Joprojām pastāv problēmas ar paroles atriti**
 
-- Ja joprojām rodas problēmas, mēģiniet atspējot un atkārtoti iespējot paroļu arī atpakaļrakstīšanas pakalpojumu Azure AD Connect rīkā
-- Lai uzzinātu vairāk, skatiet rakstu kā [Atspējot un atkārtoti iespējot paroļu arī atpakaļrakstīšanas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Ja joprojām rodas problēmas, rīkā Azure AD Savienošana mēģiniet atspējot un atkārtoti iespējot paroles Savienošana pakalpojumu
+- Papildinformāciju skatiet rakstā [Paroļu rakstīšanas atspējošana un atkārtota iespējošana](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

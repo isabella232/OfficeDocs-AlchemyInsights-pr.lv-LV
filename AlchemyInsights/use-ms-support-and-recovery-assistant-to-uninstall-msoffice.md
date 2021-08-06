@@ -1,5 +1,5 @@
 ---
-title: Izmantojiet Microsoft atbalsta un atkopšanas palīgu, lai atinstalētu Microsoft Office
+title: Microsoft atbalsta un atkopšanas palīgs izmantošana, lai atinstalētu Microsoft Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908435"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Izmantojiet Microsoft atbalsta un atkopšanas palīgu, lai atinstalētu Microsoft Office
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Microsoft atbalsta un atkopšanas palīgs izmantošana, lai atinstalētu Microsoft Office
 
 Tālāk aprakstīts, kā to paveikt.
 
-1. Lejupielādējiet [Microsoft atbalsta un atkopšanas palīgu](https://go.microsoft.com/fwlink/?linkid=2139122).
-1. Pārlūkprogrammas loga lejasdaļā noklikšķiniet uz **palaist** , lai palaistu **SetupProd_OffScrub.exe** failu.
-1. Atlasiet atinstalējamo versiju un pēc tam noklikšķiniet uz **Tālāk**.
-1. Izpildiet norādītās darbības. Pēc uzaicinājuma restartējiet datoru.
-1. Pēc datora restartēšanas rīks tiks atkārtoti atvērts automātiski un palīdzēs veikt pārējās darbības.
+1. Lejupielādējiet [Microsoft atbalsta un atkopšanas palīgs](https://go.microsoft.com/fwlink/?linkid=2139122).
+1. Pārlūkprogrammas loga lejasdaļā noklikšķiniet uz **Palaist,** lai **palaistuSetupProd_OffScrub.exe** failu.
+1. Atlasiet atinstalēamo versiju un pēc tam noklikšķiniet uz **Tālāk.**
+1. Izpildiet darbības. Pēc uzaicinājuma restartējiet datoru.
+1. Pēc datora restartēšanas rīks tiks automātiski atvērts un palīdzēs veikt pārējās darbības.
 
-Ja nepieciešams pārinstalēt Microsoft Office, izpildiet darbības, kas attiecas uz nepieciešamo versiju: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)vai [Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
+Ja vēlaties atkārtoti instalēt Microsoft Office, izpildiet procedūru, kas attiecas uz nepieciešamo versiju: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237) [vai Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).

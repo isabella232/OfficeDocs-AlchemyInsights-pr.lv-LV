@@ -1,5 +1,5 @@
 ---
-title: Unikālu atļauju piešķiršana koplietošanas vidē SharePoint
+title: Unikālu atļauju piešķiršana programmā SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6869"
 - "9000156"
-ms.openlocfilehash: ed07dea56090d1816fe59d2839fdecb58916a849
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 32d790e59ee2e4a96ed0172a14aee306b22a1f8ba6702e57ade5357a69b46803
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019623"
 ---
-# <a name="assign-unique-permissions-in-sharepoint"></a>Unikālu atļauju piešķiršana koplietošanas vidē SharePoint
+# <a name="assign-unique-permissions-in-sharepoint"></a>Unikālu atļauju piešķiršana programmā SharePoint
 
-Ja jūs pārtraucat atļauju pārmantošanu sarakstam, bibliotēkai vai aptaujai un pēc tam definējat jaunus atļauju iestatījumus, saraksts (vai bibliotēka) kļūst par vecākobjektu vienumiem tajā.  
+Pārtraucot saraksta, bibliotēkas vai aptaujas atļaujas un pēc tam definējot jaunus atļauju iestatījumus, saraksts (vai bibliotēka) kļūst par tā elementu vecākobjektu.  
 
-Lai pārtrauktu pārmantošanu un piešķirtu unikālas atļaujas, veiciet tālāk norādītās darbības: [unikālu atļauju piešķiršana koplietošanas vidē SharePoint](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break).
+Lai pārtrauktu pārmantošanu un piešķirtu unikālas atļaujas, veiciet tālāk norādītās darbības: [Unikālu atļauju piešķiršana programmā SharePoint.](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break)

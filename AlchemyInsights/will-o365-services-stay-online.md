@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036859"
 ---
 # <a name="will-office-365-services-stay-online"></a>Vai Office 365 pakalpojumi paliks tiešsaistē?
 
-jā. Esam izveidojuši šos pakalpojumus ar elastīgumu. Visi pakalpojumi vienlaikus veic vairākas instances, tāpēc pat tad, ja vienam gadījumam ir problēmas, mūsu klienti netiek ietekmēti. Ir ietverti arī visi pakalpojumi, tādēļ, ja problēma ir saistīta ar vienu pakalpojumu, tas neizplatās ar pārējiem. Visbeidzot, visi pakalpojumi ir iebūvēti, lai novērstu problēmas, kas rodas, izmantojot kaskādes pakalpojumu.
+Jā. Mēs esam izstrādājuši šos pakalpojumus ar elastīgumu. Katrs pakalpojums vienlaikus palaiž vairākas instances, tāpēc pat tad, ja vienai instancei rodas problēmas, mūsu klienti netiek ietekmēti. Katrā pakalpojumā ir iekļauts arī katrs pakalpojums, tāpēc, ja rodas problēma saistībā ar vienu pakalpojumu, tas netiks sadalīts uz pārējiem pakalpojumiem. Visbeidzot, katra pakalpojuma kodā ir iebūvēti drošības pasākumi, lai palīdzētu novērst problēmu kaskadēšanu pakalpojumā.
 
-Lai uzzinātu vairāk par mūsu centieniem saglabāt mūsu pakalpojumus stabilus, skatiet rakstu [uzņēmuma darba nepārtrauktības pārvaldība (EBCM), izmantojot mākoņpakalpojumu pakalpojumus](https://go.microsoft.com/fwlink/?linkid=2124377).
+Lai uzzinātu vairāk par mūsu pūliņu uzturēt mūsu pakalpojumus stabili, skatiet rakstu Uzņēmuma darba nepārtrauktības [pārvaldība (EBCM), izmantojot mākoņpakalpojumus.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Mēs novērtējam jūsu atsauksmes, tāpēc, lūdzu, atlasiet **Jā** /  , lai tiktu parādīts jautājums, kas tiek rādīts, un pēc tam novērtējiet savu pieredzi.
+Pateicamies par jūsu atsauksmēm, tāpēc, **lūdzu,** atlasiet Jā / **Nē** uz parādīto jautājumu un novērtējiet savu pieredzi.

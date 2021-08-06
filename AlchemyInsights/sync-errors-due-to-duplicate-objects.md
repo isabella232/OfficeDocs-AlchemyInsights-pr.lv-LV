@@ -1,5 +1,5 @@
 ---
-title: 902 (sinhronizācijas kļūdas, jo ir dublēti objekti)
+title: 902 (Sinhronizācijas kļūdas objektu dublikātu dēļ)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998801"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Sinhronizācijas kļūdas, ko rada objektu dublikāti
+# <a name="sync-errors-due-to-duplicate-objects"></a>Sinhronizēt kļūdas objektu dublikātu dēļ
 
-Veicot direktorija sinhronizēšanu programmā Microsoft 365, varat saņemt kādu no šiem kļūdas ziņojumiem:
+Kad direktorija sinhronizēšana tiek pabeigta produktā, iespējams, tiks parādīts Microsoft 365:
 
-- Nevar atjaunināt šo objektu Microsoft Online pakalpojumos, jo tālāk norādītajiem atribūtiem, kas saistīti ar šo objektu, ir vērtības, kas jau var būt saistītas ar citu objektu jūsu lokālajā direktorijā.
+- Nevar atjaunināt šo objektu pakalpojumā Microsoft Online Services, jo tālāk sniegtajiem atribūtiem, kas saistīti ar šo objektu, ir vērtības, kas, iespējams, jau ir saistītas ar citu objektu jūsu lokālajā direktorijā.
 
-- Microsoft Online Services direktorijā jau pastāv sinhronizēts objekts ar tādu pašu starpniekservera adresi.
+- Sinhronizēts objekts ar to pašu starpniekservera adresi jau pastāv jūsu Microsoft Online Services direktorijā.
 
-- Nevar atjaunināt šo objektu, jo tālāk norādītajiem atribūtiem, kas saistīti ar šo objektu, ir vērtības, kas jau var būt saistītas ar citu objektu lokālajā direktoriju pakalpojumos: UserPrincipalName.
+- Nevar atjaunināt šo objektu, jo šiem atribūtiem, kas saistīti ar šo objektu, ir vērtības, kas, iespējams, jau ir saistītas ar citu objektu jūsu lokālā direktorija pakalpojumos: UserPrincipalName.
 
-Lai noteiktu un labotu problēmu, lejupielādējiet un palaidiet [IdFix DirSync kļūdu labošanas rīku](https://github.com/Microsoft/idfix).
+Lai noteiktu un novērstu šo problēmu, lejupielādējiet un palaidiet [IdFix DirSync kļūdu labošanas rīku.](https://github.com/Microsoft/idfix)
 
-Papildinformāciju skatiet rakstā [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+Papildinformāciju skatiet [rakstā KB2647098.](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)

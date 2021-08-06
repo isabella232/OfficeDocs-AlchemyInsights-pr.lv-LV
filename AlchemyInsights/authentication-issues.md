@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019515"
 ---
 # <a name="authentication-issues"></a>Autentifikācijas problēmas
 
@@ -75,14 +75,14 @@ Papildinformāciju par nosacīto piekļuvi skatiet šeit:
 - [Nosacītās piekļuves izaicinājumu risināšana, izmantojot MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Norādījumi izstrādātājiem par Azure Active Directory nosacīto piekļuvi](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Azure Active Directory autentifikācijas bibliotēkas (ADAL) un Azure AD Graph API (AAD Graph) atbalsta beigas_* _
+***Atbalsta beigas autentifikācijas Azure Active Directory bibliotēkai (ADAL) un Azure AD Graph API (AAD Graph)***
 
 - Sākot ar 2020. gada 30. jūniju, mēs vairs nepievienosim jaunus līdzekļus Azure Active Directory autentifikācijas bibliotēkai (ADAL) un Azure AD Graph API (AAD Graph). Mēs turpināsim nodrošināt tehnisko atbalstu un drošības atjauninājumus, bet vairs nenodrošināsim līdzekļu atjauninājumus.
 - Sākot ar 2022. gada 30. jūniju, mēs vairs nesniegsim ADAL un AAD Graph atbalstu un vairs nenodrošināsim tehnisko atbalstu vai drošības atjauninājumus.
     - Lietojumprogrammas, kas izmanto ADAL esošajās OS versijās, turpinās darboties pēc šī datuma, taču nesaņems tehnisko atbalstu vai drošības atjauninājumus.
     - Lietojumprogrammas, kas izmanto AAD Graph, pēc šī datuma, iespējams, vairs nesaņems atbildes no AAD Graph galapunkta.
 
-_ *ADAL migrācija**
+**ADAL migrācija**
 
 Iesakām veikt atjaunināšanu uz [Microsoft autentifikācijas bibliotēku (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), kurā ir jaunākie līdzekļi un drošības atjauninājumi. Šis ieteikums tiek sniegts saistībā ar Microsoft lietojumprogrammu migrēšanu uz MSAL līdz atbalsta termiņa beigām. Microsoft lietojumprogrammu migrēšanas uz MSAL mērķis ir nodrošināt, ka lietojumprogrammas gūst priekšrocības no MSAL pastāvīgajiem drošības un līdzekļu uzlabojumiem.
 

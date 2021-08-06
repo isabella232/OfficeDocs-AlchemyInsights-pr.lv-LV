@@ -1,5 +1,5 @@
 ---
-title: Bloķējiet lietotāju no ierakstu sapulcēm
+title: Bloķēt lietotāju no sapulču ierakstīšanas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019191"
 ---
-# <a name="block-user-from-recording-meetings"></a>Bloķējiet lietotāju no ierakstu sapulcēm
+# <a name="block-user-from-recording-meetings"></a>Bloķēt lietotāju no sapulču ierakstīšanas
 
-Ja vēlaties **novērst vai bloķēt** konkrētu lietotāju reģistrēšanu grupu sapulcēs, varat to izdarīt, izmantojot grupu sapulču politikas iestatījumus. Microsoft Teams administrēšanas centrā izslēdziet iestatījumu **Atļaut mākoņa ierakstīšanu** šim lietotājam piešķirtajā sapulces politikā. Lai uzzinātu vairāk, skatiet rakstu [Sapulču politiku pārvaldība pakalpojumā Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
+Ja vēlaties novērst vai **bloķēt konkrētu** lietotāju iespējas ierakstīt vai Teams sapulces, to varat izdarīt, izmantojot Teams sapulces politikas iestatījumus. Administrēšanas Microsoft Teams iestatījumā Atļaut mākoņa **ierakstīšanu** izslēdziet lietotājam piešķirto sapulces politiku. Papildinformāciju skatiet rakstā [Sapulču politiku pārvaldība programmā Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording)
 
-Lai apstiprinātu, vai konkrētam lietotājam ir atļauts vai neierakstīt grupu sapulces, izmantojiet atbalsta diagnostiku. Palaidiet jaunu atbalsta vaicājumu un ierakstiet **Diag: sapulces ieraksts** — diagnostika pārbaudīs politikas iestatījumus norādītajam lietotājam un noteiks tās politikas iestatījumus. Atcerieties, ka var paiet dažas stundas, līdz jaunie politikas iestatījumi stātos spēkā, tāpēc, ja tikko veicāt izmaiņas, pirms diagnostikas atkārtotas palaišanas uzgaidiet dažas stundas.
+Lai validētu, vai konkrētam lietotājam ir atļauts vai Teams sapulcēm, izmantojiet atbalsta diagnostiku. Palaidiet jaunu atbalsta vaicājumu un ierakstiet **diag: Sapulces** ierakstīšana — diagnostika meklēs norādītā lietotāja politikas iestatījumus un norādīs lietotāja politikas iestatījumus. Atcerieties, ka var paiet vairākas stundas, līdz stājas spēkā jauni politikas iestatījumi, tāpēc, ja esat tikko veicis izmaiņas, uzgaidiet dažas stundas, pirms diagnostikas palaišanas no jauna.
 
-Lai iegūtu papildinformāciju, pārskatiet [mākoņa ieraksta ieslēgšana vai](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)izslēgšana.
+Papildinformāciju skatiet [mākoņa ierakstīšanas ieslēgšana vai izslēgšana.](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)

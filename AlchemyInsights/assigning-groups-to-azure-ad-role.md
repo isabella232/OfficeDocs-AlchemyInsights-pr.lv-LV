@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036247"
 ---
 # <a name="assigning-groups-to-azure-ad-role"></a>Grupu piešķiršana Azure AD lomai
 
-Lai pakalpojumā Azure AD piešķirtu Azure AD grupu ar administratora reklāmas pilnvarām, veiciet tālāk norādītās darbības.
+Lai Azure AD lomai piešķirtu Azure AD grupu ar azure AD avotu, veiciet šādas darbības:
 
 1. Izveidot jaunu grupu — lai izveidotu jaunu grupu:
 
-    izveide. Pierakstieties Azure AD administrēšanas centrā ar **privileģētās lomas administratoru** vai **globālā administratora** atļaujām.
-    b. Atlasiet **Azure Active Directory > grupas > visas grupas > jauna grupa**.
-    c. Izveidot grupu.
+    a. Pierakstieties Azure AD administrēšanas centrā ar **priviliģētas lomas administratora** vai **globālā administratora atļaujām.**
+    b. Atlasiet **Azure Active Directory > Grupas > Visas grupas > Jauna grupa**.
+    c. Izveidojiet grupu.
 
-2. Piešķiriet lomu grupai grupas izveides laikā vai pēc tam, kad grupa ir izveidota.
+2. Piešķiriet lomu grupai grupas izveides laikā vai pēc grupas izveides.
 
-    izveide. Lai piešķirtu grupai lomu grupas izveides laikā, pārslēdzieties uz pārslēgšanas **AZURE ad lomām var piešķirt grupai** un izveidot grupu.
-    b. Lai piešķirtu lomu grupai pēc tās izveides, pārejiet uz jaunizveidotās grupas cilni **piešķirtās lomas** un piešķiriet lomai grupu.  
+    a. Lai piešķirtu lomu grupai grupas izveides laikā, ieslēdziet slēdzi **Azure AD** lomu var piešķirt grupai un izveidot grupu.
+    b. Lai piešķirtu lomu grupai pēc tās izveides, naviģējiet uz jaunizveidotās grupas cilni **Piešķirtās lomas** un piešķiriet lomu grupai.  
 
-**Azure AD lomai piešķirtas grupas dalības pārvaldība**
+**Pārvaldīt dalību grupā, kas ir piešķirta Azure AD lomai**
 
-Lai izvairītos no privilēģiju palielināšanas, pēc noklusējuma tikai privileģētas lomas administratori un globālie administratori var modificēt lomai piešķirtās grupas dalību. Tomēr viņi var izvēlēties piešķirt šīs grupas īpašnieku un deleģēt šo uzdevumu.
+Lai nepieļautu privilēģiju pacēlumu, pēc noklusējuma tikai priviliģētie lomu administratori un globālie administratori var modificēt lomu grupai, kam ir piešķirta šī loma. Tomēr viņi var izvēlēties piešķirt šādas grupas īpašniekam un deleģēt šo uzdevumu.
 
-Lai iegūtu papildinformāciju par mākoņa grupu piešķiršanu Azure AD lomām, skatiet rakstu [reklāmas lomu piešķiršana mākonī](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Lai iegūtu papildinformāciju par mākoņa grupām piešķirtām lomām, skatiet sadaļu [mākoņu grupām piešķirto lomu problēmu novēršana](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Papildinformāciju par mākoņu grupu piešķiršanu Azure AD lomām skatiet rakstā [AD lomu piešķiršana mākoņa grupai.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Papildinformāciju par mākoņa grupām piešķirtajām problēmu novēršanas lomām skatiet rakstā Mākoņa grupām [piešķirto lomu problēmu novēršana.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 

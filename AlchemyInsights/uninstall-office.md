@@ -1,5 +1,5 @@
 ---
-title: Office atinstalēšana
+title: Atinstalēt Office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: Tālāk norādītajās darbībās ir aprakstīts, kā atinstalēt Office no datora.
-ms.openlocfilehash: 1be113b2fd140dc30857de68a4ab851c0d946af7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Tālāk ir aprakstītas darbības, Office atinstalēšana datorā.
+ms.openlocfilehash: 50e276e1f0bc142b39515f8ee571bb028b2e5793c990e19f72da5b88ea81c848
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908609"
 ---
-# <a name="uninstall-office"></a>Office atinstalēšana
+# <a name="uninstall-office"></a>Atinstalēt Office
 
 Lejupielādējiet un instalējiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Kad tas tiek atvērts, **Office produktu atinstalēšana** atlasiet versiju, ko vēlaties atinstalēt, un atlasiet **Tālāk**.
+1. Kad tas tiek atvērts, **atinstalēšanas Office atlasiet** atinstalēamo versiju un atlasiet **Tālāk.**
 
 2. Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.
 
-    Pēc restartēšanas automātiski tiek atvērts atbalsta un atkopšanas palīgs, lai pabeigtu atinstalēšanas procesu.
+    Pēc restartēšanas tiek atbalsta un atkopšanas palīgs automātiski tiek atvērts atkārtoti, lai pabeigtu atinstalēšanu.
 
-3. Izpildiet atlikušās uzvednes un [atkārtoti instalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) vai arī noslēdziet palīgu.
+3. Izpildiet pārējos norādījumus un atkārtoti [Office](https://portal.office.com/OLS/MySoftware.aspx) vai aizveriet palīgu.
 
-Citu atinstalēšanas opciju sarakstu atlasiet [atinstalēt Office no datora](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
+Lai iegūtu citu atinstalēšanas opciju sarakstu, [atlasiet Office atinstalēt datorā](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   

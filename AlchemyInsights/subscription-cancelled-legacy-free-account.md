@@ -1,5 +1,5 @@
 ---
-title: Abonementa anulēts — konts ar bezmaksas abonementu
+title: Abonements ir atcelts — mantotais — bezmaksas konts
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999211"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Abonementa anulēts — konts ar bezmaksas abonementu
+# <a name="subscription-cancelled---legacy---free-account"></a>Abonements ir atcelts — mantotais — bezmaksas konts
 
-Jūsu abonements ir atspējots, jo Azure kredīta derīguma termiņš ir beidzies.
+Jūsu abonements ir atspējots, jo Azure kredīta derīgums ir beidzies.
 
-**Azure kredīta derīguma termiņš ir beidzies**
+**Azure kredīta derīgums ir beidzies**
 
-Kad reģistrējaties Azure bezmaksas kontu, saņemsit bezmaksas izmēģinājuma abonementu, kas nodrošina $200 Azure kredīti 30 dienas un 12 mēnešu bezmaksas pakalpojumu. 30 dienu beigās Azure atspējo jūsu abonementu. Jūsu abonements ir atspējots, lai jūs varētu pasargāt no nejaušas maksas par lietošanu, kas nav iekļauta jūsu abonementā un bezmaksas pakalpojumos. Lai turpinātu izmantot Azure pakalpojumus, jums ir [jājaunina abonements](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). Pēc jaunināšanas jūsu abonementā joprojām ir pieejami bezmaksas pakalpojumi 12 mēnešus. Jūs saņemat maksu par lietošanu ārpus bezmaksas pakalpojumiem un daudzumiem.
+Ja reģistrēsieties Azure bezmaksas konta abonēšanas maksai, jūs saņemsiet bezmaksas izmēģinājumversijas abonementu, kas Azure kredītos 30 dienas un 12 mēnešus nodrošina jums 200 dolārus bezmaksas pakalpojumu. Pēc 30 dienām Azure atspējo jūsu abonementu. Jūsu abonements ir atspējots, lai jūs aizsargātu pret nejaušu lietošanas maksu ārpus jūsu abonementā iekļautajiem kredītiem un bezmaksas pakalpojumiem. Lai turpinātu izmantot Azure pakalpojumus, jums [jājaunina abonements.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Pēc jaunināšanas jūsu abonementam joprojām ir piekļuve bezmaksas pakalpojumiem 12 mēnešus. No jums tiek iekasēta maksa tikai par lietojumu, kas pārsniedz bezmaksas pakalpojumus un daudzumu.
 
-Veiciet tālāk norādītās darbības, lai jauninātu savu abonementu:
+Veiciet tālāk norādītās darbības, lai jauninātu savu abonementu.
 
 1. Pierakstieties [Azure portālā](https://portal.azure.com/).
-2. Meklēt **abonementus**.
-3. Atlasiet abonementu, kas tika izveidots, kad reģistrējāties pakalpojumam Azure bezmaksas kontu.
-4. Abonementa pārskatā noklikšķiniet uz **jaunināšanas abonēšanas** pogas komandjoslā. Ja nav redzama poga jaunināšanas abonements, lapas augšdaļā noklikšķiniet uz jaunināšanas reklāmkaroga.
-5. Ja jums nav maksāšanas metodes savam kontam, saņemsit aicinājumu to pievienot.
-6. Lai apstiprinātu savu identitāti, iespējams, būs jāievada tālruņa numurs.
+2. Meklējiet **abonementi.**
+3. Atlasiet abonementu, kas tika izveidots, kad reģistrējaties Azure bezmaksas kontam.
+4. Abonementa pārskatā noklikšķiniet **uz komandjoslas** pogas Jaunināt abonementu. Ja neredzat jaunināšanas abonementa pogu, noklikšķiniet uz jaunināšanas reklāmkaroga lapas augšdaļā.
+5. Ja jūsu kontam nav maksāšanas metodes, tiks lūgts to pievienot.
+6. Iespējams, būs jāievada tālruņa numurs, lai apliecinātu savu identitāti.
 7. Ierakstiet abonementa nosaukumu.
-8. Noklikšķiniet uz  **jaunināt**.
+8. Noklikšķiniet  **uz Jaunināt**.
