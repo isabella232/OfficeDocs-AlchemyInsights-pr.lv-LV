@@ -1,5 +1,5 @@
 ---
-title: Teams analīze un atskaites Teams administrēšanas centrā
+title: Teams Analīze un atskaites Teams administrēšanas centrā
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909086"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams analīze un atskaites Teams administrēšanas centrā
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analīze un atskaites Teams administrēšanas centrā
 
-Teams administrēšanas centrā **ir pieejami** vairāki lietojuma un darbību pārskati, tostarp lietotāju aktivitāte, ierīču lietojums un tiešraides notikumu lietojums. Papildinformāciju skatiet rakstā [Microsoft Teams analīze un atskaišu izveide.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
+Administrēšanas centrā ir **pieejami** vairāki lietojuma un darbību Teams, tostarp lietotāju darbības, ierīču lietojums un tiešraides notikumu lietojums. Detalizētu informāciju skatiet rakstā [Microsoft Teams analīze un atskaišu veidošana.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Ņemiet vērā!** Microsoft 365 administrēšanas centrā ir pieejamas papildu grupas lietojuma un darbību atskaites. Skatiet [rakstu Kā skatīt Teams atskaites atskaišu informācijas panelī.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
+**Ņemiet vērā!** Papildu atskaitēm Teams Lietojums un Darbības ir pieejamas Microsoft 365 administrēšana centrā. Skatiet [rakstu Kā Teams atskaites atskaišu informācijas panelī](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-Ja meklējat atskaišu izveidi vai  analīzi, kas saistīta ar zvaniem vai zvanu **kvalitāti,** skatiet sadaļu [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) ieviešana un Zvanu kvalitātes pārraudzība pakalpojumā Microsoft Teams, lai iegūtu saistītu dokumentāciju.
+Ja meklējat pārskatu vai analīzi, kas saistīts ar zvaniem vai zvanu **kvalitāti,** skatiet sadaļu [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) ieviešana un zvanu kvalitātes pārraudzība pakalpojumā Microsoft Teams saistīto dokumentāciju. 
 
