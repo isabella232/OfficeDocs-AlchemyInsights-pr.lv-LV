@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps un Microsoft plūsmas plāna paplašinājums
+title: 1575-PowerApps un Microsoft Flow plāna paplašinājums
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960446"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps un Microsoft plūsmas plāna paplašinājums
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps un Microsoft Flow plāna paplašinājums
 
-Ja plānojat pieprasīt **Microsoft plūsmas** vai **PowerApps** plāna paplašinājumu, un jūsu nomniekam jau ir aktīvi lietotāji ar vienu no tālāk norādītajiem līdzekļiem, nav nepieciešams iesniegt atbalsta pieprasījumu.
+Ja vēlaties pieprasīt plāna paplašinājumu pakalpojumā **Microsoft Flow** vai **PowerApps** un jūsu nomniekā jau ir aktīvi lietotāji ar kādu no tālāk minētajiem līdzekļiem, nav nepieciešams iesniegt atbalsta pieprasījumu.
 
-- Pielāgotu savienotāju izveide un publicēšana programmā PowerApps un Microsoft Flow
-- HTTP pielāgotas darbības, kas integrētas plūsmā ārpus SharePoint un OneDrive
-- Lokālo datu integrācija, izmantojot lokālo datu vārteju
+- Pielāgotu savienotāju izveide un publicēšana lietojumprogrammās PowerApps un Microsoft Flow
+- Pielāgotās HTTP darbības, kas integrētas Flow ārpus SharePoint un OneDrive
+- Lokālo datu integrācija ar lokālo datu vārteju
 
-Klienti ar šo līdzekļu aktīvajiem lietotājiem iegūs automātisku pagarinājumu līdz 31. janvārim, 2020 vai to esošā Microsoft 365 abonementa termiņa beigām, kas būs ilgāks.
+Klientiem, kuri ir šo līdzekļu aktīvi lietotāji, līdz 2020. gada 31. janvārim tiks sākts automātiskais paplašinājums vai būs beidzies to esošo Microsoft 365 derīguma termiņš (atkarībā no tā, kurš ir ilgāks).

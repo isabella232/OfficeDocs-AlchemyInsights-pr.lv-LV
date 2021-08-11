@@ -1,5 +1,5 @@
 ---
-title: Borta ierīces uz Microsoft Defender galapunktu
+title: Onboard devices to Microsoft Defender for Endpoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967484"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Borta ierīces uz Microsoft Defender galapunktu
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Onboard devices to Microsoft Defender for Endpoint
 
-Microsoft Defender for Endpoint nodrošina centralizētas drošības darbības sistēmā Windows un citās platformās, kas nav Windows platformas. Tas palīdz aizsargāt organizācijas tīklu un izmantot Microsoft Defender drošības centru, lai pārskatītu brīdinājumus no dažādām atbalstītām operētājsistēmām:
+Microsoft Defender galapunktam nodrošina centralizētu drošības operāciju pieredzi Windows bez Windows platformām. Tas palīdz aizsargāt organizācijas tīklu un izmantot šos Microsoft Defender drošības centrs, lai pārskatītu brīdinājumus no dažādām atbalstītajām operētājsistēmām:
 
-- **Windows 10 datoros** skatiet rakstu [borta rīki un metodes Windows 10 ierīcēm](https://go.microsoft.com/fwlink/?linkid=2143460).
-- **Windows serveriem** skatiet sadaļā [borta serveri uz Microsoft Defender for Endpoint Service](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Ja **nav Windows galapunkti**, pārbaudiet, vai jūsu sistēma atbilst [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) vai [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)prasībām, un pēc tam turpiniet [darbu.](https://go.microsoft.com/fwlink/?linkid=2143628)
+- Windows 10 **datorus** skatiet [rakstā Pievienošanas rīki un Windows 10 metodes.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Informāciju **Windows serveriem** skatiet [rakstā Onboard serveri](https://go.microsoft.com/fwlink/?linkid=2143627)pakalpojumam Microsoft Defender for Endpoint.
+- Ja galapunkti nav Windows , **pārliecinieties,** vai jūsu sistēma atbilst [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) vai [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)prasībām, un pēc tam pārejiet pie [tāfeles](https://go.microsoft.com/fwlink/?linkid=2143628).
