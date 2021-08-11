@@ -1,5 +1,5 @@
 ---
-title: Atļauju un piekrišanu problēmu novēršana
+title: Problēmu novēršana saistībā ar atļaujām un piekrišanu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: a1b2dd99acfce24de00e471dda259598b17b4ee0
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092993"
 ---
-# <a name="troubleshoot-permissions-and-consents"></a>Atļauju un piekrišanu problēmu novēršana
+# <a name="troubleshoot-permissions-and-consents"></a>Problēmu novēršana saistībā ar atļaujām un piekrišanu
 
-1. Izlasiet šo rakstu, lai izprastu [Azure Active Directory piekrišanas struktūru](https://docs.microsoft.com/azure/active-directory/develop/consent-framework).
-1. [Atļaujas un piekrišana Microsoft identitātes platformas galapunktā](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) attiecas uz šī autorizācijas modeļa pamatjēdzieniem, tostarp tvērumiem, atļaujām un piekrišanu.
-1. Uzziniet, kā pārvaldīt un novērtēt saskaņojumu: pārvaldīt [piekrišanu lietojumprogrammām un novērtēt piekrišanas pieprasījumus](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
-1. [Izpratne par AZURE ad Application piekrišana pieredzi](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience): Uzziniet vairāk par Azure Active Directory (Azure AD) lietojumprogrammu piekrišana lietotāja pieredzi.
-1. [Negaidītu kļūdu novēršana, veicot piekrišanu lietojumprogrammai](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Izlasiet šo rakstu, lai [izprastu Azure Active Directory piekrišanas struktūru.](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)
+1. [Atļaujas un piekrišana galapunktā Microsoft indentitāšu platforma](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) aptver šī autorizācijas modeļa pamatjēdzienos, tostarp tvērumus, atļaujas un piekrišanu.
+1. Uzziniet, kā pārvaldīt un novērtēt piekrišanu: [Atļauju pārvaldība lietojumprogrammām un piekrišanas pieprasījumu novērtēšana.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
+1. [Informācija par Azure AD lietojumprogrammu piekrišanas](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)pieredzi: Uzziniet vairāk par Azure Active Directory (Azure AD) lietojumprogrammu piekrišanas lietotāju pieredzi.
+1. [Novērsiet neparedzētas kļūdas, izpildot piekrišanu lietojumprogrammai.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

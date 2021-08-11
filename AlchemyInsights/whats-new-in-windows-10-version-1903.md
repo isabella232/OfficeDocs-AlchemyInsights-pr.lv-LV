@@ -1,5 +1,5 @@
 ---
-title: Jaunumi operētājsistēmā Windows 10, versija 1903
+title: Jaunumi programmas Windows 10 versijā 1903
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970662"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>Jaunumi operētājsistēmā Windows 10, versija 1903
+# <a name="whats-new-in-windows-10-version-1903"></a>Jaunumi programmas Windows 10 versijā 1903
 
-Tālāk ir norādīti jaunie un atjauninātie līdzekļi un Windows 10 versija 1903, ko dēvē arī par Windows 10 2019 maija atjauninājumu. Šajā atjauninājumā ir ietverti arī visi līdzekļi un labojumi, kas iekļauti iepriekšējos Windows 10 kumulatīvajos atjauninājumos, versija 1809:
+Šeit ir pieejami jaunie un atjauninātie līdzekļi un Windows 10 versijai 1903, kas tiek dēvēta arī par Windows 10 atjauninājums (2019. gada maijs). Šajā atjauninājumā iekļauti arī visi līdzekļi un labojumi, kas iekļauti iepriekšējos kumulatīvos Windows 10 versijā 1809:
 
-1. [Izvietošanas](https://go.microsoft.com/fwlink/?linkid=2114296)
-1. [Apkalpošanas](https://go.microsoft.com/fwlink/?linkid=2114493)
+1. [Izvietošana](https://go.microsoft.com/fwlink/?linkid=2114296)
+1. [Apkalpošana](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [Drošība](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)

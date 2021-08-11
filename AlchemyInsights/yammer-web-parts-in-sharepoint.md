@@ -1,5 +1,5 @@
 ---
-title: Yammer tīmekļa daļas vidē SharePoint
+title: Yammer tīmekļa daļas SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970338"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Yammer tīmekļa daļas vidē SharePoint
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer tīmekļa daļas SharePoint
 
-Yammer sarunas un Yammer uzsver tīmekļa daļas Uzlabojiet sadarbību modernās un klasiskās SharePoint lapās. Papildinformāciju skatiet rakstā [Yammer sarunas](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  un  [Yammer Highlights](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
+Yammer Sarunas un Yammer iezīmē tīmekļa daļas uzlabo sadarbību mūsdienīgās un klasiskajās SharePoint lapās. Papildinformāciju skatiet rakstā [Yammer sarunas](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) un [Yammer aktual valstis.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-Modernās Yammer sarunas tīmekļa daļa tiek atjaunināta uz jauno Yammer pieredzi, un tā ir pieejama konkrētiem laidiena nomniekiem. Ir sākusies GA izvēršana. Jauni līdzekļi ietver iespēju sākt sarunu ar jebkuru ziņu (jautājumi, aptaujas, uzslava) un atzīmēt labākās atbildes tieši no SharePoint. Papildinformāciju skatiet rakstā [jauni Yammer klientu termini un bieži uzdotie jautājumi](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+Modernā Yammer sarunu tīmekļa daļa tiek atjaunināta uz jauno versiju Yammer un ir pieejama mērķa laidiena nomniekiem. Ga rollout has started. Jaunie līdzekļi ietver iespēju sākt sarunu ar jebkuru ziņu (jautājumi, aptaujas, Uzslava) un atzīmēt vislabākās atbildes tieši no SharePoint. Papildinformāciju skatiet rakstā Jaunie [Yammer noteikumi un Bieži uzdotie jautājumi.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
 
- Lai izprastu, kura tīmekļa daļa un konfigurācija jums ir piemērota, skatiet rakstu [Yammer tīmekļa daļa izmantošana pakalpojumā SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
+ Lai uzzinātu, kura tīmekļa daļa un konfigurācija ir jums pareiza, skatiet rakstu [Tīmekļa Yammer izmantošana pakalpojumā SharePoint Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
 
-**Tīmekļa daļu izmantošana kopā ar SharePoint Server**  
+**Tīmekļa daļu izmantošana ar SharePoint Server**  
 
-Tīmekļa daļas var izmantot modernās un klasiskās lapās lokālajā vidē.
+Tīmekļa daļas var izmantot mūsdienīgās un klasiskajās lapās lokālajā vidē.
 
-- Papildinformāciju par modernām lapām skatiet rakstā [Yammer plūsmas pievienošana mūsdienīgai SharePoint Server 2019 lapai](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
-- Papildinformāciju par klasiskajām lapām skatiet rakstā [Yammer plūsmas pievienošana klasiskai lapai SharePoint serveros 2013, 2016 un 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
+- Papildinformāciju par modernām [lapām skatiet rakstā Yammer plūsmas pievienošana modernai lapai programmā SharePoint Server 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019) 
+- Papildinformāciju par klasiskām lapām skatiet rakstā Yammer plūsmas pievienošana klasiskajā lapā programmā [SharePoint Servers 2013, 2016 un 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)
 
-**Yammer iegulšana**  
+**Yammer Iegulšana**  
 
-Izmantojiet iegulšanas konfigurācijas rīku, lai testētu iegulšanas izmantošanu. Turpmākās iegulšanas atjauninājums ļaus izveidot jauno Yammer pieredzi. Papildinformāciju skatiet rakstā [Yammer iegulšanas konfigurācijas rīks](https://aka.ms/YammerEmbedConfigureTool). Lai labāk izprastu Yammer iegulšanas komponentu, skatiet rakstu [plūsmas iegulšana](https://aka.ms/YammerDevDocs).
+Izmantojiet iegulšanas konfigurācijas rīku, lai pārbaudītu iegulšanas lietojumu. Nākotnes iegulšanas atjauninājums iespējos jauno Yammer pieredzi. Papildinformāciju skatiet rakstā Yammer [iegulšanas konfigurācijas rīks.](https://aka.ms/YammerEmbedConfigureTool) Lai labāk izprastu Yammer iegultu, skatiet rakstu [Plūsmas iegulšana.](https://aka.ms/YammerDevDocs)
 
 **Zināmās problēmas un ierobežojumi**
 
-- Grupas ID nav pieejami no jauniem Yammer vietrāžiem URL, kas ir mainījušies. Pārslēdzieties atpakaļ uz klasisko režīmu, lai iegūtu grupas ID vai citus ID no vietrāžiem URL.
-- Pielāgoti (Vanity) domēni netiek atbalstīti.
-- Yammer iegulšana nav optimizēta mobilajai lietošanai. Izmantojiet mūsdienīgas lapas ar Yammer sarunām tīmekļa daļā, lai iegūtu vislabāko pieredzi.
-- Pielāgotie dizaini var ietekmēt Yammer sarunu tīmekļa daļu izskatu un lietojamību. Atveriet atbalsta gadījumu, lai ziņotu par problēmām.
+- Grupas vietrāži URL nav pieejami jauniem Yammer vietrāžiem URL, kas ir mainīti. Pārslēdzieties atpakaļ uz klasisko režīmu, lai iegūtu grupas vietrāžus URL vai citus vietrāžus URL.
+- Pielāgoti (individualitātes) domēni netiek atbalstīti.
+- Yammer Iegulšana nav optimizēta mobilajām ierīcēm. Lai iegūtu vislabāko pieredzi, izmantojiet Yammer lapas ar tīmekļa daļu Sarunas.
+- Pielāgoti dizaini var ietekmēt tīmekļa daļas Sarunu Yammer lietojamību. Atveriet atbalsta gadījumu, lai ziņotu par problēmām.

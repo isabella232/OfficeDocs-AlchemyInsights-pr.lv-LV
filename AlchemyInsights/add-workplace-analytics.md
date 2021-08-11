@@ -1,5 +1,5 @@
 ---
-title: Darbvietas analīzes pievienošana
+title: Darbavietas analīzes pievienošana
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: 37748293e62e490ad6322d9095cd7b08904f50c6
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d3abd1110b78092563ce26b279cd955d31ef5063425db78567c3cfd906007c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935128"
 ---
-# <a name="add-workplace-analytics"></a>Darbvietas analīzes pievienošana
+# <a name="add-workplace-analytics"></a>Darbavietas analīzes pievienošana
 
-Izmantojot atbilstošu licencēšanu, jūsu uzņēmums var iegūt darbavietas analīzi kā pievienojumprogrammas licences līgumam. Lai varētu iegādāties darbavietas analītiskās licences, uzņēmumam ir jāveic tālāk norādītās darbības. 
+Atbilstoši licencēšanai jūsu uzņēmums var iegūt Workplace Analytics kā pievienojumprogrammu tā licencēšanas līgumā. Lai varētu iegādāties darbavietas analīzes licences, jūsu uzņēmumam ir nepieciešams: 
 
-- [Uzņēmuma līgums (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) ar Microsoft
-- Office 365 vai Microsoft 365 produkts, kas ietver [Exchange Online 1. plānu vai Exchange Online 2. plānu](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
+- An [līgums Enterprise (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) with Microsoft
+- An Office 365 or Microsoft 365 product that contains [Exchange Online Plan 1 or Exchange Online Plan 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
 
-Papildinformāciju skatiet rakstā [darbavietas analīzes prasības](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements). 
+Papildinformāciju skatiet rakstā [Darbavietas analīzes prasības.](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements) 
