@@ -1,5 +1,5 @@
 ---
-title: Ierīce gaidīšanas režīmā
+title: Ierīce ir gaidošā stāvoklī
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914010"
 ---
-# <a name="device-in-pending-state"></a>Ierīce gaidīšanas režīmā
+# <a name="device-in-pending-state"></a>Ierīce ir gaidošā stāvoklī
 
-**Priekšnoteikumi**
+**Priekšnosacījumi:**
 
-1. Ja iestatāt ierīču reģistrācijas pirmo reizi, lūdzu, pārliecinieties, ka esat pārskatījis [Azure Active Directory (AZURE AD) Ievads](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) par ierīču pārvaldību, kas palīdzēs iegūt ierīces, kas atrodas Azure AD vadībā.
-2. Ja esat reģistrējis ierīces Azure AD tiešā veidā un reģistrējat to Intune, jums ir jāpārliecinās, vai esat [konfigurējis Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) un ir vispirms [jālicencē](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) .
-3. Pārliecinieties, vai jums ir atļauts veikt darbības Azure AD un lokālajā REKLĀMā. Tikai globālais administrators Azure AD var pārvaldīt ierīces reģistrācijām paredzētos iestatījumus. Turklāt, ja iestatāt automātiskas reģistrācijas savā lokālajā Active Directory, jums būs nepieciešams Active Directory un AD FS administrators (ja piemērojams).
+1. Ja iestatāt ierīču reģistrācijas pirmo reizi, pārliecinieties, vai esat pārskatījis Ievads par ierīču pārvaldību programmā [Azure Active Directory (Azure AD),](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) kas palīdzēs iegūt ierīces Azure AD kontrolē.
+2. Ja reģistrējat ierīces Azure AD tieši un reģistrējat tās Intune, jums vispirms ir jākonfigurē [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) un vispirms jāveic licencēšana. [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. Pārliecinieties, vai esat pilnvarots veikt darbības Azure AD un lokālajā AD. Ierīču reģistrāciju iestatījumus var pārvaldīt tikai Azure Active Directory globālais administrators. Turklāt, ja iestatāt automātiskas reģistrācijas lokālajā Active Directory, jums būs jābūt Active Directory un AD FS administratoram (ja piemērojams).
 
-Hibrīdā Azure AD pievienošanās reģistrācijas procesam ir nepieciešamas ierīces, lai tās būtu korporatīvajā tīklā. Tā darbojas arī uz VPN, bet tam ir daži brīdinājumi. Mēs esam dzirdējuši, ka klientiem ir nepieciešama palīdzība saistībā ar Hibrīdā Azure AD pievienošanās reģistrācijas procesam attālā darba apstākļos.
+Hibrīda Azure AD pievienošanās reģistrācijas procesam nepieciešamas ierīces uzņēmuma tīklā. Tas darbojas arī, izmantojot VPN, bet tas arī tiek darīts. Esam informējuši klientus, ka ir nepieciešama palīdzība ar hibrīdā Azure AD pievienošanās reģistrācijas procesa problēmu novēršanu attālos darba apstākļos.
 
-**Mākoņa autentifikācijas vide (izmantojot Azure AD Password hash Sync vai tranzīta autentifikāciju)**
+**Mākoņa autentifikācijas vide (izmantojot Azure AD paroles jaukšanas sinhronizāciju vai tranzīta autentifikāciju)**
 
-Šo reģistrācijas plūsmu dēvē arī par sinhronizācijas savienojumu.
+Šī reģistrācijas plūsma tiek dēvēta arī par "Sinhronizācijas savienojums".
 
-Tālāk ir aprakstīts, kas notiek reģistrācijas procesa laikā.
+Lūk, kas notiek reģistrācijas procesa laikā:
 
-1. Windows 10 atklāj pakalpojumu savienojuma punkta (SCP) ierakstu, kad lietotājs piesakās savā ierīcē.
+1. Windows 10 atrod pakalpojuma savienojuma punkta (Service Connection Point — SCP) ierakstu, kad lietotājs piesakās ierīcē.
 
-    1. Ierīce vispirms mēģina izgūt nomnieka informāciju no klienta puses SCP reģistrā [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Papildinformāciju skatiet rakstā [dokuments](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Ja tas nelīdz, ierīce komunicē ar lokālo Active Directory, lai iegūtu nomnieka informāciju no SCP. Lai verificētu SCP, skatiet šo [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > Ieteicams iespējot SCP Active Directory un izmantot tikai klienta puses SCP sākotnējai validācijai.
-
-2. Windows 10 mēģina sazināties ar Azure AD, izmantojot sistēmas kontekstu, lai autentificētu sevi pret Azure AD.
-
-    Varat pārbaudīt, vai ierīce var piekļūt Microsoft resursiem sistēmas kontā, izmantojot [testa ierīces reģistrācijas savienojamības skriptu](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. Windows 10 izveido pašparakstītu sertifikātu un saglabā to zem datora objekta lokālajā Active Directory. Lai to izdarītu, ir nepieciešams domēna kontrolleris.
-
-4. Ierīces objekts, kura sertifikāts tiek sinhronizēts ar Azure AD, izmantojot Azure AD Connect. Sinhronizācijas cikls ik pēc noklusējuma ir 30 minūtes, tomēr tas ir atkarīgs no Azure AD Connect konfigurēšanas. Lai iegūtu papildinformāciju, skatiet šo [dokumentu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Šajā posmā varat skatīt tēmas ierīci sadaļā "**gaida**", sadaļā ierīces disks Azure Portal.
-
-6. Nākamajā lietotāja pierakstīšanās operētājsistēmā Windows 10 reģistrācija tiks pabeigta.
+    1. Ierīce vispirms mēģina izgūt nomnieka informāciju no klienta puses SCP reģistrā [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Papildinformāciju skatiet [dokumentā](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Ja tas neizdodas, ierīce sazinās ar lokālo Active Directory, lai iegūtu nomnieka informāciju no SCP. Lai pārbaudītu SCP, skatiet šo [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
     > [!NOTE]
-    > Ja esat VPN un atteikšanās/pierakstīšanās pārtrauc domēna savienojamību, varat manuāli aktivizēt reģistrāciju. Lai to izdarītu:
-    >
-    > `dsregcmd /join`Lokāli jautājiet savā datorā, izmantojot PSExec.
-    >
-    > Piemēram: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    > Iesakām iespējot SCP Active Directory, tikai izmantojot klienta puses SCP sākotnējai validācijai.
 
-Biežāk sastopamās problēmas ar Azure Active Directory ierīces reģistrēšanu skatiet rakstā [bieži uzdotie jautājumi par ierīcēm](https://docs.microsoft.com/azure/active-directory/devices/faq).
+2. Windows 10 mēģina sazināties ar Azure AD sistēmas kontekstā, lai autentificētos azure AD.
+
+    Varat pārbaudīt, vai ierīce var piekļūt Microsoft resursiem sistēmas kontā, izmantojot ierīces [reģistrācijas testa skriptu](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
+
+3. Windows 10 ģenerē pašparakstītu sertifikātu un saglabā to zem datora objekta lokālajā Active Directory. Domēna kontrollerim ir jābūt redzamam līnijai.
+
+4. Ierīces objekts, kuram ir sertifikāts, tiek sinhronizēts ar Azure AD, izmantojot Azure AD Savienošana. Sinhronizācijas cikls pēc noklusējuma ir ik pēc 30 minūtēm, bet tas ir atkarīgs no Azure AD Savienošana. Papildinformāciju skatiet šajā [dokumentā.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Šajā posmā temata ierīcei vajadzētu būt redzamai stāvoklī **"Gaida",** kas atrodas Azure Portal sadaļas Ierīces asmensmis.
+
+6. Nākamajā lietotāja pieteikšanās reizē Windows 10 pabeigta reģistrācija.
+
+    > [!NOTE]
+    > Ja izmantojat VPN un logoff/login, domēna savienojamība tiek pārtraukta, varat aktivizēt reģistrāciju manuāli. Lai to paveiktu:
+    >
+    > Izsniedziet `dsregcmd /join` lokālu administratora uzvedni vai attāli, izmantojot PSExec jūsu datorā.
+    >
+    > Piemērs. `PsExec -s \\win10client01 cmd, dsregcmd /join`
+
+Bieži sastopamās problēmas saistībā Azure Active Directory reģistrāciju skatiet rakstā Bieži uzdotie [jautājumi par ierīcēm.](https://docs.microsoft.com/azure/active-directory/devices/faq)

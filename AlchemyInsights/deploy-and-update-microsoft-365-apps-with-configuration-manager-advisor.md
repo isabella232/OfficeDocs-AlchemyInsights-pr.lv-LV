@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 lietojumprogrammu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku
+title: Programmu izvietošana un Microsoft 365 ar konfigurācijas pārvaldnieka padomnieku
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 03c4b88ad4d962681cb71f39bf793500585dc0ff24b38f47890547781fc25f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914226"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Microsoft 365 lietojumprogrammu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Programmu izvietošana un Microsoft 365 ar konfigurācijas pārvaldnieka padomnieku
 
-Organizācijām, kas izmanto konfigurācijas pārvaldnieku, varat izmantot [microsoft 365 programmu izvietošana un atjaunināšana, izmantojot konfigurācijas pārvaldnieka padomnieku](https://go.microsoft.com/fwlink/?linkid=2146549) , lai ģenerētu skriptu, kas automātiski konfigurēs jūsu Microsoft 365 lietojumprogrammu izvietošanu, izmantojot FastTrack inženieru ieteiktās labākās prakses.
+Organizācijām, kas izmanto konfigurācijas pārvaldnieku, varat izmantot rīku [Microsoft 365 programmas Izvietošana](https://go.microsoft.com/fwlink/?linkid=2146549) un atjaunināšana kopā ar konfigurācijas pārvaldnieka konsultantu, lai ģenerētu skriptu, kas automātiski konfigurēs jūsu Microsoft 365 programmas izvietošanu, izmantojot FastTrack inženieri ieteikto labāko praksi.
 
-Izmantojiet šo rokasgrāmatu, lai veidotu savas izvietošanas grupas, pielāgotu savas Office programmas un līdzekļus, konfigurētu dinamiskās vai nojumes instalācijas un pēc tam palaistu skriptu, lai izveidotu lietojumprogrammas, automātisko izvietošanas kārtulas un ierīču kolekcijas, kas nepieciešamas izvietošanai.
+Izmantojiet šo rokasgrāmatu, lai izveidotu savas izvietošanas grupas, pielāgotu Office programmas un līdzekļus, konfigurētu dinamiskas vai liesas instalācijas, un pēc tam izpildiet skriptu, lai izveidotu lietojumprogrammas, automātiskās izvietošanas kārtulas un ierīču kolekcijas, kas nepieciešamas izvietošanas vajadzībām.

@@ -1,5 +1,5 @@
 ---
-title: CTRL + H rāda Find, not Replace programmā Excel 2016
+title: Ctrl+H parāda Meklēt, nevis Aizstāt Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914730"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H rāda Find, not Replace programmā Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>Ctrl+H parāda Meklēt, nevis Aizstāt Excel
 
-Programmā Excel 2016 nospiežot taustiņu kombināciju CTRL + H, tiek atvērts dialoglodziņš Atrašana un aizstāšana, un tiek parādīta cilne atrašana, nevis cilne aizstāt. Cilnē Sākums noklikšķinot uz aizstāt. Šī problēma tika izlabota versijā 1708 (8431,2094). Lai to izlabotu, atjauniniet uz jaunāko Office versiju. Atlasiet **failu** \> **konta** \> **atjaunināšanas opciju** \> **Atjaunināšana tūlīt**.
+Programmā Excel 2016 taustiņu kombināciju CTRL+H atver dialoglodziņu Atrašana un aizstāšana un parāda cilni Atrašana, nevis cilni Aizstāšana. Tas pats notiek, noklikšķinot uz Aizstāt cilnē Sākums. Šī problēma tika novērsta versijā 1708 (8431.2094). Lai to izlabotu, atjauniniet uz jaunāko Office. Atlasiet **Faila** \> **konta** \> **atjaunināšanas opcijas** Atjaunināt \> **tūlīt**.
   
