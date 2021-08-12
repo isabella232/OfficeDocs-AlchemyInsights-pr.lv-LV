@@ -1,5 +1,5 @@
 ---
-title: E-pasta paraksta pievienošana programmā Outlook darbam ar Mac
+title: E-pasta paraksta pievienošana programmā Outlook for Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8200"
-ms.openlocfilehash: 5d76bac16d640f8634903abae59fc7e61fa60cb3
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 2e5069b57f922bf782555467b2a85d9e6ae72967e06ed655212e8574ed4c091b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935884"
 ---
-# <a name="add-email-signature-in-outlook-for-mac"></a>E-pasta paraksta pievienošana programmā Outlook darbam ar Mac
+# <a name="add-email-signature-in-outlook-for-mac"></a>E-pasta paraksta pievienošana programmā Outlook for Mac
 
-1. **Outlook** izvēlnē noklikšķiniet uz **preferences**.
-2. Sadaļā **e-pasts** noklikšķiniet uz **paraksti**.
-3. Noklikšķiniet uz **Pievienot +**.
-4. Veiciet dubultklikšķi uz bez **nosaukuma** un pēc tam ierakstiet paraksta nosaukumu.
-5. Labajā rūtī ierakstiet tekstu, kuru vēlaties iekļaut parakstā.
-6. Aizvērtu lapu **paraksti** .
-7. Lai lietotu formatējumu, piemēram, fontu, fonta stilu, fonta lielumu, fonta krāsu vai marķējumu, atlasiet tekstu un pēc tam izvēlnē Formāts noklikšķiniet uz vēlamās opcijas.
-8. Aizvērtu lapu **paraksti** .
+1. Izvēlnē **Outlook** noklikšķiniet uz **Preferences**.
+2. Sadaļā **E-pasts** noklikšķiniet uz **Paraksti**.
+3. Noklikšķiniet **uz Pievienot +**.
+4. Veiciet dubultklikšķi **uz Nenosaukts** un pēc tam ierakstiet paraksta nosaukumu.
+5. Labajā rūtī ierakstiet tekstu, ko vēlaties iekļaut parakstā.
+6. Aizveriet **lapu Paraksti.**
+7. Lai lietotu formatējumu, piemēram, fontu, fonta stilu, fonta lielumu, fonta krāsu vai iezīmēšanu, atlasiet tekstu un pēc tam izvēlnē Formāts noklikšķiniet uz vajadzīgās opcijas.
+8. Aizveriet **lapu Paraksti.**

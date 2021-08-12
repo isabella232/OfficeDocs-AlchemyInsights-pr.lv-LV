@@ -1,5 +1,5 @@
 ---
-title: Tikai lasāmi uzturēšanas ziņojumi, mēģinot izmantot SharePoint vai OneDrive
+title: Read-Only, mēģinot izmantot uzturēšanas SharePoint vai OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910553"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Tikai lasāmi uzturēšanas ziņojumi, mēģinot izmantot SharePoint vai OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only, mēģinot izmantot uzturēšanas SharePoint vai OneDrive
 
-Lietotāji var saņemt **tikai lasāmus uzturēšanas** ziņojumus, mēģinot izmantot SharePoint vai OneDrive vienam no šiem scenārijiem. 
+Mēģinot izmantot SharePoint vai **OneDrive** kādā no šiem scenārijiem, lietotāji var saņemt ziņojumu Tikai lasāms uzturēšanas vajadzībām. 
 
--   Plānotas vai aktīvas uzturēšanas darbības.  Pārbaudiet, vai jums ir navigācija uz [ziņojumu centru](https://portal.office.com/adminportal/home#/messagecenter).
--   Augsta prioritāte, aktīvais pakalpojuma incidents, kas var notikt. Pārbaudiet, vai nav padomu/incidentu, naviģējot uz [Pakalpojuma darbspējas pakalpojumu](https://portal.office.com/adminportal/home#/servicehealth).
--   Mazs automātiskas atkopšanas scenārijs, kas var rasties, ja rodas neparedzēti notikumi serveros, kas var ilgt mazāk nekā 30 minūtes. 
+-   Plānota vai aktīva uzturēšanas darbība.  Pārbaudiet, vai tās naviģējat [uz ziņojumu centru](https://portal.office.com/adminportal/home#/messagecenter).
+-   Augstas prioritātes aktīva pakalpojuma incidents, kas var būt sastopams. Ņemiet vērā visus padomus/incidentus, naviģējot uz [pakalpojuma darbspēju.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Neliels automātiskās atkopšanas scenārijs, kas var notikt neparedzētu notikumu dēļ serveros, kas var ilgt līdz pat 30 minūtēm vai ilgāk. 
     
-    Šiem nedaudzajiem atklājumiem nav ziņojumu centra vai pakalpojumu darbspējas ziņu, bet jums ir jāatgriežas pavisam drīz.
+    Nav ziņojumu centra vai pakalpojuma darbspējas ziņu par šīm mazāksvarīgām atkopšanas atkopšībām, taču ļoti drīz atkal vajadzētu atgriezties pie normāla.
 
-Daži gadījumi, kad mēs novērojām, ka viens no trim iepriekš norādītajiem scenārijiem ir cēlonis, un pakalpojums ir atjaunots, bet lietotāju pārlūka kešatmiņa nav notīrīta.
+Dažos gadījumos mēs novērojām, ka iemesls ir kāds no iepriekš minētajiem trim scenārijiem un pakalpojums ir atjaunots, taču lietotāju pārlūkprogrammas kešatmiņa nav notīrīta.
 
-Lūdzu, mēģiniet notīrīt pārlūkprogrammas kešatmiņu pirms naviģēšanas uz vietni.
+Lūdzu, pirms naviģēšanas uz vietni mēģiniet notīrīt pārlūkprogrammas kešatmiņu.
 
-1. Pārlūkprogrammā Microsoft Edge atlasiet **Iestatījumi**un pēc tam atlasiet **Konfidencialitāte un drošība**.
-2. Sadaļā **Notīrīt pārlūkošanu**atlasiet **izvēlēties, ko notīrīt**.
-3. Atlasiet **Sīkfaili un saglabātie tīmekļa vietnes dati**un atlasiet **Notīrīt**.
-
->[!Note] 
-> Šīs darbības var atšķirties, ja izmantojat citas pārlūkprogrammas, piemēram, Mozilla Firefox vai Google Chrome.
+1. Savā Microsoft Edge atlasiet vienumu **Iestatījumi** un pēc tam atlasiet **Konfidencialitāte un drošība**.
+2. Sadaļā **Pārlūkošanas notīrīšana** atlasiet **Izvēlēties, ko notīrīt**.
+3. Atlasiet **Sīkfaili un saglabātie tīmekļa** vietņu dati un atlasiet **Notīrīt**.
 
 >[!Note] 
-> Vēl viena iespēja ir atvērt SharePoint vietni vai pakalpojumu OneDrive jaunā InPrivate logā.
+> Izmantojot citas pārlūkprogrammas, piemēram, Mozilla Firefox vai Google Chrome, šīs darbības var atšķirties.
+
+>[!Note] 
+> Cita iespēja ir atvērt jūsu SharePoint vai OneDrive InPrivate logā.
