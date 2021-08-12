@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932104"
 ---
 # <a name="api-permissions-and-consent"></a>API atļaujas un piekrišana
 
-Lietojumprogrammas, kas ir integrētas ar Microsoft identitātes platformu, atbilst autorizācijas modelim, kas sniedz lietotājiem un administratoriem iespēju kontrolēt datu piekļuves iespējas. Autorizācijas modeļa ieviešana ir atjaunināta Microsoft identitātes platformas galapunktā. Tas maina, kā lietojumprogrammai ir jāmijiedarbojas ar Microsoft identitātes platformu. [Atļaujas un piekrišana Microsoft identitātes platformas galapunktā](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) attiecas uz šī autorizācijas modeļa pamatjēdzieniem, tostarp tvērumiem, atļaujām un piekrišanu.
+Lietojumprogrammas, kas Microsoft indentitāšu platforma ar autorizācijas modeli, kas sniedz lietotājiem un administratoriem iespēju kontrolēt datu piekļuvi. Autorizācijas modeļa ieviešana ir atjaunināta e-Microsoft indentitāšu platforma galapunktā. Tas maina, kā lietojumprogrammai ir jāveic mijiedarbība ar Microsoft indentitāšu platforma. [Atļaujas un piekrišana galapunktā Microsoft indentitāšu platforma](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) aptver šī autorizācijas modeļa pamatjēdzienos, tostarp tvērumus, atļaujas un piekrišanu.
 
-[Azure Active Directory (AZURE AD) piekrišanas struktūra](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) ļauj viegli izveidot vairāku nomnieku tīmekļa un vietējo klientu lietojumprogrammas. Šīs lietojumprogrammas ļauj pierakstīties lietotāju kontos no Azure AD nomnieka, kas atšķiras no tās, kurā ir reģistrēta lietojumprogramma. Tiem, iespējams, būs jāpiekļūst arī tīmekļa API, piemēram, Microsoft Graph API (lai piekļūtu Azure AD, Intune un pakalpojumiem pakalpojumā Microsoft 365) un citos Microsoft pakalpojumu API papildus savam tīmekļa API.
+Windows [Azure Active Directory (Azure AD) piekrišanas struktūra](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) atvieglo vairāku nomnieku tīmekļa un vietējo klientu lietojumprogrammu izstrādāšanu. Šīs lietojumprogrammas ļauj pierakstīties lietotāju kontos no Azure AD nomnieka, kas atšķiras no tā, kurā ir reģistrēta programma. Viņiem var būt nepieciešama arī piekļuve tīmekļa API, piemēram, Microsoft Graph API (lai piekļūtu Azure AD, Intune un pakalpojumiem Microsoft 365) un citiem Microsoft pakalpojumi API papildus saviem tīmekļa API.
 

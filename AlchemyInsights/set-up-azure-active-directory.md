@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory iestatīšana
+title: Iestatīšanas Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958196"
 ---
-# <a name="set-up-azure-active-directory"></a>Azure Active Directory iestatīšana
+# <a name="set-up-azure-active-directory"></a>Iestatīšanas Azure Active Directory
 
-[AZURE ad uzstādīšanas rokasgrāmatā](https://go.microsoft.com/fwlink/?linkid=2134390) sniegta informācija, lai nodrošinātu, ka jūsu organizācijai ir spēcīgs drošības fonds. Šajā rokasgrāmatā jūs iestatīsit sākotnējos līdzekļus, piemēram, Azure lomu piekļuves vadība (Azure RBAC) administratoriem, Azure AD Connect jūsu lokālajā direktorijā un Azure AD Connect Health, lai jūs varētu pārraudzīt savas hibrīdās identitātes veselību automatizēto sinhronizāciju laikā.
+[Azure AD iestatīšanas rokasgrāmata](https://go.microsoft.com/fwlink/?linkid=2134390) sniedz informāciju, lai jūsu organizācijai būtu stingri drošības pamati. Šajā ceļvedī būs jāiestata sākotnējie līdzekļi, piemēram, Azure lomu piekļuves kontrole (Azure RBAC) administratoriem, Azure AD Savienošana jūsu lokālam direktorijam un Azure AD Savienošana Health, lai automatizētās sinhronizācijas laikā varētu pārraudzīt hibrīdās identitātes darbspēju.
 
-Tajā ir iekļauta arī svarīga informācija par to, kā iespējot pašapkalpošanās paroles atiestatīšanu, ierobežotu piekļuvi un integrētu trešo personu pierakstīšanos, ieskaitot neobligātu papildu identitātes aizsardzību un lietotāja nodrošināšanas automatizāciju.
+Tajā ir iekļauta arī svarīga informācija par pašapkalpošanās paroles atiestatīšanu, nosacījumpiekļuves un integrēto trešo pušu pierakstīšanās, tostarp papildu papildu identitātes aizsardzību un lietotāju nodrošināšanas automatizāciju.

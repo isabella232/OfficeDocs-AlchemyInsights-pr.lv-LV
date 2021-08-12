@@ -1,5 +1,5 @@
 ---
-title: Problēma, pierakstoties lietojumprogrammā
+title: Problēma, pierakstoties programmā
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7797"
-ms.openlocfilehash: b7ef5529f4b98188a466501803b934f4935ad48c
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: d2a11e38c49a28a90ce7912a805af9c09bf3c6b98d91f24f75bdb32192bcfa69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911309"
 ---
-# <a name="problem-when-signing-in-to-my-application"></a>Problēma, pierakstoties lietojumprogrammā
+# <a name="problem-when-signing-in-to-my-application"></a>Problēma, pierakstoties programmā
 
-Varat atrisināt lietojumprogrammas starpniekservera piekļuves problēmas, izmantojot rakstus:
+Lietojumprogrammas starpniekservera piekļuves problēmas varat novērst, izmantojot rakstus:
 
-- Tiek [parādīta kļūda "nevar piekļūt šai korporatīvajai lietojumprogrammai"](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview).
-- [Nevaru pierakstīties lokālajā lietojumprogrammā, izmantojot AZURE ad lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy).
-- [Atkļūdot lietojumprogrammas starpniekservera lietojumprogrammas problēmas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).
+- [Tiek parādīts kļūdas ziņojums "Nevar piekļūt šai korporatīvajam lietojumprogrammai".](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview)
+- [Nevaru pierakstīties lokālajā lietojumprogrammā, izmantojot Azure AD lietojumprogrammas starpniekserveri.](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy)
+- [Atkļūdošanas lietojumprogrammas starpniekservera lietojumprogrammas problēmas.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)

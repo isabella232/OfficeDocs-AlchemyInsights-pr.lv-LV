@@ -1,5 +1,5 @@
 ---
-title: Microsoft Search iestatīšana
+title: Iestatīšanas Microsoft Search
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958160"
 ---
-# <a name="set-up-microsoft-search"></a>Microsoft Search iestatīšana
+# <a name="set-up-microsoft-search"></a>Iestatīšanas Microsoft Search
 
-Microsoft Search‎ provides a user-friendly interface to search and find results in your organization across ‎Microsoft 365‎ services and applications to help you complete what you're working on. It is included at no additional cost with your eligible ‎Microsoft 365‎ subscription.
+Microsoft Search nodrošina lietotājam draudzīgu interfeisu, kurā meklēt un atrast rezultātus jūsu organizācijā Microsoft 365 pakalpojumos un lietojumprogrammās, lai palīdzētu jums pabeigt darbu. Tā bez papildu maksas ir iekļauta jūsu piemēroto Microsoft 365 abonementā.
 
-Izmantojiet [Microsoft Search iestatīšanas ceļvedi,](https://go.microsoft.com/fwlink/?linkid=2156919) lai konfigurētu, vai vēlaties to izmēģināt lietotāju grupai vai izmantot to visiem lietotājiem jūsu organizācijā. Jums jāpiešķir meklēšanas administratori un meklēšanas redaktori un pēc tam jāpielāgo lietotāju meklēšanas iespējas, izmantojot atbildes un papildu opcijas, piemēram, pievienosit paplašinājumu Bing pārlūkprogrammai Chrome vai kā noklusējuma meklētājprogrammu iestatīsit Bing.
+Izmantojiet [Microsoft Search ceļvedi,](https://go.microsoft.com/fwlink/?linkid=2156919) lai konfigurētu, vai vēlaties to izmēģināt lietotāju grupai vai izmantot to visiem lietotājiem jūsu organizācijā. Jums jāpiešķir meklēšanas administratori un meklēšanas redaktori un pēc tam jāpielāgo lietotāju meklēšanas iespējas, izmantojot atbildes un papildu opcijas, piemēram, pievienosit paplašinājumu Bing pārlūkprogrammai Chrome vai iestatīsit Bing kā noklusējuma meklētājprogrammu.

@@ -1,5 +1,5 @@
 ---
-title: Lietojumprogrammu reģistrācijas atļaujas
+title: Programmas reģistrācijas atļaujas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951068"
 ---
-# <a name="app-registration-permissions"></a>Lietojumprogrammu reģistrācijas atļaujas
+# <a name="app-registration-permissions"></a>Programmas reģistrācijas atļaujas
 
-[Lietojumprogrammu reģistrācijas atļaujas pielāgotām lomām Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions): šajā rakstā ir iekļautas pašlaik pieejamās lietojumprogrammas reģistrācijas atļaujas pielāgoto lomu definīcijām Azure Active Directory (Azure AD).
+[Lietojumprogrammu reģistrācijas atļaujas](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)pielāgotajām lomām Azure Active Directory : Šajā rakstā ietvertas pašlaik pieejamās lietojumprogrammu reģistrācijas atļaujas pielāgoto lomu definīcijām Azure Active Directory (Azure AD).

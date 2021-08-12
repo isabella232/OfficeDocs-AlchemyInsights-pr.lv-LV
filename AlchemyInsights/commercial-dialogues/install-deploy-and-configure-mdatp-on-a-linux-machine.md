@@ -1,5 +1,5 @@
 ---
-title: MDATP instalēšana, izvietošana un konfigurēšana Linux datorā
+title: MDATP instalēšana, izvietošana un konfigurēšana Linux iekārtā
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1e04b54dc1cb429aeacb274c8078132d1d6bc05c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2387db7597a2828e0da8721f2c56798da1a3ca526683e792b3b5828a05139df7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916242"
 ---
-# <a name="install-deploy-and-configure-mdatp-on-a-linux-machine"></a>MDATP instalēšana, izvietošana un konfigurēšana Linux datorā
+# <a name="install-deploy-and-configure-mdatp-on-a-linux-machine"></a>MDATP instalēšana, izvietošana un konfigurēšana Linux iekārtā
 
-1. Pārliecinieties, vai esat abonējis MDATP un jums ir piekļuve [MDATP portālam](https://go.microsoft.com/fwlink/?linkid=2144512).
-2. Izvietojiet MDATP [manuāli](https://go.microsoft.com/fwlink/?linkid=2144809) vai izmantojot konfigurācijas pārvaldības rīku: [leļļu](https://go.microsoft.com/fwlink/?linkid=2144715) vai [Ansible](https://go.microsoft.com/fwlink/?linkid=2144716).
+1. Pārliecinieties, vai esat abonējis MDATP un esat piekļuvi [MDATP portālam.](https://go.microsoft.com/fwlink/?linkid=2144512)
+2. Manuāli izvietojiet MDATP [vai](https://go.microsoft.com/fwlink/?linkid=2144809) izmantojot konfigurācijas pārvaldības rīku: [Puppet](https://go.microsoft.com/fwlink/?linkid=2144715) vai [Ansible](https://go.microsoft.com/fwlink/?linkid=2144716).
 
-Lai uzzinātu vairāk, skatiet rakstu [kā instalēt MDATP darbam ar Linux](https://go.microsoft.com/fwlink/?linkid=2144717).
+Papildinformāciju skatiet [rakstā MDATP instalēšana operētājsistēmā Linux.](https://go.microsoft.com/fwlink/?linkid=2144717)

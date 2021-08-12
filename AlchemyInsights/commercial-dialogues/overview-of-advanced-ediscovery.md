@@ -1,5 +1,5 @@
 ---
-title: Papildu e-datu atklāšanas pārskats
+title: Pārskats par Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916170"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Papildu e-datu atklāšanas pārskats
+# <a name="overview-of-advanced-ediscovery"></a>Pārskats par Advanced eDiscovery
 
-Izmantojot Advanced eDiscovery, varat analizēt nestrukturētus datus, lai samazinātu e-datu atklāšanas izmaksas. Varat lietot teksta analīzi, mašīnmācīšanos un atbilstības/prognozējošo kodēšanu. Šeit sniegti daži padomi.
+Izmantojot Advanced eDiscovery, varat analizēt nestrukturētus datus, lai samazinātu e-datu atklāšanas izmaksas. Varat lietot teksta analīzi, mašīnmācīšanos un atbilstības/prognozējošo kodēšanu. Tālāk ir sniegti daži padomi.
 
-- Papildu e-datu atklāšanas līdzeklim ir nepieciešams E5 abonements jūsu organizācijai vai Office 365 E3 abonementam, kurā ir iekļauta papildu atbilstības pievienojumprogramma.
-- Lai izveidotu jaunu papildu e-datu atklāšanas lietu, dodieties uz [drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143) un atlasiet **e-datu** atklāšanas  >  **papildu e-datu atklāšana**.
-- Papildinformāciju skatiet rakstā [pārskats par Microsoft 365 Advanced e-datu atklāšana](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Informāciju par nepieciešamajām darbībām, lai iestatītu papildu e-datu atklāšanu, skatiet rakstā [Microsoft 365 papildu e-datu atklāšanas iestatīšana](https://go.microsoft.com/fwlink/?linkid=2122672).
+- Lai Advanced eDiscovery līdzeklim ir nepieciešams jūsu organizācijas E5 abonements vai Office 365 E3 ar uzlabotās atbilstības pievienojumprogrammu.
+- Lai izveidotu jaunu Advanced eDiscovery, dodieties uz [drošības & un atlasiet](https://go.microsoft.com/fwlink/p/?linkid=2077143) **e-datu**  >  **atklāšanas Advanced eDiscovery**.
+- Papildinformāciju skatiet [rakstā Pārskats par Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101588)
+- Informāciju par nepieciešamajām darbībām, lai iestatītu Advanced eDiscovery, [skatiet rakstā Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)

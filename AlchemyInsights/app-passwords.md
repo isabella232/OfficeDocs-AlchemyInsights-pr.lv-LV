@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931960"
 ---
 # <a name="app-passwords"></a>Programmu paroles
 
-Programmas parole ir kods, kas piešķir programmai vai ierīcei atļauju piekļūt jūsu Microsoft darba vai mācību kontam. Ja jūsu kontam nepieciešama daudzfaktoru autentifikācija (MFA), un lietojumprogramma izveido savienojumu ar jūsu kontu, ir jāģenerē lietojumprogrammas parole, lai programma varētu izveidot savienojumu ar Microsoft. Piemēram, Outlook 2016 un vecākas versijas programmai Outlook ir nepieciešamas lietojumprogrammas parole.
+Programmas parole ir kods, kas piešķir programmai vai ierīcei atļauju piekļūt jūsu Microsoft darba vai mācību kontam. Ja jūsu kontam nepieciešama daudzfaktors autentifikācija (multi-factor authentication — MFA) un programma izveido savienojumu ar jūsu kontu, jums būs jāģenerē programmas parole, lai programma varētu izveidot savienojumu ar Microsoft. Piemēram, Outlook 2016 vecākajām versijām Outlook nepieciešama lietojumprogrammas parole.
 
- **Piezīme**. pirms mēģināt veikt tālāk norādītās darbības, ar savu Microsoft 365 administratoru pārbaudiet, vai jūsu kontam ir nepieciešama mfa. Ja tā nav, tad darbībās aprakstītās opcijas nebūs pieejamas jums.
+ **Piezīme.** Pirms tālāk norādīto darbību veikšanas apstipriniet savam Microsoft 365, vai jūsu kontam ir nepieciešama MFA. Ja tā nav, darbībās aprakstītās opcijas nebūs pieejamas.
 
 1. Pierakstieties ar savu darba vai mācību kontu un paroli.
 
-2. Izvēlieties **iestatīt tūlīt**.
+2. Izvēlieties **Iestatīt tūlīt**.
 
 3. Atlasiet savu autentifikācijas metodi un izpildiet norādījumus.
 
-4. Pēc jūsu alternatīvās saziņas metodes verifikācijas izvēlieties **Tālāk**.
+4. Pēc jūsu alternatīvās saziņas metodes verifikācijas izvēlieties **Tālāk.**
 
-5. Jūs saņemsit lietojumprogrammas paroli, kuru varat izmantot kopā ar Outlook, Apple Mail un citām lietojumprogrammām, kas to prasa. Izvēlieties **Kopēt** , lai kopētu paroli un varētu to ielīmēt citur (to nav nepieciešams iegaumēt).
+5. Jūs saņemsit lietojumprogrammas paroli, ko varat izmantot ar Outlook, Apple Mail un citām lietojumprogrammām, kam tā ir nepieciešama. Izvēlieties **Kopēt,** lai nokopētu paroli un varētu to ielīmēt citur (nav nepieciešams to iegaumēt).

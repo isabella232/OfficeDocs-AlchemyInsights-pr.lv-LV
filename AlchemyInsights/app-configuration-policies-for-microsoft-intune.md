@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune programmu konfigurācijas politikas
+title: Programmu konfigurācijas politikas Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,20 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931996"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Microsoft Intune programmu konfigurācijas politikas
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Programmu konfigurācijas politikas Microsoft Intune
 
-Programmu konfigurācijas politikas programmā Microsoft Intune tiek izmantotas, lai nodrošinātu konfigurācijas iestatījumus iOS vai Android lietojumprogrammām. Šie konfigurācijas iestatījumi ļauj pielāgot programmu. Ņemiet vērā, ka pastāv ierobežojumi attiecībā uz to, kuras operētājsistēmas versijas un kuras lietojumprogrammas atbalsta konfigurācijas politiku izmantošanu.
+Programmu konfigurācijas politikas programmā Microsoft Intune lai nodrošinātu konfigurācijas iestatījumus iOS vai Android lietojumprogrammām. Šie konfigurācijas iestatījumi ļauj pielāgot programmu. Ņemiet vērā, ka pastāv ierobežojumi attiecībā uz to, kuras operētājsistēmas versijas un kuras lietojumprogrammas atbalsta konfigurācijas politiku izmantošanu.
 
 Detalizētu informāciju, lūdzu, skatiet tālāk norādīto dokumentāciju.
 
-[Microsoft Intune programmu konfigurācijas politikas](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[Programmu konfigurācijas politikas Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
 [Programmu konfigurācijas politiku pievienošana pārvaldītām iOS ierīcēm](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 
