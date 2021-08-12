@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85aa0ad68929eca77aa7adfb1031d91b0e9d46c77f6820ee52a7848cd4a19211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938486"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Jaunas ierīces aktivizēšana, kurā darbojas operētājsistēma Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>Jaunas ierīces aktivizēšana, kurā darbojas Windows 10
 
-Ja esat iegādājies jaunu ierīci, kurā darbojas operētājsistēma Windows 10, tā tiks aktivizēta automātiski, kad savienojat ierīci ar internetu. Ja aktivizācijas serveri ir aizņemti, iespējams, būs jāgaida, līdz Windows tiks aktivizēts.
+Ja esat iegādājies jaunu ierīci, kurā Windows 10 ierīce, tā tiek aktivizēta automātiski, kad savienojat ierīci ar internetu. Ja aktivizācijas serveri ir aizņemti, iespējams, jums būs brīdi jāpagaida, līdz aktivizēšana Windows jāaktivizē.
 
-Lai pārbaudītu aktivizācijas statusu, izvēlieties **Sākt iestatījumu**   >  **atjaunināšanu un & aktivizācija**  >  .
+Lai pārbaudītu aktivizācijas statusu, izvēlieties **Sākt** **Iestatījumi** Atjaunināšana un  >  **& aktivizācija**  >  .
 
-**Piezīme.** Dažos gadījumos, iespējams, būs jāievada Windows 10 produkta atslēga, kas iekļauta ierīces iepakojumā vai iekļauta kā kartīte vai autentiskuma sertifikāts (Certificate of Authenticity — COA), kas pievienota ierīcei.
+**Piezīme.** Dažos gadījumos, iespējams, būs jāievada produkta Windows 10, kas iekļauta ierīces iepakojumā vai iekļauta kā kartīte vai ar autentiskuma sertifikātu (Certificate of Authenticity — COA), kas pievienota ierīcei.
 
-[Papildinformācija par aktivizāciju operētājsistēmā Windows 10](https://support.microsoft.com/help/12440)
+[Papildinformācija par aktivizāciju programmā Windows 10](https://support.microsoft.com/help/12440)

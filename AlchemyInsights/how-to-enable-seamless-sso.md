@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0659d3fe017d7c77b936d80a308bcb56f94ee322029f79ee095ebeec0b8ea7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963434"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Kā iespējot Seamless SSO
 
-Iespējojiet Seamless SSO, izmantojot [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Iespējojiet Seamless SSO, [izmantojot Azure AD Savienošana.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
   
-Ja veicat jaunu Azure AD Connect instalēšanu, izvēlieties pielāgotu [instalēšanas ceļu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Lietotāja **pierakstīšanās lapā** izvēlieties opciju Iespējot **vienoto piezīmi.**
+Ja veicat azure AD Savienošana jaunu instalēšanu, izvēlieties pielāgoto [instalēšanas ceļu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Lietotāja **pierakstīšanās lapā** izvēlieties opciju Iespējot **vienoto piezīmi.**
   
 Lai pārbaudītu, vai esat pareizi iespējojis Seamless SSO:
   
-1. Pierakstieties Azure [Active Directory administrēšanas centrā kā](https://aad.portal.azure.com) globālais administrators.
+1. Pierakstieties administrēšanas [Azure Active Directory administrēšanas](https://aad.portal.azure.com) centrā kā globālais administrators.
 
-2. Kreisajā **rūtī atlasiet Azure Active Directory.**
+2. Atlasiet **Azure Active Directory** vienumu kreisajā rūtī.
 
 3. Pārbaudiet, vai vienotā pierakstīšanās ir **iespējota.**
 
-Papildinformāciju skatiet rakstā [Azure Active Directory vienotā pierakstīšanās: īsā pamācība.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+Papildinformāciju skatiet rakstā [Azure Active Directory Vienotā pierakstīšanās: īsā pamācība.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   

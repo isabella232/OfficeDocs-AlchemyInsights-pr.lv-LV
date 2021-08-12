@@ -1,5 +1,5 @@
 ---
-title: Entītijas tips nav redzams sadaļā kategorizēti vai atbilstības meklēšanas rezultāti Dynamics 365 vienotajā interfeisā
+title: Entītijas tips, kas netiek rādīts kategorizētos vai atbilstības meklēšanas rezultātos Dynamics 365 vienotā interfeisā
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946732"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Entītijas tips netiek rādīts meklēšanas rezultātos
+# <a name="entity-type-not-showing-in-search-results"></a>Entity type not showing in search results
 
-Lai entītijas tipam rādītu kategorizētu meklēšanas vai atbilstības meklēšanu Dynamics 365 vienotajā interfeisā, tā vispirms ir jāpievieno lietojumprogrammas modulim.
+Lai entītijas tips tiktu parādīts kategorizētajā meklēšanas vai atbilstības meklēšanā Dynamics 365 vienotā interfeisā, tas vispirms ir jāpievieno programmas modulim.
 
-Piezīme: meklējot pielikumus atbilstoši meklēšanai, pielikumu entītijai ir jābūt pievienotai lietojumprogrammas modulim, kaut gan vecākobjekta ieraksts ir tas, kas tiek rādīts rezultātos.
+Piezīme. Meklējot pielikumus atbilstības meklēšanā, pielikuma entītija ir jāpievieno lietojumprogrammas modulim pat tad, ja vecāksaraksta rezultāts ir redzams.
