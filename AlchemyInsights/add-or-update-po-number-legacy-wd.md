@@ -1,5 +1,5 @@
 ---
-title: Pievienojiet vai atjauniniet PO numuru-mantotās WD-ieteicamās darbības
+title: PP numura pievienošana vai atjaunināšana — mantotais WD — ieteicamās darbības
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953876"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Pievienojiet vai atjauniniet PO numuru-mantotās WD-ieteicamās darbības
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>PP numura pievienošana vai atjaunināšana — mantotais WD — ieteicamās darbības
 
-Pievienojot pirkšanas pasūtījuma (PP) numuru, tiek atbalstīts tikai klientiem, kuri [maksā ar rēķinu,](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) izmantojot čeku vai bankas pārskaitījumu. Norādījumi par to, kā atjaunināt PO numuru, ir atkarīgi no jūsu [norēķinu konta tipa](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts).
+Pirkšanas pasūtījuma (PP) numura pievienošana tiek [](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) atbalstīta tikai klientiem, kuri veic apmaksu ar rēķinu, izmantojot čeku vai bankas pārskaitījumu. PP numura atjaunināšanas norādījumi ir atkarīgi no [jūsu norēķinu konta tipa.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Lai rediģētu PP numuru, jums ir jābūt [konta administratora](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) lomai.
+Lai rediģētu PP [numuru, ir](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) jābūt konta administratora lomai.
 
-1. [Lapā abonementi](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) atlasiet savu abonementu.
-2. Kreisās puses pusē noklikšķiniet uz **maksāšanas veidi** .
-3. Tabulā **maksāšanas metodes** noklikšķiniet uz **Rēķins**. 
-4. Ievadiet jauno PP numuru un pēc tam noklikšķiniet uz **Saglabāt**.
+1. Lapā Abonementi atlasiet [savu abonementu.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Kreisajā **pusē** noklikšķiniet uz Maksāšanas metodes.
+3. Tabulā **Maksāšanas veidi noklikšķiniet** uz **Rēķins.** 
+4. Ievadiet savu jauno PP numuru un pēc tam noklikšķiniet uz **Saglabāt.**
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
 - [Atbalstītās valstis/reģioni un valūtas](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Kā veikt maksājumus ar rēķinu](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Azure norēķinu konta kontaktinformācijas pārvaldīšana](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Kā maksāt, izmantojot rēķinu](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Azure norēķinu konta kontaktinformācijas pārvaldība](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 

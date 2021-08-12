@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913974"
 ---
 # <a name="device-permissions"></a>Ierīces atļaujas
 
-Lai pārvaldītu Windows ierīci, jums ir jābūt lokālo administratoru grupas dalībniekam. Azure Active Directory (Azure AD) pievienošanas procesā Azure AD atjaunina šīs grupas dalību ierīcē. Varat pielāgot dalības atjauninājumu, lai apmierinātu jūsu uzņēmuma vajadzības. Dalības atjauninājums ir, piemēram, noderīgs, ja vēlaties, lai jūsu palīdzības dienesta darbinieki varētu veikt uzdevumus, kuriem ir nepieciešamas administratora tiesības ierīcē.
+Lai pārvaldītu Windows, jums ir jābūt lokālās administratoru grupas dalībniekam. Pievienošanās procesa Azure Active Directory Azure AD atjaunina dalību šajā grupā ierīcē. Dalības atjauninājumu varat pielāgot, lai atbilstu jūsu uzņēmuma prasībām. Dalības atjauninājums ir, piemēram, noderīgs, ja vēlaties iespējot palīdzības dienesta darbiniekam veikt uzdevumus, kuriem ir nepieciešamas administratora tiesības ierīcē.
 
-Lai uzzinātu, kā darbojas lokālo administratoru dalības atjauninājums un kā to var pielāgot Azure AD savienojuma laikā, skatiet rakstu [lokālo administratoru piešķiršana ierīcēm](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Šī raksta saturs neattiecas uz Hibrīdā Azure AD savienotajām ierīcēm.
+Lai uzzinātu, kā darbojas lokālo administratoru dalības atjauninājums un kā varat to pielāgot Azure AD pievienošanās laikā, skatiet [rakstu Lokālo administratoru piešķiršana ierīcēm](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Šī raksta saturs neattiecas uz hibrīdajām Azure AD ierīcēm.

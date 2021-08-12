@@ -1,5 +1,5 @@
 ---
-title: Notiek pakalpojuma incidenta izpilde
+title: Notiek pakalpojuma incidenta norise
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: ce3c53bcf6c84c0f30a832f1b34eacb7ee2d53d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f146d06757543671ec349ae7f97c0da4eab715158a01aecbe86d07094a582d01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921806"
 ---
-# <a name="service-incident-in-progress"></a>Notiek pakalpojuma incidenta izpilde
+# <a name="service-incident-in-progress"></a>Notiek pakalpojuma incidenta norise
 
-Jūs, iespējams, ietekmēs pakalpojuma incidents vai padomdevēja, kas pašlaik tiek pētīta. Varat pārbaudīt jaunāko statusu, dodoties uz lapu [pakalpojuma](https://admin.microsoft.com/adminportal/home#/servicehealth) darbspēja.
+Iespējams, jūsu darbību ietekmē pakalpojuma incidents vai ieteikums, kas pašreiz tiek izmeklēts. Jaunāko statusu varat pārbaudīt, dodoties uz pakalpojuma [darbspējas](https://admin.microsoft.com/adminportal/home#/servicehealth) lapu.
   
-Jūsu ērtībai varat atrast tālāk norādītā notikuma kopsavilkumu:
+Jūsu ērtībām šī incidenta kopsavilkums pieejams tālāk:
   
 > **Incidenta numurs:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
