@@ -1,5 +1,5 @@
 ---
-title: Nevarēja instalēt Office (64 bitu vai 32 bitu) risinājumus
+title: Nevarēja instalēt Office versiju (64 bitu vai 32 bitu) risinājumus
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957251"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Nevarēja instalēt Office (64 bitu vai 32 bitu) risinājumus
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Nevarēja instalēt Office versiju (64 bitu vai 32 bitu) risinājumus
 
-Kļūdas ziņojums "neizdevās instalēt Office (64-bit vai 32-bit)", jo nav iespējams miksēt Office 64 bitu un 32 bitu versiju.
+Tiek Office kļūda "Neizdevās instalēt 64 bitu vai 32 bitu versiju", jo nevarat kombinēt sistēmas Office 64 bitu un 32 bitu Office.
   
-Lai novērstu šo kļūdu un pārslēgtos no 32-bit uz 64 bitu, šajā pasūtījumā ir jāveic šādas darbības.
+Lai novērstu šo kļūdu un pārslēgtos no 32 bitu uz 64 bitu versiju, veiciet tālāk norādītās darbības šādā secībā.
   
 1. Lejupielādējiet un instalējiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kad tas tiek atvērts, **Office produktu atinstalēšana** atlasiet versiju, ko vēlaties atinstalēt, un atlasiet **Tālāk**.
+1. Kad tas tiek atvērts, **atinstalēšanas Office atlasiet** atinstalēamo versiju un atlasiet **Tālāk.**
 
 2. Turpiniet izskatīt ekrānus un restartējiet datoru, kad tas tiek prasīts.
 
-    Pēc restartēšanas automātiski tiek atvērts atbalsta un atkopšanas palīgs, lai pabeigtu atinstalēšanas procesu.
+    Pēc restartēšanas tiek atbalsta un atkopšanas palīgs automātiski tiek atvērts atkārtoti, lai pabeigtu atinstalēšanu.
 
-3. Izpildiet atlikušās uzvednes un [atkārtoti instalējiet Office](https://portal.office.com/OLS/MySoftware.aspx) ar pareizo 32 bitu vai 64 bitu versiju.
+3. Izpildiet pārējos norādījumus [un Office](https://portal.office.com/OLS/MySoftware.aspx) ar pareizo 32 vai 64 bitu versiju.
 
-    Izpildiet rakstā [Office instalēšana PC datorā](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) norādītās darbības
+    Izpildiet rakstā [Office instalēšana PC datorā norādītās darbības](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Lai iegūtu papildinformāciju, mēģinot instalēt, tiek rādīta [kļūda "neizdevās instalēt Office (64 bitu vai 32 bitu)"](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Papildinformāciju skatiet [rakstā Mēģinot instalēt Office kļūda "Neizdevās instalēt 64 bitu vai 32 bitu versiju".](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
   

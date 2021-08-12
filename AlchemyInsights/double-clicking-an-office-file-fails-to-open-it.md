@@ -1,5 +1,5 @@
 ---
-title: Veicot dubultklikšķi uz Office faila, tas netiek atvērts
+title: Neizdodas veikt dubultklikšķi Office faila
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 519051ac0ffc11d2b17c14959464c1123654bef38d6e10efd252b4ff3d8bbc1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965108"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Veicot dubultklikšķi uz Office faila, tas netiek atvērts
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Neizdodas veikt dubultklikšķi Office faila
 
-Pēc dubultklikšķi uz Office faila, iespējams, redzēsit programmu atvērtu, bet pats fails netiek atvērts. Vai arī var tikt parādīts šāds kļūdas ziņojums: "Nosūtot komandu programmai, radās problēma." Tam ir daudz iemeslu, bet divi visbiežāk izmantotie risinājumi ir:
+Pēc tam, kad būs Office faila, iespējams, redzēsit programmas atvērtu, bet pats fails netiek atvērts. Vai arī var tikt parādīts šāds kļūdas ziņojums: "Nosūtot komandu programmai, radās problēma." Tam ir daudz iemeslu, bet divi visbiežāk izmantotie risinājumi ir:
 
-- Programmā Excel pārliecinieties, vai DDE opcija ir neatzīmēta. Šo opciju var atrast, izveidojot jaunu darbgrāmatu un pēc tam izvēloties Fails un **> opcijas > Papildu.** Sadaļā Vispārīgi **notīriet** atzīmi no Ignorēt citas **lietojumprogrammas, kas izmanto dinamisko datu apmaiņu (Dynamic Data Exchange – DDE).**
+- Pārliecinieties Excel vai DDE opcija ir neatzīmēta. Šo opciju var atrast, izveidojot jaunu darbgrāmatu un pēc tam izvēloties Fails un **> opcijas > Papildu.** Sadaļā Vispārīgi **notīriet** izvēles rūtiņu Ignorēt citas **lietojumprogrammas, kas izmanto dinamisko datu Exchange (DDE).**
 
-- Palaidiet tiešsaistes labošanu, lai atjaunotu noklusējuma iestatījumus. Noklikšķiniet uz Windows pogas Sākt un meklējiet "Vadības panelis". Atveriet vadības **paneli** un dodieties uz **sadaļu Programmas > programmas un līdzekļi**. Pēc tam ar peles labo **pogu noklikšķiniet uz Microsoft Office [versija]** un > **labošanu tiešsaistē.**
+- Palaidiet tiešsaistes labošanu, lai atjaunotu noklusējuma iestatījumus. Noklikšķiniet uz Windows Sākuma un meklējiet "Vadības panelis". Atveriet vadības **paneli** un dodieties uz **sadaļu Programmas > programmas un līdzekļi**. Pēc tam ar peles **labo pogu Microsoft Office [Versija]** un **izvēlieties > labošanu tiešsaistē.**
 
-Ja neviens no šiem risinājumiem [nedarbojas,](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)pilns risinājumu saraksts ir atrodams atbalsta rakstā, veicot dubultklikšķi uz Office faila, neizdodas to atvērt.
+Ja neviens no šiem risinājumiem [nedarbojas,](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)pilns risinājumu saraksts ir atrodams atbalsta rakstā, veicot dubultklikšķi uz faila, Office to atvērt.

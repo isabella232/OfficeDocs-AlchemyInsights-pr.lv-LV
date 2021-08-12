@@ -1,5 +1,5 @@
 ---
-title: Programmu grupu pārvaldība, izmantojot Windows virtuālās darbvirsmas Azure portālu
+title: Programmu grupu pārvaldība, izmantojot Azure portālu darbvirsmas Windows darbvirsmai
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912065"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Programmu grupu pārvaldība, izmantojot Windows virtuālās darbvirsmas Azure portālu
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Programmu grupu pārvaldība, izmantojot Azure portālu darbvirsmas Windows darbvirsmai
 
-Noklusējuma programmu grupa, kas izveidota jaunam Windows virtuālās darbvirsmas resursdatora pūlam, publicē arī pilnu darbvirsmu. Turklāt Azure portāla izmantošana ļauj izveidot vienu vai vairākas RemoteApp programmu grupas resursdatora pūlam.
+Noklusējuma lietojumprogrammu grupa, kas Windows datora virtuālās darbvirsmas resursdatora pūlam, publicē arī pilno darbvirsmu. Turklāt, izmantojot Azure portālu, varat izveidot vienu vai vairākas RemoteApp programmu grupas resursdatora pūlam.
 
-Izvietošanas process veic šādas darbības:
+Izvietošanas process ir šāds:
 
-1. Izveidojiet attālo lietojumprogrammu grupu.
-2. Pievienojiet savas atlasītās lietojumprogrammas programmu grupai.
-3. Publicējiet atsevišķos lietotājus vai lietotāju grupas programmu grupā.
-4. Reģistrējiet lietojumprogrammu grupu, ja izvēlaties to darīt.
-5. Izveidojiet saiti uz Azure Resource Manager veidni atbilstoši savai konfigurācijai, ko varat lejupielādēt un saglabāt.
+1. Izveidojiet remoteapp programmu grupu.
+2. Pievienojiet atlasītās programmas lietojumprogrammu grupai.
+3. Lietojumprogrammu grupā publicējiet atsevišķus lietotājus vai lietotāju grupas.
+4. Reģistrējiet programmu grupu, ja izvēlaties to darīt.
+5. Izveidojiet saiti uz Azure resursu pārvaldnieka veidni atbilstoši jūsu konfigurācijai, kuru varat lejupielādēt un saglabāt.
 
-Lai izveidotu RemoteApp grupu Windows virtuālajai darbvirsmai, izpildiet norādījumus sadaļā [programmu grupu pārvaldība, izmantojot Azure portālu](https://go.microsoft.com/fwlink/?linkid=2129550).
+Lai izveidotu RemoteApp grupu datoram Windows virtuālo darbvirsmu, izpildiet norādījumus rakstā Programmu [grupu pārvaldība Azure portālā.](https://go.microsoft.com/fwlink/?linkid=2129550)

@@ -1,5 +1,5 @@
 ---
-title: Ar saiti saistītu viengabala vienotās pierakstīšanās (SSO) problēmu novēršana
+title: Nosaistītās vienotās pierakstīšanās (Single Sign-on — SSO) problēmu novēršana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972867"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Ar saiti saistītu viengabala vienotās pierakstīšanās (SSO) problēmu novēršana
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Nosaistītās vienotās pierakstīšanās (Single Sign-on — SSO) problēmu novēršana
 
-Lielākajai daļai lietotāju ir iespējams atrisināt savas saites, kuras pamatā ir vienotā pierakstīšanās (SSO) problēma, veicot tālāk norādītās darbības.
+Vairākums lietotāju var atrisināt savu nemanāmo vienotās pierakstīšanās (Seamless Single Sign-on — SSO) problēmu, veicot tālāk norādītās darbības.
 
-**Informācija par saistīto SSO**: kā [saprast saistīto pierakstīšanās](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) opciju saistītās opcijas ļauj konfigurēt galamērķa atrašanās vietu, ja lietotājs izvēlas programmu savas organizācijas sadaļā manas programmas vai Office 365 portālā. Šajā rakstā ir sniegta detalizēta informācija par saistīto opciju.
+**Informācija par saistīto SSO:** izpratne par saistīto pierakstīšanu — opcija Saistītā opcija ļauj konfigurēt mērķa atrašanās vietu, kad lietotājs atlasa programmu jūsu organizācijas lapā Manas programmas vai Office 365 portālā. [](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) Šajā rakstā ir detalizētāk aprakstīta saistītā opcija.
 
-**Saistītā SSO konfigurēšana**: [saites konfigurēšana](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Saistīto SSO konfigurēšana:** [saites konfigurēšana](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Saņemt palīdzību**: [Microsoft Q&](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) iesniegt līdzekļu pieprasījumus un tehniskus jautājumus par saiti, kas balstīta uz vienotās pierakstīšanās (SSO) Azure Active Directory & attīstībā.
+**Palīdzības saņemšana:** Microsoft [līdzeklis&atbildes](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) — iesniegt līdzekļu pieprasījumus un tehniskus jautājumus par vienotās pierakstīšanās ar saiti (Link-based single sign-on — SSO Azure Active Directory & izstrādei.
