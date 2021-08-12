@@ -1,5 +1,5 @@
 ---
-title: Kas notiek ar karantīnā ievietotiem ziņojumiem?
+title: Kas notiek ar karantīnā ievietotajiem ziņojumiem?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966584"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>Kas notiek ar karantīnā ievietotiem ziņojumiem?
+# <a name="what-happens-to-quarantined-messages"></a>Kas notiek ar karantīnā ievietotajiem ziņojumiem?
 
-Ja izvēlēsities neveikt nekādas darbības, ziņojumu automātiski izdzēsīs Office 365, kad beigsies derīguma termiņš. Ņemiet vērā:
+Ja izvēlēsities neko nedarīt, pēc derīguma beigām ziņojums Office 365 automātiski. Ņemiet vērā:
 
-1. Pēc noklusējuma surogātpasta, lielapjoma, ļaunprogrammatūras un pikšķerēšanas ziņojumi tiek glabāti karantīnā 15 dienas.
-2. Karantīnā ievietotais ziņojums, kas atbilst pasta plūsmas kārtulai, tiek glabāts karantīnā 7 dienas (to nevar pielāgot).
-3. Kad Office 365 izdzēš ziņojumu no karantīnas, nevarat to atgūt.
-4. Ja vēlaties, varat mainīt karantīnā esošo ziņojumu saglabāšanas periodu, izmantojot satura filtra politikas iestatījumu saglabāt surogātpastu (dienas).
+1. Pēc noklusējuma surogātpasts, lielapjoms, ļaunprogrammatūra un pikšķerēšanas ziņojumi tiek glabāti karantīnā 15 dienas.
+2. Karantīnā ievietots ziņojums, kas atbilst pasta plūsmas kārtulai, tiek glabāts karantīnā 7 dienas (to nevar pielāgot).
+3. Kad Office 365 karantīnā ziņojums tiek izdzēsts, to vairs nevar atgūt.
+4. Ja vēlaties, varat mainīt karantīnā ievietoto ziņojumu saglabāšanas periodu, satura filtrēšanas politikās izmantojot iestatījumu Saglabāt surogātpastu (dienas).

@@ -1,5 +1,5 @@
 ---
-title: Izņēmumu MDATP konfigurēšana un pārbaude Mac datorā
+title: MDATP izņēmumu konfigurēšana un pārbaude Mac datorā
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916350"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Izņēmumu MDATP konfigurēšana un pārbaude Mac datorā
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>MDATP izņēmumu konfigurēšana un pārbaude Mac datorā
 
-Varat izslēgt noteiktus failus, mapes, procesus un procesa atvērtos failus no MDATP skenē Mac datorā. Izņēmumi palīdz nepareizi noteikt, vai jūsu organizācijai ir unikāli vai pielāgoti programmatūras un faili. Izņēmumi palīdz arī samazināt MDATP izraisītās veiktspējas problēmas.
+Mac datorā MDATP skenēs jūs varat izslēgt noteiktus failus, mapes, procesus un ar procesu atvērtus failus. Izņēmumi palīdz novērst nepareizu programmatūras un failu, kas ir unikāli vai pielāgoti jūsu organizācijai, noteikšanu. Izņēmumi arī palīdz mazināt MDATP izraisītās veiktspējas problēmas.
 
-Lai uzzinātu vairāk, skatiet rakstu [MDATP izslēgšana un pārbaude Mac datorā](https://go.microsoft.com/fwlink/?linkid=2144616).
+Papildinformāciju skatiet [rakstā MDATP izņēmumu konfigurēšana](https://go.microsoft.com/fwlink/?linkid=2144616)un pārbaude Mac datorā.
