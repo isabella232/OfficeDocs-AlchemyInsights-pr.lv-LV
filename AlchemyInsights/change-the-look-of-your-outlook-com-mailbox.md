@@ -1,5 +1,5 @@
 ---
-title: Outlook.com pastkastes izskata mainīšana
+title: Savas Outlook.com pastkastes izskats
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 10f7b7e5dbee437f81a803f95b5529fcbc5e667a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbd92e3aa383bd84e2808297ffc6c75cd83878b8c4cd691b601af667f2110de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916890"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>Outlook pastkastes izskata mainīšana
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Pastkastes Outlook maiņa
 
-Varat mainīt ziņojumu saraksta un lasīšanas rūts attēlojumu [izkārtojuma iestatījumos](https://outlook.live.com/mail/options/mail/layout). Izvēlieties, vai jūsu e-pasta ziņojums ir jārāda kā atsevišķi ziņojumi vai sarunas, ja ziņojumu saraksta augšdaļā vai lejasdaļā ir jāparādās jauniem ziņojumiem, kā arī veikt citas funkcijas.
+Ziņojumu saraksta un lasīšanas rūts izskatu var mainīt [izkārtojuma iestatījumos.](https://outlook.live.com/mail/options/mail/layout) Izvēlieties, vai parādīt e-pastu kā atsevišķus ziņojumus vai sarunas, vai jauni ziņojumi parādās ziņojumu saraksta augšdaļā vai apakšdaļā, un izvēlieties citas iespējas.
   
-Lai uzzinātu vairāk, skatiet rakstu [savas Outlook.com pastkastes izskata mainīšana](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Papildinformāciju skatiet [rakstā savas vietnes Outlook.com pastkastes izskats.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)
