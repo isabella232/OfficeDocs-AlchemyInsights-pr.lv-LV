@@ -1,5 +1,5 @@
 ---
-title: Ziņot par aizdomīgiem pielikumiem
+title: Ziņošana par aizdomīgiem pielikumiem
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948926"
 ---
-# <a name="report-suspicious-attachments"></a>Ziņot par aizdomīgiem pielikumiem
+# <a name="report-suspicious-attachments"></a>Ziņošana par aizdomīgiem pielikumiem
 
-1. **Jaunajā iesniegšanas** izlidošanas lodziņā atlasiet **Pielikums** un pēc tam augšupielādējiet failu, kuru vēlaties skenēt.
+1. **Izlidošanas logā** Jauns iesniegšanas fails **atlasiet Pielikums** un pēc tam augšupielādējiet failu, kuru vēlaties skenēt.
     > [!NOTE]
-    > Pašlaik ir pieejams 3 MB ierobežojums. Ja fails pārsniedz 3 MB, apsveriet iespēju to iesniegt, izmantojot e-pasta ID.
-2. Ja atlasāt ir **bijis bloķēts**, tas automātiski atzīmēs šo vienumu kā **ļaunprogrammatūru**.
-3. Atlasiet **iesniegt**.
+    > Šobrīd pastāv 3 MB ierobežojums. Ja fails pārsniedz 3 MB, apsveriet iespēju to iesniegt, izmantojot e-pasta ID.
+2. Ja atlasāt **Opciju Ir bloķēta,** automātiski tiks atzīmēts vienums kā Ļaunprogrammatūra. 
+3. Atlasiet **Iesniegt**.

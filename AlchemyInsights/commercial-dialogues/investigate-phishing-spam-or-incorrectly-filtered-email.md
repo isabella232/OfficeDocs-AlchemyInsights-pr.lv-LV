@@ -1,5 +1,5 @@
 ---
-title: Pikšķerēšanas, surogātpasta vai nepareizi filtrēta e-pasta izpēte
+title: Pikšķerēšanas, surogātpasta un nepareizi filtrētu e-pasta ziņojumu izpēte
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948962"
 ---
-# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Pikšķerēšanas, surogātpasta vai nepareizi filtrēta e-pasta izpēte
+# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Pikšķerēšanas, surogātpasta un nepareizi filtrētu e-pasta ziņojumu izpēte
 
-Izmantojiet iesniegšanas pārlūku, lai iesniegtu ziņojumu korporācijai Microsoft. Jūs saņemsit tūlītējus atsauksmes par ziņojumu filtrēšanu un problēmas rašanās iemeslu. Tālāk ir sniegts kopsavilkums par darbībām.
+Izmantojiet iesniegšanas pārlūku, lai iesniegtu ziņojumu korporācijai Microsoft. Saņemsit tūlītējas atsauksmes par ziņojumu filtrēšanu un tās rašanās iemeslu. Tālāk ir kopsavilkums par darbībām.
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143), atlasiet **Threat Management**  >  **Submissions** un pēc tam atlasiet **+ jauns iesniegums**.
-2. Norādiet detalizētu informāciju **jaunā iesniegšanas** izlidošanas laukā.
-3. Informējiet lietotājus, ka viņiem jāziņo par aizdomīgiem e-pasta ziņojumiem korporācijai Microsoft un, ka [atskaišu ziņojuma pievienojumprogramma](https://go.microsoft.com/fwlink/?linkid=2092385) ir rīks, kas jāizmanto šim nolūkam.
+1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143), atlasiet Apdraudējumu **pārvaldības** iesniegumi un pēc tam  >  atlasiet **+Jauns pieteikums**.
+2. Norādiet detalizētu informāciju jauna iesniegšanas **izlidošanas** logā.
+3. Informējiet lietotājus, ka tiem ir ziņojumiem par aizdomīgiem [e-pasta](https://go.microsoft.com/fwlink/?linkid=2092385) ziņojumiem no korporācijas Microsoft un ka atskaišu ziņojumu pievienojumprogramma ir rīks, kas viņiem jāizmanto.

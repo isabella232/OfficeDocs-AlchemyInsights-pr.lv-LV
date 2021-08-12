@@ -1,5 +1,5 @@
 ---
-title: 1314 dublicēt objektu attīrīšanu
+title: 1314 Objekta dublikāta labošana
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1901dd13291cc1e4b811d243a670b8d6c2998e712a8d1744effe7e3832c156da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964676"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Objektu sinhronizācijas kļūdu dublēšana
+# <a name="duplicate-object-synchronization-errors"></a>Objektu sinhronizācijas kļūdu dublikāti
 
-Ja sinhronizēšanas laikā saņemat kādu no tālāk norādītajām kļūdām:
+Ja sinhronizācijas laikā tiek parādīta kāda no šīm kļūdām:
 
-- Microsoft Online Services direktorijā jau pastāv sinhronizēts objekts ar tādu pašu starpniekservera adresi.
+- Sinhronizēts objekts ar to pašu starpniekservera adresi jau pastāv jūsu Microsoft Online Services direktorijā.
 
 - Līdzīgs ziņojums par UserPrincipalName.
 
-Izmantojiet jauno AADConnect Health diagnostiku, lai atrisinātu objekta kļūdu dublikātus. Lai iegūtu papildinformāciju, skatiet rakstu [dublēto atribūtu sinhronizācijas kļūdu diagnosticēšana un sanācija](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Izmantojiet jauno AADConnect Health diagnostiku, lai atrisinātu objektu kļūdu dublikātus. Papildinformāciju skatiet rakstā Dublētu atribūtu sinhronizācijas kļūdu [diagnosticējiet un koriģējiet.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
