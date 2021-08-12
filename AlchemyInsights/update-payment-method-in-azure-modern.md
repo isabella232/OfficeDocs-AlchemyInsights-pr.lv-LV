@@ -1,5 +1,5 @@
 ---
-title: Detalizētas informācijas par maksājumu atjaunināšana Azure (modernā)
+title: Detalizētās informācijas par maksājumu atjaunināšana programmā Azure (modernā)
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,30 +12,30 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: bb032f772077318e54ac4fde42a72f432703d828
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007329"
 ---
-# <a name="update-payment-details-in-azure"></a>Detalizētas informācijas par maksājumu atjaunināšana Azure
+# <a name="update-payment-details-in-azure"></a>Atjaunināt detalizēto informāciju par maksājumu programmā Azure
 
-Ja jūsu kredītkarte tiek atjaunota un numurs paliek nemainīgs, atjauniniet esošo informāciju par kredītkarti, piemēram, termiņa beigu datumu. Ja jūsu kredītkartes numurs ir mainīts, jo karte ir nozaudēta, nozagta vai beigusies, izpildiet darbības, kas norādītas sadaļā [Pievienot kredītkarti kā maksāšanas veidu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) . Jums nav nepieciešams atjaunināt CVV.
+Ja jūsu kredītkarte tiks atjaunota un numurs paliek tāds pats, atjauniniet esošo kredītkartes informāciju, piemēram, derīguma beigu datumu. Ja jūsu kredītkartes numurs tiek mainīts kartes nozaudēšanas, zādzības vai derīguma termiņa maiņas dēļ, izpildiet sadaļā Kredītkartes kā [maksāšanas metodes](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) pievienošana norādītās darbības. CvV nav jāatjaunina.
 
-Jūsu maksājumu metodes ir saistītas ar [norēķinu profiliem](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Maksāšanas veidu var atjaunināt tikai lietotājs, kurš ir reģistrējies pakalpojumam Azure un izveidojis norēķinu kontu. Veiciet šīs darbības, lai atjauninātu maksāšanas metodi.
+Jūsu maksāšanas veidi ir saistīti ar norēķinu [profiliem.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Maksāšanas metodi var atjaunināt tikai tas lietotājs, kurš reģistrējās Azure lietošanai un izveidojis norēķinu kontu. Veiciet šīs darbības, lai atjauninātu maksāšanas metodi.
 
 1. Pierakstieties [Azure portālā](https://portal.azure.com/).
 
-2. Meklējiet par **Cost Management + norēķiniem** .
+2. Meklējiet atslēgas vārdus **Izmaksu pārvaldība + Norēķini**.
 
-3. Izvēlnē pa kreisi atlasiet **norēķinu profilus** .
+3. Izvēlnē pa kreisi atlasiet Norēķinu **profili**.
 
 4. Atlasiet norēķinu profilu.
 
-5. Izvēlnē pa kreisi atlasiet **maksāšanas metodes** .
+5. Izvēlnē pa kreisi atlasiet **Maksāšanas veidi**.
 
-6. Sadaļā **kredītkartes kartes** atrodiet kredītkarti, kuru vēlaties rediģēt.
-7. Rindas beigās atlasiet elipses **(...)** .
+6. Sadaļā **Jūsu kredītkartes** atrodiet kredītkarti, kuru vēlaties rediģēt.
+7. Rindas beigās atlasiet daudzpunkti **(...).**
 
-8. Lai rediģētu savas kredītkartes informāciju, kontekstizvēlnē atlasiet  **Rediģēt**  .
+8. Lai rediģētu kredītkartes informāciju,  **kontekstizvēlnē**  atlasiet Rediģēt.
