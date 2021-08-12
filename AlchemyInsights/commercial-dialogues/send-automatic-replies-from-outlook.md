@@ -1,5 +1,5 @@
 ---
-title: Automātisko atbilžu sūtīšana no programmas Outlook
+title: Automātisko atbilžu sūtīšana no Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 6ad7b36b281f267b6db32ea5acbc9418ac91812a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8bd5170c164431d2b48e872f30f5a9a4bdee99ee867c5cd4c290f4abf1bc35ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966872"
 ---
-# <a name="send-automatic-replies-from-outlook"></a>Automātisko atbilžu sūtīšana no programmas Outlook
+# <a name="send-automatic-replies-from-outlook"></a>Automātisko atbilžu sūtīšana no Outlook
 
-Veiciet tālāk norādītās darbības.
+Rīkojieties, kā rīkoties:
 
-1. Izvēlieties **failu**  >  **automātiskās atbildes**.
-2. Lodziņā **automātiskās atbildes** atlasiet **Sūtīt automātiskās atbildes**.
+1. Izvēlieties **Failu automātiskās**  >  **atbildes**.
+2. Lodziņā **Automātiskās atbildes** atlasiet Sūtīt **automātiskās atbildes**.
 3. Cilnē **Manā uzņēmumā** ierakstiet atbildi, ko vēlaties nosūtīt darba grupas biedriem vai kolēģiem, kad atrodaties ārpus biroja.
-4. Ja vēlaties, lai automātiskās atbildes tiktu nosūtītas personām ārpus jūsu organizācijas, izvēlieties cilni **ārpus manas organizācijas** , atzīmējiet izvēles rūtiņu **automātiski atbildēt personām ārpus manas organizācijas** un pēc tam ierakstiet atbildi, ko vēlaties nosūtīt, kamēr atrodaties ārpus biroja. Atlasiet, vai vēlaties, lai atbildes tiktu sūtītas **tikai manām kontaktpersonām** vai **visām personām ārpus manas organizācijas** , kas sūta jums ziņojumus.
+4. Ja vēlaties, lai automātiskās atbildes tiktu sūtītas personām ārpus jūsu  organizācijas, izvēlieties cilni  Ārpus mana uzņēmuma, atzīmējiet izvēles rūtiņu Automātiski atbildēt personām ārpus manas organizācijas un pēc tam ierakstiet atbildi, ko vēlaties sūtīt, kad atrodaties ārpus biroja. Atlasiet, vai vēlaties atbildes sūtīt tikai manām **kontaktpersonām** vai arī **ikvienam, kas neietilpst organizācijā,** kas sūta jums ziņojumus.
 
     > [!NOTE]
-    > Automātisko atbilžu sūtīšana **visām personām, kas neietilpst organizācijā** nozīmē, ka automātiskā atbilde tiek nosūtīta uz katru e-pasta sūtījumu, tostarp biļeteniem, reklāmām un, iespējams, nevēlamā e-pasta ziņojumiem. Ja vēlaties nosūtīt automātiskās atbildes personām ārpus jūsu organizācijas, iesakām izvēlēties **tikai manas kontaktpersonas.**
+    > Automātisko atbilžu sūtīšana **visām personām, kas neietilpst organizācijā** nozīmē, ka automātiskā atbilde tiek nosūtīta uz katru e-pasta sūtījumu, tostarp biļeteniem, reklāmām un, iespējams, nevēlamā e-pasta ziņojumiem. Ja vēlaties sūtīt automātiskās atbildes lietotājiem ārpus jūsu organizācijas, ieteicams izvēlēties izmantot tikai **manas kontaktpersonas.**

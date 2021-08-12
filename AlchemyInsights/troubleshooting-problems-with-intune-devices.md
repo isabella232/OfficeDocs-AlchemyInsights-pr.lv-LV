@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920906"
 ---
 # <a name="troubleshooting-problems-with-intune-devices"></a>Problēmu novēršana saistībā ar Intune ierīcēm
 
-Ja Intune pārvaldītā ierīcē radušās problēmas, vispirms pārskatiet [pārvaldības ierīces ar Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) dokumentāciju, lai apstiprinātu pamata konfigurāciju un pārbaudītu ierīces statusu.
+Ja Intune pārvaldītā ierīcei ir radušās problēmas, vispirms pārskatiet dokumentāciju Ierīču pārvaldība, izmantojot [Intune,](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) lai apstiprinātu pamata konfigurāciju un pārbaudītu ierīces statusu.
 
-Problēmas, piemēram, trūkstošas vai aizkavētas politikas, nepareizas politikas, negaidīta piekļuve vai piekļuves trūkums, var izraisīt ierīce, kas kļūst nesinhronizēta ar Intune. Lai iegūtu papildinformāciju, pārskatiet [ierīces sinhronizācijas](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) dokumentāciju.
+Dažādas problēmas, piemēram, trūkstošas vai aizkavētas politikas, nepareizas politikas, neparedzēta piekļuve vai piekļuves trūkums, var izraisīt ierīces sinhronizācija ar Intune. [Papildinformāciju skatiet](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) ierīces sinhronizācijas dokumentācijā.
 
-Biežāk sastopamās problēmas, kas saistītas ar ierīces atdošanu, politikas sinhronizāciju un ierīces konfigurāciju, ir atrodamas [biežāk uzdotajos jautājumos un atbildēs](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) vai [problēmu novēršanas politikas](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) dokumentācijā.
+Bieži sastopamās problēmas, kas saistītas ar ierīču atdēšanu, politikas sinhronizāciju un ierīces konfigurāciju, ir atrodamas sadaļā Bieži uzdotie jautājumi un atbildes [vai](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) Problēmu [novēršanas politikas](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) dokumentācija.

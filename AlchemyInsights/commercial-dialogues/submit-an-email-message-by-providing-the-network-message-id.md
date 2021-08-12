@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e4a0a3d9b4fede9198c8a235d05945b30a6e0807
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1a6f9815a36cc267a815ff9757d713afed5d95aec4f7c537135c88cadf26cc51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929924"
 ---
 # <a name="submit-an-email-message-by-providing-the-network-message-id"></a>E-pasta ziņojuma iesniegšana, norādot tīkla ziņojuma ID
 
-1. **Jaunajā iesniegšanas** izlidošanas lodziņā atlasiet **e-pasta** un **tīkla ziņojuma ID**.
-2. Veiciet šīs darbības, lai atrastu ziņojuma ID e-pasta ziņojumam programmā Outlook:
+1. **Izlidošanas logā Jauns iesniegums** atlasiet **E-pasts** un **Tīkla ziņojuma ID**.
+2. Veiciet šīs darbības, lai atrastu e-pasta ziņojuma ID programmā Outlook:
     1. Veiciet dubultklikšķi uz e-pasta ziņojuma, lai to atvērtu.
-    1. Atlasiet **faila**  >  **Rekvizīti**.
-    1. Atveriet Piezīmjbloku vai tukšu Word dokumentu un pēc tam nokopējiet un ielīmējiet to saturu, kas ir atrodams lodziņā **interneta galvenes** , uz atvērtu dokumentu, lai iegūtu labāku redzamību.
-    1. Atrodiet **X-MS-Exchange-Organization-Network-Message-ID** lauku. Vērtība pēc **:** atbilst jūsu iesniegtajam ID.
-3. Sadaļā **adresāti**, ja e-pasta ziņojums ir izkrauts mapē Nevēlamais e-pasts visiem šī e-pasta adresātiem, izvēlieties **Atlasīt visu**. Ja nav, atlasiet tikai to lietotāju, kurš ziņoja par šo problēmu.
-4. Ja atlasāt, ir **jābūt bloķētam** **iesniegšanas iemeslam**, norādiet, vai ziņojumam ir jābūt bloķētam kā **surogātpasts**, **Pikšķerēšana** vai **ļaunprogrammatūra**, un pēc tam atlasiet **iesniegt**.
+    1. Atlasiet **Faila**  >  **rekvizīti**.
+    1. Atveriet Piezīmjbloks tukšu Word dokumentu un pēc tam atvērtajā dokumentā  kopējiet un ielīmējiet lodziņā Interneta galvenes atrasto saturu, lai uzlabotu tā redzamību.
+    1. Atrodiet **lauku X-MS-Exchange-Organization-Network-Message-Id.** Vērtība pēc : **ir** jūsu iesniegto datu iesniegšanai nepieciešamais ID.
+3. Sadaļā **Adresāti,** ja e-pasta ziņojums atrodas nevēlamā e-pasta mapē visiem šī e-pasta adresātiem, izvēlieties **Atlasīt visu**. Ja nē, atlasiet tikai to lietotāju, kurš ziņoja par problēmu.
+4. Ja **atlasāt Ir** bloķēts iesniegšanas iemesls , norādiet, vai ziņojumam ir jābūt bloķētam kā Surogātpasts, Pikšķerēšana vai Ļaunprogrammatūra un pēc tam atlasiet **Iesniegt**.   
 
-Lai uzzinātu vairāk, skatiet rakstu [kā programmā Microsoft meklēt aizdomīgus surogātpasta, adresi phish, vietrāžus URL un failus](https://go.microsoft.com/fwlink/?linkid=2101479).
+Papildinformāciju skatiet rakstā [Kā iesniegt iespējamus surogātpasta, pikšķerēšanas vietrāžus URL](https://go.microsoft.com/fwlink/?linkid=2101479)un failus korporācijai Microsoft skenēšanas laikā.

@@ -1,5 +1,5 @@
 ---
-title: Ziņojumu automātiska pārvietošana uz arhīvu
+title: Automātiska ziņojumu pārvietošanas uz arhīvu apturēšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929960"
 ---
-# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Ziņojumu automātiska pārvietošana uz arhīvu
+# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Automātiska ziņojumu pārvietošanas uz arhīvu apturēšana
 
-Ja izmantojat saglabāšanas politiku, varat mainīt saglabāšanas vecumu attiecīgajā politikā, lai pārtrauktu automātisku ziņojumu arhivēšanu. Tālāk aprakstīts, kā to paveikt.
+Ja izmantojat saglabāšanas politiku, varat mainīt saglabāšanas vecumu šajā politikā, lai ziņojumi vairs netiek arhivēti automātiski. Tālāk aprakstīts, kā to paveikt.
 
-1. [Exchange administrēšanas centrā](https://go.microsoft.com/fwlink/?linkid=2059104)izvēlieties **atbilstības pārvaldības**  >  **saglabāšanas atzīmes**. Atrodiet savu pārvietot uz arhīva saglabāšanas atzīmi.
-2. Saglabāšanas tagā mainiet saglabāšanas periodu (arhīva periodu) **, lai neļautu** automātiski arhivēt vienumus, izmantojot saglabāšanas politiku.
+1. Administrēšanas [Exchange izvēlieties](https://go.microsoft.com/fwlink/?linkid=2059104)atbilstības pārvaldības **saglabāšanas**  >  **atzīmes**. Atrodiet savu pārvietošanas uz arhīva saglabāšanas atzīmi.
+2. Saglabāšanas tagā mainiet saglabāšanas periodu (arhīva periodu) uz Nekad, lai apturētu vienumu automātisku arhivēšanu ar saglabāšanas politiku. 
 
 > [!NOTE]
-> Tas mainīs arhivēšanas iestatījumu visām pastkastēm, kurām ir lietots šis saglabāšanas Tags.
+> Tādējādi tiks mainīts arhīva iestatījums visām pastkastēm, ja tām tiek lietota šī saglabāšanas atzīme.
