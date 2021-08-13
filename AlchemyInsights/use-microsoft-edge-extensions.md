@@ -1,5 +1,5 @@
 ---
-title: Izmantojiet Microsoft Edge paplašinājumus
+title: Microsoft Edge izmantošana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004621"
 - "8313"
-ms.openlocfilehash: 4a7e83e27aa78e064c2f8261c3b66bfe0468f300
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac0c7b9f05c34c95d20539104af1317b43203b5a05882372d93c98b80632ced3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971562"
 ---
-# <a name="use-microsoft-edge-extensions"></a>Izmantojiet Microsoft Edge paplašinājumus
+# <a name="use-microsoft-edge-extensions"></a>Microsoft Edge izmantošana
 
-[Paplašinājumi](https://go.microsoft.com/fwlink/?linkid=2135619) ir pievienojumprogrammas, kuras varat instalēt pārlūkprogrammā Microsoft Edge, lai bloķētu reklāmas, pārvaldītu paroles, tulkotu tekstu un pielāgotu pārlūkošanas pieredzi dažādos veidos.
+[Paplašinājumi](https://go.microsoft.com/fwlink/?linkid=2135619) ir pievienojumprogrammas, ko varat instalēt programmā Microsoft Edge, lai bloķētu reklāmas, pārvaldītu paroles, tulkotu tekstu un pielāgotu pārlūkošanas pieredzi daudzos citos veidos.

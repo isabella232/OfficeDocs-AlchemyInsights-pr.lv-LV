@@ -1,5 +1,5 @@
 ---
-title: 2419-nav iespējams iespējot-audits
+title: 2419 nevar iespējot auditēšanu
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007797"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Nevar iespējot unificēto auditēšanu
+# <a name="unable-to-enable-unified-auditing"></a>Nevar iespējot vienoto auditēšanu
 
-Kad mēģināt iespējot unificēto auditēšanu savai organizācijai, iespējams, parādās kļūdas ziņojums, kas līdzīgs šim:
+Kad organizācijā mēģināt iespējot vienoto auditēšanu, var tikt parādīts šāds kļūdas ziņojums:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-Lai atrisinātu šo problēmu, veiciet tālāk norādītās darbības.
+Lai novērstu šo problēmu, veiciet tālāk norādītās darbības.
 
-1. [Savienojuma izveide ar Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Savienošana uz Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
 2. Palaidiet šādu cmdlet:
 
@@ -37,16 +37,16 @@ Lai atrisinātu šo problēmu, veiciet tālāk norādītās darbības.
    Enable-OrganizationCustomization
    ```
 
-3. Uzgaidiet, līdz 60 minūtes iepriekšējais iestatījums stājas spēkā.
+3. Uzgaidiet 60 minūtes, līdz iepriekšējais iestatījums stāsies spēkā.
 
-4. Palaidiet tālāk norādīto komandu pakalpojumā Exchange Online PowerShell:
+4. Exchange Online PowerShell izpildiet šādu komandu:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
    ```
 
-Papildinformāciju skatiet šajos rakstos:
+Papildinformāciju skatiet šādos rakstos:
 
-- [Savienojuma izveide ar Exchange Online PowerShell, izmantojot daudzfaktoru autentifikāciju](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Savienošana uz Exchange Online PowerShell, izmantojot daudzfaktors autentifikāciju](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Audita žurnālu meklēšanas ieslēgšana vai izslēgšana](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
+-  [Audita žurnāla meklēšanas ieslēgšana vai izslēgšana](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

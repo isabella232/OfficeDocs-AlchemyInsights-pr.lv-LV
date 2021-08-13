@@ -1,5 +1,5 @@
 ---
-title: Office aktivizēšana, izmantojot ierīču licencēšanu
+title: Aktivizē Office, izmantojot ierīču licencēšanu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937324"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Office aktivizēšana, izmantojot ierīču licencēšanu
+# <a name="activating-office-using-device-based-licensing"></a>Aktivizē Office, izmantojot ierīču licencēšanu
 
-Microsoft 365 lietojumprogrammu, kas paredzēts uzņēmumiem, licencēšana ierīcēs ir pieejama kā licence tikai dažiem komerciāliem klientiem un dažiem izglītības iestāžu klientiem. Detalizētu informāciju skatiet rakstā Microsoft [365](https://docs.microsoft.com/deployoffice/device-based-licensing) lietojumprogrammu licencēšana uzņēmumiem, kuru pamatā ir ierīces
+Ierīču licencēšana izglītības iestādēm Microsoft 365 programmas lieluzņēmumiem pieejama kā licence tikai dažiem komerciāliem klientiem un dažiem izglītības klientiem. Detalizētu informāciju skatiet rakstā Produktu licencēšana pēc [ierīces Microsoft 365 programmas lieluzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Lai aktivizētu Microsoft 365 lietojumprogrammas uzņēmumiem, izmantojot ierīces licencēšanu, skatiet rakstu:
+Lai Microsoft 365 programmas lieluzņēmumiem licences, izmantojot ierīces licencēšanu, skatiet:
 
-- [Prasības, lai izmantojot ierīces licencēšanu Microsoft 365 lietojumprogrammām uzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Darbības, kas jāveic, lai konfigurētu ierīces licencēšanu Microsoft 365 programmām uzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Uz ierīci pamatotas licencēšanas prasības attiecībā uz Microsoft 365 programmas lieluzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Darbības, kas jāveic, lai konfigurētu ierīces licencēšanu Microsoft 365 programmas lieluzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Lai iegūtu norādījumus par problēmu novēršanu, skatiet rakstu Ierīču [licencēšanas problēmu novēršana Microsoft 365 lietojumprogrammām uzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+Lai iegūtu norādījumus par problēmu [novēršanu, skatiet rakstu Ierīcē pamatotas licencēšanas problēmu novēršana Microsoft 365 programmas lieluzņēmumiem](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Ja Microsoft 365 programmas jau ir instalētas un aktivizētas, izmantojot lietotāja abonementa licencēšanu vai koplietojama datora aktivizēšanu, jums būs jāatiestata licences stāvoklis ierīcē, pirms tā pāries uz ierīces licencēšanu. Lai atiestatītu aktivizācijas stāvokli, skatiet rakstu [Microsoft 365 programmu atiestatīšana aktivizācijas stāvokļa uzņēmumam](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Ja Microsoft 365 programmas jau ir instalēta un aktivizēta, izmantojot lietotāja abonementa licencēšanu vai koplietojama datora aktivizēšanu, jums vajadzēs atiestatīt licences stāvokli ierīcē, pirms tā pāries uz ierīces licencēšanu. Kā atiestatīt aktivizācijas stāvokli, skatiet rakstā [Aktivizēšanas Microsoft 365 programmas lieluzņēmumiem atiestatīšana](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
