@@ -1,5 +1,5 @@
 ---
-title: Windows 10 aktivizēšana pēc aparatūras izmaiņām
+title: Aktivizēt Windows 10 pēc aparatūras izmaiņām
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3484"
 - "9001418"
-ms.openlocfilehash: d9a0808c2b56e6676e239e129aaf32a1a80ecbba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c97e54e41394b00d505dc51a4b44623a481070036fe371c66c4bba5afd362663
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937828"
 ---
-# <a name="reactivating-windows-10-after-a-hardware-change"></a>Windows 10 atkārtota aktivizēšana pēc aparatūras izmaiņām
+# <a name="reactivating-windows-10-after-a-hardware-change"></a>Atkārtota Windows 10 pēc aparatūras izmaiņām
 
-Ja veicāt būtiskas aparatūras izmaiņas savā ierīcē, piemēram, aizstājot windows, windows, iespējams, vairs nebūs aktivizēta. Mēģiniet izmantot aktivizācijas problēmu risinātāju, lai palīdzētu atkārtoti aktivizēt operētājsistēmu Windows 10.
+Ja veicāt būtiskas aparatūras izmaiņas savā ierīcē, piemēram, aizstājot Ar kodu, Windows iespējams, vairs nebūs aktivizēta. Mēģiniet izmantot aktivizācijas problēmu risinātāju, lai vēlreiz aktivizētu Windows 10:
 
-Dodieties **uz Sākt** iestatījumu  >    >  **atjaunināšanu, &**  >  **aktivizācija** un pēc tam atlasiet Novērst **problēmas**. Lai izmantotu problēmu risinātāju, jums ir jāpieraksta kā administratoram.
+Dodieties **uz Sākums**  >  **Iestatījumi** Update &  >    >  **Activation** un pēc tam atlasiet **Troubleshoot**. Lai izmantotu problēmu risinātāju, jums ir jāpieraksta kā administratoram.
 
-**Piezīme.** Ja problēmu risinātāja startēšana nepalīdz vai neredzat  pogu Novērst problēmas, sazinieties ar personu, lai saņemtu palīdzību saistībā ar jūsu Windows kopijas aktivizēšanu. (Šīs **programmas apakšējā** kreisajā stūrī noklikšķiniet uz pogas Sazināties ar mums.)
+**Piezīme.** Ja problēmu risinātāja startēšana nepalīdz vai neredzat  pogu Novērst problēmas, sazinieties ar personu, lai saņemtu palīdzību saistībā ar jūsu kopiju Windows. (Šīs **programmas apakšējā** kreisajā stūrī noklikšķiniet uz pogas Sazināties ar mums.)
 
-[Papildinformācija par aktivizāciju operētājsistēmā Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)
+[Papildinformācija par aktivizāciju programmā Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)

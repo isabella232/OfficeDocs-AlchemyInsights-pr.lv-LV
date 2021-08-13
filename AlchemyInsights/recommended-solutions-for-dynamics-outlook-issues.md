@@ -1,5 +1,5 @@
 ---
-title: Ieteicamie Dynamics 365 krātuves problēmu risinājumi
+title: Ieteicamie risinājumi Dynamics 365 krātuves problēmām
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -14,30 +14,30 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 6b164968b32727e320ba7a6a40b0de22ad88681881464d42e6eb553d714506d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062447"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Ieteicamie Dynamics 365 krātuves problēmu risinājumi
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Ieteicamie risinājumi Dynamics 365 krātuves problēmām
 
-* [Lietojumprogramma: attiecībā uz uzmeklēšanu Atgrieztie meklēšanas rezultāti](https://support.microsoft.com/help/4489111)
+* [Programma: nav atgriezti meklēšanas rezultāti lapā Par uzmeklēšanu](https://support.microsoft.com/help/4489111)
 
-* [Lietojumprogramma: kļūda tiek parādīta, atverot programmu darbam ar Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [Programma: atverot programmu operētājsistēmai Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [Programma: e-pasts vai tikšanās tiek rādīta kā "izsekošana"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [Programma. E-pasta ziņojums vai tikšanās tiek rādīta kā "Gaidoša izsekošana"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [Programma: tiek parādīta tukša lapa, atverot programmu Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [Programma: atverot programmu Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Pilnais klients: nevar izveidot savienojumu D365 Outlook versijai 8. x ar versiju 9. x D365 instance](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Full Client: Nevar izveidot D365 savienojumu ar Outlook 8.x versiju versijai 9.x D365 instancei](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Pilns klients: "gaida, kad lapa tiks izgūta no CRM servera..." tiek parādīts ziņojums](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Full Client: "Gaida, līdz lapa tiks izgūta no CRM servera..." tiek parādīts ziņojums](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Pilns klients: diagnosticēt D365 Outlook problēmām](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Full Client: Diagnostic D365 for Outlook issues](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [Lietojumprogramma: problēmu novēršanas D365 programma darbam ar Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [Programma: D365 programmas operētājsistēmai Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
 * [Programma: izvietošana](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 

@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana saistībā ar piekļuvi e-pasta ziņojumiem
+title: Problēmu novēršana saistībā ar piekļuvi tīmekļa pastam
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b38e953c69c3fbc0e1ac4771953b1777e7033286ea56554d42952c2df696bd70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008005"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a>Problēmu novēršana saistībā ar piekļuvi e-pasta ziņojumiem
+# <a name="troubleshoot-problems-with-accessing-webmail"></a>Problēmu novēršana saistībā ar piekļuvi tīmekļa pastam
 
 Nepareizi datuma un laika iestatījumi datorā var izraisīt problēmas ar piekļuvi tīmekļa e-pasta serveriem. Lai pārliecinātos, vai datuma un laika iestatījumi ir pareizi, veiciet tālāk norādītās darbības.
 
-1. Atlasiet **Sākt**, ierakstiet **datums un laiks** un pēc tam atlasiet **datums un laiks**.
-2. Logā **datuma & laiks** veiciet kādu no šīm darbībām:
+1. Atlasiet **Sākums**, ierakstiet **datumu un laiku** un pēc tam atlasiet Datums un **laiks**.
+2. Logā **Datuma un &** veiciet kādu no šīm darbībām:
 
-    - Ieslēgt opciju **iestatīt laiku automātiski** un **iestatīt laika joslu automātiski**.
+    - Ieslēdziet **Iestatīt laiku automātiski un** Iestatīt laika **joslu automātiski**.
 
-    - Atstājiet automātisko iestatījumu izslēgtu, bet atlasiet pogu **mainīt** , dialoglodziņā **datuma un laika mainīšana** atlasiet **datuma** un **laika** iestatījumus un pēc tam atlasiet **mainīt**.
+    - Izslēdziet automātiskos iestatījumus, bet **atlasiet** pogu  Mainīt, dialoglodziņā  Datuma un laika maiņa atlasiet datuma un laika iestatījumus un pēc tam atlasiet  **Mainīt**.
 
-Lai uzzinātu vairāk, skatiet rakstu problēmu [novēršana saistībā ar piekļuvi webmail, izmantojot Internet Explorer](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888).
+Papildinformāciju skatiet rakstā [Problēmu novēršana saistībā ar piekļuvi tīmekļa pastam, izmantojot pārlūkprogrammu Internet Explorer.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)

@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915450"
 ---
-# <a name="configure-supervision-policies"></a>Pārraudzības politikas konfigurēšana
+# <a name="configure-supervision-policies"></a>Pārraudzības politiku konfigurēšana
 
-Pārraudzības politikas pakalpojumā Microsoft 365 ļauj pārraudzīt Exchange e-pastu, Skype darbam Online, Microsoft Teams, kā arī trešo pušu saziņas ziņojumus, kas tiek nosūtīti gan jūsu organizācijā, gan ārpus tās. Izraudzītie recenzenti var pārbaudīt uzraugāmos ziņojumus, lai pārliecinātos, vai tie atbilst jūsu organizācijas politikām, riska pārvaldības un regulatīvās atbilstības standartiem un atrisina tos ar klasifikācijas tipu.
+Drošības kontroles politikas programmā Microsoft 365 ļauj pārraudzīt e Exchange pasta, Skype darbam Online, Microsoft Teams un trešo pušu saziņu, kas nosūtīta jūsu organizācijā un ārpus tās. Nozīmētie recenzenti var pārbaudīt pārraudzītos ziņojumus, lai pārliecinātos, vai tie atbilst jūsu organizācijas politikai, riska pārvaldībai un normatīvajiem atbilstības standartiem, kā arī tos atrisināt, izmantojot klasifikācijas veidu.
 
-Lai savā organizācijā izmantotu uzraudzības politikas, ir jāveic šādas darbības:
+Lai izmantotu pārraudzības politikas savā organizācijā, ir:
 
-- Noteikt saziņas pārraudzību.
+- Nosakiet pārraugāmo saziņu.
 - Izlemiet, kurš veiks saziņas pārskatīšanu.
-- Iestatījumu uzraudzības politikas
+- Iestatīšanas pārraudzības politikas
 
-apgūt vairāk:
+Papildinformācija:
 
-- [Pārskats par uzraudzības politikām](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Pārraudzības politikas konfigurēšana](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Pārskats par pārraudzības politikām](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Pārraudzības politiku konfigurēšana](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
