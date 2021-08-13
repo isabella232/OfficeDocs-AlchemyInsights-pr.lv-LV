@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 30e8e9f83cddccc85dbebf7bedb3ee0d4ad523a81ecbce039208c400f7c87a8b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960734"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Planner bieži sastopamās problēmas un atrisinājumi
 
@@ -25,11 +25,11 @@ Tālāk ir dažas bieži pieprasītas tēmas saistībā ar Microsoft Planner.
  
 - **Darba sākšana:** [sāciet izmantot Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)un uzziniet, kā aktivizēt Planner savā organizācijā, pievienot vies lietotājus un pārvaldīt piekļuvi savā [vidē.](https://docs.microsoft.com/office365/planner/planner-for-admins)
 
-- **Planner izmantošana programmā Teams**: Vispārīgu pārskatu par Planner integrāciju ar Microsoft Teams skatiet rakstā [Planner izmantošana lietojumprogrammā Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+- **Planner izmantošana programmā Teams:** Vispārīgs pārskats par Planner integrāciju ar Microsoft Teams skatiet rakstā [Planner izmantošana programmā Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
 
-     - [Pievienot Planner cilni grupas kanālam.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) Lietotājam, kurš pievieno cilni, jābūt grupas dalībniekam, nevis tikai īpašniekam. Lietotāju varat pievienot kā dalībnieku, izmantojot Teams interfeisu. Varat arī [pievienot esošu plānu lietojumprogrammā Microsoft Teams.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
+     - [Pievienot Planner cilni grupas kanālam.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) Lietotājam, kurš pievieno cilni, jābūt grupas dalībniekam, nevis tikai īpašniekam. Lietotāju varat pievienot kā dalībnieku, izmantojot Teams interfeisu. Varat arī [pievienot esošu plānu Microsoft Teams.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
 
-    - [Noņemt Planner cilni vai izdzēst plānu.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Izdzēstos plānus programmā Teams nevar atkopt. Ja grupa jau ir izdzēsta, varat atkopt [izdzēstos plānus un grupas.](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+    - [Noņemt Planner cilni vai izdzēst plānu.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Izdzēstos plānus programmā Teams. Ja grupa jau ir izdzēsta, varat atkopt [izdzēstos plānus un grupas.](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
 )
  
 - **Viesa lietotāji:** Viesa [lietotāju piekļuves](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) plānotājam pārvaldība.

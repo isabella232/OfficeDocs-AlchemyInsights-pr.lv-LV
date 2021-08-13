@@ -1,5 +1,5 @@
 ---
-title: 1800014, izmantojot koplietojamu pastkasti mobilajā ierīcē
+title: 1800014 koplietojamas pastkastes izmantošana mobilajā ierīcē
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -16,16 +16,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 8e54307e4a91fcfae1729c968b05df9d4da6ee9f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e8f34bc41e2c60aba32e6fc6f71138042ba7e949df6293c7407452d5e33a680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980220"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Koplietojamas pastkastes izmantošana mobilajā ierīcē
 
-Lai mobilajā ierīcē izmantotu koplietotu pastkasti, [Lejupielādējiet Outlook Mobile](https://products.office.com/outlook-mobile-for-android-and-ios) un pēc tam [pievienojiet koplietojamu pastkasti programmai Outlook Mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
+Lai mobilajā ierīcē izmantotu koplietojamu pastkasti, ir jāveic mobilās [Outlook](https://products.office.com/outlook-mobile-for-android-and-ios) pēc tam koplietojamas pastkastes [pievienošana mobilajā Outlook ierīcē.](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)
   
-Lai saņemtu palīdzību: [Saņemiet palīdzību par programmu Outlook darbam ar iOS un Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Palīdzības saņemšana: [saņemiet palīdzību programmā darbam Outlook iOS un Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   

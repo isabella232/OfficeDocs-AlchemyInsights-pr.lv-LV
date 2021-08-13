@@ -1,5 +1,5 @@
 ---
-title: Ar lietojumprogrammu starpniekserveri saistīto kļūdu novēršana
+title: Ar lietojumprogrammas starpniekserveri saistītu kļūdu novēršana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "9686"
-ms.openlocfilehash: fe0bae35942af9925e8a5f90f966e204d7f84fd2
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 2aa9d325be0d507c72dd615a05529e99711cff968264c474820625f8fcc65bdc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969834"
 ---
-# <a name="troubleshoot-errors-related-to-application-proxy"></a>Ar lietojumprogrammu starpniekserveri saistīto kļūdu novēršana
+# <a name="troubleshoot-errors-related-to-application-proxy"></a>Ar lietojumprogrammas starpniekserveri saistītu kļūdu novēršana
 
-- Lai uzzinātu biežāk sastopamās kļūdas, kas rodas, izmantojot Kerberos iestatīšanu un konfigurēšanu, un ieteikumus par risinājumu skatiet rakstā [lietojumprogrammu starpniekservera problēmu novēršana un kļūdu ziņojumi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors).
-- Lietojumprogrammas starpniekservera 404 kļūdas skatiet rakstā [lietojumprogrammu lapa netiek rādīta pareizi lietojumprogrammu starpniekserverim | Microsoft dokumenti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
-- Azure Active Directory (Azure AD), konfigurējot lielu skaitu lokālās lietojumprogrammas, var ātri kļūt nepārvaldāms un rada nevajadzīgus riskus konfigurācijas kļūdām, ja daudziem no tiem ir nepieciešami vieni un tie paši iestatījumi. Izmantojot [AZURE ad lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy), varat novērst šo problēmu, izmantojot aizstājējzīmju lietojumprogrammu publicēšanu, lai vienlaikus publicētu un pārvaldītu vairākas lietojumprogrammas. Papildinformāciju skatiet rakstā [aizstājējzīmju lietojumprogrammas AZURE ad lietojumprogrammas starpniekserverī | Microsoft dokumenti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).
+- Lai uzzinātu par biežāk sastopamajām kļūdām, ko rada Kerberos iestatīšana un konfigurēšana, kā arī risinājuma ieteikumus, skatiet rakstu Lietojumprogrammas starpniekservera problēmu un [kļūdu ziņojumu novēršana.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors)
+- Informāciju par programmas starpniekservera 404 kļūdām skatiet rakstā Lietojumprogrammas lapa netiek rādīta [pareizi lietojumprogrammas starpniekservera lietojumprogrammas | Microsoft dokumenti.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem)
+- Programmā Azure Active Directory (Azure AD) liela skaita lokālo lietojumprogrammu konfigurēšana var ātri kļūt nepārvaldāma un rada nevajadzīgus riskus konfigurācijas kļūdām, ja daudzām no tām ir nepieciešami vienādi iestatījumi. Ar [Azure AD lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)varat novērst šo problēmu, izmantojot aizstājējzīmju lietojumprogrammu publicēšanu, lai publicētu un pārvaldītu daudzas lietojumprogrammas vienlaikus. Papildinformāciju skatiet rakstā [Aizstājējzīmju lietojumprogrammas Azure AD lietojumprogrammas starpniekservera | Microsoft dokumenti.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard)
