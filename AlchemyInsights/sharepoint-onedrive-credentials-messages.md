@@ -1,5 +1,5 @@
 ---
-title: SharePoint bibliotēkas atvēršana failu pārlūkā
+title: Atvērt SharePoint bibliotēku failu pārlūkā
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 97466d2505cccecb2087f15b1df97a5d46868b72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f6be42831594615db474c8f7f0f0b5e2da787a8a91f4943fb2c27ec57abb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957944"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Akreditācijas datu ziņojumi koplietošanas vidē SharePoint vai pakalpojumā OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Akreditācijas datu ziņojumi SharePoint e-pasta OneDrive
 
-Mēģinot atvērt dokumentu, lietotājiem periodiski var tikt vedināts uz Office, lai iegūtu akreditācijas datus pakalpojumā SharePoint Online vai pakalpojumā OneDrive.
+Lietotājiem lietotājiem periodiski tiek Office akreditācijas dati, lai tos SharePoint Online vai OneDrive, kad mēģināt atvērt dokumentus.
 
-Ja rodas šīs problēmas, lūdzu, izmēģiniet [šajā rakstā](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)norādītās darbības.
+Ja jums rodas šādas problēmas, mēģiniet veikt šajā rakstā [norādītās darbības.](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)
 
-Vai arī, ja izmantojat vienotās pierakstīšanās (SSO) autentifikāciju, lūdzu, skatiet [šo rakstu](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) .
+Vai arī — ja izmantojat vienoto pierakstīšanu (Single sign-on — SSO), lai autentificētu, lūdzu, skatiet [šo](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) rakstu.

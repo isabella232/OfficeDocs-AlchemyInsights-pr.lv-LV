@@ -1,5 +1,5 @@
 ---
-title: Komentāri par saraksta elementiem
+title: Komentāri saraksta vienumos
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995494"
 ---
-# <a name="comments-on-list-items"></a>Komentāri par saraksta elementiem
+# <a name="comments-on-list-items"></a>Komentāri saraksta vienumos
 
-Lietotāji var skatīt visus komentārus par saraksta elementu un filtrēt starp skatiem, kuros redzami ar vienumu saistīti komentāri vai darbības.
+Lietotāji var skatīt visus komentārus saraksta vienumā un filtrēt skatus, kuros tiek rādīti komentāri vai darbības, kas saistītas ar vienumu.
 
-Lai lietotāji varētu pievienot un dzēst komentārus, lietotājiem ir jāņem vērā tālāk norādītās darbības.
+Lai lietotāji varētu pievienot un dzēst komentārus, viņiem ir jāņem vērā tālāk redzamais.
 
-- Komentāri atbilst atļauju iestatījumiem, kas raksturīgi koplietošanas vidē SharePoint.
-- Klasiskie saraksti, kas vēl nav veidoti, lai tiktu rādīti mūsdienīgos lietotāju interfeisos, piemēram, uzdevumu saraksti, nepiedāvās šo komentēšanas līdzekli.
-- Komentēšana sarakstos Teams nav pieejams šajā laidienā.
-- Komentārus neindeksē meklēšana.
+- Komentāri seko atļauju iestatījumiem, kas jau ir SharePoint.
+- Klasiskajiem sarakstiem, kas vēl nav iebūvēti, lai tie tiktu rādīti mūsdienīgos lietotāju interfeisos, piemēram, uzdevumu sarakstos, šis komentāru līdzeklis nebūs pieejams.
+- Komentāru pievienošana sarakstiem Teams šajā laidienā nav pieejama.
+- Meklēšana neindeksē komentārus.
 
-Administratori var atspējot šo līdzekli organizācijas līmenī, mainot **CommentsOnListItemsDisabled** parametru **Set-SPOTenant** PowerShell cmdlet.
+Administratori šo līdzekli var atspējot organizācijas līmenī, mainot **parametru CommentsOnListItemsDisabled** **cmdlet Set-SPOTenant** PowerShell.
 
-Pašlaik nav iespējams atspējot komentēšanu vietnes vai saraksta līmenī. Ceram, ka šīs vadīklas tiks atjauninātas vēlāk, iespējams, pirmajā ceturksnī 2021.
+Pašlaik nav iespējams atspējot komentēšanu vietnes vai saraksta līmenī. Ceram, ka šīs vadīklas tiks atjaunotas vēlākā atjauninājumā, iespējams, 2021. gada pirmajā ceturksnī.

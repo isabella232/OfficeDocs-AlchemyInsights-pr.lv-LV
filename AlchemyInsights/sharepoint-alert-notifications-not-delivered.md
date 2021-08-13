@@ -1,5 +1,5 @@
 ---
-title: SharePoint brīdinājumu paziņojumi nav piegādāti
+title: SharePoint brīdinājuma paziņojumi nav piegādāti
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957908"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint brīdinājumu paziņojumi nav piegādāti
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint brīdinājuma paziņojumi nav piegādāti
 
-Lūdzu, pārbaudiet NEVĒLAMĀ e-pasta mapi, jo dažreiz tiek parādīts brīdinājums.
+Lūdzu, pārbaudiet nevēlamā e-pasta mapi savā e-pastā, jo dažreiz brīdinājumi var tajā nokļūt.
 
-Noteikt, vai **visi brīdinājumi netiek piegādāti** vai ja nav piegādāts **atsevišķs brīdinājums** no konkrēta faila vai bibliotēkas.
+Noteikt, **vai visi brīdinājumi netiek piegādāti** vai netiek **piegādāts atsevišķs** brīdinājums no konkrēta faila vai bibliotēkas.
 
-- **Atsevišķi brīdinājumi netiek piegādāti**: ja atsevišķa faila vai bibliotēkas brīdinājums nav piegādāts, varat mēģināt to izdzēst un atkārtoti izveidot. Lai atkārtoti izveidotu brīdinājumu, skatiet rakstu [SharePoint brīdinājumu pārvaldība, skatīšana un dzēšana](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- **Visi brīdinājumi netiek piegādāti**: ja visi brīdinājumi no vairākiem failiem vai bibliotēkām nav piegādāti, apmeklējiet [Pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai pārbaudītu, vai nav konsultantu/starpgadījumu, kas var notikt ar SharePoint vai Exchange. Šī problēma var būt saistīta ar SharePoint brīdinājumu iespējām vai kavējumiem e-pasta ziņojumos, izmantojot Exchange. Ir svarīgi arī atzīmēt, vai cits e-pasts tiek piegādāts, bet, ja tā nav, problēma ir iespējama ar Exchange kavējumiem.
+- **Netiek piegādāti atsevišķi** brīdinājumi. Ja netiek piegādāts atsevišķs brīdinājums no konkrēta faila vai bibliotēkas, varat mēģināt to izdzēst un izveidot atkārtoti. Skatiet [rakstu Brīdinājumu pārvaldība, skatīšana SharePoint dzēšana,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) lai no jauna izveidotu brīdinājumu.
+- **Visi brīdinājumi** netiek piegādāti. Ja visi brīdinājumi no vairākiem failiem [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vai bibliotēkām netiek piegādāti, apmeklējiet pakalpojuma darbspējas informācijas paneli, lai meklētu konsultantus/incidentus, kas var rasties ar SharePoint vai Exchange. Šo problēmu varētu izraisīt brīdinājuma SharePoint vai e-pasta ziņojumu aizkave, izmantojot Exchange. Tāpat ir svarīgi atzīmēt, vai tiek piegādāti citi e-pasta ziņojumi, un, ja nē, problēma visdrīzāk ir Exchange kavējumus.
 
 Bieži uzdotie jautājumi par brīdinājumiem:
 
 - Nav iespējams nosūtīt brīdinājumus adresātu grupai, tiek atbalstītas tikai drošības un O365 grupas.
-- Jūs nevarat pielāgot brīdinājuma e-pasta veidnes; lai sasniegtu šos pakalpojumus, ir nepieciešams izmantot Microsoft FLOW vai SharePoint Designer darbplūsmu.
+- Brīdinājuma e-pasta veidnes nevar pielāgot. lai tos sasniegtu, ir SharePoint Microsoft FLOW vai Noformētāja darbplūsma.
 
 ## <a name="related-topics"></a>Saistītās tēmas
 
-Vai vēlaties izmēģināt Microsoft plūsmu pakalpojumā SharePoint Online?
+Vai vēlaties izmēģināt Microsoft Flow programmā SharePoint Online?
 
-- [Izveidot plūsmu](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Jaunas Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint un plūsma](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint un Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
