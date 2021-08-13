@@ -1,5 +1,5 @@
 ---
-title: Aktivizēšanas problēmu novēršana
+title: Aktivizācijas problēmu novēršana
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd41479e74341decf818533c05c47f4121718e6ec3404df90ab28c5ca59f65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937144"
 ---
-# <a name="activation-troubleshooting"></a>Aktivizēšanas problēmu novēršana
+# <a name="activation-troubleshooting"></a>Aktivizācijas problēmu novēršana
 
-**Vadības paneļa** \> **programmās un līdzekļos**meklējiet Office. Jums ir jāredz Microsoft 365 lietojumprogrammas darbam ar Enterprise vai Microsoft 365 programmas darbam. Ja redzat vairāk par vienu Office versiju, atinstalējiet versiju, ko neizmantojat.
+Vadības **paneļa sadaļā** Programmas un \> **līdzekļi** meklējiet Office. Jābūt redzamam Microsoft 365 programmas lieluzņēmumiem vai Microsoft 365 programmas darbam. Ja redzat vairāk par vienu Office versiju, atinstalējiet versiju, ko neizmantojat.
   
-Ja nevarat atinstalēt veiksmīgi, izmantojot vadības paneli, izmantojiet [atbalsta un atkopšanas palīgu](https://aka.ms/SARA-OfficeUninstall-Alchemy) , lai atinstalētu versiju, kuru neizmantojat.
+Ja nevarat atinstalēt sekmīgi, izmantojot vadības paneli, [izmantojiet atbalsta un atkopšanas palīgs](https://aka.ms/SARA-OfficeUninstall-Alchemy) lai atinstalētu versiju, kuru neizmantojat.
   
-Ja Office joprojām nav licencēts, atgriezieties **vadības paneļa** \> **programmās un līdzekļos**. Ar peles labo pogu noklikšķiniet uz atlikušās Office instalācijas, atlasiet **modificēt** (vai mainīt) un pēc tam atlasiet **tiešsaistes labošana**. Labošanai tiešsaistē var būt nepieciešams laiks. Pēc tam restartējiet Office un, ja tiek parādīta uzvedne, atkārtoti pierakstieties jūsu darba vai mācību kontā.
+Ja Office joprojām nav licencēts, pārejiet atpakaļ uz **vadības paneļa** \> **sadaļu Programmas un līdzekļi.** Ar peles labo pogu noklikšķiniet uz Office, atlasiet **Modificēt** (vai Mainīt) un pēc tam atlasiet **Tiešsaistes labošana**. Labošanai tiešsaistē var būt nepieciešams laiks. Pēc tam restartējiet Office un, ja tiek parādīta uzvedne, atkārtoti pierakstieties jūsu darba vai mācību kontā.
   
-Ja Office joprojām nav licencēts, lejupielādējiet un pēc tam palaidiet [aktivizācijas problēmu risinātāju](https://aka.ms/SARA-OfficeActivation-Alchemy) , lai novērstu aktivizēšanas problēmas.
+Ja Office joprojām nav licencēts, lejupielādējiet un [](https://aka.ms/SARA-OfficeActivation-Alchemy) pēc tam attiecīgajā datorā palaidiet aktivizācijas problēmu risinātāju, lai novērstu aktivizācijas problēmas.
   
-Papildinformāciju skatiet rakstā [nelicencēts produkts un aktivizācijas kļūdas sistēmā Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Papildinformāciju skatiet rakstā: [Nelicencēts produkts un aktivizācijas kļūdas Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

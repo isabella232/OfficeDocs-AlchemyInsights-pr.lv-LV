@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online vai OneDrive iestatīšana
+title: SharePoint Tiešsaistē OneDrive iestatījumi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093605"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online vai OneDrive "iestatīšana"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Tiešsaistē vai OneDrive "Iestatīšana"
 
-Kad lietotājs tiek pievienots esošam nomniekam, viņš var redzēt SharePoint Online vai OneDrive for Business ikonas, kas norādītas kā "iestatīšana" vai "mēs joprojām strādājam pie failu iestatīšanas", līdz tiek pabeigts nodrošināšanas process. Izmantojiet šo palīdzības [problēmu novēršanas rokasgrāmatu](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
+Kad lietotājs tiek pievienots esošam nomniekam, iespējams, ka SharePoint Online vai OneDrive darbam ikonas tiek rādītas kā "Iestatīšana" vai "Mēs joprojām strādājam, lai iegūtu failu iestatīšanu", līdz nodrošināšanas process ir pabeigts. Lai saņemtu [palīdzību, ievērojiet šo](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) problēmu novēršanas rokasgrāmatu.
 
-Ja kopš pirmo reizi redzēji šo problēmu, ir pagājušas vairāk nekā 24 stundas, lūdzu, piesakieties atbalsta lietu.
+Ja pēc vairāk nekā 24 stundām ir pagājusi šī problēma, lūdzu, reģistrējiet atbalsta gadījumu.
 
-Mēs saprotam, ka 24 stundas var šķist ilgāks laiks. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lai pabeigtu risinājumu, lūdzu, sniedziet mums vismaz 24 stundas.
+Mēs saprotam, ka 24 stundas var šķist ilgs laiks. Daudzos gadījumos mēs jau strādājam pie risinājuma. Lūdzu, sniedziet vismaz 24 stundas, lai pabeigtu risinājumu.

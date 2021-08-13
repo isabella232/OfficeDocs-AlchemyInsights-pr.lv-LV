@@ -12,38 +12,38 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936964"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Grupas pievienošana SharePoint vietnei
 
-Dažas SharePoint grupas vietnes (tostarp tās, kas izveidotas pakalpojumā Microsoft Teams), pārvalda Microsoft 365 grupas īpašnieki. SharePoint vietnes un saturu var koplietot arī ar Microsoft 365 grupām un ar SharePoint grupām. SharePoint grupa ir lietotāju kolekcija, kuriem visiem ir vienādas atļauju kopas vietnēm un saturam. Lai iegūtu klasiskas vietnes, iesakām izmantot grupas, lai ērti piešķirtu to pašu atļauju līmeni vairākiem cilvēkiem vienlaikus, nevis piešķirt atļaujas vienam lietotājam.
+Dažas SharePoint vietnes (tostarp tās, kas izveidotas programmā Microsoft Teams) pārvalda Microsoft 365 īpašnieki. SharePoint vietnes un saturu var koplietot arī ar Microsoft 365 grupām un ar SharePoint grupām. A SharePoint group is a collection of users who all have the same set of permissions to sites and content. Klasisko vietņu gadījumā ieteicams izmantot grupas, lai ērti piešķirtu vienu atļauju līmeni vienlaikus vairākām personām, nevis piešķirtu atļaujas vienai personai vienlaikus.
   
-Microsoft 365 grupas dalībnieku pārvaldība:
+Grupas Microsoft 365 pārvaldība:
   
-1. Dodieties uz [lapu grupas Microsoft 365 administrēšanas centrā](https://portal.office.com/adminportal/home#/groups).
+1. Dodieties [uz grupas lapu Microsoft 365 administrēšanas centrs.](https://portal.office.com/adminportal/home#/groups)
     
-2. Atlasiet grupu, lai skatītu tās īpašniekus un dalībniekus. Lai pievienotu vai noņemtu personas, noklikšķiniet uz saites **Rediģēt** **īpašnieku** vai **dalībnieku** rindā. 
+2. Atlasiet grupu, lai skatītu tās īpašniekus un dalībniekus. Lai pievienotu vai noņemtu personas, noklikšķiniet **uz saites** Rediģēt **rindā Īpašnieki** **vai** Dalībnieki. 
     
-Koplietojiet saziņas vietni ar Microsoft 365 grupu:
+Saziņas vietnes koplietošana ar Microsoft 365 grupu:
   
-1. Dodieties uz vietni pārlūkprogrammā un augšējā labajā stūrī noklikšķiniet uz **kopīgot vietni** . 
+1. Dodieties uz vietni pārlūkprogrammā un augšējā **labajā stūrī noklikšķiniet** uz Kopīgot vietni. 
     
-2. Ievadiet grupas nosaukumu un pēc tam atlasiet atļauju līmeni (lasīšana, rediģēšana vai pilna kontrole).
+2. Ievadiet grupas nosaukumu un pēc tam atlasiet atļauju līmeni (Lasīšana, Rediģēšana vai Pilnīga kontrole).
     
-Izveidojiet SharePoint grupu, ko izmantot ar klasisko vietni.
+Izveidojiet SharePoint, ko izmantot klasiskajā vietnē:
   
-1. Atveriet vietni pārlūkprogrammā un augšējā labajā stūrī noklikšķiniet uz ikonas iestatījumi.
+1. Dodieties uz vietni pārlūkprogrammā un noklikšķiniet uz Iestatījumi ikonas augšējā labajā stūrī.
     
-2. Noklikšķiniet uz **vietnes iestatījumi**un pēc tam sadaļā **lietotāji un atļaujas**noklikšķiniet uz **vietnes atļaujas**.
+2. Noklikšķiniet **uz Vietnes** iestatījumi un pēc tam sadaļā Lietotāji un **atļaujas** noklikšķiniet uz **Vietnes atļaujas.**
     
-3. Cilnē atļaujas noklikšķiniet uz **izveidot grupu**.
+3. Cilnē Atļaujas noklikšķiniet uz **Izveidot grupu.**
     
-[Klasiskās grupas vietnes savienošana ar jaunu Microsoft 365 grupu](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Savienošana grupas vietnes izveide jaunā Microsoft 365 grupā](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Papildinformācija par darbu ar SharePoint grupām](https://go.microsoft.com/fwlink/?linkid=874658)
   
