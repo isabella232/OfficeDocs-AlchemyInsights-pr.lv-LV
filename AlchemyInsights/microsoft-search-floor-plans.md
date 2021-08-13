@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992883"
 ---
 # <a name="floor-plans"></a>Stāvu stāvu plāni
 
-Informāciju par **Microsoft Search stāvu**  stāvu plāniem skatiet šādos atbalsta rakstos:
-- [Microsoft Search stāvu plānu labākā prakse](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+Lai iegūtu informāciju **Microsoft Search** stāvu stāvu stāvu plāniem, skatiet šos atbalsta rakstus:
+- [Labākā prakse stāvu Microsoft Search plānu ieviešanu](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
 - [Stāvu stāvu plānu pārvaldība](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Lai iegūtu informāciju par to, kā izveidot stāvu plānu programmā  **Visio**, skatiet [rakstu Stāva plāna izveide](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+- Informāciju par stāvu stāvu plāna veidojiet programmā **Visio**, skatiet [stāvu stāvu plāna izveide](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

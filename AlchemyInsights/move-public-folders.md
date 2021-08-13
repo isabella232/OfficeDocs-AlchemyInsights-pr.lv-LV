@@ -1,5 +1,5 @@
 ---
-title: Publisko mapju (-u) pārvietošana starp publisko mapju pastkastēm
+title: Publisko mapju(u) pārvietošana starp publisko mapju pastkastēm
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986232"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>Publisko mapju (-u) pārvietošana starp publisko mapju pastkastēm
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>Publisko mapju(u) pārvietošana starp publisko mapju pastkastēm
 
-Exchange Online publiskās mapes var pārvietot no publiskas mapju pastkastes, izmantojot Outlook darbam ar Windows datora klientu.
+Publiskās mapes tiešsaistē Exchange pārvietot starp publisko mapju pastkastēm, izmantojot Outlook Windows darbvirsmas klientā.
 
-Ja mēģināt pārvietot publiskas mapes no Exchange lokāli uz Exchange Online, skatiet šos rakstus:
+Ja mēģināt pārvietot publiskās mapes no lokālās Exchange uz Exchange, skatiet šos rakstus:
 
-[Exchange Server 2013, 2016, 2019 publiskajām mapēm migrēšana uz Exchange Online](https://aka.ms/ModernPFToEXO)
+[Migrējiet Exchange Server 2013 2016 2019 publiskās mapes uz Exchange tiešsaistē](https://aka.ms/ModernPFToEXO)
 
-[Exchange Server 2010 publisko mapju migrēšana uz Exchange Online](https://aka.ms/LegacyPFToEXO)
+[Migrējiet Exchange Server 2010 publiskās mapes uz Exchange Online](https://aka.ms/LegacyPFToEXO)

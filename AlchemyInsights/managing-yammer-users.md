@@ -1,5 +1,5 @@
 ---
-title: Yammer lietotāju pārvaldība
+title: Pārvaldīt Yammer lietotājus
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,29 +12,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992919"
 ---
-# <a name="managing-yammer-users"></a>Yammer lietotāju pārvaldība
+# <a name="managing-yammer-users"></a>Datu Yammer pārvaldība
 
-1. Informāciju par Yammer lietotāju pārvaldību no Microsoft 365 skatiet rakstā [Yammer lietotāju pārvaldība visā to dzīves ciklā](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Šeit ir ietverta detalizēta informācija par:
+1. Informāciju par to, kā pārvaldīt Yammer lietotājus no Microsoft 365, skatiet rakstā Yammer pārvaldība [to dzīves ciklā.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) Tajā ir iekļauta detalizēta informācija par:
 
   - Lietotāja izveide
 
   - Lietotāju dzēšana
 
-  - Yammer lietotāju pārvaldība no Microsoft 365
+  - Pārvaldīt Yammer lietotājus no Microsoft 365
 
-2. Informāciju par lietotāju pārvaldību no Yammer administrēšanas konsoles skatiet rakstā [Yammer lietotāju pievienošana, bloķēšana un noņemšana](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) . Šeit ietilpst:
+2. Informāciju par lietotāju pārvaldību no Yammer konsolē skatiet rakstā Lietotāju [pievienošana,](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) Yammer noņemšana. Tas ietver:
 
-  - Lietotāju uzaicināšana vai noņemšana
+  - Lietotāju uzaicināšanas vai noņemšanas
 
-  - Vieslietotāju uzaicināšana
+  - Viesa lietotāju uzaicinā
 
   - Lietotāju saraksta eksportēšana
 
-3. Informāciju par ārējo lietotāju pievienošanu, noņemšanu un pārvaldību skatiet rakstā [ārējo ziņojumapmaiņas dalībnieku pievienošana Yammer tīklā](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Informāciju par ārējo lietotāju pievienošanu, noņemšanu un pārvaldību skatiet rakstā [Ārējās ziņojumapmaiņas dalībnieku pievienošana Yammer tīklā.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)
