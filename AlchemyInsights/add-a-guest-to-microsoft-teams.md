@@ -1,5 +1,5 @@
 ---
-title: Viesa pievienošana darba grupām Microsoft Teams (Auto Suggest)
+title: Viesa pievienošana ģimenes Microsoft Teams (Automātiski ieteikt)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f21eae666d2b25380f184bb2c194e5d1c12812bb78309e6b09f9f497163b8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936604"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a>Viesa pievienošana lietojumprogrammā Microsoft Teams
+# <a name="add-a-guest-to-microsoft-teams"></a>Viesa pievienošana Microsoft Teams
 
-Dažkārt ir nepieciešams sadarboties ar personām, kuras nav jūsu grupas organizācijā. Bieži jūs to pa e-pastu darāt, bet, ja vēlaties sadarboties ar viņiem programmā Teams, varat tos pievienot kā viesus.
+Dažkārt ir nepieciešams sadarboties ar personām, kuras nav jūsu grupas organizācijā. Bieži vien jūs to darāt e-pasta ziņojumā, bet, ja vēlaties sadarboties ar viņiem programmā Teams, varat tos pievienot kā viesus.
 
-Papildinformāciju skatiet rakstā [Viesu pievienošana darba grupai programmā Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Papildinformāciju skatiet rakstā [Viesu pievienošana darba grupai programmā Teams.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-**Piezīme.** Lai programmā Teams pievienotu viesi, jums ir jābūt grupas īpašniekam (skatiet arī [sadaļu Viesu atļauju iestatīšana).](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)
+**Piezīme.** Lai programmā Teams pievienotu viesi, jums ir jābūt grupas īpašniekam (skatiet arī [sadaļu Viesu atļauju iestatīšana](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).

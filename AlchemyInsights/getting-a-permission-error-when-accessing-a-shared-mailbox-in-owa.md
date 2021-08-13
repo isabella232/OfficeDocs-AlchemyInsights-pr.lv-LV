@@ -1,5 +1,5 @@
 ---
-title: 124 saņem atļauju kļūdu, piekļūstot koplietojamai pastkastei OWA?
+title: 124 Vai, piekļūstot koplietojamai pastkastei OWA, tiek parādīts atļaujas kļūdas ziņojums?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913506"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Vai, atverot koplietojamu pastkasti programmā Outlook tīmeklī, tiek parādīts atļaujas kļūdas ziņojums?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Vai, atverot koplietojamu pastkasti programmā Outlook tīmeklī?
 
-Ja tiek parādīts kļūdas ziņojums, **kas radās nepareizi. Jums nav atļaujas atvērt šo pastkasti.** mēģinot atvērt koplietojamu pastkasti programmā Outlook tīmeklī, jūsu kontam, iespējams, nav atļaujas piekļūt koplietojamai pastkastei. Jūsu organizācijas administrators var piešķirt jūsu konta atļaujas koplietojamai pastkastei, izpildot norādījumus tēmā [koplietojamas pastkastes izveide](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Ja tiek parādīts kļūdas ziņojums **Radās kāda kļūda. Jums nav atļaujas atvērt šo pastkasti.** Mēģinot atvērt koplietojamu pastkasti programmā Outlook tīmeklī, jūsu kontam var nebūt atļaujas piekļūt koplietojamai pastkastei. Organizācijas administrators var piešķirt jūsu konta atļaujas koplietojamai pastkastei, izpildot norādījumus, kas sniegti [tēmā Koplietojamas pastkastes izveide.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

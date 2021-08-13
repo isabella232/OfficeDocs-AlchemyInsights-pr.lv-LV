@@ -1,5 +1,5 @@
 ---
-title: Piekļuve liegta IP ierobežojumu dēļ
+title: Piekļuve liegta IP ierobežojuma dēļ
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955388"
 ---
-# <a name="access-denied-due-to-ip-restriction"></a>Piekļuve liegta IP ierobežojumu dēļ
+# <a name="access-denied-due-to-ip-restriction"></a>Piekļuve liegta IP ierobežojuma dēļ
 
-Kā IT administrators varat kontrolēt piekļuvi SharePoint un OneDrive resursiem pakalpojumā Microsoft 365, pamatojoties uz noteiktām tīkla atrašanās vietām, kurām uzticaties. To sauc arī par atrašanās vietu. Papildinformāciju skatiet rakstā [piekļuves kontrole atkarībā no tīkla atrašanās vietas](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+Kā IT administrators varat kontrolēt piekļuvi interneta SharePoint un OneDrive resursiem Microsoft 365 pamatojoties uz definētām tīkla atrašanās vietām, kurām uzticaties. To sauc arī par atrašanās vietas politiku. Papildinformāciju skatiet rakstā Piekļuves [kontrole atkarībā no tīkla atrašanās vietas](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
 
