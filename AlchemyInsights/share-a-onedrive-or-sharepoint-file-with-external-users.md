@@ -1,5 +1,5 @@
 ---
-title: OneDrive vai SharePoint faila kopīgošana ar ārējiem lietotājiem
+title: Faila vai OneDrive SharePoint koplietošana ar ārējiem lietotājiem
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 242284b6300d871c52a7bf4a2975a121be738566
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d43150d3e11c3d15302231b919497d3a9876c05ddc720f46b1428d1f6f09eeb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094433"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive vai SharePoint faila vai mapes koplietošana ar ārējiem lietotājiem
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Koplietojiet OneDrive vai SharePoint failu vai mapi ar ārējiem lietotājiem
 
-1. Pārlūkprogrammā atveriet failu vai mapi, kuru vēlaties kopīgot, atlasiet to un pēc tam noklikšķiniet uz **kopīgot**.
+1. Pārlūkprogrammā atveriet failu vai mapi, kuru vēlaties kopīgot, atlasiet to un pēc tam noklikšķiniet uz **Kopīgot.**
     
-2. Dialoglodziņā Sūtīt saiti noklikšķiniet uz lejupvērstās bultiņas, lai mainītu saites tipu.
+2. Dialoglodziņā Saites nosūtīšana noklikšķiniet uz lejupvērstās bultiņas, lai mainītu saites tipu.
     
-3. Sadaļā **kurš vēlaties šo saiti**izmantot, atlasiet **ikviens** , ja vēlaties, lai adresāti varētu koplietot saiti vai **konkrētas personas** , kas sniedz piekļuvi tikai jūsu norādītajām personām. 
+3. Sadaļā **Kam vēlaties** izmantot šo saiti  atlasiet Ikviens, ja vēlaties, lai adresāti  varētu kopīgot saiti, vai Konkrētas personas, lai piešķirtu piekļuvi tikai jūsu konkrētām personām. 
     
-    Ja šīs opcijas nav pieejamas, pārliecinieties, vai tās ir atļautas jūsu organizācijai un vietņu kolekcijai. Lai to izdarītu, skatiet rakstu [ārējās koplietošanas ieslēgšana vai izslēgšana pakalpojumā SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    Ja šīs opcijas nav pieejamas, pārliecinieties, vai tās ir atļautas gan organizācijā, gan vietņu kolekcijā. Lai to paveiktu, [skatiet rakstu Ārējās koplietošanas ieslēgšana un izslēgšana SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
     
 4. Noklikšķiniet uz **Lietot**.
     
-5. Ievadiet to personu vārdus, ar kurām vēlaties koplietot, un pēc tam noklikšķiniet uz **nosūtīt**.
+5. Ievadiet to personu vārdus, ar kurām vēlaties kopīgot, un pēc tam noklikšķiniet uz **Nosūtīt.**
     
 

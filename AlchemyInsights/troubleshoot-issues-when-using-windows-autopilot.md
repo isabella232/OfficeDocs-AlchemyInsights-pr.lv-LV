@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana, izmantojot Windows Autopilot
+title: Problēmu novēršana, izmantojot Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008337"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problēmu novēršana, izmantojot Windows Autopilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problēmu novēršana, izmantojot Windows AutoPilot
 
-Ja jums ir problēmas ar Autopilot, skatiet sadaļu [Autopilot problēmu novēršana](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) un [zināmās problēmas](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Ja rodas problēmas ar AutoPilot, skatiet [lapu Autopilot problēmu](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) novēršana [un Zināmās](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) problēmas.
 
-Ja rodas problēmas ar Windows Autopilot, kas tiek pārtraukta reģistrācijas statusa lapā (ESP) posmā, lūdzu, pārskatiet šo dokumentu, lai uzzinātu, kā novērst problēmu. [Informācija un problēmu novēršana lapā reģistrācijas statuss](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Ja rodas problēmas ar autoPilot Windows AutoPilot pārtraukšana reģistrācijas statusa lapas (ESP) fāzē, lūdzu, pārskatiet tālāk norādīto dokumentu, lai saņemtu ieteikumus par to, kā novērst problēmu. [Informācija par reģistrācijas statusa lapu un tās problēmu novēršana](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Ja meklējat izmēģināt Autopilot ar uzņēmumiem 2 ierīcēm, lūdzu, pārliecinieties, vai ievadāt[Windows Autopilot, lai iegūtu uzņēmumiem 2](https://docs.microsoft.com/hololens/hololens2-autopilot) dokumentāciju. Tas palīdzēs saprast priekšnoteikumus un ieteicamās darbības, kas jāveic, lai reģistrētu uzņēmumiem 2, izmantojot Autopilot  
+Ja vēlaties izmēģināt Autopilot ar Hololens 2 ierīcēm, noteikti pārskatiet dokumentāciju " Windows[Autopilot HoloLens 2.](https://docs.microsoft.com/hololens/hololens2-autopilot) Tas palīdzēs jums izprast priekšnosacījums un ieteicamās darbības Hololens 2 reģistrācijai, izmantojot Autopilot  
 
-Papildinformāciju par Windows Autopilot iestatīšanu skatiet rakstā [Windows ierīču piereģistrēšana Intune, izmantojot Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Papildinformāciju par Autopilot Windows skatiet rakstā Windows reģistrēšana [Intune, izmantojot Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

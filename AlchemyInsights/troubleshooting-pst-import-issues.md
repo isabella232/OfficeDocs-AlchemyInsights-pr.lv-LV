@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972426"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>PST importēšanas problēmu novēršana
 
-- Ja importējat Pašā Outlook klientā, skatiet rakstu [Outlook .pst faila importēšanas problēmu novēršana.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Ja importējat pašā klienta Outlook, skatiet rakstu Ar [.pst faila importēšanu Outlook problēmu novēršana.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
 - Ja izmantojat importēšanas pakalpojumu un tas iestrēgst, ņemiet vērā, ka katrs PST fails, ko augšupielādējat Azure krātuves atrašanās vietā, nedrīkst būt lielāks par 20 GB. PST faili, kas ir lielāki par 20 GB, var ietekmēt PST importēšanas procesa veiktspēju. Lai iegūtu papildinformāciju par problēmu novēršanu saistībā ar [iestrēgušiem darbiem, skatiet rakstu Problēmas, kas ietekmē PST importēšanas darbus.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

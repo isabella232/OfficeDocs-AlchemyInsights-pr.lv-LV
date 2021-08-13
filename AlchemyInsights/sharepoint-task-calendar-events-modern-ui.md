@@ -1,5 +1,5 @@
 ---
-title: Uzdevumu un kalendāra notikumu saraksts modernā UI
+title: Uzdevumu un kalendāra notikumu saraksts mūsdienīgā lietotāja interfeisā
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941339"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Uzdevumu un kalendāra notikumu saraksts modernā UI
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Uzdevumu un kalendāra notikumu saraksts mūsdienīgā lietotāja interfeisā
 
-Mēģinot tās attēlot mūsdienīgā skatā, var tikt parādīta kļūda "Title", kā arī `< ID >_.000` uzdevumu un notikumu saraksts.
+Mēģinot tos atveidot modernajā skatā, var tikt parādīta kļūda "Virsraksts" kā UZDEVUMU un NOTIKUMU `< ID >_.000` sarakstos.
 
-Daži sarakstu un bibliotēku tipi vēl nav izveidoti, lai tie tiktu rādīti mūsdienīgā lietotāja interfeisā, piemēram, uzdevumu sarakstā vai notikumu sarakstā.
+Daži sarakstu un bibliotēku tipi vēl nav iebūvēti, lai tie tiktu rādīti mūsdienīgā lietotāja interfeisā, piemēram, uzdevumu sarakstā vai notikumu sarakstā.
 
-Viens no mūsu prioritārajiem vienumiem ir atbalstīt uzdevumu un notikumu sarakstus kā daļu no modernā UX. Taču mums šim atbalstam nav ETA, tāpēc, lūdzu, turpiniet izmantot klasisko pieredzi šiem sarakstiem.
+Viens no prioritātes vienumiem mums ir atbalstīt UZDEVUMU un NOTIKUMU sarakstus kā daļu no modernā UX. Tomēr šim atbalsta dienestam nav e-pasta pakalpojumu, tāpēc turpiniet izmantot klasisko pieredzi šiem sarakstiem.
 
-Lai iegūtu papildinformāciju, apmeklējiet sadaļu [moderno sarakstu un bibliotēku izmantošanas maksimāla izmantošana](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Lai iegūtu papildinformāciju, apmeklējiet [vietni Modernu sarakstu un bibliotēku maksimizēšana.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)

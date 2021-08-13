@@ -1,5 +1,5 @@
 ---
-title: Ārējās koplietošanas ieslēgšana un izslēgšana pakalpojumā SharePoint
+title: Ārējās koplietošanas ieslēgšana un izslēgšana SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dcba3ff83c4fa4db2e687ca9236ee8732102c431edc265b9856c94c126708d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941375"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Brīdinājuma ziņojums: jūsu organizācijas politikas neļauj koplietot ar šiem lietotājiem
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Brīdinājuma ziņojums: Jūsu organizācijas politikas neļauj koplietot ar šiem lietotājiem
 
-Mēģinot koplietot ar savas organizācijas ārējiem lietotājiem, lietotāji var novērot brīdinājuma ziņojumu. Ziņojums ir **jūsu organizācijas politikas neļauj koplietot šos lietotājus. Dodieties uz ārējo koplietošanu Microsoft 365 administrēšanas centrā, lai to iespējotu**. Tas parasti notiek, kad pirmo reizi mēģināt koplietot ar ārējiem lietotājiem, vai koplietojot ar jaunajiem ārējiem lietotājiem.
+Mēģinot koplietot datus ar ārējiem jūsu organizācijas lietotājiem, lietotājiem var tikt parādīts brīdinājuma ziņojums. Ziņojums Ir **tas, ka jūsu organizācijas politikas neļauj koplietot informāciju ar šiem lietotājiem. Lai to iespējotu, lapā Microsoft 365 administrēšanas centrs Ārējā koplietošana**. Tā bieži notiek pirmajā reizē, kad tiek mēģināts koplietot ar ārējiem lietotājiem vai koplietot ar jauniem ārējiem lietotājiem.
 
-Pārbaudiet savas organizācijas **SharePoint un OneDrive ārējās koplietošanas iestatījumus** .
+Pārbaudiet SharePoint **un OneDrive ārējās koplietošanas** iestatījumus savā organizācijā.
 
-1. Savā [Microsoft 365 administrēšanas centrā](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)atlasiet **SharePoint**.
-3. Atlasiet **koplietošana** , lai skatītu ārējās koplietošanas iestatījumus.
+1. Savā [Microsoft 365 administrēšanas centrs](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)atlasiet **SharePoint**.
+3. Atlasiet **Koplietošana,** lai skatītu ārējās koplietošanas iestatījumus.
 
-Pārbaudiet noteiktas vietnes **ārējās koplietošanas iestatījumus** .
+Pārbaudiet ārējās **koplietošanas iestatījumus** noteiktā vietnē.
 
-1. Savā [Microsoft 365 administrēšanas centrā](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)atlasiet **SharePoint**.
-2. Atlasiet **aktīvās vietnes** , lai skatītu pieejamās vietnes.
-3. Atlasiet vietni, kuru vēlaties pārbaudīt, un pēc tam atlasiet **koplietošanas** pogu, kas tiek parādīta izvēļņu joslā, lai pārbaudītu vietnes iestatījumus.
+1. Savā [Microsoft 365 administrēšanas centrs](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)atlasiet **SharePoint**.
+2. Atlasiet **Aktīvās vietnes,** lai skatītu pieejamās vietnes.
+3. Atlasiet vietni, kuru vēlaties pārbaudīt,  un pēc tam atlasiet kopīgošanas pogu, kas tiek parādīta izvēļņu joslā, lai pārbaudītu vietnes iestatījumus.
 
-Papildinformāciju skatiet rakstā [ārējas koplietošanas pārskats](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Papildinformāciju skatiet rakstā [Ārējās koplietošanas pārskats](https://docs.microsoft.com/sharepoint/external-sharing-overview).
