@@ -1,5 +1,5 @@
 ---
-title: Lietojumprogrammas reģistrācija
+title: Programmas reģistrācija
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969618"
 ---
-# <a name="application-registration"></a>Lietojumprogrammas reģistrācija
+# <a name="application-registration"></a>Programmas reģistrācija
 
-1. [Lietojumprogrammas reģistrēšana, izmantojot Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): Šajā apmācībā ir aprakstīts, kā reģistrēt lietojumprogrammu Azure Active Directory, kas ļauj lietotājam ar Power Apps lietotāja kontu, lai izveidotu savienojumu ar Microsoft Dataverse vidi no ārējo klientu lietojumprogrammām, izmantojot OAuth autentifikāciju.
-1. [Lietojumprogrammas reģistrēšana, izmantojot Microsoft identitātes platformu](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): šajā Quickstart, varat reģistrēt programmu Azure portālā, lai Microsoft Identity Platform var nodrošināt jūsu lietojumprogrammas un tās lietotāju autentifikācijas un autorizācijas pakalpojumus.
+1. Reģistrēt lietojumprogrammu, izmantojot [Azure Active Directory:](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)Šajā apmācībā aprakstīts, kā reģistrēt lietojumprogrammu, izmantojot Azure Active Directory, kas ļauj lietotājam ar Power Apps lietotāja kontu veidot savienojumu ar savu Microsoft Dataverse vidi no ārējām klienta lietojumprogrammām, izmantojot OAuth autentifikāciju.
+1. [Reģistrējiet lietojumprogrammu, izmantojot Microsoft indentitāšu platforma](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): Šajā ātrajā pamācībā reģistrējiet lietojumprogrammu Azure portālā, lai Microsoft indentitāšu platforma var nodrošināt jūsu lietojumprogrammas un tās lietotāju autentifikācijas un autorizācijas pakalpojumus.

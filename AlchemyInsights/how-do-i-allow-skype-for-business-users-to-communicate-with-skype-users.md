@@ -1,5 +1,5 @@
 ---
-title: Kā atļaut Skype darbam lietotājiem sazināties ar Skype lietotājiem
+title: Kā atļaut lietotājiem Skype darbam sazināties ar Skype lietotājiem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927728"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Skype darbam lietotāju pievienošana Skype kontaktpersonām
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Ļaujiet Skype darbam pievienot Skype kontaktpersonas
 
-Izmantojot Skype darbam, lietotāji var meklēt un sīkmaiņu ar visiem lietotājiem, kuri izmanto Skype, bezmaksas programmu. Šajā rakstā izskaidrots, kas jums ir jādara, lai tās varētu pievienot Skype kontaktpersonas.
+Izmantojot Skype darbam, lietotāji var meklēt bezmaksas programmu un veikt im Skype lietotājus. Šajā rakstā ir paskaidrots, kā rīkoties, lai tās varētu pievienot Skype kontaktpersonas.
 
-[Skype darbam lietotāju pievienošana Skype kontaktpersonām](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Ļaujiet Skype darbam pievienot Skype kontaktpersonas](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

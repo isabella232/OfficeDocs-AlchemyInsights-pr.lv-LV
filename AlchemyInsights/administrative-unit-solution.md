@@ -1,5 +1,5 @@
 ---
-title: Administratīvo vienību risinājums
+title: Administratīvās vienības risinājums
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: c32d0652642fa4143b037662809f3ca5dec079f0
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: 93b77f0a23bc53035d63e08869067aff25270aed559d7cddded04aaa92285302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885059"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952472"
 ---
-# <a name="administrative-unit-solution"></a>Administratīvo vienību risinājums
+# <a name="administrative-unit-solution"></a>Administratīvās vienības risinājums
 
-1. Nodrošiniet, lai lietotājs, kas izveido administratīvās vienības un piešķirtu lomas, būtu globālais administrators vai privilēģiju lomas administrators.
-2. Pārliecinieties, vai lietotājus piešķirat tieši administratīvajām vienībām. Grupas piešķiršana administratīvai vienībai nepiešķir visiem grupas dalībniekiem administratīvo vienību.
-3. Lai veiktu lielapjoma darbību administratīvā vienībā, izmaiņas var būt laikietilpīgas attiecībā uz UI atkarībā no dažādiem faktoriem (-iem), piemēram, pašreizējā pakalpojuma slodze.
+1. Nodrošiniet, lai lietotājs, kurš izveido administratīvās vienības un piešķir lomas, būtu globālais vai privilēģiju lomas administrators.
+2. Pārliecinieties, vai lietotājus piešķirat tieši administratīvajām vienībām. Piešķirot grupu administratīvajai vienībai, visi grupas dalībnieki netiek piesaistīti administratīvajai vienībai.
+3. Lielapjoma darbībai, kas tiek veikta administratīvajā vienībā, var paiet laiks, līdz izmaiņas tiek atspoguļotas lietotāja interfeisā atkarībā no dažādiem faktoriem, piemēram, pašreizējās pakalpojuma slodzes.
 
-Detalizētu informāciju par administratīvajām vienībām skatiet rakstā [lomu pārvaldība administratīvajā vienībā](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).
+Papildinformāciju par administratīvajām vienībām skatiet [rakstā Lomu pārvaldība administratīvajā vienībā.](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)
