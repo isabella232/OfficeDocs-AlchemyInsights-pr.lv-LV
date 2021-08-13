@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967304"
 ---
 # <a name="questions-and-issues-with-resource-access"></a>Jautājumi un problēmas ar resursu piekļuvi
 
-Lai iegūtu informāciju par profila tipiem Intune atbalsta, lai lietotāji varētu piekļūt korporatīvajai infrastruktūrai un resursiem, skatiet:
+Informāciju par profila tipiem, ko Intune atbalsta, lai lietotājiem iespējotu piekļuvi uzņēmuma infrastruktūrai un resursiem, skatiet šeit:
 
-- [Wi-Fi iestatījumu pievienošana un lietošana ierīcēs programmā Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
-- [E-pasta iestatījumu pievienošana ierīcēs, izmantojot Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [Autentifikācijai izmantot sertifikātus pakalpojumā Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [VPN profilu izveide, lai izveidotu savienojumu ar VPN serveriem Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [Lai pievienotu Wi-Fi iestatījumus savām ierīcēm programmā Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [E-pasta iestatījumu pievienošana ierīcēm, izmantojot Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
+- [Autentifikācijai izmantojiet sertifikātus Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [VPN profilu izveide savienojuma izveidei ar VPN serveriem in Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Papildinformācija...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948170"
 ---
 # <a name="delete-a-site"></a>Vietnes dzēšana
 
-Dzēšot vietni, tā tiek pārvietota uz izdzēstajām vietnēm un tiek paturēta 93 dienām. Lai izdzēstu vietni, dodieties uz sadaļu [aktīvās vietnes](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Dzēšot vietni, tā tiek pārvietota uz izdzēsto vietņu mapi un tiek saglabāta 93 dienas. Lai izdzēstu vietni, dodieties uz [sadaļu Aktīvās vietnes](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Dzēšot vietni, viss tās saturs tiek izdzēsts, ieskaitot:
+Dzēšot vietni, tiek izdzēsts viss tās ietverais, tostarp:
 
 - Dokumentu bibliotēkas un faili.
-- Saraksti un sarakstu dati.
+- Saraksti un saraksta dati.
 - Vietnes iestatījumi un vēsture.
 - Visas apakšvietnes un to saturs.
 
-Pirms vietnes dzēšanas jums jāpaziņo vietnes administratoriem un jebkuriem apakšvietņu īpašniekiem, lai viņi varētu pārvietot savus datus uz citu atrašanās vietu, kā arī lietotājiem norādīt, kad vietnes tiks dzēstas.
+Pirms vietnes izdzēšanas jums jāinformē vietnes administratori un apakšvietņu īpašnieki, lai viņi varētu pārvietot savus datus uz citu atrašanās vietu un arī norādīt lietotājiem, kad vietnes tiks izdzēstas.
 
-Papildinformāciju skatiet rakstā [vietnes dzēšana](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Papildinformāciju skatiet [rakstā Vietnes dzēšana.](https://docs.microsoft.com/sharepoint/delete-site-collection)

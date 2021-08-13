@@ -1,5 +1,5 @@
 ---
-title: Ārēja koplietošana ar grupas vietni
+title: Ārējā koplietošana ar grupas vietni
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977700"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Ārēja koplietošana ar grupas vietni
+# <a name="external-sharing-with-a-team-site"></a>Ārējā koplietošana ar grupas vietni
 
-Lai ieslēgtu ārēju lietotāju koplietošanu grupas vietnēs, veiciet tālāk norādītās darbības. 
+Lai ieslēgtu ārējo lietotāju koplietošanu grupas vietnēs, veiciet tālāk norādītās darbības. 
   
-1. Jaunajā SharePoint administrēšanas centrā noklikšķiniet uz **aktīvās vietnes**.
+1. Jaunajā administrēšanas SharePoint noklikšķiniet uz **Aktīvās vietnes.**
   
-2. Atlasiet vietni ar **grupas vietnes** veidni. 
+2. Atlasiet vietni, kurā ir **grupas vietnes** veidne. 
   
-3. Augšējā izvēlnē atlasiet pogu **kopīgot** . 
+3. Augšējā **izvēlnē** atlasiet pogu Sharing (Koplietošana). 
   
- **Piezīme**: pēc noklusējuma, kad tiek izveidota mūsdienīga grupas vietne, ārējas koplietošanas opcija tiks iestatīta uz jauni un esošie ārējie lietotāji. 
+ **Piezīme.** Pēc noklusējuma, veidojot mūsdienīgu grupas vietni, ārējās koplietošanas opcija tiks iestatīta kā Jauni un esošie ārējie lietotāji. 
   
- **Piezīme:** Ja ir atlasīta vairāk nekā viena vietne, **koplietošanas** poga tiks parādīta kā atspējots. Jāatlasa tikai viena vietne. 
+ **Piezīme.** Ja ir atlasītas vairākas vietnes, koplietošanas **poga tiks** parādīta atspējota. Atlasiet tikai vienu vietni. 
   
 
