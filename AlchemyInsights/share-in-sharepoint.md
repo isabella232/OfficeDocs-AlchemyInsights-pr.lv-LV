@@ -1,5 +1,5 @@
 ---
-title: Kopīgošana koplietošanas vidē SharePoint
+title: Koplietošana SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094289"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Koplietošana pakalpojumā SharePoint Online
+# <a name="how-to-share-in-sharepoint-online"></a>Kopīgošana programmā SharePoint Online
 
 Lai kopīgotu vietni:
   
 1. Atveriet vietni tīmekļa pārlūkprogrammā.
     
-2. Ja vietne pieder Microsoft 365 grupai, augšējā labajā stūrī noklikšķiniet uz ikonas Iestatījumi un pēc tam noklikšķiniet uz **vietnes atļaujas**. Noklikšķiniet uz **uzaicināt personas**un pēc tam izvēlieties pievienot dalībniekus Microsoft 365 grupai vai kopīgot tikai vietni. 
+2. Ja vietne pieder kādai Microsoft 365, augšējā labajā Iestatījumi noklikšķiniet uz ikonas Vietnes atļaujas un pēc tam uz **Vietnes atļaujas.** Noklikšķiniet **uz Uzaicināt** personas un pēc tam izvēlieties pievienot dalībniekus Microsoft 365 grupai vai kopīgot tikai vietni. 
     
-    Saziņas vietnē, augšējā labajā stūrī noklikšķiniet uz **kopīgot vietni** , ievadiet personas vārdu un pēc tam atlasiet atļauju līmeni (lasīt, rediģēt vai pilna vadīkla). 
+    Saziņas vietnes augšējā labajā **stūrī** noklikšķiniet uz Kopīgot vietni, ievadiet personas vārdu un pēc tam atlasiet atļauju līmeni (Lasīt, Rediģēt vai Pilna kontrole). 
     
-    Lai iegūtu klasisku grupas vietni, augšējā labajā stūrī noklikšķiniet uz **kopīgot** . Ievadiet tās personas vārdu, kuru vēlaties uzaicināt, vai ierakstiet visu, lai kopīgotu ar ikvienu savu organizāciju. Noklikšķiniet uz **kopīgot**.
+    Klasiskas grupas vietnes augšējā **labajā stūrī** noklikšķiniet uz Kopīgot. Ievadiet tās personas vārdu, kuru vēlaties uzaicināt, vai ierakstiet Ikviens, lai kopīgotu ar visiem lietotājiem jūsu organizācijā. Noklikšķiniet **uz Kopīgot**.
     
 [Uzziniet, kā kopīgot failu vai mapi](https://go.microsoft.com/fwlink/?linkid=511430)
   

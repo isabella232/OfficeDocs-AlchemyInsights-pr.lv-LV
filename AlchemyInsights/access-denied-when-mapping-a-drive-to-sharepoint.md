@@ -1,5 +1,5 @@
 ---
-title: Piekļuve liegta, kartējot disku pakalpojumā SharePoint
+title: Kartējot disku uz tīmekļa karti, piekļuve SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938738"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Problēmu novēršana saistībā ar SharePoint bibliotēkām, kas kartētas uz tīkla diskiem
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Problēmu novēršana saistībā SharePoint bibliotēkām, kas kartētas tīkla diskos
 
-Pārlūkojot uz kartētu tīkla disku, iespējams, redzēsit kādu no tālāk norādītajiem ziņojumiem.
+Pārlūkojot līdz kartēta tīkla diskam, iespējams, redzēsit kādu no šiem ziņojumiem:
   
-- **\\Ceļš nav pieejams. Iespējams, jums nav atļaujas izmantot šo tīkla resursu. Lai uzzinātu, vai jums ir piekļuves atļaujas, sazinieties ar šī servera administratoru.**
+- **\\Ceļš nav pieejams. Iespējams, jums nav atļaujas izmantot šo tīkla resursu. Sazinieties ar šī servera administratoru, lai uzzinātu, vai jums ir piekļuves atļaujas.**
 
-- **Piekļuve liegta. Pirms failu atvēršanas šajā atrašanās vietā vispirms jāpievieno tīmekļa vietne uzticamo vietņu sarakstam, pārlūkojiet līdz tīmekļa vietnei un atlasiet opciju pieteikties automātiski.**
+- **Piekļuve liegta. Pirms atvērt failus šajā atrašanās vietā, vispirms pievienojiet tīmekļa vietni savam uzticamo vietņu sarakstam, pārlūkojiet līdz tīmekļa vietnei un atlasiet opciju, lai automātiski pieteiktos.**
 
-[Saņemiet palīdzību saistībā ar kartētiem tīkla diskiem](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[Saņemiet palīdzību par kartēto tīkla disku problēmu novēršanu.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-Bibliotēkas kā tīkla diska kartēšana ir īslaicīga un atbalstīta tikai pārlūkprogrammā Internet Explorer. Tā vietā [Sinhronizējiet SharePoint failus ar jauno OneDrive sinhronizācijas klientu](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , kurā ir iekļauti [faili pēc pieprasījuma](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Piekļūstiet visiem saviem failiem pakalpojumā OneDrive, neizmantojot lokālo krātuves vietu.
+Bibliotēkas kartēšana tīkla diska atrašanās vietā ir īslaicīga un tiek atbalstīta tikai pārlūkprogrammā Internet Explorer. Tā vietā [sinhronizējiet SharePoint ar jauno OneDrive sinhronizācija klientu,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) kurā [iekļauti faili pēc pieprasījuma.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) Piekļūstiet visiem saviem failiem pakalpojumā OneDrive, neizmantojot lokālo krātuves vietu.
   
