@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4a42eff05c07645eb4b691134ffa410fedcbbfabe904a74a9827fc4e1934d7a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975154"
 ---
 # <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Problēmu novēršana saistībā ar trūkstošiem kalendāra vienumiem un to dublikātiem
 
-Informāciju par to, kā novērst problēmas saistībā ar trūkstošiem tikšanās ierakstiem un tikšanās dublikātiem, izmantojot programmu Microsoft Outlook un Microsoft Exchange Server, skatiet rakstā Problēmu novēršana trūkstošu tikšanās gadījumu un tikšanos dublikātu gadījumā [programmā Outlook.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)
+Informāciju par to, kā novērst problēmas saistībā ar trūkstošu un dublētu tikšanos, ja izmantojat Microsoft Outlook un Microsoft Exchange Server, skatiet rakstā Problēmu novēršana trūkstošu un dublētu tikšanos gadījumā programmā [Outlook.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)

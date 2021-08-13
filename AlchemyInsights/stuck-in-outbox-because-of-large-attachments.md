@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940970"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Izsūtnē iestrēgušiem ziņojumiem labošana, izmantojot SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Izsūtnē iestrēgugu ziņojumu labošana, izmantojot SaRA
 
-Ir ieteicams palaist scenāriju ["Man](https://aka.ms/SaRA-OutlookSendReceive) rodas problēmas ar e-pasta ziņojumu sūtīšanu, saņemšanu vai atrašanu" ietekmētajā datorā, izmantojot Microsoft atbalsta un atkopšanas palīga [(SaRa)](https://diagnostics.office.com/#/) rīku.
+Ir ieteicams palaist scenāriju ["Man](https://aka.ms/SaRA-OutlookSendReceive) rodas problēmas ar e-pasta ziņojumu sūtīšanu, saņemšanu vai atrašanu" ietekmētajā datorā no [Microsoft atbalsta un atkopšanas palīgs (SaRa)](https://diagnostics.office.com/#/) rīka.

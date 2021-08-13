@@ -13,28 +13,28 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e72766f441e210a81fcfd6c07b1801f6c0474afb02a70edf2ad8dbb571f3d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974964"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>E-pasta pārvietošana uz arhīva pastkasti
 
-Ja vēlaties, lai mēs veiktu automatizētās pārbaudes par tālāk norādītajiem iestatījumiem, atlasiet pogu atpakaļ < — šīs lapas augšdaļā un pēc tam ievadiet tā lietotāja e-pasta adresi, kuram ir problēmas ar e-pasta pārvietošanu uz viņu arhīva pastkasti.
+Ja vēlaties, lai mēs automatizēti meklētu tālāk minētos iestatījumus, atlasiet pogu Atpakaļ <- šīs lapas augšdaļā un pēc tam ievadiet tā lietotāja e-pasta adresi, kuram radušās problēmas ar e-pasta pārvietošanu uz arhīva pastkasti.
 
-1. Apstipriniet, ka **arhīva pastkaste** ir iespējota. Ja ne, veiciet [šajā rakstā](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) norādītās darbības, lai iespējotu arhīva pastkasti.
+1. Pārliecinieties, **vai arhīva** pastkaste ir iespējota. Ja tā nav, veiciet šajā rakstā [norādītās darbības,](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) lai iespējotu arhīva pastkasti.
 
-2. Lai automātiski arhivētu ziņojumus arhīva pastkastei, saglabāšanas tagam ar darbību **Pārvietot uz arhivēšanu** ir jāiestata **automātiski lietot visam pastkastes (noklusējuma) tagam**. Veiciet šeit norādītās darbības, lai izveidotu atzīmi: [Arhivēt noklusējuma atzīmi](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Lai ziņojumus automātiski arhivētu arhīva pastkastē, saglabāšanas atzīmei ar darbību Pārvietot uz arhivēšanu jābūt iestatītai automātiskai visai pastkastei **(noklusējuma) atzīmei**.  Veiciet šeit norādītās darbības, lai izveidotu atzīmi: [Arhivēšanas noklusējuma atzīme](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Pēc tam pievienojiet **arhīva** atzīmi savam saglabāšanas politikai. Exchange administrēšanas centrā izvēlieties **saglabāšanas politikas** > pievienot **pāriešanai uz arhīva atzīmi** politikas > **Saglabāt**.
+3. Pēc tam saglabāšanas politikai **pievienojiet** atzīmi Arhīvs. Administrēšanas Exchange izvēlieties Saglabāšanas **politikas** un > pievienot atzīmi Pārvietot uz **arhīvu** politikas lapā > **Saglabāt.**
 
-4. Tagad [Piešķiriet saglabāšanas politiku](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) konkrētam lietotāja pastkastei. Viena un tā pati politika tiek lietota gan **primārajai** , gan **arhīva** pastkastei.
+4. Tagad [piešķiriet saglabāšanas](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) politiku konkrētā lietotāja pastkastei. Viena un tā pati politika tiks lietota gan **primārajai,** gan **arhīva pastkastei.**
 
-Iespējams, ka ir jāspiež pārvaldītā mapes asistents (MFA), lai palaistu un lietotu jaunos iestatījumus lietotāja pastkastē. Izpildiet šādu komandu, kamēr ir [izveidots savienojums ar EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , lai startētu pārvaldīto mapju palīgu noteiktai pastkastei.
+Iespējams, būs nepieciešams piespiest pārvaldīto mapju palīgu (Managed Folder Assistant - MFA), lai palaistu un lietotu jaunos iestatījumus lietotāja pastkastē. Izpildiet šādu komandu, kamēr [ir izveidots savienojums ar EXO PowerShell,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) lai startētu pārvaldāmās mapes palīgu konkrētai pastkastei:
   
-Start-ManagedFolderAssistant-Identity <name of the mailbox>
+Start-ManagedFolderAssistant -Identity <name of the mailbox>
 
-Papildinformāciju par arhīva politikas iestatīšanu skatiet rakstā [arhivēšanas un dzēšanas politikas iestatīšana pastkastēm](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Papildinformāciju par arhīva politikas iestatīšanu skatiet rakstā [Arhīva un dzēšanas politikas iestatīšana pastkastēm.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)
   

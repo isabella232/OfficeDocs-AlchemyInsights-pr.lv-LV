@@ -1,5 +1,5 @@
 ---
-title: 414 meklēšanas pieredze atjaunināta
+title: 414 Atjauninātas meklēšanas iespējas
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958556"
 ---
-# <a name="search-experience-updated"></a>Meklēšanas pieredze ir atjaunināta
+# <a name="search-experience-updated"></a>Atjauninātas meklēšanas iespējas
 
-Meklēšana tagad atrodas lietojumprogrammas apakšdaļā. Pieskaroties tam, varat tieši piekļūt savām galvenajām kontaktpersonām, gaidāmajiem ceļojumu ceļvežiem, paku piegādēm un pēdējiem pielikumiem. Varat meklēt e-pasta ziņojumus, failus un kontaktpersonas jebkurā no saviem kontiem, izmantojot vienu meklēšanas lodziņu, vai izmantot mūsu jaunos filtrus, lai sašaurinātu meklēšanu.
+Tagad meklēšana atrodas programmas lejasdaļā. Ja tai pieskarsies, jūs tieši varat piekļūt savām populārākajām kontaktpersonām, nākamo ceļojumu maršrutiem, sūtījumu piegādei un neseniem pielikumiem. Varat meklēt e-pasta ziņojumus, failus un kontaktpersonas jebkurā savā kontā, izmantojot vienu meklēšanas lodziņu, vai arī varat sašaurināt meklēšanu, izmantojot mūsu jaunos filtrus.

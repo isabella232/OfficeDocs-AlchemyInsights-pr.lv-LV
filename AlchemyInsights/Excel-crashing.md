@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804820"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918474"
 ---
-# <a name="frequent-excel-crashes"></a>Vai programma Excel bieži avarē?
+# <a name="frequent-excel-crashes"></a>Vai bieži Excel notiek avārija?
 
-Biežākās avārijas programmā Excel var izraisīt kļūdaina pievienojumprogramma. Excel pievienojumprogrammu var atspējot, izpildot tālāk sniegtos norādījumus.
+Biežākās avārijas Excel var izraisīt kļūdaina pievienojumprogramma. Lai atspējotu pievienojumprogrammu Excel izpildot tālāk sniegtos norādījumus.
   
 1. Izvēlieties **Faila** \> **opcijas**, \> **Pievienojumprogrammas**.
 
@@ -29,11 +29,11 @@ Biežākās avārijas programmā Excel var izraisīt kļūdaina pievienojumprogr
 3. Lodziņā Add-Ins notīriet izvēles rūtiņu blakus pievienojumprogrammai, kuru vēlaties atspējot, un pēc tam noklikšķiniet uz **Labi.**
 
 > [!NOTE]
-> Ja excel avarē palaišanas laikā, lūdzu, palaidiet to drošajā režīmā, nospiežot un turot taustiņu Ctrl, kamēr startējat programmu.
+> Ja Excel avarēšanu palaišanas laikā, lūdzu, palaidiet to Seifs režīmā, nospiežot un turot taustiņu Ctrl, kamēr startējat programmu.
   
 Ja joprojām rodas problēmas, skatiet šos rakstus:
   
-- [Startējot Office 2016 vai 2013 lietojumprogrammas datorā, tiek parādīts kļūdas ziņojums "pārtrauca darboties"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Startējot programmu Office 2016 vai 2013 datorā, tiek parādīts kļūdas ziņojums "pārstāja darboties"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
 - [Kā novērst avārijas un nereaģēt problēmas ar Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 

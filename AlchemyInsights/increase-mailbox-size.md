@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913145"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Abonementu maiņa, lai palielinātu pastkastes lielumu
 
 Ja jūsu pastkastes lielums jau ir 100 GB, to vairs nevar palielināt.
   
-Ja pastkastes lielums ir 50 GB, to var palielināt līdz 100 GB, pārslēdzoties uz [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vai [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Lai pārslēgtos uz citu abonementu, veiciet tālāk norādītās darbības.
+Ja pastkastes lielums ir 50 GB, varat palielināt pastkasti līdz 100 GB, pārslēdzoties uz [E3 Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) [vai Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Lai pārslēgtos uz citu abonementu, veiciet tālāk norādītās darbības.
   
-1. Microsoft 365 administrēšanas centrā dodieties uz **lapu** \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
+1. Norēķinu Microsoft 365 administrēšanas centrs lapā  \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
 
 2. Atlasiet abonementu, kuru vēlaties jaunināt.
 
