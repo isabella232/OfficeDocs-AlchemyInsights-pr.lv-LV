@@ -1,5 +1,5 @@
 ---
-title: Kontaktpersonu pievienošana ātrā zvanīšanai
+title: Kontaktpersonu pievienošana ātrās numuru sastādīšanas tastatūrā
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954560"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Kontaktpersonu pievienošana ātrā zvanīšanai
+# <a name="add-contacts-to-speed-dial"></a>Kontaktpersonu pievienošana ātrās numuru sastādīšanas tastatūrā
 
-1. Sadaļā  **zvani**atveriet sadaļu  **kontaktpersonas**.
-2. Ja redzat personu, kuru vēlaties pievienot Ātrā zvanīšanai, atlasiet  **Papildu opcijas**  (trīs punkti) savā kartītē un atlasiet  **pievienot ātro zvanu**.
+1. **Zvanos** dodieties uz **Kontaktpersonas**.
+2. Ja redzat tās personas kartīti, kuru vēlaties  pievienot ātrās numuru sastādīšanas zvanam, uz kartītes atlasiet Citas opcijas (daudzpunkte) un atlasiet Pievienot ātrajiem **zvaniem**.
 
-Ja neredzat šo personu, ekrāna augšējā labajā stūrī atlasiet  **pievienot ātro numuru**  , sāciet rakstīt personas vārdu, atlasiet personu un pēc tam atlasiet  **Pievienot**.
+Ja neredzat personu, ekrāna  augšējā labajā stūrī atlasiet Pievienot ātro numuru, sāciet rakstīt personas vārdu, atlasiet personu un pēc tam atlasiet **Pievienot**.

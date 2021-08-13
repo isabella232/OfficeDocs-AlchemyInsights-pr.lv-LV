@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004332"
 - "7728"
-ms.openlocfilehash: 7296a0f170d56b705ccf3173ba0636cb1942924a
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: cc28fdacdd7261c96eaf7224ea27f215a828c059dafdb01085434d06551c6e0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954416"
 ---
 # <a name="adding-or-creating-an-application"></a>Lietojumprogrammas pievienošana vai izveide
 
-- [Quickstart: lietojumprogrammas pievienošana Azure Active Directory (AZURE AD) nomniekā](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) ir parādīts, kā pievienot lietojumprogrammu savam Azure AD nomniekam.
-- [Apmācība: lokālās lietojumprogrammas pievienošana attālai piekļuvei, izmantojot lietojumprogrammas starpniekserveri Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) , ir parādīts, kā sagatavot vidi izmantošanai ar lietojumprogrammas starpniekserveri. Kad jūsu vide ir gatava, jūs izmantosit Azure portālu, lai pievienotu lokālo lietojumprogrammu savam Azure AD nomniekam.
-- Lai palīdzētu integrēt lietojumprogrammas, izmantojot pakalpojumu Azure Active Directory, mēs esam izveidojuši [apmācību apkopojumu](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , kas palīdzēs jums veikt konfigurēšanu.
+- [Īsā pamācība: programmas pievienošana Azure Active Directory nomniekam (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) parāda, kā pievienot lietojumprogrammu Azure AD nomniekam.
+- [Apmācība: Pievienojiet lokālu lietojumprogrammu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) attālai piekļuvei, izmantojot programmas starpniekserveri programmā Azure Active Directory parādīts, kā sagatavot savu vidi izmantošanai ar lietojumprogrammas starpniekserveri. Kad jūsu vide būs gatava, izmantosit Azure portālu, lai pievienotu lokālas lietojumprogrammas savam Azure AD nomniekam.
+- Lai palīdzētu integrēt jūsu lietojumprogrammas Azure Active Directory, [](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) mēs esam izstrādājuši apmācību kolekciju, kurā ir izstrādāta konfigurēšana.

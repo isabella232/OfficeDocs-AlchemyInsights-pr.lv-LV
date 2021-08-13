@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927260"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Izdzēstas grupas vai kanāla atjaunošana
 
@@ -29,4 +29,4 @@ Lai atkoptu izdzēstu kanālu, grupas īpašnieks var veikt tālāk norādītās
 1. Atveriet komandas uzstādījumus, izvēloties 3 punktus pa labi no komandas nosaukuma.
 2. Atlasiet **Pārvaldīt grupas**  >    >  **kanālus Izdzēsti** un pēc **tam** pa labi atlasiet Atjaunot.
 
-Papildinformāciju par komandas atjaunošanu skatiet rakstā [Komandas arhivēšana vai dzēšana lietojumprogrammā Microsoft Teams — Microsoft Teams | Microsoft dokumenti.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)
+Papildinformāciju par grupas atjaunošanu skatiet rakstā [Grupas arhivēšana vai dzēšana programmā Microsoft Teams - Microsoft Teams | Microsoft dokumenti.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)

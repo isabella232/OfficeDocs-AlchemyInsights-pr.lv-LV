@@ -1,5 +1,5 @@
 ---
-title: Sāciet izmantot Microsoft Edge
+title: Darba sākšana ar Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992823"
 ---
-# <a name="start-using-microsoft-edge"></a>Sāciet izmantot Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>Darba sākšana ar Microsoft Edge
 
-Microsoft izlaida jauno Microsoft Edge, kas ir nākamā tās tīmekļa pārlūkprogrammas paaudze. Tā ir izveidota uz Chromium pirmkoda pamatiem un ir optimizēta darbam ar Microsoft produktiem, piemēram, SharePoint un OneDrive.
+Microsoft izlaida jauno Microsoft Edge, kas ir nākamā tās tīmekļa pārlūkprogrammas paaudze. Tā ir veidota uz Chromium pirmkoda pamatiem un ir optimizēta darbam ar Microsoft produktiem, piemēram, SharePoint un OneDrive.
 
 Ja radušās problēmas ar Google Chrome, Mozilla Firefox vai Safari, iesakām izmantot Microsoft Edge.
 
-Ja esat liela uzņēmuma administrators, lai sāktu darbu, izmantojiet [mūsu Microsoft Edge iestatīšanas](https://go.microsoft.com/fwlink/?linkid=2142423) rokasgrāmatu.
+Ja esat liela uzņēmuma administrators, darba sākšanai [Microsoft Edge mūsu iestatīšanas](https://go.microsoft.com/fwlink/?linkid=2142423) rokasgrāmatu.
 
-Lai lejupielādētu Microsoft Edge vienā ierīcē vienlaikus, dodieties uz [Iepazīšanās ar jauno Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
+Lai lejupielādētu Microsoft Edge datus vienā ierīcē, dodieties uz [iepazīšanās ar jauno Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)

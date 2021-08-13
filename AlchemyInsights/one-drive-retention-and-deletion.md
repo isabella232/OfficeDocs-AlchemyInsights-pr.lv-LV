@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985368"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive saglabāšana un dzēšana
 
-- Varat [atjaunot izdzēstos lietotājus OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) pats. Tie ir atkritnē 93 dienas.
+- [Izdzēstus lietotājus varat OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) atjaunot. Tie ir atkritnē 93 dienas.
 
-- Papildinformāciju skatiet [šajā rakstā](https://docs.microsoft.com/onedrive/retention-and-deletion) :
-    - Kā piešķirt citam lietotājam piekļuvi izdzēstam lietotāja OneDrive.
-    - Kas notiek ar lietotāja OneDrive, dzēšot lietotāja Microsoft 365 kontu savai organizācijai.
-    - Automātiskas piekļuves deleģēšanas konfigurēšana.
-    - Kā darbojas OneDrive dzēšanas process.
+- Skatiet [šo rakstu,](https://docs.microsoft.com/onedrive/retention-and-deletion) lai uzzinātu:
+    - Kā citam lietotājam piešķirt piekļuvi izdzēsta lietotāja OneDrive.
+    - Kas notiek ar lietotāja OneDrive, kad izdzēšat lietotāja Microsoft 365 kontu savā organizācijā.
+    - Automātiskās piekļuves deleģēšanas konfigurēšana.
+    - Kā OneDrive notiek dzēšana.
 
-- Informāciju par vienumu atjaunošanu no atkritnes pakalpojumā OneDrive skatiet rakstā [izdzēsto failu un mapju atjaunošana](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Informāciju par vienumu atjaunošanu no atkritnes OneDrive [izdzēsto failu un mapju atjaunošana.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-- Vai interesē drošības un atbilstības centra saglabāšana un aizturēšana?
+- Vai vēlaties uzzināt par drošības un atbilstības centra saglabāšanu un glabāšanu?
     - [Saglabāšanas politikas OneDrive un SharePoint vietnēm](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [e-datu atklāšanas aizturēšana pakalpojumam OneDrive un SharePoint vietnēm](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+    - [E-datu atklāšanas aizturēšana OneDrive un SharePoint vietnēm](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
