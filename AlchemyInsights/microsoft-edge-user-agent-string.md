@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge lietotāja aģenta virkne (galddators)
+title: Microsoft Edge lietotāja aģenta virkne (darbvirsma)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976008"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge lietotāja aģenta virkne (galddators)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge lietotāja aģenta virkne (darbvirsma)
 
-Lietotāja aģenta (UA) virknes var izmantot, lai noteiktu, kāda noteiktas pārlūkprogrammas versija tiek lietota noteiktā operētājsistēmā. Tāpat kā citas pārlūkprogrammas, pārlūkprogrammā Microsoft Edge šī informācija ir iekļauta lietotāja aģenta HTTP galvenē, ja tiek pieprasīta vietne. Pārlūkprogrammas-versijas informācijai var piekļūt, arī izmantojot JavaScript, veicot vaicājumu par "Navigator. lietotāja aģenta" vērtību.
+Lietotāja aģenta (UA) virknes var izmantot, lai noteiktu, kāda konkrētas pārlūkprogrammas versija tiek izmantota konkrētā operētājsistēmā. Līdzīgi kā citās pārlūkprogrammās Microsoft Edge iekļauta šī informācija HTTP galvenē "Lietotāja aģents" ikreiz, kad tiek pieprasīta vietne. Pārlūkprogrammas versijas informācijai var piekļūt arī, izmantojot JavaScript, vaicājot vērtību "navigator.userAgent".
 
-Iesakām tīmekļa izstrādātājiem izmantot līdzekļu atklāšanu, kad vien iespējams uzlabot koda apkopi, samazināt koda trauslumu un novērst koda pārtraukuma risku, ja tiek izmantoti nākamie UA virknes atjauninājumi.
+Mēs iesakām tīmekļa izstrādātājiem izmantot līdzekļu noteikšanu, ja iespējams, lai uzlabotu koda uzturēšanu, samazinātu koda lasāmību un novērstu kodu bojājumu risku gadījumā, ja nākotnē tiek ieviesti UA virkņu atjauninājumi.
 
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft Edge lietotāja aģenta virkne (datora versija)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Papildinformāciju skatiet rakstā [Microsoft Edge lietotāja aģenta virkne (darbvirsma).](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

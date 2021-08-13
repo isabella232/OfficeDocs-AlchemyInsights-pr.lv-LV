@@ -1,5 +1,5 @@
 ---
-title: POP, IMAP un SMTP iestatījumi Outlook.com
+title: PAKALPOJUMA Outlook.com POP, IMAP un SMTP iestatījumi
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983820"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP, IMAP un SMTP iestatījumi Outlook.com
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>PAKALPOJUMA Outlook.com POP, IMAP un SMTP iestatījumi
 
-Ja vēlaties pievienot savu Outlook.com kontu pasta programmai, kas atbalsta POP vai IMAP, jums ir nepieciešami tālāk norādītie servera iestatījumi.
+Ja savu e-pasta Outlook.com vēlaties pievienot pasta programmai, kas atbalsta POP vai IMAP, jums ir nepieciešami šādi servera iestatījumi:
   
-- **IMAP servera nosaukums:** Outlook.office365.com
+- **IMAP servera nosaukums:** outlook.office365.com
 - **IMAP ports:** 993
 - **IMAP šifrēšanas metode:** TLS
-- **POP servera nosaukums:** Outlook.office365.com  
-- **Pop ports:** 995  
-- **Pop šifrēšanas metode:** TLS  
-- **SMTP servera nosaukums:** SMTP.office365.com
+- **POP servera nosaukums:** outlook.office365.com  
+- **POP ports:** 995  
+- **POP šifrēšanas metode:** TLS  
+- **SMTP servera nosaukums:** smtp.office365.com
 - **SMTP ports:** 587
 - **SMTP šifrēšanas metode:** STARTTLS
 
-Uzziniet vairāk par [to, kā pievienot savu Outlook.com kontu citai pasta programmai vai viedajai ierīcei](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Uzziniet vairāk [par sava Outlook.com konta pievienošanu citai pasta lietojumprogrammai vai viedierīcei.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)

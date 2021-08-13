@@ -1,5 +1,5 @@
 ---
-title: 1800001 izveidot vai rediģēt profilu
+title: 1800001 profila izveide vai rediģēšana
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965396"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Outlook profila izveide vai rediģēšana
+# <a name="create-or-edit-an-outlook-profile"></a>Profila izveide Outlook rediģēšana
 
-Lai izveidotu jaunu Outlook profilu, rediģētu profilu vai pārdēvētu profilu, veiciet tālāk norādītās darbības.
+Lai izveidotu jaunu Outlook, rediģētu profilu vai pārdēvētu profilu, veiciet tālāk norādītās darbības.
   
-1. Programmā Outlook atlasiet **failu** \> **kontu iestatījumi** , lai \> **pārvaldītu profilus**.
+1. Programmā Outlook atlasiet Failu **konts** \> **un Iestatījumi** Profilu \> **pārvaldība.**
     
-2. Dialoglodziņā **pasta iestatīšana** atlasiet **Rādīt profilus**.
+2. Dialoglodziņā **Pasta iestatīšana** atlasiet Rādīt **profilus**.
     
-3. Veiciet kādu no tālāk norādītajām darbībām.
+3. Veiciet kādu no šīm darbībām:
     
   - Lai izveidotu jaunu profilu, atlasiet **Pievienot**.
     
   - Lai rediģētu vai pārdēvētu profilu, atlasiet **Rekvizīti**.
     
-Ja rodas problēmas ar Outlook profila izveidi vai rediģēšanu, attiecīgajā datorā varat palaist [Outlook profila rīku](https://aka.ms/SaRA-OutlookSetupProfile) . Tas veiks dažas pārbaudes, un, kad esat gatavs, izveidos Outlook profilu ar savu e-pasta adresi. 
+Ja rodas problēmas ar profila izveidi vai Outlook, varat attiecīgajā [datorā Outlook](https://aka.ms/SaRA-OutlookSetupProfile) palaist profila rīku. Tas veic dažas pārbaudes, un, kad esat gatavs, tiks izveidots e-Outlook ar jūsu e-pasta adresi. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Mapes pārvietošana programmā Outlook.com
+title: Mapes pārvietošana vietnē Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: 3ca780d479bace5415501370206a65c98d462573
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f226e7ddba2d0c5c0bd0e05540b4491f4351e852e477dbcd1b982478481f4642
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984108"
 ---
-# <a name="move-a-folder-in-outlookcom"></a>Mapes pārvietošana programmā Outlook.com
+# <a name="move-a-folder-in-outlookcom"></a>Mapes pārvietošana vietnē Outlook.com
 
-Varat pārkārtot mapes sadaļā **izlase**, taču nevarat pārkārtot mapes sadaļā **mapes** vai izveidot apakšmapes mapi. Ja nejauši pārvietojat mapi uz citu mapi, izveidojiet jaunu mapi un kopējiet visu e-pastu no apakšmapes uz jauno mapi.
+Varat pārkārtot mapes **sadaļā** Izlase, bet nevarat pārkārtot mapes sadaļā Mapes un izveidot apakšmapi.  Ja nejauši pārvietosit mapi uz citu mapi, izveidojiet jaunu mapi un kopējiet visu e-pastu no apakšmapes uz jauno mapi.
   
-Lai iegūtu papildinformāciju, lasiet rakstu [darbs ar ziņojumu mapēm programmā Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai uzzinātu vairāk, izlasiet [Rakstu Darbs ar ziņojumu mapēm pakalpojumā Outlook.com.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)

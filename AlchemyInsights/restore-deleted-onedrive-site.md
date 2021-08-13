@@ -1,5 +1,5 @@
 ---
-title: Izdzēstas OneDrive vietnes atjaunošana
+title: Izdzēstas vietnes OneDrive atjaunošana
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991290"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Izdzēstas OneDrive vietnes atjaunošana
+# <a name="restore-a-deleted-onedrive-site"></a>Izdzēstas vietnes OneDrive atjaunošana
 
-Ja izdzēšat lietotāju Microsoft 365 administrēšanas centrā (vai, ja lietotājs ir noņemts, izmantojot Active Directory sinhronizāciju), lietotāja OneDrive tiks paturēts jūsu norādītajā OneDrive administrēšanas centrā. (Lai iegūtu informāciju, skatiet rakstu [noklusējuma faila saglabāšanas iestatīšana izdzēstiem OneDrive lietotājiem](https://docs.microsoft.com/onedrive/set-retention).)
+Lietotāja dzēšanas laikā Microsoft 365 administrēšanas centrs (vai tad, kad lietotājs tiek noņemts, izmantojot Active Directory sinhronizēšanu), lietotāja OneDrive tiks saglabāts to dienu skaitu, ko norādīsit OneDrive administrēšanas centrā. (Papildinformāciju skatiet [rakstā Noklusējuma failu saglabāšanas iestatīšana izdzēstiem OneDrive lietotājiem](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [Izdzēstas OneDrive vietnes atjaunošana](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Izdzēstas vietnes OneDrive atjaunošana](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Ja daudzi no jūsu OneDrive failiem tiek izdzēsti, pārrakstīti, bojāti vai inficēti ļaunprogrammatūras, varat atjaunot visu OneDrive uz iepriekšējo laiku.
+Ja ļaunprogrammatūra izdzēš, OneDrive lielu daļu failu izdzēš, pārraksta, sabojā vai inficē, varat atjaunot visu savu failu OneDrive stāvoklī.
 
-* [OneDrive atjaunošana](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Atjaunot OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

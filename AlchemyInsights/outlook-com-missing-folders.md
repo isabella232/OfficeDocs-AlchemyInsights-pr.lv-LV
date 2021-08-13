@@ -1,5 +1,5 @@
 ---
-title: Outlook.com trūkstošās mapes
+title: Outlook.com Trūkstošas mapes
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984072"
 ---
-# <a name="find-missing-folders"></a>Trūkstošo mapju atrašana
+# <a name="find-missing-folders"></a>Trūkstošu mapju atrašana
 
-Dažiem lietotājiem, skatoties nelielā ekrānā, iespējams, nevarēs redzēt kreiso mapju rūti.
+Daži lietotāji, iespējams, neredzēs kreiso mapju rūti, kad skatīsies mazā ekrānā.
 
-- Ja neredzat mapju rūti, maksimizējiet pārlūkprogrammas logu vai ritiniet pa kreisi, lai skatītu mapju sarakstu.
-- Izvērsiet mapju rūti tikai vajadzīgajā brīdī. Lai rādītu vai paslēptu mapes, atlasiet trīs līnijas ikonu kreisās puses joslā.
-- Atveriet [izkārtojuma iestatījumus](https://outlook.live.com/mail/options/mail/layout) un atlasiet **Paslēpt lasīšanas rūti** un pēc tam **saglabājiet**. Tādējādi ekrāns tiks atvēlēts vairāk vietas, lai tiktu rādītas mapes.
+- Ja mapju rūts nav redzama, maksimizēt pārlūkprogrammas logu vai ritināt pa kreisi, lai skatītu mapju sarakstu.
+- Izvērsiet mapju rūti tikai tad, ja tā ir nepieciešama. Atlasiet trīs rindiņu ikonu kreisajā pusē, lai rādītu vai paslēptu mapes.
+- Atveriet [izkārtojuma iestatījumus un](https://outlook.live.com/mail/options/mail/layout) atlasiet Paslēpt **lasīšanas rūti un** pēc tam **Saglabāt**. Tādējādi ekrānam tiks nodrošināts vairāk vietas, lai rādītu mapes.
 
-Ja nejauši izdzēšat mapi, varat to atkopt, ja tā joprojām ir mapē Izdzēstie vienumi. Lai uzzinātu vairāk, lasiet rakstu [izdzēsto e-pasta ziņojumu atjaunošana pakalpojumā Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Ja nejauši izdzēšat mapi, varat to atkopt, ja tā joprojām atrodas mapē Izdzēstie vienumi. Lai uzzinātu vairāk, izlasiet rakstu [Izdzēsto e-pasta ziņojumu atjaunošana vietnē Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
