@@ -1,5 +1,5 @@
 ---
-title: Pārslēdziet uz maksāt ar rēķinu (Check/Wire Transfer)
+title: Pārslēgtos uz apmaksu ar rēķinu (čeku/pārskaitījumu)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009075"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Pārslēdziet uz maksāt ar rēķinu (Check/Wire Transfer)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Pārslēgtos uz apmaksu ar rēķinu (čeku/pārskaitījumu)
 
-Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
+Ņemot vērā jūsu problēmas aprakstu, esam atraduši jums risinājumu. Lielākajai daļai klientu problēma tika novērsta paši pēc mūsu dokumentācijas sekošanas.
 
-Ja pārslēdzaties uz maksājumu ar rēķinu, tas nozīmē, ka jūs maksāsit rēķinu 30 dienu laikā pēc rēķina datuma. Lai saņemtu tiesības veikt maksājumus par Azure abonementu, iesniedziet Azure atbalsta pieprasījumu. Kad jūsu pieprasījums ir apstiprināts, varat mainīt abonementa rēķinu par samaksu Azure portālā.
+Ja pārejat uz apmaksu ar rēķinu, tas nozīmē, ka rēķins būs jāapmaksā 30 dienu laikā pēc rēķina datuma. Lai kļūtu piemērots maksām par Azure abonementu, izmantojot rēķinu, iesniedziet pieprasījumu Azure atbalstam. Kad jūsu pieprasījums ir apstiprināts, varat pārslēgt abonementu uz rēķina apmaksu Azure portālā.
 
-**Pirms turpināt, pārskatiet tālāk norādītās prasības/ierobežojumus, lai pieprasītu rēķinu apmaksas opciju:**
+**Pirms turpināt darbu, pārskatiet tālāk norādītās prasības/ierobežojumus attiecībā uz rēķina maksāšanas iespējas pieprasīšanas iespējām.**
 
-- Pierakstieties [Azure portālā](https://portal.azure.com/), pārejiet uz maksāšanas veidiem un pārbaudiet, vai esat jau iepriekš apstiprinājis rēķinu maksājumiem.
-- Rēķinu apmaksa ir pieejama tikai uzņēmuma kontiem, nevis personiskajiem kontiem.
-- Pirms pāriešanas uz rēķinu apmaksu jums ir jāmaksā visi nenomaksātie maksājumi.
-- Atbalsta komanda pārskata kontu, lai noteiktu, vai tas ir piemērots maksājuma rēķinu veidam.
-- Kad pārejat uz rēķinu apmaksu, jūs nevarat pārslēgties atpakaļ uz kredītkarti vai debetkarti.
+- Pierakstieties Azure portālā , [naviģējiet](https://portal.azure.com/)uz maksāšanas metodēm un pārbaudiet, vai esat jau iepriekš apstiprināts rēķina maksājumam.
+- Rēķina apmaksa ir pieejama tikai darba kontiem, nevis personiskajiem kontiem.
+- Jums ir jāapmaksā visi neapmaksātie maksājumi, pirms pārejat uz rēķina apmaksu.
+- Atbalsta komanda pārskatīs kontu, lai noteiktu, vai tas ir piemērots rēķina maksājumam.
+- Kad pārslēdzaties uz rēķina apmaksu, jūs nevarat pārslēgties atpakaļ uz kredītkartes vai debetkartes maksājumu.
 
-Pēc tam, kad esat apstiprinājis samaksu ar rēķinu, [Azure portālā](https://portal.azure.com/)varat pārslēgt savu Azure abonementu uz rēķina apmaksu.
-Lai to izdarītu:
+Kad esat apstiprinājis apmaksu ar rēķinu, varat pārslēgt savu Azure abonementu uz rēķina apmaksu, izmantojot čeku vai bankas pārskaitījumu [Azure portālā.](https://portal.azure.com/)
+Lai to paveiktu:
 
-1. Pierakstieties [Azure portālā](https://portal.azure.com/)   kā konta administrators. Meklējiet un atlasiet **izmaksu pārvaldība + norēķini**.
-2. Izvēlnē izvēlieties **norēķinu profili**.
+1. Pierakstieties Azure [portālā kā](https://portal.azure.com/)   konta administrators. Meklējiet un atlasiet **Izmaksu pārvaldība +Norēķini.**
+2. Izvēlnē izvēlieties Norēķinu **profili**.
 3. Atlasiet norēķinu profilu.
-4. *Norēķinu profila* izvēlnē atlasiet **maksāšanas metodes**.
-5. Atlasiet reklāmkarogu, kurā norādīts, ka jums ir tiesības veikt maksājumus ar čeku/bankas pārvedumu.
+4. Izvēlnē *Norēķinu profils* atlasiet **Maksāšanas veidi**.
+5. Atlasiet reklāmkarogu, kurā norādīts, ka varat maksāt ar čeku/pārskaitījumu.
 
 **Ieteiktie dokumenti**
 
-- [Pieprasīt/lejupielādēt/skatīt savu Azure norēķinu rēķinu un lietojuma datus](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Kā nosūtīt e-pasta ziņojumus tieši uz jūsu iesūtni](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Azure norēķinu rēķina un lietojuma datu pieprasīšana/lejupielāde/skatīšana](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Kā nosūtīt Azure rēķinus tieši uz iesūtni](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Apmaksa ar rēķinu](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Izprotiet rēķina nosacījumus](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Rēķina nosacījumu izprate](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)

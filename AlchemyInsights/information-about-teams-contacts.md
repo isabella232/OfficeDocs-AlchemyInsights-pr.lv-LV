@@ -1,5 +1,5 @@
 ---
-title: Informācija par grupu kontaktpersonām
+title: Informācija par Teams kontaktpersonām
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036516"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868353"
 ---
-# <a name="information-about-teams-contacts"></a>Informācija par grupu kontaktpersonām
+# <a name="information-about-teams-contacts"></a>Informācija par Teams kontaktpersonām
 
-Ja kontaktpersonas netiek sinhronizētas vienam vai vairākiem lietotājiem, veiciet tālāk norādītās darbības.
-- Pārliecinieties, vai lietotāja Exchange pastkaste ir viesota tiešsaistē (nevis lokāli). Papildinformāciju skatiet rakstā [Exchange un Microsoft Teams mijiedarbība](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Pārliecinieties, vai kontaktpersonas tālruņa numurs tiek pievienots kontaktinformācijai.
-
-Teams izmanto šīs kontaktpersonas:
+Teams izmanto šādas kontaktpersonas:
 
 - Kontaktpersonas jūsu organizācijas Active Directory
-- Lietotāja Outlook noklusējuma mapē ir pievienotas kontaktpersonas
+- Kontaktpersonas ir pievienotas lietotāja Outlook noklusējuma mapē
 
-Teams lietotāji var sazināties ar ikvienu, kas ir jūsu organizācijas Active Directory, un var pievienot ikvienu savas organizācijas Active Directory kā kontaktpersonu un kontaktpersonu sarakstus, atverot **tērzēšanu > kontaktpersonām vai zvaniem > kontaktpersonām**.
+Ja kontaktpersonas nav pabeigtas vai netiek sinhronizētas vienam vai vairākiem lietotājiem, rīkojieties šādi:
 
-Komandas lietotāji var arī pievienot personu, kas nav jūsu organizācijas Active Directory kā kontaktpersona, pārejot uz **zvaniem > kontaktpersonām**.
+- Nodrošiniet, lai lietotāja pastkaste Exchange viesota tiešsaistē (nevis lokāli). Papildinformāciju skatiet rakstā [Kā Exchange un Microsoft Teams mijiedarbojas](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+- Pārliecinieties, vai kontaktpersonas tālruņa numurs tiek pievienots kontaktinformācijai.
+- Meklēšanas joslā meklējiet kontaktpersonas **e-pasta** adresi. Kontaktpersonas, kuras varat izgūt kontaktpersonu sarakstā.
 
 

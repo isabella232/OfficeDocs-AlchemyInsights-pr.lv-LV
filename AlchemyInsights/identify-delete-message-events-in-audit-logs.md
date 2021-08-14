@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630076"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868425"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Izdzēsto e-pasta ziņojumu auditēšanas žurnāli
 
@@ -32,8 +32,8 @@ Sākot ar 2019. gada janvāri, Microsoft pēc noklusējuma ieslēdz pastkastes a
 
 4. Noklikšķiniet **uz Meklēt.**
 
-Rezultātos atlasiet audita ierakstu. Detalizētas informācijas izlidošanas lodziņā noklikšķiniet uz **Papildinformācija**. Papildinformācija par izdzēsto vienumu (piemēram, tēmas rindiņa un vienuma atrašanās vieta, kad tas tika izdzēsts) tiek rādīta **laukā AffectedItems.** Rekvizīts **ClientInfoString** tiek rādīts, ja dzēšana notika Outlook, Outlook tīmeklī (iepriekš tika dēvēta par Outlook Web App) vai jebkurā citā ierīcē.
+Rezultātos atlasiet audita ierakstu. Detalizētas informācijas izlidošanas lodziņā noklikšķiniet uz **Papildinformācija**. Papildinformācija par izdzēsto vienumu (piemēram, tēmas rindiņa un vienuma atrašanās vieta, kad tas tika izdzēsts) tiek rādīta **laukā AffectedItems.** Rekvizīts **ClientInfoString** tiek rādīts, ja Outlook, Outlook tīmeklī (iepriekš dēvēts par Outlook Web App) vai jebkurā citā ierīcē.
 
-Papildinformāciju skatiet rakstā [Noteikšana, kurš iestatījis e-pasta pārsūtīšanu pastkastei.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Papildinformāciju skatiet rakstā [Noteikšana, kurš iestatījis e-pasta pārsūtīšanu pastkastei.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Piezīme.** Izdzēstos vienumus nevar izgūt, izmantojot audita žurnāla līdzekli. Lai izgūtu izdzēstos ziņojumus Outlook tīmeklī, skatiet [rakstu Izdzēsto vienumu atkopšana Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
