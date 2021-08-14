@@ -6,8 +6,8 @@ title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebau
 
 # <a name="troubleshoot-presence-issues-in-outlook"></a>Klātbūtnes problēmu novēršana programmā Outlook
 
-Lai diagnosticētu un labotu problēmas saistībā ar lietotāja klātbūtnes statusu programmā Outlook, lejupielādējiet un palaidiet Microsoft atbalsta un atkopšanas palīgu, > [Teams klātbūtnes scenāriju.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Lai diagnosticētu un labotu problēmas saistībā ar lietotāja klātbūtnes statusu programmā Outlook, lejupielādējiet un palaidiet Microsoft atbalsta un atkopšanas palīgs > [Teams klātbūtnes scenāriju.](https://aka.ms/SaRA-TeamsPresenceScenario)
 
-Lai manuāli novērstu problēmu, kas rodas saistībā ar klātbūtni programmā Outlook, izpildiet darbības sadaļā [Lietotāja klātbūtnes statusa problēmas programmā Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Lai manuāli novērstu problēmu saistībā ar klātbūtni programmā Outlook, izpildiet darbības sadaļā Lietotāja klātbūtnes [statusa problēmas programmā Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
 
-Ja klātbūtnes statuss netiek atjaunināts programmā Teams, skatiet rakstu [Faktiskais klātbūtnes statuss netiek atspoguļots programmā Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
+Ja klātbūtnes statuss netiek atjaunināts programmā Teams, skatiet rakstu Faktiskais klātbūtnes statuss netiek [atspoguļots Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)

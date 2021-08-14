@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana saistībā ar Skype darbam Mac datorā
+title: Ar programmu Skype darbam Mac saistīto problēmu novēršana
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 794ec70971fc2eff31047f8346284118eb9d6add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2bfe1f4291a7703a94582cdfe381ffbf02797a8b7a785e6ac9d74cf04290707
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980544"
 ---
-# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Problēmu novēršana saistībā ar Skype darbam Mac datorā
+# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Ar programmu Skype darbam Mac saistīto problēmu novēršana
 
 Papildinformāciju skatiet rakstā: 
 
-- Daži līdzekļi, piemēram, atbilžu grupas funkcionalitāte vai pastāvīgā tērzēšana, var nebūt pieejami vai netiek atbalstīti Mac platformā. Pārliecinieties, vai Mac platformā ir atbalstīta funkcionalitāte. Informāciju par Mac līdzekļu pieejamību skatiet rakstā [mobilo klientu līdzekļu salīdzinājums Skype darbam](https://technet.microsoft.com/library/Dn951412.aspx) un [darbvirsmas klientu līdzekļu salīdzinājumam pakalpojumam Skype darbam](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison).
-- Ja pierakstāties ar pierakstīšanās problēmu Skype darbam Mac lietojumprogrammā, pārliecinieties, vai jūsu autentifikācijas topoloģija tiek atbalstīta. Detalizētu informāciju par atbalstīto metodi skatiet rakstā [Skype darbam topoloģijas, kas tiek atbalstītas ar moderno autentifikāciju](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- Ja šī informācija neatbild uz jūsu jautājumiem, atveriet atbalsta biļeti. Savāciet cik vien iespējams daudz informācijas pirms biļetes atvēršanas. Piemēram, visu žurnālu un kļūdu ziņojumu apkopošana. Lai apkopotu žurnālus Mac datorā, dodieties uz  **SfB programmu**  >  **preferences**  >  **Collect logs**.  Pierakstīšanās atteices brīdī ir jāietver detalizēta informācija par pierakstīšanos.
+- Daži līdzekļi, piemēram, atbilžu grupas funkcionalitāte vai pastāvīgā tērzēšana, iespējams, nav pieejami vai netiek atbalstīti Mac platformā. Pārbaudiet, vai funkcionalitāte tiek atbalstīta Mac platformā. Informāciju par Mac līdzekļu pieejamību skatiet rakstā [Mobilo klientu](https://technet.microsoft.com/library/Dn951412.aspx) līdzekļu salīdzinājums Skype darbam darbvirsmas klienta līdzekļu salīdzinājumu [Skype darbam.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)
+- Ja ir radusies pierakstīšanās problēma programmā Skype darbam Mac, pārliecinieties, vai ir atbalstīta autentifikācijas topoloģija. Detalizētu informāciju par atbalstīto metodi skatiet rakstā [Modernās Skype darbam atbalstītās topoloģijas.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported)  
+- Ja šī informācija neatbild uz jūsu jautājumiem, atveriet atbalsta biļeti. Apkopojiet pēc iespējas vairāk informācijas pirms biļešu atvēršanas. Piemēram, apkopojiet visus žurnālus un kļūdu ziņojumus. Lai apkopotu žurnālus Mac datorā, dodieties uz  **SfB App**  >  **Preferences Collect**  >  **logs**.  Žurnālā jāiekļauj iespējami daudz detalizētas informācijas no pierakstīšanās līdz kļūmes punktam.

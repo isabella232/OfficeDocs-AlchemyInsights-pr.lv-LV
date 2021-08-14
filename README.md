@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source rīcības kodekss
-Šis projekts ir pieņēmusi [Microsoft Open Source rīcības kodeksu](https://opensource.microsoft.com/codeofconduct/). Papildinformāciju skatiet sadaļā [FAQ veikt kodu](https://opensource.microsoft.com/codeofconduct/faq/) vai sazināties ar [opencode@microsoft.com](mailto:opencode@microsoft.com) ar papildu jautājumi vai komentāri.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft atvērtā pirmkoda uzvedības kodekss
+Šajā projektā ir pieņemts [Microsoft atvērtā pirmkoda uzvedības kodekss.](https://opensource.microsoft.com/codeofconduct/)
+Papildinformāciju skatiet [uzvedības kodeksā bieži uzdoto jautājumu](https://opensource.microsoft.com/codeofconduct/faq/) un [atbilžu opencode@microsoft.com](mailto:opencode@microsoft.com) saistībā ar jebkādiem papildu jautājumiem vai komentāriem.

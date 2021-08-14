@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988806"
 ---
 # <a name="create-a-journal-rule"></a>Žurnāla kārtulas izveide
 
 Tālāk aprakstīts, kā to paveikt.
 
-1. [Exchange admin Center](https://go.microsoft.com/fwlink/p/?linkid=2059104)dodieties uz **atbilstības pārvaldības**  >  **žurnāla kārtulām** un pēc tam atlasiet ikonu **Pievienot (+)** .
-2. **Jaunā žurnāla kārtulā** norādiet žurnāla kārtulas nosaukumu un pēc tam konkurējiet tālāk norādītajos laukos.  
-    - **Sūtīt žurnāla atskaites uz**: ievadiet tā žurnāla pastkastes adresi, kas saņems visas dienasgrāmatas atskaites.  
-    - **Ja ziņojums tiek sūtīts vai saņemts no**: norādiet adresātu, uz kuru attiecas kārtula. Varat atlasīt konkrētu adresātu vai lietot kārtulu visiem ziņojumiem.  
-    - **Journal tālāk norādītos ziņojumus**: norādiet žurnāla kārtulas tvērumu. Varat ievadīt tikai iekšējos ziņojumus, tikai ārējos ziņojumus vai visus ziņojumus neatkarīgi no izcelsmes vai galamērķa.
-3. Atlasiet **Saglabāt** , lai izveidotu žurnāla kārtulu.
+1. Administrēšanas [Exchange dodieties](https://go.microsoft.com/fwlink/p/?linkid=2059104)uz **atbilstības** pārvaldības žurnāla  >  **kārtulas** un pēc tam atlasiet ikonu **Pievienot (+).**
+2. Jaunajā **dienasgrāmatas kārtulā** norādiet dienasgrāmatas kārtulas nosaukumu un sacentiet šos laukus:  
+    - **Nosūtīt dienasgrāmatas atskaites uz**: Ievadiet journaling pastkastes adresi, kas saņems visas dienasgrāmatas atskaites.  
+    - **Ja ziņojums tiek nosūtīts uz kādu ziņojumu vai** saņemts no tā: norādiet adresātu, kam tiks sūtīta kārtula. Varat atlasīt konkrētu adresātu vai lietot kārtulu visiem ziņojumiem.  
+    - **Žurnāls ar šādiem ziņojumiem:** Norādiet dienasgrāmatas kārtulas tvērumu. Varat izmantot dienasgrāmatas tikai iekšējos ziņojumus, tikai ārējos ziņojumus vai visus ziņojumus neatkarīgi no to izcelsmes vai mērķa.
+3. Atlasiet **Saglabāt,** lai izveidotu dienasgrāmatas kārtulu.
