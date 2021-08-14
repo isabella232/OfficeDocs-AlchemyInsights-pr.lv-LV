@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931546"
 ---
 # <a name="application-connection-issues"></a>Lietojumprogrammas savienojuma problēmas
 
-[Apmācība par lietojumprogrammu integrēšanu ar Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) — lai palīdzētu integrēt lietojumprogrammas, izmantojot pakalpojumu Azure Active Directory, mēs esam izveidojuši apmācību kolekciju, kas palīdzēs jums veikt konfigurēšanu.
+[Apmācības lietojumprogrammu integrācijām Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) — lai palīdzētu integrēt lietojumprogrammas ar Azure Active Directory, mēs esam izstrādājuši apmācību kolekciju, kurā jums ir izstrādāta konfigurēšana.
 
 **Lietojumprogrammas starpniekservera aģenta savienotāja problēmu novēršana**
 
-Lai saņemtu palīdzību par savienotāja nesekmīgas instalēšanas problēmu, skatiet rakstu [lietojumprogrammas starpniekservera aģenta savienotāja instalēšana](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
+Lai saņemtu palīdzību, ja savienotāja instalēšana neizdodas, skatiet [rakstu Problēma ar lietojumprogrammas starpniekservera aģenta savienotāja instalēšanu.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
 
-[Atkļūdošanas lietojumprogrammas starpniekservera savienotāja problēmas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) palīdz novērst problēmas, kas saistītas ar Azure Active Directory (Azure AD) lietojumprogrammas starpniekservera savienotājiem. Ja izmantojat lietojumprogrammas starpniekservera pakalpojumu attālai piekļuvei lokālajā tīmekļa lietojumprogrammā, bet rodas problēmas, veidojot savienojumu ar lietojumprogrammu, izmantojiet šo blokshēmu, lai atkļūdotu savienotāja problēmas.
+[Atkļūdošanas lietojumprogrammas starpniekservera savienotāja](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) problēmas palīdz novērst problēmas ar Azure Active Directory (Azure AD) lietojumprogrammu starpniekservera savienotājiem. Ja izmantojat lietojumprogrammas starpniekservera pakalpojumu, lai izveidotu attālo piekļuvi lokālai tīmekļa lietojumprogrammai, bet rodas problēmas, veidojot savienojumu ar lietojumprogrammu, izmantojiet šo blokshēmu, lai atkļūdotu savienotāju problēmas.
 
-[Lietojumprogrammas starpniekservera lietojumprogrammai nav atrasta neviena darba savienotāja grupa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) , kas palīdz atrisināt biežāk sastopamās problēmas, kad nav atrasts savienotājs lietojumprogrammas starpniekservera lietojumprogrammai, kas ir integrēta ar Azure Active Directory.
+[Starpniekservera](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) lietojumprogrammai nav atrasta neviena strādājusi savienotāju grupa, kas palīdz novērst biežāk sastopamās problēmas, ja nav atrasts savienotājs ar programmu starpniekservera lietojumprogrammai, kas integrēta ar Azure Active Directory.
 
 **Cisco AnyConnect integrācijas problēmu novēršana**
 
-Lai uzzinātu, kā integrēt Cisco AnyConnect ar Azure Active Directory (Azure AD), skatiet rakstu [apmācība: Azure Active Directory vienotās pierakstīšanās (SSO) integrācija ar Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect).
+Lai uzzinātu, kā integrēt Cisco AnyConnect ar Azure Active Directory (Azure AD), skatiet apmācība: Azure Active Directory vienotās pierakstīšanās [(SSO) integrācija ar Cisco AnyConnect.](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)

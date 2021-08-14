@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949430"
 ---
 # <a name="intune-support"></a>Intune atbalsts
 
-Šis dialogs ir daļa no Intune atbalsta procesa. Ja jums nav ar Intune saistītu problēmu, veiciet kādu no tālāk norādītajām darbībām.
+Šis dialogs ir daļa no Intune atbalsta procesa. Ja jums nav ar Intune saistītas problēmas, veiciet kādu no šīm darbībām:
 
-- [Konfigurēšanas pārvaldniekam vai Co-Management atbalstam noklikšķiniet uz šīs saites un atlasiet atbilstošo elementu.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [Ja nav Intune, kas nav galapunkta pārvaldnieka problēmas, izpildiet šo saiti, pēc tam noklikšķiniet uz pogas Palīdzība administrēšanas portāla augšējā labajā stūrī.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Lai iegūtu konfigurācijas pārvaldnieku vai Co-Management atbalsta dienestu, noklikšķiniet uz šīs saites un atlasiet atbilstošo elementu.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Ja rodas problēmas, kas nav Intune, problēmas, kas nav Galapunktu pārvaldnieks, izmantojiet šo saiti, pēc tam noklikšķiniet uz palīdzības pogas administrēšanas portāla augšējā labajā stūrī.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)

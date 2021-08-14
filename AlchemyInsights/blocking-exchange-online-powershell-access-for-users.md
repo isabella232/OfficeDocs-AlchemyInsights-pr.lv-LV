@@ -1,5 +1,5 @@
 ---
-title: 763 bloķēšana Exchange Online PowerShell piekļuve lietotājiem
+title: 763 PowerShell Exchange Online piekļuves bloķēšana lietotājiem
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931420"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Exchange Online PowerShell piekļuves bloķēšana lietotājiem
-Kā administrators jums ir iespēja bloķēt piekļuvi Exchange Online PowerShell saviem lietotājiem. Papildinformāciju skatiet šajās tēmās:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Lietotājiem Exchange Online PowerShell piekļuves bloķēšana
+Kā administrators jūs varat bloķēt saviem lietotājiem piekļuvi Exchange Online PowerShell. Papildinformāciju skatiet šajās tēmās:
 
-- [Piekļuves pakalpojumam Exchange Online PowerShell iespējošana vai atspējošana](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Piekļuves iespējošana vai atspējošana Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Klientu piekļuves kārtulas pakalpojumā Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (meklējiet **RemotePowerShell** protokolu) 
+- [Klienta piekļuves kārtulas programmā Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (meklējiet **RemotePowerShell** protokolu) 
 
-**Piezīme**: kā aprakstīts tēmā, uzmanieties, lai nebloķētu piekļuvi Exchange Online PowerShell administratoriem.
+**Piezīme.** Kā aprakstīts tēmā, uzmanieties, lai nebloķējiet piekļuvi Exchange Online PowerShell administratoriem.
