@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932782"
 ---
 # <a name="anonymous-sharing"></a>Anonīma koplietošana
 
- **Anonīmās piekļuves iespējošana**
+ **Anonīmas piekļuves iespējošana**
   
-Jaunajā SharePoint administrēšanas centrā kreisajā rūtī noklikšķiniet uz **koplietošana** . 
+Jaunajā administrēšanas SharePoint kreisajā rūtī **noklikšķiniet** uz Koplietošana. 
   
-- Atlasiet kādu no šīm opcijām: **Atļaut koplietošanu autentificētiem ārējiem lietotājiem un izmantojot anonīmu piekļuvi.**
+- Atlasiet šo opciju: **Atļaut koplietošanu autentificētiem ārējiem lietotājiem un izmantot anonīmu piekļuvi.**
   
-(Ja vēlaties, varat iestatīt saišu derīgumu uz noteiktu dienu skaitu un izvēlēties, kā adresāti var izmantot saites.)
+(Ja vēlaties, varat iestatīt saišu derīguma beigas noteiktā dienu skaitu un izvēlēties, kā adresāti var izmantot saites.)
     
- **Faila vai mapes kopīgošana anonīmi**
+ **Anonīma faila vai mapes koplietošana**
   
-- Atlasiet failu vai mapi, kuru vēlaties kopīgot, un pēc tam noklikšķiniet uz **kopīgot**. 
+- Atlasiet failu vai mapi, kuru vēlaties kopīgot, un pēc tam noklikšķiniet uz **Kopīgot.** 
     
-- Ar ko jūs vēlaties, lai šī saite darbojas? noklikšķiniet uz **jebkurš.**
+- Kam vēlaties izmantot šo saiti? noklikšķiniet **uz Ikviens.**
   
- **Piezīme**. **ikviens** izveido saiti, ko jebkurš var izmantot, lai piekļūtu dokumentam vai mapei, pat tad, ja neesat pieteicies pakalpojumā Microsoft 365 vai OneDrive. Izmantojiet šo iespēju, lai kopīgotu ar ikvienu savā uzņēmumā vai ārpus tā. Šo saiti var arī pārsūtīt visiem lietotājiem. 
+ **Piezīme.** **Ikviens** izveido saiti, kuru ikviens var izmantot, lai piekļūtu dokumentam vai mapei pat tad, ja nav pieteicies Microsoft 365 vai OneDrive. Izmantojiet šo informāciju, lai koplietotu informāciju ar ikvienu, kas ir jūsu uzņēmumā vai ārpus tā. Šo saiti var pārsūtīt arī jebkuram citam. 
     
 

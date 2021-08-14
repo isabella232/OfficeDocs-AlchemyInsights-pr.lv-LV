@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989634"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Esošas vietnes saistīšana ar centrmezgla vietni
 
-Lai esošu vietni saistītu ar centrmezgla vietni, veiciet tālāk norādītās darbības.
+Lai saistītu esošu vietni ar savu centrmezgla vietni, rīkojieties šādi:
   
-1. Savā vietnē atlasiet **Iestatījumi** (zobrata ikona augšējā labajā stūrī) un pēc tam atlasiet **vietnes informācija**.
+1. Savā vietnē atlasiet **Iestatījumi** (zobrata ikona augšējā labajā stūrī) un pēc tam atlasiet **Vietnes informācija**.
 
-2. Panelī **vietnes informācijas rediģēšana** izvēlnē **centrmezgla vietnes piesaiste** atlasiet centrmezgla vietni, ko vēlaties saistīt ar savu vietni, un pēc tam noklikšķiniet uz **Saglabāt**. Jūsu vietnes izskats mainīsies atbilstoši centrmezgla vietnes un centrmezgla vietnes navigācijas joslas augšdaļā.
+2. Paneļa **Vietnes informācijas rediģēšana** izvēlnē Centrmezgla **vietnes saistīšana** atlasiet centrmezgla vietni, ko vēlaties saistīt ar savu vietni, un pēc tam noklikšķiniet uz **Saglabāt.** Jūsu vietnes izskats mainīsies atbilstoši centrmezgla vietnes statusam, un augšdaļā tiks parādīta centrmezgla vietnes navigācijas josla.
 
 >**Piezīme**
 >
->Ja centrmezgla vietnes piesaistes opcija nav pieejama vai šeit nav norādīta neviena vietne, centrmezgla vietnes var netikt iespējotas vai arī jums nav atļaujas piesaistīt vietnes, izmantojot centrmezgla vietni. Lai iegūtu papildinformāciju, sazinieties ar administratoru.
+>Ja centrmezgla vietnes saistīšanas opcija nav pieejama vai tajā nav norādīta neviena vietne, centrmezgla vietnes, iespējams, nav iespējotas vai jums nav atļaujas saistīt vietnes ar centrmezgla vietni. Lai iegūtu papildinformāciju, sazinieties ar administratoru.
 >
->Nav ierobežojumu attiecībā uz vietņu skaitu, kas var būt saistītas ar centrmezgla vietni.
+>Nav ierobežojumu vietņu skaitam, kas var būt saistīti ar centrmezgla vietni.
   

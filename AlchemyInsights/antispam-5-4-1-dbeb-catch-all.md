@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e0e9b4fec0615943227f40043aeed842e8ee556c5916a59f65e79ce121ec9547
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932284"
 ---
 # <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Piegādes problēmu (kļūdas kods 550 5.4.1 pārraide liegta) novēršana
 
@@ -26,6 +26,6 @@ ms.locfileid: "51821454"
 1. Nosakiet, vai problēma ir raksturīga visam domēnam vai vienai e-pasta adresei:
     - Viss domēns: dažreiz domēns ir jāsinhronizē; mēģiniet [iestatīt domēnu uz Iekšējs un pēc tam atpakaļ uz Autoritatīvs](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
     - Viena e-pasta adrese: dažreiz adrese ir jāsinhronizē; smtp starpniekservera adreses maiņa un pēc tam atpakaļadreses maiņa var palīdzēt.
-2. Nosakiet, vai problēma ir specifiska grupai vai publiskai mapei. Dažu objektu tipu gadījumā objektus var būt nepieciešams manuāli izveidot pakalpojumā Azure Active Directory.
+2. Nosakiet, vai problēma ir specifiska grupai vai publiskai mapei. Dažiem objektu tipiem objektus var būt nepieciešams manuāli izveidot Azure Active Directory.
 
 Ja jums nepieciešama papildu palīdzība, lūdzu, atveriet atbalsta biļeti un norādiet problēmas tvērumu (tostarp tā objekta veidu, uz kuru nosūtāt), lai mēs varētu jums palīdzēt labāk.
