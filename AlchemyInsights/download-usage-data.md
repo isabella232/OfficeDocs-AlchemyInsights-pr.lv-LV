@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004269"
 ---
 # <a name="download-usage-data"></a>Lejupielādēt lietojuma datus
 
-Jūs esat atlasījis abonementu, kas saistīts ar Azure Enterprise līgumu.
+Esat atlasījis abonementu, kas saistīts ar Azure līgumu enterprise.
 
-Lai skatītu un lejupielādētu lietojuma datus kā uzņēmuma Azure (EA) klientu, veiciet tālāk norādītās darbības.
+Lai skatītu un lejupielādētu lietojuma datus kā Enterprise Azure (EA) klients, veiciet šādas darbības:
 
 > [!NOTE]
-> Jums ir jābūt uzņēmuma administratoram, konta īpašniekam vai nodaļas administratoram, kur ir iespējota skatīšanas izmaksu politika. 
+> Jums jābūt uzņēmuma administratoram, konta īpašniekam vai nodaļas administratoram ar iespējotu skatīšanas izmaksu politiku. 
 
-1. Pierakstieties Azure portālā un meklējiet **izmaksu pārvaldību + norēķini**.
-2. Atlasiet norēķinu profilu un noklikšķiniet uz **lietojums + izmaksas**.
-3. Ekrānā, kas tiek parādīts, izvēlieties mēnesi, kuram ir jāveido atskaite, un noklikšķiniet uz **lejupielādēt**.
+1. Pierakstieties Azure portālā un meklējiet Izmaksu **pārvaldība+norēķini.**
+2. Atlasiet norēķinu profilu un noklikšķiniet uz **Lietojums + izmaksas**.
+3. Parādītā ekrānā izvēlieties mēnesi, kuram atskaite ir nepieciešama, un noklikšķiniet uz **Lejupielādēt.**
 
-Ja ir nepieciešama rēķina kopija, sazinieties ar Microsoft licencēšanas partneri (partnera vai programmatūras padomnieks). Tās izlabos Call-Logging rīku (CLT) reģionālās darbību centram (ROC), izmantojot Explore.ms.
+Ja nepieciešama rēķina kopija, sazinieties ar savu Microsoft licencēšanas partneri (partneri vai programmatūras konsultantu). Viņi kāpēks Call-Logging (CLT) reģionālajā operāciju centrā (ROC) līdz Explore.ms.
 
-**Update-Nov 2020**
+**Atjauninājums — 2020. gada nov.**
 
-Atlasītajiem EA tiešajiem klientiem mēs sākām izmantot līdzekli (privāts priekšskatījums), lai **lejupielādētu rēķinu** funkcionalitāti Azure portālā. Lai lejupielādētu rēķinu kā daļu no līdzekļa **Private Preview** , veiciet tālāk norādītās darbības.
+Atlasītajiem EA Direct Commercial klientiem Azure portālā  ir palaists līdzeklis (privāts priekšskatījums) rēķina lejupielādes funkcionalitātei. Lai lejupielādētu rēķinu kā daļu no privātā **priekšskatījuma** līdzekļa, veiciet tālāk norādītās darbības.
 
 1. Pierakstieties Azure portālā, izmantojot vietrādi URL: https://portal.azure.com/?EaInvoice=true 
-2. Meklējiet atslēgas vārdus **Izmaksu pārvaldība + Norēķini**. 
-3. Noklikšķiniet uz **lietojums + izmaksas**. 
-4. Ekrānā, kas tiek parādīts, izvēlieties mēnesi, kuram ir jāveido atskaite, un noklikšķiniet uz **lejupielādēt**.
+2. Meklējiet **Izmaksu pārvaldība + norēķini**. 
+3. Noklikšķiniet **uz Lietojums+ izmaksas.** 
+4. Parādītā ekrānā izvēlieties mēnesi, kuram atskaite ir nepieciešama, un noklikšķiniet uz **Lejupielādēt.**

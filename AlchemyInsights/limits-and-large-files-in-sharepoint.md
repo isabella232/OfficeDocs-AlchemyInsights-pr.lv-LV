@@ -1,5 +1,5 @@
 ---
-title: Ierobežojumi un lieli faili vidē SharePoint
+title: Ierobežojumi un lieli faili programmā SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986709"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Faili, kurus nevar augšupielādēt pakalpojumā SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Faili, ko nevar augšupielādēt pakalpojumā SharePoint Online
 
 Ja failu nevar augšupielādēt pakalpojumā SharePoint Online, pārliecinieties, vai:
   
-- Tā lielums ir mazāks par 15 GB.
+- Tā lielums nepārsniedz 15 GB.
     
 - Viss ceļš, ieskaitot faila nosaukumu, ir mazāks par 400 rakstzīmēm.
     
-- Faila nosaukumā nav rakstzīmju " \* : \< \> ? / \ | un nav [nederīgo nosaukumu](https://go.microsoft.com/fwlink/?linkid=866430)sarakstā.
+- Faila nosaukumā nav rakstzīmju \* ": \< \> ? / \ | un nav nederīgo nosaukumu [sarakstā.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Ja mēģināt augšupielādēt failu, izmantojot OneDrive datora programmu, skatiet rakstu [ierobežojumi, sinhronizējot failus un mapes](https://go.microsoft.com/fwlink/p/?LinkID=717734) vai [izlabojat OneDrive sinhronizācijas problēmas](https://go.microsoft.com/fwlink/?linkid=866431).
+Ja mēģināt augšupielādēt failu, izmantojot datora programmu OneDrive, skatiet [](https://go.microsoft.com/fwlink/p/?LinkID=717734) rakstu Ierobežojumi, sinhronizējot failus un mapes, vai Problēmu [OneDrive sinhronizācija novēršana.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

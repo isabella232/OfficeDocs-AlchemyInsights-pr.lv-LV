@@ -1,5 +1,5 @@
 ---
-title: E-pasta rēķins-mantots
+title: E-mail Invoice - Mantota
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003630"
 ---
-# <a name="e-mail-invoice---legacy"></a>E-pasta rēķins-mantots
+# <a name="e-mail-invoice---legacy"></a>E-mail Invoice - Mantota
 
-**Piedalīšanās, lai saņemtu abonementa rēķinus pa e-pastu**
+**Pieteikšanās abonementa rēķinu saņemšanai pa e-pastu**
 
-Jums ir jābūt konta administratora lomai abonementā vai atbalsta plānā, lai pieteiktos saņemt rēķinu pa e-pastu. E-pasta rēķini ir pieejami tikai abonementiem un atbalsta plāniem, nevis rezervācijām vai Azure Marketplace pirkumiem. Kad esat pieteicies, varat pievienot papildu adresātus, kas saņems rēķinu arī pa e-pastu.
+Lai piekristu konta rēķinus saņemt pa e-pastu, jums abonementā vai atbalsta plānā ir jābūt šī konta administratora lomai. E-pasta rēķini ir pieejami tikai abonementiem un atbalsta plāniem, bet ne rezervācijām vai Azure Marketplace pirkumiem. Kad esat izvēlējies, varat pievienot papildu adresātus, kas saņems rēķinu pa e-pastu.
 
-Veiciet tālāk norādītās darbības, lai saņemtu abonementa rēķinus, izmantojot e-pastu:
+Lai saņemtu rēķinus par abonementu pa e-pastu, veiciet tālāk norādītās darbības.
 
 1. Pierakstieties [Azure portālā](https://portal.azure.com/).
-2. Meklējiet **izmaksu pārvaldību + norēķini**.
-3. Atlasiet **rēķini** no kreisās puses opcijām.
-4. Atlasiet savu Azure abonementu vai atbalsta plānu abonementu un pēc tam atlasiet **saņemt rēķinu pa e-pastu**.
-5. Noklikšķiniet uz **e-pasta rēķins** un akceptējiet noteikumus.
-6. Rēķins tiek nosūtīts uz vēlamo saziņas e-pasta ziņojumu. Atlasiet **atjaunināt profilu** , lai atjauninātu e-pasta ziņojumu.
+2. Meklējiet **Izmaksu pārvaldība + norēķini**.
+3. Opcijās **kreisajā** pusē atlasiet Rēķini.
+4. Atlasiet savu Azure abonementu vai atbalsta plāna abonementu un pēc tam **Saņemt rēķinu pa e-pastu**.
+5. Noklikšķiniet un **E-pasta rēķins** un piekrītiet nosacījumiem.
+6. Rēķins tiek nosūtīts uz vēlamo saziņas e-pasta adresi. Atlasiet **Atjaunināt profilu,** lai atjauninātu e-pasta adresi.
 
 **Papildu adresātu pievienošana rēķinu saņemšanai**
 
-Lai katru mēnesi koplietotu abonementa rēķinus un atbalsta plānu ar savu grāmatvedības grupu vai nosūtītu tos uz kādu citu e-pasta adresi:
+Lai koplietotu sava abonementa rēķinus un atbalsta plānu katru mēnesi ar savu grāmatvedības grupu vai nosūtītu tos uz kādu no jūsu e-pasta adresēm:
 
-1. Veiciet iepriekš aprakstītās darbības, lai vispirms iespējotu rēķinu pa e-pastu un pēc tam atlasiet **konfigurēt adresātus.**
-2. Ievadiet e-pasta adresi un pēc tam atlasiet **Pievienot adresātu**. Varat pievienot vairākas e-pasta adreses.
-3. Kad esat pievienojis visas e-pasta adreses, atlasiet **gatavs** ekrāna lejasdaļā.
+1. Izpildiet iepriekš minētās darbības, lai vispirms iespējotu rēķinu pa e-pastu, un pēc tam **atlasiet Konfigurēt adresātus.**
+2. Ievadiet e-pasta adresi un atlasiet **Pievienot adresātu**. Varat pievienot vairākas e-pasta adreses.
+3. Kad esat pievienojis visas e-pasta adreses, ekrāna lejasdaļā atlasiet **Gatavs**.
 
-**Atļaut citiem lejupielādēt jūsu abonementa rēķinu**
+**Atļaušana citiem lejupielādēt jūsu abonementa rēķinu**
 
-Lai ļautu lietotājiem/grupām ar abonementa līmeņa piekļuvi lejupielādēt rēķinu:
+Lai atļautu lietotājiem/grupām ar abonementa līmeņa piekļuvi lejupielādēt rēķinu:
 
-1. Pierakstieties [Azure portālā](https://portal.azure.com/) kā konta administrators abonementam.
-2. Meklējiet **izmaksu pārvaldību + norēķini**.
-3. Atlasiet **rēķini** no kreisās puses opcijām.
+1. Pierakstieties [Azure portālā](https://portal.azure.com/) kā abonementa konta administrators.
+2. Meklējiet **Izmaksu pārvaldība + norēķini**.
+3. Opcijās **kreisajā** pusē atlasiet Rēķini.
 4. Atlasiet savu Azure abonementu un pēc tam noklikšķiniet uz **Atļaut citiem lejupielādēt rēķinu**.
-5. Atlasiet **ieslēgts** un pēc tam **saglabājiet** lapas augšdaļā.
+5. Lapas augšdaļā atlasiet **Ieslēgt** un pēc tam **Saglabāt**.
 
 > [!NOTE]
-Ja neesat konta administrators, sazinieties ar konta administratoru, lai veiktu iepriekš minētos norādījumus, lai pieteiktos, pievienotu adresātus vai atļautu citiem lietotājiem lejupielādēt rēķinu.
+Ja neesat konta administrators, sazinieties ar savu konta administratoru, lai ievērotu iepriekš sniegtos norādījumus par atteikšanos, pievienotu adresātus vai atļautu citiem lietotājiem lejupielādēt rēķinu.
