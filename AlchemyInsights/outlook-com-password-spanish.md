@@ -1,5 +1,5 @@
 ---
-title: Outlook.com parole spāņu valodā
+title: Outlook.com parole spāņu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 50347411bcb318227f47c654719c475f5202422e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40b220e28a616317ca70780fda6bb3800fdc1766b1aba45a8d49b9beb2b8bd89
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095945"
 ---
-# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cķmo Iniciar o cerrar Sesión EN Outlook.com
+# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cómo iniciar o cerrar sesión en Outlook.com
 
-SI Nr. puede Iniciar Sesión EN SU Cuenta de correo electrónico de Outlook.com, Hotmail, Live, Ak MSN, o nav sabe con Seguridad Cķmo Iniciar o cerrar Sesión, [aquķ TIENE algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Si no puede iniciar sesión en su cuenta de correo electšifrē de Outlook.com, Hotmail, Live, o MSN, o no sabe con seguroka cómo iniciar o cerrar sesión, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-SI todavía TIENE problemas con El Inicio de Sesión, teļa gaļa [Cuando nav puede Iniciar Sesión EN SU Cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Si todavía tiene problemas con el inicio de sesión, vea [Culla no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).

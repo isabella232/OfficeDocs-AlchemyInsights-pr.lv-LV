@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951680"
 ---
 # <a name="app-permission-policies"></a>Programmu atļauju politikas
 
-Izmantojot [programmu atļauju politikas](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), varat veikt tālāk norādītās darbības.
-- Kā administrators varat pārvaldīt programmu iestatīšanas politikas [Microsoft Teams administrēšanas centrā](https://admin.teams.microsoft.com/policies/app-permission).
-- Kontrolējiet, kādas programmas ir pieejamas Microsoft Teams lietotājiem savā organizācijā, izmantojot globālo politiku, vai [izveidot un piešķirt pielāgotas politikas](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) , lai pielāgotu un kontrolētu lietotāju piekļuvi programmām. 
+Izmantojot [programmu atļauju politikas,](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)varat veikt šādas darbības:
+- Kā administrators varat pārvaldīt programmu iestatīšanas politikas Microsoft Teams [centrā.](https://admin.teams.microsoft.com/policies/app-permission)
+- Kontrolējiet to, kādas lietojumprogrammas ir pieejamas Microsoft Teams [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) lietotājiem jūsu organizācijā, izmantojot globālo politiku, vai izveidojiet un piešķiriet pielāgotas politikas, lai pielāgotu un kontrolētu lietotāju piekļuvi programmām. 
 > [!NOTE]
-> Organizācijas programmas iestatījumi ignorē globālo politiku un visas pielāgotās politikas, ko veidojat un piešķirat lietotājiem.
-- [Programmu iestatīšanas politikas](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) varat izmantot, lai pielāgotu Microsoft Teams un izceltu programmas, kas ir vissvarīgākās jūsu lietotājiem. 
+> Organizācijas līmeņa programmu iestatījumi ignorē globālo politiku un pielāgotās politikas, ko izveidojat un piešķirat lietotājiem.
+- Varat izmantot programmu [iestatīšanas politikas,](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) lai Microsoft Teams iezīmētu lietotājiem svarīgākās programmas. 
 
 
-Papildinformāciju par programmu politiku izveidi savam nomniekam skatiet rakstā:
-- [Programmu pārvaldība Microsoft Teams administrēšanas centrā](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Programmu atļauju politikas pārvaldība pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Pielāgoto programmu politiku un iestatījumu pārvaldība pakalpojumā Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Papildinformāciju par to, kā izveidot lietojumprogrammu politikas savam nomniekam, skatiet šeit:
+- [Programmu pārvaldība Microsoft Teams centrā](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Programmu atļauju politiku pārvaldība programmā Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Pielāgotu programmu politiku un iestatījumu pārvaldība programmā Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

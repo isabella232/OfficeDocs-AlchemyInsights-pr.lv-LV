@@ -1,5 +1,5 @@
 ---
-title: ARA klienta papildu konfigurācija
+title: AIP klienta papildu konfigurācija
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951824"
 ---
-# <a name="aip-client-advanced-configuration"></a>ARA klienta papildu konfigurācija
+# <a name="aip-client-advanced-configuration"></a>AIP klienta papildu konfigurācija
 
-Vai ir problēmas ar klientiem, kuriem ir papildu konfigurācija? Ja tā ir, veiciet tālāk norādītās darbības.
+Vai ir radušās problēmas ar AIP klienta papildu konfigurāciju? Ja tā ir, rīkojieties šādi:
 
-1. Iespējams, izmantojat aptvertās politikas, kas nav pareizi konfigurētas. Papildinformāciju skatiet rakstā [Azure informācijas aizsardzības politikas konfigurēšana konkrētiem lietotājiem, izmantojot aptvertās politikas](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Iespējams, jūs izmantojat tvēruma politikas, kas nav pareizi konfigurētas. Papildinformāciju skatiet rakstā Kā konfigurēt Azure informācijas aizsardzības [politiku konkrētiem lietotājiem, izmantojot tvēruma politikas.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 
-2. Ja joprojām rodas problēmas, skatiet tālāk norādītos resursus. Ja problēma joprojām pastāv neatrisināta, izmantojiet problēmu un pievienojiet to atbalsta biļetei.
+2. Ja problēma joprojām rodas, skatiet tālāk esošos resursus. Ja problēma netiek novērsta, uzņemiet problēmas ekrānuzņēmumu un pievienojiet to atbalsta biļetei.
 
-Papildu resursus skatiet:
+Papildu resursus meklējiet šeit:
 
-- [Azure Information Protection politikas iestatījumu konfigurēšana](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Kā konfigurēt Azure informācijas aizsardzības politikas iestatījumus](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
 - [Administrēšanas rokasgrāmata: pielāgotas konfigurācijas Azure informācijas aizsardzības klientam](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
 - [Kas ir Azure informācijas aizsardzība?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Padomi bieži lietotajiem scenārijiem, kuros tiek izmantota Azure informācijas aizsardzība](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Detalizēti norādījumi vispārējiem scenārijiem, kuros tiek izmantots pakalpojums Azure informācijas aizsardzība](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
 - [Azure informācijas aizsardzības politikas konfigurēšana](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [Noklusējuma Azure informācijas aizsardzības politika](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [Azure informācijas aizsardzības noklusējuma politika](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Kā izveidot jaunu uzlīmi pakalpojumam Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Kā izveidot jaunu etiķeti Azure informācijas aizsardzībai](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Kā konfigurēt etiķeti tiesību pārvaldības aizsardzībai](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Uzlīmes konfigurēšana tiesību pārvaldības aizsardzībai](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
 - [Azure informācijas aizsardzības prasības](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 

@@ -1,5 +1,5 @@
 ---
-title: Problēmas ar nevēlamo e-pastu, kas apgalvo, ka ir no LinkedIn
+title: Problēmas saistībā ar nevēlamu e-pastu ar norādi par to, ka tas ir no LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095981"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problēmas ar nevēlamo e-pastu, kas apgalvo, ka ir no LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problēmas saistībā ar nevēlamu e-pastu ar norādi par to, ka tas ir no LinkedIn
 
-Mēs esam informēti, ka daži lietotāji saņem nevēlamo e-pastu, kas apgalvo, ka ir no LinkedIn.
+Mēs zinām, ka daži lietotāji saņem nevēlamu e-pastu, kurā tiek norādīts, ka tas ir no LinkedIn.
 
-Iesakām izmantot iesūtnes kārtulu, lai filtrētu šos e-pasta ziņojumus.
+Mēs iesakām izmantot iesūtnes kārtulu, lai filtrētu šos e-pasta ziņojumus.
 
-Lai iegūtu papildinformāciju, izlasiet rakstu [iesūtnes kārtulu izmantošana programmā Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai iegūtu papildinformāciju, izlasiet, [kā izmantot iesūtnes kārtulas vietnē Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

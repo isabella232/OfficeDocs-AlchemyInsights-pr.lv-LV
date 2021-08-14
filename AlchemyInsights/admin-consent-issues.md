@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952580"
 ---
 # <a name="admin-consent-issues"></a>Administratora piekrišanas problēmas
 
-1. Iespējojiet [administratora piekrišanas darbplūsmu](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) , lai atļautu lietotājiem pieprasīt administratora apstiprinājumu tieši no piekrišanas ekrāna.
+1. Iespējojiet [administratora piekrišanas darbplūsmu,](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) lai ļautu lietotājiem pieprasīt administratora apstiprinājumu tieši no piekrišanas ekrāna.
 
-1. Ja jūs vai jūsu lietojumprogrammas lietotāji piekrišanas procesa laikā redz neparedzētas kļūdas, skatiet šo rakstu, lai uzzinātu problēmu novēršanas darbības: [neparedzēta kļūda, veicot piekrišanu lietojumprogrammai](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Ja jums vai jūsu lietojumprogrammas lietotājiem piekrišanas procesa laikā tiek rādītas neparedzētas kļūdas, skatiet šo rakstu, lai uzzinātu problēmu novēršanas darbības: Neparedzēta kļūda, kas rodas, izpildot [piekrišanu lietojumprogrammai.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
 
-1. Uzziniet vairāk par [administratora piekrišanu Microsoft identitātes platformā](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), kā tiek [parādīta piekrišana](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) , kā arī kā [novērtēt pieprasījumu, kas saistīts ar nomnieka administratora piekrišanu](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. Iegūstiet papildinformāciju par administratora [piekrišanu Microsoft indentitāšu platforma,](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)kā darbojas piekrišanas uzvedne un kā novērtēt nomnieka administratora [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) [piekrišanas pieprasījumu.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
 
-1. Lietojumprogrammas, kas ir integrētas ar Microsoft identitātes platformu, atbilst autorizācijas modelim, kas sniedz lietotājiem un administratoriem iespēju kontrolēt datu piekļuves iespējas. Autorizācijas modeļa ieviešana ir atjaunināta Microsoft identitātes platformas galapunktā, un tā maina, kā lietojumprogrammai ir jāmijiedarbojas ar Microsoft identitātes platformu. Pārskatu par šo autorizācijas modeli, ieskaitot tvērumus, atļaujas un piekrišanu, skatiet [Microsoft identitātes platformas galapunktā atļaujas un piekrišana](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) .
+1. Lietojumprogrammas, kas Microsoft indentitāšu platforma ar autorizācijas modeli, kas sniedz lietotājiem un administratoriem iespēju kontrolēt datu piekļuvi. Autorizācijas modeļa ieviešana ir atjaunināta galapunktā Microsoft indentitāšu platforma, un tas maina, kā lietojumprogrammai ir jāveic mijiedarbība ar Microsoft indentitāšu platforma. Skatiet [atļaujas un piekrišanu galapunktā Microsoft indentitāšu platforma pārskatu](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) par šo autorizācijas modeli, tostarp tvērumu, atļaujas un piekrišanu.
