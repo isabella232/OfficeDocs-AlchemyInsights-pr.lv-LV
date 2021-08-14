@@ -1,5 +1,5 @@
 ---
-title: Microsoft meklēšanas iestatīšanas ceļvedis
+title: Microsoft Search iestatīšanas ceļvedis
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975810"
 ---
-# <a name="microsoft-search-setup-guide"></a>Microsoft meklēšanas iestatīšanas ceļvedis
+# <a name="microsoft-search-setup-guide"></a>Microsoft Search iestatīšanas ceļvedis
 
-Izmantojiet [Microsoft Search iestatīšanas rokasgrāmatu](https://go.microsoft.com/fwlink/?linkid=2153798) , lai iestatītu un konfigurētu Microsoft Search. Neatkarīgi no tā, vai vēlaties to izmēģināt lietotāju grupai vai veikt to visiem lietotājiem jūsu organizācijā. Jūs piešķirsit meklēšanas administratorus un meklēšanas redaktorus un pēc tam pielāgojat meklēšanas pieredzi saviem lietotājiem ar atbildēm un papildu opcijām, piemēram, pievienot Bing paplašinājumu Chrome vai iestatīt Bing kā noklusējuma meklētājprogrammu.
+Izmantojiet [iestatīšanas Microsoft Search,](https://go.microsoft.com/fwlink/?linkid=2153798) lai iestatītu un konfigurētu Microsoft Search. Neatkarīgi no tā, vai vēlaties to izmēģināt lietotāju grupai vai izmantot to visiem lietotājiem savā organizācijā. Jums būs jāpiešķir meklēšanas administratori un meklēšanas redaktori un pēc tam jāpielāgo lietotāju meklēšanas iespējas ar atbildēm un papildu opcijām, piemēram, paplašinājuma Bing pievienošana pārlūkprogrammai Chrome vai noklusējuma meklētājprogrammas iestatīšana Bing.
