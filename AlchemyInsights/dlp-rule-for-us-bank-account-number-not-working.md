@@ -1,5 +1,5 @@
 ---
-title: DLP rules ASV bankas konta numurs nedarbojas
+title: DLP kārtula ASV bankas konta numuram nedarbojas
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005025"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP problēmas ar ASV bankas kontu numuriem
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP problēmas ar ASV bankas konta numuriem
 
 **Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
-**DLP problēmas ar ASV bankas kontu numuriem**
+**DLP problēmas ar ASV bankas konta numuriem**
 
-Vai rodas problēmas saistībā ar **datu zuduma novēršanu (DLP)** , kas nestrādā ar saturu, kas satur **ASV bankas konta numuru** , izmantojot DLP sensitīvas informācijas tipu programmā O365? Ja tā ir, pārliecinieties, vai saturs satur nepieciešamo informāciju par DLP politikas izskatu, kad tas tiek novērtēts.
+Vai, izmantojot DLP sensitīvas informācijas tipu O365, rodas problēmas saistībā ar datu zuduma novēršanu **(DLP)** nedarbojas saturam, kurā ir **ASV** bankas konta numurs? Šādā gadījumā pārliecinieties, vai jūsu saturā ir nepieciešamā informācija par to, ko meklē DLP politika, kad tā tiek novērtēta.
   
-Piemēram, ja **ASV bankas konta numura** politika ir konfigurēta ar 85% ticamības līmeni, tiek novērtētas tālāk norādītās darbības, kas ir jāatrod, lai kārtula tiktu aktivizēta:
+Piemēram, ASV bankas konta **numura** politikai, kas konfigurēta ar 85% ticamības līmeni, tiek novērtēti un jānosaka, kā kārtula aktivizē:
   
-- **[Formāts:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 cipari
+- **[Formāts:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8–17 cipari
 
-- **[Modelis:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 secīgi skaitļi.
+- **[Raksts:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8–17 secīgi cipari.
 
-- **[Kontrolsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nē, nav kontrolsummas
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nē, nav nevienas checksum
 
-- **[Definīcija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP politika ir 75% pārliecināts, ka tā ir atklājusi šādu sensitīvas informācijas tipu, ja 300.
+- **[Definīcija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP politika ir 75% droša, ka tā konstatē šāda veida sensitīvo informāciju, ja tuvumā ir 300 rakstzīmes:
 
-  - Parastā izteiksme Regex_usa_bank_account_number atrod saturu, kas atbilst rakstam
+  - Parastā izteiksme Regex_usa_bank_account_number atrast saturu, kas atbilst modelim
 
-  - Ir atrasts atslēgvārds no Keyword_usa_Bank_Account.
+  - Tiek atrasts Keyword_usa_Bank_Account atslēgvārds.
 
-    Piemēram, tālāk sniegtais piemērs izraisa **ASV bankas konta numura** politiku: konta 78344011 pārbaude
+    Piemēram, tālāk sniegtajā paraugā ir norādīts ASV bankas konta **numura** politikas trigeris: konta numura 78344011
 
-Lai iegūtu papildinformāciju par to, kas ir nepieciešams **ASV bankas konta numura** noteikšanai, skatiet šī raksta nākamajā sadaļā: [kādi ir sensitīvo informācijas tipi meklēt ASV bankas konta numuru](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+Lai iegūtu papildinformāciju par to, kas ir nepieciešams **ASV** bankas konta numura noteikšanai, lai noteiktu jūsu saturu, skatiet šī raksta sadaļu: Sensitīvās informācijas tipi meklē [ASV bankas konta numuru](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Citas iebūvētas sensitīvas informācijas tipa izmantošana ir atrodama šajā rakstā, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: [ko nozīmē sensitīvie informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Izmantojot citu iebūvēto sensitīvās informācijas tipu, skatiet šo rakstu, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: Ko meklē sensitīvās [informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

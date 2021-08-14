@@ -1,5 +1,5 @@
 ---
-title: Uzņēmuma datu dzēšana no Intune pārvaldītajām lietojumprogrammām
+title: Tīrīt korporatīvos datus no Intune pārvaldītām programmām
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997753"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Uzņēmuma datu dzēšana no Intune pārvaldītajām lietojumprogrammām
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Tīrīt korporatīvos datus no Intune pārvaldītām programmām
 
-Intune atbalsta uzņēmuma datu noņemšanu no lietojumprogrammas aizsardzības politikas (lietojumprogrammas) pārvaldītās lietojumprogrammas. 
+Intune atbalsta korporatīvo datu noņemšanu no lietojumprogrammu aizsardzības politikas (APP) pārvaldītajām lietojumprogrammām. 
 
-Lai uzzinātu vairāk par to, kā noslaucīt, dzēst vai noņemt uzņēmuma datus no šīm programmām, skatiet rakstu [kā izdzēst tikai korporatīvos datus no Intune pārvaldītajām lietojumprogrammām](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+Lai uzzinātu vairāk par uzņēmuma datu dzēšanu, dzēšanu vai noņemšanu no šīm lietojumprogrammām, skatiet rakstu Kā tīrīt tikai korporatīvos datus [no Intune pārvaldītām programmām.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

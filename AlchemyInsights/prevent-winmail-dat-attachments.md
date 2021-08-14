@@ -1,5 +1,5 @@
 ---
-title: 2589 palīdz novērst winmail. dat pielikumus e-pasta ziņojumos no jūsu organizācijas
+title: 2589 palīdzība par Winmail.dat pielikumu novērsšanu e-pasta ziņojumos no organizācijas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64212b0a8cb1ccd2158aaa84ea2725b879e608ab4fcada1fbf1032e896be12c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923825"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Kā novērst winmail. dat pielikumus e-pasta ziņojumos no jūsu organizācijas
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Kā novērst Winmail.dat pielikumu sūtnēs no jūsu organizācijas
 
-Kā administrators izmēģiniet tālāk norādītās darbības.
+Kā administrators mēģiniet veikt šādas darbības:
 
 1. Atveriet [Exchange administrēšanas centru](https://outlook.office365.com/ecp/).
 
-2. Dodieties uz **pasta plūsmas**  >  **attālajiem domēniem**.
+2. Dodieties **uz Pasta plūsmas**  >  **attālie domēni**.
 
-3. Atlasiet noklusējuma attālo domēnu ar nosaukumu **Noklusējums**un pēc tam noklikšķiniet uz **Rediģēt**.
+3. Atlasiet noklusējuma attālo domēnu ar nosaukumu **Noklusējums** un pēc tam noklikšķiniet uz **Rediģēt.**
 
-4. Sadaļā **bagātināta teksta formāta izmantošana** atlasiet **nekad**.
+4. Sadaļā **Izmantot bagātinātā teksta** formātu **atlasiet** Nekad.
 
-Papildinformāciju skatiet rakstā [attālo domēnu ziņojumu formāta norādīšana](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Papildinformāciju skatiet [rakstā Ziņojumu formāta norādīšana attāliem domēniem.](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)

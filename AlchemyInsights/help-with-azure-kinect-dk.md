@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: d5277cf2be141c1e0e650c1a80593cb7e3eead0b7d33f3c51f2325abfcf618b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945785"
 ---
 # <a name="help-with-azure-kinect-dk"></a>Palīdzība par Azure Kinect DK
 
-Azure Kinect DK sākuma palīglīnijas (iestatīšana, izstrādātāja palīdzība), padomi un problēmu novēršana skatiet [Azure Kinect DK dokumentācijā](https://docs.microsoft.com/azure/kinect-dk/).
+Azure Kinect DK īsās lietošanas pamācības (iestatīšana, izstrādātāju palīdzība), pamācību rokasgrāmatas un problēmu novēršana skatiet [Azure Kinect DK dokumentācijā.](https://docs.microsoft.com/azure/kinect-dk/)
 
 
-Lai saņemtu palīdzību par Xbox Kinect, skatiet rakstu [atbalsts pakalpojumā Xbox Kinect](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support).
+Lai saņemtu palīdzību par Xbox Kinect, [skatiet rakstu Xbox Kinect](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support)atbalsts.
