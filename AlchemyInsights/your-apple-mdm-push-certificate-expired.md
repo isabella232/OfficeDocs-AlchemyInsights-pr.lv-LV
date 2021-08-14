@@ -1,5 +1,5 @@
 ---
-title: Jūsu Apple MDM push sertifikāta derīguma termiņš ir beidzies
+title: Ir beidzies Apple MDM pašpiegādes sertifikāta derīgums
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997429"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Jūsu Apple MDM push sertifikāta derīguma termiņš ir beidzies
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Ir beidzies Apple MDM pašpiegādes sertifikāta derīgums
 
-Apple MDM pašpiegādes sertifikāts ir derīgs vienu gadu, un tas jāatjauno katru gadu, lai uzturētu iOS un macOS ierīču pārvaldību. Ja jūsu sertifikāta derīguma termiņš ir beidzies, ar to nav iespējams sazināties ar reģistrētajām Apple ierīcēm un jaunās ierīces nevar reģistrēt.
+Apple MDM pašpiegādes sertifikāts ir derīgs vienu gadu, un tas jāatjauno katru gadu, lai uzturētu iOS un macOS ierīču pārvaldību. Ja beidzas sertifikāta derīgums, nevar sazināties ar reģistrētam Apple ierīcēm un nevar reģistrēt jaunas ierīces.
 
-Informāciju par to, kā atjaunot Apple MDM push sertifikātu, skatiet rakstā [Apple MDM push sertifikāta atjaunošana](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Lai uzzinātu, kā atjaunot Apple MDM pašpiegādes sertifikātu, skatiet [rakstu Apple MDM pašpiegādes sertifikāta atjaunošana.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

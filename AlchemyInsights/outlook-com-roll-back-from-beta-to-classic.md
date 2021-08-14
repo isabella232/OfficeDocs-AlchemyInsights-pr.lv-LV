@@ -1,5 +1,5 @@
 ---
-title: Pieprasījums atritināt no Outlook.com beta uz klasisko Outlook.com
+title: Pieprasījums atriti no Outlook.com beta versijas uz klasisko Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961742"
 ---
-# <a name="the-new-outlookcom"></a>Jaunais Outlook.com
+# <a name="the-new-outlookcom"></a>Jaunā Outlook.com
 
-Vairs nav iespējams atstāt jauno Outlook.com pieredzi un atgriezties klasiskajā Outlook.com versijā.
+Vairs nav iespējams atstāt jauno Outlook.com versiju un atgriezties pie Outlook.com klasiskās versijas.
 
-Ja vēlaties sniegt atsauksmes par jauno Outlook.com, dodieties uz [UserVoice forumu](https://go.microsoft.com/fwlink/p/?linkid=851599). Jūs varat balsot par idejām vai problēmām, kuras vēlaties skatīt, un mēs atbildēsim tieši uz galvenajiem komentāriem un ieteikumiem.
+Ja vēlaties sniegt atsauksmes par jauno Outlook.com, dodieties uz [UserVoice forumu.](https://go.microsoft.com/fwlink/p/?linkid=851599) Varat balsot par idejām vai problēmām, kas jārisina, un mēs tieši atbildēsim uz populārākajiem komentāriem un ieteikumiem.
 
 [Saņemiet palīdzību par Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

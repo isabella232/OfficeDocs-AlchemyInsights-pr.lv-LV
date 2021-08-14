@@ -1,5 +1,5 @@
 ---
-title: Pārbaudiet, vai jums ir jaunākā Skype darbam versija
+title: Pārbaudiet, vai jums ir jaunākā Skype darbam
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000550"
 - "2388"
-ms.openlocfilehash: 5b9e7afe7393cf688db68d13b7964c714a516533
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: afc450afaa8abc4c666327f22bdf49f8590ee87adf781c9394fe75fd314791cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930664"
 ---
-# <a name="check-for-skype-for-business-updates"></a>Skype darbam atjauninājumu pārbaude
+# <a name="check-for-skype-for-business-updates"></a>Pārbaudīt, vai Skype darbam atjauninājumi
 
-Informāciju par jaunākajiem Skype darbam programmu atjauninājumiem visās platformās (Mac, Windows un Mobile) skatiet rakstā Sekošana jaunākajiem atjauninājumiem [pakalpojumā Skype darbam.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)
+Informāciju par jaunākajiem atjauninājumiem Skype darbam programmām visās platformās (Mac, Windows, Mobile) skatiet rakstā Sekošana jaunākajiem atjauninājumiem [Skype darbam.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)

@@ -1,5 +1,5 @@
 ---
-title: Kā pārbaudīt savu Outlook.com kontu
+title: Konta Outlook.com pārbaude
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961598"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Kā pārbaudīt savu Outlook.com kontu
+# <a name="how-to-verify-your-outlookcom-account"></a>Konta Outlook.com pārbaude
 
-Divsoļu pārbaude palīdz jūs aizsargāt, apgrūtinot citas personas pierakstīšanos savā Microsoft kontā. Tas izmanto divus atšķirīgus identitātes veidus: jūsu paroli un saziņas metodi (to sauc arī par drošības informāciju).
+Divsoļu pārbaude palīdz jūs aizsargāt, padarot citām personām grūtāku pierakstīsties jūsu Microsoft kontā. Tā izmanto divus atšķirīgus identitātes veidus: jūsu paroli un kādu saziņas metodi (dēvētu arī par drošības informāciju).
   
 Lai ieslēgtu vai izslēgtu divsoļu pārbaudi:
   
-1. Dodieties uz [lapu drošības pamati](https://go.microsoft.com/fwlink/?linkid=842325) un pierakstieties, izmantojot savu Microsoft kontu.
-2. Atlasiet **citas drošības opcijas**.
-3. Sadaļā **divsoļu pārbaude**atlasiet **Iestatīt divsoļu pārbaudi** un izpildiet norādījumus.
+1. Dodieties uz [lapu Drošības pamati un](https://go.microsoft.com/fwlink/?linkid=842325) pierakstieties ar savu Microsoft kontu.
+2. Atlasiet **Citas drošības opcijas**.
+3. Sadaļā **Divsoļu pārbaude** atlasiet **Iestatīt divsoļu pārbaudi un** izpildiet norādījumus.
 
-Ja ieslēdzat divsoļu pārbaudi, vienmēr ir nepieciešamas divas identifikācijas formas. Ja pazaudēsit savu saziņas metodi, parole vien netiks atgriezta jūsu kontā, un tā var ilgt 30 dienas, lai atgūtu piekļuvi.
+Ja ieslēdzat divsoļu pārbaudi, jums vienmēr būs nepieciešami divi identifikācijas veidi. Ja zaudēsit savu saziņas metodi, parole netiks atjaunota jūsu kontā— un var būt nepieciešamas 30 dienas, lai atgūtu piekļuvi.
   
-Uzziniet vairāk par [divsoļu pārbaudi](https://go.microsoft.com/fwlink/?linkid=872270).
+Uzziniet vairāk [par divsoļu pārbaudi.](https://go.microsoft.com/fwlink/?linkid=872270)
   

@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921626"
 ---
 # <a name="set-up-microsoft-information-governance"></a>Microsoft informācijas pārvaldības iestatīšana
 
-[Microsoft informācijas pārvaldības iestatīšanas rokasgrāmata](https://go.microsoft.com/fwlink/?linkid=2146529) sniedz jums informāciju, kas nepieciešama, lai iestatītu un pārvaldītu organizācijas pārvaldības stratēģiju, lai nodrošinātu, ka jūsu dati tiek klasificēti un pārvaldīti atbilstoši noteiktajām dzīves cikla vadlīnijām.
+[Microsoft informācijas pārvaldības iestatīšanas](https://go.microsoft.com/fwlink/?linkid=2146529) rokasgrāmata sniedz informāciju, kas nepieciešama jūsu organizācijas pārvaldības stratēģijas iestatīšanai un pārvaldībai, lai nodrošinātu, ka jūsu dati tiek klasificēti un pārvaldīti atbilstoši konkrētām iestatītajām dzīves cikla vadlīnijām.
 
-Šajā ceļvedī uzzināsit, kā izveidot, automātiski lietot vai publicēt etiķetes, etiķešu politikas un saglabāšanas politikas, kas tiek lietotas organizācijas atkārtoti izmantojamā satura un atbilstības ierakstiem. Jūs arī saņemsit informāciju par CSV failu importēšanu ar failu plānu lielapjoma scenārijiem vai to manuālu lietošanu atsevišķiem dokumentiem.
+Izmantojot šo rokasgrāmatu, uzzināsit, kā izveidot, automātiski lietot vai publicēt uzlīmes, etiķešu politikas un saglabāšanas politikas, kas tiek lietotas jūsu organizācijas atkārtoti izmantotā satura un atbilstības ierakstiem. Iegūstat arī informāciju par CSV failu importēšanu, izmantojot failu plānu lielapjoma scenārijiem vai manuāli to lietošanas atsevišķiem dokumentiem.
