@@ -1,5 +1,5 @@
 ---
-title: 1491 — meklēšana — netiek atgriezti — sagaidāmie rezultāti
+title: 1491-meklēšana-neatgriež-sagaidāmie-rezultāti
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e926db0d43f7586809ab78db66e861b8908a0ce61fb84498d1993bcc301d5f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985548"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Satura meklēšanas rīks, lai atrastu atbilstošo informāciju
+# <a name="content-search-tool-to-find-relevant-info"></a>Satura meklēšanas rīks, lai atrastu atbilstošu informāciju
 
-Drošības & atbilstības centrā Izmantojiet satura meklēšanas rīku, lai ātri atrastu e-pasta ziņojumus Exchange pastkastēs, dokumentos SharePoint vietnēs un OneDrive atrašanās vietās, kā arī tūlītējās ziņojumapmaiņas sarunas pakalpojumā Skype darbam. Varat izmantot satura meklēšanas rīku, lai meklētu e-pastu, dokumentus un tūlītējās ziņojumapmaiņas sarunas Microsoft 365 sadarbības rīkos, piemēram, Microsoft Teams un Microsoft 365 groups.
+Izmantojiet drošības & atbilstības centra satura meklēšanas rīku, lai ātri atrastu e-pastu Exchange pastkastēs, dokumentus SharePoint vietnēs un OneDrive atrašanās vietās, kā arī tūlītējās ziņojumapmaiņas sarunas Skype darbam. Varat izmantot satura meklēšanas rīku, lai meklētu e-pastu, dokumentus un tūlītējās ziņojumapmaiņas sarunas Microsoft 365 sadarbības rīkos, piemēram, Microsoft Teams un Microsoft 365 grupās.
 
 
-Pirms [satura meklēšanas](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) izmantošanas no [drošības & atbilstības centra](https://sip.protection.office.com/homepage), jūs vēlaties pabeigt konfigurācijas iestatījumus, tostarp [konfigurēt atļaujas](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), [Iestatīt lejupielādes ātrumu](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) un [eksportēšanas iestatījumus](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results).
+Pirms izmantot satura [meklēšanu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) no [drošības &](https://sip.protection.office.com/homepage)atbilstības centra, vēlēsities pabeigt konfigurācijas [](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) iestatījumus, tostarp konfigurēt [atļaujas,](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)iestatīt lejupielādes ātrumu un [eksportēt iestatījumus.](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)
 
-Uzziniet vairāk par satura meklēšanu, pārskatot [prasības un ierobežojumus](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search), [izmeklējot daļēji indeksētos vienumus](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) un citus rezultātus.
+Izprotiet papildinformāciju par satura meklēšanu, pārskatot prasības un ierobežojumus, pētot daļēji indeksētus vienumus un citus rezultātus, par ko ir jāzina. [](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
 
-Pēc satura meklēšanas konfigurācijas iestatījumu un ierobežojumu pārskatīšanas skatiet rakstu [satura meklēšanas izmantošana, </a> lai meklētu oriģinālus vienumus, piemēram, e-pastu, dokumentus un tūlītējās ziņojumapmaiņas sarunas jūsu organizācijā](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+Pēc satura meklēšanas konfigurācijas iestatījumu un ierobežojumu pārskatīšanas skatiet rakstu Satura meklēšanas izmantošana, lai meklētu tādus atrašanās vietas vienumus kā e-pasts, dokumenti un [ </a> tūlītējās ziņojumapmaiņas sarunas jūsu organizācijā.](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-Lai iegūtu papildinformāciju, skatiet rakstu satura meklēšanas detalizētas informācijas [meklēšana pakalpojumā Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) .
+Pilnīgu satura meklēšanas dejotā soli pa [](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) solim skatiet rakstā Satura meklēšana Microsoft 365 papildinformāciju.

@@ -1,5 +1,5 @@
 ---
-title: Dalībnieku pievienošana privātiem kanāliem
+title: Dalībnieku pievienošana privātajiem kanāliem
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: d5adc7f14baef80704d7455fafef36aed6cd5318
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953120"
 ---
-# <a name="adding-members-to-private-channels"></a>Dalībnieku pievienošana privātiem kanāliem
+# <a name="adding-members-to-private-channels"></a>Dalībnieku pievienošana privātajiem kanāliem
 
-Privāta kanāla īpašnieks ir tāds, kas izveido privātu kanālu, un šai personai ir tikai tiesības tieši pievienot vai noņemt personas. Privātie kanālu īpašnieki var pievienot jebkuru grupas dalībnieku privātam kanālam, ko tie ir radījuši, ieskaitot viesus.
+Privāta kanāla īpašnieks ir tas, kurš izveido privātu kanālu, un šai personai ir tikai tiesības tieši pievienot vai noņemt personas no tā. Privātā kanāla īpašnieki var pievienot jebkuru grupas dalībnieku privātam kanālam, ko viņi ir izveidojuši, tostarp viesus.
 
-Grupas īpašnieki var skatīt visu grupas privāto kanālu nosaukumus un var izdzēst arī jebkuru privātu kanālu komandā (dzēsts privāts kanāls var tikt atjaunots 30 dienu laikā pēc tā dzēšanas). Grupas īpašnieki nevar redzēt failus privātajā kanālā vai privātajā kanālā sarunas un dalībnieku sarakstā, ja vien tie nav šī privātā kanāla dalībnieki.
+Darba grupu īpašnieki savā grupā var skatīt visu privāto kanālu nosaukumus, kā arī var izdzēst jebkuru privātu kanālu grupā (izdzēstu privātu kanālu var atjaunot 30 dienu laikā pēc tā izdzēšanas). Grupu īpašnieki nevar skatīt failus privātā kanālā vai privāta kanāla sarunās un dalībnieku sarakstā, ja vien tie nav šī privātā kanāla dalībnieki.
 
-Grupas dalībnieki var skatīt tikai tos privātos kanālus, uz kuriem tie ir pievienoti.
+Grupas dalībnieki redz tikai privātos kanālus, kuriem viņi ir pievienoti.
 
-Papildinformāciju skatiet rakstā [īpašnieku un dalībnieku pievienošana un noņemšana](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) privātajos kanālos.
+Papildinformāciju skatiet rakstā [Īpašnieku un dalībnieku pievienošana un noņemšana no](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) privātajiem kanāliem.
