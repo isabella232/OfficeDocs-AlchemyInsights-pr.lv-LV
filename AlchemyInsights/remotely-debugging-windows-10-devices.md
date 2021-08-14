@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959402"
 ---
 # <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Darba sākšana ar attāli atkļūdošanas Windows 10 ierīcēm
 
-Lai attāli atkļūdotu tiešo saturu Windows 10 ierīcē no Windows vai macOS datora:
+Lai atkļūdotu tiešo saturu Windows 10 ierīcē no Windows vai macOS datora:
 
-1. Iestatiet savu Windows 10 ierīci attālajai atkļūdošanai un pēc tam izveidojiet ar to savienojumu no izstrādes datora.
-2. Pārbaudiet un atkļūdojiet tiešo saturu savā Windows 10 ierīcē no izstrādes datora.
-3. Screencast saturs no Jūsu Windows 10 ierīces izstrādes iekārtā DevTools instancē.
+1. Iestatiet savu ierīci Windows 10 attālai atkļūdošanai un pēc tam izveidojiet ar to savienojumu no izstrādes datora.
+2. Pārbaudiet un atkļūdojiet tiešo saturu savā Windows 10 no izstrādes datora.
+3. Screencast saturs no Windows 10 ierīces izstrādes datorā devTools instancē.
 
-Papildinformāciju skatiet rakstā [Darba sākšana ar attālo atkļūdošanu Windows 10 ierīcēs, kurās tiek izmantots microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Papildinformāciju skatiet rakstā [Darba sākšana atkļūdošana ierīcēs, Windows 10 izmanto Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

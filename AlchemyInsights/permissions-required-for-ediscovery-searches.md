@@ -1,5 +1,5 @@
 ---
-title: 1489 — atļaujas, kas nepieciešamas — e-datu atklāšanas meklēšana
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973848"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>E-datu atklāšanas meklēšanai nepieciešamās atļaujas
+# <a name="permissions-required-for-ediscovery-searches"></a>E-datu atklāšanas meklēšanām nepieciešamās atļaujas
 
-Lai veiktu satura meklēšanu drošības & atbilstības centrā, lietotājam ir jābūt vismaz dalībniekam e-datu atklāšanas pārvaldnieka lomu grupā, kas ļauj veikt meklēšanu un novietot aizturēšanu pastkastēs, SharePoint vietnēs un OneDrive atrašanās vietās. Dalībnieki var arī izveidot un pārvaldīt e-datu atklāšanas lietas, pievienot un noņemt dalībniekus lietai, izveidot un rediģēt satura meklēšanas rezultātus, kā arī piekļūt reģistra datiem, izmantojot papildu e-datu atklāšanu.
+Lai veiktu satura meklēšanu drošības & atbilstības centrā, lietotājam ir jābūt vismaz e-datu atklāšanas pārvaldnieka lomu grupas dalībniekam, kas ļauj veikt meklēšanu un aizturēšanu pastkastēs, SharePoint vietnēs un OneDrive atrašanās vietās. Dalībnieki var arī izveidot un pārvaldīt e-datu atklāšanas lietas, pievienot un noņemt dalībniekus lietai, izveidot un rediģēt satura meklēšanu, kā arī piekļūt gadījuma datiem Advanced eDiscovery.
 
-Lai veiktu oriģinālu e-datu atklāšanu meklēšanu Exchange administrēšanas centrā (EAC), lietotājam ir jābūt atklāšanas pārvaldības lomu grupai pakalpojumā Exchange Online.
+Lai In-Place e-datu atklāšanas meklēšanu Exchange administrēšanas centrā (EAC), lietotājam ir jābūt atklāšanas pārvaldības lomu grupas dalībniekam Exchange Online.
 
-Papildinformāciju par e-datu atklāšanas atļaujām skatiet šeit: 
+Papildinformāciju par e-datu atklāšanas atļaujām skatiet rakstā: 
 
 - [E-datu atklāšanas atļauju piešķiršana drošības & atbilstības centrā](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [E-datu atklāšanas atļauju piešķiršana Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Piezīme**. pēc e-datu atklāšanas atļauju piešķiršanas jums, iespējams, būs jāgaida dažas minūtes, lai atļaujas tiktu izplatītas.
+**Piezīme.** Pēc e-datu atklāšanas atļauju piešķiršanas var būt nepieciešamas dažas minūtes, līdz atļaujas tiks izplatītas.

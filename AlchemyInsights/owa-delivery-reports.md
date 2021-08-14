@@ -1,5 +1,5 @@
 ---
-title: Atskaites par neizdevušos piegādi programmā Outlook tīmeklī
+title: Atskaites par piegādātiem ziņojumiem programmā Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 278cec08da97517b980988b4981bbe9c0993b7df8eb47f275e8bb5572495916d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983202"
 ---
-# <a name="issues-with-email-delivery"></a>Problēmas ar e-pasta piegādi
+# <a name="issues-with-email-delivery"></a>Problēmas saistībā ar e-pasta piegādi
 
-Ja ir radusies problēma, nosūtot e-pasta ziņojumu, Microsoft 365 nosūta e-pastu, lai jūs varētu uzzināt. Saņemtais e-pasta ziņojums ir piegādes statusa paziņojums, ko dēvē arī par DSN vai Bounce ziņojumu. Biežāk lietotā tipa nosaukums ir atskaite par neizdevušos piegādi (NDR), kas norāda, ka ziņojums netika piegādāts. Non-delivery var izraisīt kaut kas tik vienkāršs kā typo e-pasta adresē. NDR iekļaujiet kļūdas kodu, kas norāda, kāpēc jūsu e-pasts netika piegādāts, risinājumi, kas palīdzēs iegūt jūsu e-pasta ziņojumu, saiti uz papildu palīdzību tīmeklī un administratoru tehnisko informāciju.
+Ja, piegādājot jūsu nosūtīto e-pasta ziņojumu, rodas problēmas, Microsoft 365 nosūta jums par to e-pasta ziņojumu. Saņemtais e-pasta ziņojums ir piegādes statusa paziņojums, kas tiek dēvēts arī par DSN vai paziņojumu par atlēcienu. Izplatītākais tips tiek dēvēts par atskaiti par nesūtim (non-delivery report — NDR), kas norāda, ka ziņojums netika piegādāts. Piegādes var būt tikpat vienkārša iemesla dēļ kā pārrakstīšanās, drukājot e-pasta adresi. Tālāk ir norādīts kļūdas kods, kas norāda e-pasta ziņojuma piegādes iemeslu, kā arī risinājumi e-pasta ziņojuma piegādei, saite uz papildinformāciju tīmeklī un tehniskā informācija administratoriem.
 
-Lai skatītu sarakstu ar NDR un noskaidrotu, kāpēc ziņojums netika piegādāts, skatiet rakstu [e-pasta atskaites par neizdevušos piegādi pakalpojumā Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Lai skatītu NDR sarakstu un uzzinātu, kāpēc jūsu ziņojums netika piegādāts, skatiet rakstu [E-pasta atskaites par piegādātiem ziņojumiem programmā Exchange Online.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)
