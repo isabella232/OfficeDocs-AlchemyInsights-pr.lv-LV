@@ -1,5 +1,5 @@
 ---
-title: 8000044 nosūtītie e-pasta ziņojumi tiek atgriezti pakalpojumā Outlook.com
+title: 8000044 nosūtītais e-pasts tiek atsūtīts atpakaļ "piegāde neizdevās" vietnē Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942698"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Nosūtītais e-pasts tiek atgriezts "piegāde neizdevās"
+# <a name="sent-email-comes-back-delivery-failed"></a>Nosūtītais e-pasta ziņojums atgriežas "piegāde neizdevās"
 
-Piegādes kļūmes vai e-pasta ziņojumi, kas tiek atgriezti kā nenogādājami, var būt vairāku iemeslu dēļ. Lai uzzinātu vairāk par biežāk lietotajiem kļūdu ziņojumiem, kā arī ieteicamie risinājumi, skatiet rakstu [Sūtītais e-pasts programmā Outlook.com tiek atgriezts "piegāde neizdevās"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Piegādes kļūmes vai e-pasta ziņojumi, kas atgriežas kā nepiegādājami, var notikt šādu iemeslu dēļ. Papildinformāciju par visbiežāk sastopamajiem kļūdu ziņojumiem, kā arī ieteiktajiem risinājumiem skatiet rakstā Nosūtītie e-pasta ziņojumi vietnē Outlook.com tiek nosūtīti atpakaļ [par neizdevušos piegādi.](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   
