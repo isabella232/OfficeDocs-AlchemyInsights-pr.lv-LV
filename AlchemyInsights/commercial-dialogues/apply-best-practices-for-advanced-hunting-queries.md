@@ -1,5 +1,5 @@
 ---
-title: Labākās medību vaicājumu metodes lietošana
+title: Paraugprakses izmantošana, lai iegūtu uzlabotus meklēšanas vaicājumus
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd13e2e8801db3df91140ce371813d900d72e38b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e2a22563a840cd6017afd343bad108be216738742938a48ba5ceb1010fd16098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930140"
 ---
-# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Labākās medību vaicājumu metodes lietošana
+# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Paraugprakses izmantošana, lai iegūtu uzlabotus meklēšanas vaicājumus
 
-Lai iegūtu rezultātus ātrāk un lai izvairītos no taimautiem, palaižot sarežģītus vaicājumus, lietojiet šīs paraugprakses:
+Lai ātrāk iegūtu rezultātus un izvairītos no taimautiem, kamēr izpildāt sarežģītus vaicājumus, lietojiet šos vislabākās prakses piemērus:
 
-- Mēģinot izveidot jaunus vaicājumus, vienmēr izmantojiet ierobežojumu, lai izvairītos no ļoti lielām rezultātu kopām. Izmantojiet arī, `count` lai veiktu sākotnējā rezultātu kopas lieluma novērtējumu.
-- Vispirms izmantojiet laika filtrus. Ideāli ierobežojiet vaicājumus līdz septiņām dienām.
-- Vaicājuma sākumā uzreiz pēc laika filtra pievienojiet filtrus, lai noņemtu lielāko daļu datu.
-- Meklējot pilnas marķierierīces, izmantojiet `has` operatoru, nevis `contains` .
-- Veiciet meklēšanu noteiktā kolonnā, nevis visās kolonnās.
-- Savienojot tabulas, vispirms norādiet tabulu, kurā ir mazāk rindu.
-- `project` tikai nepieciešamās tabulas no Savienotajām tabulām.
+- Mēģinot jaunus vaicājumus, vienmēr izmantojiet ierobežojumu, lai izvairītos no ļoti lielu rezultātu kopu iegūšanas. Izmantojiet `count` arī, lai veiktu rezultātu kopas lieluma sākotnējo novērtējumu.
+- Vispirms izmantojiet laika filtrus. Ideālā gadījumā ierobežojiet vaicājumus līdz septiņām dienām.
+- Vaicājuma sākumā tieši pēc laika filtra pievienojiet filtrus, kas tiek plānoti, lai noņemtu lielāko daļu datu.
+- Meklējot pilnos marķierus, `has` izmantojiet operatoru, nevis `contains` .
+- Veikt meklēšanu konkrētā kolonnā, nevis visās kolonnās.
+- Savienojot tabulas, vispirms norādiet tabulu ar mazāk rindām.
+- `project` tikai nepieciešamās kolonnas no tabulām, kuras esat pievienojis.
 
-Lai uzzinātu vairāk, skatiet rakstu [papildu medību vaicājumu labākā prakse](https://go.microsoft.com/fwlink/?linkid=2144812).
+Papildinformāciju skatiet rakstā Papildu [meklēšanas vaicājumu vislabākā prakse.](https://go.microsoft.com/fwlink/?linkid=2144812)

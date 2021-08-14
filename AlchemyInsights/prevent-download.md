@@ -1,5 +1,5 @@
 ---
-title: Kā neļaut lejupielādēt failus no SharePoint vai pakalpojuma OneDrive
+title: Neļaujiet lejupielādēt failus no SharePoint vai OneDrive
 ms.author: pebaum
 author: pebaum
 manager: matteva
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063059"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Kā neļaut lejupielādēt failus no SharePoint vai pakalpojuma OneDrive
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Neļaujiet lejupielādēt failus no SharePoint vai OneDrive
 
-Ir vairākas metodes, ko var izmantot, lai novērstu vai bloķētu lejupielādi. Lai iegūtu atbilstošās metodes, lūdzu, apmeklējiet tālāk norādītās saites.
+Pastāv dažādas metodes, ko var izmantot, lai novērstu vai bloķētu lejupielādes. Apmeklējiet tālāk norādītās saites, lai iegūtu informāciju par attiecīgajām metodēm.
 
-- [Faila lejupielādes bloķēšana, izmantojot Azure AD nosacījuma piekļuvi](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Faila lejupielādes bloķēšana, izmantojot Azure AD nosacīto piekļuvi](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Piekļuves kontrolēšana no nepārvaldītām ierīcēm](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Piekļuves kontrole no nepārvaldītām ierīcēm](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [IRM politiku konfigurēšana SharePoint dokumentu bibliotēkās, lai ierobežotu satura lejupielādi](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [IRM politiku konfigurēšana dokumentu SharePoint bibliotēkām, lai ierobežotu satura lejupielādi](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
