@@ -1,5 +1,5 @@
 ---
-title: 8000049 Skype ikona, kas trūkst programmā Outlook.com
+title: 8000049 Skype.com trūkst Outlook ikonas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063527"
 ---
-# <a name="skype-icon-missing"></a>Skype ikona nav redzama
+# <a name="skype-icon-missing"></a>Skype ikona
 
-Mēs esam īslaicīgi noņemti Skype ikonu no Outlook.com kā daļu no noformējuma atsvaidzināšanas un līdzekļu atjauninājuma, kas mums ir izplaties. Mēs novērtējam jūsu pacietību, kamēr sagatavosim jums jaunu un uzlabotu pieredzi.
+Mēs uz laiku noņēmām Skype ikonu no Outlook.com kā daļu no noformējuma atsvaidzināšanas un līdzekļu atjauninājuma, kuru ar prieku instalēsim. Mēs augstu vērtējam jūsu pacietību, kamēr sagatavojam jums jaunu un uzlabotu pieredzi.
 
-Joprojām varat izmantot Skype savā pārlūkprogrammā vietnē [Web.Skype.com](https://web.skype.com).
+Jūs joprojām varat Skype pārlūkprogrammā savā [web.skype.com.](https://web.skype.com)

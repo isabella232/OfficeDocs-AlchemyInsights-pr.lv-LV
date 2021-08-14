@@ -1,5 +1,5 @@
 ---
-title: Jautājiet Office 365, lai verificētu savu domēnu
+title: Lūdziet Office 365 verificēt savu domēnu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949610"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Jautājiet Office 365, lai verificētu savu domēnu
+# <a name="ask-office-365-to-verify-your-domain"></a>Lūdziet Office 365 verificēt savu domēnu
 
-Kad Office 365 atrod pareizo TXT ierakstu, jūsu domēns ir verificēts. Lai lūgtu Office 365 pārbaudīt savu domēnu, veiciet tālāk norādītās darbības.
+Kad Office 365 atrod pareizo TXT ierakstu, domēns ir verificēts. Lai lūgtu Office 365 pārbaudīt jūsu domēnu, veiciet tālāk norādītās darbības.
 
-1. Pārliecinieties, vai esat lapā **domēna pārbaude** . Ja pašlaik neizmantojat šo lapu, izvēlieties **iestatīšanas > domēni**, izvēlieties pārbaudāmo domēnu un pēc tam noklikšķiniet uz **Sākt iestatīšanu** vai **turpināt iestatīšanu**. Jūs nokļūstat lapā **domēna pārbaude** .
+1. Pārliecinieties, vai esat **lapā Domēna** pārbaude. Ja pašlaik neesat šajā lapā, izvēlieties Iestatīšanas **> domēni**, izvēlieties pārbaudāmo domēnu un pēc tam noklikšķiniet uz Sākt **iestatīšanu** vai **Turpināt iestatīšanu.** Jūs tiek nostāst **uz lapu Domēna** pārbaude.
 
-2. Noklikšķiniet uz **pārbaudīt**.
+2. Noklikšķiniet **uz Pārbaudīt**.
 
-Parasti ir nepieciešamas aptuveni 15 minūtes, lai DNS izmaiņas stātos spēkā. Tomēr var paiet ilgāks laiks, līdz jūsu veiktās izmaiņas tiks atjauninātas interneta DNS sistēmā.
+Lai DNS izmaiņas stātos spēkā, parasti ir nepieciešamas aptuveni 15 minūtes. Tomēr dažkārt var būt nepieciešams ilgāks laiks, lai veiktās izmaiņas atjauninātu interneta DNS sistēmā.
 
