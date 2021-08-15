@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030099"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Kļūdas ziņojums, koplietojot failus no Windows Explorer
 
 Mēģinot koplietot no Windows Explorer, var tikt parādīts šāds kļūdas ziņojums:
   
-"Diemžēl šobrīd nevaram piekļūt serverim. Vēlāk mēģiniet vēlreiz.
+"Diemžēl šobrīd nevaram sazināties ar serveri. Lūdzu, vēlāk mēģiniet vēlreiz"
   
-Lai novērstu kļūdas ziņojumu, no Internet Explorer dodieties uz **Rīki** \> **interneta opcijas** \> noklikšķiniet uz cilnes **papildu** un pēc tam notīriet izvēles rūtiņas ar nosaukumu **Nesaglabāt šifrētās lapas diskā**.
+Lai novērstu kļūdas ziņojumu, pārlūkprogrammā  Internet Explorer atveriet sadaļu Rīki Interneta opcijas, noklikšķiniet uz cilnes Papildu un pēc tam notīriet izvēles rūtiņu Nesaglabāt šifrētās lapas \>  \> **diskā.** 
   
- **Piezīme**. lai iestatījumi stātos spēkā, iespējams, būs jārestartē pārlūkprogramma. Lai iegūtu papildinformāciju, skatiet rakstu [kļūdas ziņojums "nevar piekļūt serverim tūlīt", koplietojot failus](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Piezīme.** Lai iestatījums stāsies spēkā, iespējams, būs jārestartē pārlūkprogramma. Papildinformāciju skatiet rakstā [Koplietojot failus, tiek rādīts](https://go.microsoft.com/fwlink/?linkid=2022914)kļūdas ziņojums "Pašlaik nevar piekļūt serverim".
   

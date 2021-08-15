@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph API izmantošana, lai pārvaldītu pakalpojumu pamatsummu
+title: Microsoft Graph API izmantošana pakalpojuma pamatsummas pārvaldīšanai
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038011"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Microsoft Graph API izmantošana, lai pārvaldītu pakalpojumu pamatsummu
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Microsoft Graph API izmantošana pakalpojuma pamatsummas pārvaldīšanai
 
-Izmantojot [pakalpojuma galveno API](https://docs.microsoft.com/graph/api/resources/serviceprincipal), varat programmatiski pārvaldīt lietojumprogrammu gadījumus un kontrolēt to, ko lietojumprogramma var veikt jūsu nomniekā.
+Izmantojot pakalpojuma [galveno API,](https://docs.microsoft.com/graph/api/resources/serviceprincipal)varat programmiski pārvaldīt lietojumprogrammu instances un kontrolēt, kādas darbības lietojumprogramma var veikt jūsu nomniekā.
 
-Papildinformāciju par relāciju starp lietojumprogrammām un pakalpojumu principiem skatiet rakstā [lietojumprogrammas un pakalpojumu galvenie objekti Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Papildinformāciju par lietojumprogrammu un pakalpojumu pamatnosauku relācijām skatiet rakstā Programmas un [pakalpojumu pamatobjekti programmā Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)

@@ -1,5 +1,5 @@
 ---
-title: Vai redzat e-pasta kavējumus vai rindā ievietoto pastu?
+title: Vai redzat e-pasta aizkaves vai ierindotus e-pasta ziņojumus?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030171"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Vai redzat e-pasta kavējumus vai rindā ievietoto pastu?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Vai redzat e-pasta aizkaves vai ierindotus e-pasta ziņojumus?
 
-Nesen tika sākta vecāku SMTP galapunktu novecošana. Šīs mērķa vērtības bija pieejamas izmantošanai MX ierakstos un viedajos resursdatoros pirms 2012. Ja joprojām izmantojat kādu no šīm vecākajām vērtībām, ir jāatjaunina galapunkts uz atbalstītu vērtību. Lai iegūtu papildinformāciju, skatiet šo [atbalstu KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Mēs nesen sākām novecojušu SMTP galapunktu atmetšanu. Šīs mērķa vērtības bija pieejamas lietošanai MX ierakstos un viedajās resursdatoros pirms 2012. gada. Ja joprojām izmantojat kādu no šīm vecākaajām vērtībām, galapunkts ir jāatjaunina uz atbalstītu vērtību. Papildinformāciju skatiet šajā atbalsta [KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

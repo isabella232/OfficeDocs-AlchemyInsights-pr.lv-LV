@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: e0ba1d1650d6656f79b74f975a8cc6429fe6d4f1b42edea1a6a02b574d2af057
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013575"
 ---
 # <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problēmas saistībā ar piekļuvi Microsoft Defender ATP portālam
 
-Ja saņemat ziņojumu "abonementa derīgums ir beidzies", jūsu tiešsaistes pakalpojuma abonementam ir beidzies derīguma termiņš. Microsoft Defender ATP abonementam, tāpat kā citiem tiešsaistes pakalpojumu abonementiem, ir derīguma termiņš.
+Ja tiek parādīts ziņojums "Jūsu abonementa derīgums ir beidzies", tiešsaistes pakalpojuma abonementa derīgums ir beidzies. Microsoft Defender ATP abonementam, tāpat kā citiem tiešsaistes pakalpojumu abonementiem, ir derīguma termiņš.
 
-Ziņojumam "abonementa derīgums ir beidzies" ir iespēja lejupielādēt ierīci, ja izvēlaties neatjaunot licenci.
+Ja izvēlēsities neatjaunot savu licenci, tiks parādīts ziņojums "Jūsu abonementa derīgums ir beidzies".

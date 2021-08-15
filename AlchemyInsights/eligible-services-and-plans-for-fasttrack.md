@@ -1,5 +1,5 @@
 ---
-title: Piemēroti pakalpojumi un FastTrack plāni
+title: FastTrack atbilstošie pakalpojumi un plāni
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030243"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Piemēroti pakalpojumi un FastTrack plāni
+# <a name="eligible-services-and-plans-for-fasttrack"></a>FastTrack atbilstošie pakalpojumi un plāni
 
-Izmantojot FastTrack centra priekšrocību pakalpojumam Office 365, jūs attāli strādājat ar FastTrack speciālistiem — bez papildu maksas, lai iegūtu Office 365 vidi, kas ir gatava lietošanai. FastTrack speciālisti var palīdzēt jums, kad iegādājaties vismaz 150 licences.
+Izmantojot FastTrack centra priekšrocības darbam Office 365, jūs attālināti strādājat ar FastTrack speciālistiem bez papildu maksas, lai Office 365 savu darba vidi darbam. FastTrack speciālisti var palīdzēt jums iegādāties vismaz 150 licences.
 
-Lai saņemtu palīdzību, izmantojot FastTrack portālu, pierakstieties [FastTrack portālā](https://go.microsoft.com/fwlink/?linkid=2125443) un izpildiet norādījumus, lai pabeigtu **palīdzības pieprasījumu saistībā ar Microsoft 365** veidlapu.
+Lai saņemtu palīdzību, izmantojot FastTrack portālu, pierakstieties [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) portālā un izpildiet norādījumus, lai pabeigtu palīdzības pieprasījumu saistībā **ar Microsoft 365** veidlapu.
 
 > [!NOTE]
-> Ja rodas problēmas ar pierakstīšanos vai nepieciešama papildu palīdzība, nosūtiet e-pasta ziņojumu uz [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> Ja jums ir problēmas ar pierakstīšanos vai ir nepieciešama papildu palīdzība, nosūtiet e-pasta ziņojumu [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-Ir pieejami dažādi FastTrack plāni dažādām nozarēm, sākot ar Enterprise uzņēmumiem līdz izglītības iestādēm.
+Ir pieejami dažādi FastTrack plāni dažādām nozarēm— no uzņēmumu nozarēm līdz izglītības iestādēm.
 
-Papildinformāciju skatiet rakstā [piemēroti Microsoft 365 plāni](https://go.microsoft.com/fwlink/?linkid=2125459).
+Papildinformāciju skatiet rakstā [Piemērotie Microsoft 365 plāni.](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-Ir pieejams atbilstošo pakalpojumu sortiments, sākot no Exchange Online uz Microsoft Teams, Microsoft 365 un Windows 10.
+Ir pieejami atbilstošie pakalpojumi no Exchange Online līdz Microsoft Teams, Microsoft 365 un Windows 10.
 
-Pilnu atbilstošo pakalpojumu sarakstu skatiet sadaļā [piemēroti pakalpojumi](https://go.microsoft.com/fwlink/?linkid=2125636).
+Pilnu piemēroto pakalpojumu sarakstu skatiet sadaļā [Piemērotie pakalpojumi](https://go.microsoft.com/fwlink/?linkid=2125636).

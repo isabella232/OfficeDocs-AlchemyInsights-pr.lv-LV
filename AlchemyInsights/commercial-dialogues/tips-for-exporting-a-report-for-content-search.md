@@ -1,5 +1,5 @@
 ---
-title: Padomi par atskaites eksportēšanu satura meklēšanā
+title: Padomi satura meklēšanas atskaites eksportēšanai
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978888"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Padomi par atskaites eksportēšanu satura meklēšanā
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Padomi satura meklēšanas atskaites eksportēšanai
 
-Iespējams, ka būs jāskata satura meklēšanas atskaite, nevis jāeksportē pilnais meklēšanas rezultāts. Ja tā ir, varat eksportēt tikai meklēšanas rezultātu atskaiti. Šeit sniegti daži padomi.
+Iespējams, būs jāskata satura meklēšanas atskaite, nevis jā eksportēšanas pilnībā meklēšanas rezultāti. Šādā gadījumā varat eksportēt tikai meklēšanas rezultātu atskaiti. Tālāk ir sniegti daži padomi.
 
 - Pārliecinieties, vai jūsu kontam ir piešķirta atbilstības meklēšanas pārvaldības loma.
-- Pārliecinieties, vai jūsu datorā ir ievēroti visi [priekšnosacījumi](https://go.microsoft.com/fwlink/?linkid=2102407). Netiek atbalstītas visas pārlūkprogrammas, piemēram, Chrome.
-- Sašauriniet eksportētos rezultātus līdz mazāk nekā 20TB, lai eksportēšana neizdosies. Mēģiniet izmantot mazāku datumu diapazonu vai mazāk meklēšanas vietu.
-- Eksportējot atskaites, tiek saskaitīts maksimālais atskaišu skaits, ko vienlaikus var palaist.
+- Pārliecinieties, vai dators atbilst visiem [priekšnosacījumi.](https://go.microsoft.com/fwlink/?linkid=2102407) Ne visas pārlūkprogrammas tiek atbalstītas, piemēram, Chrome.
+- Sašauriniet eksportēšanas rezultātus līdz mazāk nekā 20TB, lai eksportēšana neizdosies. Mēģiniet izmantot mazāku datumu diapazonu vai mazāk meklēšanas vietu.
+- Eksportējot atskaiti, tiek skaitīts maksimālais atskaišu skaits, ko var palaist vienlaikus.
 
-Papildinformāciju skatiet rakstā [satura meklēšanas atskaites eksportēšana](https://go.microsoft.com/fwlink/?linkid=2102409)
+Papildinformāciju skatiet [rakstā Satura meklēšanas atskaites eksportēšana](https://go.microsoft.com/fwlink/?linkid=2102409)
