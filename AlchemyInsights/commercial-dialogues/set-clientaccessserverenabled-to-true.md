@@ -1,5 +1,5 @@
 ---
-title: ClientAccessServerEnabled iestatīšana uz patiess
+title: Iestatiet ClientAccessServerEnabled vērtību kā True
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994872"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>ClientAccessServerEnabled iestatīšana uz patiess
+# <a name="set-clientaccessserverenabled-to-true"></a>Iestatiet ClientAccessServerEnabled vērtību kā True
 
-Ja nevarat atvērt šifrētu e-pasta ziņojumu un tā vietā skatīt **rpmsg** pielikumu, veiciet tālāk norādītās darbības.
+Ja nevarat atvērt šifrētu e-pasta ziņojumu un tā vietā skatīt **rpmsg** pielikumu, veiciet šādas darbības:
 
-1. Savienojuma izveide ar Exchange Online PowerShell.
+1. Savienošana uz Exchange Online PowerShell.
 
 > [!NOTE]
-> Lai izveidotu savienojumu ar Exchange Online PowerShell, jums ir jāpierakstās, izmantojot globālo administratoru vai Exchange administratora kontu.
+> Lai izveidotu savienojumu Exchange Online PowerShell, pierakstieties, izmantojot globālā administratora vai administratora Exchange kontu.
 
-   izveide. Atveriet programmu Windows PowerShell un pēc tam izpildiet šādu komandu: `$UserCredential = Get-Credential`
-b. Dialoglodziņā **Windows PowerShell akreditācijas datu pieprasījums** ievadiet savu darba vai mācību iestādes kontu un paroli c. Noklikšķiniet uz **Labi**. 
+   a. Atveriet Windows PowerShell un pēc tam izpildiet šādu komandu:`$UserCredential = Get-Credential`
+b. Dialoglodziņā **Akreditācijas Windows PowerShell pieprasījums** ievadiet savu darba vai mācību iestādes kontu un paroli c. Noklikšķiniet uz **Labi**. 
 
 2. Lai izveidotu jaunu sesiju, izpildiet šādu komandu:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    izveide. Palaidiet šādu komandu:
+    a. Palaidiet šādu komandu:
     
     `Import-PSSession $Session -DisableNameChecking`
 
-3. `Get-IRMConfiguration`Komanda Palaist.
+3. Komanda `Get-IRMConfiguration` Izpildīt
 
-4. Pārbaudiet iestatījumu **ClientAccessServerEnabled** . 
+4. Pārbaudiet **clientAccessServerEnabled** iestatījumu. 
 
-    izveide. Ja **ClientAccessServerEnabled** iestatījums ir **FALSE**, izpildiet šo cmdlet komandu: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Ja **ClientAccessServerEnabled iestatījums** ir **False**, izpildiet šo cmdlet: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
-> Vienmēr izvērsiet PowerShell sesiju ar šādu komandu: `Remove-PSSession $Session`
+> Vienmēr aizveriet powershell sesiju ar šādu komandu: `Remove-PSSession $Session`
 
 Papildinformāciju skatiet rakstā [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

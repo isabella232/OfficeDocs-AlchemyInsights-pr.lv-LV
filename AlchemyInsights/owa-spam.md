@@ -1,5 +1,5 @@
 ---
-title: Darbs ar surogātpastu un liekpastu programmā Outlook tīmeklī
+title: Darbs ar surogātpastu un nevēlamu e-pastu Outlook tīmeklī
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982596"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Kā nevēlams atzīmēt e-pasta ziņojumus programmā Outlook tīmeklī
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-pasta ziņojumu atzīmēšana par nevēlamiem programmā Outlook tīmeklī
 
-Lai atzīmētu ziņojumu kā nevēlams vai surogātpasts, ziņojumu sarakstā atlasiet ziņojumu un atlasiet **Nevēlamais**  >  **e-liekpasts**.
+Lai atzīmētu ziņojumu kā nevēlamu vai nevēlamu, atlasiet ziņojumu savā ziņojumu sarakstā un atlasiet  >  **Nevēlams**.
 
-Lai bloķētu visus ziņojumus no noteiktas e-pasta adreses, atlasiet ziņojumu vai ziņojumus ziņojumu sarakstā un pēc tam atlasiet **nevēlams**  >  **Bloķēt**.
+Lai bloķētu visus ziņojumus, kas sūtīti no konkrētas e-pasta adreses, atlasiet ziņojumu vai ziņojumus savā ziņojumu sarakstā un pēc tam atlasiet **Nevēlamais**  >  **e-pasts**.
 
-Ja nejauši atzīmējat ziņojumu kā nevēlamu, atlasiet ziņojumu mapē Nevēlamais e-pasts un atlasiet **nav**  >  **nevēlams**. (*Piezīme:* vienumi mapē Nevēlamais e-pasts tiek izdzēsti pēc 30 dienām.)
+Ja nejauši esat atzīmējiet ziņojumu kā nevēlamu, atlasiet ziņojumu mapē Nevēlamais e-pasts un atlasiet Nav **nevēlams**  >  . (*Piezīme.* Vienumi mapē Nevēlamais e-pasts tiek izdzēsti pēc 30 dienām.)
 
-Uzziniet vairāk par to, kā [novērst surogātpasta un e-pasta ziņojumus no jūsu Outlook tīmeklī iesūtni.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Uzziniet vairāk par to, [kā novērst surogātpasta un nevēlama e-pasta Outlook tīmeklī iesūtnē.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

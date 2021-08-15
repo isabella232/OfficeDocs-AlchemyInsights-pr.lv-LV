@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge izvietošana mobilajām ierīcēm iOS/iPadOS vai Android ierīcēm
+title: Mobilo Microsoft Edge darbam ar iOS/iPadOS vai Android izvietošana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005457"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Microsoft Edge izvietošana mobilajām ierīcēm iOS/iPadOS vai Android ierīcēm
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Mobilo Microsoft Edge darbam ar iOS/iPadOS vai Android izvietošana
 
-Tālāk apkopotais vadītais scenārijs palīdzēs piešķirt Microsoft Edge iOS, iPadOS un Android ierīču lietotājiem. Pēc šo darbību veikšanas Microsoft Intune politikas ļaus izmantot tālāk norādītos Microsoft Edge līdzekļus:
+Tālāk apkopotais vadītais scenārijs palīdzēs Microsoft Edge iOS, iPadOS un Android ierīču lietotājiem. Pēc šo darbību veikšanas Microsoft Intune iespējos šādus uzņēmuma Microsoft Edge līdzekļus:
 
-- Duālā identitāte
+- Dual identity
 - Integrācija ar Microsoft Intune programmu aizsardzības politiku
 - Integrācija ar Azure Active Directory lietojumprogrammas starpniekserveri
-- Pārvaldītas izlases un sākumlapas īsinājumtaustiņi
+- Pārvaldītas izlases un sākumlapas saīsnes
 
 > [!NOTE]
-> Ja esat bloķējis lietotājus no reģistrēšanas mobilajās ierīcēs, šis vadītais scenārijs nedarbosies un lietotājiem vajadzēs instalēt Microsoft Edge savā datorā.
+> Ja bloķējis lietotāju iespēju reģistrēt mobilās ierīces, šis vadītais scenārijs nedarbojas, un lietotājiem šie pakalpojumi Microsoft Edge jāinstalē atsevišķi.
 
-Lai izvietotu Microsoft Edge for Mobile darbam ar iOS/iPadOS vai Android, skatiet:
+Lai izvietotu Microsoft Edge Mobile darbam ar iOS/iPadOS vai Android ierīcēm, skatiet rakstu:
 
-1. [Priekšnoteikumi](https://go.microsoft.com/fwlink/?linkid=2133027)
-2. [Ieviešanu](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Pamati](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Konfigurācijas](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Uzdevumus](https://go.microsoft.com/fwlink/?linkid=2132869)
+1. [Priekšnosacījumi](https://go.microsoft.com/fwlink/?linkid=2133027)
+2. [Ievads](https://go.microsoft.com/fwlink/?linkid=2133520)
+3. [Pamatinformācija](https://go.microsoft.com/fwlink/?linkid=2133421)
+4. [Konfigurācija](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [Uzdevumi](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [Pārskatīšana un izveide](https://go.microsoft.com/fwlink/?linkid=2133522)

@@ -1,5 +1,5 @@
 ---
-title: Darbs ar pikšķerēšanu programmā Outlook.com
+title: Darbs ar pikšķerēšanu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0b797e22a95a5ea532cd6497dd647adf608e52d09bdaf2a13124ecdfe15d5bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982668"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kā rīkoties ar pikšķerēšanas e-pastu programmā Outlook tīmeklī
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kā rīkoties, izmantojot pikšķerēšanas e-pastu programmā Outlook tīmeklī
 
-Pikšķerēšanas scam ir e-pasta ziņojums, kas tiek rādīts kā likumīgs, bet patiesībā ir mēģinājums nozagt jūsu personisko informāciju vai naudu. Scammers var izmantot arī tehniku, kas tiek dēvēta par izlikšanos, lai tā tiktu parādīta, ja esat saņēmis e-pasta ziņojumu no sevis.
+Pikšķerēšanas ziņojums ir e-pasta ziņojums, kas izskatās likumīgi, tomēr patiesībā ir mēģinājums nozagt jūsu personas datus vai naudu. Krāpnieciskie sūtītāji var izmantot paņēmienu, ko dēvē par izlikšanās mēģinājumu, piemēram, jūs saņēmāt e-pasta ziņojumu no sevis.
 
-Ja saņemat e-pasta ziņojumu, kas izskatās kā pikšķerēšanas ziņojums, varat par to ziņot, atlasot ziņojumu un pēc tam atlasot **nevēlams**  >  **Pikšķerēšana**.
+Ja saņemat e-pasta ziņojumu, kas izskatās kā pikšķerēšanas ziņojums, varat par to ziņot, atlasot ziņojumu un pēc tam atlasot Nevēlamais **pikšķerēšana**  >  .
 
-*Piezīme:* Atzīmējot ziņojumu kā pikšķerēšanu, tiek ziņots tikai par sūtītāju.Tā nebloķē šo sūtītāju ziņojumu sūtīšanu nākotnē. Lai bloķētu sūtītāju, ir jāpievieno sūtītājs bloķēto sūtītāju sarakstam. Papildinformāciju skatiet rakstā [sūtītāju bloķēšana vai atbloķēšana programmā Outlook tīmeklī](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Piezīme.* Ja atzīmēsiet ziņojumu kā pikšķerēšanas ziņojumu, tiek norādīts tikai sūtītājs. Sūtītājs netiek bloķēts un var tā vietā sūtīt jums ziņojumus nākotnē. Lai bloķētu sūtītāju, pievienojiet to bloķēto sūtītāju sarakstam. Papildinformāciju skatiet rakstā [Sūtītāju bloķēšana vai atbloķēšana programmā Outlook tīmeklī](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Uzziniet vairāk par to, kā [noteikt aizdomīgus ziņojumus programmā Outlook tīmeklī](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Uzziniet vairāk par [aizdomīgu ziņojumu identificēšanu programmā Outlook tīmeklī.](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206)

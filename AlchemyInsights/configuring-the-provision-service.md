@@ -1,5 +1,5 @@
 ---
-title: Pakalpojumu sniedzēja konfigurēšana
+title: Nodrošināšana pakalpojuma konfigurēšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033285"
 ---
-# <a name="configuring-the-provision-service"></a>Pakalpojumu sniedzēja konfigurēšana
+# <a name="configuring-the-provision-service"></a>Nodrošināšana pakalpojuma konfigurēšana
 
-Lai veiktu automātisku lietotāja nodrošināšanu darbam, Azure AD ir nepieciešami derīgie akreditācijas dati, kas ļauj izveidot savienojumu ar darbadienu tīmekļa pakalpojumu API. Tālāk poga testa savienojums, kas pieejama sadaļā WORKDAY to AD User nodrošināšanas programma, validē arī, ja tā var izveidot savienojumu ar Azure AD Connect nodrošināšanas aģentu, kas saistīts ar reklāmas domēnu.
+Lai automatizēti lietotāju nodrošināšana darbotos, Azure AD pieprasa derīgus akreditācijas datus, kas ļauj izveidot savienojumu ar Workday tīmekļa pakalpojumu API. Papildus tiek validta arī poga Pārbaudīt savienojumu lietojumprogrammā Workday ad user Provisioning, arī pārbauda, vai var izveidot savienojumu ar Azure AD Savienošana nodrošināšanas aģentu, kas saistīts ar AD domēnu.
 
-Ja Azure portāls atgriež kļūdu, saglabājot akreditācijas datus, rīkojieties šādi:
+Ja Azure portāls atgriež kļūdu, saglabājot akreditācijas datus, veiciet tālāk norādītās ieteicamās darbības:
 
-1. Apstipriniet, ka esat konfigurējis darba dienu integrācijas sistēmas lietotāja kontu, kā norādīts sadaļā apmācība [konfigurējiet integrācijas sistēmas lietotāju darbdienas](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)ietvaros.
-2. Pārliecinieties, vai Azure AD Connect nodrošināšanas aģenta pakalpojums darbojas jūsu lokālajā Windows serverī, izmantojot pakalpojumu pārvaldības konsoli. Varat arī pārbaudīt aģenta statusu Azure portālā, noklikšķinot uz pogas Skatīt lokālos aģentus.
-3. Pārliecinieties, vai ievadāt lauka "WORKDAY username" vērtību, izmantojot formātu username@workday nomnieka vārdu. Ja nav ievadīts darbdienas nomnieka vārds, darba dienu autentifikācija neizdevās.
-4. Ja konfigurējat integrāciju ar WORKDAY implementēšanas nomnieku, ņemiet vērā sava darba dienu nomnieka plānotās dīkstāves stundas. Funkcija WORKDAY ir ieplānojusi noteiktu laiku tās implementēšanai uz nedēļas nogales (parasti no piektdienas vakara līdz sestdienas rītam) un savienojamības kļūmes šajā dīkstāves logā ir zināma problēma, kas automātiski tiek novērsta, tiklīdz ieviešanas nomnieki atkal ir tiešsaistē.
-5. Retos gadījumos, iespējams, redzēsit šo kļūdu, ja ir mainīta integrācijas sistēmas lietotāja parole, jo nomnieka atsvaidzināšana vai konts ir bloķēts vai beidzies derīguma termiņš. Lūdzu, pārbaudiet integrācijas sistēmas lietotāja statusu ar savu darba dienu administratoru.
+1. Apstipriniet, ka esat konfigurējis Workday integrācijas sistēmas lietotāja kontu, kā norādīts apmācību sadaļā [Integrācijas sistēmas lietotāja konfigurēšana lietojumprogrammā Workday.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
+2. Pārliecinieties, vai Azure AD Savienošana nodrošināšanas aģenta pakalpojums ir iestatīts un darbojas jūsu lokālajā Windows, izmantojot pakalpojumu pārvaldības konsoli. Varat arī pārbaudīt aģenta statusu Azure portālā, noklikšķinot uz pogas Skatīt lokālos aģentus.
+3. Pārbaudiet, vai laukā "Workday Username" tiek ievadīta vērtība username@workday-nomnieka-nosaukums. Ja trūkst workday nomnieka nosaukuma, workday autentifikācija neizdodas.
+4. Ja konfigurējot integrāciju ar Workday ieviešanas nomnieku, ņemiet vērā jūsu Workday nomnieka ieplānotās dīkstāves stundas. Darba diena ir ieplānojusi savu ieviešanas nomnieku laiku nedēļas nogalēs (parasti no vakarā līdz sestdienas rītam) un savienojamības kļūmes šajā dīkstāves logā ir zināma problēma, kas automātiski tiek novērsta, tiklīdz ieviešanas nomnieki atkal ir tiešsaistē.
+5. Retos gadījumos šī kļūda var tikt parādīts arī tad, ja nomnieka atsvaidzināšanas dēļ ir mainīta integrācijas sistēmas lietotāja parole vai konts ir bloķēts vai ir beidzies derīgums. Lūdzu, pārbaudiet integrācijas sistēmas lietotāja statusu pie sava Darba dienas administratora.
 
-Lai iegūtu papildinformāciju par to, kā konfigurēt darba dienu automatizētai konfigurēšanai, skatiet rakstu [apmācība: darbdienas konfigurēšana automātiskai lietotāju nodrošināšanai](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Papildinformāciju par automātiskās nodrošināšanas darba dienas konfigurēšanu skatiet rakstā Apmācība: darba [dienas konfigurēšana automātiskai lietotāju nodrošināšana.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)

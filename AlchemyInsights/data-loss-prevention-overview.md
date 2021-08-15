@@ -8,24 +8,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005565"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Datu zuduma novēršanas (DLP) pārskats
 
-Izmantojot DLP politiku, varat veikt šādas darbības:
+Izmantojot DLP politiku, jūs varat:
 
 - Identificējiet sensitīvu informāciju dažādās atrašanās vietās, piemēram, Exchange Online, SharePoint Online un OneDrive darbam.
 
 
-Piemēram, varat identificēt jebkuru dokumentu, kurā ir kredītkartes numurs, kas glabājas jebkurā OneDrive darbam vietnē, vai arī varat pārraudzīt tikai konkrētu lietotāju OneDrive vietnes.
+Piemēram, varat identificēt jebkuru dokumentu, kurā ir kredītkartes numurs, kas glabājas jebkurā OneDrive darbam vietnē, vai arī varat pārraudzīt tikai OneDrive personu OneDrive vietnes.
 
-- Neļaut nejauši koplietot sensitīvu informāciju.
+- Novērstu nejaušu sensitīvas informācijas koplietošanu.
 
 
-Lai iegūtu papildinformāciju, skatiet šo [rakstu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
+Lai iegūtu papildinformāciju, lūdzu, skatiet šo [rakstu.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 
