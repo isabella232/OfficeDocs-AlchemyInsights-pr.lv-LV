@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge paplašinājuma pievienošana no Chrome tīmekļa veikala
+title: Paplašinājuma pievienošana Microsoft Edge no Chrome tīmekļa veikala
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,18 +15,18 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954740"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Microsoft Edge paplašinājuma pievienošana no Chrome tīmekļa veikala
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Paplašinājuma pievienošana Microsoft Edge no Chrome tīmekļa veikala
 
-Lai pievienotu Microsoft Edge paplašinājumu no Chrome tīmekļa veikala, veiciet šādas darbības:
+Lai pievienotu paplašinājumu lietojumprogrammai Microsoft Edge Chrome tīmekļa veikalā, veiciet šādas darbības:
 
-1. Dodieties uz Chrome tīmekļa veikalu.
+1. Dodieties uz Chrome interneta veikals.
 2. Reklāmkarogā lapas augšdaļā atlasiet **Atļaut paplašinājumus no citiem veikaliem**.
 3. Atlasiet paplašinājumu, kuru vēlaties pievienot, un pēc tam noklikšķiniet uz **Pievienot pārlūkprogrammai Chrome.**
 4. Apstiprinājuma dialoglodziņā rūpīgi pārskatiet paplašinājuma veiktās modifikācijas un pēc tam noklikšķiniet uz **Pievienot paplašinājumu.**

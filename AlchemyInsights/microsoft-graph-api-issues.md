@@ -12,93 +12,93 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7759"
-ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
-ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
+ms.openlocfilehash: 9df021211c8a65997889d9303dbf28a27104cfa95841d4cb810427c652ba0784
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50714152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975900"
 ---
 # <a name="microsoft-graph-api-issues"></a>Microsoft Graph API problēmas
 
-Šī tēma var attiekties arī uz izstrādātājiem, kuri joprojām izmanto Azure AD Graph API. Tomēr ir **stingri** ieteicams izmantot programmu Microsoft Graph visiem jūsu direktorija, identitātes un piekļuves pārvaldības scenārijiem.
+Šī tēma var arī attiecas uz izstrādātājiem, kuri joprojām izmanto Azure AD Graph API. Tomēr ir stingri **ieteicams izmantot** Microsoft Graph visos direktorija, identitātes un piekļuves pārvaldības scenārijos.
 
 **Autentifikācijas vai autorizācijas problēmas**
 
-- Ja jūsu lietojumprogramma **nevar iegūt pilnvaras** , lai sasauktu Microsoft Graph, izvēlieties problēmu, kas rodas, **iegūstot piekļuves marķiera (autentifikāciju)** Microsoft Graph kategoriju, lai saņemtu konkrētāku palīdzību un atbalstu šajā tēmā.
-- Ja jūsu programma **saņem 401 vai 403 autorizācijas kļūdas** , zvanot uz Microsoft Graph, izvēlieties, vai Microsoft Graph API kategorijā iegūt **Access denied kļūdu (autorizācija)** .
+- Ja jūsu  lietojumprogramma nevar iegūt marķierus, lai zvanītu korporācijai Microsoft Graph, izvēlieties Problēma ar piekļuves pilnvaras **(autentifikācijas)** saņemšana Microsoft Graph kategoriju, lai saņemtu specifiskāku palīdzību un atbalstu šajā tēmā.
+- Ja lietojumprogramma saņem **401 vai 403** autorizācijas kļūdas, zvanot Microsoft Graph, izvēlieties kategorijas Iegūt liegtu piekļuvi **kļūda (Autorizācija)** Microsoft Graph API, lai saņemtu specifiskāku palīdzību un atbalstu par šo tēmu.
 
-**Es vēlos izmantot programmu Microsoft Graph, taču neesat pārliecināts, kur sākt**
+**Es vēlos izmantot Microsoft Graph, taču nezinu, kur sākt**
 
 - [Pārskats par Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Pārskats par identitāti un piekļuves pārvaldību programmā Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Darba sākšana Microsoft Graph programmu izveidē](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** — testējiet Microsoft Graph API nomniekā vai demonstrācijas nomniekā
+- [Pārskats par identitātes un piekļuves pārvaldību programmā Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Darba sākšana, veidojot Microsoft Graph programmas](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** — microsoft Graph API jūsu nomniekā vai demonstrācijas nomniekā
 
-**Es vēlos izmantot Microsoft Graph, bet vai tas atbalsta v 1.0 direktorija API, kas man ir nepieciešams?**
+**Es vēlos izmantot Microsoft Graph, bet vai tā atbalsta v1.0 direktorija API, kas nepieciešami?**
 
-Microsoft Graph ir ieteicamais API direktorijam, identitātei un piekļuves pārvaldībai. Tomēr ir vēl dažas atšķirības starp to, kas ir iespējams Azure AD Graph un Microsoft Graph. Pārskatiet tālāk norādītos rakstus, kas izceļ visaktuālākās atšķirības, lai palīdzētu jums izvēlēties:
+Microsoft Graph ir ieteicamais API direktorija, identitātes un piekļuves pārvaldībai. Tomēr starp Azure AD Graph un Microsoft Graph iespējamas atstarpes. Pārskatiet tālāk norādītos rakstus, kuros iezīmētas vistehnīgākās atšķirības, kas varētu palīdzēt izdarīt jūsu izvēli.
 
-- [Resursu tipa atšķirības starp Azure AD Graph un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Azure AD Graph un Microsoft Graph resursu tipu atšķirības](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
 - [Rekvizītu atšķirības starp Azure AD Graph un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Metodes atšķirības starp Azure AD un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Azure AD un Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**API, ko es saukšu, nedarbojas — kur varu veikt papildu testēšanu?**
+**API, uz kuru zvanu, nedarbojas — kur var veikt papildu testēšanu?**
 
-**Microsoft Graph Explorer** — testējiet Microsoft Graph API savā nomniekā vai demonstrācijas nomniekā, kā arī skatiet **vaicājumu piemērus** programmā Microsoft Graph Explorer.
+**Microsoft Graph Explorer** — pārbaudiet Microsoft Graph API jūsu nomniekā vai demonstrācijas nomniekā, kā arī skatiet vaicājumu **paraugus** programmā Microsoft Graph Explorer.
 
-**Mana programma ir pārāk lēna, un tiek arī panākta ierobežošana. Kādus uzlabojumus varu veikt?**
+**Mana programma ir pārāk lēna un arī tiek ierobežošana. Kādus uzlabojumus var veikt?**
 
-Atkarībā no jūsu darbības ir pieejamas vairākas iespējas, kā izmantot savu lietojumprogrammu, lai nodrošinātu, ka jūsu lietojumprogramma darbojas, un dažos gadījumos tā ir mazāk nosliece uz pakalpojumu ierobežošanu (kad veicat pārāk daudz zvanu).
+Atkarībā no jūsu scenārija ir pieejamas dažādas opcijas, lai padarītu lietojumprogrammu vairāk izpildāmu, un dažos gadījumos mazāk noslodzētas pakalpojuma darbības laikā (ja veicat pārāk daudz zvanu).
 
 - [Microsoft Graph paraugprakse](https://docs.microsoft.com/graph/best-practices-concept)
-- [Pakešapstrādes pieprasījumi](https://docs.microsoft.com/graph/json-batching)
-- [Izmaiņu reģistrēšana, izmantojot Delta vaicājumu](https://docs.microsoft.com/graph/delta-query-overview)
-- [Saņemiet paziņojumus par izmaiņām, izmantojot āķus](https://docs.microsoft.com/graph/webhooks)
+- [Pakešveida pieprasījumi](https://docs.microsoft.com/graph/json-batching)
+- [Izmaiņu reģistrēšana, izmantojot delta vaicājumu](https://docs.microsoft.com/graph/delta-query-overview)
+- [Paziņojumu par izmaiņām veikšana tīmeklī](https://docs.microsoft.com/graph/webhooks)
 - [Ierobežošanas norādījumi](https://docs.microsoft.com/graph/throttling)
 
-**Kur var iegūt papildinformāciju par kļūdām un zināmajām problēmām?**
+**Kur var atrast papildinformāciju par kļūdām un zināmajām problēmām?**
 
-- [Microsoft Graph kļūdas atbilžu informācija](https://docs.microsoft.com/graph/errors)
+- [Microsoft Graph informācija par kļūdu atbildēm](https://docs.microsoft.com/graph/errors)
 - [Zināmās problēmas ar Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Kur varu pārbaudīt pakalpojumu pieejamības un savienojamības statusu?**
+**Kur var pārbaudīt pakalpojumu pieejamības un savienojamības statusu?**
 
-Pamata pakalpojumu pieejamība un savienojamība, kam var piekļūt, izmantojot Microsoft Graph, var ietekmēt Microsoft Graph vispārējo pieejamību un veiktspēju.
+To pamatā esošo pakalpojumu pieejamība un savienojamība, kuriem var piekļūt, izmantojot Microsoft Graph, var ietekmēt Microsoft Graph kopējo pieejamību un veiktspēju.
 
-- Azure Active Directory pakalpojuma darbspējas pārbaudei pārbaudiet statusu **drošības + identitātes** pakalpojumi, kas norādīti [Azure statusa lapā](https://azure.microsoft.com/status/).
-- Office pakalpojumiem, kas sniedz ieguldījumu programmā Microsoft Graph, pārbaudiet pakalpojumu statusu, kas norādīti [Office pakalpojumu darbspējas informācijas panelī](https://portal.office.com/adminportal/home#/servicehealth).
+- Lai Azure Active Directory pakalpojuma darbspēju, pārbaudiet **Azure** statusa lapā norādīto drošības un [identitātes pakalpojumu statusu.](https://azure.microsoft.com/status/)
+- Lai Office pakalpojumus, kas veicina Microsoft Graph, pārbaudiet to pakalpojumu statusu, kas uzskaitīti [Office pakalpojuma darbspējas informācijas panelī.](https://portal.office.com/adminportal/home#/servicehealth)
 
-Microsoft Graph autorizācijas kļūdas var būt vairāku atšķirīgu problēmu rezultāts, no kurām lielākā daļa rada 401 vai 403 kļūdu. Piemēram, tālāk norādītās darbības var izraisīt autorizācijas kļūdas.
+Microsoft Graph autorizācijas kļūdas var izraisīt vairākas dažādas problēmas, un lielākā daļa ģenerē kļūdu 401 vai 403. Piemēram, turpmāk minētās darbības var radīt autorizācijas kļūdas:
 
 - Nepareizas [piekļuves pilnvaru iegūšanas plūsmas](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)
 - Nepareizi konfigurēti [atļauju tvērumi](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)
 - [Piekrišanas](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) trūkums
 
-**_Azure Active Directory autentifikācijas bibliotēkas (ADAL) un Azure AD Graph API (AAD Graph) atbalsta beigas_* _
+***Atbalsta beigas autentifikācijas Azure Active Directory bibliotēkai (ADAL) un Azure AD Graph API (AAD Graph)***
 
-* * Sākot Jūnijs 30, 2020 * *, mēs vairs nepievienos nekādus jaunus līdzekļus, kas ADAL un Azure AD Graph. Mēs turpināsim nodrošināt tehnisko atbalstu un drošības atjauninājumus, bet vairs nenodrošināsim līdzekļu atjauninājumus.
+**Sākot ar 2020. gada 30.** jūnijs, mēs vairs ne pievienosim jaunus līdzekļus ADAL un Azure AD Graph. Mēs turpināsim nodrošināt tehnisko atbalstu un drošības atjauninājumus, bet vairs nenodrošināsim līdzekļu atjauninājumus.
 
-**Sākot no 30. jūnija, 2022**, mēs NODROŠINĀSIM atbalstu ADAL un Azure AD Graph un vairs nenodrošinās tehnisko atbalstu vai drošības atjauninājumus.
+**Sākot ar 2022. gada 30.** jūnijs, mēs nobeigsim atbalstu ADAL un Azure AD Graph un vairs nenodrošināsim tehniskā atbalsta vai drošības atjauninājumus.
 
-Programmas, kas, izmantojot ADAL, pēc šī laika turpinās darboties, bet *nesaņem nekādu tehnisku atbalstu vai drošības atjauninājumus*.
+Programmas, kas izmanto ADAL esošajās OS versijās, pēc šī laika turpinās darboties, bet netiks *saņemts tehniskais atbalsts vai drošības atjauninājumi.*
 
-Lietojumprogrammas, kas izmanto Azure AD Graph pēc šī laika, iespējams, vairs nesaņems atbildes no Azure AD Graph galapunkta.
+Programmas, kas pēc Graph izmanto Azure AD Graph, iespējams, vairs nesaņems atbildes no Azure AD Graph galapunkta.
 
-**PārADAL migrācija**
+**ADAL migrācija**
 
 Iesakām veikt atjaunināšanu uz [Microsoft autentifikācijas bibliotēku (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), kurā ir jaunākie līdzekļi un drošības atjauninājumi.
 
-Ja izmantojat Microsoft programmas, zināt, ka korporācija Microsoft pašlaik veic savas lietojumprogrammas migrāciju uz MSAL līdz atbalsta termiņa beigām, nodrošinot, ka tās gūs labumu no MSAL pastāvīgajiem drošības un līdzekļu uzlabojumiem.
+Ja izmantojat Microsoft programmas, ņemiet vērā, ka korporācija Microsoft pašlaik veic savu lietojumprogrammu migrāciju uz MSAL līdz atbalsta beigu termiņam, nodrošinot, ka uz tām attiecas MSAL pastāvīgie drošības un līdzekļu uzlabojumi.
 
 1. [Lasīt bieži uzdotos jautājumus par ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
 2. [Uzziniet, kā migrēt lietojumprogrammas katrā platformā](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. Ja jums ir nepieciešama palīdzība, lai izprastu, kura lietojumprogramma izmanto ADAL, iesakām pārskatīt visu savu programmu avota kodu un pēc vajadzības sazināties ar citiem ISV vai lietojumprogrammu nodrošinātājiem. Microsoft atbalsta dienests var jums sniegt sarakstu ar visām jūsu nomniekā esošajām lietojumprogrammām, kas nav Microsoft ADAL lietojumprogrammas.
+3. Ja jums nepieciešama palīdzība, lai saprastu, kuras jūsu lietojumprogrammas izmanto ADAL, ieteicams pārskatīt visu jūsu lietojumprogrammu avota kodu un, ja nepieciešams, sazināties ar kādu ISV vai lietojumprogrammu nodrošinātāju. Microsoft atbalsta dienests var jums sniegt sarakstu ar visām jūsu nomniekā esošajām lietojumprogrammām, kas nav Microsoft ADAL lietojumprogrammas.
 
 **AAD Graph migrācija**
 
-Lietojumprogrammas, kas izmanto Azure AD Graph, izpildiet mūsu norādījumus, lai [migrētu AZURE ad Graph programmas uz Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+Lietojumprogrammām, kas izmanto Azure AD Graph, izpildiet mūsu norādījumus, lai [migrētu Azure AD Graph uz Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)
 
 1. [Mūsu migrācijas kontrolsaraksts nodrošina darba sākšanu](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).
-2. Azure lietojumprogrammu reģistrācijas portālā tiek rādīts, kuras lietojumprogrammas izmanto AAD Graph. Iesakām pārskatīt visu jūsu lietojumprogrammu pirmkodu un, ja nepieciešams, sazināties ar jebkuru ISV vai lietojumprogrammu nodrošinātāju. Microsoft atbalsts var arī nodrošināt, lai jūsu nomniekā tiktu parādīts visu AAD Graph izmantošanas saraksts.
-3. Lai jūsu programmai piekļūtu datiem programmā Microsoft Graph, lietotājam vai administratoram tā ir jāpiešķir pareizas atļaujas, izmantojot piekrišanas procesu. [Microsoft Graph atļauju atsaucēs](https://docs.microsoft.com/graph/permissions-reference) ir uzskaitītas atļaujas, kas ir saistītas ar katru galveno Microsoft Graph API kopu. Tajā sniegti arī norādījumi par to, kā izmantot atļaujas.
+2. Azure lietojumprogrammu reģistrācijas portālā tiek rādīts, kuras lietojumprogrammas izmanto AAD Graph. Iesakām pārskatīt visu jūsu lietojumprogrammu pirmkodu un, ja nepieciešams, sazināties ar jebkuru ISV vai lietojumprogrammu nodrošinātāju. Microsoft atbalsts var nodrošināt jums arī sarakstu ar visu AAD Graph lietojumu jūsu nomniekā.
+3. Lai jūsu programma varētu piekļūt Microsoft Graph datiem, lietotājam vai administratoram tā ir jāpiešķir pareizās atļaujas, izmantojot piekrišanas procesu. Microsoft [Graph atsaucē ir](https://docs.microsoft.com/graph/permissions-reference) uzskaitītas atļaujas, kas saistītas ar katru galveno Microsoft Graph API kopu. Tajā arī sniegti norādījumi par atļauju lietošanu.

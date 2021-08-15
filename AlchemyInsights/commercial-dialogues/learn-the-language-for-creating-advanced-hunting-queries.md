@@ -1,5 +1,5 @@
 ---
-title: Uzziniet, kā izveidot detalizētas medības vaicājumu valodas
+title: Learn the language for creating advanced hunting queries
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016779"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Uzziniet, kā izveidot detalizētas medības vaicājumu valodas
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Learn the language for creating advanced hunting queries
 
-Papildu medības balstās uz [Pikkera vaicājumu valodas](https://go.microsoft.com/fwlink/?linkid=2144620). Varat izmantot Pikkera sintaksi un operatorus, lai izveidotu vaicājumus, kas atrod informāciju [shēmā](https://go.microsoft.com/fwlink/?linkid=2144621) , kas īpaši veidota papildu medībām.
+Detalizētas meklēšanas pamatā ir [Kusto vaicājumu valoda](https://go.microsoft.com/fwlink/?linkid=2144620). Varat izmantot Kusto sintaksi un operatorus, lai [](https://go.microsoft.com/fwlink/?linkid=2144621) veidotu vaicājumus, kas atrod informāciju shēmā, kas ir īpaši strukturēta uzlabotai meklēšanas vajadzībām.
 
-Papildinformāciju skatiet rakstā [detalizētās medību vaicājumu valodas apguve](https://go.microsoft.com/fwlink/?linkid=2144518).
+Lai uzzinātu vairāk, skatiet [rakstu Detalizētas meklēšanas vaicājumu valodas apguve.](https://go.microsoft.com/fwlink/?linkid=2144518)

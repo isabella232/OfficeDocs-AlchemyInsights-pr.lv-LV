@@ -1,5 +1,5 @@
 ---
-title: Automātiskas jutības uzlīmju lietošana
+title: Automātiski lietot sensitivitātes etiķetes
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969304"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automātiskas jutības uzlīmju lietošana
+# <a name="auto-apply-sensitivity-labels"></a>Automātiski lietot sensitivitātes etiķetes
 
-Jutīguma etiķetes var manuāli lietot lietotājiem, vai varat tās konfigurēt automātiskai satura lietošanai.
+Sensitivitātes etiķetes lietotājiem var lietot manuāli vai arī varat konfigurēt, lai tās automātiski lietotu saturam.
 
-Automātiska jutības uzlīmju lietošana novērš nepieciešamību apmācīt lietotājus, kā klasificēt saturu, kā arī nepieciešamību viņiem paziņot par politikas konfigurācijām.
+Automātiski lietojot sensitivitātes etiķetes, lietotājiem tiek noņemta nepieciešamība klasificēt saturu un nepieciešamību paziņot par politikas konfigurācijām.
 
-Lai automātiski lietotu etiķetes, ir jāveic tālāk norādītās darbības.
+Lai uzlīmes lietotu automātiski, ir nepieciešams tālāk redzamais.
 
-- Azure Information Protection P2 abonements
-- [Azure Information Protection vienotās marķēšanas klienta lejupielāde un instalēšana](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure informācijas aizsardzības P2 abonements
+- [Azure informācijas aizsardzības vienotās marķēšanas klienta lejupielāde un instalēšana](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Mēs strādājam ar vietējo atbalstu, kas neprasa Azure Information Protection vienotās etiķetes klientu nākotnē.
+Mēs strādājam ar vietējo atbalstu, kam nākotnē nebūs nepieciešams Azure informācijas aizsardzības vienotās marķēšanas klients.
 
-Pašlaik tikai Windows atbalsta unificēto uzlīmju klientu.  Šis līdzeklis vēl nav atbalstīts Mac, iOS un Android ierīcēs.
+Pašlaik tikai Windows atbalsta vienoto etiķešu klientu.  Šis līdzeklis vēl netiek atbalstīts Mac, iOS un Android ierīcēs.
 
-Papildinformāciju par jutības etiķetēm un automātisku lietošanu saturam, skatiet šeit:
+Papildinformāciju par sensitivitātes etiķetēm un to automātisku pielietošanu saturam skatiet:
 
-- [Pārskats par jutības etiķetēm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Jutīguma etiķetes lietošana saturam automātiski](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Sensitivitātes etiķešu pārskats](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Sensitivitātes etiķetes automātiska pielietojiet saturam](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

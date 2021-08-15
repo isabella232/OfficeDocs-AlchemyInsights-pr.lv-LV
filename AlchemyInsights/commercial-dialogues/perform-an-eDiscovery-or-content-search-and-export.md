@@ -1,5 +1,5 @@
 ---
-title: E-datu atklāšanas/satura meklēšanas un eksportēšanas veikšana
+title: E-datu atklāšanas/satura meklēšanas un eksportēšanas darbības
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016635"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>E-datu atklāšanas/satura meklēšanas un eksportēšanas veikšana
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>E-datu atklāšanas/satura meklēšanas un eksportēšanas darbības
 
-Tālāk ir aprakstīts, kā meklēt saturu savā organizācijā un to eksportēt:
+Tālāk ir aprakstīts, kā meklēt organizācijas saturu un to eksportēt.
 
-1. Dodieties uz [drošības & atbilstības centru](https://go.microsoft.com/fwlink/?linkid=2086958) un pārejiet pie **meklēšanas**  >  **satura meklēšana**  >  **+ Jauna meklēšana**.
-1. Ievadiet atslēgvārdus un nosacījumus, kurus vēlaties meklēt.
-1. Lapas apakšdaļā norādiet meklējamās atrašanās vietas (piemēram, e-pastu, grupu ziņojumus, SharePoint vietnes) vai noklikšķiniet uz **visas atrašanās vietas**.
-1. Noklikšķiniet uz **saglabāt & izpildīt**. Piešķiriet nosaukumu meklēšanas vaicājumam un pēc tam noklikšķiniet uz **Saglabāt**. Vaicājums tiek palaists, un tiek parādīti rezultāti.
+1. Dodieties uz [drošības & un naviģējiet](https://go.microsoft.com/fwlink/?linkid=2086958) **uz Search**  >  **Content Search**+ New  >  **search**.
+1. Ievadiet atslēgvārdus un nosacījumus, ko vēlaties meklēt.
+1. Lapas lejasdaļā norādiet meklējamās atrašanās vietas (piemēram, e-pastu, e Teams ziņojumus vai SharePoint) vai noklikšķiniet uz **Visas atrašanās vietas.**
+1. Noklikšķiniet **uz & palaišana.** Nosaukiet meklēšanas vaicājumam nosaukumu un pēc tam noklikšķiniet uz **Saglabāt.** Vaicājums tiks izpildīts, un tiks rādīti rezultāti.
 
-Lai uzzinātu, kā eksportēt meklēšanas rezultātus, skatiet rakstu [satura meklēšanas rezultātu eksportēšana](https://go.microsoft.com/fwlink/?linkid=2102118).
+Lai uzzinātu, kā eksportēt meklēšanas rezultātus, skatiet [rakstu Satura meklēšanas rezultātu eksportēšana.](https://go.microsoft.com/fwlink/?linkid=2102118)
 
