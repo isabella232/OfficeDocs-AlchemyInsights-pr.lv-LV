@@ -1,5 +1,5 @@
 ---
-title: E-pasta atbloķēšana
+title: E-pasta ziņojuma atbloķēšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994728"
 ---
-# <a name="unblock-email"></a>E-pasta atbloķēšana
+# <a name="unblock-email"></a>E-pasta ziņojuma atbloķēšana
 
-Ja lietotāja e-pasta konts ir bloķēts surogātpasta nosūtīšanai, tālāk ir norādīts, kā to iegūt atkārtoti.
+Ja lietotāja e-pasta konts ir bloķēts surogātpasta sūtīšanai, tālāk ir aprakstīts, kā to vēlreiz iegūt.
 
-1. *Nekavējoties* atiestatiet ietekmētā konta paroli. Nesūtiet jauno paroli lietotājam pa e-pastu. Tādējādi neviens nevarēs piekļūt tam, lai nosūtītu surogātpastu.
-2. Dodieties uz drošības & atbilstības centru un pārbaudiet, vai konts ir [sarakstā Aizliegtie lietotāji](https://protection.office.com/#/restrictedusers).
-3. Izvēlieties **meklēšanas** ikonu un ievadiet ierobežotā lietotāja lietotājvārdu. Piemēram, ja lietotāja e-pasta adrese ir *Rob@contoso.com*, vienkārši ievadiet **Rob**.
-4. Ja konts ir šeit, atlasiet **Atbloķēt**. Veiciet darbības izlidošanas rūtī un pēc tam atlasiet **Jā** , lai apstiprinātu.  
+1. Nekavējoties atiestatiet attiecīgā konta *paroli.* Nesūtiet jauno paroli lietotājam pa e-pastu. Tādējādi ikviens nevar tam piekļūt, lai varētu nosūtīt surogātpastu.
+2. Dodieties uz drošības & un pārbaudiet, vai konts ir sarakstā [Ierobežotie lietotāji.](https://protection.office.com/#/restrictedusers)
+3. Izvēlieties meklēšanas **ikonu** un ievadiet ierobežotā lietotāja lietotājvārdu. Piemēram, ja lietotāja e-pasta adrese ir rob@contoso.com , *vienkārši* ievadiet **rob**.
+4. Ja konts ir šeit, atlasiet **Atbloķēt**. Izpildiet izlidošanas rūtī norādītās darbības un pēc tam atlasiet **Jā,** lai apstiprinātu.  
     > [!NOTE]
-    > Pēc atbloķēšanas kontam ir jāspēj sākt sūtīt ziņojumus 3-4 stundās.
+    > Pēc atbloķēšanas kontam vajadzētu būt iespējai sākt ziņojumu nosūtīšanu 3–4 stundu laikā.

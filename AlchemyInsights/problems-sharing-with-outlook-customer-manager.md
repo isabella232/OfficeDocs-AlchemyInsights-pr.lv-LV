@@ -1,5 +1,5 @@
 ---
-title: problēmas — koplietošana-ar-Outlook-Customer-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960122"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problēmu koplietošana, izmantojot Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problēmas ar kopīgošanu ar Outlook Customer Manager
 
-Ja rodas koplietošanas problēmas ar Outlook Customer Manager, ieteicams vispirms izmēģināt pārlūkprogrammas kešatmiņas tīrīšanu. Piemēram, pārlūkprogrammā Internet Explorer:
+Ja rodas ar programmu Outlook Manager saistītas problēmas, ieteicams vispirms mēģināt notīrīt pārlūkprogrammas kešatmiņu. Piemēram, pārlūkprogrammā Internet Explorer:
 
-1.   >   Sadaļā **Pārlūkošanas vēstures**  >  **kešatmiņas un datu bāzes** atveriet sadaļu iestatījumi vispārīgi > iestatījumi.
-2. Dzēsiet kešatmiņas failus tīmekļa vietnei "outlookapps.com."
-3. Restartējiet programmu Outlook.
+1. Dodieties **uz Iestatījumi**  >  **Vispārīgi** > Iestatījumi **pārlūkošanas vēstures**  >  **kešatmiņas un datu bāzes**.
+2. Dzēsiet tīmekļa vietnes kešatmiņas failus "outlookapps.com".
+3. Restartējiet Outlook.
 
-Papildinformāciju par koplietošanu skatiet rakstā [informācijas kopīgošana Outlook klientu pārvaldniekā](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Papildinformāciju par koplietošanu skatiet rakstā [Informācijas koplietošana programmā Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

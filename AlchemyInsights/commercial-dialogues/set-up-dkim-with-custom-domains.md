@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994827"
 ---
 # <a name="set-up-dkim-with-custom-domains"></a>DKIM iestatīšana ar pielāgotiem domēniem
 
-Katram pielāgotam domēnam DNS ir jāpublicē divi CNAME ieraksti. Lai to izdarītu, izmantojiet šādu formātu:
+Jums ir jāpublicē divi CNAME ieraksti katram pielāgotajam domēnam DNS. Lai to izdarītu, izmantojiet šādu formātu:
 
 ```console
 Host name:            selector1._domainkey
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **DomainGUID** ir teksts, kas atrodas pa kreisi no **. Mail.Protection.Outlook.com** pielāgoto domēnu (piemēram, contoso-com for Domain **contoso.com**) pielāgoto MX ierakstu. **InitialDomain** ir domēns, ko izmantojāt, reģistrējoties pakalpojumā Office 365 (piemēram, **contoso.onmicrosoft.com**).
+> **DomainGUID** ir teksts pa kreisi no **.mail.protection.outlook.com** pielāgotā MX ieraksta pielāgotajam domēnam (piemēram, contoso-com domēnam **contoso.com**). **InitialDomain** ir domēns, ko izmantojāt, kad reģistrējāties Office 365 (piemēram, **contoso.onmicrosoft.com**).
 
-Lai iegūtu papildinformāciju par DNS ierakstiem, skatiet rakstu [DNS ierakstu izveide pie jebkura DNS viesošanas pakalpojumu sniedzēja pakalpojumā Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Papildinformāciju par DNS ierakstiem skatiet rakstā [DNS ierakstu izveide pakalpojumu sniedzējam, kas nodrošina Office 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

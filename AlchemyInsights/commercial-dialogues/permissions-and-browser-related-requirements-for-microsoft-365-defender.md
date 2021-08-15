@@ -1,5 +1,5 @@
 ---
-title: Atļaujas un ar pārlūkprogrammu saistītās prasības programmai Microsoft 365 Defender
+title: Atļaujas un ar pārlūkprogrammu saistītās prasības attiecībā uz Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016599"
 ---
-# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Atļaujas un ar pārlūkprogrammu saistītās prasības programmai Microsoft 365 Defender
+# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Atļaujas un ar pārlūkprogrammu saistītās prasības attiecībā uz Microsoft 365 Defender
 
-- Atļaujas: lai ieslēgtu Microsoft 365 Defender, jums ir jābūt globālajam administratoram vai drošības administratoram Azure Active Directory. Lai skatītu sarakstu ar lomām, kas var izmantot Microsoft 365 Defender, un lai uzzinātu, kā piekļuve datiem ir reglamentēta, skatiet rakstu [piekļuves pārvaldība Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
+- Atļaujas: lai ieslēgtu Microsoft 365 Defender, jums jābūt globālajam administratoram vai drošības administratoram Azure Active Directory. Lai skatītu to lomu sarakstu, kuras var izmantot Microsoft 365 Defender, un uzzinātu, kā piekļuve datiem ir regulēta, skatiet rakstu Piekļuves [Microsoft 365 Defender.](https://go.microsoft.com/fwlink/?linkid=2143626)
 
-- Ar pārlūkprogrammu saistītās prasības: lai piekļūtu Microsoft 365 Defender Microsoft 365 drošības centrā, izmantojiet Microsoft Edge, Internet Explorer 11 vai jebkuru HTML 5-compliant tīmekļa pārlūkprogrammu.
+- Ar pārlūkprogrammu saistītas prasības. Microsoft 365 Defender piekļuvi Microsoft 365 drošības centram, izmantojiet Microsoft Edge, Internet Explorer 11 vai jebkuru tīmekļa pārlūkprogrammu, kas saderīga ar HTML 5.

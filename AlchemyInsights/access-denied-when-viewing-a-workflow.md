@@ -1,5 +1,5 @@
 ---
-title: Ja darbplūsma tiek skatīta, piekļuve liegta
+title: Piekļuve liegta, skatot darbplūsmu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955208"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Ja darbplūsma tiek skatīta, piekļuve liegta
+# <a name="access-denied-when-viewing-a-workflow"></a>Piekļuve liegta, skatot darbplūsmu
 
-SharePoint 2013 darbplūsmas, kas mēģina nosūtīt e-pasta ziņojumu uz SharePoint grupu, var neizdoties ar kļūdas ziņojumu "piekļuve liegta", ja SharePoint grupas dalība nav iestatīta visiem.
+SharePoint 2013 darbplūsmas, kas mēģina nosūtīt e-pasta ziņojumu SharePoint grupai, var neizdoties ar kļūdas ziņojumu "Piekļuve liegta", ja SharePoint grupas dalība nav iestatīta kā Ikviens.
   
- **Lai atrisinātu šo problēmu, veiciet tālāk norādītās darbības.**
+ **Lai novērstu šo problēmu, veiciet tālāk norādītās darbības.**
   
- 1. Atļaujiet visiem skatīt SharePoint grupas dalībniekus.
+ 1. Atļaujiet visiem skatīt grupas SharePoint dalībniekus.
   
- 2. Noņemiet SharePoint grupu e-pasta ziņojuma rindiņā Kam vai kopija.
+ 2. Noņemiet SharePoint e-pasta ziņojuma rindiņā Kam vai Kopija.
   
- 3. Skaidri pievienojiet lietotājus rindiņām Kam vai kopija, ja dalības redzamību nevar mainīt SharePoint grupai.
+ 3. Tieši pievienojiet lietotājus rindiņā Kam vai Kopija, ja dalības redzamību nevar mainīt SharePoint grupai.
   
-Lai skatītu detalizētāku informāciju, lūdzu, skatiet sadaļu [http neautorizēts uz/_vti_bin/Client.svc/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Lai skatītu papildinformāciju, skatiet sadaļu HTTP nepilnvarots [uz /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

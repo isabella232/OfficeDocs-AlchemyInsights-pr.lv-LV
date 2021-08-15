@@ -1,5 +1,5 @@
 ---
-title: Piekļuve Project Online
+title: Access Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 36f9480cb4bf6e52f0f4cffaca6e5f328ed46cb7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 803c72aac296c1610702cf6bd31cc8b3fa50d0ffa5321a8637186992bd51de3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955136"
 ---
-# <a name="access-project-online"></a>Piekļuve Project Online
+# <a name="access-project-online"></a>Access Project Online
 
-- Lai piekļūtu pakalpojumam Project Online, vispirms abonējot [Project Online,](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) pievienojiet to pakalpojumā Office 365, pēc tam pārliecinieties, vai [jums ir piešķirta licence](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
+- Lai piekļūtu Project Online, vispirms [ir](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) jāabonē e-Project Online, pievienojot to programmā Office 365, pēc tam pārliecinieties, vai jums ir piešķirta [licence](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
 - Veiciet [šīs darbības,](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) lai pievienotu lietotājus project Online un [koplietotu Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) ar viņiem.
 
-Lai lietotājiem piešķirtu piekļuvi Project Web App vietnei, izmantojot SharePoint atļauju režīmu:
+Lai piešķirtu lietotājiem piekļuvi tīmekļa Project vietnei, izmantojot SharePoint režīmu:
 
-1. Piesakieties project Online kā administrators.
-2. Project Web App sākumlapā **noklikšķiniet uz Kopīgot** augšējā labajā stūrī.
-3. Dialoglodziņā **Project Web App** koplietošana lodziņā Uzaicināt personas ierakstiet tās personas lietotājvārdu, kurai **vēlaties piešķirt** piekļuvi.
-4. Noklikšķiniet **uz Rādīt** opcijas un izvēlnē Atlasiet atļauju **līmeni** atlasiet Project Web App **projektu pārvaldnieki**.
+1. Piesakieties programmā Project Online kā administrators.
+2. Tīmekļa Project augšējā labajā **stūrī noklikšķiniet** uz Kopīgot.
+3. Dialoglodziņā **Tīmekļa Project Web App** lodziņā Uzaicināt personas ierakstiet tās personas lietotājvārdu, **kurai vēlaties piešķirt** piekļuvi.
+4. Noklikšķiniet **uz Rādīt** opcijas un izvēlnē Atlasiet atļauju **līmeni** atlasiet Project **lietojumprogrammas Project Web App**.
 5. Noklikšķiniet **uz Kopīgot**.
