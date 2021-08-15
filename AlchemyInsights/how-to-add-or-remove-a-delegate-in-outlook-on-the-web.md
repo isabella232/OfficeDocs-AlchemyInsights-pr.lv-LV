@@ -1,5 +1,5 @@
 ---
-title: Kā pievienot vai noņemt pārstāvi programmā Outlook tīmeklī (OWA)
+title: Kā tīmeklī (OWA) pievienot Outlook pārstāvi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993432"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Kā pievienot vai noņemt pārstāvi programmā Outlook tīmeklī (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Kā tīmeklī (OWA) pievienot Outlook pārstāvi
 
-Lai savam kalendāram piešķirtu redaktora vai pārstāvja piekļuvi:
+Lai kalendāram piešķirtu redaktora vai pārstāvja piekļuvi:
 
 1. Programmā Outlook tīmeklī atlasiet kalendāra ikonu lapas apakšdaļā.
-2. Lapas augšdaļā atlasiet **kopīgot > kalendāru**.
-3. Lapā **koplietošana un atļaujas** ierakstiet tās personas vārdu vai e-pasta adresi, ar kuru vēlaties kopīgot savu kalendāru. Lai gan savu kalendāru varat kopīgot ar vairākām personām, vienlaikus varat pievienot tikai vienu personu no programmas Outlook tīmeklī.
-4. Pēc tam, kad esat pievienojis personu, kurai vēlaties pārvaldīt kalendāru, atlasiet nolaižamo sarakstu blakus dalībnieka vārdam un izvēlieties tiem nepieciešamo piekļuves līmeni.
+2. Lapas augšdaļā atlasiet Kopīgot un **> kalendārs**.
+3. Lapā **Kopīgošana un atļaujas ierakstiet** personas, ar kuru vēlaties kopīgot savu kalendāru, vārdu vai e-pasta adresi. Lai gan savu kalendāru varat kopīgot ar vairākām personām, no šīs personas vienlaikus var pievienot Outlook tīmeklī.
+4. Kad esat pievienojis personu, kurai vēlaties pārvaldīt savu kalendāru, atlasiet nolaižamo sarakstu blakus šīs personas vārdam un izvēlieties šai personai pieejamo piekļuves līmeni.
 
-    - Atlasiet **var rediģēt** , lai piešķirtu atļauju veikt izmaiņas kalendārā.
-    - Atlasiet **pārstāvis** , lai piešķirtu to pašu atļauju kā redaktoram, kā arī saņemtu sapulču pieprasījumus un atbildes jūsu vietā.
+    - Atlasiet **Var rediģēt,** lai piešķirtu atļauju veikt izmaiņas kalendārā.
+    - Atlasiet **Pārstāvis,** lai piešķirtu to pašu atļauju kā redaktoram, kā arī pārstāvja vārdā saņems sapulču pieprasījumus un atbildes.
     > [!NOTE]
-    > Ja pārstāvis atbild uz sapulces uzaicinājumu jūsu vārdā, atbilde uz uzaicinājuma ziņojumu iesūtnē nav redzama, ja izmantojat Outlook tīmeklī. Sapulces, kas tiek akceptētas vai varbūtēji akceptētas, būs redzamas jūsu kalendārā un rādīs, ka jūsu pārstāvis tās akceptēs.
-    - Opcijas **var skatīt, kad esmu aizņemts**, **var skatīt nosaukumus un atrašanās vietas** un **var skatīt visu informāciju** , ļaujot citiem lietotājiem skatīt jūsu kalendāru, bet neveikt tajā izmaiņas. Piekļuve personām ārpus jūsu organizācijas nav ierobežota ar šīm opcijām.
+    > Kad pārstāvis jūsu vārdā sniedz atbildi attiecībā uz sapulces uzaicinājumu, neredzēsit atbildi uz uzaicinājumu savā iesūtnē, ja izmantosit Outlook tīmeklī. Akceptētās un varbūtēji akceptētās sapulces tiks parādītas jūsu kalendārā un būs redzams, ka jūsu pārstāvis tās akceptēja.
+    - Opcijas Var **skatīt,** kad esmu **aizņemts,** Var skatīt  nosaukumus un atrašanās vietas un Var skatīt visu detalizētu informāciju ļauj citiem lietotājiem skatīt jūsu kalendāru, bet nevar veikt tajā izmaiņas. Šīm opcijām ir ierobežota piekļuve lietotājiem ārpus jūsu organizācijas.
 
-5. Pēc tam, kad esat pievienojis personu, ar kuru vēlaties kopīgot savu kalendāru, un esat izvēlējies, kurai personai vēlaties piešķirt atļaujas, atlasiet **kopīgot**. Ja izlemjat Nekopīgot savu kalendāru tūlīt, atlasiet **Noņemt**.
+5. Kad esat pabeidzis pievienot personu, ar kuru vēlaties kopīgot savu kalendāru, un esat izvēlējies, kādas atļaujas vēlaties sniegt šai personai, atlasiet **Kopīgot**. Ja izlemjat, ka pašlaik neizlemjat ne kopīgot savu kalendāru, atlasiet **Noņemt**.
 
-Persona, ar kuru kopīgojāt savu kalendāru, saņems e-pasta ziņojumu ar informāciju par to. Uzaicinājumā atlasot pogu **Akceptēt** , tā pievienos jūsu kalendāru savam kalendāru sarakstam.
+Persona, ar kuru koplietojat savu kalendāru, saņem informāciju par to e-pasta ziņojumu. Kad šī kontaktpersona **uzaicinājumā** atlasīs pogu Akceptēt, jūsu kalendārs tiks pievienots šīs kontaktpersonas kalendāru sarakstam.
 
 > [!NOTE]
-> Ir aizsargāti kalendāra vienumi, kas atzīmēti kā **privāti** . Lielākā daļa personu, ar kurām kopīgosit kalendāru, ir tikai to vienumu laiks, kas ir atzīmēti kā **privāti**, nevis tēma, atrašanās vieta vai cita detalizēta informācija. Izņēmums ir, ja atzīmējat izvēles rūtiņu **ļaut pārstāvim skatīt privātus notikumus** .
+> Kalendāra vienumi, kas ir **atzīmēti kā privāti,** ir aizsargāti. Vairākums personu, ar kurām kopīgojat savu kalendāru, redz tikai privāto vienumu **laiku,** bet ne tēmu, atrašanās vietu vai citu informāciju. Kā izņēmumu varat atzīmēt izvēles rūtiņu Ļaut **pārstāvim skatīt privātus** notikumus.
 
-Lai noņemtu pārstāvi programmā Outlook tīmeklī (OWA):
+Lai tīmeklī (OWA) Outlook pārstāvi:
 
 1. Programmā Outlook tīmeklī atlasiet kalendāra ikonu lapas apakšdaļā.
-2. Lapas augšdaļā atlasiet **kopīgot** un izvēlieties kalendāru, kura kopīgošanu vēlaties pārtraukt.
+2. Lapas augšdaļā atlasiet Kopīgot un **izvēlieties kalendāru,** kura koplietošanu vēlaties pārtraukt.
 3. Atlasiet **Noņemt** blakus personai, ar kuru vēlaties pārtraukt koplietot savu kalendāru.

@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993900"
 ---
 # <a name="delete-tenant"></a>Nomnieka dzēšana
 
 Lai izdzēstu Azure AD, pārliecinieties, vai:
 - Jūs esat globālais administrators direktorijā.
-- Jūs neesat pierakstījies, izmantojot kontu, kuram ir noklusējuma direktorijs, piemēram, contoso.onmicrosoft.com parakstītajā kontā, piemēram, admin@contoso.onmicrosoft.com.
-- Noņemiet visas aktīvās lietojumprogrammas direktorijā pirms dzēšanas. Lai noņemtu aktīvās lietojumprogrammas, atveriet lietojumprogrammu reģistrācijas un noņemiet esošās lietojumprogrammas.
-- Nevienam Microsoft tiešsaistes pakalpojumam, piemēram, Microsoft Azure, Office 365 vai Azure AD Premium, kas ir saistīts ar direktoriju, nav neviena aktīva abonementa. Pārsūtiet savus abonementus vai Paātriniet aktīvo abonementu atcelšanu, izmantojot Azure atbalstu un norēķinus. Uzziniet vairāk par to, kā atcelt Office 365 un Azure abonementus. Norādījumus par to, kā nomniekam piesaistīt vai pievienot esošu abonementu, skatiet sadaļā [AZURE ad nomnieka saistīšana vai pievienošana](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-- Nav nevienas aktīvas licences. Lai noņemtu licences, skatiet rakstu [kā noņemt abonementu, lai noņemtu licenci](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
-- Nav citu aktīvu lietotāju direktorijā bez sevis kā globālais administrators, mēģinot izdzēst Azure AD. Noņemiet visus pārējos aktīvos lietotājus, bet, ja vēlaties, ir jānoņem, piemēram, ar admin@contoso.com izveidotie lietotāji.
+- Neesat pierakstījies ar kontu, kuram ir noklusējuma direktorijs, piemēram, contoso.onmicrosoft.com pierakstīšanās kontā, piemēram, admin@contoso.onmicrosoft.com.
+- Pirms dzēšanas noņemiet direktorijā visas aktīvās lietojumprogrammas. Lai noņemtu aktīvās lietojumprogrammas, naviģējiet uz programmu reģistrācijām un noņemiet esošās lietojumprogrammas.
+- Nav aktīvu Microsoft Online Services abonementu, piemēram, Microsoft Azure, Office 365 vai Azure AD Premium, kas saistīti ar šo direktoriju. Pārsūtiet savus abonementus vai paātrinātu aktīvo abonementu atcelšanu, izmantojot Azure atbalstu un norēķinus. Uzziniet vairāk par to, kā atcelt Office 365 Azure abonementus. Norādījumus par to, kā nomniekam piesaistīt vai pievienot esošu abonementu, skatiet rakstā Azure abonementa saistīšana vai pievienošana [Azure nomniekam.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+- Nav aktīvas licences. Lai noņemtu licences, skatiet rakstu [Kā noņemt abonementu, lai noņemtu licenci](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
+- Direktorijā nav citu aktīvu lietotāju, ne tikai jūs kā globālais administrators, kad mēģināt izdzēst Azure AD. Noņemiet visus pārējos aktīvos lietotājus, kā arī atkarību no nomnieka pielāgotā domēna nosaukuma, piemēram, lietotājus, kas izveidoti ar admin@contoso.com.
 
-Detalizētāku informāciju par to, kā:
-- Dzēst "Azure Active Directory" vai "abonementu", skatiet rakstu [Azure Active Directory dzēšana](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
-- Noņemot lietojumprogrammas direktorijā, skatiet rakstu [lietojumprogrammu noņemšana](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
+Lai iegūtu detalizētu informāciju par to, kā:
+- Izdzēsiet "Azure Active Directory" vai "abonements", skatiet [rakstu Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)
+- Noņemot lietojumprogrammas direktorijā, skatiet [sadaļu Lietojumprogrammu noņemšana](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
