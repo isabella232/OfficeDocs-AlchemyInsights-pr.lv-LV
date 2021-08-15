@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16240588ac763c9da180dad94cb1dcc3eb1ecdf3b65eff99aadf478331b91d59
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979608"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Outlook sinhronizācijas pamatinformācijas problēmu novēršana
+# <a name="basic-outlook-sync-troubleshooting"></a>Sinhronizācijas Outlook pamatinformācija
 
 Ja rodas sinhronizācijas problēmas, mēģiniet veikt šādas darbības:
 
 - Palaidiet [šo diagnostikas rīku](https://aka.ms/sara-outlooksendreceive) attiecīgajā datorā.
-- Samaziniet primārās vai koplietojamās pastkastes mapju skaitu. Skatiet [rakstu Outlook veiktspējas problēmas, ja kešatmiņā](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)saglabātajā režīmā .ost vai .pst failu mapē ir pārāk daudz vienumu vai mapju.
+- Samaziniet primārās vai koplietojamās pastkastes mapju skaitu. Skatiet [Outlook problēmas, ja kešatmiņā](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)saglabātā režīmā .ost vai .pst failu mapē ir pārāk daudz vienumu vai mapju.
 - Atspējojiet visu koplietoto mapju kešatmiņu.
-- Mainiet sekundārās Exchange pastkastes konfigurāciju uz otru Exchange kontu savā profilā.
+- Mainiet sekundārās pastkastes Exchange uz otru Exchange kontu savā profilā.
 - Pārliecinieties, vai lietotājs var izveidot savienojumu ar internetu. 
 - [Pārliecinieties, vai esat tiešsaistē.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
 - [Nosakiet, vai kārtula tiek lietota.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)
-- Lai **pārbaudītu, vai ir iespējota koplietoto** mapju lejupielāde, dodoties uz   >  **Faila konta iestatījumi** Konta  >  **iestatījumi**  >  **Papildu**  >  **iestatījumi**.
+- Pārbaudiet, **vai ir iespējota opcija** Lejupielādēt koplietojamas mapes, dodoties uz Failu konts   >  **Iestatījumi** vai  >  **Iestatījumi** Papildu  >  **Iestatījumi**  >  **papildu.**

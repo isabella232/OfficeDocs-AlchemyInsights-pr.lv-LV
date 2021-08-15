@@ -1,5 +1,5 @@
 ---
-title: Apple automātiskās ierīču reģistrācijas sinhronizācijas kļūdas
+title: Apple automātiskās ierīces reģistrācijas sinhronizācijas kļūdas
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013755"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Apple automātiskās ierīču reģistrācijas sinhronizācijas kļūdas
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Apple automātiskās ierīces reģistrācijas sinhronizācijas kļūdas
 
-"Mēs noteikuši, ka jums ir viena vai vairākas ADE/DEP marķierierīces, kas ir kļūdas stāvoklī. Līdz kļūdas stāvokļa atrisināšanai katrai ietekmētajai pilnvarai, funkcija ADE nedarbojas, kā paredzēts.
+"Mēs konstatējām, ka jums ir viens vai vairāki ADE/DEP marķieri, kas ir kļūdas stāvoklī. Līdz kļūdas stāvoklis nav atrisināts katrai ietekmētajam marķierim, ADE funkcionalitāte nedarbojas, kā paredzēts.".
 
-Šī kļūda var izpausties vairākos veidos, tostarp:
+Šī kļūda var rasties vairākos veidos, tostarp:
 
-1. Ierīces var netikt sinhronizētas no ABM/ASM uz Intune
-2. Reģistrācijas profila uzdevumi var neizdoties
-3. Ierīces var neveiksmīgi pabeigt ADE pieteikšanos
+1. Ierīces, iespējams, netiek sinhronizētas no ABM/ASM uz Intune
+2. Reģistrācijas profilu piešķiršana var būt neveiksmi
+3. Ierīces, iespējams, nevar sekmīgi pabeigt ADE reģistrāciju
 
-Meklējiet sinhronizācijas kļūdu, kas tiek ziņota Intune konsolē sadaļā **ierīces > reģistrēt ierīces > Apple reģistrācijas > reģistrācijas programmas pilnvaras**.
+Pārbaudiet, vai sinhronizācijas kļūda uzrādīta Intune konsolē sadaļā Ierīces, > reģistrē ierīces > Apple reģistrācija **> reģistrācijas programmas marķieriem.**
 
-Viens no biežākajiem sinhronizācijas kļūdas iemesliem ir pašreizējās marķierierīces derīguma termiņš. Daudzi gadījumi atrisinās ietekmētās marķierierīces problēmu.
+Viens no biežākajiem sinhronizācijas kļūdas iemesliem ir pašreizējā marķiera derīguma beigas. Daudzos gadījumos problēma tiks novērsta, atjaunojot ietekmēto marķieri.
 
-Ja vienai vai vairākām pilnvarām ir beidzies derīgums, skatiet tālāk norādītās dokumentācijas, kas palīdzēs tās atjaunot, ja nepieciešams.
+Ja ir beidzies viena vai vairākiem marķieriem derīgums, skatiet tālāk norādīto dokumentāciju, lai saņemtu atbilstošu palīdzību par atjaunošanu:
 
-[Automātiskas reģistrācijas marķierierīces atjaunošana](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+[Automatizētas ierīces reģistrācijas pilnvaras atjaunošana](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Turklāt varat skatīt tālāk norādīto dokumentāciju, lai skatītu iespējamās atrisināšanas iespējas citām kļūdām, kas izraisa marķiera sinhronizācijas kļūdas:
+Turklāt varat skatīt tālāk norādīto dokumentāciju, lai redzētu iespējamos koriģēšanu citām kļūdām, kas izraisa marķiera sinhronizācijas kļūmes:
 
-[ABM/ASM sinhronizācijas kļūdas iOS/iPadOS un macOS automatizētās ierīču reģistrācijas marķierierīcēs](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
-
-
+[ABM/ASM sinhronizācijas kļūdas iOS/iPadOS un macOS automatizētajai ierīces reģistrācijas marķieriem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
 
 
-[ABM/ASM sinhronizācijas kļūdas iOS/iPadOS un macOS automatizētās ierīču reģistrācijas marķierierīcēs](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+
+
+[ABM/ASM sinhronizācijas kļūdas iOS/iPadOS un macOS automatizētajai ierīces reģistrācijas marķieriem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

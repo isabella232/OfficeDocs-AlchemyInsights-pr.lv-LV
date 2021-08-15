@@ -1,5 +1,5 @@
 ---
-title: Kā koplietot SharePoint vai OneDrive failus vai mapes
+title: Failu un mapju SharePoint OneDrive kopīgošana
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d4917d91e1567afeacb77f78735d39d14c9286e4318026e1f4daf1fb1c11fde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001767"
 ---
-# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Kā koplietot SharePoint vai OneDrive failus vai mapes
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Failu un mapju SharePoint OneDrive kopīgošana
 
-SharePoint vietnē saglabātie faili parasti ir pieejami ikvienam, kam ir vietnes atļauja, bet, iespējams, vēlēsities koplietot konkrētus failus vai mapes ar personām, kurām citviet nav piekļuves vietnei. Koplietojot failus un mapes, varat izlemt, vai lietotāji tos var rediģēt vai tikai skatīt. Papildinformāciju skatiet šeit:
+Faili, ko glabājat SharePoint vietnē, parasti ir pieejami ikvienam, kam ir vietnes atļaujas, bet, iespējams, vēlēsities koplietot konkrētus failus vai mapes ar personām, kurām citviet nav piekļuves vietnei. Koplietojot failus un mapes, varat izlemt, vai lietotāji tos var rediģēt vai tikai skatīt. Papildinformāciju skatiet rakstā:
 
-[SharePoint failu vai mapju koplietošana](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Failu SharePoint vai mapju koplietošana](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[OneDrive failu un mapju koplietošana](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
+[Failu OneDrive un mapju koplietošana](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
