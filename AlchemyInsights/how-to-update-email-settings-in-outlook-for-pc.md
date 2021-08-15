@@ -1,5 +1,5 @@
 ---
-title: E-pasta iestatījumu atjaunināšana programmā Outlook darbam ar PC datoru
+title: E-pasta iestatījumu atjaunināšana programmā Outlook pc datoram
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976980"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>E-pasta iestatījumu atjaunināšana programmā Outlook darbam ar PC datoru
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>E-pasta iestatījumu atjaunināšana programmā Outlook pc datoram
 
-1. Atveriet programmu Outlook un atlasiet **fails > konta iestatījumi > konta iestatījumi**.
+1. Atveriet Outlook un atlasiet **> konta Iestatījumi > konta Iestatījumi**.
 
-2. Atlasiet e-pasta kontu, kuru vēlaties mainīt, un pēc tam noklikšķiniet uz **mainīt**. 
+2. Atlasiet e-pasta kontu, kuru vēlaties mainīt, un pēc tam noklikšķiniet **uz Mainīt.** 
 
-3. **Iestatījumu** lapā atjauniniet savus ienākošo un izejošo serveru nosaukumus, savu e-pasta adresi, vārdu, lietotājvārdu un paroli, kā nepieciešams. Ja ir jāmaina SSL iestatījumi vai porta iestatījumi, noklikšķiniet uz **Citi iestatījumi**. Biežāk lietotie atjaunināšanas iestatījumi atrodas cilnē **Izejošais serveris** un cilne **papildu** .
+3. Lapā **Iestatījumi** kā nepieciešams, atjauniniet ienākošā un izejošā servera nosaukumu, e-pasta adresi, vārdu, lietotājvārdu un paroli. Ja vēlaties mainīt SSL iestatījumus vai porta iestatījumus, noklikšķiniet uz **Vairāk Iestatījumi**. Visbiežāk lietotie atjaunināšanas iestatījumi atrodas **cilnē Izejošais serveris** un **Papildu.**
 
-4. Ja jums ir problēmas ar e-pasta nosūtīšanu vai saņemat ziņojumus par izejošo serveri, pārliecinieties, vai ir atzīmēta izvēles rūtiņa **Mans izejošais serveris (SMTP) prasa autentifikāciju** .
+4. Ja rodas problēmas ar e-pasta sūtīšanu vai ziņojumu saņemšanu par izejošu serveri, pārliecinieties, vai ir atzīmēta izvēles rūtiņa Mans izejošais serveris **(SMTP)** prasa autentifikāciju.
 
-5. Ja jums ir jāatjaunina ienākošo vai izejošo serveru porti vai SSL iestatījumi, dodieties uz cilni **papildu** un veiciet vajadzīgās izmaiņas.
+5. Ja vēlaties atjaunināt ienākošā vai izejošā servera portus vai SSL iestatījumus, dodieties uz cilni **Papildu** un veiciet nepieciešamās izmaiņas.
 
 > [!NOTE]
-> **AOL un Verizon Klienti**: ja nolaižamajā lodziņā zem **ienākošā un izejošā servera Šifrētie savienojumi** tiek atlasīts **SSL/TLS** , jūs joprojām varat sūtīt un saņemt e-pastu pēc 2017. gada 7. novembra.
+> **AOL** un Verizon klientiem: Atlasot **SSL/TLS** nolaižamajā lodziņā zem Ienākošie un izejošie **servera** šifrētie savienojumi, jūs joprojām varat nosūtīt un saņemt e-pastu pēc 2017. gada 7. novembra.
 
-6. Kad esat pabeidzis iestatījumu atjaunināšanu, noklikšķiniet uz **Labi**, noklikšķiniet uz **Tālāk** un pēc tam noklikšķiniet uz **pabeigt**.
+6. Kad iestatījumu atjaunināšana ir pabeigta, noklikšķiniet uz Labi, **noklikšķiniet** uz **Tālāk un** pēc tam noklikšķiniet uz **Pabeigt.**
 
 

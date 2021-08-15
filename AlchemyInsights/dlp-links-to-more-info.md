@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030837"
 ---
 # <a name="information-about-dlp-issues"></a>Informācija par DLP problēmām
 
@@ -24,15 +24,15 @@ ms.locfileid: "47679736"
 
 **Informācija par DLP politiku**
 
-Izmantojot DLP politiku, varat identificēt, pārraudzīt un automātiski aizsargāt sensitīvu informāciju programmā Microsoft 365.
+Izmantojot DLP politiku, varat identificēt, pārraudzīt un automātiski aizsargāt sensitīvu informāciju visā Microsoft 365.
 
-Lai iegūtu papildinformāciju, lūdzu, apmeklē šīs saites:
+Lai iegūtu papildinformāciju, apmeklējiet šīs saites:
 
-- [Datu zuduma novēršanas pārskats](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Sensitīvo informācijas tipu izskats](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Pielāgota sensitīvas informācijas tipa izveide](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [E-pasta paziņojumu sūtīšana un politikas padomu parādīšana](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [SharePoint Online failu aizsardzība ar saglabāšanas etiķetēm un DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [Pārskats par datu zuduma novēršanu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Ko meklē sensitīvās informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Pielāgota sensitīva informācijas tipa izveide](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Sūtīt e-pasta paziņojumus un rādīt politikas padomus](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Aizsardzība SharePoint tiešsaistes failus, izmantojot saglabāšanas etiķetes un DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP un Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Lai testētu savus datus ar iebūvētu vai pielāgotu sensitīvu informācijas tipu, izmantojiet opciju **testa veids** , kas pieejama sadaļā **klasificēti**  >  **sensitīvi informācijas tipi**. Papildinformāciju skatiet rakstā [pielāgotu sensitīvo informācijas tipu pārbaude](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Lai pārbaudītu datus ar iebūvētu vai pielāgotu sensitīvas  informācijas tipu, izmantojiet opcijas Testa tips sadaļā **Klasifikācijas sensitīvas**  >  **informācijas tipi**. Papildinformāciju skatiet rakstā Pielāgotu [sensitīvas informācijas tipu testēšana.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

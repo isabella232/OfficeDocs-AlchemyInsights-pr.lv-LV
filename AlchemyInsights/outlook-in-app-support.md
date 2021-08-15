@@ -1,5 +1,5 @@
 ---
-title: Nomnieks ir pilotprojekts lietojumprogrammā Outlook
+title: Nomnieks izmēģina lietojumprogrammu atbalstu Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991902"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>Lietojumprogrammas atbalsts programmā Outlook darbam ar Windows
+# <a name="in-app-support-in-outlook-for-windows"></a>Programmu atbalsts programmā Outlook Windows
 
-Kā nomnieka administrators varat saņemt lietojumprogrammas atbalstu programmā Outlook darbam ar Windows. Programmā Outlook atlasiet **palīdzība**  >  **sazināties ar atbalsta dienestu**. Ievadiet savu jautājumu un Outlook darbam ar Windows atbalsta grupas dalībnieks atbildēs uz jūsu ziņojumu.
+Kā nomnieka administrators varat saņemt atbalstu programmā, lai saņemtu problēmas programmā Outlook for Windows. Dialoglodziņā Outlook Palīdzība sazināties **ar**  >  **atbalsta dienestu**. Ievadiet savu jautājumu, un grupas dalībnieks Outlook, Windows atbalsta komanda atbildēs uz jūsu ziņojumu.

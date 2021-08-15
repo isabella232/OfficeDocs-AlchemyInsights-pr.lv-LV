@@ -1,5 +1,5 @@
 ---
-title: Veikt tūlītējus maksājumus — ieteicamās darbības
+title: Tūlītēja maksājuma apmaksa — ieteicamās darbības
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976764"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Veikt tūlītējus maksājumus — ieteicamās darbības
+# <a name="make-immediate-payment---recommended-steps"></a>Tūlītēja maksājuma apmaksa — ieteicamās darbības
 
-Ņemot vērā jūsu problēmas aprakstu, mēs esam atraduši risinājumu. Lielākā daļa klientu varēja atrisināt šo problēmu patstāvīgi pēc mūsu dokumentācijas.
+Ņemot vērā jūsu problēmas aprakstu, esam atraduši jums risinājumu. Lielākajai daļai klientu problēma tika novērsta paši pēc mūsu dokumentācijas sekošanas.
 
-Lai veiktu tūlītēju maksājumu, nodrošina iespēju atrisināt pagātnes atlikumus. Ja jūsu maksājums nav saņemts vai ja mēs nevaram apstrādāt jūsu maksājumu, iespējams, saņemsit e-pasta ziņojumu vai redzēsit paziņojumu par iepriekšēju apmaksas atlikumu, izmantojot kontu centru vai Azure portālu. 
+Lai veiktu tūlītēju maksājumu, novērsiet agrākos maksājuma atlikumus. Ja jūsu maksājums nav saņemts vai mēs nevaram apstrādāt jūsu maksājumu, iespējams, saņemsiet e-pasta ziņojumu vai redzēsit brīdinājumu par bilances atlikumu kontu centrā vai Azure portālā. 
 
-Maksājumam, iespējams, nav veikts maksājums, ja ir beidzies kredītkartes derīguma termiņš vai jūsu banka ir noraidījusi maksu. Konta administrators var pārskatīt un atjaunināt kredītkarti kontu centrā. 
+Maksājumu, iespējams, nav izdevies apstrādāt, ja ir beidzies failā esošās kredītkartes derīgums vai jūsu banka noraidīja maksājumu. Konta administrators var pārskatīt un atjaunināt kredītkarti kontu centrā. 
 
-Jūsu Azure abonements, iespējams, ir atspējots, jo jūsu kredīta termiņš ir beidzies, jūs sasniedzat savu izdevumu limitu, ir nokavēts rēķins, pieskaršanās ar kredītkarti vai konta administrators ir atcēlis abonementu.  
+Jūsu Azure abonements, iespējams, ir atspējots, jo jūsu kredīta derīgums ir beidzies, esat sasniedzis izdevumu ierobežojumu, nokavēts rēķins, esat sasniedzis kredītkartes ierobežojumu vai tāpēc, ka konta administrators atcēla abonementu.  
 
-Ja jūsu finanšu iestāde ir gaidījis maksājumu ar karti, jo karte tika noraidīta, sazinieties ar savu finanšu iestādi, lai atrisinātu šo problēmu.  
+Ja kopš finanšu iestādes noraidīta karte, uz karti tiek gaidīts maksājums, sazinieties ar finanšu iestādi, lai atrisinātu šo problēmu.  
 
-Jums, iespējams, būs jāmeklē bankā, lai skatītu:
+Iespējams, jums būs jāpārbauda banka, lai redzētu:
 
-- Ja karte ir ievietota starptautiskā darbībā. 
-- Ja kartei ir kredīta limits, lai atmaksātu atlikumu 
-- Ja kartītē ir iespējots periodisks maksājums 
+- Ja uz kartes tiek ievietota starptautiska transakcija. 
+- Ja kartei ir iestatīts kredīt limits atlikuma atsišana 
+- Vai kartē ir iespējoti regulārie maksājumi 
 
-Ja maksājums ir noraidīts, pārbaudiet, kurš maksājumu instruments (PI) tiek noraidīts, ja jums ir vairāki PIs, kas saistīti ar abonementu. Ja nepieciešams, mainiet vai noņemiet savu PI no abonementa. 
+Ja jūsu maksājums tiek noraidīts, pārbaudiet, kurš maksāšanas līdzeklis (PI) tiek noraidīts, ja jums ir vairāki PI, kas saistīti ar abonementu. Ja nepieciešams, mainiet vai noņemiet savu PI no abonementa. 
 
-**Ieteicamie dokumenti** 
+**Ieteiktie dokumenti** 
 
-- [Access norēķinu informācijas pārvaldība pakalpojumam Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Rēķinu vai lietojuma datu lejupielāde no Azure kontu centra](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Pārvaldīt piekļuvi norēķinu informācijai azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Rēķina vai lietojuma datu lejupielāde no Azure kontu centra](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Apmaksa ar rēķinu pakalpojumam Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Azure apmaksa ar rēķinu](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 

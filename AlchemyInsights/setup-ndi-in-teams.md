@@ -1,5 +1,5 @@
 ---
-title: NDI tehnoloģijas ieslēgšana
+title: Ieslēgt NDI tehnoloģiju
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023529"
 ---
-# <a name="turn-on-ndi-technology"></a>NDI tehnoloģijas ieslēgšana
+# <a name="turn-on-ndi-technology"></a>Ieslēgt NDI tehnoloģiju
 
-NDI tehnoloģijai lietotājam ir jāveic divas darbības:
+Lai lietotājam ieslēgtu NDI tehnoloģiju, ir jāveic divas darbības:
 
-1. Nomnieka administratoram ir jāiespējo rekvizīts "AllowNDIStreaming" programmā CsTeamsMeetingPolicy.
+1. Nomnieka administratoram ir jāiespējo rekvizīts "AllowNDIStreaming" CsTeamsMeetingPolicy.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Pēc tam, kad šīs izmaiņas ir apdzīvotas, lietotājam ir jāieslēdz NDI® tehnoloģijas konkrētajam klientam no **iestatījumiem > atļaujām**.
+2. Kad šīs izmaiņas ir aizpildītas, lietotājam ir jāieslēdz NDI® tehnoloģija konkrētam klientam, izmantojot **Iestatījumi > atļaujas.**
 
-Papildinformāciju skatiet rakstā [NDI tehnoloģijas izmantošana pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).
+Papildinformāciju skatiet rakstā [NDI tehnoloģijas izmantošana Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)

@@ -1,5 +1,5 @@
 ---
-title: Google kalendāra importēšana programmā Outlook
+title: Google kalendāra importēšana pakalpojumā Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014835"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>Google kalendāra importēšana programmā Outlook
+# <a name="import-your-google-calendar-to-outlook"></a>Google kalendāra importēšana pakalpojumā Outlook
 
-Atkārtojiet šo procedūru katram Google kalendāram, kuru vēlaties importēt programmā Outlook.
+Atkārtojiet šo procedūru katram Google kalendāram, kuru vēlaties importēt Outlook.
 
-1. Datora programmā Outlook (Outlook 2013 vai Outlook 2016) atveriet savu **kalendāru**.
-1. Noklikšķiniet uz **Fails**  >  **Atvērt & eksportēt**  >  **importēšanu/eksportēt**.
-1. **Importēšanas un eksportēšanas vednī** atlasiet **Importēt iCalendar (. ICS) vai vCalendar failu** un pēc tam noklikšķiniet uz **Tālāk**.
-1. Pārlūkojiet līdz vietai, kur saglabājāt izvilkto failu, un izvēlieties to, kas beidzas ar **Gmail.com**, un noklikšķiniet uz **Labi**.
-1. Noklikšķināšana uz **Importēt**
+1. Programmā Outlook (2013 Outlook vai Outlook 2016) dodieties uz savu **kalendāru**.
+1. Noklikšķiniet **uz Atvērt** failu & Eksportēt  >    >  **importēšanu/eksportēšanu.**
+1. Importēšanas **un eksportēšanas vednī** atlasiet **Importēt iCalendar (.ics) vai vCalendar failu** un pēc tam noklikšķiniet uz **Tālāk.**
+1. Atrodiet vietu, kur saglabājis izvilkto failu, izvēlieties failu, kas beidzas ar **gmail.com**, un noklikšķiniet uz **Labi**.
+1. Noklikšķiniet uz **Importēt**
 
-Atveriet savu Outlook kalendāru. Tagad ir jāredz Google kalendāra notikumi.
+Pārejiet uz savu Outlook kalendāru. Tagad jūsu Google kalendāra pasākumi tiks parādīts tur.

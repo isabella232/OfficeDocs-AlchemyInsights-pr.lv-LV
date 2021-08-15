@@ -1,5 +1,5 @@
 ---
-title: Meklēšanas vārdnīcu pārvaldība pakalpojumā SharePoint Online
+title: Meklēšanas vārdnīcu pārvaldība programmā SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff6764bd770bbb74e857c6264cddceecee9c96c888bb983292398522f5e90a5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976620"
 ---
 # <a name="manage-search-dictionaries"></a>Meklēšanas vārdnīcu pārvaldība
 
-Meklēšanas vārdnīcas pakalpojumā SharePoint Online tiek pārvaldītas SharePoint Online terminu krātuvē, kas atrodas jaunajā SharePoint administrēšanas centrā. Papildinformāciju par to, kā pievienot vai rediģēt meklēšanas vārdnīcas, skatiet rakstā [meklēšanas vārdnīcu pārvaldība](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Meklēšanas vārdnīcas SharePoint tiešsaistē tiek pārvaldītas SharePoint tiešsaistes terminu krātuvē, kas atrodas jaunajā SharePoint centrā. Papildinformāciju par to, kā pievienot vai rediģēt meklēšanas vārdnīcas, skatiet [rakstā Meklēšanas vārdnīcu pārvaldība.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)
   
-Ja neredzat meklēšanas vārdnīcas terminu kopu, kas tiek rādīta terminu krātuvē, lūdzu, uzgaidiet 24 stundas. Ja vārdnīca joprojām netiek rādīta pēc 24 stundām, lūdzu, piesakieties atbalsta biļetē.
+Ja vārdu krātuvē netiek rādīta meklējamās vārdnīcas terminu kopa, lūdzu, uzgaidiet 24 stundas. Ja vārdnīca joprojām netiek rādīta pēc 24 stundām, lūdzu, reģistrējiet atbalsta biļeti.
   
