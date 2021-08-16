@@ -1,5 +1,5 @@
 ---
-title: Problēmas ar viengabala SSO integrāciju ar manām lokālajām lietojumprogrammām
+title: Problēmas ar Seamless SSO integrāciju ar lokālajām lietojumprogrammām
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028299"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problēmas ar viengabala SSO integrāciju ar manām lokālajām lietojumprogrammām
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problēmas ar Seamless SSO integrāciju ar lokālajām lietojumprogrammām
 
-Lai novērstu problēmas, kas saistītas ar viengabala SSO integrāciju ar lokālajām lietojumprogrammām, veiciet tālāk norādītās darbības.
+Lai novērstu problēmas, kas saistītas ar Seamless SSO integrāciju ar lokālajām lietojumprogrammām, rīkojieties šādi:
 
 **Ieteicamās darbības**
 
-1. Lai konfigurētu **lokālo lietojumprogrammu** **vienotās pierakstīšanās lietošanai, izmantojot lietojumprogrammu starpniekserveri**, skatiet rakstu [paroļu velves izveide vienotā pierakstīšanās ar lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Lietojumprogrammas starpniekservera problēmu novēršana**: iesakām sākt ar problēmu novēršanas plūsmu pārskatīšanu, [atkļūdošanas lietojumprogrammas starpniekservera savienotāja problēmas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), lai noteiktu, vai lietojumprogrammas starpniekservera savienotāji ir konfigurēti pareizi. Ja joprojām rodas problēmas, veidojot savienojumu ar lietojumprogrammu, veiciet problēmu novēršanas darbības sadaļā [atkļūdošanas lietojumprogrammas starpniekservera problēmas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Varat [IDENTIFICĒT CORS problēmas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) , izmantojot tālāk norādītos pārlūkprogrammas atkļūdošanas rīkus.
-    1. Palaidiet pārlūkprogrammu un pārlūkojiet līdz tīmekļa programmai.
-    1. Nospiediet taustiņu **F12** , lai atvērtu atkļūdošanas konsoli.
-    1. Mēģināt reproducēt transakciju un pārskatīt konsoles ziņojumu. CORS pārkāpums izveido konsoles kļūdu par izcelsmi.
-    1. Dažas CORS problēmas nevar atrisināt, piemēram, kad lietojumprogramma novirza uz login.microsoftonline.com, lai autentificētu, un piekļuves pilnvaras derīguma termiņš beigsies. CORS pēc tam neizdosies. Risinājums šajā scenārijā ir pagarināt piekļuves marķiera kalpošanas laiku, lai neļautu tam beigties lietotāja sesijas laikā. Papildinformāciju par to, kā to paveikt, skatiet rakstā [konfigurējamas marķierierīces ilgumus Microsoft identitātes platformā](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+1. Lai konfigurētu lokālo lietojumprogrammu vienotāi pierakstīšanās, izmantojot lietojumprogrammas starpniekserveri, skatiet rakstu **Paroles** glabātava vienotās pierakstīšanās ar [lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+1. **Lietojumprogrammas starpniekservera** problēmu novēršana : iesakām sākt pārskatīt problēmu novēršanas plūsmu, atkļūdošanas [lietojumprogrammas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)starpniekservera savienotāja problēmas , lai noteiktu, vai lietojumprogrammas starpniekservera savienotāji ir konfigurēti pareizi. Ja joprojām rodas problēmas, veidojot savienojumu ar lietojumprogrammu, izpildiet problēmu novēršanas darbības, kas norādītās sadaļā Lietojumprogrammas starpniekservera [lietojumprogrammas atkļūdošanas problēmas.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) Lai noteiktu [CORS problēmas, izmantojiet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) tālāk norādītos pārlūkprogrammas atkļūdošanas rīkus.
+    1. Palaidiet pārlūkprogrammu un pārlūkojiet līdz tīmekļa lietojumprogrammai.
+    1. Nospiediet **taustiņu F12,** lai atvērtu atkļūdošanas konsoli.
+    1. Mēģiniet atveidot transakciju un pārskatiet konsoles ziņojumu. CORS pārkāpumi izraisa konsoles kļūdu par izcelsmi.
+    1. Dažas CORS problēmas nevar atrisināt, piemēram, kad jūsu programma novirza uz login.microsoftonline.com uz autentificēšanu un piekļuves pilnvaras derīgums beidzas. Pēc tam CORS zvans neizdodas. Risinājums šim scenārijam ir pagarināt piekļuves pilnvaras darbības laiku, lai tas nebeidzas lietotāja sesijas laikā. Papildinformāciju par to, kā to paveikt, skatiet rakstā [Konfigurējamu pilnvaru darbības ilgums Microsoft indentitāšu platforma.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
-- [Kā konfigurēt vienoto pierakstīšanos lietojumprogrammas starpniekservera lietojumprogrammā](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [SAML Single Sign-On lokālās lietojumprogrammas, izmantojot lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Azure Active Directory lietojumprogrammas starpniekservera CORS problēmu izprašana un risināšana](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Problēmu novēršana saistībā ar Kerberos ierobežotu deleģēšanas konfigurāciju lietojumprogrammas starpniekserverim](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Kā konfigurēt vienoto pierakstīšanu lietojumprogrammas starpniekservera lietojumprogrammā](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [SAML vienotā pierakstīšanās lokālajās lietojumprogrammās ar lietojumprogrammas starpniekserveri](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Informācija par lietojumprogrammas Azure Active Directory starpniekservera CORS problēmām un to novēršana](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Kerberos ierobežoto deleģēšanas konfigurāciju problēmu novēršana lietojumprogrammas starpniekserverī](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

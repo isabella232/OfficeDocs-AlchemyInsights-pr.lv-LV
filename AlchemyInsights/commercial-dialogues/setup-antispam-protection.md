@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058513"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874582"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Pretsurogātpasta aizsardzības iestatīšana
 
-Lūk, kā to paveikt:
+1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com/>  \>  \>  \> **E-&**  un sadarbības politikas & Kārtulu pretsurogātpasta politikas sadaļā Politikas.
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pārejiet uz **apdraudējumu**  >  **pārvaldības politiku** un noklikšķiniet uz **[Pretsurogātpasta .](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Cilnē **Pielāgots** ieslēdziet opciju **Pielāgotie** iestatījumi.
-1. Izvērsiet noklusējuma **surogātpasta filtra politiku,** noklikšķiniet **uz Rediģēt politiku** un pēc tam norādiet tālāk norādītos iestatījumus.
-    1. Sadaļā **Surogātpasts un lielapjoma** darbības iestatiet slieksni kā 5 vai 6.
-1. Noklikšķiniet uz **Saglabāt**.
+   Lai pārietu tieši uz **lapu Pretsurogātpasta** politikas, izmantojiet <https://security.microsoft.com/antispam> .
 
-Papildinformāciju par surogātpasta novēršanas politikas opcijām skatiet rakstā [Pretsurogātpasta politiku konfigurēšana.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Lapā **Pretsurogātpasta** politikas veiciet kādu no šīm darbībām:
+   - Lai pievienotu jaunu politiku, atlasiet **+ Izveidot** \> **ienākošo .** Tiks palaists vednis, kas palīdzēs definēt politikas iestatījumus.
+   - Lai rediģētu esošu politiku, atlasiet šo politiku, noklikšķinot uz  politikas nosaukuma **(Tips** ir pielāgota pretsurogātpasta politika vai Nosaukums ir ienākošā surogātpasta novēršanas politika **(noklusējums)**).  Parādītā detalizētas informācijas **izlidošanas** logā sadaļā, kurā ir iestatījumi, kurus vēlaties konfigurēt, atlasiet Rediģēt.
+
+3. Kad esat pārskatījis savus iestatījumus, atlasiet **Iesniegt** (jauns) vai **Saglabāt** (rediģēt).
+
+Papildinformāciju skatiet rakstā [Surogātpasta novēršanas politiku konfigurēšana rīkkopā EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
