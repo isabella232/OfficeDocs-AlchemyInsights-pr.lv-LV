@@ -1,5 +1,5 @@
 ---
-title: Kā neļaut programmai Microsoft meklēt pakalpojumā Bing no instalēšanas ar Microsoft 365 lietojumprogrammām
+title: Neļaut Microsoft Search Bing, izmantojot Microsoft 365 programmas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040117"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Kā neļaut programmai Microsoft meklēt pakalpojumā Bing no instalēšanas ar Microsoft 365 lietojumprogrammām
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Neļaut Microsoft Search Bing, izmantojot Microsoft 365 programmas
 
-Lai neļautu Microsoft Search pakalpojumā Bing iekļaut fona pakalpojumu no instalēšanas ar Microsoft 365 lietojumprogrammām darbam ar Enterprise, izmantojiet kādu no tālāk norādītajām opcijām.
+Lai neļautu šīs programmas Microsoft Search Bing fona pakalpojumu, izmantojiet kādu Microsoft 365 programmas lieluzņēmumiem no šīm opcijām:
 
-- Office izvietošanas rīks vai grupas politika
-- Microsoft galapunktu konfigurācijas pārvaldnieks (pašreizējā filiāle) vai Microsoft Intune
+- The Office Deployment Tool or Group Policy
+- Microsoft Endpoint Configuration Manager (pašreizējais zars) vai Microsoft Intune
 
-Papildinformāciju skatiet rakstā [kā novērst fona pakalpojuma Microsoft Search lietošanu pakalpojumā Bing no instalēšanas ar microsoft 365 lietojumprogrammām darbam ar Enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
+Lai uzzinātu vairāk, skatiet rakstu Kā neļaut instalēt fona [pakalpojumu Microsoft Search Bing kopā ar Microsoft 365 programmas lieluzņēmumiem.](https://go.microsoft.com/fwlink/?linkid=2151946)

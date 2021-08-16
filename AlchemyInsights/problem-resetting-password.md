@@ -1,5 +1,5 @@
 ---
-title: Problēmas atiestatot paroli
+title: Problēma saistībā ar paroles atiestatīšanu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,65 +13,65 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039973"
 ---
-# <a name="problems-resetting-password"></a>Problēmas atiestatot paroli
+# <a name="problems-resetting-password"></a>Problēmas ar paroles atiestatīšanu
 
-Tālāk norādītas dažas problēmas, kas var rasties, atiestatot paroli un iespējamos risinājumus:
+Tālāk ir norādītās dažas problēmas, ar kurām varat saskarties, atiestatot paroli, kā arī iespējamie risinājumi:
 
-**Man ir problēma ar paroles atiestatīšanu, kas nav iekļauta citās kategorijās**
+**Man radušās problēmas ar paroles atiestatīšanu, kas nav apskatīta citās kategorijās**
 
-- Pārliecinieties, vai jums ir atļauts Atiestatīt paroles. Tikai globālie, paroļu un lietotāju administratori var atiestatīt lietotāju paroles. Globālie administratori var arī atiestatīt citas privilēģijas administratora paroles.
-- Pārliecinieties, vai jums ir izpratne par licencēšanas prasībām:
-    - Jums ir nepieciešama vismaz viena licence, kas piešķirta jūsu organizācijā
-        - Tikai mākoņi — visi Office 365 (O365) apmaksātie SKU vai Azure AD Basic
-        - Mākoņa un/vai Lokālie lietotāji — Azure AD Premium P1 vai P2, Enterprise Mobility + Security (EMS) vai Secure ražīgs uzņēmums (SPE)
-        - Papildinformāciju par licencēšanas prasībām skatiet rakstā Azure AD pašapkalpošanās [paroles atiestatīšanas licencēšanas prasības](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Pārliecinieties, vai esat pilnvarots atiestatīt paroles. Tikai globālie, paroļu un lietotāju administratori var atiestatīt lietotāju paroles. Globālie administratori var arī atiestatīt citu priviliģētu administratoru paroles.
+- Pārliecinieties, vai izprotat licencēšanas prasības:
+    - Jūsu organizācijā ir jābūt piešķirtai vismaz vienai licencei.
+        - Tikai mākoņa lietotāji — Office 365 (O365) maksas SKU vai Azure AD Basic
+        - Mākonis un/vai lokālie lietotāji — Azure AD Premium P1 vai P2, Enterprise Mobility + Security (EMS) vai Secure Productive Enterprise (SPE)
+        - Papildinformāciju par licencēšanas prasībām skatiet rakstā [Azure AD pašapkalpošanās paroles atiestatīšanas licencēšanas prasības.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Man ir problēmas ar iestatītās paroles atiestatīšanas politikas testēšanu**
+**Man radušās problēmas ar iestatītās paroles atiestatīšanas politikas testēšanu**
 
-- Nesen lietotās politikas var ilgt vairākas minūtes, lai tās atdarinātu visos datu centros un galapunktos. Arī fiziskais attālums no datu centra ietekmēs, cik ātri izmaiņas tiek lietotas.
-- Testējiet ar lietotāju, nevis administratoru un pilots ar nelielu lietotāju kopu. Azure portālā konfigurētās politikas attiecas tikai uz lietotājiem, nevis administratoriem. Microsoft ievieš spēcīgu noklusējuma divu vārtu paroles atiestatīšanas politiku jebkurai Azure administratora lomai (piemēram: globālā administratora, palīdzības dienesta administrators, paroļu administrators utt.)
-    - Uzziniet vairāk par [administratoru politikām](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences).
+- Nesen lietotās politikas var ilgt vairākas minūtes, lai replicētu visos datu centros un beigu punktos. Fiziskais attālums no datu centra ietekmēs arī to, cik ātri tiek lietotas izmaiņas.
+- Testējam lietotāju, nevis administratoru, un pilots ar nelielu lietotāju kopu. Azure portālā konfigurētās politikas attiecas tikai uz lietotājiem, nevis administratoriem. Microsoft īsteno stipru noklusējuma divvārdu paroles atiestatīšanas politiku jebkurai Azure administratora lomai (piemērs: globālais administrators, palīdzības dienesta administrators, paroļu administrators utt.)
+    - Uzziniet vairāk [par politikām administratoriem.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 
-**Es vēlos izvietot paroles atiestatīšanu, bet nevēlos, lai lietotāji reģistrētu papildu drošības informāciju**
+**Es vēlos izvietot paroles atiestatīšanu, bet nevēlos, lai lietotāji reģistrētu papildinformāciju par drošību**
 
-Iepriekš aizpildiet datus saviem lietotājiem, lai tiem nebūtu! -Kā administrators varat iestatīt tālruņa un e-pasta rekvizītus saviem lietotājiem, pirms izlaižat paroles atiestatīšanu savai organizācijai. To var izdarīt, izmantojot API, PowerShell vai Azure AD Connect. Papildinformācija šeit:
+Iepriekš aizpildiet datus saviem lietotājiem, lai tiem tie nebūtu jāaizpilda. — kā administrators varat saviem lietotājiem iestatīt tālruņa un e-pasta rekvizītus pirms paroles atiestatīšanas savā organizācijā. To var izdarīt, izmantojot API, PowerShell vai Azure AD Savienošana. Papildinformācija šeit:
 - [Paroles atiestatīšanas izvietošana bez nepieciešamības lietotājiem reģistrēties](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
-- [Kādus datus izmanto paroles atiestatīšana](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kādi dati tiek izmantoti, atiestatot paroli](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Paroles atiestatīšanas poga ir pelēkota**
+**Paroles atiestatīšanas poga ir pelēkā krāsā**
 
-Jūs neesat autorizēts šī lietotāja paroļu atiestatīšanai. Tikai globālie, paroļu un lietotāju administratori var atiestatīt lietotāju paroles. Globālie administratori var arī atiestatīt citas privilēģijas administratora paroles.
+Jūs neesat pilnvarots atiestatīt šī lietotāja paroles. Tikai globālie, paroļu un lietotāju administratori var atiestatīt lietotāju paroles. Globālie administratori var arī atiestatīt citu priviliģētu administratoru paroles.
 
-**Nav redzams paroles atiestatīšanas asmens**
+**Es neredzu paroles atiestatīšanas asmeni**
 
-Jūs neesat autorizēts, lai atiestatītu paroles. Tikai globālie, paroļu un lietotāju administratori var atiestatīt lietotāju paroles. Globālie administratori var arī atiestatīt citas privilēģijas administratora paroles.
+Jūs neesat pilnvarots atiestatīt paroles. Tikai globālie, paroļu un lietotāju administratori var atiestatīt lietotāju paroles. Globālie administratori var arī atiestatīt citu priviliģētu administratoru paroles.
 
-**Paroles atiestatīšana nav redzama lokālā integrācijas asmens**
+**Paroles atiestatīšanas laikā netiek parādīts lokālā integrācijas asmens disks**
 
-- Lokālā integrācijas asmens tiek rādīts tikai hibrīdās vidēs — tas nozīmē, ka izmantojat paroļu arī atpakaļrakstīšanas, lai manipulētu ar lokālo lietotāju parolēm.
-- Šis asmens nav redzams, ja:
-    - Jūs neizmantojat paroļu arī atpakaļrakstīšanas
-    - Ir radusies problēma ar jūsu paroļu arī atpakaļrakstīšanas instalāciju/savienojamību
-    - Ir radusies problēma ar Azure AD Connect instalēšanu/savienojamību
-    - Papildinformāciju par problēmu novēršanu saistībā ar paroļu arī atpakaļrakstīšanas skatiet sadaļā [problēmu novēršana paroļu arī atpakaļrakstīšanas](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Lokālās integrācijas asmens redzams tikai hibrīdā vidē — tas nozīmē, ka izmantojat paroles atrisi, lai manipulētu ar lokālā lietotāja parolēm.
+- Šis asmens stieps nav redzams, ja:
+    - Jūs neizmantojat paroles rakstīšanasback
+    - Radusies problēma ar paroles rakstīšanasback instalēšanu/savienojamību
+    - Radusies problēma ar Azure AD Savienošana
+    - Lai uzzinātu, kā novērst citas problēmas saistībā ar paroles atriti, skatiet sadaļu Paroles [rakstīšanas problēmu novēršana](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Es nezinu, kā atiestatīt lietotāja paroli**
 
 1. Pierakstieties Azure portālā kā atbilstošs administrators.
-1. Dodieties uz lapu lietotāji un grupas, atlasiet **Visi lietotāji**.
+1. Dodieties uz lietotāju un grupu asmens **sejiņu, atlasiet Visi lietotāji**.
 1. Sarakstā atlasiet lietotāju.
-1. Atlasītajam lietotājam atlasiet **pārskats** un pēc tam komandjoslā noklikšķiniet uz **Atiestatīt paroli**.
+1. Atlasītajam lietotājam atlasiet **Pārskats** un pēc tam komandjoslā noklikšķiniet uz **Atiestatīt paroli.**
 1. Izpildiet ekrānā redzamos norādījumus.
-    - Tiek atiestatīta tikai Azure portāla atbalsta paroles arī atpakaļrakstīšanas.
+    - Tiek atiestatītas tikai Azure portāla atbalsta paroles rakstīšanas laikā.
 
-**Atjaunoju lokālā lietotāja paroli no Office 365 administrēšanas portāla vai Office 365 mobilās lietojumprogrammas, taču lietotājs joprojām nevar pierakstīties**
+**Es atiestatu lokālā lietotāja paroli no Office 365 Admin portāla vai Office 365 lietojumprogrammas, bet lietotājs joprojām nevar pierakstīties**
 
-Paroļu arī atpakaļrakstīšanas šajā portālā netiek atbalstīts. Vēlreiz atiestatiet lietotāja paroli Azure portālā-portal.azure.com
+Paroles rakstīšana šajā portālā netiek atbalstīta. Vēlreiz atiestatiet lietotāja paroli Azure portālā — portal.azure.com
 

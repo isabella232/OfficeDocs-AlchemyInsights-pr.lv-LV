@@ -1,5 +1,5 @@
 ---
-title: 204, kā atrast trūkstošo vai atkopt trūkstošo Outlook pastu, kalendāru vai kontaktpersonas
+title: 204 Kā atrast trūkstošus vai atkopt trūkstošus e Outlook pastu, kalendāru vai kontaktpersonas
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029163"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kā atrast un atkopt trūkstošos ziņojumus, kontaktpersonas vai kalendāra vienumus programmā Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Trūkstošo ziņojumu, kontaktpersonu un kalendāra vienumu atrašana un atkopšana programmā Outlook
 
-1. Programmā Outlook dodieties uz savu e-pasta mapju sarakstu un pēc tam atlasiet **Izdzēstie vienumi**. **Svarīgi**! Ja neredzat mapi **Izdzēstie vienumi** , bet tā vietā tiek rādīta **atkritnes** mape, jūsu konts neatbalsta vienuma atkopšanu mapē **Izdzēstie vienumi** .
+1. Programmā Outlook atveriet e-pasta mapju sarakstu un pēc tam atlasiet **Izdzēstie vienumi**. **Svarīgi!** Ja neredzat mapi  Izdzēstie vienumi, bet  tā vietā skatiet mapi Atkritne, jūsu konts neatbalsta tāda vienuma atkopšanu, kas vairs nav mapē **Izdzēstie** vienumi.
 
-2. Izvēlnē **Sākums** noklikšķiniet uz **Atkopt izdzēstos vienumus no servera**. **Svarīgi**! ja izvēlnē nav komanda **Atkopt izdzēstos vienumus no servera** , jūsu konts neatbalsta tāda vienuma atkopšanu, kas vairs neatrodas mapē **Izdzēstie vienumi** .
+2. Izvēlnē Sākums **noklikšķiniet** uz Atkopt **izdzēstos vienumus no servera.** **Svarīgi!** Ja **izvēlnē** nav komandas Atkopt izdzēstos vienumus no servera, jūsu konts neatbalsta tāda vienuma atkopšanu, kas vairs nav mapē **Izdzēstie** vienumi.
 
-3. Atlasiet vienumus, kurus vēlaties atkopt, noklikšķiniet uz **Atjaunot atlasītos vienumus**un pēc tam noklikšķiniet uz **Labi**.
+3. Atlasiet vienumus, kurus vēlaties atkopt, noklikšķiniet uz **Atjaunot atlasītos vienumus** un pēc tam noklikšķiniet uz **Labi.**
 
-**Kur atrodas Atkoptie vienumi?** Atkopt vienumus no mapes atkopjamie vienumi, tie tiek pārvietoti uz mapi **Izdzēstie vienumi** . Pēc vienuma atkopšanas varat to atrast mapē **Izdzēstie vienumi** un pēc tam varat to pārvietot uz citu mapi.
+**Kur tiek atvērti atkoptie vienumi?** Atkopjot vienumus no mapes Atkopjamie vienumi, tie tiek pārvietoti uz mapi **Izdzēstie** vienumi. Pēc vienuma atkopšanas to varat atrast mapē **Izdzēstie** vienumi un pēc tam varat to pārvietot uz citu mapi.
 
-Jūs varat arī izmantot problēmas, kas [saistītas ar e-pasta ziņojumu sūtīšanu, saņemšanu vai atrašanu](https://aka.ms/SaRA-OutlookSendReceive) **attiecīgajā datorā**. Šis rīks pārbaudīs vairākus jautājumus un ieteiks iespējamos risinājumus.
+Attiecīgajā datorā varat arī [izmantot rīku Man](https://aka.ms/SaRA-OutlookSendReceive) rodas problēmas saistībā ar e-pasta ziņojumu sūtīšanu, saņemšanu vai **atrašanu.** Šis rīks meklēs vairākas problēmas un ieteiks iespējamos risinājumus.
