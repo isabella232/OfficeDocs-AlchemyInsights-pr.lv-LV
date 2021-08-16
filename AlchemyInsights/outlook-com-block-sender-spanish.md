@@ -1,5 +1,5 @@
 ---
-title: Sūtītāju bloķēšana Outlook.com-spāņu valodā
+title: Sūtītāju bloķēšana vietnē Outlook.com — SPĀŅU
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4339c5b9af181505877bfca689e7585dfe78a8cc65fdad48176dd64b6c728543
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064607"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes EN Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 
-Puede bloquear Los Message de las direcciones de correo electrónico específica o Dominio llegue a la Bandeja de entrada. Cuando agrega una Direccin de correo electrónico o un Dominio a la Lista de remitentes bloqueados, Outlook.com mueve automáticamente Los Message de ESE remitente a la carpeta correo electrónico Nr Deseado.
+Puede bloquear los mensajes de las diregelnes de correo electšifrē no específica o dominio llegue a la Bandeja de entrada. Cu factory agrega una direc factory de correo electhua o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la releo correo electektekt no deseado.
 
-Para aprender más Leer [Ayudar mantener El correo Nr Deseado y el correo Nr. Deseado fuera de la bandeja de entrada de](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)Outlook.com.
+Para aprender ar jūsu kalendāru [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

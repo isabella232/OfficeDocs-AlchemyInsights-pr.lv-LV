@@ -1,5 +1,5 @@
 ---
-title: 929 iesūtnes kārtulas uz deflectTransport kārtulām
+title: 929 iesūtnes kārtulas to deflectIerīce kārtulām
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028659"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pasta plūsmas kārtulas (dēvētas arī par transporta kārtulām)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pasta plūsmas kārtulas (tiek dēvētas arī par transporta kārtulām)
 
-- Vispārīgs pārskats par pasta plūsmas kārtulām: [pasta plūsmas kārtulas (transporta kārtulas) pakalpojumā Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Vispārīgs pārskats par pasta plūsmas kārtulām: [pasta plūsmas kārtulas (transporta kārtulas) programmā Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Pasta plūsmas kārtulu iestatīšana: [pasta plūsmas kārtulas procedūras pakalpojumā Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Pasta plūsmas kārtulu iestatīšana: [pasta plūsmas kārtulu procedūras programmā Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
 - Pasta plūsmas kārtulu izveide, modificēšana un dzēšana: [pasta plūsmas kārtulu pārvaldība](https://technet.microsoft.com/library/jj657505.aspx)
 
-Varat arī pārvaldīt pasta plūsmas kārtulas pakalpojumā Exchange Online PowerShell. Papildinformāciju skatiet rakstā [iegūšana-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (skats), [Jauns-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (izveidot), [Noņemt-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (dzēst), [Iestatīt-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modificēt esošo), [Atspējot-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (atspējot esošo) un [Iespējot-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (iespējot esošo).
+Varat arī pārvaldīt pasta plūsmas kārtulas programmā Exchange Online PowerShell. Papildinformāciju skatiet rakstā [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (skats), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (izveidot), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (dzēst), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modificēt esošo), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (atspējot esošo) un [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (iespējot esošo).
 
-Papildu pasta plūsmas kārtulas cmdlet: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (saraksts ar pieejamajām darbībām) [, get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (saraksts ar pieejamiem nosacījumiem un izņēmumi), [eksportēšana-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (eksportēšanas kārtulas) un [importēšana-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (kārtulu importēšana).
+Papildu pasta plūsmas kārtulas cmdlet: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (pieejamo darbību saraksts), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (pieejamo nosacījumu un izņēmumu saraksts), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (eksportēšanas kārtulas) un [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importēšanas kārtulas).

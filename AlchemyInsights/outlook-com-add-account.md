@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064679"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Citu e-pasta kontu pievienošana pakalpojumā Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Citu e-pasta kontu pievienošana tīmekļa Outlook.com
 
-Kad pakalpojumam Outlook.com pievienojat citus e-pasta kontus, varat izmantot Outlook.com, lai sūtītu un lasītu e-pasta ziņojumus no šiem kontiem, neizejot no Outlook.com. Katrs konts, kuru pievienojat Outlook.com, tiek dēvēts par pievienoto kontu.
+Pievienojot citus e-pasta kontus vietnē Outlook.com, varat izmantot Outlook.com, lai nosūtītu un lasītu e-pasta ziņojumus no šiem kontiem, neizejot no Outlook.com. Katrs konts, ko pievienojat tīmekļa Outlook.com, tiek dēvēts par pievienoto kontu.
 
-Piezīme. Sinhronizējot no pievienotā konta uz Outlook.com kontu, ir tikai viens veids. E-pasts, kas nosūtīts no pievienotā konta, izmantojot Outlook.com, netiks parādīts pievienotā kontā Nosūtītie vienumi.
+Piezīme. Sinhronizēšana no savienotā konta ar Outlook.com kontu ir tikai vienvirziena. E-pasts, kas nosūtīts no pievienotā konta, izmantojot Outlook.com, netiks parādīts pievienotā konta mapē Nosūtītie vienumi.
 
-Lai pievienotu pievienoto kontu:
+Lai pievienotu pievienotu kontu:
 
-1. Atveriet savus [sinhronizācijas e-pasta iestatījumus](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Sadaļā **savienotie konti**atlasiet **Gmail** vai **citi e-pasta konti**.
-3. Lapā konta pievienošana ievadiet parādāmo vārdu (vārdu saņēmēji redzēs, kad saņems e-pasta ziņojumu no jums) un e-pasta konta pilno e-pasta adresi un paroli, kuru vēlaties pievienot savam Outlook.com kontam.
+1. Atveriet [e-pasta sinhronizācijas iestatījumus](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Sadaļā **Pievienotie konti** atlasiet **Gmail vai** Citi **e-pasta konti.**
+3. Lapā Savienošana konta ievadiet parādāmo vārdu (vārds, kuru adresāti redzēs, saņemot no jums e-pasta ziņojumu), kā arī pilno e-pasta adresi un paroli tam e-pasta kontam, kuru vēlaties pievienot savam Outlook.com kontam.
 
-Varat nosūtīt e-pasta ziņojumu no jebkura konta, ko esat pievienojis savā Outlook.com kontā. Veidojot e-pasta ziņojumu, atlasiet **no** un izvēlieties, kuru e-pasta adresi vēlaties izmantot, vai [atjauniniet savu noklusējuma adresi no adreses](https://go.microsoft.com/fwlink/?linkid=875264).
+Varat nosūtīt e-pastu no jebkura konta, ko esat pievienojis savam Outlook.com kontam. Veidojot e-pasta ziņojumu, atlasiet **No un** izvēlieties, kuru e-pasta adresi vēlaties izmantot, vai [atjauniniet noklusējuma adresi No.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Lai iegūtu papildinformāciju, izlasiet rakstu [citu e-pasta kontu pievienošana pakalpojumā Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Lai iegūtu papildinformāciju, [izlasiet rakstu Citu e-pasta kontu pievienošana vietnē Outlook.com.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Ja vēlaties izveidot jaunu e-pasta adresi, kas izmanto to pašu Outlook.com kontu, izlasiet rakstu [e-pasta aizstājvārda pievienošana vai noņemšana](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Ja vēlaties izveidot jaunu e-pasta adresi, kas izmanto to pašu Outlook.com kontu, lasiet rakstu E-pasta [aizstājvārda pievienošana vai noņemšana.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)

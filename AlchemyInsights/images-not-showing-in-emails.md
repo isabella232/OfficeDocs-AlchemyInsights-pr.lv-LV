@@ -1,5 +1,5 @@
 ---
-title: Attēli netiek rādīti e-pasta ziņojumos
+title: Attēli e-pasta ziņojumiem netiek rādīti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987510"
 ---
-# <a name="images-not-showing-in-emails"></a>Attēli netiek rādīti e-pasta ziņojumos
+# <a name="images-not-showing-in-emails"></a>Attēli e-pasta ziņojumiem netiek rādīti
 
-Mēs esam informēti par problēmu, kur daži klienti neredz attēlus vai attēlus savos e-pasta ziņojumos. Mūsu atvainošanos par sagādātajām neērtībām.
+Mēs esam informēti par problēmu, kad daži klienti nevar redzēt attēlus un attēlus savos e-pasta ziņojumiem. Mūsu atvainojamies par neērtībām.

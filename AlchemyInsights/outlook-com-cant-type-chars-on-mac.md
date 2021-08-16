@@ -1,5 +1,5 @@
 ---
-title: 9000071 nevar ierakstīt @ simbolu Mac datorā
+title: 9000071 Nevar ierakstīt simbolu @ Mac datorā
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: a682ad3ebb196df818e894c129ded59cd0e2880a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984576"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Kā rakstīt speciālās rakstzīmes Mac datorā
+# <a name="how-to-type-special-characters-on-a-mac"></a>Speciālo rakstzīmju ievadīšana Mac datorā
 
-Lai Mac datorā rakstītu speciālās rakstzīmes, atveriet izvēlni **speciālās rakstzīmes** , izmantojot īsinājumtaustiņus ⌘ **komandu**  +  **vadīklas**  +  **vietā**.
+Lai speciālās rakstzīmes ierakstītu Mac datorā, atveriet **speciālo rakstzīmju** izvēlni, izmantojot īsinājumtaustiņu ⌘ **Command**  +  **Control**  +  **Space**.
 
-Ātrā saīsne uz @ ir arī **ALT**  +  **64**.
+Ātrs īsinājumtaustiņš arī šim: **@ ir ALT**  +  **64.**
