@@ -1,5 +1,5 @@
 ---
-title: Office izvietošana attālo lietotāju vednī
+title: Piekļuves Office izvietošanu attālo lietotāju vednī
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031449"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Office izvietošana attālo lietotāju vednī
+# <a name="deploy-office-to-remote-users-wizard"></a>Piekļuves Office izvietošanu attālo lietotāju vednī
 
-Tagad, kad strādāšana attāli ir norma, lietotājiem ir jāsaņem organizācijas Office iestatījumi, ja tie nav savienoti ar iekšējo tīklu vai izmantojot savas ierīces.
+Tagad, kad attālinātā darbs ir norma, lietotājiem ir jāsaņem jūsu organizācijas Office iestatījumi, kad nav izveidots savienojums ar jūsu iekšējo tīklu vai izmantojot savas ierīces.
 
-Izmantojiet vedni [Office izvietošana attālajiem lietotājiem](https://go.microsoft.com/fwlink/?linkid=2149564) , lai izveidotu pielāgotu Office instalāciju un pēc tam nosūtītu lietotājiem ģenerētu PowerShell skriptu, kas nemanāmi instalēs Office ar jūsu konfigurāciju.
+Izmantojiet vedni [Office](https://go.microsoft.com/fwlink/?linkid=2149564) izvietošana attāliem lietotājiem, lai izveidotu pielāgotu Office instalāciju un pēc tam nosūtītu lietotājiem ģenerētu PowerShell skriptu, kas nemanāmi instalēs Office ar jūsu konfigurāciju.

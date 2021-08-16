@@ -1,5 +1,5 @@
 ---
-title: Drošas saišu politikas iestatīšana pakalpojumā Microsoft Defender darbam ar Office 365
+title: Saišu Seifs iestatīšana programmatūrā Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070367"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Drošas saišu politikas iestatīšana pakalpojumā Microsoft Defender darbam ar Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Saišu Seifs iestatīšana programmatūrā Microsoft Defender Office 365
 
-Drošo saišu noklusējuma politika pakalpojumā Microsoft Defender darbam ar Office 365 jau ir izveidota jums. Lai mainītu konfigurācijas:
+Noklusējuma politika saišu Seifs programmatūrā Microsoft Defender Office 365 jau ir izveidota jūsu vietā. Lai mainītu konfigurācijas:
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Atlasiet **draudu pārvaldības**  >  **politika**. Lapā **politika** atlasiet [Microsoft Defender darbam ar Office 365 drošās saites](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Politikas, **kas attiecas uz visu organizāciju** sadaļu, atlasiet **Noklusējums** un pēc tam atlasiet **rediģēšanas** ikonu.
-4. Sadaļā **bloķēt šādus vietrāžus URL** norādiet vienu vai vairākus vietrāžus URL, kas lietotājiem neļauj apmeklēt jūsu organizācijas dalībniekus. Lai uzzinātu vairāk, skatiet rakstu ["bloķēt šādus vietrāžus URL" drošo saišu sarakstā](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. Sadaļā **Iestatījumi, kas attiecas uz saturu, izņemot e-pastu** , atlasiet (vai notīriet) opcijas, ko vēlaties izmantot. (Ieteicams atlasīt visas opcijas.)
+1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Atlasiet **Apdraudējumu pārvaldības**  >  **politika**. Lapā Politika **atlasiet** [Microsoft Defender programmatūrai Office 365 Seifs saites](https://go.microsoft.com/fwlink/?linkid=2101058).
+3. Sadaļā **Politikas, kas attiecas uz visu organizāciju** atlasiet Noklusējums un pēc tam atlasiet  **rediģēšanas** ikonu.
+4. Sadaļā **Bloķēt tālāk norādītos vietrāžus URL** norādiet vienu vai vairākus vietrāžus URL, kurus nevēlaties izmantot lietotāji jūsu organizācijā. Papildinformāciju skatiet [rakstā Tālāk norādīto vietrāžu URL bloķēšana saišu Seifs.](https://go.microsoft.com/fwlink/?linkid=2092123)
+5. Dialoglodziņā **iestatījumi Iestatījumi kas attiecas uz saturu, izņemot** e-pastu, atlasiet (vai notīriet) opcijas, ko vēlaties izmantot. (Ieteicams atlasīt visas opcijas.)
 6. Atlasiet **Saglabāt**.

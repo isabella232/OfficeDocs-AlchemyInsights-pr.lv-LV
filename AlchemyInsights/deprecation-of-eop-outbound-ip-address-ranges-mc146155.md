@@ -1,5 +1,5 @@
 ---
-title: 1065 izstāšanās no EOP izejošā IP adreses rangesMC146155
+title: 1065 EOP izejošā IP adrešu diapazona novecošanaMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214abc57a99c70a02a7d159441713e007f6ad980f67e373780d4ca297f69f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031269"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Izejošo IP adrešu diapazonu EOP novecošana
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>EOP izejošo IP adrešu diapazonu novecošana
 
-Mēs esam noteikuši potenciālu problēmu ar jūsu organizāciju, kas (ja nav novērsta ar 26. oktobri, 2018), var sadalīt pasta plūsmu uz jūsu lokāliem vai ārējiem galamērķiem. Kā iepriekš paziņots, lai vienkāršotu IP adrešu diapazona pārvaldību, mēs esam konsolidējuši Exchange Online Protection (EOP) IP adrešu diapazonus, kas tiek izmantoti, lai sūtītu un saņemtu e-pastu ārpus Microsoft 365. Mūsu analīze norāda, ka vienu vai vairākus ārējos e-pasta avotus vai adresātus, kas ir konfigurēti pasta plūsmas savienotājiem, neakceptē savienojumus no [šeit](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)parādītajiem IP adrešu diapazoniem.
+Ir konstatēta potenciāla problēma jūsu organizācijā, kas (ja 2018. gada 26. oktobris nav izlabojusi) var izraisīt pasta plūsmas pārtraukumu jūsu lokālajā vai ārējā galamērķī. Kā paziņots iepriekš, lai vienkāršotu IP adrešu diapazonu pārvaldību, mēs apvienojam Exchange Online Protection (EOP) IP adrešu diapazonus, kas tiek izmantoti, lai sūtītu un saņemtu e-pastu ārpus Microsoft 365. Mūsu analīze norāda, ka viens vai vairāki ārēji e-pasta avoti vai galamērķi, kurus esat konfigurējis pasta plūsmas savienotājos, nepieņem savienojumus no šeit parādītajiem IP adrešu [diapazoniem.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-Act pirms 26. oktobra, lai nodrošinātu, ka šie avoti un galamērķi pieņems savienojumus uz un no visām [publicētajām EOP IP adresēm](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Rīkojieties līdz 26. oktobrim, lai nodrošinātu, ka šie avoti un galamērķi akceptēs savienojumus ar visām publicētām [EOP IP adresēm](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)un no tām.
 
-Papildinformāciju par šīm izmaiņām skatiet rakstā ziņojumu centra ziņas [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)vai [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Papildinformāciju par izmaiņām skatiet rakstā Ziņojumu centra ziņas [MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)vai [MC149274.](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)
 
-**Piezīme**. Ja iepriekš izmantojāt IP vai vietrāža URL publicēšanu, izmantojot HTML, XML un RSS galapunktu atjauninājumus, jums jāmigrē arī uz jaunajiem tīmekļa pakalpojumiem, lai automatizētu šos atjauninājumu tipus. Lai iegūtu papildinformāciju, skatiet rakstu [microsoft 365 galapunkta kategorijas un Microsoft 365 IP adrese un URL tīmekļa pakalpojums](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Piezīme.** Ja galapunktu atjauninājumiem iepriekš izmantojāt IP vai URL publicēšanu, izmantojot HTML, XML un RSS, jums ir jāmigrē arī uz jaunajiem tīmekļa pakalpojumiem, lai automatizētu šāda veida atjauninājumus. Papildinformāciju skatiet rakstā [Microsoft 365 kategoriju un IP Microsoft 365 URL tīmekļa pakalpojuma informācija.](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)

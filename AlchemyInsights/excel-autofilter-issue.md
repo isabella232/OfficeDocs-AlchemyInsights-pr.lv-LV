@@ -1,5 +1,5 @@
 ---
-title: Excel automātiskā filtra problēma
+title: Excel Problēma ar automātisko filtru
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100553"
 ---
-# <a name="excel-autofilter-issue"></a>Excel automātiskā filtra problēma
+# <a name="excel-autofilter-issue"></a>Excel Problēma ar automātisko filtru
 
-Ja, izmantojot Excel 2016, automātiskā filtra nolaižamajā izvēlnē netiek rādītas visas pieejamās izvēles rūtiņas, vai izvēles rūtiņas nav noklikšķinātas, iespējams, ka rodas zināma problēma vecākās Excel versijās. 
+Izmantojot Excel 2016, ja automātiskā filtra nolaižamajā izvēlnē netiek rādītas visas pieejamās izvēles rūtiņas vai izvēles rūtiņas nevar noklikšķināt, iespējams, to izraisa zināma problēma iepriekšējos Excel. 
   
-Šī problēma tagad ir izlabota **versijā 1707 (8326,2073)** vai jaunāka. Lai atjauninājumu iegūtu nekavējoties, atveriet programmu Excel un pēc tam izvēlieties **failu** \> **konta** \> **atjaunināšanas opcijas** \> **Update Now**.
+Šī problēma tagad ir novērsta **versijā 1707 (8326.2073)** un jaunākās versijās. Lai atjauninājumu iegūtu tūlīt, atveriet atjauninājumu Excel izvēlieties **Faila** \> **konta** \> **atjaunināšanas opcijas Atjaunināt** \> **tūlīt**.
   
 

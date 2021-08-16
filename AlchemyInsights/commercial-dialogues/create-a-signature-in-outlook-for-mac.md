@@ -1,5 +1,5 @@
 ---
-title: Paraksta izveide programmā Outlook darbam ar Mac
+title: Paraksta izveide programmā Outlook for Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070727"
 ---
-# <a name="create-a-signature-in-outlook-for-mac"></a>Paraksta izveide programmā Outlook darbam ar Mac
+# <a name="create-a-signature-in-outlook-for-mac"></a>Paraksta izveide programmā Outlook for Mac
 
-1.  **Outlook** izvēlnē noklikšķiniet uz **preferences**.
-2.  Sadaļā **e-pasts** noklikšķiniet uz **paraksti**.
-3.  Noklikšķiniet uz **Pievienot** **+** .
-4.  Veiciet dubultklikšķi uz bez **nosaukuma** un pēc tam ierakstiet paraksta nosaukumu.
-5.  Labajā rūtī ierakstiet tekstu, kuru vēlaties iekļaut parakstā.
-6.  Aizvērtu lapu **paraksti** .
-7.  Lai lietotu formatējumu, piemēram, fontu, fonta stilu, fonta lielumu, fonta krāsu vai marķējumu, atlasiet tekstu un pēc tam izvēlnē Formāts noklikšķiniet uz vēlamās opcijas.
-8.  Aizvērtu lapu **paraksti** .
+1.  Izvēlnē **Outlook** noklikšķiniet uz **Preferences**.
+2.  Sadaļā **E-pasts** noklikšķiniet uz **Paraksti**.
+3.  Noklikšķiniet **uz Pievienot.** **+**
+4.  Veiciet dubultklikšķi **uz Nenosaukts** un pēc tam ierakstiet paraksta nosaukumu.
+5.  Labajā rūtī ierakstiet tekstu, ko vēlaties iekļaut parakstā.
+6.  Aizveriet **lapu Paraksti.**
+7.  Lai lietotu formatējumu, piemēram, fontu, fonta stilu, fonta lielumu, fonta krāsu vai iezīmēšanu, atlasiet tekstu un pēc tam izvēlnē Formāts noklikšķiniet uz vajadzīgās opcijas.
+8.  Aizveriet **lapu Paraksti.**
