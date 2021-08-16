@@ -1,5 +1,5 @@
 ---
-title: Brīdinājums AAD Connect
+title: Paziņojuma AAD Savienošana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097313"
 ---
-# <a name="notification-aad-connect"></a>Brīdinājums AAD Connect
+# <a name="notification-aad-connect"></a>Paziņojuma AAD Savienošana
 
-- Pārliecinieties, vai jums ir atļauts veikt šo darbību. Globālajiem administratoriem pēc noklusējuma ir piekļuve. Turklāt varat izmantot [lomai bāzētu piekļuves vadību](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) , lai deleģētu reģistrācijas atļaujas līdzstrādniekiem.
-- Pārliecinieties, vai nepieciešamie galapunkti ir iespējoti, bet nav bloķēti ugunsmūra dēļ. Detalizētu informāciju skatiet sadaļā [prasības](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Reģistrācija var neizdoties, jo izejošā komunikācija tiek pakļauta SSL pārbaudei tīkla slānī.
-- Pārliecinieties, vai esat pārbaudījis Azure AD Connect Health paziņojumu iestatījumus un pārskatiet savu iestatījumu. Lai uzzinātu, kā konfigurēt paziņojumu iestatījumus Azure AD Connect Health paziņojumiem, skatiet šo [rokasgrāmatu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations).
-- Lai uzzinātu vairāk par to, kā AAD Connect Health sinhronizācijas atskaiti un kā to lejupielādēt, skatiet rakstu [objekta līmeņa sinhronizācijas atskaite](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Pārliecinieties, vai esat pilnvarots veikt šo darbību. Globālajiem administratoriem ir piekļuve pēc noklusējuma. Turklāt varat izmantot lomu piekļuves [vadīklu,](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) lai līdzstrādniekam deleģētu reģistrācijas atļaujas.
+- Pārliecinieties, vai obligātie galapunkti ir iespējoti un nav bloķēti ugunsmūra dēļ. Detalizētu informāciju skatiet [prasības.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)
+- Reģistrācija var neizdoties, jo izejošā saziņa tīkla slānī veic SSL pārbaudi.
+- Pārliecinieties, vai esat pārbaudījis Azure AD paziņojuma iestatījumus Savienošana Health un pārskatiet savu iestatījumu. Lai saprastu, kā konfigurēt Azure AD Savienošana darbspējas paziņojumus, skatiet šo [rokasgrāmatu.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations)
+- Papildinformāciju par AAD pakalpojuma Savienošana Health sinhronizācijas atskaiti un tās lejupielādi skatiet rakstā [Objekta līmeņa sinhronizācijas atskaite.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Lai novērstu AAD savienojuma [ar veselību brīdinājumu](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)izpildi, skatiet [problēmu novēršanas norādījumus attiecībā uz AAD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) .
+Lai novērstu AAD problēmas Savienošana brīdinājumi par darbspēju, izpildiet [AAD Savienošana](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) darbspējas datu svaiguma brīdinājumus un bieži uzdotos jautājumus, skatiet rakstu Bieži uzdotie jautājumi par [AAD Savienošana](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)veiktspējas instalēšanu.

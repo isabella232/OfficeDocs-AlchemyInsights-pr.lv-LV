@@ -1,5 +1,5 @@
 ---
-title: Jaunas saglabāšanas etiķetes, kas izveidotas automātiski
+title: Automātiski izveidotas jaunas saglabāšanas etiķetes
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097523"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Jaunas saglabāšanas etiķetes, kas izveidotas automātiski
+# <a name="new-retention-labels-created-automatically"></a>Automātiski izveidotas jaunas saglabāšanas etiķetes
 
-Jūs, iespējams, redzēsit [trīs jaunas saglabāšanas etiķetes](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) , kas jūsu organizācijā izveidotas automātiski sadaļā **saglabāšanas etiķetes** drošības vai atbilstības administrēšanas centrā. Etiķešu nosaukumi ir:
+Iespējams, [redzēsit trīs jaunas saglabāšanas etiķetes,](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) kas automātiski izveidotas jūsu organizācijā, sadaļā **Saglabāšanas** etiķetes drošības vai atbilstības administrēšanas centrā. Uzlīmju nosaukumi ir šādi:
 
 - Darbības procedūra
-- Uzņēmuma vispārīgā informācija
-- Līguma līgums
+- Uzņēmējdarbības vispārīgi
+- Līgums par līgumu
 
-Tā notiks pirmo reizi, kad izvēlēsities **failu plānu** , ja nav izveidotas citas saglabāšanas etiķetes. Šīs etiķetes tiek veidotas automātiski, un, ja nepieciešams, tās var noņemt, ja tās vēl nav lietotas saturam. Lai noņemtu uzlīmes:
+Tas notiek pirmo reizi, kad izvēlaties **Failu plāns,** ja nav izveidotas citas saglabāšanas etiķetes. Šīs etiķetes tiek izveidotas automātiski, un, ja nepieciešams, tās var noņemt, ja tās vēl nav lietotas saturam. Lai noņemtu uzlīmes:
 
-1. Drošības vai atbilstības administrēšanas centrā izvēlieties **klasifikācijas**  >  **etiķešu**  >  **saglabāšana** .
+1. Drošības vai atbilstības administrēšanas centrā izvēlieties cilni **Klasifikācijas**  >  **uzlīmju**  >  **saglabāšana.**
 
-1. Atlasiet saglabāšanas uzlīmes, kuras vēlaties noņemt > **Dzēst etiķeti**  >  **Jā** , lai izdzēstu etiķeti.
+1. Lai izdzēstu etiķeti, atlasiet tās saglabāšanas > **uzlīmes**  >   dzēšanai.
 
-Izmantojot failu plāna pārvaldnieku, varat pārvaldīt saglabāšanas etiķetes un politikas savā organizācijā, lai iegūtu papildinformāciju, skatiet rakstu [pārskats par failu plānu pārvaldnieku](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Izmantojot failu plānu pārvaldnieku, varat pārvaldīt saglabāšanas etiķetes un politikas savā organizācijā. Papildinformāciju skatiet rakstā Pārskats [par failu plānu pārvaldnieku.](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)

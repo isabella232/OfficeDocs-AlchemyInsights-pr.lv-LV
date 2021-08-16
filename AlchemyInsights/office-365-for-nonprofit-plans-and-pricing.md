@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Nonprofit plāni un cenas
+title: Microsoft 365 nonprofit plāniem un cenām
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,16 +16,16 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 91911353be373c305d1d042883618cb1b78aa27f196eb35a21d031113b61c4fb
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295631"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502543"
 ---
-# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 Nonprofit plāni un cenas
+# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 nonprofit plāniem un cenām
 
-Kvalificētas bezpeļņas organizācijas var saņemt Microsoft 365 Nonprofit kā ziedojumu vai arī veikt jaunināšanu uz papildu līdzekļiem, izmantojot ievērojamas atlaides. Lai kvalificētos Microsoft 365 Nonprofit plānam, jums ir jābūt savā valstī atzītam labdarības statusam un jāparaksta Microsoft neattiecas uz politi. [](https://go.microsoft.com/fwlink/p/?LinkID=330253) Microsoft patur tiesības jebkurā laikā pārbaudīt atbilstību un apturēt pakalpojumu neatbilstošām organizācijām.
+Kvalificētas bezpeļņas organizācijas var saņemt Microsoft 365 bezpeļņas organizācijām kā ziedojumu vai veikt jaunināšanu uz papildu līdzekļiem, izmantojot ievērojamas atlaides. Lai kvalificētos bezpeļņas Microsoft 365 plānam, jums [](https://go.microsoft.com/fwlink/p/?LinkID=330253) ir jābūt savā valstī atzītam labdarības statusam un jāparaksta Microsoft neattiecas uz politi. Microsoft patur tiesības jebkurā laikā pārbaudīt atbilstību un apturēt pakalpojumu neatbilstošām organizācijām.
   
 Papildinformāciju skatiet bieži uzdoto [jautājumu sadaļā.](https://products.office.com/nonprofit/office-365-nonprofit)
   
