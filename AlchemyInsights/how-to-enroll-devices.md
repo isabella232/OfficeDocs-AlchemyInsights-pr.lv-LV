@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4855d71152a158b94a19c36159b1ea9b055f626c680c43c875de1f258329c96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029379"
 ---
 # <a name="how-to-enroll-devices"></a>Kā reģistrēt ierīces
 
@@ -25,7 +25,7 @@ Tālāk ir pamatinformācija par reģistrāciju:
 
 - Lai uzzinātu par Intune reģistrāciju, skatiet rakstu [Kas ir ierīces reģistrācija intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Detalizētāku informāciju par reģistrāciju noteiktām platformām, pamācību rokasgrāmatām un apmācībām skatiet rakstā Ierīču reģistrēšana [Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portālā.
+- Detalizētāku informāciju par reģistrāciju noteiktām platformām, pamācību rokasgrāmatām un apmācībām skatiet rakstā Ierīču [reģistrēšana Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portālā.
 
 **Ierīču reģistrācijas problēmu novēršana**
 
@@ -33,9 +33,9 @@ Tālāk ir pamatinformācija par reģistrāciju:
 
 - [Problēmu novēršana saistībā ar iOS/iPadOS ierīces reģistrāciju](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Windows ierīces reģistrācijas problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Ierīču Windows problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Windows 10 automātiskās reģistrācijas problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Automātiskās Windows 10 problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
 - [Ar Android Enterprise ierīci saistīto problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
