@@ -1,5 +1,5 @@
 ---
-title: Lietotājiem sūtīto karantīnas paziņojumu konfigurēšana
+title: Lietotājiem nosūtīto karantīnā nosūtīto paziņojumu konfigurēšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035193"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Lietotājiem sūtīto karantīnas paziņojumu konfigurēšana
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Lietotājiem nosūtīto karantīnā nosūtīto paziņojumu konfigurēšana
 
-Lai lietotājiem nosūtītu paziņojumus par to, kas ir karantīnā:
+Lai lietotājiem nosūtītu paziņojumus par karantīnā ievietoto informāciju:
 
-1. Administrēšanas centrā pārejiet uz **administrēšanas centru**  >  **Exchange**  >  **Protection**  >  **surogātpasta filtru**.
-2. Atlasiet surogātpasta filtrēšanas politiku, kurai vēlaties ieslēgt paziņojumus.
-3. Labajā rūtī izvēlieties saiti **konfigurēt lietotāja surogātpasta paziņojumus** .
-4. Nākamajā dialoglodziņā izvēlieties **Iespējot paziņojumus par surogātpasta saņemšanu lietotājiem**. Izvēlieties iespējot surogātpasta paziņojumus šai politikai.
-5. Sadaļā **Sūtīt lietotāja surogātpasta paziņojumus ik pēc (dienām)** norādiet, cik bieži sūtīt lietotāja surogātpasta paziņojumus. Noklusējums ir 3 dienas. Varat norādīt diapazonā no 1 līdz 15 dienām. Ja norādāt 7 dienas, piemēram, paziņojumā būs iekļauts visu šim lietotājam paredzēto ziņojumu saraksts pēdējo 7 dienu laikā, kas tika nosūtīti uz surogātpasta karantīnu.
-6. Sadaļā **paziņojuma valoda** izvēlieties valodu, kurā rakstīt lietotāja surogātpasta paziņojumus šai politikai.
+1. Administrēšanas centrā naviģējiet uz **administrēšanas**  >  **centriem, Exchange**  >  **aizsardzības**  >  **surogātpasta filtru.**
+2. Atlasiet surogātpasta filtra politiku, kurai vēlaties ieslēgt paziņojumus.
+3. Labajā rūtī izvēlieties saiti Konfigurēt **paziņojumus lietotājam par surogātpastu.**
+4. Nākamajā dialoglodziņā izvēlieties Iespējot paziņojumus **lietotājam par surogātpastu.** Izvēlieties iespējot paziņojumus par surogātpastu šai politikai.
+5. Lodziņā **Sūtīt paziņojumus lietotājam par surogātpastu ik pēc (dienas)** norādiet, cik bieži lietotājam jānosūta paziņojumi par surogātpastu. Noklusējuma iestatījums ir 3 dienas. Varat norādīt no 1 līdz 15 dienām. Ja norādāt, piemēram, 7 dienas, paziņojumā tiek iekļauts saraksts ar visiem lietotājam paredzētajiem ziņojumiem pēdējo 7 dienu laikā, kas tika nosūtīti uz surogātpasta karantīnu.
+6. Paziņojumā **valodā** izvēlieties valodu, kādā rakstīt lietotāju paziņojumus par surogātpastu, par šo politiku.
 7. Izvēlieties **Saglabāt**.

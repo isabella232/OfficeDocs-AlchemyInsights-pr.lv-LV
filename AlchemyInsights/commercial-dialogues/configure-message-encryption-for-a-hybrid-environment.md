@@ -1,5 +1,5 @@
 ---
-title: Ziņojumu šifrēšanas konfigurēšana hibrīdajai videi
+title: Ziņojumu šifrēšanas konfigurēšana hibrīda vidē
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035229"
 ---
-# <a name="configure-message-encryption-for-a-hybrid-environment"></a>Ziņojumu šifrēšanas konfigurēšana hibrīdajai videi
+# <a name="configure-message-encryption-for-a-hybrid-environment"></a>Ziņojumu šifrēšanas konfigurēšana hibrīda vidē
 
-Hibrīdajām Exchange vidēm Lokālie lietotāji var sūtīt šifrētus e-pasta ziņojumus, izmantojot Office ziņojumu šifrēšanu (OME) tikai tad, ja e-pasts tiek maršrutēts, izmantojot Exchange Online.
+Hibrīdajā Exchange lokālie lietotāji var nosūtīt šifrētu e-pastu, izmantojot Office ziņojumu šifrēšanu (OME), tikai tad, ja e-pasts tiek maršrutēts caur Exchange Online.
 
-Lai šifrētu e-pasta ziņojumus, izmantojot OME, veiciet tālāk norādītās darbības.
+Lai šifrētu e-pasta ziņojumus, izmantojot OME, veiciet šādas darbības:
 
-1. Izmantojiet [hibrīdās konfigurācijas vedni](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) , lai iestatītu hibrīdo vidi. Nav nepieciešamas īpašas darbības, lai iestatītu šifrēšanu.
-2. [Iestatiet pasta plūsmas kārtulas šifrēšanai](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) tāpat kā parasti.
+1. Izmantojiet [hibrīdās konfigurācijas vedni,](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) lai iestatītu hibrīdo vidi. Šifrēšanas iestatīšanai nav jāveic īpašas darbības.
+2. [Iestatiet pasta plūsmas kārtulas šifrēšanai tāpat kā](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) parasti.
 
 

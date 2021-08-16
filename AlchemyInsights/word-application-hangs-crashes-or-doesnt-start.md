@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072563"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Programma Word avarē vai nereaģē
 
@@ -29,11 +29,11 @@ Biežākās avārijas programmā Word var izraisīt kļūdaina pievienojumprogra
 
 Ja programma Word netiek startēta, mēģiniet veikt šādas darbības:
 
-1.   Windows datorā aizveriet programmu Outlook un nospiediet taustiņu kombināciju CTRL+ALT+DEL, lai atvērtu uzdevumu pārvaldnieku. 
+1.   Datora Windows aizveriet un Outlook taustiņu kombināciju CTRL+ALT+DEL, lai atvērtu uzdevumu pārvaldnieku. 
 2. Ja Word **procesi** darbojas, cilnē Procesi atlasiet tos un izvēlieties **Beigt uzdevumu.** Ir ieteicams arī veikt atsāknēšanas operāciju, lai notīrītu visu no atmiņas.
 
-    Ja programma Word turpina avarēt vai uzkārties palaišanas laikā, skatiet rakstu [Microsoft 365](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) programmu atvēršana drošajā režīmā Windows datorā, lai to palaistu drošajā režīmā.
+    Ja programma Word turpina avarēt vai uzkārties palaišanas laikā, skatiet rakstu Microsoft 365 programmu atvēršana drošajā režīmā [Windows,](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) lai tās palaistu Seifs režīmā.
 
 Ja joprojām rodas problēmas, skatiet šos rakstus: 
-- [Startējot Office lietojumprogrammas savā datorā, tiek parādīts kļūdas ziņojums "pārtrauca darboties"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Startējot lietojumprogrammas datorā, tiek Office "pārtrauca darboties"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
 - [Nesen atklāto problēmu labojumi vai risinājumi programmā Word darbam ar Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

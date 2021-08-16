@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1547d69cf990d6f0872e23162408860ed25aa805eb99f818eb079d0f7e04ce35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035671"
 ---
 # <a name="fix-network-connection"></a>Labot tīkla savienojumu
 
@@ -43,6 +43,6 @@ Ja tas nedarbojas, mēģiniet restartēt datoru, modemu un maršrutētāju (ja j
 
 **Detalizēta problēmu novēršana**
 
-Papildu problēmu novēršanas darbības skatiet rakstā [Savienojuma Wi-Fi labošana operētājsistēmā Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
+Papildu problēmu novēršanas darbības skatiet rakstā [Savienojuma Wi-Fi novēršana programmā Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
 Ja ne ērtāk izmantojat sarežģītākas tehniskās problēmu novēršanas darbības, sazinieties [ar mums.](https://support.microsoft.com/contactus)
