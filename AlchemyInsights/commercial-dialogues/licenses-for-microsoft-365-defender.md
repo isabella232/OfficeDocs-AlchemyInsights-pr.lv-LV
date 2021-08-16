@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Defender licences
+title: Licences Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967988"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Microsoft 365 Defender licences
+# <a name="licenses-for-microsoft-365-defender"></a>Licences Microsoft 365 Defender
 
-Tālāk norādītās licences nodrošina bezmaksas piekļuvi Microsoft 365 Defender līdzekļiem Microsoft 365 drošības centrā:
+Tālāk norādītās licences nodrošina bezmaksas Microsoft 365 Defender līdzekļiem Microsoft 365 drošības centrā:
 
 - Microsoft 365 E5 vai A5
-- Microsoft 365 E5 Security vai A5 Security
+- Microsoft 365 E5 drošība vai A5 drošība
 - Windows 10 Enterprise E5 vai A5
 - Enterprise Mobility + Security (EMS) E5 vai A5
 - Office 365 E5 vai A5
-- Microsoft Defender for endpoint
-- Microsoft Defender identitātei
-- Microsoft mākoņa lietojumprogrammu drošība
-- Microsoft Defender darbam ar Office 365 (2. plāns)
+- Microsoft Defender galapunktam
+- Microsoft Defender for Identity
+- Microsoft Cloud App Security
+- Microsoft Defender programmatūrai Office 365 (2. plāns)
 
     > [!NOTE]
-    > Šajā laikā Office 365 izmēģināšanas licences nenodrošina piekļuvi Microsoft 365 Defender.
+    > Pašlaik produktu izmēģinājumversijas Office 365 nenodrošina piekļuvi Microsoft 365 Defender.
 
-Papildinformāciju skatiet [Microsoft 365 Enterprise plānu salīdzināšana](https://go.microsoft.com/fwlink/?linkid=2143458).
+Papildinformāciju skatiet rakstā [salīdzinājums Microsoft 365 Enterprise plāni.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Vai jums vēl nav licences? [Izmēģiniet vai iegādājieties Microsoft 365 abonementu](https://go.microsoft.com/fwlink/?linkid=2143625).
+Vai jums vēl nav licences? [Izmēģiniet vai iegādājieties Microsoft 365 abonementu.](https://go.microsoft.com/fwlink/?linkid=2143625)

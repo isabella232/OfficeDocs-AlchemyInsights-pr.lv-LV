@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1180ca96f0e1fdf0dc6e45829283fb3c99586683feb6ad7da1571fc05f41c48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002883"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>Kā iespējot Microsoft To-Do
 
-Lai izmantotu Microsoft To-Do, administratoram šī programma ir jāiespējo katra lietotāja kontā. Dodieties uz Microsoft 365 administratora iestatījumu lapas lapu Pakalpojumu [ &amp; pievienojumprogrammas,](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) lai iespējotu To-Do katram lietotājam.
+Lai varētu izmantot Microsoft To-Do, administratoram šī programma ir jāiespējo katra lietotāja kontā. Dodieties [uz lapas &amp; Pakalpojumu pievienojumprogrammas lapu](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Microsoft 365 iestatījumi, lai iespējotu To-Do katram lietotājam.
   
 Microsoft To-Do izmanto Exchange Online līdzekļus, lai sinhronizētu un glabātu lietotāju uzdevumu vienumus. Lai izmantotu Microsoft To-Do, lietotājam ir nepieciešama derīga Exchange Online pastkaste.
   

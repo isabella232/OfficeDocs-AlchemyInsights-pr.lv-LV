@@ -1,5 +1,5 @@
 ---
-title: Norēķinu konta informācijas atjaunināšana
+title: Kā atjaunināt norēķinu konta informāciju
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015339"
 ---
-# <a name="how-to-update-billing-account-information"></a>Norēķinu konta informācijas atjaunināšana
+# <a name="how-to-update-billing-account-information"></a>Kā atjaunināt norēķinu konta informāciju
 
-Pirms pakalpojumu iegādes, kuriem ir jāmaksā, ir jāpievieno vai jāatjaunina savas organizācijas darba adrese, kontaktinformācijas e-pasta adrese un kontaktpersonas vārds.
+Pirms pakalpojumu iegādes, par kuru ir jāmaksā, ir jāpievieno vai jāatjaunina savas organizācijas uzņēmuma adrese, kontaktinformācijas e-pasta adrese un kontaktpersonas vārds.
 
-Mēs izmantojam uzņēmuma adresi, lai aprēķinātu pārdošanas nodokli un PVN. Ja vēlaties atjaunināt savu PVN/PVN numuru, tad jūsu Microsoft klienta līguma norēķinu konta īpašnieks var veikt šādas darbības:
+Mēs izmantojam uzņēmuma adresi, lai aprēķinātu PVN un PVN. Ja vēlaties atjaunināt savu NODOKĻU/PVN numuru, jūsu Microsoft klienta līguma norēķinu konta īpašnieks to var izdarīt, veicot šādas darbības:
 
-**Lai atjauninātu norēķinu konta informāciju un atjauninātu nodokļu ID**:
+**Lai atjauninātu norēķinu konta informāciju un atjauninātu NODOKĻU ID:**
 
-1. Pierakstieties pakalpojumā [Microsoft Store darbam](https://businessstore.microsoft.com/).
-1. Noklikšķiniet uz **Pārvaldīt**  >  **norēķinu kontus**.
-1. No **pārskats** noklikšķiniet uz **Rediģēt norēķinu konta informāciju**.
-1. Veiciet savus atjauninājumus un pēc tam noklikšķiniet uz **Saglabāt**. 
+1. Pierakstieties [Microsoft Store uzņēmumiem](https://businessstore.microsoft.com/).
+1. Noklikšķiniet **uz Pārvaldīt** norēķinu  >  **kontus**.
+1. Cilnē **Pārskats noklikšķiniet** uz Rediģēt norēķinu konta **informāciju**.
+1. Veiciet atjauninājumus un pēc tam noklikšķiniet uz **Saglabāt.** 
 
-**Ieteicamie dokumenti**
+**Ieteiktie dokumenti**
 
-- [Sava MCA rēķina izprašana](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Informācija par savu MCA rēķinu](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Sava Azure rēķinu nodokļu dokumentu skatīšana un lejupielāde](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Skatīt un lejupielādēt nodokļu dokumentus Azure rēķinam](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Norēķinu konta iestatījumu atjaunināšana](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Atjaunināt norēķinu konta iestatījumus](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

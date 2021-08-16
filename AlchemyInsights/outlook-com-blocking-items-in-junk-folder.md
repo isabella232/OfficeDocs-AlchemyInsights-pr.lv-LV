@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: 7f372a623ead564a341e0b4abc0c26ffa6148f15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e19036bfbcae2e79833d90ab3bb2ab2f1b308f21569c89a8c3ab2ac321c4214a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025077"
 ---
 # <a name="blocking-items-in-your-junk-email-folder"></a>Vienumu bloķēšana mapē Nevēlamais e-pasts
 
-Bloķējot vienumu, kas jau atrodas mapē Nevēlamais e-pasts, tas tiks izdzēsts. Vienumi [mapē Nevēlamais e-pasts](https://outlook.live.com/mail/junkemail) automātiski tiek izdzēsti pēc 30 dienām. Mapē Nevēlamais e-pasts atlasiet vienumu, lai redzētu, kad tas tiks dzēsts.
+Ja bloķēsit vienumu, kas jau atrodas mapē Nevēlamais e-pasts, tas tiks izdzēsts. Vienumi mapē [Nevēlamais e-pasts tiek](https://outlook.live.com/mail/junkemail) automātiski izdzēsti pēc 30 dienām. Atlasiet vienumu mapē Nevēlamais e-pasts, lai redzētu, kad tas tiks izdzēsts.
 
-Uzziniet vairāk par to, kā [Bloķēt sūtītājus vai atzīmēt e-pastu kā nevēlamu](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Uzziniet vairāk par to, kā [bloķēt sūtītājus vai atzīmēt e-pastu kā nevēlamu.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
