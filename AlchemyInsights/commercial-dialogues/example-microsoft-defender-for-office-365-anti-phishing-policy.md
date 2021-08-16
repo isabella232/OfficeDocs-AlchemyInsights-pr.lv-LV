@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 pretpikšķerēšanas politikas piemērs
+title: Microsoft Defender piemērs Office 365 pretpikšķerēšanas politikai
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746857"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035013"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Microsoft Defender for Office 365 pretpikšķerēšanas politikas piemērs
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Microsoft Defender piemērs Office 365 pretpikšķerēšanas politikai
 
-Šie iestatījumi iespējo politiku ar nosaukumu *Domain un CEO*. Šī politika nodrošina gan lietotāja, gan domēna aizsardzību no personificēšanas un pēc tam lieto politiku visiem lietotājiem, kas ir saņemti domēnā. Vispirms pievienojiet tālāk norādīto informāciju, lai izveidotu politiku.
+Šie iestatījumi iespējo politiku ar *nosaukumu Domēns un UZŅĒMUMA VADĪTĀJS.* Šī politika nodrošina lietotāja un domēna aizsardzību pret personificēšanu un pēc tam lieto politiku visiem e-pasta ziņojumiem, ko saņem lietotāji domēnā. Vispirms, lai izveidotu politiku, pievienojiet šādu informāciju:
 
-- **Nosaukums**: Domain and CEO **Apraksts**: nodrošina, ka vadītājs un jūsu domēns netiek personificēts.
-  **Lietots**: atlasiet **adresātu domēnu**. Sadaļā **jebkurš no šiem** atlasiet **izvēlēties** un pēc tam atlasiet domēnu. Atlasiet **+ Pievienot**. Atzīmējiet izvēles rūtiņu blakus domēna nosaukumam sarakstā (piemēram, *contoso.com*) un pēc tam atlasiet **Pievienot**. Atlasiet **gatavs**.
-- Pēc politikas izveides varat precizēt politiku, izmantojot tālāk norādītās opcijas.
-  - **Lietotāju pievienošana aizsardzībai:** Šim piemēram, pievienojiet izpilddirektora e-pasta adresi.
-  - **Pievienot domēnus, lai aizsargātu**: pievienojiet organizācijas domēnu, kas ietver CEO biroju.
-  - **Izvēlieties darbības**: **Ja e-pasta ziņojums tiek nosūtīts personificētam lietotājam**, atlasiet **novirzīt ziņojumu uz citu e-pasta adresi** un pēc tam ievadiet drošības administratora e-pasta adresi (piemēram, *SecurityAdmin@contoso.com*). **Ja e-pasta ziņojums tiek sūtīts ar personificētu domēnu**, atlasiet **ievietot ziņojumu karantīnā**.
-  - **Pastkastes informācija**: pēc noklusējuma šī opcija ir atlasīta, kad izveidojat jaunu pretpikšķerēšanas politiku. Atstājiet **šo iestatījumu,** lai iegūtu vislabākos rezultātus.
-  - **Pievienojiet uzticamos sūtītājus un domēnus:** Šajā piemērā nedefinējiet nevienu ignorēšanu.
-- Kad būsit pārskatījis savus iestatījumus, atlasiet **izveidot šo politiku** vai pēc vajadzības **Saglabāt**.
+- **Nosaukums**: Domēna un uzņēmuma administratora **apraksts:** nodrošina, ka bez personificējas ne uzņēmuma vadītājs, ne jūsu domēns.
+  **Lietots:** Atlasiet **Adresāta domēns ir**. Sadaļā **Kāds no šiem** atlasiet **Izvēlēties** un pēc tam atlasiet domēnu. Atlasiet **+ Pievienot**. Atzīmējiet izvēles rūtiņu blakus domēna nosaukumam sarakstā *(piemēram,* contoso.com ) un pēc tam atlasiet **Pievienot**. Atlasiet **Gatavs**.
+- Kad politika ir izveidota, jūs varat precizēt politiku, izmantojot šādas opcijas:
+  - **Pievienojiet lietotājus, lai tos aizsargātu:** Šajā piemērā pievienojiet vismaz CEO e-pasta adresi.
+  - **Domēnu pievienošana, lai aizsargātu:** pievienojiet organizācijas domēnu, kurā iekļauts ceO birojs.
+  - **Izvēlieties darbības:** ja e-pasta ziņojumu ir nosūtījis personificēts **lietotājs,** atlasiet Novirzīt ziņojumu uz citu e-pasta adresi **un** pēc tam ievadiet drošības administratora e-pasta adresi (piemēram, *securityadmin@contoso.com*). Ja **e-pasta ziņojumu nosūta personificēts domēns,** atlasiet **Karantīnā ievietot ziņojumu**.
+  - **Pastkastes informācija:** veidojot jaunu pretpikšķerēšanas politiku, šī opcija tiek atlasīta pēc noklusējuma. Lai iegūtu vislabākos **rezultātus,** atstājiet šo iestatījumu ieslēgtu.
+  - **Uzticamu sūtītāju un domēnu pievienošana:** Šajā piemērā nedefinēt nekādus ignorējumus.
+- Kad esat pārskatījis iestatījumus, atbilstoši **atlasiet Izveidot šo politiku** **vai** Saglabāt.
 
-Papildinformāciju skatiet rakstā [pretpikšķerēšanas politikas programmā Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Papildinformāciju skatiet rakstā [Pretpikšķerēšanas politikas programmā Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)

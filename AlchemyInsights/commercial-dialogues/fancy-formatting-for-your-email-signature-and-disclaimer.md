@@ -1,5 +1,5 @@
 ---
-title: Jūsu e-pasta paraksta un atrunas atraktīvs formatējums
+title: E-pasta paraksta un atrunas atraktīvais formatējums
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058693"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Jūsu e-pasta paraksta un atrunas atraktīvs formatējums
-Lai iegūtu informāciju par fantastisku formatējumu (piemēram, kā pievienot sociālo tīklu ikonas, attēlus un saites uz jūsu organizācijas atrunu), informācija par saderību ar mobilajām ierīcēm un daudz ko citu.
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>E-pasta paraksta un atrunas atraktīvais formatējums
+Lai iegūtu informāciju par atraktīvu formatējumu (piemēram, kā pievienot sociālās multivides ikonas, attēlus un saites uz organizācijas atrunu), informāciju par saderību ar mobilajām ierīcēm un citu informāciju.
 
-Lūdzu, meklējiet internetā **e-pasta paraksta resursus**. Daži uzņēmumi, kas nodrošina informāciju un rīkus, ir Microsoft Gold Partners.
+Lūdzu, meklējiet internetā **e-pasta paraksta resursus**. Vairāki uzņēmumi, kas nodrošina informāciju un rīkus, ir Microsoft Gold partneri.

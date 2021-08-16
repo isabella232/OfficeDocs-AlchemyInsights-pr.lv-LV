@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams exploratory experience
+title: Microsoft Teams Exploratory experience
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96bcd589e03a67acd61e231e777f0d26aae9687dd2c9284babe3e2669343ca5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027057"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams exploratory experience
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Exploratory experience
 
-- Kas ir [Teams exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Microsoft Teams izpētes pieredze ļauj jūsu organizācijas lietotājiem, kuriem nav Teams licences, sākt Teams lietošanas pieredzi. Lai iegūtu papildinformāciju, skatiet teams [izteiksmes iespējas.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
-- [Cik ilga ir Teams izteiksmes pieredze?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Microsoft Teams izpētes pieredze ir pieejama bez papildu maksas par 12 mēnešiem (sākot no sākotnējās lietotāju reģistrēšanās), kā arī papildu 30 dienu pagarinājuma perioda.
-- Kā administrators varat jaunināt lietotājus no [Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) izpētes licences, iegādājoties abonementu, kas ietver Teams, noņemot no lietotāja Teams exploratory abonementu un piešķirot tikko iegādāto licenci.
-- Papildinformāciju skatiet [rakstā Teams izpētes licences pārvaldība.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Kas [ir Teams exploratīvais](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Ja Microsoft Teams ir exploratīva pieredze, lietotāji jūsu organizācijā, kuriem nav licences, Teams uzsāciet izpētes Teams. Lai iegūtu papildinformāciju, [skatiet rakstu kas ir Teams izteiksmes gadījumā.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Cik ilga ir Teams pieredze?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Izpētes Microsoft Teams ir pieejama bez papildu maksas 12 mēnešu laikā (sākot no sākotnējās lietotāju reģistrēšanās), kā arī papildu 30 dienu pagarinājuma periods.
+- Kā administrators varat jaunināt lietotājus no [Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) izpētes licences, iegādājoties abonementu, kurā ietilpst Teams, lietotāja Teams exploratīva abonementa noņemšana un tikko iegādātās licences piešķiršana.
+- Papildinformāciju skatiet [rakstā Teams licences pārvaldība.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
