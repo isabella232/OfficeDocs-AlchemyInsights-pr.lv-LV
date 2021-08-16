@@ -1,5 +1,5 @@
 ---
-title: Pārbaudiet, vai jūsu Yammer nomnieks ir vietējā režīmā
+title: Pārbaudiet, Yammer nomnieks ir iebūvētajā režīmā
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070259"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Pārbaudiet, vai jūsu Yammer nomnieks ir vietējā režīmā
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Pārbaudiet, Yammer nomnieks ir iebūvētajā režīmā
 
-Šī darbība nav obligāta. Vietējā režīmā visi Yammer lietotāji ir Azure Active Directory (Azure AD), visas grupas ir Microsoft 365 grupas un visi faili tiek glabāti pakalpojumā SharePoint Online. Jūsu Yammer nomniekam ir jābūt vietējā režīmā, lai iespējotu saziņas atbilstības politikas, lai skenētu un identificētu bīstamās sarunas personiskos ziņojumos un Kopienas sarunas pakalpojumā Yammer.  
+Šī darbība nav obligāta. Vietējā režīmā visi Yammer lietotāji izmanto Azure Active Directory (Azure AD), visas grupas tiek Microsoft 365 grupas, un visi faili tiek glabāti SharePoint Online. Jūsu Yammer nomniekam ir jābūt vietējā režīmā, lai nodrošinātu saziņas atbilstības politiku pārbaudi un identificēt riskantās sarunas privātos ziņojumos un kopienas sarunās programmā Yammer.  
   
-Lai iegūtu papildinformāciju par Yammer konfigurēšanu vietējā režīmā, skatiet rakstu [pārskats par Yammer vietējo režīmu programmā microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) un [konfigurējiet savu yammer tīklu Microsoft 365 vietējais režīms](https://go.microsoft.com/fwlink/?linkid=2129772).
+Papildinformāciju par Yammer konfigurēšanu vietējā režīmā skatiet rakstā Pārskats [par Yammer](https://go.microsoft.com/fwlink/?linkid=2129829) vietējo režīmu programmā Microsoft 365 un Yammer tīkla konfigurēšana iebūvētajā režīmā [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2129772)
