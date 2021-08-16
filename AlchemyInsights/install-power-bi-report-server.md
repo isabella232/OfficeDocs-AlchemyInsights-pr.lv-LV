@@ -1,5 +1,5 @@
 ---
-title: Power BI Atskaišu servera instalēšana
+title: Instalēt Power BI Report Server
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028587"
 ---
-# <a name="install-power-bi-report-server"></a>Power BI Atskaišu servera instalēšana
+# <a name="install-power-bi-report-server"></a>Instalēt Power BI Report Server
 
 1. Atrodiet lietojumprogrammas atrašanās PowerBIReportServer.exe un palaidiet instalēšanas programmu.
 
-2. Atlasiet **Instalēt Power BI atskaišu serveri**.
+2. Atlasiet **Instalēt Power BI Report Server**.
 
 3. Izvēlieties instalējamu izdevumu un pēc tam atlasiet **Tālāk**.
 
@@ -35,6 +35,6 @@ ms.locfileid: "51832101"
 
 7. Pēc sekmīgas iestatīšanas atlasiet **Konfigurēt atskaišu serveri,** lai palaistu atskaišu pakalpojumu konfigurācijas pārvaldnieku.
 
-Nav nepieciešams SQL Server datu bāzes programmas serveris, kas pieejams instalēšanas laikā. Atskaišu izveides pakalpojumi būs jākonfigurē pēc instalēšanas.
+Jums nav nepieciešams instalēšanas SQL Server programmas serveris, kas pieejams instalēšanas laikā. Atskaišu izveides pakalpojumi būs jākonfigurē pēc instalēšanas.
 
 Papildinformācija: https://docs.microsoft.com/power-bi/report-server/install-report-server

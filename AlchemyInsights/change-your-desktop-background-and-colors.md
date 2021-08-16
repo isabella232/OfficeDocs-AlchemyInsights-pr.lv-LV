@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045735"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Darbvirsmas fona un krāsu maiņa
 
-Lai mainītu krāsu iestatījumu, dodieties uz Sākums Iestatījumi Personalizēšana Krāsas un pēc tam izvēlieties krāsu vai ļaujiet operētājsistēmai Windows izvilkt  >    >    >  izcēluma krāsu no jūsu fona.
+Lai mainītu krāsu iestatījumu, dodieties uz Iestatījumi Personalizēšana krāsas un pēc tam izvēlieties krāsu vai ļaujiet Windows  >    >    >  izvilkt izcēluma krāsu no fona.
 
-![Personalizējiet savas krāsas operētājsistēmā Windows.](media/windows-personalization-colors.png)
+![Personalizējiet krāsas programmā Windows.](media/windows-personalization-colors.png)
 
-Lai mainītu darbvirsmas fonu, dodieties uz Sākums   >  **Iestatījumi** Personalizēšana Fons un pēc tam izvēlieties attēlu, tīrtoņa krāsu vai  >    >  izveidojiet attēlu slaidrādi. 
+Lai mainītu darbvirsmas fonu, dodieties uz sākums   >  **Iestatījumi** Personalizēšana Fons un pēc tam izvēlieties attēlu, tīrtoņa krāsu vai  >    >  izveidojiet attēlu slaidrādi. 
 
-![Mainiet windows darbvirsmas fonu.](media/windows-desktop-background.png)
+![Mainiet Windows darbvirsmas fonu.](media/windows-desktop-background.png)
 
-Vai vēlaties vairāk darbvirsmas fonu un krāsu? Apmeklējiet [veikalu Microsoft Store,](https://www.microsoft.com/store/collections/windowsthemes) lai izvēlētos kādu no desmitiem bezmaksas dizainu.
+Vai vēlaties vairāk darbvirsmas fonu un krāsu? Apmeklējiet [Microsoft Store kādu](https://www.microsoft.com/store/collections/windowsthemes) no desmitiem bezmaksas dizainu.

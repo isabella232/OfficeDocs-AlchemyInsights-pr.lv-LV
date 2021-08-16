@@ -1,5 +1,5 @@
 ---
-title: Veiktspējas problēmas — SharePoint vai OneDrive
+title: Veiktspējas problēmas saistībā SharePoint vai OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028443"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Iekšēja servera kļūda, naviģējot uz SharePoint vai OneDrive vietnēm
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Iekšēja servera kļūda, naviģējot uz Sharepoint vai OneDrive vietnēm
 
-Mēģinot pāriet uz SharePoint vai OneDrive vietnēm, lietotāji var saņemt 500 iekšējā servera kļūdu. 
+Mēģinot naviģēt uz vai SharePoint vai OneDrive, lietotāji var saņemt 500 iekšēja OneDrive kļūdu. 
 
-Lūdzu, mēģiniet notīrīt pārlūkprogrammas kešatmiņu pirms naviģēšanas uz vietni.
+Lūdzu, pirms naviģēšanas uz vietni mēģiniet notīrīt pārlūkprogrammas kešatmiņu.
 
 
-1. Pārlūkprogrammā Microsoft Edge dodieties uz More... > iestatījumi
+1. Pārlūkā Microsoft Edge Vairāk...> Iestatījumi
 
-2. Sadaļā Notīrīt pārlūkošanas datus atlasiet **izvēlēties, ko notīrīt**
+2. Sadaļā Pārlūkošanas datu notīrīšana atlasiet **Izvēlēties, ko notīrīt**
 
-3. Atzīmējiet izvēles rūtiņu Sīkfaili un saglabātie tīmekļa vietnes dati un atlasiet **Notīrīt**.
+3. Atzīmējiet izvēles rūtiņu Sīkfaili un saglabātie tīmekļa vietņu dati un **atlasiet Notīrīt**.
 
-Piezīme: šīs darbības var atšķirties, izmantojot citas pārlūkprogrammas, piemēram, Firefox vai Chrome.
+Piezīme. Izmantojot citas pārlūkprogrammas, piemēram, Firefox vai Chrome, šīs darbības var atšķirties.
 
-Ja problēma netiek novērsta, varat pārbaudīt, vai nomniekam rodas aktīva uzturēšana, naviģējot uz [ziņojumu centru](https://portal.office.com/adminportal/home#/MessageCenter).
+Ja tas neatrisina problēmu, varat pārbaudīt, vai nomniekā notiek aktīva uzturēšana, naviģējot uz ziņojumu [centru](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Visbeidzot, pārliecinieties, vai esat apmeklējis [pakalpojumu darbspējas](https://portal.office.com/adminportal/home#/servicehealth) lapu, lai noskaidrotu, vai nav konsultantu/incidentu, kas var notikt.
+Visbeidzot, apmeklējiet pakalpojuma darbspējas [lapu,](https://portal.office.com/adminportal/home#/servicehealth) lai meklētu konsultantus/incidentus, kas varētu rasties.
 
