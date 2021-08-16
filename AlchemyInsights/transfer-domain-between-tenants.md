@@ -1,5 +1,5 @@
 ---
-title: Pārsūtīt domēnu starp nomniekiem
+title: Domēna pārsūtīšana starp nomniekiem
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048631"
 ---
-# <a name="transfer-domain-between-tenants"></a>Pārsūtīt domēnu starp nomniekiem
+# <a name="transfer-domain-between-tenants"></a>Domēna pārsūtīšana starp nomniekiem
 
-Pielāgotu domēnu, piemēram, forthcoffee.com, var manuāli noņemt no viena nomnieka un pēc tam pārbaudīt jaunā nomniekā.
+Pielāgotu domēnu, piemēram, forthcoffee.com, var manuāli noņemt no viena nomnieka un pēc tam verificēt jaunā nomniekā.
 
-Lai [noņemtu domēnu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain), veiciet tālāk norādītās darbības. Pēc tam jaunajā nomniekā dodieties uz **sadaļu Settings**  >  **Domains**  >  **Add Domain**.
+Izpildiet šīs [darbības, lai noņemtu domēnu.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Pēc tam jaunajā nomniekā dodieties uz **Iestatījumi**  >  Domains Add domain **(Domēni** pievienot  >  **domēnu).**
 
-Sarežģītāku scenāriju gadījumā skatiet rakstu [Microsoft 365 nomnieka — nomnieka migrācija](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Sarežģītākus scenārijus [skatiet rakstā Microsoft 365 migrāciju no nomnieka uz nomnieku.](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)
 
-**Ņemiet arī vērā**:
-- Sākotnējo onmicrosoft.com domēnu nevar izdzēst vai pārvietot starp nomniekiem.
-- Pielāgoto domēnu, kas iegādāts no Microsoft, nevar pārvietot starp nomniekiem.
+**Piezīme.**
+- Sākotnējo domēna onmicrosoft.com nevar izdzēst vai pārvietot starp nomniekiem.
+- No Microsoft iegādātu pielāgotu domēnu nevar pārvietot starp nomniekiem.

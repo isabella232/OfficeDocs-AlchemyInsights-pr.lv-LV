@@ -1,5 +1,5 @@
 ---
-title: Man ir radusies problēma ar lietojumprogrammas starpniekservera savienotāju
+title: Radusies problēma ar lietojumprogrammas starpniekservera aģenta savienotāju
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039721"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Man ir radusies problēma ar lietojumprogrammas starpniekservera savienotāju
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Radusies problēma ar lietojumprogrammas starpniekservera aģenta savienotāju
 
-1. Microsoft Azure Active Directory lietojumprogrammas starpniekservera savienotājs ir iekšējā domēna komponents, kas izmanto izejošos savienojumus, lai izveidotu savienojumu no mākoņa pieejamā galapunkta uz iekšējo domēnu.
-1. Ja rodas problēmas, instalējot lietojumprogrammas starpniekservera aģenta savienotāju, veiciet [tālāk norādītās darbības](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) , lai novērstu problēmas.
-1. Ja izmantojat lietojumprogrammas starpniekserveri attālai piekļuvei lokālajā tīmekļa lietojumprogrammā, bet radušās problēmas ar lietojumprogrammas izmantošanu, izmantojiet [šo rakstu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) , lai palīdzētu novērst problēmas, kas saistītas ar Azure Active Directory (Azure AD) lietojumprogrammas starpniekservera savienotājiem.
+1. Microsoft Azure Active Directory Lietojumprogrammas starpniekservera savienotājs ir iekšējais domēna komponents, kas izmanto izejošos savienojumus, lai izveidotu savienojumu no mākonī pieejamā galapunkta uz iekšējo domēnu.
+1. Ja rodas problēmas, instalējot lietojumprogrammas starpniekservera aģenta savienotāju, izpildiet [šīs darbības,](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) lai novērstu problēmas.
+1. Ja izmantojat lietojumprogrammas starpniekservera pakalpojumu, lai piekļūtu lokālai tīmekļa lietojumprogrammai, bet [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) rodas problēmas, veidojot savienojumu ar lietojumprogrammu, izmantojiet šo rakstu, lai palīdzētu novērst ar Azure Active Directory (Azure AD) lietojumprogrammas starpniekservera savienotāju saistītas problēmas.

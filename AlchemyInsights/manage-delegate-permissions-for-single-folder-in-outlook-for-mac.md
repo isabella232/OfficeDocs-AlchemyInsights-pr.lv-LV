@@ -1,5 +1,5 @@
 ---
-title: Pārstāvja atļauju pārvaldība atsevišķā mapē programmā Outlook darbam ar Mac
+title: Pārstāvja atļauju pārvaldība vienai mapei programmā Outlook Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066803"
 ---
-# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Pārstāvja atļauju pārvaldība atsevišķā mapē programmā Outlook darbam ar Mac
+# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Pārstāvja atļauju pārvaldība vienai mapei programmā Outlook Mac
 
 1. Navigācijas rūtī izvēlieties mapi, kuru vēlaties mainīt.
-2. Cilnē **organizēt** izvēlieties kalendāra **atļaujas** un izvēlieties **mapes atļaujas** pasta vai personu sadaļā.
-3. Noklikšķiniet uz tās personas vārda, kuras atļaujas vēlaties mainīt.
-4. Sarakstā **atļauju līmenis** izvēlieties vajadzīgo piekļuves līmeni. Atsevišķos atļauju līmeņos tiek automātiski aizpildīti atkarībā no saraksta atlases.
+2. Cilnē **Organizēšana** izvēlieties Atļaujas kalendārā **un** pasta **vai personu** sadaļā izvēlieties Mapes atļaujas.
+3. Noklikšķiniet uz tās personas vārda, kurai vēlaties mainīt atļaujas.
+4. Sarakstā **Atļauju** līmenis izvēlieties piekļuves līmeni, kuru vēlaties izmantot. Atsevišķi atļauju līmeņi tiek automātiski aizpildīti, pamatojoties uz jūsu atlasi sarakstā.
 
-Lai pielāgotu atļauju līmeņus, atzīmējiet to vienumu izvēles rūtiņas, kurus vēlaties izmantot, un pēc tam sadaļā **Rediģēt vienumus** un **Dzēst vienumus** izvēlieties vajadzīgo atļauju līmeni.
+Lai pielāgotu atļauju līmeņus, atzīmējiet izvēles rūtiņas vienumiem  un pēc tam sadaļās Rediģēt vienumus un Dzēst vienumus izvēlieties atļauju līmeni.
 
 > [!NOTE]
-> Ja iestatāt atļauju līmeni uz **nav**, pārstāvis paliek sarakstā, kas ļauj ātri atjaunot atļaujas vēlāk. Papildinformāciju par atļauju līmeņiem skatiet rakstā [par koplietošanu un deleģēšanu](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).
+> Ja atļauju līmenis tiek iestatīts **uz Nav,** pārstāvis paliek sarakstā, kas sniedz iespēju vēlāk ātri atjaunot atļaujas. Informāciju par atļauju līmeņiem skatiet rakstā Par [koplietošanu un deleģēšanu.](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)

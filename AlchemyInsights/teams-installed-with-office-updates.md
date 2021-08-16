@@ -1,5 +1,5 @@
 ---
-title: Darba grupas, kas instalētas, izmantojot Office atjauninājumus
+title: Teams instalēta kopā Office atjauninājumiem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c473a001d1441362baad9feb44323b46f1cef42d3c431ef87f0fb0172f10d152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048739"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, kas instalēta ar Office atjauninājumiem
+# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams instalēta kopā Office atjauninājumiem
 
-Microsoft Teams ir iekļauta  kā daļa no jaunām Microsoft 365 programmu uzņēmumiem, Microsoft 365 programmām uzņēmumiem un Office darbam ar Mac instalācijām. Papildinformāciju skatiet rakstā [Kad Microsoft Teams sāks tikt iekļauta jaunās Office instalācijās?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams ir iekļauta jaunajās  Microsoft 365 programmas lieluzņēmumiem, Microsoft 365 programmas darbam un Office darbam ar Mac instalācijās. Papildinformāciju skatiet [rakstā Kad Microsoft Teams tiks iekļauta jaunajās Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Turklāt, sākot ar versiju 1906 pašreizējā kanālā,  Teams tiks pakāpeniski pievienotas esošajām Microsoft 365 Programmu uzņēmumiem (un Microsoft 365 Apps for business) instalācijām ierīcēs, kurās darbojas Windows, kad atjaunināt esošo instalāciju uz jaunāko versiju. Papildinformāciju skatiet rakstā [Kā ar esošajām Office instalācijām?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Turklāt, sākot ar versiju 1906 pašreizējā kanālā , Teams  tiks pakāpeniski pievienots esošajām Microsoft 365 programmas lieluzņēmumiem (un Microsoft 365 programmas darbam) instalācijām ierīcēs, kurās darbojas Windows, kad atjaunināt esošo instalāciju uz jaunāko versiju. Papildinformāciju skatiet rakstā [Kā ar esošajām Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Piezīme.** Ja nevēlaties gaidīt šo ieviešanas grafiku, varat izvietot Teams kā savrupu pakalpojumu saviem lietotājiem, izpildot šos [norādījumus,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)vai arī varat atļaut lietotājiem instalēt Teams saviem lietotājiem https://teams.microsoft.com/downloads no .
+**Piezīme.** Ja nevēlaties gaidīt šo ieviešanas grafiku, varat izvietot Teams kā savrupu programmatūru saviem lietotājiem, izpildot šos [norādījumus,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)vai arī varat atļaut lietotājiem instalēt Teams saviem lietotājiem https://teams.microsoft.com/downloads no .
 
-Ja jūsu organizācija nav gatava izvietot Teams, varat izslēgt ***Teams*** no jaunām [vai esošām](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) Office [instalācijām.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Ja vēlaties, lai grupas tiktu instalētas, bet nevēlaties, lai Teams automātiski sāktu darbu lietotājam pēc tās instalēšanas, skatiet rakstu [Automātiskas Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)startēšanas nepieļaušana pēc instalēšanas.
+Ja jūsu organizācija nav gatava izvietot jaunas Teams, varat izslēgt ***Teams*** [no](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) jaunajām vai [esošajām](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Office. Ja Teams vēlaties, lai tā tiktu instalēta, bet nevēlaties Teams lai lietotājs tiktu automātiski startēts pēc instalēšanas, skatiet rakstu Automātiskas Microsoft Teams startēšanas nepieļaušana pēc [instalēšanas.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Lai ***atinstalētu Teams*** ierīcē, kurā darbojas Windows, skatiet rakstu [Microsoft Teams atinstalēšana.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Lai tīrīt Microsoft Teams no vairākiem mērķa datoriem vai lietotājiem, skatiet [sadaļu Microsoft Teams izvietošanas tīrīšana.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+Lai ***atinstalētu Teams*** ierīcē, kurā darbojas Windows, skatiet [rakstu Microsoft Teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Informāciju par to, kā Microsoft Teams datorus vai lietotājus, skatiet [Microsoft Teams izvietošanas tīrīšana.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Ja izmantojat [koplietojamos datorus, attālās darbvirsmas](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)pakalpojumus (Remote Desktop Services - RDS) vai virtuālās darbvirsmas infrastruktūru (VDI), skatiet sadaļu Koplietotais dators un VDI vides ar Microsoft Teams. Ja izmantojat Office for Mac, skatiet rakstu [Microsoft Teams instalācijas Mac datorā.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Ja izmantojat koplietojamos [datorus, attālās darbvirsmas](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)pakalpojumus (Remote Desktop Services - RDS) vai virtuālās darbvirsmas infrastruktūru (VDI), skatiet sadaļu Koplietotais dators un VDI vides ar Microsoft Teams. Ja izmantojat programmu Office darbam ar Mac, skatiet [rakstu Microsoft Teams instalācijas Mac datorā.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
-**Piezīme.** Pēc Tam, kad programma Teams ir instalēta, tā [tiek](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) automātiski atjaunināta aptuveni ik pēc divām nedēļām ar jauniem līdzekļiem un kvalitātes atjauninājumiem. 
+**Piezīme.** Pēc Teams atjaunināšana tiek automātiski atjaunināta [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) aptuveni ik pēc divām nedēļām, izmantojot jaunus līdzekļus un kvalitātes atjauninājumus. 

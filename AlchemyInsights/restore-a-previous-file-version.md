@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039577"
 ---
 # <a name="restore-a-previous-file-version"></a>Iepriekšējās faila versijas atjaunošana
 
-Izmantojot tiešsaistes versiju vēsturi, varat skatīt un atjaunot vecākas failu versijas pakalpojumā OneDrive vai SharePoint. Versiju vēsture darbojas ar visiem failu tipiem, ieskaitot PDF, CAD failus, fotoattēlus un video. Lai atjaunotu iepriekšējo faila versiju:
+Izmantojot tiešsaistes versiju vēsturi, varat skatīt un atjaunot vecākas failu versijas programmā OneDrive vai SharePoint. Versiju vēsture darbojas ar visu veidu failiem, tostarp PDF, CAD failiem, fotoattēliem un videoklipiem. Lai atjaunotu iepriekšējo faila versiju:
   
-1. Atveriet SharePoint dokumentu bibliotēku vai OneDrive atrašanās vietu.
+1. Atveriet dokumentu SharePoint vai bibliotēkas OneDrive atrašanās vietu.
     
-2. Noklikšķiniet pa kreisi no faila, lai to atlasītu, un pēc tam noklikšķiniet uz **versiju vēsture**. Ja komandjoslā nav redzama versiju vēsture, noklikšķiniet uz vairāk ( **...** ). 
+2. Noklikšķiniet pa kreisi no faila, lai to atlasītu, un pēc tam noklikšķiniet uz **Versiju vēsture**. Ja komandjoslā nav redzama versiju vēsture, noklikšķiniet uz Vēl ( **...** ). 
     
-3. Noklikšķiniet uz versijas, kuru vēlaties skatīt, vai noklikšķiniet uz vairāk ( **...** ) pa labi no versijas un pēc tam noklikšķiniet uz **atjaunot**.
+3. Noklikšķiniet uz versijas, kuru vēlaties skatīt, vai noklikšķiniet uz Vēl **(...)** pa labi no versijas un pēc tam noklikšķiniet uz **Atjaunot**.
     
 
