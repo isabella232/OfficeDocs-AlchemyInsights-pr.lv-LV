@@ -1,5 +1,5 @@
 ---
-title: SMIME bloka satura izmaiņas
+title: SMIME bloķēšanas satura maiņa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cca0219e7963b5a74b71a9f5eb4d1f5796299bfaa97c9d8265dcbf3f641b172
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022071"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Programma Outlook tagad pēc noklusējuma bloķē ārējo saturu S/MIME
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook S/MIME noklusējuma bloķēt ārējo saturu
 
-Mēs ieviešam papildu drošības pasākumus programmā Outlook darbam ar Windows, bloķējot ārēju saturu S/MIME šifrētos un parakstītos ziņojumos pēc noklusējuma, un tas neļauj veikt pārbraucienus uz viena ziņojuma pamata.
+Mēs ieviešam papildu drošības pasākumus programmā Outlook for Windows, bloķējot ārēju saturu S/MIME šifrētos un parakstītos ziņojumos pēc noklusējuma un neļaujot ignorēt katru ziņojumu.
 
-Lai iegūtu detalizētu informāciju, lūdzu, skatiet rakstu [Outlook darbam ar Windows bloķē ārējo saturu S/MIME ziņojumos](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
+Pilnu detalizētu informāciju, [lūdzu Outlook rakstā Windows bloķē ārējo saturu S/MIME ziņojumos.](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)
