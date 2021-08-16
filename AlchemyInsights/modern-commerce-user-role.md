@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 07f93f4d9ffc300d19e38e771a512f0bd1db9cda10d1648e789917d85a1a39df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012027"
 ---
 # <a name="modern-commerce-user-role"></a>Modern Commerce lietotāja loma
 
-Modern Commerce lietotāja loma sniedz noteiktiem lietotājiem atļauju piekļūt Microsoft 365 administrēšanas centram un skatiet kreisajā navigācijas ierakstus sadaļā Mājas **lietošanai,** Norēķini un **Atbalsts.** Šajās jomās pieejamo saturu kontrolē tirdzniecības lomas, kas piešķirtas lietotājiem, lai pārvaldītu produktus, ko viņi iegādājušies sev vai jūsu organizācijai. Tas var ietvert uzdevumus, piemēram, rēķinu apmaksu, vai piekļuvi norēķinu kontiem un norēķinu profiliem.
+Modernas komercijas lietotāja loma sniedz noteiktiem lietotājiem atļauju piekļūt Microsoft 365 administrēšanas centrs un skatīt kreisajā navigācijas ierakstus sadaļā Mājas **lietošanai,** **Norēķini** un **Atbalsts.** Šajās jomās pieejamo saturu kontrolē tirdzniecības lomas, kas piešķirtas lietotājiem, lai pārvaldītu produktus, ko viņi iegādājušies sev vai jūsu organizācijai. Tas var ietvert uzdevumus, piemēram, rēķinu apmaksu, vai piekļuvi norēķinu kontiem un norēķinu profiliem.
 
 Lietotājiem, kuriem ir modernās komercijas lietotāja loma, parasti ir administratīvās atļaujas citās Microsoft pirkumu sistēmās, taču nav globālā administratora vai norēķinu administratora tiesību.
 
-Papildinformāciju par šo un citām administratīvajām lomām skatiet rakstā [Administratora lomu atļaujas pakalpojumā Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)
+Papildinformāciju par šo un citām administratīvajām lomām skatiet rakstā [Administratora lomu atļaujas Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)

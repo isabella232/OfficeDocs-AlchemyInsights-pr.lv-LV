@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049315"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>Kļūda 4c7 lietojumprogrammā Microsoft Teams
+# <a name="4c7-error-in-microsoft-teams"></a>4c7 kļūda Microsoft Teams
 
-Šī kļūda rodas tāpēc, ka Microsoft Teams pieprasa veidlapu autentifikāciju. Kad izvietojat Active Directory federācijas pakalpojumu (AD FS), veidlapu autentifikācija pēc noklusējuma nav iespējota iekštīklam. Ja Windows integrētā autentifikācija neizdodas, jums tiek piedāvāts pierakstīties, izmantojot veidlapu autentifikāciju.
+Šī kļūda rodas tāpēc, Microsoft Teams nepieciešama Forms Authentication. Kad izvietojat Active Directory federācijas pakalpojumu (AD FS), veidlapu autentifikācija pēc noklusējuma nav iespējota iekštīklam. Ja Windows autentifikācija neizdodas, jums tiek piedāvāts pierakstīties, izmantojot veidlapu autentifikāciju.
 
 Lai novērstu šo problēmu, iespējojiet Forms Authentication, izmantojot AD FS Microsoft Management Console (MMC) papildprogrammu datorā, kurā ir lokālā Active Directory kopija. Lai to izdarītu, veiciet tālāk norādītās darbības. 
 

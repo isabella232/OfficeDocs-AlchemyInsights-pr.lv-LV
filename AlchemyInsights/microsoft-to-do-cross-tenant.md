@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012171"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft, lai veiktu vairāku nomnieku koplietošanu
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do koplietošana starp nomniekiem
 
-Microsoft to atbalsta saraksta koplietošanu starp personiskajiem un darba kontiem. Tādējādi lietotāji jūsu organizācijā var
+Microsoft To Do atbalsta sarakstu koplietošanu starp personiskajiem un darba kontiem. Tas ļauj lietotājiem jūsu organizācijā
 
-Pievienojieties, skatiet, modificējiet un pievienojiet datus sarakstiem, kas pieder personiskajiem Microsoft kontiem.
+pievienoties, skatīt, modificēt un pievienot datus personiskajiem Microsoft kontiem piederošiem sarakstiem;
 
-Administrators var izmantot jaunu administratora iestatījumu, lai atspējotu šo līdzekli, un pēc tam pārbaudot opciju.
+Administratoriem ir pieejams jauns administratora iestatījums, lai to atspējotu, noņemiet atzīmes no šīs opcijas.
 
-Administrators var atrast šo iestatījumu administrēšanas portālā sadaļā **iestatījumu**  >  **organizācijas iestatījumu**  >  **pakalpojumi**  >  **, ko Microsoft var veikt** .  
+Administrators šo iestatījumu var atrast administrēšanas portālā sadaļā Iestatījumi   >  **organizācijas Iestatījumi**  >  **pakalpojumi**  >  **Microsoft To Do.**  
 
 [Kāpēc nevar pievienoties koplietojamam sarakstam?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

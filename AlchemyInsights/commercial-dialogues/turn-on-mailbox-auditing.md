@@ -1,5 +1,5 @@
 ---
-title: Pastkastes auditēšanas ieslēgšana
+title: Pastkastes auditēšanas ieslēdzšana
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058045"
 ---
-# <a name="turn-on-mailbox-auditing"></a>Pastkastes auditēšanas ieslēgšana
+# <a name="turn-on-mailbox-auditing"></a>Pastkastes auditēšanas ieslēdzšana
 
-Lai ieslēgtu pastkastes auditēšanu vienam lietotājam vai visai organizācijai, palaidiet šādas cmdlet no attālas PowerShell:
+Lai ieslēgtu pastkastes auditēšanu atsevišķam lietotājam vai visai organizācijai, attālajā PowerShell izpildiet šādas cmdlet:
 
-- **Viens lietotājs**: Set-Mailbox-Identity "Jane Dow"-AuditEnabled $TRUE
-- **Organizācija**: Get-Mailbox-ResultSize Unlimited-Filter {RecipientTypeDetails-EQ "UserMailbox"} | Set-Mailbox-AuditEnabled $true
+- **Atsevišķs** lietotājs: Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
+- **Organizācija:** Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
 
-Papildinformāciju skatiet rakstā [pastkastes auditēšanas pārvaldība](https://go.microsoft.com/fwlink/?linkid=2103668).
+Papildinformāciju skatiet rakstā [Pastkastes auditēšanas pārvaldība.](https://go.microsoft.com/fwlink/?linkid=2103668)
