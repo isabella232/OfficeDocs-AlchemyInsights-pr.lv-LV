@@ -1,5 +1,5 @@
 ---
-title: Outlook.com mainīšana pastkastes izskatu
+title: Outlook.com pastkastes izskatu maiņa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096485"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Outlook.com pastkastes izskata mainīšana
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Savas Outlook.com pastkastes izskats
 
-Varat mainīt ziņojumu saraksta un lasīšanas rūts izskatu programmā Outlook.com.
+Ziņojumu sarakstā un lasīšanas rūtī vietnē Outlook.com var mainīt izskatu.
 
-- Lai mainītu ziņojuma loga izkārtojumu, atveriet [lasīšanas rūts](https://outlook.live.com/mail/options/mail/layout/readingPane) opcijas.
-- Lai mainītu e-pasta kārtošanas veidu, ziņojumu saraksta augšdaļā atlasiet **Filtrēt**  >  **Kārtot pēc** un izvēlieties, kā vēlaties kārtot savu e-pastu.
-- Lai ziņojumus grupētu pēc sarunas, atveriet [ziņojumu organizācijas](https://outlook.live.com/mail/options/mail/layout/conversations) opcijas.
-- Lai ieslēgtu vai izslēgtu svarīgo ziņojumu iesūtni, atveriet [izkārtojuma](https://outlook.live.com/mail/options/mail/layout/focused) opcijas.
+- Lai mainītu ziņojuma loga izkārtojumu, atveriet lasīšanas [rūts](https://outlook.live.com/mail/options/mail/layout/readingPane) opcijas.
+- Lai mainītu e-pasta kārtošanas veidu, ziņojumu saraksta augšdaļā atlasiet Filtrēt kārtošanu pēc un izvēlieties, kā kārtot  >   e-pastu.
+- Lai grupētu ziņojumus pēc sarunas, atveriet ziņojuma [organizācijas](https://outlook.live.com/mail/options/mail/layout/conversations) opcijas.
+- Lai ieslēgtu vai izslēgtu koncentrēto ziņojumu iesūtni, atveriet [izkārtojuma](https://outlook.live.com/mail/options/mail/layout/focused) opcijas.

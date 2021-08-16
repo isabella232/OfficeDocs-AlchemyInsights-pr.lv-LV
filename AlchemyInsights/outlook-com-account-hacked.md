@@ -1,5 +1,5 @@
 ---
-title: 8000039 Outlook.com konta uzlauzts
+title: 8000039 Outlook.com konts ir uzlauzts
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: b7f72921e6eddddff0fa9e95dd28006a50780c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17129583b48db457d8cec814b8fde19888a720e4878ba35d60088e381d63927c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096557"
 ---
-# <a name="outlookcom-account-hacked"></a>Outlook.com konts uzlauzts
+# <a name="outlookcom-account-hacked"></a>Outlook.com konts ir uzlauzts
 
-Ja jūsu konts ir uzlauzts, izpildiet norādījumus savā [Outlook.com kontā ir uzlauzts](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) , lai atkoptu savu kontu.
+Ja jūsu konts ir uzlauzts, izpildiet rakstā Mans Outlook.com konts ir [uzlauzts,](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) lai atkoptu savu kontu sniegtos norādījumus.
   
-Uzziniet vairāk par [Microsoft 365 abonentu papildu Outlook.com drošību](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Uzziniet vairāk [par papildu Outlook.com drošību Microsoft 365 abonentiem.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)
   

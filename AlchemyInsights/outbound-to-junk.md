@@ -1,5 +1,5 @@
 ---
-title: Izejošais e-pasts mapē Nevēlamais e-pasts
+title: Izejošais e-pasts uz mapi Nevēlamais e-pasts
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096665"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Izejošais e-pasts mapē Nevēlamais e-pasts
+# <a name="outbound-email-to-junk-email-folder"></a>Izejošais e-pasts uz mapi Nevēlamais e-pasts
 
-Ja redzat izejošos ziņojumus, kas ir atzīmēti kā nevēlami, veiciet tālāk norādītās darbības.
+Ja redzat, ka izejošie ziņojumi ir atzīmēti kā nevēlami, veiciet tālāk norādītās darbības.
 
-- Ja vēl neesat to izdarījis, apsveriet iespēju [konfigurēt izejošās surogātpasta politikas paziņojumus](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Ja to vēl neesat paziņojumā, [apsveriet iespēju konfigurēt izejošo surogātpasta politikas paziņojumus.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Izmantojiet [ziņojumu izsekošanu](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) , lai noskaidrotu, vai izejošajam ziņojumam ir **surogātpasta** ziņojums ar papildu detalizētu informāciju: **Izmantojiet High Risk Delivery Pool**.
+- Izmantojiet [ziņojumu izsekošanu,](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) lai uzzinātu,  vai izejošajam ziņojumam ir notikuma vērtība Surogātpasts, ar papildu informāciju: augsta riska **piegādes pūla izmantošana.**
 
-  Lai skatītu šos ziņojumus, atzīmējiet ziņojuma saturu, lai noskaidrotu, kas varētu būt surogātpasts. Piemēram, paraksti dažreiz var izraisīt problēmas daudziem lietotājiem.
+  Šo ziņojumu gadījumā pārbaudiet ziņojuma saturu, lai redzētu, kas varētu tikt uzskatīts par surogātpastu. Piemēram, paraksti dažreiz var radīt problēmas daudziem lietotājiem.
 
-  Ja jums ir vairāki likumīgi izejošo ziņojumu piemēri, kas tiek atzīmēti kā nevēlamais e-pasts, atveriet atbalsta biļeti un lūdziet atbalstu aģentam iesniegt savus ziņojumus kā viltus pozitīvi mūsu surogātpasta analītiķiem. Sagatavojiet ziņojumu paraugu, kas ietver visas ziņojumu galvenes.
+  Ja jums ir vairāki tādu izejošo ziņojumu piemēri, kas tiek atzīmēti kā nevēlami, atveriet atbalsta biļeti un lūdziet atbalsta dienesta pārstāvim iesniegt jūsu ziņojumus kā aplami pozitīvus ziņojumus mūsu surogātpasta analītiķiem. Sagatavojieties sniegt ziņojumu paraugus, kuros ir visas ziņojumu galvenes.

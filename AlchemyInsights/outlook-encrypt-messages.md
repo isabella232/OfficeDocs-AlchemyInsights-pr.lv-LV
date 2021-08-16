@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef87baafdbaf9346f99f1ff54aaa83bc9173c70f1412ea00afb717c15a8014c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010731"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>E-pasta ziņojumu šifrēšana programmā Outlook
 
-Microsoft 365 ziņojumu šifrēšana ir veidota Microsoft Azure Rights Management (Azure RMS), kas ir Azure Information Protection daļa. Ja jūsu abonementā ir iekļauta Azure Rights Management vai Azure Information Protection, **jums nav jāveic nekādas darbības, lai manuāli iespējotu vai aktivizētu** tiesību pārvaldības pakalpojumu.
+Microsoft 365 Ziņojumu šifrēšanas pamatā ir Microsoft Azure Rights Management (Azure RMS), kas ir daļa no Azure informācijas aizsardzības. Ja jūsu abonementā ietilpst Azure Rights Management vai Azure informācijas **aizsardzība,** nav jāveic nekādas darbības, lai manuāli iespējotu vai aktivizētu tiesību pārvaldības pakalpojumu.
 
-Ņemot vērā klientu atsauksmes, mēs vairs neiespējojam Exchange pasta plūsmas kārtulas, lai automātiski šifrētu izejošos e-pasta ziņojumus, kuros nomniekā ir noteikta veida konfidenciāla informācija. Tā vietā mēs sniedzam detalizētus norādījumus par to, kā varat to izdarīt pats. Papildinformāciju par to, kā izveidot transporta kārtulu, lai šifrētu sensitīvu informāciju, skatiet [šajā rakstā](https://aka.ms/OmeEtr).
+Ņemot vērā klientu atsauksmes, mēs vairs neiespējosim Exchange pasta plūsmas kārtulas, lai automātiski šifrētu izejošo e-pastu, kas satur noteikta veida sensitīvu informāciju jūsu nomniekā pēc noklusējuma. Tā vietā mēs sniedzam detalizētus norādījumus par to, kā jūs to varat izdarīt. Papildinformāciju par to, kā izveidot transporta kārtulu sensitīvas informācijas šifrēšanai, skatiet [šajā rakstā.](https://aka.ms/OmeEtr)
 
-- Ja izmantojat Outlook tīmeklī (iepriekš **OWA**): veidojot e-pasta ziņojumu, vienkārši noklikšķiniet uz **aizsargāt** OWA. Tas attieksies uz "Nepārsūtīt" atļauju. Noklikšķiniet uz **mainīt atļaujas** un izvēlieties **Šifrēt** , lai šifrētu tikai šo ziņojumu.
+- Ja tīmeklī Outlook (iepriekš **OWA):** sastādot e-pasta ziņojumu, vienkārši noklikšķiniet uz **Aizsargāt** OWA. Tiks lietota atļauja "Nepārsūta". Noklikšķiniet **uz Mainīt atļauju** un izvēlieties **Šifrēt,** lai šifrētu tikai ziņojumu.
 
-- Ja izmantojat **Outlook klientu**: lai nosūtītu šifrētu ziņojumu no programmas Outlook 2013 vai 2016, vai Outlook 2016 darbam ar Mac, atlasiet **opciju**  >  **atļaujas**un pēc tam atlasiet vajadzīgo aizsardzības opciju.
+- Ja izmantojat **Outlook** klientu: lai nosūtītu šifrētu ziņojumu no programmas Outlook 2013 vai 2016 vai Outlook 2016 for Mac, atlasiet Opciju atļaujas , pēc tam atlasiet nepieciešamo  >  aizsardzības opciju.
 
-- Lai **automātiski šifrētu visus e-pasta** ziņojumus, kas nosūtīti konkrētiem adresātiem vai ārējām partnera organizācijām, ir jāizveido pasta plūsmas transportēšanas kārtula Exchange administrēšanas centrā. Detalizēti norādījumi ir sniegti [šajā atbalsta rakstā](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Lai **automātiski šifrētu visus e-pasta** ziņojumus, kas nosūtīti noteiktiem adresātiem vai ārējām partneru organizācijām, jums jāizveido pasta plūsmas transporta kārtula Exchange centrā. Detalizēti norādījumi ir sniegti [šajā atbalsta rakstā.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities)
 

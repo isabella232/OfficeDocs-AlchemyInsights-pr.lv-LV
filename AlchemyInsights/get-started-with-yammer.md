@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002301"
 ---
 # <a name="get-started-with-yammer"></a>Darba sākšana ar Yammer
 
-Yammer ir labākais klasē, drošā un privātajā Enterprise sociālais tīkls. Yammer nodrošina saistošu un vienkārši lietojamu pieredzi tīmeklī un Yammer lietojumprogrammā Android un iOS ierīcēs. Yammer var integrēt ar Microsoft Teams un Outlook. Yammer piedāvā arī atjauninātu integrācijas pieredzi pakalpojumā SharePoint Online.
+Yammer ir class-in-class, secure, and private enterprise social network. Yammer nodrošina interesantu un ērti lietojamu pieredzi tīmeklī un Yammer darbam ar Android un iOS ierīcēm. Yammer var integrēt ar Microsoft Teams un Outlook. Yammer nodrošina arī atjauninātas integrācijas iespējas programmā SharePoint Online.
 
-Izmantojiet Yammer izvietošanas padomnieku, lai sagatavotu savu Yammer tīklu, pievienojot domēnus, definējot administratorus un apvienojot Yammer tīklus. Izvietojiet Yammer un pēc tam pielāgojiet izskatu, konfigurējiet drošību un atbilstību, kā arī precizējiet iestatījumus.
+Izmantojiet Yammer padomnieku, lai sagatavotu savu Yammer tīklu, pievienojot domēnus, definējot administratorus un apvienojot Yammer tīklus. Izvietojiet Yammer un pēc tam pielāgojiet izskatu, konfigurējiet drošību un atbilstību, kā arī precizējiet iestatījumus.

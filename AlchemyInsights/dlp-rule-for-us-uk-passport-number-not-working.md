@@ -1,5 +1,5 @@
 ---
-title: DLP rules ASV/Apvienotās Karalistes pases numurs nedarbojas
+title: DLP kārtula ASV/UK pases numuram nedarbojas
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004953"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problēmas ar DLP-US/UK Passport numuriem
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problēmas ar DLP — ASV/UK pases numuri
 
 **Svarīgi**: šo bezprecedenta laiku mēs veicam darbības, lai nodrošinātu, ka SharePoint Online un OneDrive pakalpojumi joprojām ir plaši pieejami. Lai iegūtu papildinformāciju, apmeklējiet [SharePoint Online pagaidu līdzekļu pielāgojumi](https://aka.ms/ODSPAdjustments).
 
-**DLP problēmas ar ASV/Apvienotās Karalistes pases numuriem**
+**DLP problēmas ar ASV/UK pases numuriem**
 
-Vai rodas problēmas saistībā ar **datu zuduma novēršanu (DLP)** , kas nestrādā ar saturu, kas ietver **ASV/Apvienotās Karalistes pases numuru** , ja izmantojat datu tipu DLP ar O365? Ja tā ir, pārliecinieties, vai saturs satur nepieciešamo informāciju par DLP politikas izskatu, kad tas tiek novērtēts.
+Vai jums ir problēmas ar datu zuduma novēršanu **(DLP),** kas nedarbojas satur **US/UK** pases numuru, izmantojot DLP sensitīvas informācijas tipu O365? Šādā gadījumā pārliecinieties, vai jūsu saturā ir nepieciešamā informācija par to, ko meklē DLP politika, kad tā tiek novērtēta.
   
-Piemēram, **ASV/Apvienotās Karalistes pases numuru** politikai, kas konfigurēta ar 75% ticamības līmeni, tiek novērtētas un ir jānosaka, ka kārtula tiek aktivizēta
+Piemēram, **ASV/UK** pases numura politikai, kas konfigurēta ar 75% ticamības līmeni, tiek novērtētas tālāk minētās vērtības, un tās ir jānosaka, lai kārtula aktivizētu
   
 - **[Formāts:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Deviņi cipari
 
 - **[Modelis:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Deviņi secīgi cipari
 
-- **[Kontrolsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nē, nav kontrolsummas
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nē, nav nevienas checksum
 
-- **[Definīcija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** DLP politika ir 75% pārliecināts, ka tā ir atklājusi šādu sensitīvas informācijas tipu, ja 300.
+- **[Definīcija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** DLP politika ir 75% droša, ka tā konstatē šāda veida sensitīvo informāciju, ja tuvumā ir 300 rakstzīmes:
 
-  - Funkcija Func_usa_uk_passport atrod saturu, kas atbilst rakstam.
+  - Funkcija Func_usa_uk_passport atrod modelim atbilstošu saturu.
 
-  - Ir atrasts atslēgvārds no Keyword_passport.
+  - Tiek atrasts atslēgvārds Keyword_passport no meklēšanas.
 
-    Piemēram, tālāk sniegtais piemērs izraisa **ASV/Apvienotās Karalistes pases numuru** politiku: ASV pases numurs 123456789
+    Piemēram, šajā piemērā **ASV/UK** pases numura politika ir trigeris: ASV pases numura 123456789
 
-Lai iegūtu papildinformāciju par to, kas ir nepieciešams ASV/Apvienotās Karalistes pases numura satura noteikšanai, skatiet šī raksta nākamajā sadaļā: [kādi ir sensitīvo informācijas tipi meklēt ASV/Apvienotās Karalistes pases numuru](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+Lai iegūtu papildinformāciju par to, kas ir nepieciešams, lai ASV/APVIENOTĀS KARALISTES pases numuru noteiktu jūsu saturam, skatiet šī raksta sadaļu: Ko sensitīvas informācijas tipi meklē [ASV/Apvienotās Karalistes pases numuram](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-Citas iebūvētas sensitīvas informācijas tipa izmantošana ir atrodama šajā rakstā, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: [ko nozīmē sensitīvie informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Izmantojot citu iebūvēto sensitīvās informācijas tipu, skatiet šo rakstu, lai iegūtu informāciju par to, kas ir nepieciešams citiem tipiem: Ko meklē sensitīvās [informācijas tipi](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
