@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf532c2b2ce54a33cfbd122a2b8032d8343df881634d51c507b3c743d7ed1d6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068603"
 ---
 # <a name="troubleshoot-your-printer"></a>Printera problēmu novēršana
 
@@ -27,4 +27,4 @@ Ja rodas problēmas ar printeri, vispirms mēģiniet veikt printera **strāvas c
 2. Uzgaidiet 30 sekundes.
 3. Ievietojiet printera strāvas padeves vadu atpakaļ kontaktligzdā un ieslēdziet printeri.
 
-Ja tas nenovērš problēmu, palaidiet printera problēmu risinātāju, dodoties uz **Rakstu** Iestatījumu atjaunināšanas sākšana  >    >  **& drošības**  >  **problēmu novēršana.** Atlasiet **Printeris** un pēc tam atlasiet **Palaist problēmu risinātāju**.
+Ja tas nenovērš problēmu, palaidiet printera problēmu risinātāju, dodoties uz **Sākt**  >  **Iestatījumi**  >  **Atjaunināšanas & drošības** problēmu  >  **novēršana.** Atlasiet **Printeris** un pēc tam atlasiet **Palaist problēmu risinātāju**.
