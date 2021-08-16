@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 programmu labošana Diemžēl mums ir īslaicīgu servera problēmu ziņojums
+title: Problēmu Microsoft 365 Diemžēl mums ir īslaicīgu servera problēmu ziņojums
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021603"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Microsoft 365 lietojumprogrammu kļūdas ziņojums "Diemžēl mums ir īslaicīgas servera problēmas"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Ar programmu Microsoft 365 "Diemžēl mums ir īslaicīgas servera problēmas"
 
 Ja saņemat šādu ziņojumu, mēģiniet veikt šādas darbības:
 
-1. Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai pārliecinātos, vai nebloķē piekļuvi internetam Microsoft 365 programmām. Skatiet [rakstu URL un IP adrešu diapazoni.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. Pārbaudiet savu ugunsmūri, pretvīrusu programmatūru un starpniekservera iestatījumus, lai pārliecinātos, vai tie nebloķē piekļuvi Microsoft 365 programmām. Skatiet [rakstu URL un IP adrešu diapazoni.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 2. Dodieties **uz Start**  >  **Run** un pēc tam ierakstiet **services.msc**. Pārliecinieties, vai darbojas tālāk sniegtie pakalpojumi.
     - Tīkla savienoto ierīču automātiskā iestatīšana
     - Tīkla saraksta pakalpojums
     - Tīkla atrašanās vietas informētība
-    - Windows notikumu žurnāls
+    - Windows Notikumu žurnāls
 
 Ja kāds no šiem pakalpojumiem nedarbojas, mēģiniet to startēt. Ja rodas problēma, startējot pakalpojumu, palaidiet tālāk norādīto komandu, atverot komandu uzvedni ar paaugstinātām atļaujām:
 
