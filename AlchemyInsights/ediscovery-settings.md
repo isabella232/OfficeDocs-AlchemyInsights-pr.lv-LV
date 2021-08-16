@@ -1,5 +1,5 @@
 ---
-title: E-datu atklāšanas iestatījumi
+title: Ediscovery settings
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101237"
 ---
-# <a name="ediscovery-settings"></a>E-datu atklāšanas iestatījumi
+# <a name="ediscovery-settings"></a>Ediscovery settings
 
-e-datu atklāšanas/satura meklēšana ļauj meklēt, aizturēt un eksportēt saturu no Exchange Online pastkastēm, SharePoint Online un OneDrive darbam vietnēm, Skype darbam sarunām, Microsoft Teams un Microsoft 365 grupām.
+E-datu atklāšanas/satura meklēšana sniedz iespēju meklēt, aizturēt un eksportēt saturu no Exchange Online pastkastēm, SharePoint Online un OneDrive darbam vietnēm, Skype darbam sarunām, Microsoft Teams un Microsoft 365 grupām.
 
-- Ja meklējat e-datu atklāšanas vai satura meklēšanas izvēlnes opcijas, skatiet rakstu [e-datu atklāšanas problēmas](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Uzziniet par atļaujām, kas nepieciešamas e-datu atklāšanas meklēšanai, izmantojot [e-datu atklāšanas meklēšanai nepieciešamās atļaujas](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Ja meklēšana neatgriež gaidītos rezultātus, skatiet rakstu [meklēšana neatgriež gaidītos rezultātus](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ja meklējat e-datu atklāšanas vai satura meklēšanas izvēlnes opcijas, skatiet rakstu [E-datu atklāšanas problēmas](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Iegūstiet informāciju par atļaujām, kas nepieciešamas e-datu atklāšanas meklēšanai, izmantojot e-datu atklāšanas [meklēšanai nepieciešamās atļaujas.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Ja meklēšana neatgriež gaidāmos rezultātus, skatiet rakstu [Meklēšana neatgriež gaidāmos rezultātus.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Papildinformāciju par e-datu atklāšanu skatiet rakstā [e-datu atklāšana](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Papildinformāciju par ediscovery skatiet [rakstā Ediscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

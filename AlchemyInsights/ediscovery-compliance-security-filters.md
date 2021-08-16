@@ -1,5 +1,5 @@
 ---
-title: Satura meklēšanas/eksportēšanas laikā netiek atgriezti rezultāti
+title: Satura meklēšanas/eksportēšanas laikā netiek atgriezti nekādi rezultāti
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101273"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Satura meklēšanas/eksportēšanas laikā netiek atgriezti rezultāti
+# <a name="no-results-returned-during-content-searchexport"></a>Satura meklēšanas/eksportēšanas laikā netiek atgriezti nekādi rezultāti
 
-Ja rodas problēmas ar šādiem e-datu atklāšanas scenārijiem:
+Ja rodas problēmas saistībā ar šādiem e-datu atklāšanas scenārijiem:
 
-- Satura meklēšana/eksportēšana neatgriež datus vai negaidītus datus
-- e-datu atklāšanas meklēšana vai eksportēšana nav sekmīga
+- Satura meklēšana/eksportēšana neatgriež datus vai neparedzētus datus
+- E-datu atklāšanas meklēšana vai eksportēšana neizdodas
 
-To var izraisīt daži atbilstības drošības filtri, ko iestatīja konkrēts administrators un kas nav paziņoti visiem administratoriem.
+Tas var rasties noteiktu atbilstības drošības filtru dēļ, kurus iestata konkrēts administrators, un par to netiek paziņots visiem administratoriem.
 
-Lai atrisinātu šo problēmu, pārbaudiet, vai pastāv atbilstības drošības filtri, kas var izraisīt šādas problēmas:
+Lai novērstu šo problēmu, pārbaudiet, vai ir kāds atbilstības drošības filtrs, kas varētu izraisīt šīs problēmas:
 
-1. Savienojuma izveide ar drošības un atbilstības centra PowerShell
-2. Palaidiet šādu commandlets:
+1. Savienošana uz drošības un atbilstības centra Powershell
+2. Palaidiet šādus komandsīklietotņus:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Papildu informāciju par atbilstības drošības filtriem skatiet rakstā [atļauju filtrēšana satura meklēšanai](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Papildinformāciju par atbilstības drošības filtriem skatiet [rakstā Satura meklēšanas atļauju filtrēšana.](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

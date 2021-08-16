@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032277"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Koplietošanas politikas izveide, lai ļautu lietotājiem kopīgot kalendāru ar personām ārpus organizācijas
 
-1. Microsoft 365 administrēšanas centra informācijas panelī dodieties uz **Administrēšanas**  >  **Exchange**.
+1. Informācijas panelī Microsoft 365 administrēšanas centrs atveriet **Administrēšanas**  >  **Exchange**.
 2. Dodieties uz **organizācijas**  >  **koplietošanu**.
 3. Saraksta skata sadaļā Atsevišķa **koplietošana noklikšķiniet** uz **Jauns.**
 4. Jaunajā **koplietošanas politikā** ierakstiet draudzīgu koplietošanas politikas nosaukumu lodziņā **Politikas** nosaukums.
@@ -41,5 +41,5 @@ ms.locfileid: "51816279"
 **Lai pilnībā izprastu šo tēmu, lūdzu, izlasiet:**
 
 - [Koplietošanas politikas izveide programmā Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Koplietošanas politikas apply a mailboxes in Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Koplietošanas politikas modificēšana, atspējošana vai noņemšana exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Koplietošanas politikas lietošanu pastkastēm programmā Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Koplietošanas politikas modificēšana, atspējošana vai noņemšana Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
