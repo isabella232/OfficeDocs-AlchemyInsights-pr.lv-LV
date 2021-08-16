@@ -1,5 +1,5 @@
 ---
-title: Problēmas ar sertifikātiem
+title: Problēmas saistībā ar sertifikātiem
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027903"
 ---
-# <a name="issues-with-certificates"></a>Problēmas ar sertifikātiem
+# <a name="issues-with-certificates"></a>Problēmas saistībā ar sertifikātiem
 
-Norādījumus par problēmu novēršanu saistībā ar sertifikātiem skatiet šajos rakstos:
+Lai iegūtu norādījumus par problēmu novēršanu saistībā ar sertifikātiem, skatiet šos rakstus:
 
-- [Darba sākšana ar sertifikātu autentifikāciju Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  — darbības, kas jāveic, lai konfigurētu un izmantotu sertifikātu autentifikāciju nomnieku lietotājiem pakalpojumā Office 365 Enterprise, Business, EDUCATION un US Government plāni.
+- [Darba sākšana](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) ar autentifikāciju, kuras pamatā ir sertifikāts programmā Azure Active Directory — darbības, lai konfigurētu un izmantotu autentifikāciju, kuras pamatā ir sertifikāts, nomnieku lietotājiem Office 365 Enterprise, Business, Education un US Government plānos.
 
-- [AZURE AD Certificate-Based autentifikācijas problēmu novēršana](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  — informācija, kas palīdzēs novērst ar sertifikātu pamatotās autentifikācijas problēmas.
+- [Azure AD Certificate-Based autentifikācijas problēmu novēršana](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  — informācija, lai palīdzētu novērst autentifikācijas problēmas, kuru pamatā ir sertifikāts.
 
-- [Integrētās vienotās pierakstīšanās sertifikātu pārvaldība Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  — bieži uzdotie jautājumi un informācija, kas saistīta ar sertifikātiem, ko Azure Active Directory (Azure AD) izveido, lai izveidotu integrētās vienotās pierakstīšanās (SSO) programmatūras kā pakalpojuma (SAN) lietojumprogrammas.
+- Federatīvās [vienotās](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) pierakstīšanās sertifikātu pārvaldība programmā Azure Active Directory — bieži uzdotie jautājumi un informācija par sertifikātiem, ko Azure Active Directory (Azure AD) izveido, lai izveidotu federatīvu vienoto pierakstīsību (SSO) jūsu programmatūrai kā pakalpojuma (SaaS) lietojumprogrammas.
 
-- [Papildu sertifikāta parakstīšanas opcijas SAML pilnvarā galerijās Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  — informācija par Azure AD trīs sertifikātu parakstīšanas opcijām.
+- [Papildu sertifikātu parakstīšanas opcijas SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) marķierī galerijas programmām programmā Azure Active Directory — uzziniet par Azure AD trīs sertifikātu parakstīšanas opcijām.

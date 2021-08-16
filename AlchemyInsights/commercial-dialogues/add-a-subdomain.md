@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 08a5d4a51ee8de1a29607bb04ebc05d85faaddaa
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5cef08bd626ae7362fd3bf33f2f58a7b83b2b7cca7a64ee5abc9efaa546acd72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006351"
 ---
 # <a name="add-a-subdomain"></a>Apakšdomēna pievienošana
 
-Darbības, kas jāveic, lai pievienotu apakšdomēnu, ir tādas pašas kā parasta domēna pievienošanai. 
+Apakšdomēna pievienošanas darbības ir tādas pašas kā parasta domēna pievienošanai. 
 
 > [!IMPORTANT]
-> Lai pievienotu apakšdomēnus, jūsu reģistrētāja tīmekļa vietnē ir jāpārvalda savi DNS iestatījumi. Ja ļausit Microsoft pārvaldīt DNS iestatījumus ar NS ierakstiem, jūs nevarat pievienot apakšdomēnus. 
+> Lai pievienotu apakšdomēnus, jums ir jāpārvalda savi DNS iestatījumi jūsu reģistrētāja tīmekļa vietnē. Ja vēlaties ļaut korporācijai Microsoft pārvaldīt jūsu DNS iestatījumus, izmantojot NS ierakstus, nevarat pievienot apakšdomēnus. 
 
 Lai pievienotu apakšdomēnu, veiciet tālāk norādītās darbības.
 
-1. Administrēšanas centrā pārejiet uz **iestatīšanas > domains**.
-2. Noklikšķiniet uz **Pievienot domēnu**.
-3. Ierakstiet apakšdomēna nosaukumu. Piemēram, ja jums pieder domēns **contoso.com**, jūsu apakšdomēns, iespējams, ir **_London.contoso.com_**.
+1. Administrēšanas centrā naviģējiet uz **Iestatīšanas > domēni.**
+2. Noklikšķiniet **uz Pievienot domēnu.**
+3. Ierakstiet apakšdomēna nosaukumu. Piemēram, ja jums pieder **domēns** contoso.com, iespējams, apakšdomēns **_ir london.contoso.com._**
 4. Noklikšķiniet uz **Tālāk**.
-5. Ja vēlaties iestatīt apakšdomēna tiešsaistes pakalpojumus, turpiniet ar vedni vai
-6. RIf vēlaties izlaist šī apakšdomēna tiešsaistes pakalpojumu iestatīšanu, noklikšķiniet uz **Saglabāt** un closethe logu.
+5. Ja vēlaties apakšdomēnam iestatīt tiešsaistes pakalpojumus, turpiniet, izmantojot vedni OR
+6. RJa apakšdomēna tiešsaistes pakalpojumu iestatīšanu vēlaties izlaist, noklikšķiniet uz **Saglabāt un** aizvērt logu.
 

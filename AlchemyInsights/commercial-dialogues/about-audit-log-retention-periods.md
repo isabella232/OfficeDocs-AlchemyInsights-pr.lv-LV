@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006322"
 ---
 # <a name="about-audit-logs-retention-periods"></a>Par audita žurnālu saglabāšanas periodiem
 
 Audita žurnālu saglabāšanas periods ir atkarīgs no jūsu organizācijas Office 365 abonementa.
 
-- **Office 365 E3**: 90 dienas.
-- **Office 365 E5**: 365 dienas. Vienu gadu ilga saglabāšana pašlaik ir priekšskatījumā.
-- **E3 un Office 365 papildu atbilstības pievienojumprogramma**: 365 dienas. Vienu gadu ilga saglabāšana pašlaik ir priekšskatījumā.
-- Lai reģistrētos priekšskatījuma programmā, iesniedziet pieprasījumu ar Microsoft atbalsta dienestu un iekļaujiet šādu informāciju: **ilgtermiņa Office 365 audita žurnālu privāts priekšskatījums**.
+- **Office 365 E3:** 90 dienas.
+- **Office 365 E5:** 365 dienas. Viena gada saglabāšana pašlaik ir priekšskatījuma režīmā.
+- **E3 un Office 365 uzlabotā atbilstība pievienojumprogrammu:** 365 dienas. Viena gada saglabāšana pašlaik ir priekšskatījuma režīmā.
+- Lai pieteiktos priekšskatījuma programmā, iesniedziet pieprasījumu Microsoft atbalsta vietnē un iekļaujiet tālāk norādīto informāciju, kur sniegts apraksts par to, kas nepieciešama palīdzība: Ilgtermiņa Office 365 **privātā priekšskatījuma priekšskatījums.**
 > [!NOTE]
-> Saglabāšanas periods ir balstīts uz viena lietotāja licenci. Piemēram, ja jūsu organizācijas lietotājam ir E3 licence, audita ieraksti par darbībām, ko veic šis lietotājs, tiek saglabāti 90 dienas. Ja citam lietotājam ir E5 licence, to audita ieraksti tiek saglabāti vienu gadu.
+> Saglabāšanas periods ir balstīts uz lietotāju licencēšanu. Piemēram, ja lietotājam jūsu organizācijā ir E3 licence, šī lietotāja veikto darbību audita ieraksti tiek saglabāti 90 dienas. Ja cits lietotājam ir E5 licence, viņa audita ieraksti tiek saglabāti vienu gadu.
 
-Papildinformāciju skatiet rakstā [bieži uzdotie jautājumi](https://go.microsoft.com/fwlink/?linkid=2115336).
+Papildinformāciju skatiet šajā bieži uzdoto [jautājumu sadaļā.](https://go.microsoft.com/fwlink/?linkid=2115336)
