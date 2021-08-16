@@ -1,5 +1,5 @@
 ---
-title: Drošas pielikumu politikas iestatīšana pakalpojumā Microsoft Defender darbam ar Office 365
+title: Pielikumu politiku Seifs programmatūrā Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 00b939a5ad9ee0349c85c162bf8279c5b1e1a0e5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058549"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Drošas pielikumu politikas iestatīšana pakalpojumā Microsoft Defender darbam ar Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Pielikumu politiku Seifs programmatūrā Microsoft Defender Office 365
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143) un atlasiet **draudu pārvaldības**  >  **politikas**  >  **drošie pielikumi**.
-2. Lai iespējotu šo līdzekli citām slodzēm, atlasiet **ieslēgt Microsoft Defender pakalpojumam Office 365 pakalpojumam SharePoint Online, OneDrive un Microsoft Teams**.
-3. Lai izveidotu jaunu politiku, atlasiet **jauno** ( **+** ) ikonu.
+1. Dodieties [uz Office 365 drošības &](https://go.microsoft.com/fwlink/p/?linkid=2077143) centru un atlasiet **Apdraudējumu pārvaldības**  >  **politika**  >  **Seifs pielikumos**.
+2. Lai iespējotu šo līdzekli citām darba slodzēm, atlasiet Ieslēgt Microsoft Defender Office 365 programmatūrai **SharePoint Online, OneDrive u.Microsoft Teams**.
+3. Lai izveidotu jaunu politiku, atlasiet **ikonu Jauns** ( **+** ).
 4. Norādiet politikas nosaukumu, aprakstu un iestatījumus.
 5. Atlasiet **Saglabāt**.

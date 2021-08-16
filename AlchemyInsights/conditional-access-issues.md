@@ -1,5 +1,5 @@
 ---
-title: Ierobežotas piekļuves problēmas
+title: Nosacījum piekļuves problēmas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069971"
 ---
-# <a name="conditional-access-issues"></a>Ierobežotas piekļuves problēmas
+# <a name="conditional-access-issues"></a>Nosacījum piekļuves problēmas
 
-**Problēmu novēršana saistībā ar pierakstīšanās diagnostiku**
+**Ar pierakstīšanās diagnostiku saistītas problēmas**
 
-Varat ātri noskaidrot, kas notika vai diagnosticēt problēmas, kas saistītas ar lietotāja pierakstīšanos, izmantojot [pierakstīšanās diagnostiku](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom):
+Varat ātri noskaidrot, kas noticis vai diagnosticētas problēmas saistībā ar lietotāju pierakstīību, izmantojot [pierakstīšanās diagnostiku:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
 1. Palaidiet pierakstīšanās diagnostiku.
-1. Meklēšanas notikuma atrašana, ievadot detalizētu informāciju par lietotāju, lietojumprogrammu, pierakstīšanās, pieprasījuma ID vai korelācijas ID.
-1. Pārskatiet diagnostikas rezultātus, parādot detalizētu informāciju par to, kas noticis un kādas darbības varat veikt, lai veiktu izmaiņas (ja nepieciešamas izmaiņas).
+1. Atrodiet analizējamu notikumu, ievadot detalizētu informāciju par lietotāju, lietojumprogrammu, pierakstīšanās laiku, pieprasījuma ID vai korelācijas ID.
+1. Pārskatiet diagnostikas rezultātus, parādot detalizētu informāciju par to, kas noticis, un kādas darbības varat veikt, lai veiktu izmaiņas (ja ir nepieciešamas kādas izmaiņas).
 
-**Darbības, kas jāveic, lai novērstu pierakstīšanos** 
+**Darbības, kas jāveic, lai novērstu pierakstīšanās problēmas** 
 
-1. Pārejiet uz Azure AD pierakstīšanās lapu.
-1. Filtrējiet pierakstīšanās pēc lietotāja, laika diapazona, lietojumprogrammas, statusa, klienta lietojumprogrammas un tā tālāk.
-1. Atlasiet pierakstīšanās notikumu un skatiet cilni nosacījuma piekļuve, lai skatītu, kuras politikas ir novērtētas.
-1. Noklikšķiniet uz politikas rindas, lai skatītu detalizētu informāciju par politiku un saprastu, kāpēc tā tiek lietota.
+1. Naviģējiet uz Azure AD pierakstīšanās lapu.
+1. Filtrējiet pierakstīšanās pēc lietotāja, laika diapazona, lietojumprogrammas, statusa, klienta lietojumprogrammas utt.
+1. Atlasiet pierakstīšanās notikumu un skatiet cilni Nosacījuma piekļuve, lai skatītu, kuras politikas tika novērtētas.
+1. Noklikšķiniet uz politikas rindas, lai skatītu detalizētu informāciju par politiku un izprastu tās lietošanas iemeslu.
 
-**Rīki, kas novērš nosacījuma piekļuves politiku**
+**Rīki nosacījum piekļuves politikas problēmu novēršana**
 
-- Tikai atskaišu režīms ļauj novērtēt politiku, neietekmējot lietotājus.
-- Iespēju rīks ļauj simulēt pierakstīšanās notikumus un skatīt, kuras politikas tiek lietotas.
-- Ieskatu un ziņošanas darbgrāmatā parāda katras politikas reāllaika ietekmi.
+- Tikai atskaišu režīms sniedz iespēju novērtēt politiku, neietekmējot lietotājus.
+- Iespēju rīks sniedz iespēju simulēt pierakstīšanās notikumus un skatīt, kuras politikas tiek lietotas.
+- Ieskati un atskaišu izveides darbgrāmatā redzama katras politikas reāllaika ietekme.
 
-**Bāzlīnijas aizsardzības politikas**
+**Bāzlīniju aizsardzības politikas**
 
-Pamata aizsardzības politika ir novecojusi. Tie vairs netiek ieviesti un drīzumā tiks noņemti no Azure portāla. Iesakām iespējot [drošības noklusējumus](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Bāzlīniju aizsardzības politikas ir novecojušas. Tās vairs netiek ieviestas un drīzumā tiks noņemtas no Azure portāla. Iesakām iespējot drošības [noklusējumus.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
-Papildinformāciju par ierobežotu piekļuvi skatiet rakstā:
+Papildinformāciju par nosacījum piekļuvi skatiet rakstā:
 
-[Labākā prakse nosacījuma piekļuvei Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Nosacījuma piekļuves nosacījumi](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Ierobežotas piekļuves vadīklas](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- [Ierobežotas piekļuves atrašanās vietas](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
+[Paraugprakse attiecībā uz nosacījum piekļuvi programmā Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Conditions in Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Vadīklas nosacījumformatēšanas programmā](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
+ [Atrašanās vietas nosacījuma piekļuves](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)

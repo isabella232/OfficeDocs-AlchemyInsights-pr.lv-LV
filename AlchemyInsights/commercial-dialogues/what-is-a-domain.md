@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070007"
 ---
 # <a name="whats-a-domain"></a>Kas ir domēns
 
-Domēns ir jūsu e-pasta adreses daļa, kas ir aiz simbola @. Piemēram, adrešu rob@contoso.com domēns ir **contoso.com**. Lielākā daļa uzņēmumu labprātāk izmanto savu domēna nosaukumu savā e-pasta adresē.
+Domēns ir e-pasta adreses daļa, kas atrodas aiz simbola @. Piemēram, adreses joslā rob@contoso.com domēns ir **contoso.com**. Lielākā daļa uzņēmumu izvēlas savā e-pasta adresē izmantot savu domēna nosaukumu.
 
 Tālāk ir sniegti daži padomi par domēniem.
 
-- Varat iegādāties domēna nosaukumu no korporācijas Microsoft. Šādā veidā jums būs pielāgota e-pasta adrese.
-- Vai arī varat vienkārši pievienot domēnu, kas jau pieder pakalpojumam Office 365.
+- Varat iegādāties domēna nosaukumu no Microsoft. Tādējādi jums būs pielāgota e-pasta adrese.
+- Vai arī varat vienkārši pievienot domēnu, kas jums jau pieder Office 365.
 
-Lai iegūtu papildinformāciju, [skatiet šo lielisko video](https://www.youtube.com/watch).
+Lai iegūtu papildinformāciju, [noskatieties šo lielisko video](https://www.youtube.com/watch).

@@ -1,5 +1,5 @@
 ---
-title: 725, izmantojot e-pasta aizstājvārdu mobilajā ierīcē
+title: 725 E-pasta aizstājvārda izmantošana mobilajā ierīcē
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998359"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>E-pasta aizstājvārdi mobilajās ierīcēs
 
-E-pasta aizstājvārds ir tikai cita e-pasta adrese, kas konfigurēta pastkastē, tāpēc lietotāja aizstājvārdam nosūtītie ziņojumi tiks nogādāti uz viņu pastkasti un būs lasāmi mobilajā ierīcē. Papildu konfigurācija nav nepieciešama.
+E-pasta aizstājvārds ir tikai cita e-pasta adrese, kas ir konfigurēta pastkastē, tāpēc uz lietotāja aizstājvārdu nosūtītie ziņojumi tiks nogādāti lietotāja pastkastē un būs lasāmi mobilajā ierīcē. Nav nepieciešama papildu konfigurācija.
 
-Taču lietotājs nevar atbildēt uz ziņojumiem vai sūtīt jaunus ziņojumus, izmantojot aizstājvārdu kā savu adresi. Visi izejošie ziņojumi būs no viņu primārās e-pasta adreses.
+Taču lietotājs nevar atbildēt uz ziņojumiem vai sūtīt jaunus ziņojumus, kā savu adresi nosūtot aizstājvārdu. Visi izejošie ziņojumi tiek sūtīti no primārās e-pasta adreses.
