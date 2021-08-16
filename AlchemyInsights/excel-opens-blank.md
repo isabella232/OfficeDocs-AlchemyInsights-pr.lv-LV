@@ -1,5 +1,5 @@
 ---
-title: Programma Excel tiek atvērta tukša
+title: Excel tiek atvērts tukšs
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 49ea6d553c844d0b655695736f5c492f9884b288b5ce642c21859f2a3a235268
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029775"
 ---
-# <a name="excel-opens-blank"></a>Programma Excel tiek atvērta tukša
+# <a name="excel-opens-blank"></a>Excel tiek atvērts tukšs
 
-Ja programma Excel tiek startēta, bet parāda tukšu ekrānu, kurā paredzēts, ka fails tiks parādīts, skatiet rakstu Problēmu novēršana programmā Excel, atverot tukšu failu, kad veiciet dubultklikšķi uz faila ikonas [vai faila nosaukuma.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
+Ja Excel, bet tiek parādīts tukšs ekrāns, kurā paredzēts, ka fails tiks parādīts, skatiet rakstu Problēmu novēršana, Excel atverot tukšu, veicot dubultklikšķi uz faila ikonas vai [faila nosaukuma.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
