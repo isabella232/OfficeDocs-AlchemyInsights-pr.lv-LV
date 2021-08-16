@@ -1,5 +1,5 @@
 ---
-title: Kā pārvaldīt programmu
+title: Programmas pārvaldība
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002091"
 ---
-# <a name="how-to-manage-an-app"></a>Kā pārvaldīt programmu
+# <a name="how-to-manage-an-app"></a>Programmas pārvaldība
 
-Lai pārvaldītu lietojumprogrammu:
+Lai pārvaldītu programmu:
 
-- Sāciet ar [programmu pārvaldību](https://admin.teams.microsoft.com/policies/manage-apps) Microsoft Teams administrēšanas centrā, lai pievienotu savai organizācijai paredzētu programmu.
-- Varat izmantot [programmu atļauju politikas](https://admin.teams.microsoft.com/policies/app-permission) Microsoft Teams administrēšanas centrā, lai atļautu vai bloķētu lietojumprogrammu un piešķirtu to lietotājiem.
-- Lai mainītu lietojumprogrammu, kas tiek rādīta lietotājiem, vai lai piespraustu programmu, izmantojiet [programmu iestatīšanas politikas](https://admin.teams.microsoft.com/policies/app-setup) Microsoft Teams administrēšanas centrā.
+- Lai pievienotu [lietojumprogrammu](https://admin.teams.microsoft.com/policies/manage-apps) jūsu Microsoft Teams, sāciet ar pārvaldīt programmas administrēšanas centrā.
+- Varat izmantot programmu [atļauju politikas administrēšanas](https://admin.teams.microsoft.com/policies/app-permission) Microsoft Teams, lai atļautu vai bloķētu programmu un to piešķirtu lietotājiem.
+- Lai mainītu secību, kā programma tiek prezent izmantota [](https://admin.teams.microsoft.com/policies/app-setup) lietotājiem vai lai piespraustu programmu, izmantojiet programmu iestatīšanas politikas Microsoft Teams centrā.
 
-Lai iegūtu papildinformāciju par programmu politiku izveidi savai organizācijai, skatiet rakstu:
+Papildinformāciju par to, kā izveidot lietojumprogrammu politikas jūsu organizācijai, skatiet šeit:
 
-- [Programmu pārvaldība Microsoft Teams administrēšanas centrā](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Programmu atļauju politikas pārvaldība pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Programmu iestatīšanas politiku pārvaldība pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [Programmu pārvaldība Microsoft Teams centrā](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Programmu atļauju politiku pārvaldība programmā Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Programmu iestatīšanas politiku pārvaldība programmā Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

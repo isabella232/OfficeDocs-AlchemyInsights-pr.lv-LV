@@ -1,5 +1,5 @@
 ---
-title: Outlook.com konts ir bloķēts
+title: Outlook.com konts bloķēts
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ff6abac5ed18750767f76aca158779c5cb3bba1324b0a451987cc37b4b0e239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063923"
 ---
-# <a name="account-locked"></a>Konts ir bloķēts
+# <a name="account-locked"></a>Konts bloķēts
 
-Ja, mēģinot pierakstīties programmā Outlook.com, tiek parādīts ziņojums "jūsu konts ir bloķēts", tas nozīmē, ka jūsu kontā ir dažas neparastas darbības. Lai palīdzētu aizsargāt jūs pret iespējamu krāpšanu vai ļaunprātīgu izmantošanu, mēs esam īslaicīgi bloķējuši jūsu kontu. Mēs zinām, ka tas ir apgrūtinoši, bet mēs varam jums palīdzēt atkal atgriezties savā kontā, veicot tikai dažas darbības.
+Ja, mēģinot pierakstīties vietnē Outlook.com, tiek parādīts ziņojums "Jūsu konts ir bloķēts", tas ir tāpēc, ka esam pamanījuši neparastas darbības jūsu kontā. Lai palīdzētu aizsargāties pret iespējamu krāpšanu un ļaunprātīgu izmantošanu, mēs īslaicīgi bloķējām jūsu kontu. Mēs zinām, ka tas ir kaitinoši, taču varam jums palīdzēt atgriezties savā kontā, izmantojot tikai dažas darbības.
 
-1. Dodieties uz [Account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) un pierakstieties savā slēgtajā kontā.Lai atbloķētu savu kontu, ir jāievada drošības kods, kas tiek nodrošināts teksta ziņojumā no korporācijas Microsoft. Lai saņemtu īsziņu, ir nepieciešams tālrunis, kas atbalsta īsziņu sūtīšanu. Ja jūsu tālrunis neatbalsta īsziņu sūtīšanu, varat lūgt draugam vai ģimenes dalībniekam izmantot savu tālruni. Microsoft nesaglabā šo tālruņa numuru, tāpēc tālruņa numurs, ko izmantojat šī teksta ziņojuma saņemšanai, nav jāsaista ar jūsu kontu.
-2. Ja tiek parādīts ziņojums "pārsniegts lietojuma ierobežojums", dodieties uz [konta atjaunošana](https://go.microsoft.com/fwlink/?linkid=2090483)   un viens no mūsu aģentiem pārskatīs jūsu kontu.
+1. Dodieties [uz account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) un pierakstieties savā bloķētajā kontā. Lai atbloķētu savu kontu, ir jāievada Microsoft īsziņā nodrošinātais drošības kods. Lai saņemtu īsziņu, nepieciešams tālrunis, kas atbalsta īsziņu sūtīšanu. Ja jūsu tālrunis neatbalsta īsziņu sūtni, varat lūgt draugam vai ģimenes loceklim izmantot savu tālruni. Korporācija Microsoft nesaglabā šo tālruņa numuru, tāpēc tālruņa numuram, ko izmantojat, lai saņemtu šo īsziņu, nav jābūt saistītam ar jūsu kontu.
+2. Ja tiek parādīts ziņojums "Pārsniegts lietojuma ierobežojums", dodieties uz Konta [atjaunošana,](https://go.microsoft.com/fwlink/?linkid=2090483) un kāds no mūsu aģentiem pārskatīs jūsu kontu.
 
-Lai uzzinātu vairāk, lasiet rakstu [mana Outlook.com konta atbloķēšana](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Lai uzzinātu vairāk, izlasiet [rakstu Sava Outlook.com konta atbloķēšana](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

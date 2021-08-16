@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile neredz kalendārus, izvēloties pieejamība
+title: Outlook Izvēloties pieejamību, mobilajā ierīcē netiek rādīti kalendāri
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000327"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Neredzat kalendārus, kas tiek gaidīti, izvēloties savu pieejamību
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Izvēloties pieejamību, netiek rādīti mani kalendāri
 
-Ja neredzat gaidītos kalendārus, pārejiet uz sadaļu kalendārs, ekrāna augšējā kreisajā stūrī pieskarieties pie izvēlnes pogas un pārliecinieties, vai ir atlasīti kalendāri, kurus vēlaties redzēt. Izvēloties sūtīšanas pieejamības laiku, tiks parādīti tikai šajā izvēlnē iespējotie kalendāri.
+Ja neredzat kalendārus, ko paredzat, dodieties uz Kalendārs, pieskarieties izvēlnes pogai ekrāna augšējā kreisajā stūrī un pārliecinieties, vai ir atlasīti kalendāri, kurus paredzēts skatīt. Tikai šajā izvēlnē iespējotie kalendāri tiks parādīti, izvēloties laiku nosūtīšanai par pieejamību.

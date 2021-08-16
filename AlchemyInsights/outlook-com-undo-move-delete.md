@@ -1,5 +1,5 @@
 ---
-title: Pārvietot vai dzēst programmā Outlook.com
+title: Atsaukšanas pārvietošana vai dzēšana vietnē Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: ba733325365febb273769869108cc18d360a9fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea6d37c856ed2a4f12b8e65e204a5d24f4d6c998706a66e412806af5d103b2e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000291"
 ---
-# <a name="action-confirmations"></a>Darbību apstiprinājumi
+# <a name="action-confirmations"></a>Darbības apstiprinājumi
 
-Ja nejauši esat pārvietojis vai izdzēsis ziņojumu programmā Outlook.com, šo darbību varat atsaukt. Dialoglodziņš atsaukšana tiek parādīts ekrāna apakšdaļā aptuveni 5 sekundes. Atlasiet **Atsaukt** , lai atceltu darbību pārvietot vai dzēst.
+Ja nejauši esat pārvietojis vai izdzēsis ziņojumu vietnē Outlook.com, varat atsaukt šo darbību. Atsaukšanas dialoglodziņš tiek parādīts ekrāna apakšdaļā aptuveni 5 sekundes. Atlasiet **Atsaukt,** lai atceltu pārvietošanas vai dzēšanas darbību.
 
-Šo līdzekli varat izslēgt [darbību apstiprinājumos](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Iestatījumu iestatījumi**  >  **Visu Outlook iestatījumu skatīšana**  >  **Vispārīgā informācija**  >  **Paziņojumi**).
+Šo līdzekli varat izslēgt darbību [apstiprinājumos](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Iestatījumi**  >  **Visu Outlook iestatījumu skatīšana**  >  **Vispārīgi**  >  **Paziņojumi**).
 
-Piezīme: kad ziņojums ir nosūtīts, šo darbību nevar atsaukt. Lai iegūtu papildinformāciju, skatiet rakstu [es vēlos atsaukt ziņojumu programmā Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Piezīme. Kad ziņojums ir nosūtīts, šo darbību nevar atsaukt. Papildinformāciju skatiet [rakstā Vēlos atsaukt ziņojumu vietnē Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063959"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nesaņem Facebook kodus, izmantojot Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Facebook kodu saņemšana, izmantojot Outlook.com
 
-Ja esat pieprasījis jaunu paroli no Facebook, bet nesaņēma paroles atiestatīšanas e-pastu:
+Ja pieprasījāt jaunu paroli no Facebook, bet nesaņēma paroles atiestatīšanas e-pasta ziņojumu:
 
-- Pārbaudiet [mapi surogātpasts vai Nevēlamais e-pasts](https://outlook.live.com/mail/junkemail).
-- Vēlreiz mēģiniet [Atiestatīt savu Facebook paroli](https://aka.ms/facebook-password-reset).
+- Pārbaudiet [surogātpasta vai nevēlamā e-pasta mapi.](https://outlook.live.com/mail/junkemail)
+- Mēģiniet [vēlreiz atiestatīt savu Facebook paroli.](https://aka.ms/facebook-password-reset)
 
-Ja nevarat atiestatīt savu paroli, jo nevarat piekļūt savam kontam, izmantojot e-pasta adresi vai mobilā tālruņa numuru, izmēģiniet [Facebook paroles atiestatīšanas padomus](https://aka.ms/facebook-password-help).
+Ja nevarat atiestatīt savu paroli, jo nevarat piekļūt e-pastam vai mobilā tālruņa numuram savā kontā, izmēģiniet [Facebook paroles atiestatīšanas Padomi.](https://aka.ms/facebook-password-help)
