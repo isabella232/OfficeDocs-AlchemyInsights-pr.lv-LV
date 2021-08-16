@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044995"
 ---
 # <a name="configure-and-customize-applications"></a>Lietojumprogrammu konfigurēšana un pielāgošana
 
 **Lietojumprogrammu konfigurēšana**
 
-1. [Quickstart: lietojumprogrammas rekvizītu konfigurēšana savā Azure Active Directory (AZURE AD) nomniekā](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) ir parādīts, kā konfigurēt dažus lietojumprogrammas rekvizītus.
-2. Lai palīdzētu integrēt lietojumprogrammas, izmantojot pakalpojumu Azure Active Directory, mēs esam izveidojuši [apmācību apkopojumu](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , kas palīdzēs jums veikt konfigurēšanu.
-3. [Lietojumprogrammas starpniekservera lietojumprogrammas konfigurēšana](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) palīdz saprast, kā konfigurēt lietojumprogrammas starpniekservera lietojumprogrammu Azure AD, lai lokālās lietojumprogrammas atklātu mākonī.
-4. [Lejupielādējiet PingAccess un konfigurējiet lietojumprogrammu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): izpildiet norādījumus rakstā *PINGACCESS konfigurēšana Azure AD, lai aizsargātu lietojumprogrammas* , kas publicētas, izmantojot Microsoft Azure AD lietojumprogrammas starpniekserveri, ping identitātes vietnē un lejupielādējot jaunāko PingAccess versiju.
+1. [Īsā pamācība: konfigurējiet](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) lietojumprogrammas rekvizītus Azure Active Directory (Azure AD) nomniekā, lai uzzinātu, kā konfigurēt dažus lietojumprogrammas rekvizītus.
+2. Lai palīdzētu integrēt jūsu lietojumprogrammas Azure Active Directory, [](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) mēs esam izstrādājuši apmācību kolekciju, kurā ir izstrādāta konfigurēšana.
+3. [Lietojumprogrammas starpniekservera lietojumprogrammas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) konfigurēšana palīdz jums saprast, kā konfigurēt lietojumprogrammas starpniekservera lietojumprogrammu azure AD, lai atklātu lokālās lietojumprogrammas mākonī.
+4. [Lejupielādējiet PingAccess](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)un konfigurējiet savu lietojumprogrammu: Izpildiet rakstā *Azure AD PingAccess* konfigurēšana sniegtos norādījumus, lai aizsargātu lietojumprogrammas, kas publicētas, izmantojot Microsoft Azure AD lietojumprogrammu starpniekserveri ping identitātes tīmekļa vietnē, un lejupielādējiet jaunāko PingAccess versiju.
 
-**Nepareizi konfigurētas lietojumprogrammu (AADSTS650056) kļūdas**
+**Nepareizi konfigurētas lietojumprogrammas (AADSTS650056) kļūdas**
 
-1. Pārliecinieties, vai piekļūstat lietojumprogrammai no lietojumprogrammas īpašnieka nodrošinātās pierakstīšanās adreses. Pretējā gadījumā pierakstieties lietojumprogrammā, izmantojot parasto procesu. Vairumā gadījumu tas tiks automātiski atrisināts dabiski. Ja tā nav, šī ziņa var palīdzēt novērst un atrisināt to.
-2. **Ja jūsu organizācijai pieder lietojumprogramma** (tas nozīmē, ka lietojumprogrammas reģistrācija ir jūsu organizācijā):
-    - Vismaz mēs iesakām `User.Read` `openid` Pievienot vai pilnvaroto atļauju no **Microsoft Graph** .
-    - Nodrošiniet, lai lietojumprogramma un visas tās atļaujas tiktu sūtītas. Varat to pārbaudīt, aplūkojot **API atļauju** lietojumprogrammas reģistrācijas kolonnas **statusu** .
-    - Dažos scenārijos lietojumprogramma var būt trešās puses, taču tā var būt reģistrēta jūsu organizācijā. Apstipriniet, vai šī lietojumprogramma ir norādīta jūsu lietojumprogrammu reģistrācijās (nevis uzņēmuma lietojumprogrammās).
-    - Ja joprojām tiek rādīts šis kļūdas ziņojums. Pēc tam jums, iespējams, būs jāveido 4. **darbībā** aprakstītais piekrišanas vietrādis URL.
-3. **Ja jūsu organizācija nav lietojumprogrammas īpašnieks un izmanto to kā trešo personu lietojumprogrammu**:
-    - Ja esat globālais/uzņēmuma administrators, jums ir jābūt redzamam piekrišanas ekrānam. Pārliecinieties, vai ir atzīmēta izvēles rūtiņa **"piekrišana organizācijas vārdā"**.
-    - Ja neredzat ekrānu piekrišana, izdzēsiet uzņēmuma lietojumprogrammu un mēģiniet vēlreiz.
-    - Ja joprojām tiek rādīts šis kļūdas ziņojums. Pēc tam jums, iespējams, būs jāveido 4. **darbībā** aprakstītais piekrišanas vietrādis URL.
-4. **Manuāli izveidot piekrišanas vietrādi URL, kas jāizmanto**: ja lietojumprogramma ir izstrādāta, lai piekļūtu noteiktam resursam, iespējams, nevarēsit izmantot pogas apstiprinājums no Azure portāla, jums ir manuāli jāģenerē sava piekrišana un jāizmanto šis.
-    - Jums ir jāiegūst `{App-Id}` un `{App-Uri-Id}` no lietojumprogrammas īpašnieka. `{Tenant-Id}` būs jūsu nomnieka identifikators. Šī darbība būs `yourdomain.onmicrosoft.com` vai jūsu DIREKTORIJA ID.
-    - Ja lietojumprogramma piekļūst resursam, tad `{App-Id}` un `{App-Uri-Id}` būs tas pats.
-5. Papildinformāciju skatiet rakstā problēmas, [Pierakstoties SAML vienotās pierakstīšanās programmas](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application).
+1. Pārliecinieties, vai piekļūstat programmai no lietojumprogrammas īpašnieka nodrošinātās pierakstīšanās adreses. Pretējā gadījumā pierakstieties lietojumprogrammā, veicot standarta procesu. Vairākumā gadījumu tā automātiski tiek atrisināta dabiski. Ja tā nenotiek, šī ziņa var palīdzēt novērst problēmas un novērst problēmu.
+2. **Ja jūsu organizācijai pieder programma** (kas nozīmē, ka pieteikuma reģistrācija ir jūsu organizācijā):
+    - Mēs iesakām vismaz pievienot `User.Read` Microsoft Graph `openid` pilnvaroto atļauju. 
+    - Pārliecinieties, vai lietojumprogrammai un visām tās atļaujām tiek piekrists. To var pārbaudīt, apskatot **lietojumprogrammas** reģistrācijas kolonnu Statuss **API atļauju ietvaros.**
+    - Dažos scenārijos programma var būt trešā puse, tomēr tā var būt reģistrēta jūsu organizācijā. Pārbaudiet, vai šī lietojumprogramma ir norādīta jūsu programmu reģistrācijās (nevis Enterprise lietojumprogrammās).
+    - Ja joprojām tiek rādīts šis kļūdas ziņojums. Pēc tam, iespējams, būs jāveido piekrišanas URL, kas aprakstīts **4. darbībā.**
+3. **Ja jūsu organizācija nav lietojumprogrammas īpašnieks un izmanto to kā trešās puses lietojumprogrammu:**
+    - Ja esat globālais/uzņēmuma administrators, vajadzētu būt redzamam piekrišanas ekrānam. Pārliecinieties, vai ir atzīmēta **izvēles rūtiņa "Piekrišana jūsu organizācijas vārdā".**
+    - Ja neredzat piekrišanas ekrānu, izdzēsiet Enterprise lietojumprogrammu un mēģiniet vēlreiz.
+    - Ja joprojām tiek rādīts šis kļūdas ziņojums. Pēc tam, iespējams, būs jāveido piekrišanas URL, kas aprakstīts **4. darbībā.**
+4. **Manuāli izveidojiet** izmantojamo piekrišanas URL. Ja lietojumprogramma ir paredzēta, lai piekļūtu konkrētam resursam, iespējams, nevarēsit izmantot Piekrišanas pogas no Azure portāla, jums būs manuāli jāģenerē savs piekrišanas VIETRĀDIs URL un jāizmanto šis.
+    - Jums būs nepieciešams iegūt `{App-Id}` `{App-Uri-Id}` lietojumprogrammas īpašnieku un tā īpašnieku. `{Tenant-Id}` būs jūsu nomnieka identifikators. Tas būs vai nu `yourdomain.onmicrosoft.com` jūsu direktorija ID.
+    - Ja lietojumprogrammai tiek piekļūts pats resursam, šī lietojumprogramma `{App-Id}` `{App-Uri-Id}` būs tā pati.
+5. Papildinformāciju skatiet [rakstā Problēmas ar pierakstīšanos SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)vienotās pierakstīšanās konfigurētās programmās.
 
 **Lietojumprogrammu pielāgošana**
 
-- [Pievienojiet zīmolu savas organizācijas Azure Active Directory pierakstīšanās lapā](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) — Izmantojiet savas organizācijas logotipu un pielāgotas krāsu shēmas, lai nodrošinātu konsekventu izskatu ar savu Azure Active Directory (Azure AD) pierakstīšanās lapu.
-- [Pievienojiet savu pielāgoto domēna nosaukumu, izmantojot Azure Active Directory portālu](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) — katram jaunajam Azure AD nomniekam ir sākotnējais domēna nosaukums. Jūs nevarat mainīt vai izdzēst sākotnējo domēna nosaukumu, bet varat pievienot savas organizācijas vārdus. Pievienojot pielāgotus domēnu nosaukumus, varat izveidot lietotājiem pazīstamus lietotāju vārdus.
+- [Zīmola pievienošana](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) savas organizācijas Azure Active Directory pierakstīšanās lapā — izmantojiet savas organizācijas logotipu un pielāgotas krāsu shēmas, lai nodrošinātu konsekventu izskatu un darbību jūsu Azure Active Directory (Azure AD) pierakstīšanās lapās.
+- [Pievienojiet savu pielāgoto domēna nosaukumu, izmantojot Azure Active Directory portālu](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – Katram jaunajam Azure AD nomniekam ir sākotnējais domēna nosaukums. Sākotnējo domēna nosaukumu nevar mainīt vai izdzēst, taču varat pievienot savas organizācijas nosaukumus. Pievienojot pielāgotus domēnu nosaukumus, varat izveidot lietotājvārdus, kas ir pazīstami jūsu lietotājiem.

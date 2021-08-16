@@ -1,5 +1,5 @@
 ---
-title: Saziņas politikas konfigurēšana
+title: Saziņas atbilstības politiku konfigurēšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968132"
 ---
-# <a name="configure-communication-compliance-policies"></a>Saziņas politikas konfigurēšana
+# <a name="configure-communication-compliance-policies"></a>Saziņas atbilstības politiku konfigurēšana
 
-Pēc paziņojuma par saderību izlaišanas Microsoft 365 programmā 2020, pārraudzība Office 365 ir novecojusi. Uzraudzības politikas vairs nebūs pieejamas izveidei, un politikas tiks noņemtas, pēc ilgāka laika tikai lasāmai piekļuvei.
+Pēc tam, kad 2020. Microsoft 365. februārī tika izlaista saziņas atbilstība saziņas atbilstībai, Office 365 tiek izņemta no apgrozības. Pārraudzības politikas vairs nebūs pieejamas izveidei, un politikas ar laiku tiks noņemtas pēc ilgāka tikai lasīšanas piekļuves perioda.
 
 > [!IMPORTANT]
-> Ja izmantojat pārraudzību, ņemiet vērā:
+> Ja izmantojat pārraudzības programmu, ņemiet vērā:
 >
-> 1. Sākot no 15. jūnija, 2020, nomniekiem nebūs iespēju izveidot jaunas uzraudzības politikas.
-> 2. Sākot no 31. augusta līdz 2020, pašreizējās politikas pārtrauc jaunu ziņojumu tveršanu.
-> 3. Sākot ar 2020. oktobri, tiek dzēstas pašreizējās politikas.
+> 1. Sākot ar 2020. gada 15. jūniju, nomniekiem nebūs iespējas izveidot jaunas pārraudzības politikas.
+> 2. Sākot ar 2020. gada 31. augustu, esošās politikas pārtrauks jaunu ziņojumu tveršanu.
+> 3. Sākot ar 2020. gada 26. oktobri, esošās politikas tiks izdzēstas.
 
-Mēs aktīvi aicinām klientus, kuri pašlaik pēta vai izmanto pārraudzību pakalpojumā Office 365, lai izmantotu jauno [saziņas līdzekļu risinājumu programmā Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) , lai novērstu saziņas uzraudzības vai regulatīvās prasības ar daudz bagātāku viedo iespēju kopu.
+Mēs aktīvi iesakām klientiem, kuri pašlaik pārlūko vai izmanto Office 365 uzraudzība, lai izmantotu jauno saziņas atbilstības risinājumu programmā [Microsoft 365,](https://go.microsoft.com/fwlink/?linkid=2128593) ņemot vērā jūsu saziņas pārraudzības vai normatīvās prasības ar krietni bagātīgākām intelektisku iespēju iespējām.

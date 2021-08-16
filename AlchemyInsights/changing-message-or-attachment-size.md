@@ -11,19 +11,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be448aea85d2a498f380c628b6a80680cd68ff34852c39568b227ede3f1c2c24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968168"
 ---
 # <a name="changing-message-or-attachment-size"></a>Ziņojuma vai pielikuma lieluma maiņa
 
-Kā Microsoft 365 administrators varat mainīt to lietotāju maksimālo/minimālo lielumu, kurus nosūta lietotāji. To var izdarīt atsevišķiem lietotājiem vai visiem lietotājiem (organizācijas noklusējums). Pēc šī iestatījuma maiņas ir nepieciešamas aptuveni 30 minūtes.
+Kā Microsoft 365 administrators varat mainīt lietotāju sūtīto ziņojumu maksimālo/minimālo lielumu (ieskaitot pielikumus). To var izdarīt atsevišķiem lietotājiem vai visiem lietotājiem (organizācijas noklusējums). Pēc šī iestatījuma maiņas ir nepieciešamas aptuveni 30 minūtes, lai tas stāsies spēkā.
   
-- Lai mainītu noteikta lietotāja ziņojuma lielumu, dodieties uz **administratoru centru** \> **Exchange** \> **adresātu** \> **pastkastēm**. Atlasiet lietotāja pastkasti. Atlasiet rediģēšanas ikonu, atlasiet **pastkastes līdzekļi**un pēc tam sadaļā **ziņojuma lieluma ierobežojumi**izvēlieties **Skatīt detalizētu informāciju** un norādiet jaunu maksimālo ziņojuma lielumu.
+- Lai mainītu noteikta lietotāja ziņojuma lielumu, dodieties uz **Administrēšanas centri,** \> **Exchange** \>  \> **pastkastēs**. Atlasiet lietotāja pastkasti. Atlasiet rediģēšanas ikonu, atlasiet **Pastkastes līdzekļi** un pēc tam sadaļā **Ziņojumu lieluma ierobežojumi** izvēlieties Skatīt detalizētu informāciju un norādiet jaunu maksimālo ziņojuma lielumu. 
 
-- Lai uzzinātu, kā to mainīt visās pastkastēs, lūdzu, skatiet [šo rakstu](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Lai uzzinātu, kā to mainīt visām pastkastēm, skatiet [šo rakstu.](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)
 
-- Lai lasītu par maksimālajiem ierobežojumiem, izmantojot programmu Outlook vai Outlook tīmeklī, skatiet [šo rakstu](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile maksimālais ierobežojums ir 25MB. Lai iegūtu Outlook iOS un Android atbalstu, [noklikšķiniet šeit](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Informāciju par maksimāliem ierobežojumiem, izmantojot Outlook vai Outlook tīmeklī, skatiet [šajā rakstā.](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits) Outlook Mobilās ierīces maksimālais ierobežojums ir 25 MB. Lai saņemtu Outlook iOS un Android atbalstu, noklikšķiniet [šeit.](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)

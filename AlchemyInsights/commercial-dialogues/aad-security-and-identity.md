@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory (Drošība un identitāte)
+title: Azure Active Directory (drošība un identitāte)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995448"
 ---
-# <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (Drošība un identitāte)
+# <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (drošība un identitāte)
 
-Atlasiet kādu no tālāk norādītajām iestatīšanas vadīklām.
+Atlasiet kādu no šīm iestatīšanas palīglīnijām:
 
-- **Azure Active Directory savienojiet** [sinhronizācijas lietotājus ar savu direktoriju](https://go.microsoft.com/fwlink/?linkid=2071310) , konfigurējiet paroļu jaukšanas sinhronizāciju vai tranzīta autentifikāciju, lai lietotāji varētu pierakstīties savā e-pastā un lokālā Active Directory (Domain Controller), izmantojot vienu un to pašu paroli. Varat arī iestatīt Federācijas pierakstīšanos, izmantojot Active Directory Federācijas pakalpojumu (AD FS).
+- **Azure Active Directory Savienošana** [](https://go.microsoft.com/fwlink/?linkid=2071310) sinhronizēt lietotājus savā direktorijā Paroles jaukšanas sinhronizācijas vai tranzīta autentifikācijas konfigurēšana, lai lietotāji varētu pierakstīties savā e-pastā un lokālajā Active Directory (domēna kontrollerī), izmantojot vienu un to pašu paroli. Varat arī iestatīt federācijas pierakstīšanās, izmantojot Active Directory federācijas pakalpojumu (AD FS).
 
-- **Azure līdzekļu** [Azure AD iestatīšanas ceļveža iestatīšanas ceļvedis](https://go.microsoft.com/fwlink/?linkid=2134390) iestata papildu līdzekļus, kas pieejami Azure Active Directory Premium, piemēram, daudzfaktoru autentifikācija, ierīču reģistrācija un drošības pārraudzība.
+- **Azure līdzekļu Azure** [AD iestatīšanas ceļvedis.](https://go.microsoft.com/fwlink/?linkid=2134390) Iestatiet papildu līdzekļus, kas pieejami programmā Azure Active Directory Premium, piemēram, daudzfaktors autentifikāciju, ierīces reģistrāciju un drošības pārraudzību.
