@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 88525fccd6dcde0cb3949e348d1f2a7df3ee7ce7
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52793897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098069"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Drošības Microsoft Intune bāzes datu izmantošana, lai konfigurētu Windows 10 ierīces
 
 Intune drošības bāzes datus, kas palīdz aizsargāt lietotājus un ierīces. Drošības bāzes datu bāzes Windows ar iestatījumiem iepriekš konfigurētām grupām, ko izmanto, lai lietotu zināmu iestatījumu grupu un noklusējuma vērtības, ko iesaka attiecīgās drošības grupas. Izveidojot drošības bāzes datu profilu intune, jūs izveidojat veidni, kas sastāv no vairākiem ierīču konfigurācijas profiliem.
 
-Izvietojot drošības bāzlīnijus lietotāju grupām vai ierīcēm, iestatījumi tiek lietoti ierīcēm, kuras darbojas Windows 10 versijā. Piemēram, Microsoft mobilo ierīču pārvaldības (Mobile Device Management — MDM) drošības bāzlīnija automātiski BitLocker iespējo datu iespējošanu noņemamiem diskiem, pieprasa ierīces atbloķēšanu ar paroli un atspējo pamata autentifikāciju. Ja noklusējuma vērtība jūsu vidē nedarbojas, varat pielāgot bāzes datu bāzes informāciju, lai lietotu iestatījumus.
+Izvietojot drošības bāzlīnijus lietotāju grupām vai ierīcēm, iestatījumi tiek lietoti ierīcēm, kuras darbojas Windows 10 versijā. Piemēram, Microsoft mobilo ierīču pārvaldības (Mobile Device Management — MDM) drošības bāzlīnija automātiski iespējo BitLocker noņemamiem diskiem, pieprasa paroli ierīces atbloķēšanai un atspējo pamata autentifikāciju. Ja noklusējuma vērtība jūsu vidē nedarbojas, varat pielāgot bāzes datu bāzes informāciju, lai lietotu iestatījumus.
 
 Drošības bāzes datu bāzes arī palīdz izveidot drošu darbplūsmu programmā Microsoft 365. Drošības bāzlīnija ietver labāko praksi un ieteikumus iestatījumiem, kas ietekmē drošību. InTune partneri ar Windows grupu, kas izveido bāzes datu bāzes kodus grupas politikām, tāpēc šie ieteikumi ir balstīti uz nepārtrauktām vadlīnijām un plašas pieredzes.
 
