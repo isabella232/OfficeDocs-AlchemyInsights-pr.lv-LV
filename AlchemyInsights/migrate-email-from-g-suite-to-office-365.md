@@ -14,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 2940a9667a52b50a502497b716480c50fa3850ba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8ac14dd4bf73f69ab340ceb7ae1dbeeb7c8b8c021d4a3a53151ab8c62eb268f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066021"
 ---
 # <a name="migrate-email-from-g-suite-to-microsoft-365"></a>E-pasta migrēšana no G Suite uz Microsoft 365
 
-Lai migrētu e-pastu no G Suite uz Microsoft 365, izmantojiet mūsu migrēšanas rīkus e-pasta, kalendāra un kontaktpersonu migrācijai: [Veiciet G Suite migrāciju.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
+Lai migrētu e-pastu no G Suite uz Microsoft 365, izmantojiet mūsu migrēšanas rīkus e-pasta, kalendāra un kontaktpersonu migrēšanai: [Veiciet G Suite migrāciju.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
   

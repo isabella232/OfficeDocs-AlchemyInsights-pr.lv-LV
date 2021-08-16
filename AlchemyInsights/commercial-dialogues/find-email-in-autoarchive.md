@@ -1,5 +1,5 @@
 ---
-title: E-pasta ziņojumu atrašana automātiskā arhivēšana
+title: E-pasta atrašana automātiskajā arhivēšanu
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: ce969ca2d3e07d6b7548cf7a553e8b5bee4799be
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a6a6a311708fc23a63656f5b8ccf572e30bc13dab1728bc3be48ad36aeb35077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017283"
 ---
-# <a name="find-email-in-autoarchive"></a>E-pasta ziņojumu atrašana automātiskā arhivēšana
+# <a name="find-email-in-autoarchive"></a>E-pasta atrašana automātiskajā arhivēšanu
 
-Arhīva fails ir Outlook datu faila (. pst) veids. Pirmoreiz veicot automātisko arhivēšanu, arhīva fails tiek automātiski izveidots: C:\Users\YourUserName\Documents\Outlook Files\archive.pst.
+Arhīva fails ir datu Outlook (.pst) tips. Pirmajā automātiskās arhivēšanas darbības reizē arhīva fails tiek automātiski izveidots: C:\Lietotāji\Jūsu_lietotājvārds\Dokumenti\Outlook Files\archive.pst.
 
-Lai skatītu savu automātisko arhivēšanu:
+Lai skatītu automātisko arhivēšanu:
 
-1. Programmā Outlook izvēlieties cilni **Fails** > **atveriet**  >  **Outlook datu failu**.
-2. Pārlūkojot atrodiet PST faila atrašanās vietu un atveriet to. Tādējādi PST fails tiks pievienots mapju sarakstam.
-3. Varat meklēt iepriekšējo e-pasta ziņojumu mapē.
+1. Programmā Outlook izvēlieties cilni **Fails un** > **atvērt** Outlook  >  **datu failu.**
+2. Pārlūkojiet līdz PST faila atrašanās vietai un atveriet to. Pst fails tiks pievienots mapju sarakstam.
+3. Varat meklēt mapē iepriekšējos e-pasta ziņojumus.
