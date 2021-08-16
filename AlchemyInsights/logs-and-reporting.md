@@ -1,5 +1,5 @@
 ---
-title: Žurnāli un ziņošana
+title: Žurnāli un uzrādīšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004331"
 - "7727"
-ms.openlocfilehash: 7349efb02f8d6ac5d73f6d6cd06eef6308ffe9be
-ms.sourcegitcommit: 117c64e1fbcb5eec04f94eadad71423b974e7b14
+ms.openlocfilehash: 03d77c17622a1aac5ecb035bb5b73efdbbfe5e6b141e6b266eef8783f612c8b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067019"
 ---
-# <a name="logs-and-reporting"></a>Žurnāli un ziņošana
+# <a name="logs-and-reporting"></a>Žurnāli un uzrādīšana
 
-[Azure Active Directory atskaišu izveides biežāk](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) uzdotie jautājumi par pakalpojumu Azure Active Directory (Azure AD). Papildinformāciju skatiet rakstā [Azure Active Directory atskaišu](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)izveide.
+[Azure Active Directory atbildes uz bieži uzdotajiem](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) jautājumiem par Azure Active Directory (Azure AD) atskaitēm. Papildinformāciju skatiet rakstā [atskaišu Azure Active Directory .](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 
-**Problēmu novēršana saistībā ar auditu**
+**Audita problēmu novēršana**
 
-1. Ja rodas problēmas saistībā ar audita darbībām un trūkstošajām darbībām ir šajā [sarakstā](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities), lūdzu, iesniedziet atbalsta biļeti.
-2. Ja jums ir problēmas ar visiem jūsu nomnieka audita žurnāliem, lūdzu, iesniedziet atbalsta biļeti.
-3. Ja jūsu audita darbības neparādās tieši Azure portālā, skatiet mūsu [latentuma informāciju](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) un iesniedziet atbalsta biļeti, ja aizkave pārsniedz dokumentēto latentumu.
+1. Ja rodas problēmas, skatot dažas audita darbības, un trūkstošā darbība ir šajā [sarakstā](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities), lūdzu, ierakstiet atbalsta biļeti.
+2. Ja jums rodas problēmas, skatot audita žurnālus savā nomniekā, lūdzu, reģistrējiet atbalsta biļeti.
+3. Ja jūsu audita darbības netiek uzreiz rādītas Azure portālā, skatiet mūsu [latentuma](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) informāciju un atzīmējiet atbalsta biļeti, ja aizkave pārsniedz dokumentēto latentumu.
 4. [Azure AD darbību žurnālu saglabāšana](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
-5. Ja neredzat visu atlasīto datumu diapazona auditu, varat lejupielādēt līdz pat 250 000 rindu (kārtotas pēc pēdējiem) no Azure portāla pierakstīšanās. Papildinformāciju skatiet rakstā [audita darbību lejupielāde](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report).
+5. Ja nav redzams viss atlasītā datumu diapazona audits, no Azure portāla varat lejupielādēt līdz pat 250K rindas (kārtotas pēc jaunākās). Papildinformāciju skatiet rakstā [Auditēšanas darbību lejupielāde.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report)
 
-**Ar pierakstīšanos saistītu problēmu novēršana**
+**Pierakstīšanās problēmu novēršana**
 
-1. Jūs varat redzēt tikai pēdējo 30 datu dienu, ja jums ir jūsu nomnieka Azure AD Premium (P1 vai P2) licence.
-2. Pierakstīšanās programmas ir pieejamas tikai Azure AD Premium nomniekiem. Tas nav pieejams bezmaksas vai pamata licencētiem nomniekiem.
-3. Ja jūsu nomniekam ir Premium P1 licence un jūs nevarat redzēt pierakstīšanās iespējas, skatiet mūsu [latentuma informāciju](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) un iesniedziet atbalsta biļeti, ja aizkave pārsniedz dokumentēto latentumu.
-4. Ja neredzat visus pierakstīšanās datus atlasītajā datumu diapazonā, ņemiet vērā, ka jūs varat lejupielādēt līdz 250 000 rindu (tiek kārtots pēc pēdējiem) no Azure portāla pierakstīšanās. Papildinformāciju skatiet rakstā [pierakstīšanās darbību lejupielāde](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities).
+1. Datus par pēdējām 30 dienām varat skatīt tikai tad, ja jūsu nomniekam ir Azure AD Premium (P1 vai P2) licence.
+2. Pierakstīšanās ir pieejama tikai Azure AD Premium nomniekiem. Tā nav pieejama bezmaksas vai pamata licencētiem nomniekiem.
+3. Ja jūsu nomniekam ir Premium P1 licence un jūs neredzat pierakstīšanās informāciju, skatiet mūsu [latentuma](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) informāciju un reģistrējiet atbalsta biļeti, ja aizkave pārsniedz dokumentēto latentumu.
+4. Ja neredzat visas atlasītā datumu diapazona pierakstīšanās iespējas, ņemiet vērā, ka no Azure portāla varat lejupielādēt līdz pat 250K rindas (kārtotas pēc jaunākās). Papildinformāciju skatiet [rakstā Pierakstīšanās darbību lejupielāde.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities)
 
-**Drošības pārskatu problēmu novēršana (lietotāji, kuri ir atzīmēti kā riski, bīstami pierakstīšanās)**
+**Problēmu novēršana saistībā ar drošības atskaitēm (lietotāji, kas ir atzīmēti riskam, riskantā pierakstīšanās)**
 
-1. [Lietotāji, kuriem ir atzīmēts riska drošības pārskats](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
-2. [Bīstamās pierakstīšanās atskaite Azure Active Directory portālā](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
+1. [Lietotāji, kas atzīmēti drošības atskaitei par risku](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
+2. [Riskantās pierakstīšanās atskaite Azure Active Directory portālā](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
 3. [Azure Active Directory riska notikumi](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)

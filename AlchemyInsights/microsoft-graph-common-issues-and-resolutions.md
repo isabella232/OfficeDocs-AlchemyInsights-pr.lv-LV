@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph biežāk sastopamās problēmas un risinājumi
+title: Microsoft Graph bieži sastopamās problēmas un to risināšana
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027273"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph biežāk sastopamās problēmas un risinājumi
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph bieži sastopamās problēmas un to risināšana
 
-Pilnīgu sarakstu ar zināmajām problēmām saistībā ar Microsoft Graph skatiet rakstā [zināmās problēmas ar Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Citus jautājumus un resursus skatiet galvenā [Microsoft Graph dokumentācijas](https://docs.microsoft.com/graph/) lapā.
+Pilnu zināmo problēmu sarakstu ar Microsoft Graph skatiet rakstā [Zināmās problēmas ar Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Citus jautājumus un resursus skatiet Galvenajā [Microsoft Graph dokumentācijas](https://docs.microsoft.com/graph/) lapā.
 
-- [Microsoft GRAPH REST API v 1.0 reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Uzziniet, kas ir mainījies Microsoft Graph API no [changelog](https://docs.microsoft.com/graph/changelog). 
-- [Uzdodiet jautājumu vai sniedz atsauksmes par Graph API un dokumentiem](https://aka.ms/GraphDeveloperSupport) ar izstrādātāja atbalsta komandu.
+- [Microsoft Graph REST API v1.0 atsauce.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0)
+- Uzziniet, kas ir mainījies Microsoft Graph API no [Changelog](https://docs.microsoft.com/graph/changelog). 
+- [Uzdodiet jautājumu vai sniedziet atsauksmes par Graph API un dokumentiem](https://aka.ms/GraphDeveloperSupport) izstrādātāju atbalsta grupā.
 
-Vienotais atbalsts un vadošie klienti var piesaistīt atbalsta biļeti, izmantojot šo portālu. Citi lietotāji var piekļūt Microsoft Graph bezmaksas izstrādātāja atbalstam Microsoft [Q&A](https://aka.ms/AskGraph).
+Vienotais atbalsts premier klienti var izveidot atbalsta biļeti, izmantojot šo portālu. Citi var piekļūt bezmaksas izstrādātāju atbalstam programmatūrai Microsoft Graph [vietnē Microsoft Q&A.](https://aka.ms/AskGraph)

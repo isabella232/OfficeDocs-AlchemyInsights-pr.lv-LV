@@ -1,5 +1,5 @@
 ---
-title: Windows virtuālās darbvirsmas galvenās iespējas
+title: Galvenās Windows darbvirsmas iespējas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067127"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Windows virtuālās darbvirsmas galvenās iespējas
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Galvenās Windows darbvirsmas iespējas
 
-Windows virtuālā darbvirsma ir darbvirsmas virtualizācijas un lietojumprogrammu virtualizācijas pakalpojums, kas darbojas mākonī. Varat veikt tālāk norādītās darbības, ja izmantojat Windows virtuālo darbvirsmu Azure.
+Windows Virtuālā darbvirsma ir darbvirsmas virtualizācijas un lietojumprogrammu virtualizācijas pakalpojums, kas darbojas mākonī. Tālāk ir darbības, ko varat veikt, ja azure Windows virtuālā darbvirsma:
 
-- Vairāku sesiju Windows 10 izvietošanas iestatīšana, kas nodrošina pilnīgu Windows 10 pieredzi ar mērogojamību
-- Virtualizācijas Microsoft 365 lietojumprogrammas un Optimizējiet to, lai tā darbotos vairāku lietotāju virtuālajos scenārijos
-- Nodrošiniet Windows 7 virtuālās darbvirsmas ar bezmaksas paplašinātajiem drošības atjauninājumiem (ESU)
-- Esošo attālo darbvirsmas pakalpojumu (RDS) un Windows Server galddatoru un programmu pārnešana uz jebkuru datoru
-- Windows 10, Windows Server un Windows 7 galddatoru un programmu pārvaldība ar vienotās pārvaldības pieredzi
-- Pilna datora virtualizācijas vides izveide Azure abonementā, bez nepieciešamības palaist papildu vārtejas serverus
-- Publicējiet tik daudz Host Pool, cik nepieciešams, lai pielāgotu savas daudzveidīgās darba slodzes
-- Azure galerijā iegādājieties savus attēlus ražošanas slodzēm un testiem
-- Izmaksu samazināšana, izmantojot apvienošanas, vairāku sesiju resursus
-- Atsevišķu īpašumtiesību nodrošināšana, izmantojot personiskas (pastāvīgas) darbvirsmas
+- Iestatiet vairāku sesiju izvietošanu, Windows 10 nodrošina pilnīgu un Windows 10 mērogojamību
+- Virtualizējiet Microsoft 365 programmas un optimizējiet to palaišanai vairāku lietotāju virtuālajos scenārijos
+- Nodrošiniet Windows 7 virtuālajām darbvirsmām ar bezmaksas paplašinātajiem drošības atjauninājumiem (ESU)
+- Pārnesiet esošos attālās darbvirsmas pakalpojumus (Rds) Windows servera darbvirsmas un programmas jebkurā datorā.
+- Pārvaldīt Windows 10, Windows serverus un Windows 7 darbvirsmas un programmas ar vienotās pārvaldības pieredzi
+- Izveidojiet Azure abonementā pilnu darbvirsmas virtualizācijas vidi bez nepieciešamības palaist papildu vārtejas serverus
+- Publicēt tik daudz resursdatoru, cik ir nepieciešams, lai pielāgotu dažādu darba slodzi.
+- No Azure galerijas gādājiet par saviem attēliem ražošanas darba slodzēm un testiem
+- Samaziniet izmaksas, izmantojot pūla resursus, vairāku sesiju resursus
+- Atsevišķu īpašumtiesību nodrošiniet, izmantojot personiskās (pastāvīgās) darbvirsmas
 
-Papildinformāciju skatiet rakstā [Windows virtuālās darbvirsmas Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) un [pamata iespējas](https://go.microsoft.com/fwlink/?linkid=2127033).
+Papildinformāciju skatiet rakstā [Windows Darbvirsmas pamati](https://go.microsoft.com/fwlink/?linkid=2127033) [un galvenās iespējas.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

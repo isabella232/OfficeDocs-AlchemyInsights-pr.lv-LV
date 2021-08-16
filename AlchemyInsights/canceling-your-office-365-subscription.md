@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996601"
 ---
 # <a name="canceling-your-subscription"></a>Vai atceļat savu abonementu?
 
 Žēl, ka aiziesiet. Ja vēlaties atcelt savu abonementu, jums ir šādas iespējas:
   
 - Ja jums ir mazāk nekā 25 piešķirtās licences, abonementu varat atcelt tiešsaistē. Dodieties **uz lapu** \> **[Norēķini](https://go.microsoft.com/fwlink/p/?linkid=842054)** jūsu produkti un atrodiet abonementu, kuru vēlaties atcelt. Atlasiet daudzpunkti (citas darbības), pēc tam atlasiet **Atcelt abonementu**.
-- Ja lietotājiem piešķirtas vairāk nekā 25 licences, zvaniet atbalsta dienestam, lai [atceltu savu abonementu.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Ja jums lietotājiem piešķirtas vairāk nekā 25 licences, samaziniet to līdz mazāk nekā 25, lai atceltu vai zvanītu atbalsta dienestam [un atceltu savu abonementu.](/microsoft-365/business-video/get-help-support)
   
 **Atmaksa. Visu atpakaļvērtēto kredītu jums atgriezīs nākamajā norēķinu ciklā.**
 

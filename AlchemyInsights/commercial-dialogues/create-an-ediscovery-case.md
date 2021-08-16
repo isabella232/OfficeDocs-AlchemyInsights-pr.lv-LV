@@ -1,5 +1,5 @@
 ---
-title: E-datu atklāšanas lietas izveide
+title: E-datu atklāšanas pieteikuma izveide
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988374"
 ---
-# <a name="create-an-ediscovery-case"></a>E-datu atklāšanas lietas izveide
+# <a name="create-an-ediscovery-case"></a>E-datu atklāšanas pieteikuma izveide
 
-Tālāk ir aprakstīts, kā izveidot e-datu atklāšanas reģistru.
+Tālāk aprakstīts, kā izveidot e-datu atklāšanas gadījumu.
 
-1. Dodieties uz [drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143) un atlasiet **e-datu atklāšanas**  >  **e-datu atklāšanas**.
-1. E-datu atklāšanas lapā noklikšķiniet uz **izveidot reģistru**.
-1. Ievadiet lietas nosaukumu un aprakstu un pēc tam noklikšķiniet uz **Saglabāt**.
+1. Dodieties [uz drošības & un](https://go.microsoft.com/fwlink/p/?linkid=2077143) atlasiet **e-datu**  >  **atklāšanas e-datu atklāšana.**
+1. E-datu atklāšanas lapā noklikšķiniet uz **Izveidot gadījumu.**
+1. Ievadiet burtu reģistrs nosaukumu un aprakstu, un pēc tam noklikšķiniet uz **Saglabāt.**
     > [!TIP]
-    >Lai pārvaldītu lietas atļaujas, noklikšķiniet uz baltstarpas blakus lietas nosaukumam (neklikšķiniet uz Atvērt).
-1. Lai pārvaldītu aizturēšanas, meklēšanas un eksportēšanas iestatījumus šajā gadījumā, noklikšķiniet uz **Atvērt**.
+    >Lai pārvaldītu pieteikuma atļaujas, noklikšķiniet uz baltstarpas blakus gadījuma nosaukumam (neklikšķiniet uz Atvērt).
+1. Lai pārvaldītu aizturēšanas, meklēšanas un eksportēšanas iestatījumus šim gadījumam, noklikšķiniet uz **Atvērt**.
 
-Detalizētu informāciju par to, kā e-datu atklāšanas lietas darbojas ar saturu, skatiet rakstā [e-datu atklāšanas lietas](https://go.microsoft.com/fwlink/?linkid=2101589).
+Detalizētu informāciju par e-datu atklāšanas lietu darbību ar saturu skatiet rakstā [E-datu atklāšanas lietas.](https://go.microsoft.com/fwlink/?linkid=2101589)

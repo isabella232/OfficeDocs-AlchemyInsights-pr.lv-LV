@@ -1,5 +1,5 @@
 ---
-title: Audita žurnālu iespējošana
+title: Audita žurnāla iespējošana
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988410"
 ---
-# <a name="enable-the-audit-log"></a>Audita žurnālu iespējošana
+# <a name="enable-the-audit-log"></a>Audita žurnāla iespējošana
 
-Saziņas atbilstībai ir nepieciešams audita žurnāls, lai rādītu brīdinājumus un izsekotu recenzentu veiktās koriģējošas darbības. Audita žurnāli ir kopsavilkums par visām darbībām, kas saistītas ar noteiktu organizācijas politiku, tostarp jebkurā brīdī saziņas atbilstības politikas izmaiņām. Lai ieslēgtu audita reģistrēšanu:
+Saziņas atbilstībai ir nepieciešami audita žurnāli, lai rādītu brīdinājumus un izsekotu recenzentu veiktās koriģējošās darbības. Audita žurnāli ir visu ar noteiktu organizācijas politiku saistīto darbību kopsavilkums, tostarp jebkurā laikā, kad tiek mainīta saziņas atbilstības politika. Lai ieslēgtu audita reģistrēšanu:
 
-1. [Drošības & atbilstības centrā](https://go.microsoft.com/fwlink/?linkid=2101341)atveriet **meklēšanas**  >  **audita žurnālu meklēšanu**.
+1. Drošības kontroles [& dodieties](https://go.microsoft.com/fwlink/?linkid=2101341)uz Meklēšana   >  **audita žurnālā**.
 2. Atlasiet **Ieslēgt auditēšanu**.
 
-    Kad esat ieslēdzis auditēšanu, tiek parādīts ziņojums, kurā teikts, ka audita žurnāls tiek sagatavots, un varat veikt meklēšanu pēc dažām stundām pēc tam, kad sagatavošana ir pabeigta. Šī darbība ir jāveic tikai vienreiz.
+    Pēc auditēšanas ieslēdzšanas tiek parādīts ziņojums, kurā teikts, ka audita žurnāls ir sagatavots, un meklēšanu varat veikt dažas stundas pēc sagatavošanas pabeigšanas. Šī darbība ir jāveic tikai vienreiz.
 
-Papildinformāciju skatiet rakstā [audita žurnālu meklēšanas](https://go.microsoft.com/fwlink/?linkid=2129077) ieslēgšana un izslēgšana un [meklēšana audita žurnālfailā](https://go.microsoft.com/fwlink/?linkid=2123729).
+Papildinformāciju skatiet rakstā [Audita žurnāla meklēšanas ieslēgšana un izslēgšana](https://go.microsoft.com/fwlink/?linkid=2129077) un Meklēšana [audita žurnālā.](https://go.microsoft.com/fwlink/?linkid=2123729)
