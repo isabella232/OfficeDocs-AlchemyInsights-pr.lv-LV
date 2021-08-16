@@ -1,5 +1,5 @@
 ---
-title: 8000063, kā ar peles labo pogu noklikšķināt uz Mac datora
+title: 8000063 Kā Mac datorā noklikšķināt ar peles labo pogu
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001947"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Kā ar peles labo pogu noklikšķināt uz Mac datora
+# <a name="how-to-right-click-on-a-mac"></a>Kā ar peles labo pogu noklikšķināt Mac datorā
 
-Mac datoros ar peles labo pogu noklikšķiniet uz ir zināma kā sekundārā klikšķa vai vadīklas klikšķis. Ja jūsu pele, skārienpaliktnis vai cita ievades ierīce neietver ar peles labo pogu noklikšķiniet uz pogas vai citu veidu, kā veikt klikšķi ar peles labo pogu, noklikšķiniet uz tastatūras, turot nospiestu **taustiņu Control** .
+Mac datoros klikšķis ar peles labo pogu tiek dēvēts par sekundāro klikšķi vai control klikšķi. Ja pelei, skārienpaliktnim vai citai ievades ierīcei nav labās pogas vai citas  iespējas noklikšķināt ar peles labo pogu, klikšķinot turiet nospiestu tastatūras taustiņu Control.
   
-Lai iegūtu papildinformāciju, dodieties uz [Apple atbalsta dienestu](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Papildinformāciju skatiet [Apple atbalsta vietnē](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

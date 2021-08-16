@@ -14,15 +14,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1e9d007024fa3edce359123425df2b8209a5e131162832a16c651ff3fd6b5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044455"
 ---
 # <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>Kartēto tīkla disku konfigurēšana un problēmu novēršana
 
-Bibliotēkas kā tīkla diska kartēšana ir īslaicīga, un tā tiek atbalstīta tikai pārlūkprogrammā Internet Explorer. Tā vietā [Sinhronizējiet SharePoint failus ar jauno OneDrive sinhronizācijas klientu](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) , kas nodrošina [failu pēc pieprasījuma](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). Piekļūstiet visiem saviem failiem pakalpojumā OneDrive, neizmantojot lokālo krātuves vietu.
+Bibliotēkas kartēšana kā tīkla disks ir īslaicīga un tiek atbalstīta tikai caur Internet Explorer. Tā vietā [sinhronizējiet SharePoint ar jauno OneDrive sinhronizācija klientu, kas](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) [nodrošina failus pēc pieprasījuma.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Piekļūstiet visiem saviem failiem pakalpojumā OneDrive, neizmantojot lokālo krātuves vietu.
 
-* [Kartēto tīkla disku problēmu novēršana, kas veido savienojumu ar SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+* [Problēmu novēršana kartētajos tīkla diskos, kas izveido savienojumu ar SharePoint tiešsaistē](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

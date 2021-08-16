@@ -1,5 +1,5 @@
 ---
-title: Atļaut pielāgotajā skriptā iespējot līdzekļus
+title: Atļaut pielāgotā skripta līdzekļu iespējošanai
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd75d37b20ad2b624ee9944c9c7e62b93277dcd5e2669e3748647636d99e1b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051457"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Atļaut pielāgotajā skriptā iespējot līdzekļus
+# <a name="allow-custom-script-to-enable-features"></a>Atļaut pielāgotā skripta līdzekļu iespējošanai
 
-Administratoriem, iespējams, ir **jāatļauj pielāgot skriptu** , lai iespējotu noteiktus līdzekļus. Piemēram, veidojot savienojumu ar SharePoint, izmantojot SharePoint Designer, lietotāji var saņemt kļūdas 403. Detalizētus norādījumus par piemēriem un apsvērumiem skatiet rakstā [pielāgota skripta atļaušana vai novēršana](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratoriem var būt **nepieciešams atļaut pielāgotu skriptu,** lai iespējotu noteiktus līdzekļus. Piemēram, veidojot savienojumu ar noformētāju, lietotāji var saņemt kļūdu 403 SharePoint ar SharePoint Designer. Detalizētu informāciju par veicamajām darbībām, piemēriem un apsvērumiem skatiet [rakstā Pielāgota skripta atļaušana vai novērsšana.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Ja lietotājiem rodas **kļūda 403** , izmantojot SharePoint vai OneDrive, varat skatīt [Pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , lai noteiktu, vai tā ir zināma problēma ar notiekošu risinājumu, pirms zvanāt atbalsta vai tērē laiku. Problēma var būt ļoti pagaidu, un to jau ir identificējusi korporācija Microsoft, taču, iespējams, būs zaudēts laiks starp emisijas noteikšanu un grāmatošanu pakalpojuma darbspējas informācijas panelī. Lūdzu, turpiniet skatīt pakalpojuma darbspējas informācijas paneli, lai saņemtu papildu atjauninājumus.
+Ja lietotājiem rodas kļūda **403** ar SharePoint vai OneDrive, pirms zvanīšanas [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) atbalsta dienestam vai laika problēmu novēršanai varat pārbaudīt pakalpojuma darbspējas informācijas paneli, lai noteiktu, vai tā ir zināma problēma, kuras risināšana notiek. Šī problēma var būt ļoti īslaicīga un to jau ir noteikusi Microsoft, taču var būt intervāls starp problēmas noteikšanu un izliekot informāciju pakalpojuma darbspējas informācijas panelī. Lūdzu, turpiniet pārbaudīt pakalpojuma darbspējas informācijas paneli, lai iegūtu papildu atjauninājumus.
 

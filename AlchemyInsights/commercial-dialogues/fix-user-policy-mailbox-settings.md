@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034725"
 ---
 # <a name="fix-user-policymailbox-settings"></a>Lietotāja politikas/pastkastes iestatījumu labošana
 
-Nevēlamais e-pasta iestatījumi pastkastē ietekmēja šo ziņojumu. Lai pārskatītu iestatījumus, veiciet tālāk norādītās darbības.
+Nevēlamā e-pasta iestatījumi pastkastē, kurā tika ietekmēts šis ziņojums. Lai pārskatītu iestatījumus, rīkojieties šādi:
 
-1. Palaidiet Exchange pārvaldības čaulu. Papildinformāciju skatiet rakstā [Exchange pārvaldības čaulas atvēršana](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Izpildīt šo komandu (izmantojot lietotāja e-pasta adresi):  **Get-mailboxjunkmailconfiguration-Identity "user@domain.com"**
-3. Pārbaudiet, vai sūtītāja e-pasta adrese ir daļa no **TrustedSendersAndDomains** vai **BlockedSendersAndDomains**. Ja e-pasta adrese ir kādā no sarakstiem, iespējams, tas ir jānoņem. Papildinformāciju skatiet rakstā [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Palaidiet Exchange pārvaldības čaulu. Papildinformāciju skatiet rakstā [Pārvaldības čaulas Exchange atvēršana.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Izpildiet šo komandu (izmantojot lietotāja e-pasta adresi):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Pārbaudiet, vai sūtītāja e-pasta adrese ir daļa no **TrustedSendersAndDomains** vai **BlockedSendersAndDomains**. Ja e-pasta adrese ir kādā no sarakstiem, iespējams, tā ir jānoņem. Papildinformāciju skatiet [rakstā Set-MailboxJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)

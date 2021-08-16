@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 30495253bdabbe618817cce45790dbf5d565b2db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7c020aa02a9ffbc10e4e52717e0005a3bbbe2b721380183a3a0c90387b1dd4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015663"
 ---
-# <a name="how-to-give-access-to-external-users-in-yammer"></a>Kā piešķirt piekļuvi ārējiem lietotājiem pakalpojumā Yammer
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Kā piešķirt piekļuvi ārējiem lietotājiem programmā Yammer
 
-Ir četri veidi, kā ārējie lietotāji var piekļūt jūsu tīklam pakalpojumā Yammer.
+Ārējie lietotāji var piekļūt jūsu tīklam Yammer.
   
-1. **Vieslietotāji** — Yammer administratori var uzaicināt kontaktpersonas no ārējiem domēniem kā lietotājus mājas tīklā. Šie lietotāji redzēs visu uzņēmuma plūsmu un var pievienoties arī citām grupām tīklos.
+1. **Vies lietotāji** — Yammer administratori var uzaicināt kontaktpersonas no ārējiem domēniem kā mājas tīkla lietotājus. Šie lietotāji redzēs plūsmu Viss uzņēmums, kā arī tīklos varēs pievienoties citām grupām.
 
-2. **Ārējie lietotāji ārējā grupā** — ārējas grupas atļauj ārējiem lietotājiem. Ārējā lietotāja piekļuves tvērums ir ierobežots ar ārējo grupu. Izmantojot ārējas grupas, varat uzaicināt tikai kontaktpersonas no Yammer tīkliem, kas ļauj lietotājiem piedalīties ārējās sarunās.
+2. **Ārējie lietotāji ārējā grupā — ārējās** grupas pieļauj ārējos lietotājus. Ārējo lietotāju piekļuves tvērums ir ierobežots ar ārējo grupu. Izmantojot ārējās grupas, varat tikai uzaicināt kontaktpersonas tikai Yammer tīklos, kas lietotājiem ļauj piedalīties ārējās sarunās.
 
-3. **Ārējie lietotāji Yammer sarunā iekšējā grupā** — šī opcija atļauj ārēju dalībnieku pievienošanu noteiktai sarunai. Ārējie dalībnieki var piedalīties tikai sarunās, par kuriem tie ir skaidri uzaicināti uz jebkuru šīs sarunas pielikumu. Tie piekļūst šīm sarunām, izmantojot savu Yammer iesūtni (to tīklā). Viņiem nav piekļuves pārējam tīklam.
+3. **Ārējie lietotāji Yammer grupas sarunā** — šī opcija ārējos dalībniekus ļauj pievienot noteiktai sarunai. Ārējie dalībnieki var piedalīties tikai tajās sarunās, uz kurām ir tieši uzaicināti, kā arī skatīt visus šīs sarunas pielikumus. Viņi piekļūst šīm sarunām, izmantojot savu Yammer iesūtni (savā tīklā). Viņiem nav piekļuves pārējiem jūsu tīkla datiem.
 
-4. **Ārējie tīkli** — šī opcija sniedz iespēju uzaicināt ārējus lietotājus uz ārēju tīklu, kuru var izveidot jūsu tīklā pārbaudītie administratori. Šī opcija ir vispiemērotākā ārējo Kopienu viesošanai.
+4. **Ārējie tīkli** — šī opcija ārējos lietotājus ļauj uzaicināt ārējā tīklā, kuru verificēti administratori var izveidot jūsu tīklā. Šī opcija ir vislabāk piemērota ārēju kopienu viesoināšanai.
 
-Lai iegūtu papildinformāciju, skatiet rakstu [ārējo ziņojumapmaiņas dalībnieku pievienošana jūsu Yammer sarunām](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) un [bieži uzdotie jautājumi par ārējo ziņojumapmaiņu (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
+Papildinformāciju skatiet rakstā [Ārējās ziņojumapmaiņas dalībnieku pievienošana jūsu Yammer un ārējās ziņojumapmaiņas](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) bieži uzdotie jautājumi [(Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online publisko tīmekļa vietņu lietošana tiek izbeigta
+title: SharePoint Tiešsaistes publisko tīmekļa vietņu lietošana tiks izbeigta
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051277"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online publisko tīmekļa vietņu lietošana tiek izbeigta
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Tiešsaistes publisko tīmekļa vietņu lietošana tiks izbeigta
 
-Ja izveidojāt SharePoint Online publisko tīmekļa vietni, varat turpināt to izmantot līdz 31. martam, 2018. Ja vēlaties turpināt izmantot publisku tīmekļa vietni, izveidojiet jaunu pakalpojumu sniedzēju. SharePoint Online publiskās tīmekļa vietnes saturs tiks izdzēsts, tāpēc jums ir jākopē saturs, kuru vēlaties paturēt.
+Ja esat izveidojis SharePoint Online publisko tīmekļa vietni, varat turpināt to izmantot līdz 2018. gada 31. martam. Ja vēlaties turpināt izmantot publisko tīmekļa vietni, ir jāizveido jauna ar jaunu pakalpojumu sniedzēju. Jūsu tiešsaistes SharePoint tīmekļa vietnes saturs tiks izdzēsts, tāpēc jums ir jākopē saturs, ko vēlaties paturēt.
   
-Tagad savas SharePoint Online publiskās tīmekļa vietnes augšdaļā tiek parādīts reklāmkarogs kā paziņojums par to, ka vietne tiks noņemta. Jūs nevarat izslēgt šo reklāmkarogu. Informāciju par to, kā saglabāt un kopēt saturu partnera tīmekļa vietnē, skatiet rakstā [Detalizēta informācija par līdzekļa darbības turpināšanas procesu](https://go.microsoft.com/fwlink/?linkid=866980).
+Tiek parādīts reklāmkarogs, kas tiek SharePoint Online publiskās tīmekļa vietnes augšdaļā kā paziņojums, ka vietne tiks noņemta. Jūs nevarat izslēgt šo reklāmkarogu. Informāciju par satura saglabāšanu un kopēšanu partnera tīmekļa vietnē skatiet rakstā [Detalizēta informācija par līdzekļu darbības izbeigšanas procesu.](https://go.microsoft.com/fwlink/?linkid=866980)
   
