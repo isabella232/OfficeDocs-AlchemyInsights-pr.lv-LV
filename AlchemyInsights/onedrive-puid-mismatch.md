@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096737"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID neatbilstība
 
-Šķiet, ka pakalpojumā OneDrive darbam rodas [neatbilstību ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) . Lai ļautu mums jums palīdzēt agrāk, veiciet tālāk norādītās darbības.
+Šķiet, ka radušās [ID neatbilstības OneDrive darbam.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) Lai iespējotu mums palīdzību agrāk, veiciet tālāk norādītās darbības.
 
-1. Noklikšķiniet uz  **sazināties ar atbalsta dienestu** un pēc tam uz  **Jauns pakalpojuma pieprasījums**.
-2. Atstājiet virsrakstu un aprakstu kā  **OneDrive vietnes lietotāja ID neatbilstību**.
-3. Kad biļete ir iesniegta, atjauniniet to, izmantojot tālāk norādīto informāciju.
-    - OneDrive vietnes vietrādis URL, kas tiek ietekmēts.
-    - Attiecīgā lietotāja pamatnosaukums (UPN).
+1. Noklikšķiniet **uz Sazināties ar** atbalsta dienestu un pēc tam uz Jauns pakalpojuma **pieprasījums.**
+2. Atstājiet virsrakstu un aprakstu kā **OneDrive lietotāja ID neatbilstību.**
+3. Kad biļete ir iesniegta, atjauniniet to ar šādu informāciju:
+    - OneDrive vietnes URL.
+    - Ietekmētā lietotāja pamatnosaucums (UPN).

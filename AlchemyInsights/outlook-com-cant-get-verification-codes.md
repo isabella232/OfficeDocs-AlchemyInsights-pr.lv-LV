@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064211"
 ---
-# <a name="cant-get-verification-codes"></a>Nevar iegūt verifikācijas kodus
+# <a name="cant-get-verification-codes"></a>Nevar saņemt verifikācijas kodus
 
-Ja nevarat piekļūt savam alternatīvajam e-pastam vai tālruņa numuram, dodieties uz savu Microsoft konta [drošības pamatinformāciju](https://account.microsoft.com/security) , pierakstīšanās lapā atlasiet **man nav neviena no tiem** un izpildiet norādījumus, lai aizstātu drošības informāciju.
+Ja nevarat piekļūt savam alternatīvajam e-pastam vai tālruņa numuram,  dodieties uz savu Microsoft konta drošības [pamatinformācijas](https://account.microsoft.com/security) lapu, pierakstīšanās lapā atlasiet Man nav neviena no šiem un izpildiet norādījumus, lai aizstātu savu drošības informāciju.
 
-*Piezīme:* [Microsoft autentificētāja lietojumprogrammai](https://go.microsoft.com/fwlink/?linkid=2016117) nav nepieciešams interneta savienojums, lai jūs varētu nodrošināt verifikācijas kodu.
+*Piezīme.* Programmai [Microsoft Authenticator nav](https://go.microsoft.com/fwlink/?linkid=2016117) nepieciešams interneta savienojums, lai nodrošinātu jums verifikācijas kodu.
 
-Lai uzzinātu vairāk, izlasiet [Microsoft konta drošības informāciju un verifikācijas kodus](https://support.microsoft.com/help/12428/).
+Lai uzzinātu vairāk, izlasiet rakstu [Microsoft konta drošības informācija un pārbaudes kodi.](https://support.microsoft.com/help/12428/)
