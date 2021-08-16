@@ -1,5 +1,5 @@
 ---
-title: Uzraudzības politiku migrēšana uz saziņas atbilstības politikām
+title: Pārraudzības politiku migrēšana uz saziņas atbilstības politikām
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c488a4b3c5881909aa5b3c1a4afb6c0054989d02
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: dbb29c59dca7d0cb901df7e828736b2458f7345e86400a7ea823cf654cd0891e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034257"
 ---
-# <a name="migrate-supervision-policies-to-communication-compliance-policies"></a>Uzraudzības politiku migrēšana uz saziņas atbilstības politikām
+# <a name="migrate-supervision-policies-to-communication-compliance-policies"></a>Pārraudzības politiku migrēšana uz saziņas atbilstības politikām
 
-Uzraudzības līdzeklis ir aizstāts ar saziņas saderību. Ja pašlaik izmantojat drošības & atbilstības centrā konfigurētās uzraudzības politikas, tās ir jāmaina uz Microsoft 365 saziņas atbilstības politikām. Šīs politikas nav migrētas. tā vietā ir jāizveido jaunas saziņas atbilstības politikas, lai aizstātu esošās uzraudzības politikas.
+Pārraudzības līdzeklis ir aizstāts ar saziņas atbilstību. Ja pašlaik drošības kontroles politikas ir konfigurētas & atbilstības centrā, jums tās ir jāpāriet uz drošības Microsoft 365 atbilstības politiku. Šo politiku migrēšanai nav migrācijas rīka. tā vietā būs jāizveido jaunas saziņas atbilstības politikas, lai aizstātu esošās pārraudzības politikas.
 
-Papildinformāciju par pāreju no uzraudzības līdzekļa skatiet rakstā [pāreja no uzraudzības](https://go.microsoft.com/fwlink/?linkid=2128750).
+Papildinformāciju par pāreju no pārraudzības līdzekļa skatiet rakstā Pāreja [no pārraudzības.](https://go.microsoft.com/fwlink/?linkid=2128750)

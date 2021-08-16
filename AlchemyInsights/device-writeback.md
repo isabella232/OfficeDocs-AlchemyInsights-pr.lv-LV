@@ -1,5 +1,5 @@
 ---
-title: Ierīces arī atpakaļrakstīšanas
+title: Ierīces writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101957"
 ---
-# <a name="device-writeback"></a>Ierīces arī atpakaļrakstīšanas
+# <a name="device-writeback"></a>Ierīces writeback
 
-Ierīces arī atpakaļrakstīšanas tiek izmantota šādos scenārijos:
+Ierīces writeback tiek izmantots šādos scenārijos:
 
-- [Windows Hello darbam iespējošana uzņēmumiem, izmantojot hibrīda sertifikāta uzticamības izvietošanu](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Iespējot piekļuvi nosacījumam, pamatojoties uz ADFS (2012 R2 vai jaunākas versijas) aizsargātām lietojumprogrammām (paļaujoties uz pušu uzticamību)
+- Windows Hello [darbam iespējošana, izmantojot hibrīdo sertifikātu uzticamības izvietošanu](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Nosacījum piekļuves iespējošana, pamatojoties uz ierīcēm, ar ADFS (2012 R2 vai jaunāku versiju) aizsargātām lietojumprogrammām (uzticamās pušu uzticamības)
 
     > [!NOTE]
-    > Azure AD Premium abonements ir nepieciešams ierīču arī atpakaļrakstīšanas.
+    > Azure AD Premium nepieciešams ierīces atrakstiet.
 
-Tas nodrošina papildu drošību un pārliecību par to, ka piekļuve lietojumprogrammām tiek piešķirta tikai uzticamām ierīcēm. Papildinformāciju par ierobežotu piekļuvi skatiet rakstā [riska pārvaldība ar ierobežotu piekļuvi](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) un lokālās piekļuves [iestatīšana, izmantojot Azure Active Directory ierīces reģistrāciju](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Tādējādi tiek nodrošināta papildu drošība un drošība, ka piekļuve lietojumprogrammām tiek piešķirta tikai uzticamām ierīcēm. Papildinformāciju par nosacījumiekļuves papildinformāciju skatiet rakstā Riska pārvaldība ar nosacījuma piekļuvi un Lokālas nosacījum piekļuves [iestatīšana, Azure Active Directory ierīces reģistrāciju.](https://docs.microsoft.com/azure/active-directory/devices/overview) [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-Papildinformāciju par ierīču arī atpakaļrakstīšanas ierīcēm skatiet rakstā ierīces [arī atpakaļrakstīšanas iespējošana](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Papildinformāciju par ierīces Writeback iespējošanu ierīcēm skatiet rakstā [Ierīces writeback iespējošana.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
