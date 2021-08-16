@@ -1,5 +1,5 @@
 ---
-title: Intune Exchange lokālajā savienotājā
+title: Intune Exchange lokālā savienotāja
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013971"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange lokālajā savienotājā
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange lokālā savienotāja
 
-Lai uzzinātu, kā iestatīt savienotāju starp Intune un Exchange, kas tiek viesots lokāli, skatiet tālāk norādīto dokumentāciju.
+Detalizētu informāciju par savienotāja iestatīšanu starp Intune un Exchange, kas tiek viesota lokāli, skatiet tālāk redzamajā dokumentācijā.
 
-[Intune lokālās Exchange Connector iestatīšana programmā Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Intune lokālā savienotāja iestatīšana Exchange programmā Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**FAQ**
+**Bieži uzdotie jautājumi:**
 
-Jautājums: mēģinot iestatīt Exchange savienotāju, tiek rādīta kļūda, piemēram, "Exchange Connector versija netiek atbalstīta". Kāds varētu būt iemesls?
+Problēma: mēģinot iestatīt savienotāju, tiek Exchange Exchange kļūda "Savienotāja Exchange netiek atbalstīta". Kāds varētu būt iemesls?
 
-A: konts, kuru izmantojat, ir atbilstoši licencēts — tam ir jābūt Active Intune licencei
+A: jūsu izmantotais konts ir atbilstoši licencēts — kontam ir jābūt aktīvai Intune licencei
 
-J: vai ir iespējams izmantot vairākus Exchange savienotājus?
+J: Vai iespējams izmantot vairākus savienotājus Exchange savienojumus?
 
-A: jūs varat iestatīt tikai vienu Exchange Connector katram Intune nomniekam vienai Exchange organizācijai. Savienotāju var instalēt tikai vienā serverī vairāku serveru Exchange organizācijā.
+A: Varat iestatīt tikai vienu savienotāju Exchange katrai Intune nomniekam katrā Exchange organizācijā. Savienotāju var instalēt tikai vienā serverī vairāku serveru exchange organizācijā.
 
-Jūs arī nevarat būt konfigurēti savienotāji gan Exchange lokālajā, gan Exchange Online vienā nomniekā.
+Arī savienotāji nevar būt konfigurēti gan lokālajiem Exchange gan citiem Exchange Online konfigurētiem vienā nomniekā.
 
-J: vai savienotājs var izmantot CAS masīvu kā tā savienojumu ar Exchange?
+J: Vai savienotājs var izmantot CAS masīvu kā tā savienojumu ar Exchange?
 
-A: CAS masīva norādīšana nav atbalstīta konfigurācija savienotāja iestatījumos. Ir jābūt norādītam tikai vienam serverim, un tam jābūt hardcoded savienotāja konfigurācijas failā, ko var atrast
+A. CAS masīva norādīšana savienotāja iestatīšanā netiek atbalstīta. Ir jānorāda tikai viens serveris, un tam ir jābūt hardcoded savienotāja konfigurācijas failā, ko var atrast
 
-programmas data\microsoft\microsoft Intune lokālajā Exchange Connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Atrodiet šo ievadni ```<ExchangeWebServiceURL />``` un aizstājiet vietrādi URL ar Exchange serveri.
+Atrodiet tālāk norādīto ierakstu ```<ExchangeWebServiceURL />``` un aizstājiet URL ar Exchange serveri.
 
-**Piemēram**
+**Piemērs:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Papildinformāciju par problēmu novēršanu skatiet tālāk norādītajos dokumentos. [Intune problēmu novēršana lokālajā Exchange savienotājā](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Lai saņemtu papildu problēmu novēršanas informāciju, skatiet šo dokumentāciju: [Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune) lokālā savienotāja Exchange problēmu novēršana
 
-**Izvērstas reģistrēšanas iespējošana Exchange Connector**
+**Verbose reģistrēšanas iespējošana Exchange savienotājam**
 
-1. Atveriet Exchange Connector trasēšanas konfigurācijas failu rediģēšanai.  
-Fails atrodas:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Atveriet Exchange savienotāja trasēšanas konfigurācijas failu rediģēšanai.  
+Fails atrodas šeit: %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Piemēram**
+**Piemērs:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Atrodiet TraceSourceLine, izmantojot šādu atslēgu: OnPremisesExchangeConnectorService  
+2. Atrodiet TraceSourceLine ar šādu atslēgu: OnPremisesExchangeConnectorService  
   
-3. SourceLevel mezgla vērtības mainīšana no informācijas ActivityTracing (noklusējums) uz runīgs ActivityTracing  
+3. Change the SourceLevel node value from Information ActivityTracing (the default) to Verbose ActivityTracing  
 
-**Piemēram**
+**Piemērs:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -75,5 +75,5 @@ Fails atrodas:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingC
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
 4. Restartējiet Microsoft Intune Exchange pakalpojumu  
-5. Pilna sinhronizācija Intune portālā, līdz tā ir pabeigta, un pēc tam nomainiet XML atpakaļ uz "informācijas ActivityTracing" un restartējiet Microsoft Intune Exchange pakalpojumu.  
+5. Pilnīga sinhronizācija Intune portālā, līdz tā tiek pabeigta, un pēc tam mainiet XML atpakaļ uz "Informācijas aktivitāšu trasēšana" un restartējiet Microsoft Intune Exchange pakalpojumu.  
 6. Žurnālu atrašanās vieta ir: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

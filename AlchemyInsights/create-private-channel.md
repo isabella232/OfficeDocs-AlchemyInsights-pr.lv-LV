@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: c5d23ac050d92c1d6b8c188707255de0abf0b95c
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: MT
+ms.openlocfilehash: 5845258aeccc700e865ab109be8662ccc61ffc15c0a4fc7439449af22c73b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016239"
 ---
 # <a name="create-a-private-channel"></a>Privāta kanāla izveide
 
 Pēc noklusējuma jebkurš grupas īpašnieks vai grupas dalībnieks var izveidot privātu kanālu. Viesi nevar izveidot privātu kanālu. 
 
-Iespēju izveidot privātus kanālus var pārvaldīt grupas līmenī un organizācijas līmenī. Izmantojiet politikas, lai kontrolētu, kuri lietotāji jūsu organizācijā drīkst izveidot privātus kanālus. Kad būsit iestatījis politikas, grupas īpašnieki var atspējot vai iespējot dalībniekiem atļauju izveidot privātu kanālu cilnē **Iestatījumi** .
+Iespēju izveidot privātus kanālus var pārvaldīt grupas līmenī un organizācijas līmenī. Izmantojiet politikas, lai noteiktu, kuri lietotāji jūsu organizācijā drīkst veidot privātos kanālus. Kad politikas būs iestatītas, grupu īpašnieki varēs dalībniekiem atspējot vai iespējot privāto kanālu izveidi cilnē Iestatījumi **kanāli.**
 
 > [!NOTE]
-> Katrai grupai var būt ne vairāk kā 30 privātie kanāli, un katrā privātajā kanālā var būt ne vairāk kā 250 dalībnieku.
+> Katrā grupā var būt ne vairāk kā 30 privāti kanāli, un katrā privātajā kanālā var būt ne vairāk kā 250 dalībnieku.
 
-Papildinformāciju skatiet rakstā [privāta kanāla izveide](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
+Papildinformāciju skatiet rakstā [Privāta kanāla izveide](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
 
 

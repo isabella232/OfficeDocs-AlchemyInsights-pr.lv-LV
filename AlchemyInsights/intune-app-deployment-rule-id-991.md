@@ -1,5 +1,5 @@
 ---
-title: Intune lietojumprogrammas izvietošanas kārtulas ID 991
+title: Intune programmu izvietošanas kārtulas ID 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014115"
 ---
-# <a name="intune-app-deployment"></a>Intune lietojumprogrammu izvietošana
+# <a name="intune-app-deployment"></a>Intune programmu izvietošana
 
-Lietojumprogrammu izvietošana ar Intune ir trīs soļu process:
+Lietojumprogrammu izvietošana ar Intune ir trīs darbību process:
   
-1. **Lietojumprogrammas pievienošana** — varat pievienot lietojumprogrammu krātuves programmu vai augšupielādēt biznesa lietojumprogrammas līniju.
+1. **Programmas pievienošana** — varat pievienot lietojumprogrammu veikalā App Store vai augšupielādēt biznesa līnijas lietojumprogrammu.
 
-2. Lietojumprogrammas **piešķiršana** — noteikt lietojumprogrammas izvietošanas tvērumu.
+2. **Programmas piešķiršana —** nosakiet lietojumprogrammas izvietošanas tvērumu.
 
-3. **Programmu pārraudzība** — skatiet lietojumprogrammu instalēšanas statusu, sarakstu atklāšanas programmas un lietojumprogrammu pārvaldīšanas lietojumprogrammas.
+3. **Programmu pārraudzība** — skatiet programmu instalēšanas statusu, uzskaitīt atklātas programmas un pārvaldiet programmas, kas iegādātas no programmu veikaliem.
 
-Lasiet rakstu [kas ir Intune lietojumprogrammu pārvaldība](https://docs.microsoft.com/intune/app-management) , lai uzzinātu informāciju par lietojumprogrammu konfigurēšanu un aizsardzību.
+Lai [iegūtu sīkāku informāciju par lietojumprogrammu konfigurēšanu](https://docs.microsoft.com/intune/app-management) un aizsargāšanu, izlasiet rakstu Kas ir Intune programmu pārvaldība.
   

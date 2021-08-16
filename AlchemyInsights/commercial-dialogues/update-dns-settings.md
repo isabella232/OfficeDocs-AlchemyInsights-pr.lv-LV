@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 37355c1b6658f21d35d03aacf292bbdc174a2359
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7dd2fbbd23beedda47bd724d84d717a3751f51f9607274d9b124f14463cf4b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745062"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045175"
 ---
 # <a name="update-dns-settings"></a>DNS iestatījumu atjaunināšana
 
-DNS iestatījumu atjaunināšana ietver to vērtību kopēšanu un ielīmēšanu, ko Office 365 sniedz jūsu domēnu reģistrētājs vai DNS viesošanas pakalpojumu sniedzējs. Lai to izdarītu, veiciet tālāk norādītās darbības.
+DNS iestatījumu atjaunināšana ietver to vērtību kopēšanu un ielīmēšanu, kuras Office 365 jūsu domēnu reģistrētājā vai DNS viesošanas pakalpojumu sniedz pakalpojumu sniedzēja vietnē. Lai to izdarītu, veiciet šādas darbības:
 
-1. Kopējiet un ielīmējiet vērtības, kas tiek rādītas lapā **DNS iestatījumu atjaunināšana** savā DNS viesošanas pakalpojumu sniedzējā.
-2. Noklikšķiniet uz **pārbaudīt**.
-3. Noklikšķiniet uz **pabeigt**.
+1. Nokopējiet un ielīmējiet lapā **DNS iestatījumu atjaunināšana redzamās vērtības** savam DNS viesošanas pakalpojumu sniedzējam.
+2. Noklikšķiniet **uz Pārbaudīt**.
+3. Noklikšķiniet **uz Pabeigt.**
