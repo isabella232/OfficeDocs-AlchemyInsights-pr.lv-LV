@@ -1,5 +1,5 @@
 ---
-title: DKIM Pielāgotā domēna iespējošana
+title: DKIM pielāgotā domēna iespējošana
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1a21101602f47dcb5c9b607d7bbccfacec00f43a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 753e0201363f3bf7c60c5b69df76176ad58e1b7a643f79f169c71af20b0a35d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035085"
 ---
-# <a name="enable-the-custom-domain-for-dkim"></a>DKIM Pielāgotā domēna iespējošana
+# <a name="enable-the-custom-domain-for-dkim"></a>DKIM pielāgotā domēna iespējošana
 
-Pēc tam, kad esat izveidojis savam pielāgotajiem domēniem CNAME ierakstus, ir jāiespējo šis domēns.
+Kad esat izveidojis CNAME ierakstus saviem pielāgotajiem domēniem, tas ir jāiespējo.
 
-Lai iespējotu domēnu, veiciet tālāk norādītās darbības.
+Lai iespējotu domēnu, veiciet šādas darbības:
 
-1. Pārejiet uz [Exchange administrēšanas centru](https://outlook.office365.com/ecp/).
-2. Kreisajā rūtī atlasiet **aizsardzība > DKIM**.
-3. Atlasiet domēnu un pēc tam sadaļā **parakstīt šī domēna ziņojumus ar DKIM parakstiem** noklikšķiniet uz **Iespējot**. Atkārtojiet šo darbību katram domēnam.
+1. Naviģējiet [uz Exchange administrēšanas centru](https://outlook.office365.com/ecp/).
+2. Kreisajā rūtī atlasiet aizsardzība pret **> dkim**.
+3. Atlasiet domēnu un pēc tam sadaļā **Šī domēna ziņojumu parakstīšana ar DKIM parakstiem** noklikšķiniet uz **Iespējot**. Atkārtojiet šo darbību katram domēnam.
 

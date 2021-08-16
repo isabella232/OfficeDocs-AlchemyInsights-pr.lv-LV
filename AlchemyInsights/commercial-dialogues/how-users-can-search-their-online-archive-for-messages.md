@@ -1,5 +1,5 @@
 ---
-title: Kā lietotāji var meklēt savus tiešsaistes arhīvu ziņojumus
+title: Kā lietotāji var meklēt ziņojumus tiešsaistes arhīvā
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034509"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kā lietotāji var meklēt savus tiešsaistes arhīvu ziņojumus
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kā lietotāji var meklēt ziņojumus tiešsaistes arhīvā
 
-Tiešsaistes arhīvs ir līdzeklis Office 365 uzņēmuma klientiem, kuriem ir nebieži lielas pastkastes. Lietotāja tiešsaistes arhīvs darbojas līdzīgi otram Outlook kontam ar savu mapju struktūru. Lai atrastu e-pasta ziņojumu savā tiešsaistes arhīvā:
+Tiešsaistes arhīvs ir līdzeklis, kas paredzēts Office 365 uzņēmuma klientiem, kuriem ir neparasti lielas pastkastes. Lietotāja tiešsaistes arhīvs darbojas kā otrs konts programmā Outlook ar savu mapju struktūru. Lai atrastu e-pastu savā tiešsaistes arhīvā:
 
-1. Tiešsaistes arhīvs nav iekļauts meklēšanā, kas veikta no iesūtnes. Jums ir jādodas uz tiešsaistes arhīvu un pēc tam jāveic meklēšana.
-2. Programmā Outlook tīmeklī arhīvs tiek dēvēts par *oriģinālu arhīvu*. Dodieties uz In-Place arhīva pastkasti un pēc tam veiciet meklēšanu.
-3. Programmā Outlook 2016 to sauc par *tiešsaistes arhīvu — <`name` >*. Dodieties uz tiešsaistes arhīva pastkasti un pēc tam veiciet meklēšanu.
+1. Tiešsaistes arhīvs nav iekļauts iesūtnē veiktā meklēšanā. Dodieties uz tiešsaistes arhīvu un pēc tam veiciet meklēšanu.
+2. Programmā Outlook tīmeklī arhīvs tiek dēvēts par *atrašanās vietas arhīvu.* Dodieties uz In-Place arhīva pastkasti un pēc tam veiciet meklēšanu.
+3. In Outlook 2016, it's called *Online Archive - `name` > <*. Dodieties uz tiešsaistes arhīva pastkasti un pēc tam veiciet meklēšanu.
 
 > [!TIP]
-> Lietotāji nevar piekļūt savai tiešsaistes arhīva pastkastei, izmantojot Outlook mobilajā ierīcē, piemēram, viedtālrunī.
+> Lietotāji nevar piekļūt tiešsaistes arhīva pastkastei, izmantojot Outlook ierīcē, piemēram, viedtaustiņu.
