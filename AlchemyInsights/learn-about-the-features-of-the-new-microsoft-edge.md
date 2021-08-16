@@ -1,5 +1,5 @@
 ---
-title: Uzziniet par jauno Microsoft Edge līdzekļu
+title: Uzziniet par jaunās programmas Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8226"
-ms.openlocfilehash: 9c139589d1ab6fef122acabe3341259ab3722b03
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: 1ecce6cde278b50c88405911336f24a4d4a59752c661afec62536d6dd824662e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054286"
 ---
-# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Uzziniet par jauno Microsoft Edge līdzekļu
+# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Uzziniet par jaunās programmas Microsoft Edge
 
-Microsoft Edge ir veidota, lai nodrošinātu pasaules līmeņa saderību un veiktspēju, drošību un privātumu, ko esat pelnījuši, un līdzekļus, kas jums ļaus izveidot lielāko daļu no tīmekļa:
+Microsoft Edge ir veidota, lai nodrošinātu pasaules līmeņa saderību un veiktspēju, jūsu drošību un konfidencialitāti, kā arī līdzekļus, kas sniedz jums iespēju pilnvērtīgi izmantot tīmekli:
 
-- **Pārlūkojiet ar pasaules līmeņa veiktspēju:** Gaidīt ātrumu, veiktspēju un saderību ar visām iecienītākajām vietnēm un paplašinājumiem.
-- **Lejupielādēt tūlīt vai gaidīt automātisku atjaunināšanu:** Lejupielādējiet pārlūkprogrammu tūlīt vai atjauniniet savu Windows 10 datoru un automātiski Iegūstiet jauno Microsoft Edge.
-- **Nemanāma darba sākšana:** Importējiet savas izlases un paroles no citām pārlūkprogrammām, lai visu nepieciešamo vienuviet.
-- **Ietaupīt naudu, izmantojot cenu salīdzinājumu:** Izmantojiet Microsoft Edge kolekcijas, lai salīdzinātu cenas vairākos mazumtirgotājos, veicot tikai vienu klikšķi.
-- **Pārlūkojiet ar vairāk konfidencialitātes un drošības:**
-  - **Datu kontrole:** Skatiet sadaļu ļaunprātīgi reģistrētāji, tiklīdz tie tiek bloķēti pārlūkprogrammā.
-  - **Esiet privāti tiešsaistē:** Izmantojiet InPrivate režīmu, lai nodrošinātu, ka jūsu pārlūkošanas vēsture un meklēšana netiek saglabāta jūsu kontā vai ierīcē.
-  - **Glabājiet savus tiešsaistes kontus drošībā:** Saņemt paziņojumu, tiklīdz jūsu akreditācijas dati ir kompromitēti.
+- **Pārlūkojiet pasaules līmeņa veiktspēju:** Paātriniet darbu, veiktspēju un saderību ar visām jūsu iecienītākajām vietnēm un paplašinājumiem.
+- **Lejupielādējiet tūlīt vai gaidiet automātisko atjaunināšanu:** Lejupielādējiet pārlūkprogrammu tūlīt vai atjauniniet savu Windows 10 un automātiski iegūstiet Microsoft Edge datorā.
+- **Nemanāma darba sākšana:** Importējiet izlasi un paroles no citām pārlūkprogrammām, lai vienuviet būtu viss nepieciešamais.
+- **Ietaupiet naudu, izmantojot cenu salīdzinājumu:** Izmantojiet Microsoft Edge kolekcijas, lai salīdzinātu cenas vairākiem mazumtirgotājiem, tikai vienreiz noklikšķinot.
+- **Pārlūkojiet ar papildu konfidencialitāti un drošību:**
+  - **Pārņemt savu datu vadību:** Skatiet ļaunprātīgos izsekotājus, tiklīdz pārlūkprogramma tos bloķē.
+  - **Privātums tiešsaistē:** Izmantojiet InPrivate režīmu, lai nodrošinātu, ka jūsu pārlūkošanas vēsture un meklēšana netiek saglabāta jūsu kontā vai ierīcē.
+  - **Nodrošiniet savu tiešsaistes kontu drošību.** Saņemiet paziņojumu, tiklīdz jūsu akreditācijas dati ir apdraudēti.
 
-- **Pārlūkojiet lielāko daļu ierīču:** Pārlūkojiet lielāko daļu ierīču, kas darbojas galvenajās operētājsistēmās.
+- **Pārlūkojiet lielākajā daļā ierīču:** Pārlūkojiet lielākajā daļā ierīču, kas darbojas lielās operētājsistēmās.
 
-Lai uzzinātu vairāk, skatiet rakstu [Microsoft Edge līdzekļi](https://go.microsoft.com/fwlink/?linkid=2146817).
+Papildinformāciju skatiet [rakstā Līdzekļu Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2146817)

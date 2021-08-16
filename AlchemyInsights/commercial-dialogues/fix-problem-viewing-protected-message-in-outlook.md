@@ -1,5 +1,5 @@
 ---
-title: Kā novērst problēmu saistībā ar aizsargāta ziņojuma skatīšanos programmā Outlook
+title: Ar aizsargāto ziņojumu skatīšanu programmā Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: a267e643031323baa448e51bca1b18a3030f43c2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5d560f62a349540fd0ba6a5df3cd0c210d1743c57ab7c74fac2967a90be23c80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017031"
 ---
-# <a name="fix-problem-viewing-protected-message-in-outlook"></a>Novērst problēmu, skatot aizsargātu ziņojumu programmā Outlook
+# <a name="fix-problem-viewing-protected-message-in-outlook"></a>Ar aizsargāto ziņojumu skatīšanu programmā Outlook
 
-Dažos gadījumos Outlook, iespējams, nevar atvērt no lietotāja sūtīto ziņojumu citā Microsoft 365 organizācijā, ja šis ziņojums ir aizsargāts ar informācijas piekļuves tiesību pārvaldību.
+Dažos gadījumos Outlook ziņojumu, kas nosūtīts no lietotāja citā organizācijā Microsoft 365 ja ziņojums ir aizsargāts ar informācijas piekļuves tiesību pārvaldību.
 
-Lai atvērtu un skatītu šādus aizsargātos ziņojumus, veiciet tālāk norādītās darbības.
+Lai atvērtu un skatītu šos aizsargātos ziņojumus, veiciet tālāk norādītās darbības.
 
-1. Pārliecinieties, vai esat instalējis Outlook 1808 + vai jaunākas versijas. Lai noskaidrotu versijas numuru, skatiet rakstu [kādu Office versiju es izmantoju?](https://support.microsoft.com/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
-2. Mēģiniet skatīt e-pastu, izmantojot Outlook tīmeklī: [Outlook tīmeklī pierakstīšanās](https://outlook.office365.com/mail/inbox)
+1. Pārliecinieties, vai esat instalējis Outlook 1808+ vai jaunāku versiju. Lai uzzinātu savas versijas numuru, [skatiet rakstu Kādu Office versiju es izmantoju?](https://support.microsoft.com/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+2. Mēģiniet skatīt e-pasta ziņojumu, Outlook tīmeklī: [Outlook tīmeklī pierakstīties](https://outlook.office365.com/mail/inbox)
 
 > [!NOTE]
-> Mēs strādājam, lai novērstu šo problēmu programmā Outlook 2016 un 2019. Tas netiks izlabots programmā Outlook 2010 vai 2013.
+> Mēs strādājam, lai problēmu novērstu programmā Outlook 2016 2019. Šīs darbības netiks novērstas 2010 Outlook 2013. gada datu lapā.

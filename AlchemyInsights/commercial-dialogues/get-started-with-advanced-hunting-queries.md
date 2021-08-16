@@ -1,5 +1,5 @@
 ---
-title: Darba sākšana ar papildu medību vaicājumiem
+title: Darba sākšana ar papildu meklēšanas vaicājumiem
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0dce5a6ac69994c8953401aba06aefb2d3761ff2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1819720b1c7dd1b5a0b5822f2ba7f9e6a6b7c2fec6d962ea411b8a3a350cc758
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016995"
 ---
-# <a name="get-started-with-advanced-hunting-queries"></a>Darba sākšana ar papildu medību vaicājumiem
+# <a name="get-started-with-advanced-hunting-queries"></a>Darba sākšana ar papildu meklēšanas vaicājumiem
 
-Microsoft drošības pētnieki regulāri koplieto [papildu medību vaicājumus GitHub](https://go.microsoft.com/fwlink/?linkid=2144624).
+Microsoft drošības speciālisti regulāri kopīgo [uzlabotus meklēšanas vaicājumus GitHub.](https://go.microsoft.com/fwlink/?linkid=2144624)
 
-Zinātnieki arī nodrošina papildu medību vaicājumus par tādu darbību un rādītāju atrašanu, kas saistīti ar [jaunajiem draudiem](https://go.microsoft.com/fwlink/?linkid=2145808). Šie vaicājumi ir nodrošināti kā daļa no draudu analīzes atskaitēm Microsoft Defender drošības centrā.
+Zinātnieki arī nodrošina uzlabotus meklēšanas vaicājumus atrašanai darbībām un indikatoriem, kas saistīti ar jauniem [apdraudējumiem.](https://go.microsoft.com/fwlink/?linkid=2145808) Šie vaicājumi tiek nodrošināti kā daļa no apdraudējumu analīzes atskaitēm Microsoft Defender drošības centrs.

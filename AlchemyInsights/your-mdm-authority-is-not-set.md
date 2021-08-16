@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046687"
 ---
 # <a name="your-mdm-authority-is-not-set"></a>Jūsu MDM iestāde nav iestatīta
 
-Šī nomnieka mobilo ierīču pārvaldības (MDM) pilnvara nav iestatīta. Jums ir jāiestata MDM iestāde, pirms varat reģistrēt un pārvaldīt ierīces, izmantojot Intune MDM. Neiestatot MDM iestādi, jūs nevarēsit izmantot Intune MDM līdzekļus. MDM iestādes iestatījums nosaka, kā jūs pārvaldāt savas ierīces.
+Šī nomnieka mobilo ierīču pārvaldības (Mobile Device Management — MDM) iestāde nav iestatīta. Pirms ierīču reģistrēšanas un pārvaldības, izmantojot Intune MDM, jums ir jāiestata MDM iestāde. Bez MDM iestādes iestatīšanas jūs nevarēsit izmantot Intune MDM līdzekļus. MDM iestādes iestatījums nosaka, kā pārvaldāt ierīces.
 
 Ieteicamās darbības:
-1. Pārejiet uz Intune reģistrācijas pārskata asmeni, lai iestatītu MDM iestādi.
-2. Izvēlieties attiecīgo iestādi atbilstoši savām administratīvajām vajadzībām. Papildinformāciju skatiet [rakstā mobilo ierīču pārvaldības iestādes raksta iestatīšana](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Pārejiet pie Intune reģistrācijas pārskata asmens, lai iestatītu MDM iestādi.
+2. Izvēlieties atbilstošo iestādi, ņemot vērā jūsu administratīvās vajadzības. Papildinformāciju skatiet rakstā [Mobilo ierīču pārvaldības iestādes raksta iestatīšana.](https://docs.microsoft.com/intune/mdm-authority-set)
