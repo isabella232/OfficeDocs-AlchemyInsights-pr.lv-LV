@@ -1,5 +1,5 @@
 ---
-title: Pasta aizkave, sūtot uz Office 365
+title: Pasta kavējumi, nosūtot Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 0f33b4987e11680e5e853b7b747b93767094b8ac
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099185"
 ---
-# <a name="mail-delays-when-sending-to-office-365"></a>Pasta aizkave, sūtot uz Office 365
+# <a name="mail-delays-when-sending-to-office-365"></a>Pasta kavējumi, nosūtot Office 365
 
-Ja maršrutējat pastu, izmantojot ProofPoint vai citas SendMail ziņojumapmaiņas sistēmas, un rodas aizkave, sūtot e-pastu uz Exchange Online, skatiet šo rakstu: [konfigurējiet ProofPoint e-pasta aizsardzību, izmantojot Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange).
+Ja maršrutējat pastu, izmantojot ProofPoint vai citas sūtīšanas_pasta ziņojumapmaiņas sistēmas, un rodas aizkaves, nosūtot e-pastu uz Exchange Online, skatiet šo rakstu: [Proofpoint](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)e-pasta aizsardzības konfigurēšana, izmantojot Exchange Online .
 
-Izmantojiet šo iespēju, lai konfigurētu izmaiņas, kas palīdz atrisināt pasta aizkaves problēmas.
+Izmantojiet šo, lai konfigurētu izmaiņas, kas palīdz novērst problēmas saistībā ar pasta aizkavi.

@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024537"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Iekšējās servera kļūdas programmā Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Iekšējas servera kļūdas tīmekļa Outlook.com
 
-Ak, nē! Ja tiek parādīts ziņojums "kļūda 500" vai "iekšēja servera kļūda", tas ir mums un ne ar ko neatvainojies.
+Oho, nē! Ja tiek parādīts ziņojums "Kļūda 500" vai "Iekšēja servera kļūda", tas ir mūsu ziņā, nevis jūs.
 
-Lai pārliecinātos, vai nav citas darbības, skatiet [lapu Office pakalpojuma statuss](https://portal.office.com/servicestatus) , lai iegūtu informāciju par to, kā rīkoties tālāk, taču labākais risinājums ir pārtraukums dažas minūtes, pēc tam atsvaidziniet savu pārlūkprogrammu, nospiežot **taustiņu kombināciju CTRL** un **F5**.
+Skatiet [Office](https://portal.office.com/servicestatus) pakalpojuma statusa lapu, lai pārliecinātos, vai nekas nenotiek, bet labākais risinājums ir dažas minūtes paņemt pārtraukumu, pēc tam atsvaidzināt pārlūkprogrammu, nospiežot taustiņus **CTRL** un **F5.**
