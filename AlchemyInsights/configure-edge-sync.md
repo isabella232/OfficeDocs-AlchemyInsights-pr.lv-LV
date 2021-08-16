@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge sinhronizācijas konfigurēšana
+title: Sinhronizācijas Microsoft Edge konfigurēšana
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9137"
 - "9004431"
-ms.openlocfilehash: c99e65ca931335a7db9d73b5a6d25a4ba4d1a769
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
-ms.translationtype: MT
+ms.openlocfilehash: 3a858dcda2df3d6148ca49aac6bc7384e810d34c00735deba74dfe9dd31f5656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51595716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033573"
 ---
-# <a name="configure-microsoft-edge-sync"></a>Microsoft Edge sinhronizācijas konfigurēšana
+# <a name="configure-microsoft-edge-sync"></a>Sinhronizācijas Microsoft Edge konfigurēšana
 
-Konfigurējiet Microsoft Edge sinhronizāciju, izmantojot grupu politikas un Pakalpojumu Azure informācijas aizsardzības (AIP). Papildinformāciju skatiet rakstā [Microsoft Edge uzņēmuma sinhronizācijas konfigurēšana.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-sync)
+Konfigurējiet Microsoft Edge sinhronizāciju, izmantojot grupas politikas un Azure informācijas aizsardzības (AIP) pakalpojumu. Papildinformāciju skatiet rakstā [Microsoft Edge sinhronizācijas konfigurēšana.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-sync)

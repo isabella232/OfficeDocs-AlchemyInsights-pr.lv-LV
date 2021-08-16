@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023997"
 ---
 # <a name="remote-work-setup-guide"></a>Attālā darba iestatīšanas rokasgrāmata
 
-Vairāk un vairāk darba tiek darīts attālināti. Jūsu organizācijai ir jābūt aprīkotai, lai pārvaldītu pieaugošu attālā darba pieprasījumu.
+Attālināti tiek paveikts vēl vairāk darbu. Jūsu organizācijai ir jābūt aprīkotai, lai pārvaldītu paaugstinātu attālā darba pieprasījumu.
 
-Izmantojiet [attālā darba iestatīšanas rokasgrāmatu](https://go.microsoft.com/fwlink/?linkid=2142062) , lai iespējotu svarīgus drošības līdzekļus un pārskatītu papildu drošības ieteikumus. Jūs saņemsit norādījumus, kā samazināt spriedzi jūsu VPN infrastruktūrā un pēc izvēles iestatīt attālo piekļuvi galddatoriem un programmām. Pēc tam pārskatiet savas Microsoft Teams un Office programmu izvietošanas iespējas.
+Izmantojiet [attālās darba iestatīšanas ceļvedi,](https://go.microsoft.com/fwlink/?linkid=2142062) lai iespējotu svarīgus drošības līdzekļus un pārskatītu papildu drošības ieteikumus. Jūs saņemsit norādījumus, lai samazinātu VPN infrastruktūras nospriešanu un pēc izvēles iestatītu attālo piekļuvi darbvirsmām un programmām. Pēc tam pārskatīsit savas programmu izvietošanas Microsoft Teams Office opcijas.

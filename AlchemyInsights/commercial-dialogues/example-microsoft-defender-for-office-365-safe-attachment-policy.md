@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Office 365 drošas pielikumu politikas piemērs
+title: Microsoft Defender for Office 365 Seifs Attachment politikas piemērs
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988302"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Microsoft Defender for Office 365 drošas pielikumu politikas piemērs
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Microsoft Defender for Office 365 Seifs Attachment politikas piemērs
 
-Šie iestatījumi nodrošina politikas nesekošanu *, kas nekavējoties* sniedz ziņojumus un pēc tam atkārtoti pievieno pielikumus pēc to skenēšanas:
+Šie iestatījumi iespējo politiku Bez *aizkaves,* kas tūlīt piegādā ziņojumus, un pēc tam vēlreiz ievadiet pielikumus pēc to skenēšanas:
 
-- **Nosaukums**: nav kavēšanās
-- **Apraksts**: nekavējoties sniedz ziņojumus un pēc skenēšanas vēlreiz pievieno pielikumus.
-- **Atbilde**: atlasiet **dinamiskās piegādes** opciju. Papildinformāciju skatiet rakstā [dinamiskā piegāde drošo pielikumu politikās](https://go.microsoft.com/fwlink/?linkid=2092328).
-- Sadaļā **novirzīšanas pielikums** : atlasiet opciju **novirzīšanas iespējošana** un pēc tam ievadiet sava Microsoft 365 globālā administratora, drošības administratora vai drošības analītiķis e-pasta adresi, kas izmeklēs ļaunprātīgus pielikumus.
-- **Lietots** sadaļā: atlasiet **adresātu domēnu** un pēc tam atlasiet savu domēnu. Atlasiet **Pievienot** un pēc tam atlasiet **Labi**. Kad tas ir izdarīts, atlasiet **Saglabāt**.
+- **Nosaukums**: nav aizkaves
+- **Apraksts:** piegādā ziņojumus tūlīt un no jauna pievieno pielikumus pēc skenēšanas.
+- **Atbilde:** atlasiet opciju **Dinamiskā** piegāde. Papildinformāciju skatiet rakstā [Dinamiskā piegāde Seifs pielikumu politikās.](https://go.microsoft.com/fwlink/?linkid=2092328)
+- **Novirzīšanas** pielikuma sadaļa: Atlasiet opciju Iespējot novirzīšanu **un** pēc tam ievadiet sava Microsoft 365 globālā administratora, drošības administratora vai drošības analītiķis, kas izmeklē ļaunprātīgus pielikumus, e-pasta adresi.
+- **Lietots** sadaļā: Atlasiet **Adresāta domēns ir** un pēc tam atlasiet savu domēnu. Atlasiet **pievienot** un pēc tam atlasiet **Labi**. Kad esat pabeidzis, atlasiet **Saglabāt**.
 
-Lai uzzinātu vairāk, skatiet rakstu [droši pielikumi pakalpojumā Microsoft Defender darbam ar Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).
+Papildinformāciju skatiet rakstā [Seifs pielikumiem programmatūrā Microsoft Defender Office 365.](https://go.microsoft.com/fwlink/?linkid=2092213)

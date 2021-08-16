@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994944"
 ---
 # <a name="set-up-an-automatic-reply"></a>Automātiskās atbildes iestatīšana
 
-Izmantojiet automātiskās atbildes, ja vēlaties, lai personas, kas jums sūta e-pastu, zinātu, ka jūs uzreiz neatbildat uz viņu ziņojumiem. Pēc tam, kad automātiskās atbildes ir ieslēgtas, tās tiks nosūtītas vienu reizi katram sūtītājam.
+Izmantojiet automātiskās atbildes, ja vēlaties ļaut jums e-pasta sūtītājiem uzzināt, ka uzreiz neatbildēsit uz viņu ziņojumiem. Ja ir ieslēgtas automātiskās atbildes, tās tiek vienreiz nosūtītas katram sūtītājam.
 
-1. Pierakstieties pakalpojumā Outlook.com.
-2. Navigācijas joslā izvēlieties **Iestatījumi**  >  **iestatīt automātiskās atbildes**. Ja netiek rādīta opcija **iestatīt automātiskās atbildes** , izvēlieties **iestatījumu**  >  **Opcijas**  >  **automātiskās atbildes**.
-3. Mainiet automātisko atbilžu iestatījumus šeit, ieskaitot tikai automātiskas atbildes uz noteiktu laika periodu, nosūtot atbildi visiem organizācijas dalībniekiem vai nosūtot atbildi tikai dalībniekiem ārpus jūsu organizācijas.
+1. Pierakstieties vietnē Outlook.com.
+2. Navigācijas joslā izvēlieties Iestatīt **Iestatījumi**  >  **atbildes**. Ja **opcija Iestatīt automātiskās** atbildes netiek rādīta, izvēlieties Iestatījumi Opcijas   >  **Automātiskās**  >  **atbildes**.
+3. Šeit mainiet automātisko atbilžu iestatījumus, tostarp automātisko atbilžu sūtīšanu uz noteiktu laika periodu, atbildes nosūtīšanu vienu reizi visiem dalībniekiem jūsu organizācijā vai atbildes sūtīšanu tikai dalībniekiem ārpus jūsu organizācijas.

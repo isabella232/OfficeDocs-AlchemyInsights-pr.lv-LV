@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989706"
 ---
 # <a name="about-yammer-admins"></a>Par Yammer administratoriem
 
 **Tīkla administratori**
 
-Globālie administratori tiek automātiski paaugstināti par verificētās administratora lomu Yammer tīklā. Tālāk norādītajos gadījumos šī reklāma var nedarboties pareizi.
+Globālie administratori tiek automātiski paaugstināti par verificētā administratora lomu Yammer tīklā. Tālāk šādos gadījumos šis piedāvājums var nebūt pareizi rādīts:
 
-- Pastāv vairāki Yammer tīkli, un administrators tiek pierakstīts nepareizā vietā. [Tīkla konsolidācija](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) ir nepieciešama, lai piekļūtu vienam Yammer tīklam.
-- Azure PIM tiek izmantots. Lietotājam var netikt paaugstināts līdz globālajam administratoram, lai varētu veikt paaugstinājumu. Nākotnē Yammer atjauninājums var atrisināt šo problēmu, bet vislabāk ir veicināt lietotāju globālo administrēšanu manuāli.
-- Ir sinhronizācijas problēma ar Yammer tīklu. Šajā gadījumā turpmākai izmeklēšanai būs nepieciešams atbalsta pieprasījums.
+- Pastāv Yammer tīklu, un administrators tiek pierakstīts nepareizā tīklā. [Lai piekļūtu](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) vienam tīklam, ir nepieciešama tīkla Yammer konsolidācija.
+- Tiek izmantots Azure PIM. Lietotāju nevar paaugstināt par globālo administratoru pietiekami ilgi, lai reklāma tiktu veikta. Turpmāku atjauninājumu uz Yammer var novērst šo problēmu, tomēr ieteicams manuāli paaugstināt lietotājus par globālajiem administratoriem.
+- Pastāv sinhronizācijas problēma ar Yammer tīklu. Šajā gadījumā nepieciešama turpmāka izpēte, lai saņemtu atbalsta pieprasījumu.
 
-Papildinformāciju par Yammer administratoru lomām skatiet rakstā [Yammer administratoru pārvaldība](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins).
+Papildinformāciju par administratoru Yammer skatiet [rakstā Yammer pārvaldība.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
-**Grupu Administratori**
+**Grupu administratori**
 
-Grupu Administratori Microsoft 365 Savienotajām grupām tiek sinhronizēti ar grupas dalību Azure AD. Lielām grupām šī sinhronizācija var ilgt ilgāku laiku.
+Grupu administratori Microsoft 365 pievienotajām grupām tiek sinhronizēti ar dalību grupā no Azure AD. Lielām grupām šīs sinhronizācijas ilgums var būt ilgāks.

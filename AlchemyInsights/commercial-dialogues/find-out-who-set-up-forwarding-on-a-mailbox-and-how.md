@@ -1,5 +1,5 @@
 ---
-title: Noskaidrojiet, kurš iestatīja pārsūtīšanu pastkastē un kā
+title: Uzziniet, kuri lietotāju iestatīšanas pastkastē un kā
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6a1a1376758024339939d10a7d17520faa8505ea
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988212"
 ---
-# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Noskaidrojiet, kurš iestatīja pārsūtīšanu pastkastē un kā
+# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Uzziniet, kuri lietotāju iestatīšanas pastkastē un kā
 
-Ja uz pastkastes ir iestatīta ārējā pārsūtīšana, aktivitāte tiek auditēta kā daļa no Set-Mailbox cmdlet. Tālāk ir aprakstīts, kā atrast aktivitāti audita žurnālfailā.
+Ja pastkastē tika iestatīta ārējā pārsūtīšana, darbība tiek auditēta kā daļa no Set-Mailbox cmdlet. Tālāk ir aprakstīts, kā atrast darbību audita žurnālā.
 
-1. Dodieties uz [Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **meklēšanas** >  **audita žurnālu meklēšana**.
+1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Atlasiet **Meklēt** >  **audita žurnāla meklēšanā**.
     > [!NOTE]
-    > Ja redzat paziņojumu par to, ka ir jāieslēdz auditēšana, pārejiet uz priekšu un ieslēdziet to tūlīt. Ja šis līdzeklis nav ieslēgts, meklēšanas rezultātos nevarēs paņemt datus no iepriekšējiem datumiem.
-1. Pārliecinieties, vai lauks **aktivitātes** ir iestatīts uz **Rādīt rezultātus visās aktivitātēs** (noklusējums). Norādiet datumu diapazonu. Nav jānorāda lietotājvārds.
-1. Atlasiet **Meklēt**. Darbības būs redzamas sadaļā **rezultāti**.
-1. Atlasiet **filtra rezultāti** un pēc tam laukā **darbību** filtrs ievadiet **Set-pastkaste** . Tas atgriež visas **iestatītās pastkastes** darbības.
-1. Lai skatītu detalizētu informāciju, atlasiet aktivitāti un pēc tam atlasiet **Papildinformācija**. Sadaļā **Parametri** varat redzēt pāradresēšanas e-pasta adresi, kas tika iestatīta pastkastē. Lietotāja **ID** norāda lietotāju, kurš ir iestatījis ārējo pārsūtīšanu pastkastē.
-Lai uzzinātu vairāk, skatiet rakstu [meklēšana Office 365 audita žurnālu, lai novērstu raksturīgākos scenārijus](https://go.microsoft.com/fwlink/?linkid=2103944).
+    > Ja redzat paziņojumu, ka ir jāieslēdz auditēšana, turpiniet un ieslēdziet to. Ja šis līdzeklis nav ieslēgts, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
+1. Pārliecinieties, **vai laukam** Darbības ir **iestatīta vērtība Rādīt visu darbību rezultātus** (noklusējums). Norādiet datumu diapazonu. Lietotājvārds nav jānorāda.
+1. Atlasiet **Meklēt**. Darbības tiek rādītas sadaļā **Rezultāti.**
+1. Atlasiet **Filtrēt rezultātus** un pēc tam laukā Darbības filtrs **ievadiet** **Set-mailbox.** Tādējādi tiek atgrieztas visas **set-mailbox** darbības.
+1. Lai skatītu detalizēto informāciju, atlasiet darbību un pēc tam atlasiet **Papildinformācija**. Sadaļā **Parametri** varat skatīt pastkastē iestatīto pārsūtīšanas e-pasta adresi. **UserID apzīmē** lietotāju, kurš iestata ārējo pārsūtīšanu pastkastē.
+Papildinformāciju skatiet rakstā [Meklēšana audita Office 365, lai novērstu izplatītus scenārijus.](https://go.microsoft.com/fwlink/?linkid=2103944)

@@ -1,5 +1,5 @@
 ---
-title: Office iepriekšējo MSI versiju noņemšana
+title: Vecākas programmas MSI versiju noņemšana Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023781"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Office iepriekšējo MSI versiju noņemšana
+# <a name="remove-prior-msi-versions-of-office"></a>Vecākas programmas MSI versiju noņemšana Office
 
-Pirms Office 365 ProPlus instalēšanas iesakām noņemt iepriekšējās Office Windows Installer (MSI) versijas. Tālāk ir aprakstīts, kā to paveikt.
+Pirms programmas Windows instalēšanas ieteicams noņemt programmas Office (MSI) Office 365 ProPlus. Lūk, kā to paveikt:
 
-1. Ja esat izmantojis MSI, lai instalētu Office, varat izmantot Office izvietošanas rīku (ODT), lai atinstalētu Office. Varat izmantot RemoveMSI elementu **configuration.xml** failā.
-1. Izpildiet norādījumus šajā rakstā: [Office 365 drošības & atbilstības centrs.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Ja izmantojat MSI, lai instalētu Office, varat izmantot Office izvietošanas rīku (ODT), lai atinstalētu Office. Varat izmantot RemoveMSI elementu savā **configuration.xml** failā.
+1. Izpildiet šajā rakstā minētās darbības: [Office 365 drošības & centrs.](https://go.microsoft.com/fwlink/p/?linkid=2077143)

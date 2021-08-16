@@ -11,20 +11,20 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e16d56681825ab469f4dc9c142fc0fc22bdce62ba6a4bedce0ad8f488acf71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023961"
 ---
 # <a name="remove-a-hub-site"></a>Centrmezgla vietnes noņemšana
 
-Lai atreģistrētu centrmezgla vietni jaunajā SharePoint administrēšanas centrā:
+Lai atceltu centrmezgla vietnes reģistrāciju jaunajā administrēšanas SharePoint centrā:
   
-1. Jaunajā SharePoint administrēšanas centrā sadaļā **vietnes**noklikšķiniet uz **aktīvās vietnes**.
+1. Jaunā administrēšanas SharePoint sadaļā Vietnes **noklikšķiniet uz** Aktīvās **vietnes**.
 
-2. Atlasiet vietni, noklikšķiniet uz **centrmezgla vietne**un pēc tam noklikšķiniet uz **reģistrēt kā centrmezgla vietni**.
+2. Atlasiet vietni, noklikšķiniet uz **Centrmezgla vietne** un pēc tam noklikšķiniet **uz Atcelt reģistrāciju kā centrmezgla vietni**.
 
 3. Noklikšķiniet uz **Labi**.
 
