@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987402"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295914"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>.pst faila importēšana no operētājsistēmas Outlook for Windows Outlook for Mac 
 
-Lai pārsūtītu ziņojumus un citus vienumus no Windows datora uz Mac datoru, Outlook for Mac var importēt Outlook datu failus (.pst), kas ir izveidoti Outlook operētājsistēmai Windows.
+Lai pārsūtītu ziņojumus un citus vienumus no Windows datora uz Mac datoru, Outlook for Mac var importēt Outlook datu failus (.pst), kas ir izveidoti programmā Outlook for Windows.
 
 **Jaunākās versijās — .pst faila importēšana no Windows Mac datorā**
 
@@ -34,29 +34,28 @@ Lai pārsūtītu ziņojumus un citus vienumus no Windows datora uz Mac datoru, O
 
 4. Kad importēšana ir pabeigta, noklikšķiniet uz **Pabeigt.**
 
-   Importētie vienumi tiek rādīti navigācijas rūtī sadaļā **Manā datorā.**
+   Importētie vienumi tiek rādīti navigācijas rūtī **sadaļā Manā datorā.**
 
 
 **2011. Office. gadā — importējiet .pst failu no Outlook importējot Windows**
 
 1. Pārsūtiet .pst failu uz Macintosh datoru.
 
-2. Izvēlnē fails Outlook for Mac **noklikšķiniet** uz **Importēt.**
+2. Izvēlnē fails Outlook **for** Mac noklikšķiniet uz **Importēt.**
 
 3. Noklikšķiniet **Outlook datu failu un** pēc tam noklikšķiniet uz labās bultiņas.
 
-4. Atlasiet **Outlook failu Windows failu un pēc** tam noklikšķiniet uz labās bultiņas.
+4. Atlasiet **Outlook datu Windows un pēc tam** noklikšķiniet uz labās bultiņas.
 
 5. Atrodiet datu failu savā datorā un pēc tam noklikšķiniet uz **Importēt.**
 
 6. Kad importēšana ir pabeigta, noklikšķiniet uz **Gatavs.**
 
-   Importētie vienumi tiek rādīti navigācijas rūtī sadaļā **Manā datorā.**
+   Importētie vienumi tiek rādīti navigācijas rūtī **sadaļā Manā datorā.**
 
-> [!NOTE]
-> Outlook for Mac var importēt tikai unicode .pst failus, kas ir standarta formāts personisko mapju failiem operētājsistēmai Outlook (operētājsistēmai Windows) 2003 un jaunākām versijām. ANSI formāta .pst faili, kas dēvēti arī par Outlook 97-2002 personisko mapju failiem, bija standarta personisko mapju formāts datu saglabāšanai Outlook for Windows versijās 97-2002. Šo faila formātu nevar importēt programmā Outlook Mac datoriem. Ja jums ir vecāka ANSI formāta .pst faila versija, nav pieejama automatizēta procedūra šī faila konvertēšanai jaunākā failu formātā. Taču varat izveidot jaunu Outlook datu failu (.pst) programmā Microsoft Outlook operētājsistēmai Windows 2003 vai jaunākām versijām un pēc tam importēt vienumus no vecāka faila jaunajā failā. Pēc tam varat importēt jauno .pst failu programmā Outlook Mac datoriem. Papildinformāciju par .pst failu un vienumu importēšanu skatiet savas programmas Outlook for Windows. 
+**Piezīme.** Outlook operētājsistēmai Mac var importēt tikai unicode .pst failus, kas ir standarta formāts personisko mapju failiem operētājsistēmas Outlook (Windows) 2003 un jaunākām versijām. ANSI formāta .pst faili, kas dēvēti arī par Outlook 97-2002 personisko mapju failiem, bija standarta personisko mapju formāts datu saglabāšanai programmā Outlook darbam ar Windows versijās 97-2002. Šo failu formātu nevar importēt programmā Outlook for Mac. Ja jums ir vecāka ANSI formāta .pst faila versija, nav pieejama automatizēta procedūra šī faila konvertēšanai jaunākā failu formātā. Taču varat izveidot jaunu Outlook datu failu (.pst) programmā Microsoft Outlook operētājsistēmai Windows 2003 vai jaunākām versijām un pēc tam importēt vienumus no vecākā faila jaunajā failā. Pēc tam varat importēt jauno .pst failu programmā Outlook Mac datoriem. Papildinformāciju par .pst failu un vienumu importēšanu skatiet savas programmas Outlook for Windows. 
 
-**Atvērt Outlook failu (.pst vai .olm)**
+**Atvērt datu Outlook (.pst vai .olm)**
 
 Varat importēt datu Outlook failu Windows (.pst) vai mac datu Outlook failu (.olm). Šajos datu failos var būt iekļauts liels datu apjoms ar vairākiem vienumu tipiem. Outlook Datu faili tiek bieži izmantoti kā arhīvs vai datu pārsūtīšanai starp datoriem.
 
@@ -70,20 +69,19 @@ Varat importēt datu Outlook failu Windows (.pst) vai mac datu Outlook failu (.o
 
 5. Kad importēšana ir pabeigta, noklikšķiniet uz **Gatavs.**
 
-Importētie vienumi tiek rādīti navigācijas rūtī sadaļā **Manā datorā.**
+Importētie vienumi tiek rādīti navigācijas rūtī **sadaļā Manā datorā.**
 
-> [!NOTE]
-> Outlook operētājsistēmai Mac var importēt tikai unikoda .pst failus, kas ir standarta formāts personisko mapju failiem operētājsistēmas Outlook (operētājsistēmai Windows) 2003 un jaunākām versijām. ANSI formāta .pst failus, kas dēvēti arī par Outlook 97-2002 personisko mapju failus, nevar importēt programmā Outlook for Mac. Ja jums ir vecāka ANSI formāta .pst faila versija, nav pieejama automatizēta procedūra šī faila konvertēšanai jaunākā failu formātā. Taču varat izveidot jaunu Outlook datu failu (.pst) programmā Microsoft Outlook for Windows 2003 vai jaunākā versijā un pēc tam importēt vienumus no vecāka faila jaunajā failā. Pēc tam varat importēt jauno .pst failu programmā Outlook Mac datoriem. Papildinformāciju par .pst failu un vienumu importēšanu skatiet savas programmas Outlook for Windows. 
+**Piezīme.** Outlook operētājsistēmai Mac var importēt tikai unikoda .pst failus, kas ir standarta formāts personisko mapju failiem operētājsistēmas Outlook (operētājsistēmā Windows) 2003 un jaunākās versijās. ANSI formāta .pst failus, kas dēvēti arī par Outlook 97-2002 personisko mapju failus, nevar importēt programmā Outlook for Mac. Ja jums ir vecāka ANSI formāta .pst faila versija, nav pieejama automatizēta procedūra šī faila konvertēšanai jaunākā failu formātā. Taču varat izveidot jaunu Outlook datu failu (.pst) programmā Microsoft Outlook sistēmai Windows 2003 vai jaunākai versijai un pēc tam importēt vienumus no vecāka faila jaunajā failā. Pēc tam varat importēt jauno .pst failu programmā Outlook Mac datoriem. Papildinformāciju par .pst failu un vienumu importēšanu skatiet savas programmas Outlook for Windows. 
 
 **Entourage vienumu atvēršana no arhīva vai vecākas versijas**
 
 Varat importēt vienumus, piemēram, e-pasta ziņojumus, kontaktpersonas un notikumus no Entourage 2004, Entourage 2008 vai Entourage 2008 tīmekļa pakalpojumu izdevuma. Varat arī importēt šos vienumus no Entourage arhīva ar .rge paplašinājumu.
 
-1. Izvēlnē fails Outlook for Mac **noklikšķiniet** uz **Importēt.**
+1. Izvēlnē fails Outlook **for** Mac noklikšķiniet uz **Importēt.**
 
 2. Noklikšķiniet **uz Entourage informācija no arhīva vai vecākas versijas,** noklikšķiniet uz labās bultiņas un pēc tam izpildiet norādījumus.
 
-> [!NOTE]
+**Piezīme.**
 - Ja izmantojāt Microsoft Exchange kontu ar Entourage, visi vienumi šajā Exchange tiek lejupielādēti no Exchange servera pēc importēšanas procesa pabeigšanas. Visas ar šo kontu Exchange saistītās kārtulas vai grafikus būs atkārtoti jākonfigurē Outlook.
 
 - Ja importējat vienumus no Entourage 2004 vai Entourage 2008, Exchange kontā esošo vienumu kategorijas informācija netiek importēta Outlook. Tomēr, ja tiek lietots Entourage 2008 tīmekļa pakalpojumu izdevums, kategorijas informācija tiks lejupielādēta no Exchange servera.
@@ -100,8 +98,7 @@ Varat importēt vienumus, piemēram, e-pasta ziņojumus, kontaktpersonas un noti
 
 3. Meklēšanas lodziņā ievadiet mapes nosaukumu, kuru vēlaties pārvietot, un noklikšķiniet uz **Pārvietot.**
 
-> [!TIP]
-> Lai kopētu vienumu no arhīva mapes uz citu Outlook programmā Outlook vienkārši velciet vienumu uz mapi, kurā vēlaties ievietot kopiju.
+   **Padoms.** Lai vienumu kopētu no arhīva mapes uz citu mapi programmā Outlook, vienkārši velciet vienumu uz mapi, kurā vēlaties ievietot kopiju.
 
 **Skatiet arī**
 
@@ -112,4 +109,4 @@ Varat importēt vienumus, piemēram, e-pasta ziņojumus, kontaktpersonas un noti
 
 - [Vienumu eksportēšana vai manuāla Outlook arhivēšana](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
 
-- [Automātiska dokumentu vienumu Outlook arhivēšana vai dublēšana](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Automātiska vienumu arhivēšana Outlook dublēšana](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

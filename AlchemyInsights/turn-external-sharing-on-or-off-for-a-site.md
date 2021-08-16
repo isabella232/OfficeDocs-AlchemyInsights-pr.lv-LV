@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c5aabe52ce1a294b97b0e85fbf04c61456c87b240b40328febe1634aad1a17c6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3a7075bc26526567b74afb2996da8f60b3318000
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53920366"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295544"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Ārējās koplietošanas ieslēgšana un izslēgšana SharePoint vietnei
 
@@ -27,9 +27,8 @@ Vietnei:
     
 2. Atlasiet vietni vai vietnes un lentē noklikšķiniet uz **Koplietošana.**
     
-Pēc noklusējuma jaunām vietnēm, kuras lietotāji izveido (abas grupas vietnes, kas pieder Microsoft 365 grupām un saziņas vietnēm), ir vienāds koplietošanas iestatījums kā organizācijas mēroga iestatījumam, ja vien organizācijas mēroga iestatījums neļauj koplietot failus, izmantojot saites, kurām nav nepieciešama pierakstīšanās. Šādā gadījumā vietnes ļauj koplietot informāciju ar jauniem un esošiem ārējiem lietotājiem, kas pierakstās. Lai mainītu konkrētas vietnes iestatījumu, izmantojiet jauno SharePoint centru.
+Pēc noklusējuma jaunām vietnēm, kuras lietotāji izveido (abas grupas vietnes, kas pieder Microsoft 365 grupām un saziņas vietnēm), ir vienāds koplietošanas iestatījums kā organizācijas mēroga iestatījumam, ja vien organizācijas mēroga iestatījums neļauj koplietot failus, izmantojot saites, kurām nav nepieciešama pierakstīšanās. Šādā gadījumā vietnes ļauj koplietot informāciju ar jauniem un esošiem ārējiem lietotājiem, kas pierakstās. Lai mainītu iestatījumu noteiktām vietnēm, izmantojiet jauno SharePoint administrēšanas centru.
   
-> [!NOTE]
-> Ārējās koplietošanas iestatījums jebkurā vietnē var būt ierobežojošāks nekā iestatījums visas organizācijas mērogā, taču tas nav ierobežotāks par iestatījumiem visā organizācijā. 
+**Piezīme.** Ārējās koplietošanas iestatījums jebkurā vietnē var būt ierobežojošāks nekā organizācijas mēroga iestatījums, taču tas nav ierobežotāks par iestatījumiem visā organizācijā. 
   
 

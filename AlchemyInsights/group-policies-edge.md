@@ -1,5 +1,5 @@
 ---
-title: Ar atjauninājumiem saistīto grupu politiku izmantošana, kas pieejamas Microsoft Edge
+title: Ar atjauninājumiem saistītu grupu politiku izmantošana, kas Microsoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 5afae22d7327a5d841964c12c73d70904ae72132b82810af74d32fc15ef30d6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3bb3e7756cade296671d679b0ad7babe3051d418
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963974"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295878"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Ar atjauninājumiem saistīto grupu politiku izmantošana, kas pieejamas Microsoft Edge
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Ar atjauninājumiem saistītu grupu politiku izmantošana, kas Microsoft Edge
 
-Izmantojiet politikās, kas pieejamas Microsoft Edge (77. versija vai jaunāka versija), lai kontrolētu, Microsoft Edge atjaunināšanas laiku. Papildinformāciju skatiet rakstā [Microsoft Edge — politiku atjaunināšana.](/DeployEdge/microsoft-edge-update-policies#available-policies)
+Izmantojiet versijās (77 Microsoft Edge versijā) pieejamās politikas, lai kontrolētu, kā un Microsoft Edge atjaunināšanas. Papildinformāciju skatiet rakstā [Microsoft Edge — politiku atjaunināšana.](https://docs.microsoft.com/DeployEdge/microsoft-edge-update-policies#available-policies)

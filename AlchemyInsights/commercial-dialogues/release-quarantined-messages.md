@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966980"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296058"
 ---
 # <a name="release-quarantined-messages"></a>Karantīnā ievietoto ziņojumu izlaišana
 
-Varat izlaist karantīnā ievietotu ziņojumu (vai ziņojumu kopu) visiem adresātiem vai arī izlaist ziņojumu tikai konkrētām personām, kuras izvēlaties sarakstā visiem adresātiem.
+Varat izlaist karantīnā ievietotu ziņojumu (vai ziņojumu kopu) visiem adresātiem vai arī izlaist ziņojumu tikai konkrētām personām, kuras izvēlaties sarakstā visiem adresātiem. Tālāk aprakstīts, kā to paveikt.
 
-1. Dodieties [uz drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Dodieties uz **sadaļu Apdraudējumu pārvaldības**  >  **pārskatīšana karantīnā**  >  .
-3. Izvēlieties ziņojumu(-s), ko vēlaties izlaist.
-4. Pēc ziņojuma izlaišanas izvēlieties **Atsvaidzināt,** lai atsvaidzinātu datus, un pēc tam veiciet dubultklikšķi uz ziņojuma. Redzēsit, ka ziņojums ir izlaists paredzētajiem adresātiem.
+1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com> E-pasts un & **Sadarbības pārskatīšana** \> **karantīnā** \> .
+
+   Lai pārietu tieši uz lapu **Karantīnā,** izmantojiet <https://security.microsoft.com/quarantine> .
+
+2. Lapā **Karantīnā** pārbaudiet, vai ir atlasīta **e-pasta** cilne, un pēc tam veiciet kādu no šīm darbībām:
+   - **Atsevišķs** ziņojums: Atlasiet ziņojumu. Parādītā detalizētās informācijas izlidošanas logā atlasiet Izlaist **e-pastu**, konfigurējiet vajadzīgās opcijas un pēc tam noklikšķiniet uz **Laidiena ziņojums**.
+   - **Vairāki ziņojumi:** atlasiet līdz 100 ziņojumu, lai atbrīvotu ziņojumu visiem adresātiem (jūs nevarat norādīt atsevišķus sākotnējos adresātus). Parādītā **nolaižamajā sarakstā** Lielapjoma darbības atlasiet Laidiena **ziņojumi**, konfigurējiet vajadzīgās opcijas un pēc tam noklikšķiniet uz **Laidiena ziņojums.**
+
+Papildinformāciju skatiet šādos rakstos:
+
+- [Karantīnā ievietoto ziņojumu atrašana un atlaidšana lietotājam](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karantīnā ievietoto ziņojumu un failu pārvaldība administratora veidā](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

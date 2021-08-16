@@ -1,5 +1,5 @@
 ---
-title: Trūkst Microsoft 365 programmu
+title: Microsoft 365 trūkstošas programmas
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 1c3c2e1b590cf5834b71165f3f4b1bf44babd6da
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 442c7fd4da7d6419c255f37ee6ed66133b45b1e55ddcb27b2ba9b5697572ebd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065039"
 ---
-# <a name="microsoft-365-apps-missing"></a>Trūkst Microsoft 365 programmu
+# <a name="microsoft-365-apps-missing"></a>Microsoft 365 trūkstošas programmas
 
-Ja pēc instalēšanas vai atjaunināšanas datorā nevarat atrast Office lietojumprogrammas, skatiet rakstu Vai nevarat atrast Office lietojumprogrammas operētājsistēmā [Windows 10, Windows 8 vai Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). Ja nevarat atrast Office saīsnes izvēlnē Sākt vai sadaļā Visas **programmas,** skatiet rakstu Visās Windows 10 programmās trūkst [Microsoft 365 programmu.](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc) 
+Ja pēc instalēšanas vai atjaunināšanas datorā nevarat atrast Office lietojumprogrammas, skatiet rakstu Vai nevarat atrast Office lietojumprogrammas programmā [Windows 10, Windows 8 vai Windows 7?.](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6) Ja neredzat Office saīšņu sarakstu Sākuma izvēlne sadaļā Visas programmas, skatiet rakstu Microsoft 365 trūkst visu lietojumprogrammu jūsu [Windows 10.](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc) 
 
-Mēģiniet labot [Office lietojumprogrammu,](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) ja pēc pieteikšanās vai datora restartēšanas pazūd Office saīsnes. 
+Mēģiniet labot [lietojumprogrammu, Office ja](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) Office pēc pieteikšanās vai datora restartēšanas pazūd īsinājumtaustiņus. 
 
-**Piezīme.** Ja Office portālā instalēšanai trūkst Microsoft 365 programmu, dodieties uz Problēmu novēršana saistībā ar [Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) instalēšanu un dodieties uz **Office** darbam Bieži sastopamās problēmas Neredzat  >    >  **opciju instalēt Office**. 
+**Piezīme.** Ja Microsoft 365 programmu instalēšanai Office portālā, dodieties uz Problēmu novēršana saistībā ar [Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) instalēšanu un dodieties uz **Office** darbam Bieži sastopamās problēmas Neredzat opciju, lai instalētu  >    >  **Office**. 
