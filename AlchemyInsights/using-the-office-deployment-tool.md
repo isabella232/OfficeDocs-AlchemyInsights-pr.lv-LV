@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083777"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Izmantojot Office izvietošanas rīku (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Office izvietošanas rīka (ODT) izmantošana
 
-Izmantojiet Office izvietošanas rīku (ODT), lai izvietotu Office 365 Office versijas. Office izvietošanas rīku (setupodt.exe) izpilda no komandrindas un izmanto konfigurācijas XML failu, lai noteiktu, kādi iestatījumi jālieto, izvietojot Office.
+Varat izmantot Office rīku (ODT), lai izvietotu Office 365 versijas Office. Office rīks (setup.exe) tiek palaists no komandrindas un izmanto XML konfigurācijas failu, lai noteiktu, kādi iestatījumi ir jālieto, izvietojot Office.
   
-1. Lejupielādējiet jaunāko Office izvietošanas rīka versiju no [Microsoft lejupielādes centra](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Lejupielādējiet jaunāko Office izvietošanas rīku no [Microsoft lejupielādes centra.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. Izmantojiet [Office pielāgošanas rīku (Oct)](https://config.office.com) , lai atlasītu izvietošanas preferences un izveidotu konfigurācijas XML failu. Eksportējiet konfigurācijas failu un novietojiet to lokāli tajā pašā mapē, kur atrodas setupodt.exe.
+2. Izmantojiet Office [rīku (OCT), lai](https://config.office.com) atlasītu izvietošanas preferences un izveidotu xml faila konfigurāciju. Eksportējiet konfigurācijas failu un ievietojiet to lokāli tajā pašā mapē, setup.exe atrodas.
 
-    **Piezīme:** Office instalēšanas problēmas parasti rodas nepareizi konfigurētu vai malformatted konfigurācijas failu dēļ. Lai izvairītos no šādām problēmām, iesakām izmantot Office pielāgošanas rīku, lai izveidotu konfigurācijas failu. Varat arī importēt esošos konfigurācijas failus Office pielāgošanas rīkā.
+    **Piezīme.** Office instalēšanas problēmas parasti rodas nepareizi konfigurētu vai malformatētu konfigurācijas failu dēļ. Lai novērstu šādas problēmas, iesakām izmantot pielāgošanas rīku Office lai izveidotu konfigurācijas failu. Varat arī importēt esošos konfigurācijas failus Office pielāgošanas rīkā.
 
-3. Priviliģētā komandu uzvednē pārejiet uz atrašanās vietu, kur setupodt.exe atrodas, un palaidiet Office izvietošanas rīku lejupielādes režīmā un norādiet konfigurācijas failu, kuru tikko saglabājāt. Šajā piemērā konfigurācijas faila nosaukums ir Configuration.xml:
+3. Priviliģētā komandu uzvednē pārslēdzieties uz atrašanās vietu, setup.exe atrodas un palaidiet Office izvietošanas rīku lejupielādes režīmā un norādiet tikko saglabāto konfigurācijas failu. Šajā piemērā konfigurācijas faila nosaukums ir Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. palaidiet Office izvietošanas rīku konfigurēšanas režīmā un norādiet konfigurācijas failu.
+4.Palaidiet Office izvietošanas rīku konfigurēšanas režīmā un norādiet konfigurācijas failu.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Piezīme:** Šī darbība ir jāveic no klienta datora, kurā vēlaties instalēt Office, un jums ir nepieciešamas lokālā administratora atļaujas šajā datorā.
+**Piezīme.** Šī darbība ir jāveic klienta datorā, kurā vēlaties instalēt Office un jābūt lokālā administratora atļaujām šajā datorā.
 
-Lai uzzinātu vairāk par to, kā izmantot Office izvietošanas rīku Microsoft 365 lietojumprogrammām uzņēmuma izvietošanas scenārijiem, skatiet rakstu [pārskats par Office izvietošanas rīku](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Lai iegūtu papildinformāciju par to, kā izmantot Office pielāgošanas rīku, skatiet rakstu [pārskats par Office pielāgošanas rīku](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Papildinformāciju par Office izvietošanas rīka izmantošanu Microsoft 365 programmas lieluzņēmumiem izvietošanas scenārijos, skatiet [rakstā Office izvietošanas rīka pārskats.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Papildinformāciju par pielāgošanas Office izmantošanu skatiet rakstā Pārskats [Office pielāgošanas rīku.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

@@ -1,5 +1,5 @@
 ---
-title: Šifrēta e-pasta nosūtīšana, izmantojot Outlook
+title: Šifrētu e-pasta ziņojumu sūtīšana, izmantojot Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081546"
 ---
-# <a name="send-encrypted-email-using-outlook"></a>Šifrēta e-pasta nosūtīšana, izmantojot Outlook
+# <a name="send-encrypted-email-using-outlook"></a>Šifrētu e-pasta ziņojumu sūtīšana, izmantojot Outlook
 
-Lietotāji var šifrēt e-pasta ziņojumus katrā atsevišķā gadījumā, izmantojot programmu Outlook bez papildu iestatīšanas. Lai to izdarītu, veiciet tālāk norādītās darbības.
+Lietotāji var šifrēt e-pasta ziņojumus katrā gadījumā atsevišķi, izmantojot Outlook bez papildu iestatīšanas. Lai to izdarītu, veiciet šādas darbības:
 
-1. Programmā Outlook: a. Izveidojiet e-pasta ziņojumu un izvēlieties **opcijas > šifrēt**. 
-    b. Noklikšķiniet uz **tikai šifrēt** vai **Nepārsūtīt**.
+1. Programmā Outlook: a. Izveidojiet e-pasta ziņojumu un **izvēlieties Opcijas > Šifrēšana.** 
+    b. Noklikšķiniet uz **Tikai šifrēšana vai** **Nepārsūta.**
 
-2. Programmā Outlook tīmeklī: a. Izveidojiet e-pasta ziņojumu un izvēlieties **> šifrētu**.
-    b. Noklikšķiniet uz **Šifrēt** vai **Nepārsūtīt**.
+2. Lodziņā Outlook tīmeklī: a. Izveidojiet e-pasta ziņojumu un **izvēlieties > Šifrēšana.**
+    b. Noklikšķiniet uz **Šifrēt** vai **Nepārsūta.**
 
 > [!TIP]
-> Zināmie failu formāti ir aizsargāti. Tomēr faili, kas nosūtīti kā pielikumi no OneDrive darbam, nav šifrēti. Visu atbalstīto failu tipu sarakstu skatiet sadaļā [Azure Information Protection klienta atbalstītie failu tipi](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types).
+> Zināmie failu formāti ir aizsargāti. Tomēr faili, kas nosūtīti kā pielikumi no OneDrive darbam, netiek šifrēti. Visu atbalstīto failu tipu sarakstu skatiet rakstā [Azure informācijas aizsardzības klienta atbalstītie failu tipi.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
-Papildinformāciju skatiet rakstā [šifrētu ziņojumu sūtīšana, skatīšana un atbildēšana uz tiem programmā Outlook darbam ar PC datoru](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Papildinformāciju skatiet rakstā [Šifrētu ziņojumu sūtīšana, skatīšana un atbildēšana uz](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)tiem programmā Outlook for PC .
 
 
 

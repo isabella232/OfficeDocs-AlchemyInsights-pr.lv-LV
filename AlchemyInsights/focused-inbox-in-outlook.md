@@ -1,5 +1,5 @@
 ---
-title: 1800019 svarīgo ziņojumu Iesūtne programmā Outlook
+title: 1800019 iesūtne programmā Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117023"
 ---
-# <a name="focused-inbox-in-outlook"></a>Svarīgo ziņojumu Iesūtne programmā Outlook
+# <a name="focused-inbox-in-outlook"></a>Focused Inbox in Outlook
 
-Svarīgo ziņojumu Iesūtne atdala jūsu iesūtni divās cilnēs — svarīgie un citi. Jūsu svarīgākie ziņojumi atrodas cilnē svarīgie, bet pārējie joprojām ir viegli pieejami, bet ārpus tā — cilnē citi.
+Focused Inbox separates your inbox into two tabs — Focused and Other. Jūsu svarīgākie ziņojumi atrodas cilnē Svarīgie, bet pārējie joprojām ir ērti pieejami, lai arī atrodas nostāk — cilnē Citi.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook tīmeklī](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 darbam ar Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Pasts darbam ar Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook tīmeklī](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Pasts Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-apgūt vairāk:
+Papildinformācija:
   
-- [Skatīt svarīgo ziņojumu iesūtni darbībā](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Skatiet, kā rīkojas fokusēta ziņojumu iesūtne](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Svarīgo ziņojumu iesūtnes konfigurēšana visiem organizācijas lietotājiem, izmantojot PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Configure Focused Inbox for everyone in your organization with PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
