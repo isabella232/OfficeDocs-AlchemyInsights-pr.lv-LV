@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online terminu krātuvē trūkst terminu
+title: Tīmekļa programmu veikalā SharePoint trūkst terminu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106433"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker šifrēšanas iespējošana ar Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Bitlocker šifrēšanas iespējošana ar Intune
 
-Intune Endpoint Protection politiku var izmantot, lai konfigurētu Boitlocker šifrēšanas iestatījumus Windows ierīcēm, kā aprakstīts: Windows 10 (un jaunākas versijas) iestatījumi, lai aizsargātu ierīces, kas izmanto Intune
+Intune galapunktu aizsardzības politiku var izmantot, lai konfigurētu Boitlocker šifrēšanas iestatījumus Windows ierīcēs, kā aprakstīts rakstā : Windows10 (un jaunākas versijas) iestatījumi ierīču aizsardzībai, izmantojot Intune
 
-Ņemiet vērā, ka daudzās jaunākās ierīcēs, kurās darbojas operētājsistēma Windows 10, tiek atbalstīta automātiskā BitLocker šifrēšana, kas tiek palaista, nelietojot MDM politiku. Tas var ietekmēt politikas lietojumu, ja nav konfigurēti noklusējuma iestatījumi. Detalizētāku informāciju skatiet rakstā bieži uzdotie jautājumi.
-
-
-Bieži uzdotie jautājumi   : kādus Windows izdevumus atbalsta ierīces šifrēšana, izmantojot galapunktu aizsardzības politiku?
- A: Intune Endpoint Protection politikas iestatījumi tiek ieviesti, izmantojot BitLocker CSP.Ne visi izdevumi un būvējumi Windows neatbalsta BitLocker CSP. 
-      Šajā laikā Windows izdevumi: Enterprise; Tiek atbalstītas Education, Mobile, Mobile Enterprise un Professional (no būvējuma 1809).
+Ņemiet vērā, ka daudzas jaunākas ierīces, kurās darbojas Windows 10 automātisko bitlocker šifrēšanu, kas tiek izraisīta bez MDM politikas lietojumprogrammas. Tas var ietekmēt politikas lietojumprogrammu, ja ir konfigurēti iestatījumi, kas nav noklusējuma iestatījumi. Papildinformāciju skatiet bieži uzdotajos bieži uzdotajos bieži uzdotajos jautājumus.
 
 
-
-
-J: ja ierīce jau ir šifrēta ar BitLocker, izmantojot OS noklusējuma iestatījumus šifrēšanas metodei un Cipher Strength (XTS-AES-128), tiks lietota politika ar dažādiem iestatījumiem, kas automātiski aktivizēs ar jaunajiem iestatījumiem atkārtoti šifrētu disku.
-
-A: Nē. Lai lietotu jaunos Cipher iestatījumus, vispirms diskam ir jābūt atšifrētam.
-
-Piezīme ierīcēm, kas tiek reģistrētas, izmantojot automātisko testēšanu, automātiskā šifrēšana, kas rastos OOBE laikā, netiek aktivizēta, kamēr Intune politika tiek novērtēta, kas ļauj izmantot politikas iestatījumus, kas tiek izmantoti OS noklusējumu vietā
+Bieži uzdotie jautājumi: kuri Windows atbalsta ierīču šifrēšanu, izmantojot galapunktu aizsardzības politiku?
+A: Intune galapunktu aizsardzības politikas iestatījumi tiek ieviesti, izmantojot Bitlocker CSP.  Ne visi grupas izdevumi un būvējumu Windows atbalsta Bitlocker CSP. Pašlaik Windows izdevumi: Enterprise; Education, Mobile, Mobile Enterprise un Professional (no 1809. būvējuma) tiek atbalstītas.
 
 
 
 
-Ja ierīce ir šifrēta atbilstoši Intune politikas lietojumam, tā tiks atšifrēta, kad šī politika tiks noņemta?
+J: Ja ierīce jau ir šifrēta ar Bitlocker, izmantojot OS noklusējuma iestatījumus šifrēšanas metodei un šifrēšanas spēkam (XTS-AES-128), politika tiks lietota ar dažādiem iestatījumiem, automātiski aktivizēs diska atkārtotu šifrēšanu ar jaunajiem iestatījumiem?
 
-: Šifrēšanas saistītās politikas noņemšana neizraisa to disku atšifrēšanu, kas ir konfigurēti.
+A: Nē. Lai lietotu jaunos cipher iestatījumus, diskam vispirms jābūt atšifrētam.
+
+Piezīme. Ierīcēs, kas ir reģistrētas, izmantojot autopilot automātisko šifrēšanu, kas tiek veikta OOBE laikā, netiek izraisīta, kamēr netiek novērtēta Intune politika, kas ļauj izmantot politikas iestatījumus OS noklusējuma atrašanās vietā
 
 
 
 
-J: Kāpēc Intune atbilstības politika rāda, ka manai ierīcei nav "BitLocker iespējots", bet tas ir?
+J Ja ierīce tiks šifrēta Intune politikas programmas rezultātā, tā tiks atšifrēta, kad šī politika tiks noņemta?
 
-A: "BitLocker iespējots" iestatījums Intune atbilstības politikā izmanto Windows ierīces Health atestācijas (DHA) klientu. Šis klients nosaka ierīces stāvokli tikai sāknēšanas laikā. Tāpēc, ja ierīce nav atsāknēta, jo ir pabeigta BitLocker šifrēšana, DHA klienta pakalpojums neziņo par BitLocker aktīvu.
+A. Ar šifrēšanu saistītas politikas noņemšana NEšifrēt konfigurētos diskus.
+
+
+
+
+J: Kāpēc intune atbilstības politika rāda, ka manā ierīcē nav iespējots Bitlocker, bet tā ir?
+
+A: Iestatījums "Bitlocker iespējots" intune atbilstības politikā izmanto Windows ierīces darbspējas atestācijas (TUN) klientu. Šis klients tikai mēra ierīces stāvokli sāknēšanas laikā. Tāpēc, ja ierīce nav atkārtoti palaista kopš bitlocker šifrēšanas pabeigšanas IEGUVES klienta pakalpojums ne ziņos par bitlocker kā aktīvu.
