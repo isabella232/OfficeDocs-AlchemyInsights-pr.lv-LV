@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482494"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890605"
 ---
 # <a name="run-a-message-trace"></a>Ziņojumu izsekošanas palaišana
 
-Ziņojumu izsekošanas darbību veic Office 365 drošības & atbilstības centra pasta plūsmas sadaļā.
+Ziņojumu izsekošanu var **veikt no Exchange izsekošanas** portāla Microsoft 365 Defender vietnē <https://security.microsoft.com> .
 
-Lai uzzinātu, kā palaist ziņojumu izsekošanu, skatiet rakstu [ziņojumu izsekošana Office 365 drošības & atbilstības centrā](https://go.microsoft.com/fwlink/?linkid=2103855).
+Papildinformāciju skatiet [rakstā Ziņojumu izsekošana Microsoft 365 Defender portālā](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
