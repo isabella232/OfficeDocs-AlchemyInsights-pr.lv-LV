@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 8935f461aaf24cb100516311203ef642f5dbed931e472df944c1cd7e72a8cf4e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 04f56dfc7ebe7de91bc64a5e6d2b480b07741c6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890273"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314355"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>401 Nesankcionēta SharePoint
 
-Ja saņemat kļūdas ziņojumu "(401) Neautorizēta" SharePoint tā, iespējams, ir saistīta ar TLS 1.0/1.1 novecošanu. Papildinformāciju skatiet rakstā:
+Ja saņemat kļūdas ziņojumu "(401) Neautorizēta" programmā SharePoint tā, iespējams, ir saistīta ar TLS 1.0/1.1 novecošanu. Papildinformāciju skatiet rakstā:
 
-- [Gatavošanās TLS 1.2 Office 365 un Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+- [Gatavošanās TLS 1.2 Office 365 Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
 - [Autentifikācijas kļūdas rodas, ja klientam nav TLS 1.2 atbalsta](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
 

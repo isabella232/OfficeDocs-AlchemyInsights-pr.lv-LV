@@ -1,5 +1,5 @@
 ---
-title: Neizvieto programmatūras atjauninājumus
+title: Programmatūras atjauninājumi netiek izvietoti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084533"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Neizvieto programmatūras atjauninājumus
+# <a name="software-updates-are-not-being-deployed"></a>Programmatūras atjauninājumi netiek izvietoti
 
-Ja esat konfigurējis programmatūras atjauninājumus, izmantojot Windows 10 atjaunināšanas gredzenu, taču atjauninājumi netiek izvietoti, mēģiniet veikt šādas darbības:  
+Ja konfigurējāt programmatūras atjauninājumus, Windows 10 atjaunināšanas loku, bet atjauninājumi netiek izvietoti, mēģiniet veikt šādas darbības:  
 
-- Apsveriet iespēju mainīt Windows servisu no  **pusgada kanāla**  laidiena tipa uz stingrāku, biežāku laidiena tipu.
-- Pārbaudiet atlikšanas periodu  **kvalitātes atjauninājumā**  un  **līdzekļu atjauninājumā**. Atlikšanas periods var izraisīt atjauninājumu atlikšanu līdz 180 dienām.
+- Apsveriet iespēju Windows apkalpošanas no **pusgada kanāla laidiena** tipa uz stingrāku, biežāk apmeklētu laidiena veidu.
+- Pārbaudiet **kvalitātes atjauninājuma** un **līdzekļa atjauninājuma** atliktā maksājuma periodu. Atlikšanas periods var izraisīt atjauninājumu kavējumus līdz pat 180 dienām.

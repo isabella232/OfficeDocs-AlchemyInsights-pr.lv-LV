@@ -1,5 +1,5 @@
 ---
-title: Pēdējā lokālā Exchange servera noņemšana
+title: Pēdējā lokālā servera Exchange noņemšana
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4980f3089305ce589cc8b205fe073c0d1328cdf289d18a15669c081e0ab4aa5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110743"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Pēdējā lokālā Exchange servera noņemšana
+# <a name="removing-the-last-on-premises-exchange-server"></a>Pēdējā lokālā servera Exchange noņemšana
 
-Pirms pēdējā Exchange servera noņemšanas no savas lokālās organizācijas pārliecinieties, vai izprotat, kā tas ietekmēs, lai palīdzētu jums izlemt, vai šis pēdējais serveris ir paredzēts citiem mērķiem. Lai iegūtu papildinformāciju, skatiet rakstu [kā un kad pārtraukt savu lokālo Exchange serveri hibrīdajā izvietojumā](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Pirms noņemat pēdējo Exchange serveri no savas lokālās organizācijas, jums ir jāizprot šāda veida sekas, lai palīdzētu jums izlemt, vai ir nepieciešams pēdējais serveris citiem nolūkiem. Lai iegūtu papildinformāciju, skatiet kā un kad pārtraukt lokālo serveru [ekspluatāciju Exchange hibrīdajā izvietošanā.](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
   

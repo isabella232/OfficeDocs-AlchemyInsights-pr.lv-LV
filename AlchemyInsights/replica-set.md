@@ -1,5 +1,5 @@
 ---
-title: Dublikātu kopa
+title: Replicēt kopu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110687"
 ---
-# <a name="replica-set"></a>Dublikātu kopa
+# <a name="replica-set"></a>Replicēt kopu
 
-AADDS tiek dēvēts arī par pārvaldīto domēnu. Faktiski tie ir divi domēnu kontrolleri, kurus vada un ko uztur backend. Divi DCs ietilpst viens galvenais DC un viens replicēšanas KONTROLLERis. Dublējumkopijas pakalpojumā AADDS (Managed Domain) ir automatizēts process, ko pārvalda Azure Platform. Ja rodas problēmas ar jūsu pārvaldīto domēnu, Azure atbalsts var palīdzēt veikt atjaunošanu no dublējuma.
+AADDS tiek dēvēts arī par pārvaldīto domēnu. Faktiski aizmugurguri tiek palaisti un uzturēti divi domēna kontrolleri. Divos DC ir viena galvenā DC un viena replicēšana DC. Dublējumi AADDS (pārvaldītais domēns) ir automatizēts process, ko pārvalda Azure platforma. Ja rodas problēma ar jūsu pārvaldīto domēnu, Azure atbalsts var palīdzēt atjaunot no dublējuma.
 
-Jūs izveidojat katru dublikātu kopu virtuālajā tīklā. Katrs virtuālais tīkls ir jāvienādranga visos citos virtuālajos tīklos, kas vieso pārvaldītā domēna dublikātu kopu. Šī konfigurācija izveido Mesh tīkla topoloģiju, kas atbalsta direktorija replicēšanu. Virtuālais tīkls var atbalstīt vairākas dublikātu kopas, ja katra dublikātu kopa ir citā virtuālajā apakštīklā.
+Katra dublikāta kopa tiek izveidota virtuālajā tīklā. Katram virtuālajam tīklam ir jābūt vienādranga katram virtuālajam tīklam, kas vieso pārvaldītā domēna dublikāta kopu. Šī konfigurācija izveido režģa tīkla topoloģiju, kas atbalsta direktorija replicēšanu. Virtuālais tīkls var atbalstīt vairākas dublikātu kopas, ja katra dublikāta kopa atrodas citā virtuālajā apakštīklā.
 
-Detalizētu informāciju par dublikātu kopu skatiet rakstā [jēdzienu dublikātu kopas](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Papildinformāciju par replicēto kopu skatiet [rakstā Koncepcijas replicēt kopas.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)

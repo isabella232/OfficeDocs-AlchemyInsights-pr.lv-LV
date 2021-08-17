@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889389"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314319"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Abonementa aktivizēšana vai atkārtota aktivizēšana
 
@@ -36,8 +36,9 @@ Ja jūsu abonementa derīgums beidzas, korporācija Microsoft to ir atspējojusi
 1. Administrēšanas centrā dodieties uz lapu  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 2. Cilnē **Produkti** atrodiet abonementu, ko vēlaties atkārtoti aktivizēt.
 3. Atlasiet daudzpunkti (vairāk darbību) un pēc tam atlasiet **Atkārtoti aktivizēt šo abonementu.**
-    > [!IMPORTANT]
-    > Ja neredzat iespēju Atkārtoti **aktivizēt šo abonementu kā** pieejamu darbību, [zvaniet atbalsta](https://go.microsoft.com/fwlink/p/?linkid=518322) dienestam, lai atkārtoti aktivizētu savu abonementu.
+
+    **Svarīgi!** Ja neredzat iespēju Atkārtoti aktivizēt šo **abonementu** kā pieejamu darbību, [zvaniet atbalsta](https://go.microsoft.com/fwlink/p/?linkid=518322) dienestam, lai atkārtoti aktivizētu savu abonementu.
+
 4. Rūtī **Atkārtoti aktivizēt šo abonementu** atlasiet esošu maksāšanas metodi vai atlasiet **Pievienot maksāšanas metodi.**
 5. Atlasiet **Atkārtoti aktivizēt**.
 
@@ -45,5 +46,5 @@ Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://do
 
 **Jauna abonementa aktivizēšana, izmantojot produkta atslēgu**
 
-1. Lai aktivizētu jaunu Microsoft 365 abonementu, izmantojot savu produkta atslēgu, skatiet [rakstu Kur ievadīt Office produkta atslēgu](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. Lai aktivizētu jaunu Microsoft 365 abonementu, izmantojot savu produkta atslēgu, skatiet rakstu [Kur ievadīt Office produkta atslēgu](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. Ievadiet savu Microsoft 365 produkta atslēgu un izpildiet norādījumus, lai aktivizētu abonementu. Ja jums ir problēmas ar aktivizēšanu, skatiet šo sarakstu ar biežākajām kļūdām, kas saistītas ar [produkta atslēgu un risinājumiem.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
