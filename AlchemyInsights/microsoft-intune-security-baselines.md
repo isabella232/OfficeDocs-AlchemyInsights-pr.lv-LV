@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098069"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886639"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Drošības Microsoft Intune bāzes datu izmantošana, lai konfigurētu Windows 10 ierīces
 
-Intune drošības bāzes datus, kas palīdz aizsargāt lietotājus un ierīces. Drošības bāzes datu bāzes Windows ar iestatījumiem iepriekš konfigurētām grupām, ko izmanto, lai lietotu zināmu iestatījumu grupu un noklusējuma vērtības, ko iesaka attiecīgās drošības grupas. Izveidojot drošības bāzes datu profilu intune, jūs izveidojat veidni, kas sastāv no vairākiem ierīču konfigurācijas profiliem.
+Intune drošības bāzes datus, kas palīdz aizsargāt lietotājus un ierīces. Drošības bāzes datu bāzes Windows ar iestatījumiem iepriekš konfigurētām grupām, ko izmanto, lai lietotu zināmu iestatījumu grupu un noklusējuma vērtības, ko iesaka attiecīgās drošības grupas. Izveidojot drošības bāzlīniju profilu inTune, jūs izveidojat veidni, kas sastāv no vairākiem ierīču konfigurācijas profiliem.
 
-Izvietojot drošības bāzlīnijus lietotāju grupām vai ierīcēm, iestatījumi tiek lietoti ierīcēm, kuras darbojas Windows 10 versijā. Piemēram, Microsoft mobilo ierīču pārvaldības (Mobile Device Management — MDM) drošības bāzlīnija automātiski iespējo BitLocker noņemamiem diskiem, pieprasa paroli ierīces atbloķēšanai un atspējo pamata autentifikāciju. Ja noklusējuma vērtība jūsu vidē nedarbojas, varat pielāgot bāzes datu bāzes informāciju, lai lietotu iestatījumus.
+Izvietojot drošības bāzlīnijus lietotāju grupām vai ierīcēm, iestatījumi tiek lietoti ierīcēm, kuras darbojas Windows 10 versijā. Piemēram, Microsoft mobilo ierīču pārvaldības (MdM) drošības bāzlīnija automātiski iespējo BitLocker noņemamiem diskiem, pieprasa paroli ierīces atbloķēšanai un atspējo pamata autentifikāciju. Ja noklusējuma vērtība jūsu vidē nedarbojas, varat pielāgot bāzes datu bāzes informāciju, lai lietotu iestatījumus.
 
-Drošības bāzes datu bāzes arī palīdz izveidot drošu darbplūsmu programmā Microsoft 365. Drošības bāzlīnija ietver labāko praksi un ieteikumus iestatījumiem, kas ietekmē drošību. InTune partneri ar Windows grupu, kas izveido bāzes datu bāzes kodus grupas politikām, tāpēc šie ieteikumi ir balstīti uz nepārtrauktām vadlīnijām un plašas pieredzes.
+Drošības bāzes datu bāzes arī palīdz izveidot drošu darbplūsmu programmā Microsoft 365. Drošības bāzlīnija ietver labāko praksi un ieteikumus iestatījumiem, kas ietekmē drošību. Intune partneri ar Windows grupu, kas izveido bāzes datu bāzes kodus grupas politikām, tāpēc šie ieteikumi ir balstīti uz nepārtrauktām vadlīnijām un plašas pieredzes.
 
 Ja esat jauns Intune lietotājam un neesat pārliecināts par to, ar ko sākt, drošības bāzes rādītāji palīdz ātri izveidot un izvietot drošu profilu. Ja pašlaik izmantojat grupas politiku, migrēšana uz Intune pārvaldības nolūkiem ir daudz vienkāršāka, izmantojot drošības bāzes datus, jo tie ir iebūvēti intune un ietver modernas pārvaldības iespējas.
 
-Papildinformāciju skatiet rakstā [Drošības Windows un Mobilo](/windows/security/threat-protection/windows-security-baselines) ierīču [pārvaldība.](/windows/client-management/mdm/)
+Papildinformāciju skatiet rakstā [Drošības Windows un Mobilo](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) ierīču [pārvaldība.](https://docs.microsoft.com/windows/client-management/mdm/)
 

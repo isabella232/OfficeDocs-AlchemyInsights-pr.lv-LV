@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689053"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887543"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Abonementa atkārtota aktivizēšana un periodisko norēķinu pārvaldība
 
@@ -32,14 +32,14 @@ ms.locfileid: "53689053"
 3. Rūtī **Atkārtoti aktivizēt šo** abonementu atlasiet maksāšanas metodi nolaižamajā sarakstā vai atlasiet Pievienot **maksāšanas metodi**.
 4. Atlasiet **Saglabāt**.
 
-Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Lai pārvaldītu mēneša vai gada abonementus, jūs varat ieslēgt vai izslēgt **Periodiskie norēķini**.
   
 1. Administrēšanas centrā dodieties uz lapu  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 2. Cilnē **Produkti** atlasiet abonementu, kuru vēlaties mainīt.
 3. Detalizētas informācijas par abonementu lapas sadaļā **Abonementi un maksājumu iestatījumi** atlasiet **Rediģēt periodiskos norēķinus**.
-4. Rūtī **Periodisko norēķinu iestatījumu rediģēšana atlasiet** Ieslēgt , **Ieslēgt, bet** atjaunot vienreiz vai **Izslēgt**. 
+4. Rūtī **Periodisko norēķinu iestatījumu rediģēšana atlasiet** Ieslēgt , **Ieslēgt, bet atjaunot vienreiz** vai **Izslēgt**. 
 5. Atlasiet **Saglabāt**.
 
-Lai uzzinātu vairāk, skatiet sadaļu [Periodisko norēķinu izslēgšana vai ieslēgšana](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Lai uzzinātu vairāk, skatiet sadaļu [Periodisko norēķinu izslēgšana vai ieslēgšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

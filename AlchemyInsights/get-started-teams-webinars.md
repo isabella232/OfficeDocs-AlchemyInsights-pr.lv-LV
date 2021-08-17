@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888249"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Darba sākšana ar Teams webinariem
 
-Tīmekļa semināri ir strukturētas sapulces, kur instruktoriem un dalībniekiem ir skaidri saprotamas lomas, kas bieži tiek izmantotas apmācības nolūkos vai pārdošanas un mārketinga potenciālo paaudžu scenārijos.
+Tīmekļa semināri ir strukturētas sapulces, kur instruktoriem un dalībniekiem ir skaidri saprotamas lomas, kas bieži tiek izmantotas apmācības nolūkos vai pārdošanas un mārketinga potenciālo klientu ģenerēšanas scenārijos.
 
-Pēc lietojumprogrammu iestatīšanas organizācijā lietotāji var ieplānot tīmeklītājus un reģistrēties dalībniekiem. Atšķirībā no tradicionālajām sapulcēm, kurās ir daudz diskusiju un uzdevumu uzdevumu, lietojumprogrammu semināri ir paredzēti interaktīvām prezentācijām un nodrošina rīkus dalībnieku analīzei.
+Pēc lietojumprogrammu iestatīšanas organizācijā lietotāji var plānot tīmeklītājus un reģistrēties dalībniekiem. Atšķirībā no tradicionālajām sapulcēm, kurās ir daudz diskusiju un uzdevumu, lietojumprogrammu semināri ir paredzēti interaktīvām prezentācijām un nodrošina rīkus dalībnieku analīzei.
 
 **Piezīme.** Tīmekļa semināra funkcionalitāte joprojām tiek pieejama Microsoft 365 nomniekiem. 
 
-Papildinformāciju par to, kā iestatīt un Teams webinars, skatiet rakstā Tīmekļa [semināru iestatīšana Microsoft Teams.](/microsoftteams/set-up-webinars)
+Papildinformāciju par to, kā iestatīt un Teams webinars, skatiet rakstā Tīmekļa [semināru iestatīšana programmā Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499555"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886298"
 ---
 # <a name="too-many-licenses"></a>Pārāk daudz licenču?
 
@@ -33,7 +33,7 @@ Ja uzskatāt, ka no jums tiek izrakstīts rēķins par pārāk daudzām licencē
 1. Administrēšanas centrā dodieties  uz lapu \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
 2. Cilnē **Produkti** atlasiet abonementu, kuru vēlaties mainīt.
 3. Detalizētas informācijas par abonementu lapā atlasiet **Noņemt licences**.
-4. Rūts **Licenču noņemšana sadaļas** Jauns daudzums lodziņā Licenču **kopskaits** ievadiet šim abonementam nepieciešamais licenču skaits.  Piemēram, ja jums ir 100 licences un vēlaties noņemt 25 no tām, ievadiet 75.
+4. Rūts **Licenču noņemšana sadaļas** Jauns daudzums lodziņā Licenču **kopskaits** ievadiet šim abonementam nepieciešams kopējais licenču skaits.  Piemēram, ja jums ir 100 licences un vēlaties noņemt 25 no tām, ievadiet 75.
 5. Atlasiet **Saglabāt**.
 
-Papildinformāciju skatiet [rakstā Licenču iegāde vai noņemšana.](/microsoft-365/commerce/licenses/buy-licenses)
+Papildinformāciju skatiet [rakstā Licenču iegāde vai noņemšana.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

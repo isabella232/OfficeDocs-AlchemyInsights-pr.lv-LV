@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058549"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888377"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Pielikumu politiku Seifs programmatūrā Microsoft Defender Office 365
 
-1. Dodieties [uz Office 365 drošības &](https://go.microsoft.com/fwlink/p/?linkid=2077143) centru un atlasiet **Apdraudējumu pārvaldības**  >  **politika**  >  **Seifs pielikumos**.
-2. Lai iespējotu šo līdzekli citām darba slodzēm, atlasiet Ieslēgt Microsoft Defender Office 365 programmatūrai **SharePoint Online, OneDrive u.Microsoft Teams**.
-3. Lai izveidotu jaunu politiku, atlasiet **ikonu Jauns** ( **+** ).
-4. Norādiet politikas nosaukumu, aprakstu un iestatījumus.
-5. Atlasiet **Saglabāt**.
+1. Vietnes Microsoft 365 Defender dodieties uz E-& un sadarbības politikas & Kārtulu apdraudējumu <https://security.microsoft.com/>  \>  \>  \> **politikas Seifs pielikumiem** **sadaļā** Politikas.
+
+   Lai pārietu tieši uz **lapu Seifs pielikumi,** izmantojiet <https://security.microsoft.com/safeattachmentv2> .
+
+2. Lapā **Seifs** veiciet kādu no šīm darbībām:
+   - Lai pievienotu jaunu politiku, atlasiet **+ Izveidot**. Tiks palaists vednis, kas palīdzēs definēt politikas iestatījumus.
+   - Lai rediģētu esošu politiku, atlasiet politiku, noklikšķinot uz politikas nosaukuma. Parādītā detalizētas informācijas **izlidošanas** logā sadaļā, kurā ir iestatījumi, kurus vēlaties konfigurēt, atlasiet Rediģēt.
+   - Lai ieslēgtu vai Seifs pielikumus SharePoint, OneDrive un Microsoft Teams, noklikšķiniet uz Globālie **iestatījumi,** ieslēdziet vai izslēdziet iestatījumu un pēc tam noklikšķiniet uz **Saglabāt.**
+
+3. Kad esat pārskatījis savus iestatījumus, atlasiet **Iesniegt** (jauns) vai **Saglabāt** (rediģēt).
+
+Papildinformāciju skatiet šādos rakstos:
+
+- [Pielikumu Seifs iestatīšana programmatūrā Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Pielikumu Seifs SharePoint, OneDrive un Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)
