@@ -12,19 +12,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f693d12ff0f9c193cba0c6a6802b22d7acd37532c65986e5f6613e18c021f06b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083021"
 ---
 # <a name="working-with-ios-vpp-applications"></a>Darbs ar iOS VPP lietojumprogrammām
 
-Izlasiet, [kā pārvaldīt iOS lietojumprogrammas, kas iegādātas, izmantojot lielapjoma pirkumu programmu, ar Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) , lai iegūtu informāciju par līdzekļiem, ierobežojumiem un darbībām, kas jāveic, lai izmantotu Apple lielapjoma pirkumu programmu un tās atbalstu pakalpojumā Microsoft Intune.
+Izlasiet rakstu Kā pārvaldīt iOS programmas, kas iegādātas, izmantojot lielapjoma iegādes programmu, izmantojot [Microsoft Intune,](https://docs.microsoft.com/intune/vpp-apps-ios) lai uzzinātu par līdzekļiem, ierobežojumiem un darbībām, kas jāveic Apple lielapjoma iegādes programmā, kā arī par tās atbalstu Microsoft Intune.
   
- **Biežāk sastopamās problēmas:** "Esmu piešķīris iOS VPP lietojumprogrammu saviem lietotājiem, taču instalēšana neizdevās."
+ **Bieži sastopamās problēmas.** "I assigned an iOS VPP app to my users, but the installation failed." (I piešķīris iOS VPP programmu saviem lietotājiem, bet instalēšana neizdevās.)
   
-- Tas var notikt, ja vairāku mobilo ierīču pārvaldības pakalpojumu sniedzēji izmanto vienu VPP žetonu. VPP žetoni no Apple var tikt izmantoti tikai ar vienu pakalpojumu sniedzēju. Ja izmantojāt VPP zīmi ar vairākiem pakalpojumu sniedzējiem, jums ir atkārtoti jāaugšupielādē pilnvara Intune.
+- Tā var notikt, ja viens VPP marķieris tiek izmantots vairākiem mobilo ierīču pārvaldības pakalpojumu sniedzējiem. VPP marķierus no Apple var izmantot tikai kopā ar vienu pakalpojumu sniedzēju. Ja izmantojāt VPP marķieri ar vairākiem pakalpojumu sniedzējiem, marķieris ir atkārtoti jāielādē Intune.
 
-- Instalēšana var neizdoties arī tad, ja instalācijas kopējais skaits pārsniedz licenču skaitu. Lai skatītu licenču lietojuma pārskatu, dodieties uz lapu **Intune Mobile Apps** \> **lietojumprogrammu licences** . Lai uzzinātu, kā atgūt licences izmantošanai, skatiet [šo rakstu.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Instalēšana var neizdoties arī tad, ja kopējais instalāciju skaits pārsniedz licenču skaitu. Lai skatītu licenču lietojuma atskaiti, dodieties uz **Intune mobilo programmu** \> **programmu licenču** lapu. Informāciju par to, kā atgūt licences, kas tiek lietotas, [skatiet šajā rakstā.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

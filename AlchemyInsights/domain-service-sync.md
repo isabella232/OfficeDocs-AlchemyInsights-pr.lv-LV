@@ -1,5 +1,5 @@
 ---
-title: Domēna pakalpojuma sinhronizācija
+title: Domēnu pakalpojumu sinhronizācija
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057865"
 ---
-# <a name="domain-service-synchronization"></a>Domēna pakalpojuma sinhronizācija
+# <a name="domain-service-synchronization"></a>Domēnu pakalpojumu sinhronizācija
 
-Objekti un akreditācijas dati Azure Active Directory domēna pakalpojumos (Azure AD DS) pārvaldītā domēnā var izveidot lokāli vai sinhronizēti no Azure Active Directory (Azure AD) nomnieka. Pirmoreiz izvietojot Azure AD DS, automātiskā vienvirziena sinhronizācija ir konfigurēta un uzsākta, lai replicētu objektus no Azure AD. Šī vienvirziena sinhronizācija turpina darboties fonā, lai nodrošinātu Azure AD DS pārvaldītā domēna atjaunināšanu ar jebkādām izmaiņām Azure AD. Azure AD DS atgriežoties Azure AD, sinhronizācija netiek veikta.
+Objektus un akreditācijas datus Azure Active Directory domēna pakalpojumu (Azure AD DS) pārvaldītajā domēnā var izveidot lokāli domēnā vai sinhronizēt no Azure Active Directory (Azure AD) nomnieka. Kad pirmo reizi izvietojat Azure AD DS, tiek konfigurēta un iniciēta automātiska vienvirziena sinhronizācija, lai kopētu objektus no Azure AD. Šī vienvirziena sinhronizācija turpina darboties fonā, lai Azure AD DS pārvaldītais domēns vienmēr būtu atjaunināta ar izmaiņām no Azure AD. No Azure AD DS vairs nenotiek sinhronizācija ar Azure AD.
 
-Detalizētu informāciju par Azure Active Directory domēna pakalpojumu sinhronizāciju skatiet sadaļā [Domain Service sinhronizācija](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Papildinformāciju par domēnu Azure Active Directory sinhronizāciju skatiet rakstā [Domēnu pakalpojumu sinhronizācija.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 

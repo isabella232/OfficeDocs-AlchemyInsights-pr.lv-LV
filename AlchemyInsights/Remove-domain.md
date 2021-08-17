@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 4a0a195f702b68f061954e025b3e4a4b1b49f60573ecb48fbbaaa6920a58f3f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a8a859c1c4b3e001b7febeb67c4c201a70ff56b46ecb651cef69d88500846626
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918258"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891650"
 ---
 # <a name="trying-to-remove-your-domain"></a>Vai mēģināt noņemt savu domēnu?
 
-Izpildiet rakstā [Domēna noņemšana](/microsoft-365/admin/get-help-with-domains/remove-a-domain) norādītās darbības.
+Izpildiet rakstā [Domēna noņemšana](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) norādītās darbības.
   
-Pirms domēna noņemšanas jums būs jāatjaunina visi lietotāji un grupas, kas piešķirti šim domēna nosaukumam. Citus vispārējus risinājumus skatiet [bieži uzdotajos jautājumos par domēniem](/microsoft-365/admin/setup/domains-faq).
+Pirms domēna noņemšanas jums būs jāatjaunina visi lietotāji un grupas, kas piešķirti šim domēna nosaukumam. Citus vispārējus risinājumus skatiet [bieži uzdotajos jautājumos par domēniem](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
   

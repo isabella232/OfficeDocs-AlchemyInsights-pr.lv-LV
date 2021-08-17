@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083237"
 ---
 # <a name="winsock-error-10061"></a>Winsock kļūda 10061
 
-Šis kļūdas kods nozīmē, ka Microsoft nevar izveidot TCP ligzdu (savienojumu) ar mērķi resursdators. Visticamāk, šīs kļūdas cēlonis ir problēmas ar ugunsmūra konfigurāciju. Lai novērstu šo problēmu, pārbaudiet šos iestatījumus:
+Šis kļūdas kods nozīmē, ka Microsoft nevarēja izveidot TCP drošligzdu (savienojumu) ar mērķa resursdatoru. Visdrīzāk šīs kļūdas cēlonis ir problēma ar jūsu ugunsmūra konfigurāciju. Lai novērstu šo problēmu, pārbaudiet šos iestatījumus:
 
-- Ugunsmūra konfigurācijas pārbaudīšana, izmantojot informāciju [Microsoft 365 vietrāžus URL un IP adrešu diapazonos](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Ugunsmūra konfigurācijas pārbaude ar informāciju, kas norādīta [Microsoft 365 URL un IP adrešu diapazonos](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Ja kļūda ir specifiska Exchange Online Protection (EOP), jums ir iepriekš jāziņo par izmaiņām [Exchange Online Protection IP adresēs](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Ja kļūda attiecas tieši uz Exchange Online Protection (EOP), jums iepriekš būtu jābūt informētiem par izmaiņām ip [Exchange Online Protection adresēs.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
 - Pārbaudiet, vai jūsu interneta pakalpojumu sniedzējs (ISP) nebloķē portu.
 
-- Pārliecinieties, vai jūsu savienotājiem ir gudri resursdators un mērķserveri iestatījumi.
+- Pārbaudiet viedā resursdatora un mērķa servera iestatījumus savienotājos.
 
-Ņemiet vērā, ka Microsoft 365 nebloķē *ienākošos* savienojumus šādā veidā.
+Ņemiet vērā Microsoft 365 ienākošie *savienojumi netiek* bloķēti šādā veidā.

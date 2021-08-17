@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082949"
 ---
 # <a name="authentication-app"></a>Autentifikācijas programma
 
@@ -30,11 +30,11 @@ Ja esat globālais administrators, varat ātri uzzināt, kas noticis vai diagnos
 
 **Skatiet attiecināmo scenāriju:**
 
-1. Ja lietotājs nesaņem pašpiegādes paziņojumu programmā Microsoft Authenticator, pārbaudiet, vai tie netiek rādīti MFA bloķēto lietotāju sarakstā, kā aprakstīts rakstā Lietotāju bloķēšana [un atbloķēšana.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Ja lietotājam netiek rādīts pašpiegādes paziņojums Microsoft Authenticator programmā, pārbaudiet, vai tie netiek rādīti MFA bloķēto lietotāju sadaļā, kā aprakstīts rakstā Lietotāju bloķēšana [un atbloķēšana.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 1. Ja lietotājs nav bloķēts MFA, bet nesaņem pašpiegādes paziņojumu, viņš var atvērt programmu Microsoft Authenticator, kas izvilks gaidošos apstiprināšanas pieprasījumus.
 1. Kā alternatīvu pierakstīšanās metodi lietotājs var arī noklikšķināt uz Pierakstīties citā veidā un izvēlēties izmantot pārbaudes kodu manā mobilajā lietojumprogrammā.
-1. Programma Microsoft Authenticator ir vienīgā pieejamā metode daudziem lietotājiem. [Uzziniet vairāk par drošības noklusējumus](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)— skatiet bieži uzdotos jautājumus par autentificētāja lietojumprogrammu — bieži uzdotos jautājumus un to atrisināšanu. [](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq)
+1. Lietojumprogramma Microsoft Authenticator ir vienīgā pieejamā metode daudziem lietotājiem. [Papildinformāciju par drošības noklusējumiem](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)skatiet sadaļā [Bieži Authenticator skatiet](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) bieži uzdotos jautājumus par lietojumprogrammām un to atrisināšanu.
  
 **Ieteicamie video**
 
-[Kā iestatīt programmu Authenticator jaunā tālrunī (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+[Programmas Authenticator jaunā tālrunī (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

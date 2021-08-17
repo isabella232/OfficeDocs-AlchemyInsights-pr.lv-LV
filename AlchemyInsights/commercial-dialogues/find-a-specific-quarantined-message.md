@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967952"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898327"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Konkrēta karantīnā ievietota ziņojuma atrašana
 
-1. Dodieties [uz drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Dodieties uz **sadaļu Apdraudējumu pārvaldības**  >  **pārskatīšana karantīnā**  >  .
-3. Izvēlieties **Meklēt**.
-4. Izvēlieties jebkuru nosacījumu kombināciju, atzīmējot izvēles rūtiņas tām blakus (šobrīd nevarat izmantot aizstājējzīmes).
+1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com> E-pasts un & **Sadarbības pārskatīšana** \> **karantīnā** \> .
+
+   Lai pārietu tieši uz lapu **Karantīnā,** izmantojiet <https://security.microsoft.com/quarantine> .
+
+2. Lapā **Karantīnā** pārbaudiet, vai ir atlasīta **e-pasta** cilne, un pēc tam noklikšķiniet uz **Filtrēt.**
+3. Izvēlieties jebkuru rekvizītu kombināciju, lai filtrētu un atrastu ziņojumu.
+
+Papildinformāciju skatiet tālāk sniegtajās tēmās.
+
+- [Karantīnā ievietoto ziņojumu atrašana un atlaidšana lietotājam](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Karantīnā ievietoto ziņojumu un failu pārvaldība administratora veidā](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
