@@ -1,5 +1,5 @@
 ---
-title: 8000035 atstājiet Outlook.com beta versiju
+title: 8000035 Atstājiet Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042853"
 ---
-# <a name="the-new-outlookcom"></a>Jaunais Outlook.com
+# <a name="the-new-outlookcom"></a>Jaunā Outlook.com
 
-Vairs nav iespējams atstāt Outlook.com beta versiju un atgriezties Outlook.com klasiskajā versijā.
+Vairs nav iespējams iziet no Outlook.com beta versijas un atgriezties Outlook.com klasiskajā versijā.
   
-Ja vēlaties sniegt atsauksmes par jauno Outlook.com, dodieties uz [UserVoice forumu](https://go.microsoft.com/fwlink/p/?linkid=851599). Jūs varat balsot par idejām vai problēmām, kuras vēlaties skatīt, un mēs atbildēsim tieši uz galvenajiem komentāriem un ieteikumiem.
+Ja vēlaties sniegt atsauksmes par jauno Outlook.com, dodieties uz [UserVoice forumu.](https://go.microsoft.com/fwlink/p/?linkid=851599) Varat balsot par idejām vai problēmām, kas jārisina, un mēs tieši atbildēsim uz populārākajiem komentāriem un ieteikumiem.
   
 [Uzziniet vairāk par jauno Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

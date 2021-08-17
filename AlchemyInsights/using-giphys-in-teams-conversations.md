@@ -1,5 +1,5 @@
 ---
-title: Giphy izmantošana grupu sarunās
+title: Giphys izmantošana Teams sarunās
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104315"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Giphy izmantošana grupu sarunās
+# <a name="using-giphys-in-teams-conversations"></a>Giphys izmantošana Teams sarunās
 
-Giphy piekļuve Teams tērzēšanā ir iespējota pēc noklusējuma. Kā administrators varat kontrolēt, vai **giphy ir pieejami** lietotājiem, [iestatot ziņojumapmaiņas politiku](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) un nodrošinot, ka **sarunas izmanto giphy** .
+Giphys piekļuve tērzēšanā Teams iespējota pēc noklusējuma. Kā administrators jūs varat kontrolēt, vai lietotājam [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) ir pieejami Giphy, iestatot ziņojumapmaiņas politiku un nodrošinot, ka Use **Giphys in conversations** is **On**.
 
-Ja GIFs nedarbojas, kā paredzēts, grupu sarunās, pārbaudiet:
+Ja GIF faili nedarbojas, kā paredzēts, Teams sarunās, pārbaudiet:
 
-[Ziņojumapmaiņas politikai](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) ir jāatļauj giphy. Lai pārbaudītu, izmantojot PowerShell cmdlet:
+Ziņojumapmaiņas [politikai ir](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) ļautu Giphys. Lai to pārbaudītu, izmantojot PowerShell cmdlet:
 
-- Pārbaudiet, vai varat [pārvaldīt grupas, izmantojot PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Palaidiet PowerShell komandu [Get-CsTeamsMessagingPolicy-Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) un pārbaudiet, vai **AllowGiphy** ir iestatīts kā **patiess**.
-- Ja **AllowGiphy** ir iestatīts kā **aplams** , izpildiet tālāk norādītās PowerShell komandu [kopas-CsTeamsMessagingPolicy-Identity Global-AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Pārliecinieties, vai [varat pārvaldīt Teams, izmantojot PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- Izpildiet PowerShell komandu [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) un pārbaudiet, vai **AllowGiphy** ir iestatīts uz **TRUE**.
+- Ja **allowGiphy** ir iestatīts kā **FALSE**, palaidiet tālāk norādīto PowerShell komandu [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-[Neobligātās saistītās pieredzes](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) ir jāiespējo, lai atļautu piekļuvi Giphy vietrādim URL.
+[Lai atļautu piekļuvi](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) Giphy vietrādim URL, ir jāiespējo papildu saistītie pieredzē.
 
 > [!NOTE]
-> Ja jūsu nomniekam ir konfigurētas vairākas grupu ziņojumapmaiņas politikas, varat noteikt, kāda ir lietotāja piešķiramās politikas identitāte, izmantojot PowerShell komandu [Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Atlasiet TeamsMessagingPolicy.
+> Ja jūsu nomniekam ir konfigurētas vairākas Teams ziņojumapmaiņas politikas, varat noteikt ietekmētā lietotājam piešķirtās politikas identitāti, izmantojot PowerShell komandu [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Atlasiet TeamsMessagingPolicy.
