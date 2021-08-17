@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891302"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Iesūtnes kārtulas darbību identificēšana audita žurnālos
 
-Audita žurnāla meklēšanu varat izmantot drošības Microsoft 365 & centrā, lai skatītu iesūtnes kārtulu notikumus (iesūtnes kārtulu izveidi, modificēšanu un dzēšanu).
+Audita žurnāla meklēšanu šajā mapē varat izmantot, Microsoft 365 atbilstības centrs skatītu iesūtnes kārtulas notikumus (izveidi, modificēšanu un dzēšanu iesūtnes kārtulas).
 
-1. Piesakieties [Microsoft 365 atbilstības centrā](https://protection.office.com/).
+1. Veiciet vienu no šīm darbībām:
+   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
+   - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
 
-2. Dodieties uz **meklēšanas**  >  **audita žurnāla meklēšanas** lapu.
+2. Audita  lapas cilnē **Meklēšana** konfigurējiet tālāk norādītos iestatījumus.
+   - **Datuma un laika diapazons:** atlasiet datuma/laika diapazonu lodziņā **Sākums** **un** Beigas.
+   - **Darbības:** atlasiet vienu vai vairākas no šīm vērtībām:
+     - **Jauna-iesūtnes Kārtula Iesūtnes kārtulas izveide no Outlook Web App**
+     - **Iestatīt iesūtni. Kārtulas modificēšana no Outlook Web App**.
+     - **Iesūtnes kārtulu atjaunināšana no Outlook klienta**
 
-3. Atlasiet datumu diapazonu laukos **Sākuma datums** **un Beigu** datums.
+3. Kad esat pabeidzis, noklikšķiniet uz **Meklēt.** Darbības tiek rādītas jaunajā **lapā Meklēšana audita** meklēšanā.
 
-4. Sadaļā **Exchange darbības** pārbaudiet, vai  laukam Darbības ir iestatīta vērtība **Jauna-iesūtneAtiesības izveide/modificēšana/iespējošana/atspējošana iesūtnes kārtula**.
+4. Atlasiet darbību rezultātos, lai atvērtu detalizētas informācijas izlidošanu. Laukā Parametri tiek parādīta informācija par iesūtnes **kārtulas** iestatījumiem.
 
-5. Noklikšķiniet **uz Meklēt.**
-
-Rezultātos atlasiet audita ierakstu. Detalizētas informācijas izlidošanas lodziņā noklikšķiniet uz **Papildinformācija**. Laukā Parametri tiek parādīta informācija par iesūtnes **kārtulas** iestatījumiem.
-
-Papildinformāciju skatiet rakstā [Noteikšana, vai lietotājs ir izveidojis iesūtnes kārtulu](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Papildinformāciju skatiet rakstā [Noteikšana, vai lietotājs ir izveidojis iesūtnes kārtulu.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)

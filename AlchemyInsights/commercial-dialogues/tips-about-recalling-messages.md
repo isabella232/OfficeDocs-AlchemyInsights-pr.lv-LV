@@ -1,5 +1,5 @@
 ---
-title: Padomi par ziņojumu atsaukšanu
+title: Padomi atsaukšana
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081473"
 ---
-# <a name="tips-about-recalling-messages"></a>Padomi par ziņojumu atsaukšanu
+# <a name="tips-about-recalling-messages"></a>Padomi atsaukšana
 
-Tālāk ir norādīts, kā var un nevar atsaukt ziņojumus:
+Lūk, ja varat un nevar atcerēties ziņojumus:
 
-* Kā administrators varat atsaukt ziņojumus lietotāju vārdā, izmantojot PowerShell. Jūs nevarat atsaukt ziņojumus no administrēšanas centra.
-* Varat tikai atsaukt ziņojumus, kas tiek nosūtīti lietotājiem jūsu organizācijā. Ja ziņojums tika nosūtīts uz Gmail adresi, piemēram, varat to atsaukt.
-* **Varat atsaukt no programmas Outlook 2016 sūtītos ZIŅOJUMUS datorā**. Ja lietotājs nosūta ziņojumu, izmantojot programmu Outlook darbam ar Mac vai Outlook tīmeklī, to nevar atsaukt.
+* Kā administrators varat atsaukt ziņojumus lietotāju vārdā, izmantojot PowerShell. Nevar atsaukt ziņojumus no administrēšanas centra.
+* Varat atsaukt tikai tos ziņojumus, kas ir nosūtīti personām jūsu organizācijā. Ja ziņojums tika nosūtīts, piemēram, uz Gmail adresi, to nevar atsaukt.
+* **Varat atsaukt tikai ziņojumus, kas nosūtīti Outlook 2016 no datora.** Ja lietotājs nosūta ziņojumu, izmantojot Outlook operētājsistēmai Mac vai Outlook tīmeklī, neatceraties to.

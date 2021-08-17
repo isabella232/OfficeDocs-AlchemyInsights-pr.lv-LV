@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 56df5d66df9559663fbb34ae2349d3e6d01dd678
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081437"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Konta atbloķēšana, izmantojot apdraudējumu pārvaldību
 
 Lūk, kā to paveikt: 
 
-1. Dodieties [uz Office 365 drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Atlasiet **Apdraudējumu pārvaldības**  >  **pārskatīšana**. Pārskatīšanas **lapā** atlasiet **[Ierobežotie lietotāji](https://go.microsoft.com/fwlink/?linkid=2103514)**.
 1. Ja sarakstā tiek rādīts apdraudētais konts, noklikšķiniet uz **Atbloķēt kontu.** Kontam vajadzētu būt iespējai nosūtīt ziņojumus vēlreiz, parasti stundas laikā.

@@ -1,5 +1,5 @@
 ---
-title: Iespējot ārējo koplietošanu
+title: Ārējās koplietošanas iespējošana
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057253"
 ---
-# <a name="enable-external-sharing"></a>Iespējot ārējo koplietošanu
+# <a name="enable-external-sharing"></a>Ārējās koplietošanas iespējošana
 
- Lai nodrošinātu, ka koplietošana ir iespējota pakalpojumam SharePoint Online:
+ Lai nodrošinātu, ka koplietošana ir iespējota SharePoint Tiešsaistē:
   
 - **Globālā koplietošana**
     
-  - Portāls — \> ārējas koplietošanas kopīgošanas \> pārskats — vietnes, padariet ārēju personu piekļuvi savām vietnēm: on
+  - Portāls — \> ārējā koplietošana — koplietošanas pārskats — \> Vietnes, kā ļaut ārējiem lietotājiem piekļūt jūsu vietnēm: IESLĒGTS
     
-  - Portāls — \> Ārējā koplietošana — \> vietnes — atzīmējiet izvēles rūtiņu ļaut ārējiem lietotājiem piekļūt vietnēm.
+  - Portāls — \> ārējā koplietošana — Vietnes — izvēles rūtiņa Ļaut ārējiem lietotājiem piekļūt jūsu \> vietnēm
     
-- **Administratīvā koplietošana — SharePoint administrēšanas centrs**
+- **Administratīvā koplietošana — SharePoint centrs**
     
-    Ārējā koplietošana — pārliecinieties, vai ir atlasītas divas opcijas:
+    Ārējā koplietošana — nodrošiniet, lai būtu atlasīta viena no divām opcijām:
     
-  - "Atļaut ārējiem lietotājiem, kuri pieņem koplietošanas uzaicinājumus un pierakstās kā autentificēti lietotāji"
+  - "Allow external users who accept sharing invitations and sign in as authenticated users"
     
-  - "Atļaut gan ārējiem lietotājiem, kuri pieņem koplietošanas uzaicinājumus un anonīmas viesa saites"
+  - "Allow both external users who accept sharing invitations and anonymous guest links"
     
 - **Atsevišķas vietņu kolekcijas**
     
-  - Vietņu kolekcijas — atlasiet attiecīgo vietņu kolekciju un pēc tam noklikšķiniet uz koplietošana-no lentes — \> pārliecinieties, vai ir atlasīta opcija koplietošanas opcijas.
+  - Vietņu kolekcijas — atlasiet attiecīgo vietņu kolekciju un pēc tam lentē noklikšķiniet uz Koplietošana — nodrošiniet, lai \> būtu atlasītas visas šīs koplietošanas opcijas.
     
-Lai iegūtu papildinformāciju par to, kā ieslēgt ārējo koplietošanu, skatiet rakstu [ārējās koplietošanas ieslēgšana vai izslēgšana pakalpojumā SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Papildinformāciju par ārējās koplietošanas ieslēgšanu skatiet rakstā Ārējās koplietošanas [ieslēgšana un izslēgšana tīmekļa SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
