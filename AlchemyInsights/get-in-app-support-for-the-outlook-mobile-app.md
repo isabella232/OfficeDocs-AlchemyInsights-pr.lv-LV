@@ -1,5 +1,5 @@
 ---
-title: 1800014 Saņemiet atbalstu programmā Outlook mobilajai lietojumprogrammai
+title: 1800014 mobilās programmas atbalsta Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7a2ae310c08c72d87658481c23f5cae46a796fe0adeb81985fc333343326d256
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079349"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Saņemiet atbalstu programmā Outlook mobilajām lietojumprogrammām
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Saņemiet atbalstu programmā darbam Outlook mobilajā programmā
 
-1. Mobilajā programmā Outlook atveriet **izvēlni**.
+1. Mobilajā Outlook atveriet **izvēlni**.
 
 2. Atlasiet jautājuma zīmi, lai atvērtu **ekrānu &amp; Palīdzības** atsauksmes.
 
@@ -31,4 +31,4 @@ ms.locfileid: "51812291"
 
 4. Pieskarieties **pie** Sūtīt, un saņemsit programmā esošu paziņojumu, kad atbalsta aģents sazināsies ar jums.
 
-Detalizētus norādījumus skatiet rakstā Outlook darbam ar iOS un Android palīdzības saņemšana [lietojumprogrammā.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+Detalizētus norādījumus skatiet [rakstā Palīdzības saņemšana programmā par Outlook darbam ar iOS un Android.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

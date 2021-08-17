@@ -1,5 +1,5 @@
 ---
-title: Darba sākšana ar Microsoft Search meklētājprogrammā Bing
+title: Darba sākšana ar Microsoft Search programmā Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9260"
-ms.openlocfilehash: f7ae2b7bf9349f4a5d31b4c8dad20be4948f478e
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a5d506a0784200c2e11d338a3b973128748785474bc957b8f75f67a72324503b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079313"
 ---
-# <a name="get-started-with-microsoft-search-in-bing"></a>Darba sākšana ar Microsoft Search meklētājprogrammā Bing
+# <a name="get-started-with-microsoft-search-in-bing"></a>Darba sākšana ar Microsoft Search programmā Bing
 
-Ja jūsu organizācija Bing vidē ir kaut kas jauns kā Microsoft Search, ieteicams pārskatīt [Microsoft Search Bing administratora pamatinformācijas](https://go.microsoft.com/fwlink/p/?linkid=2127979)rokasgrāmatā, kurā sniegta informācija par Microsoft Search iestatīšanu, konfigurēšanu un izvietošanu meklētājprogrammā Bing.
+Ja jūsu organizācija ir jauna Microsoft Search programmā Bing, ieteicams pārskatīt Microsoft Search rokasgrāmatu [Bing Admin Essentials,](https://go.microsoft.com/fwlink/p/?linkid=2127979)kas sniedz informāciju par programmu iestatīšanu, konfigurēšanu un izvietošanu Microsoft Search šajā Bing.
 
-Lai uzlabotu lietotāju informētību par Microsoft Search meklētājprogrammā Bing, skatiet mūsu apmācīšanas komplektu [(.zip](https://go.microsoft.com/fwlink/p/?LinkID=2114710) fails), kas nodrošina apmācības un saziņas resursus.
+Lai palielinātu lietotāju informētību par Microsoft Search programmā Bing, sniedziet viņiem atsauci uz mūsu apmācības komplektu [(.zip](https://go.microsoft.com/fwlink/p/?LinkID=2114710) failu), kas nodrošina apmācības un saziņas resursus.
 
-Papildinformāciju un rīkus [skatiet rakstā Kā uzlabot Microsoft Search savas organizācijas Bing rezultātos.](https://go.microsoft.com/fwlink/?linkid=2152022)
+Papildinformāciju un [rīkus skatiet rakstā Kā Microsoft Search Bing rezultātus savā organizācijā.](https://go.microsoft.com/fwlink/?linkid=2152022)
