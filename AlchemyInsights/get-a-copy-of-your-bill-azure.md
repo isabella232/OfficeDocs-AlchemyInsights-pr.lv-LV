@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116915"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Saņemiet rēķina vai lietojuma kopiju
 
-**Azure rēķina lejupielāde (.pdf)**
+**Sava Azure rēķina (.pdf) lejupielāde**
 
-1. Abonementu lapā Azure portālā atlasiet [savu abonementu](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) kā lietotājs ar piekļuvi rēķiniem, [pēc](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) tam atlasiet **Rēķini**
-2. Noklikšķiniet **uz Lejupielādēt rēķinu,** lai skatītu sava PDF rēķina kopiju. Ja ir **rakstīts Nav** pieejams, [skatiet rakstu Kāpēc nav redzams rēķins par pēdējo norēķinu periodu?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Varat arī skatīt savu ikdienas lietojumu, noklikšķinot uz norēķinu perioda Lai iegūtu sava rēķina PDF failu un sava detalizētā dienas lietojuma faila kopiju (. CSV): [iegūt rēķina un lietojuma datus](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Azure portāla [lapā Abonementi](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) atlasiet savu abonementu kā [lietotājs ar piekļuvi rēķiniem](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), pēc tam atlasiet **Rēķini**.
+2. Noklikšķiniet uz **Lejupielādēt rēķinu**, lai skatītu sava PDF rēķina kopiju. Ja tiek parādīts ziņojums **Nav pieejams**, skatiet rakstu [Kāpēc es neredzu rēķinu par pēdējo norēķinu periodu?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Varat arī skatīt savu lietojumu pa dienām, noklikšķinot uz norēķinu perioda, lai iegūtu sava rēķina PDF failu un failu (.CSV) ar detalizētu informāciju par lietojumu pa dienām: [Iegūt rēķinu un lietojuma datus](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Saņemiet rēķinu e-pasta ziņojumā (.pdf)**
 
@@ -47,14 +47,14 @@ Ja jums ir [Microsoft](https://docs.microsoft.com/azure/cost-management-billing/
 
 Ja jums ir Microsoft klienta līgums, varat izvēlēties saņemt rēķinu e-pasta ziņojumā. Visi norēķinu profilu īpašnieki, līdzstrādnieki, lasītāji un rēķinu pārvaldnieki rēķinu saņems pa e-pastu. Lasītāji nevar atjaunināt e-pasta rēķina preferenci
 
-- Meklējiet atslēgas vārdus **Izmaksu pārvaldība + Norēķini**. Atlasiet **norēķinu profilu**. Sadaļā Iestatījumi atlasiet **Rekvizīti.**
+- Meklējiet **Izmaksu pārvaldība + norēķini**. Atlasiet **norēķinu profilu**. Sadaļā Iestatījumi **rekvizīti**
 - Sadaļā E-pasta rēķins atlasiet **Atjaunināt e-pasta rēķina preferenci**. Atlasiet iespēju. Noklikšķiniet uz **Atjaunināt**
 
-**Līgums Enterprise (EA)**
+**līgums Enterprise (EA)**
 
 Lai skatītu un lejupielādētu lietojuma datus kā EA klientam, jums jābūt Enterprise administratoram, konta īpašniekam vai nodaļas administratoram ar iespējotu skatīšanas izmaksu politiku.
 
-- Pierakstieties Azure portālā. Meklējiet atslēgas vārdus **Izmaksu pārvaldība + Norēķini**. Atlasīt norēķinu profilu
+- Pierakstieties Azure portālā. Meklējiet **Izmaksu pārvaldība + norēķini**. Atlasīt norēķinu profilu
 - Atlasiet Lietojums+izmaksas. Mēnesim, kuru vēlaties lejupielādēt, atlasiet Lejupielādēt
 
 **MOSP Azure abonements**  

@@ -1,5 +1,5 @@
 ---
-title: 1374 atrisināt divas pastkastes HOWTO
+title: 1374 Divu pastkastu kā novērst problēmu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720905"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110075"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Lietotājam ir divas pastkastes
 
-Hibrīdās vides, kas izmanto Azure Active Directory savienojumu (AAD Connect) vai DirSync, var nejauši izraisīt to, ka lietotājam ir divas pastkastes: viena lokāli un viena mākonī. Dublikāta pastkasti var izveidot jebkurā vietā.
+Hibrīdās vides, kas izmanto Azure Active Directory Savienošana (AAD Savienošana) vai DirSync, var nejauši izraisīt lietotājam divas pastkastes: vienu lokāli un vienu mākonī. Pastkastes dublikātu var izveidot jebkurā vietā.
 
-Lai atrisinātu šo problēmu, Uzziniet, [kā atkopt, ja pastkaste pastāv gan Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises), gan lokālajā vidē. Ja vēlaties uzzināt vairāk par to, kā no tā izvairīties nākotnē, skatiet rakstu [Mans lietotājs ir pastkaste gan lokālajā, gan pakalpojumā Exchange Online. Palīdzība!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Lai novērstu šo problēmu, skatiet rakstu Kā atkopt, ja pastkaste [pastāv gan Exchange Online, gan lokālajā vidē.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Lai uzzinātu vairāk par to, kā nākotnē novērst šādu situāciju, skatiet rakstu Mans lietotājs pastkasti var izmantot gan lokāli, gan programmā [Exchange Online. Palīdzība!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

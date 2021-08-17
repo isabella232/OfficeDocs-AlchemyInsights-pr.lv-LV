@@ -11,29 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: ac4c157d6e202488659c56605768bbfd2b3af8e658d0a2f82e529fdac6763fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999679"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899339"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Brīdinājuma e-pasta ziņojumi no politikas "Pikšķerēšana piegādāts nomnieka vai lietotāja ignorēšanas dēļ"
 
-Nomniekiem ar programmatūras Microsoft Defender Office 365 P1 un P2 licencēm ir veikta noklusējuma brīdinājuma politika "Pikšķerēšanas piegādāts nomnieka vai lietotāja ignorēšanas dēļ". Ja esat saņēmis šo brīdinājumu, veiciet tālāk norādītās darbības, lai izpētītu:
+Organizācijās, kuru  licences izmanto programmatūra Microsoft Defender Office 365 P1 un P2 licencēm, ir pieejama noklusējuma brīdinājuma politika Pikšķerēšana piegādāts nomnieka vai lietotāja ignorēšanas dēļ. Ja esat saņēmis šo brīdinājumu, veiciet tālāk norādītās darbības, lai izpētītu:
 
-1. Brīdinājuma ziņojumā noklikšķiniet uz **Skatīt brīdinājumu,** lai **pārietu** uz lapu Brīdinājumi drošības kontroles & centrā.
+1. Brīdinājuma ziņojumā noklikšķiniet uz **Skatīt brīdinājumu,** lai pārietu uz **brīdinājuma** lapu Microsoft 365 Defender portālā.
 
 2. Atlasiet brīdinājumu, lai skatītu opciju Skatīt **ziņojumu sarakstu vai** Skatīt ziņojumus **pārlūkā**. Abas šīs opcijas ļauj piekļūt detalizētai informācijai par ziņojumu, kurā iekļauts ziņojuma ID. Ņemiet vērā, ka saite Apdraudējumu pārlūks automātiski filtrēs brīdinājumu kritērijiem atbilstošos ziņojumus. Var būt nepieciešams pielāgot datuma filtru apdraudējumu pārlūkā.
 
 Pikšķerēšanas ziņojums tika piegādāts manuāli konfigurētas ignorēšanas dēļ:
 
 - Atļautais sūtītājs vai domēns, ko iestatījis lietotājs.
-
 - Atļautais sūtītājs vai domēns, ko administrators ir iestatījis surogātpasta novēršanas politikā.
-
 - Atļautā IP adrese savienojuma filtra politikā.
-
 - Pasta plūsmas kārtula (tiek dēvēta arī par transporta kārtulu), kas ir konfigurēta atļaut ziņojumus.
 
-Ja uzskatāt, ka ziņojums ir nepareizi atzīmēts kā [](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) pikšķerēšanas ziņojums, izmantojiet Outlook ziņojuma pievienojumprogrammu, lai iesniegtu ziņojumu paraugus korporācijai Microsoft.
+Ja uzskatāt, ka ziņojums ir nepareizi [](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) atzīmēts kā pikšķerēšanas ziņojums, izmantojiet administrēšanas iesniegumu, lai ziņotu par šo ziņojumu korporācijai Microsoft.
+
+Lietotāji var izmantot [pievienojumprogrammu Atskaišu ziņojums](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) vai Atskaišu pikšķerēšanas pievienojumprogrammu, Outlook iesniegtu ziņojumu paraugus korporācijai Microsoft.
