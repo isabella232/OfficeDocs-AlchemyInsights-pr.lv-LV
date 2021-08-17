@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108959"
 ---
 # <a name="emerging-issue"></a>Jauna problēma
 
-Vairāki klienti sūdzas par problēmu, kas līdzīga jūsu atskaišu izveidei. Mēs meklējam šo problēmu.
+Vairāki klienti sūdzas par problēmu, kas līdzīga jūsu ziņotā problēmai. Mēs meklējam šo problēmu.
 
-Lūdzu, pārbaudiet [Pakalpojuma darbspējas informācijas paneli](https://admin.microsoft.com/adminportal/home#/servicehealth) , lai atjauninātu visus pakalpojumus, kas ietekmē starpgadījumus.
+Lūdzu, pārbaudiet pakalpojuma [darbspējas informācijas paneli,](https://admin.microsoft.com/adminportal/home#/servicehealth) lai saņemtu informāciju par visiem pakalpojumiem, kas ietekmē incidentus.
