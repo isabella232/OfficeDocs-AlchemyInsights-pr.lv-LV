@@ -1,5 +1,5 @@
 ---
-title: Teams maiņās
+title: Teams Maiņas
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106501"
 ---
-# <a name="using-teams-shifts"></a>Grupu maiņu izmantošana
+# <a name="using-teams-shifts"></a>Pāreju Teams izmantošana
 
-Lai iegūtu informāciju par to, kā pārvaldīt programmu SHIFT, tostarp to, kā iestatīt maiņu, iespējot lietotāju maiņu un pārvaldīt programmu SHIFT, skatiet:
+Informāciju par programmas Maiņas pārvaldību, tostarp par to, kā iestatīt maiņas, iespējot maiņas lietotājiem un pārvaldīt programmu Maiņas, skatiet tālāk redzamajā rakstā.
  
-- [Pārvaldiet programmu SHIFT savā organizācijā pakalpojumā Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Iespējojiet vai atspējojiet maiņu konkrētiem lietotājiem savā organizācijā](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Pārvaldiet programmu Maiņas savā organizācijā programmā Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Iespējojiet vai atspējojiet shifts konkrētiem lietotājiem jūsu organizācijā.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Lai uzzinātu vairāk par darba grupu maiņu, ieskaitot maiņu plānošanu, skatiet rakstu [darba grupu maiņas](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Lai uzzinātu vairāk par shifts Teams, tostarp par maiņas grafika pārvaldību, skatiet [rakstu Maiņas Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**2020. gada 30. jūnijs**, Microsoft Staffhub ir novecojis. Papildinformāciju skatiet rakstā [Microsoft StaffHub](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**No 2020. gada 30.** jūnija programma Microsoft Staffhub ir izņemta no konta. Papildinformāciju skatiet rakstā [Microsoft StaffHub ir izņemts no konta.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

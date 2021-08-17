@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana, izmantojot atvērt ar Explorer
+title: Ar "Atvērt ar Explorer" saistīto problēmu novēršana
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048163"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Problēmu novēršana saistībā ar programmu open with Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Ar "Atvērt ar Explorer" problēmu novēršana
 
-Bieži sastopamu problēmu novēršana saistībā ar dokumentu bibliotēkas atvēršanu pakalpojumā SharePoint vai OneDrive, izmantojot komandu **Atvērt ar Explorer** : 
+Novērsiet bieži sastopamas problēmas ar dokumentu bibliotēkas atvēršanu SharePoint vai OneDrive **izmantojot komandu Atvērt ar Explorer:** 
   
-- Izmantojiet Internet Explorer 10 vai Internet Explorer 11. **Atvērt ar Explorer** nav saderīga ar Microsoft Edge, Google Chrome, Firefox un citiem lietotājiem. **Atvērt ar Explorer** ir atspējota visās pārlūkprogrammās, izņemot Internet Explorer. 
+- Izmantojiet Internet Explorer 10 vai Internet Explorer 11. **Opcija Atvērt ar Explorer** nav saderīga ar Microsoft Edge, Google Chrome, Firefox un citām pārlūkprogrammām. **Atvēršana ar Explorer** ir atspējota visās pārlūkprogrammās, izņemot Internet Explorer. 
     
-- **Atvērt ar Explorer** nav pieejama mūsdienīgai pieredzei SharePoint bibliotēkās. Tā vietā izmantojiet **skatu failu pārlūkā** . **View options** \> **Failu pārlūkā**atlasiet skata opciju skats. Skats failu pārlūkā nav saderīgs ar Microsoft Edge, Google Chrome, Firefox un citiem lietotājiem. **Skatīšana failu pārlūkā** ir pieejama tikai pārlūkprogrammā Internet Explorer. 
+- **Atvēršana ar Explorer** mūsdienīgajās versijās nav pieejama SharePoint bibliotēkām. Tā **vietā izmantojiet skatu failu pārlūkā.** Atlasiet **Skatīt opcijas** Skatīt failu \> **pārlūkā**. Skatīšana failu pārlūkā nav saderīga ar Microsoft Edge, Google Chrome, Firefox un citām pārlūkprogrammām. **Skatīt failu pārlūkā,** kas ir pieejams tikai pārlūkprogrammā Internet Explorer. 
     
-- Pārliecinieties, vai darbojas klienta pakalpojums. Windows meklēšanas lodziņā ierakstiet palaist, atlasiet datora programmu palaist, ierakstiet Services. msc un pēc tam nospiediet taustiņu ENTER. Ritiniet uz leju līdz klienta pakalpojumam un pārliecinieties, vai kolonnā **statuss** tiek rādīts "darbojas". Ja tā nav, veiciet dubultklikšķi uz pakalpojuma, noklikšķiniet uz **Sākt**un pēc tam noklikšķiniet uz **Labi**. (Iespējams, vispirms ir jāiespējo pakalpojums, lodziņā **startēšanas tips** atlasot **manuāli** vai **automātiski** .) 
+- Pārliecinieties, vai darbojas pakalpojums WebClient. Meklēšanas Windows ierakstiet palaist, atlasiet palaist datora lietojumprogrammu, ierakstiet services.msc un pēc tam nospiediet taustiņu Enter. Ritiniet uz leju līdz pakalpojumam WebClient un pārliecinieties, vai kolonnā **Statuss** tiek rādīts "Darbojas". Ja tā nenotiek, veiciet dubultklikšķi uz pakalpojuma, noklikšķiniet uz **Sākt** un pēc tam noklikšķiniet uz **Labi**. (Iespējams, pakalpojums vispirms būs jāiespējo, lodziņā **Startēšanas** **tips** atlasot Manuāli **vai** Automātiski.) 
     
 > [!NOTE]
-> Bibliotēkas atvēršana failu pārlūkā ir noderīga, ja vēlaties kopēt vai pārvietot vairākus failus un mapes vienreiz, bet, ja vēlaties regulāri strādāt bibliotēkā, iesakām to sinhronizēt. Lai novērstu problēmas, kas rodas, atverot failu pārlūku, skatiet rakstu [atvēršana pārlūkprogrammā Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informāciju par sinhronizācijas iestatīšanu skatiet rakstā [SharePoint failu sinhronizēšana ar jauno OneDrive sinhronizācijas klientu](https://go.microsoft.com/fwlink/?linkid=871666).
+> Bibliotēkas atvēršana failu pārlūkā ir lieliska, ja vēlaties kopēt vai pārvietot vairākus failus un mapes vienreiz, bet, ja vēlaties regulāri strādāt bibliotēkā, iesakām to sinhronizēt. Lai novērstu problēmas saistībā ar atvēršanu failu pārlūkā, skatiet [rakstu Atvēršana pārlūkā.](https://go.microsoft.com/fwlink/?linkid=871665) Informāciju par sinhronizācijas iestatīšanu skatiet rakstā [Sinhronizācijas SharePoint ar jauno OneDrive sinhronizācija klientu.](https://go.microsoft.com/fwlink/?linkid=871666)
   
-Lai iegūtu papildinformāciju, skatiet rakstu [kā izmantot komandu atvērt ar Explorer, lai novērstu problēmas pakalpojumā SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
+Papildinformāciju [skatiet rakstā Komandas Atvērt](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) ar Explorer izmantošana, lai novērstu problēmas programmā SharePoint Online. 
   
 

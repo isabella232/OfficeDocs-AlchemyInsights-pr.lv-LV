@@ -1,5 +1,5 @@
 ---
-title: Problēmu novēršana saistībā ar iOS ierīču reģistrāciju programmā Microsoft Intune
+title: Problēmu novēršana saistībā ar iOS ierīču reģistrāciju Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047983"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Problēmu novēršana saistībā ar iOS ierīču reģistrāciju programmā Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Problēmu novēršana saistībā ar iOS ierīču reģistrāciju Microsoft Intune
 
 Pārskatiet tālāk norādītos resursus, lai tūlīt novērstu savu problēmu. 
   
@@ -27,7 +27,7 @@ Daži bieži sastopami kļūdu ziņojumi un risinājuma darbības:
     
 - **Šis pakalpojums netiek atbalstīts. Nav reģistrācijas politikas:** Apple pašpiegādes paziņojumu pakalpojums (APNS) ir jākonfigurē vai jāatjauno. Pārskatiet [šo](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) dokumentu, lai saņemtu norādījumus par to, kā to paveikt. 
     
-- **Lietotāja licences tips nav derīgs vai lietotājvārds netiek atpazīts:** Lietotājam ir jābūt piešķirtai Intune vai EMS licencei. Pārskatiet šos dokumentus, lai piešķirtu licenci, [izmantojot Office administrēšanas centru](https://docs.microsoft.com/intune/licenses-assign) vai Azure [portālu.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Lietotāja licences tips nav derīgs vai lietotājvārds netiek atpazīts:** Lietotājam ir jābūt piešķirtai Intune vai EMS licencei. Pārskatiet šos dokumentus, lai piešķirtu licenci, [Office administrēšanas centrā](https://docs.microsoft.com/intune/licenses-assign) vai [Azure portālā.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Papildu resursi, lai palīdzētu novērst problēmu:
   
