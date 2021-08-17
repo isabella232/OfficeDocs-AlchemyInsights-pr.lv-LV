@@ -1,5 +1,5 @@
 ---
-title: Microsoft Intune izmantošana, lai izvietotu Microsoft Edge macOS ierīcē
+title: Izmantojiet Microsoft Intune, lai Microsoft Edge izvietošanu macOS ierīcē
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104387"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Microsoft Intune izmantošana, lai izvietotu Microsoft Edge macOS ierīcē
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Izmantojiet Microsoft Intune, lai Microsoft Edge izvietošanu macOS ierīcē
 
-Lai izvietotu, konfigurētu, pārraudzītu un aizsargātu programmu macOS ierīcē, šī programma ir jāpievieno Microsoft Intune. Lietojumprogrammai jābūt tādam tipam, ko atbalsta Intune, un pievienojumprogrammā Intune pieejamās pārvaldības opcijas būs atkarīgas no lietojumprogrammas tipa. Izmantojot Intune nozīmē arī to, ka nebūs jāizmanto macOS lietojumprogrammu aplaušanas rīks.
+Lai izvietotu, konfigurētu, pārraudzītu un aizsargātu programmu macOS ierīcē, šī programma ir jāpievieno Microsoft Intune. Programmai ir jābūt ar Intune atbalstītu tipu, un programmā Intune pieejamās pārvaldības opcijas būs atkarīgas no programmas tipa. Izmantojot Intune, arī jums nebūs jāizmanto macOS programmu aplaušanas rīks.
 
 Intune atbalsta Microsoft Edge. Papildinformāciju skatiet rakstā [Microsoft Edge pievienošana macOS ierīcēm, izmantojot Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
