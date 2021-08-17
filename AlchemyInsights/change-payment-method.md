@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500023"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895498"
 ---
 # <a name="change-payment-method"></a>Maksāšanas metodes maiņa
 
@@ -36,6 +36,6 @@ Maksāšanas metodi varat mainīt, izmantojot **Microsoft 365 administrēšanas 
 6. Rūtī **Pievienot maksājuma metodi** ievadiet konta informāciju un pēc tam atlasiet **Saglabāt**. Jums ir jāizmanto maksājuma metode no jūsu nomnieka valsts.
 7. Jaunā maksājuma metode jau ir atlasīta nolaižamajā sarakstā. Atlasiet **Aizstāt**.
 
-Lai uzzinātu, kā pievienot, atjaunināt, aizstāt vai dzēst maksāšanas veidus, skatiet [rakstu Maksāšanas metožu pārvaldība.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Lai uzzinātu, kā pievienot, atjaunināt, aizstāt vai dzēst maksāšanas veidus, skatiet [rakstu Maksāšanas metožu pārvaldība.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Lai uzzinātu, kā mainīt maksāšanas metodi, skatiet [rakstu Kā maksāt par abonementu.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Lai uzzinātu, kā mainīt maksāšanas metodi, skatiet [rakstu Kā maksāt par abonementu.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

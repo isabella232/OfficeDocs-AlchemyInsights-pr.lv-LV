@@ -1,5 +1,5 @@
 ---
-title: Informācija par kartēšanu starp Microsoft Edge mantotajām politikām un Microsoft Edge politikām
+title: Uzziniet par kartēšanu starp Microsoft Edge mantotā versija politikām un Microsoft Edge politikām
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087395"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informācija par kartēšanu starp Microsoft Edge mantotajām politikām un Microsoft Edge politikām
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Uzziniet par kartēšanu starp Microsoft Edge mantotā versija politikām un Microsoft Edge politikām
 
-Microsoft Edge mantoto (versiju 45 un vecāku) grupu politikas un mobilo ierīču pārvaldības (MDM) iestatījumu kartēšana uz atbilstošajām politikām Microsoft Edge versijā 80. Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft Edge politika Microsoft Edge politikas kartē](https://go.microsoft.com/fwlink/?linkid=2141665).
+Mobilo ierīču pārvaldības (Microsoft Edge mantotā versija versijas 45 un vecākas) un mobilo ierīču pārvaldības (Mobile Device Management — MDM) iestatījumi tiek kartēti uz Microsoft Edge versiju 80. Papildinformāciju skatiet rakstā [Microsoft Edge mantotā versija kartēšanas Microsoft Edge kartēšana.](https://go.microsoft.com/fwlink/?linkid=2141665)

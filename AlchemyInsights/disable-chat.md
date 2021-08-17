@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: 65b1de3c7cde8d22fde803cbc12e076957fdfde79216236e16f22ad0ba2222ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90c85197ab97764a68d10217123d7ff2d5857a8038a8f5aad44c0992063e4ef8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929096"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890477"
 ---
 # <a name="disable-chat"></a>Atspējot tērzēšanu
 
-Lai iespējotu vai atspējotu tērzēšanu savā organizācijā, varat izveidot politikas, kas ļauj kontrolēt, kuri tērzēšanas un kanālu ziņojumapmaiņas līdzekļi ir pieejami. Pastāv vairāki veidi, kā to paveikt, atkarībā no tā, kā nepieciešams konfigurēt tērzēšanu.
+Lai iespējotu vai atspējotu tērzēšanu savā organizācijā, varat izveidot politikas, kas ļauj kontrolēt, kuri tērzēšanas un kanālu ziņojumapmaiņas līdzekļi ir pieejami. Pastāv vairāki veidi, kā to paveikt atkarībā no tā, kā vēlaties konfigurēt tērzēšanu.
 
-- **Sapulce**: administrēšanas Teams dodieties uz Sapulču politikas [—](https://admin.teams.microsoft.com/) tērzēšanas iestatījums ir **Atļaut tērzēšanu sapulcēs.** Papildinformāciju par pielāgotu sapulču politiku izveidi skatiet rakstā [Sapulču politiku pārvaldība programmā Teams](/microsoftteams/meeting-policies-in-teams) [Tērzēšanas atļaušana sapulcēs.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
+- **Sapulce**: administrēšanas Teams dodieties uz Sapulču politikas [—](https://admin.teams.microsoft.com/) tērzēšanas iestatījums ir **Atļaut tērzēšanu sapulcēs.** Papildinformāciju par pielāgotu sapulču politiku izveidi skatiet rakstā [Sapulču politiku pārvaldība programmā Teams Tērzēšanas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) [atļaušana sapulcēs.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **Ziņojumapmaiņa :** administrēšanas Teams dodieties uz Ziņojumapmaiņas politikas [un](https://admin.teams.microsoft.com/)ieslēdziet vai **izslēdziet** tērzēšanu.  Papildinformāciju par pielāgotām ziņojumapmaiņas politikām un to, kā piešķirt politikas lietotājiem, skatiet rakstā [Ziņojumapmaiņas politiku pārvaldība programmā Teams.](/microsoftteams/messaging-policies-in-teams)
+- **Ziņojumapmaiņa :** administrēšanas Teams dodieties uz Ziņojumapmaiņas politikas [un](https://admin.teams.microsoft.com/)ieslēdziet vai **izslēdziet** tērzēšanu.  Papildinformāciju par pielāgotām ziņojumapmaiņas politikām un to, kā piešķirt politikas lietotājiem, skatiet rakstā [Ziņojumapmaiņas politiku pārvaldība programmā Teams.](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)
 
-- **Skolēni:** lai atspējotu tērzēšanu skolēnam, skatiet tērzēšanas iespējas sapulcēs un tērzēšanas iespējas 1:1 Teams izglītības politikās un [politikas pakotnēs](/microsoftteams/policy-packages-edu)izglītības iestādēm.
+- **Skolēni:** lai atspējotu tērzēšanu skolēnam, skatiet opcijas tērzēšanai sapulcēs un tērzēšanas iespējas 1:1 Teams izglītības politikās un politikas pakotnēs izglītības [iestādēm.](https://docs.microsoft.com/microsoftteams/policy-packages-edu)
 
-- Vies lietotāji: varat konfigurēt viesu piekļuves politikas, lai atļautu viesiem piekļūt tērzēšanai, un šīs personas var ieslēgt **vai izslēgt** **tērzēšanu.** Papildinformāciju skatiet [rakstā Viesu piekļuves konfigurēšana Teams centrā.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
+- Vies lietotāji: varat konfigurēt viesu piekļuves politikas, lai atļautu viesiem piekļūt tērzēšanai, un kuras var ieslēgt **vai izslēgt** **tērzēšanu.** Papildinformāciju skatiet rakstā [Viesu piekļuves konfigurēšana Teams centrā](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
 
 
 

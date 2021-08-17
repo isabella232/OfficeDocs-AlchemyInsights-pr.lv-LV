@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895894"
 ---
 # <a name="expired-subscription"></a>Abonementa derīgums ir beidzies
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029739"
 3. Rūtī **Atkārtoti aktivizēt šo** abonementu atlasiet maksāšanas metodi nolaižamajā sarakstā vai atlasiet Pievienot **maksāšanas metodi**.
 4. Atlasiet **Saglabāt**.
 
-Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Jauna pirkuma iegāde**
   
@@ -44,4 +44,4 @@ Lai uzzinātu vairāk, skatiet [Abonementa atkārtota aktivizēšana](/microsoft
 3. Ievadiet nepieciešamo licenču skaitu un izvēlieties, kā maksās (katru mēnesi vai par visu gadu). Izvēlieties, vai automātiski piešķirt licences visiem lietotājiem, kuriem pašlaik nav licences. Pēc tam **izvēlieties Paņemt tūlīt**.
 4. Izpildiet pārējās darbības, lai pabeigtu pašanu.
 
-Papildinformāciju skatiet rakstā [Cita abonementa iegāde.](/microsoft-365/commerce/buy-another-subscription)
+Papildinformāciju skatiet rakstā [Cita abonementa iegāde.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

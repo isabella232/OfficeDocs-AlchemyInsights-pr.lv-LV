@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967340"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896022"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Izdzēsto notikumu audita žurnālu lasīšana
 
 Lūk, kā to paveikt:
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **Meklēt**  >  [**audita žurnāla meklēšanā**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Veiciet kādu no šīm darbībām:
+   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
+   - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Ja redzat paziņojumu, ka jums ir jāieslēdz šis līdzeklis, ieslēdziet to tūlīt. Ja līdzeklis nav ieslēgts, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
-1. Atlasiet **Darbības** un pēc tam atrodiet **Exchange darbības pastkastē.** Atlasiet opcijas **Izdzēstie ziņojumi no mapes Izdzēstie** vienumi un **Pārvietotie ziņojumi uz mapi** Izdzēstie vienumi. Kad esat beidzis darbu, noklikšķiniet ārpus rūts, lai minimizētu **rūti** Darbības.
-1. Norādiet datumu diapazonu un pēc tam lodziņā **Lietotāji** atlasiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt. Vienlaikus varat atlasīt vairākus lietotājus.
-1. Atlasiet **Meklēt**. Darbības tiek rādītas sadaļā **Rezultāti.**
-1. Lai skatītu detalizēto informāciju, atlasiet darbību un pēc tam atlasiet **Papildinformācija**. Laukā **AffectedItems** tiek rādīta papildinformācija par izdzēsto vienumu, piemēram, tēmas rindiņa un vienuma atrašanās vieta, kad tas tika izdzēsts.
-    > [!NOTE]
-    > Izdzēstos vienumus nevar atjaunot, izmantojot audita žurnāla līdzekli. Informāciju par izdzēsto vienumu atjaunošanu skatiet [rakstā Izdzēsto vienumu atkopšana programmā Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-Papildinformāciju skatiet rakstā [Meklēšana audita Office 365, lai novērstu izplatītus scenārijus.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. Audita  lapas cilnē **Meklēšana** konfigurējiet tālāk norādītos iestatījumus.
+   - **Datuma un laika diapazons:** atlasiet datuma/laika diapazonu lodziņā **Sākums** **un** Beigas.
+   - **Darbības.** Exchange **pastkastes darbības un** pēc tam atlasiet tālāk norādītās vērtības.
+     - **Izdzēsti ziņojumi no mapes Izdzēstie vienumi**
+     - **Pārvietoti ziņojumi uz mapi Izdzēstie vienumi**
+
+       Kad esat beidzis darbu, noklikšķiniet ārpus rūts, lai minimizētu **rūti** Darbības.
+
+   - **Lietotāji:** akceptējiet tukšo noklusējuma vērtību, lai atgrieztu rezultātus visiem lietotājiem, vai ievadiet vienu vai vairākus lietotājus.
+
+3. Kad esat pabeidzis, noklikšķiniet uz **Meklēt.** Darbības tiek rādītas jaunajā **lapā Meklēšana audita** meklēšanā.
+
+4. Atlasiet darbību rezultātos, lai atvērtu detalizētas informācijas izlidošanu. Laukā **AffectedItems** tiek rādīta papildinformācija par izdzēsto vienumu, piemēram, tēmas rindiņa un vienuma dzēšanas vieta.
+
+   > [!NOTE]
+   > Izdzēstos vienumus nevar atjaunot, izmantojot audita žurnāla līdzekli. Lai atjaunotu izdzēstos vienumus, skatiet rakstu [Izdzēsto e-pasta ziņojumu atkopšana Outlook tīmeklī.](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+
+Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai izpētītu bieži sastopamas atbalsta problēmas.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

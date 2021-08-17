@@ -1,5 +1,5 @@
 ---
-title: Uzziniet par Microsoft 365 abonementu — Office programmu līdzekļu pieejamība mobilajās ierīcēs
+title: Uzziniet Microsoft 365 programmu līdzekļu pieejamību atkarībā Office un pieejamību mobilajās ierīcēs
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087431"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Uzziniet par Microsoft 365 abonementu — Office programmu līdzekļu pieejamība mobilajās ierīcēs
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Uzziniet Microsoft 365 programmu līdzekļu pieejamību atkarībā Office un pieejamību mobilajās ierīcēs
 
-Visi Microsoft 365 plāni ļauj skatīt dokumentus programmā Word, Excel, PowerPoint un OneNote iOS, Android un Windows mobilajās ierīcēs. Tomēr šo programmu līdzekļu un failu pieejamība ir atkarīga no jūsu abonementa — Microsoft 365 kvalificētā plāna vai nekvalificētā plāna, vai vienreizējas Office iegādes — un mobilās ierīces ekrāna lieluma.
+Visi Microsoft 365 plāni ļauj skatīt dokumentus programmā Word, Excel, PowerPoint un OneNote operētājsistēmā iOS, Android un Windows mobilajās ierīcēs. Tomēr šo programmu līdzekļu un failu pieejamība ir atkarīga no jūsu abonementa — Microsoft 365 atbilstošā plāna vai ne kvalificēta plāna, vai arī Office vienreizējā pirkuma, un mobilās ierīces ekrāna lieluma.
 
-Lai uzzinātu vairāk, skatiet rakstu [kā varat veikt Office lietojumprogrammas mobilajās ierīcēs, izmantojot Microsoft 365 abonementu](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Papildinformāciju skatiet [rakstā Darbības, ko varat veikt Office programmās mobilajās ierīcēs ar Microsoft 365 abonementu.](https://go.microsoft.com/fwlink/?linkid=2135575) 
