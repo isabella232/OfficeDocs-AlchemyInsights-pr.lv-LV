@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038965"
 ---
 # <a name="troubleshoot-sspr"></a>SSPR problēmu novēršana
 
-**Radās problēmas, konfigurējot paroles atiestatīšanu**
+**Radušās problēmas ar paroles atiestatīšanas konfigurēšanu**
 
-- Ja esat administrators un meklējat, kā iespējot pašapkalpošanās paroles atiestatīšanu, skatiet rakstu [apmācība IESPĒJOT SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), lai konfigurētu paroles atiestatīšanu savai organizācijai. Jūs, iespējams, vēlēsities pārskatīt [licencēšanas prasības](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support). Jūsu organizācijā jābūt piešķirtai vismaz vienai licencei.
-    - **Tikai mākoņi** — visi Office 365 (O365) apmaksātie SKU vai Azure AD Basic
-    - **Mākoņa un/vai Lokālie lietotāji** — Azure AD Premium P1 vai P2, Enterprise Mobility + Security (EMS) vai Secure ražīgs uzņēmums (SPE)
-- Lai saņemtu papildu jautājumus par pašapkalpošanās paroles atiestatīšanu, pārskatiet [mūsu bieži uzdotie jautājumi](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Ja esat administrators un vēlaties meklēt, kā iespējot pašapkalpošanās paroles atiestatīšanu, skatiet rakstu Apmācība [par SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)iespējošanu , lai konfigurētu paroles atiestatīšanu savā organizācijā. Iespējams, vēlēsities arī pārskatīt [licencēšanas prasības.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) Jūsu organizācijā ir jābūt piešķirtai vismaz vienai licencei.
+    - **Tikai mākoņa lietotāji** — Office 365 (O365) maksas SKU vai Azure AD Basic
+    - **Mākonis un/vai** lokālie lietotāji — Azure AD Premium P1 vai P2, Enterprise Mobility + Security (EMS) vai Secure Productive Enterprise (SPE)
+- Papildu jautājumus par pašapkalpošanās paroles atiestatīšanu skatiet mūsu bieži [uzdoto jautājumu sadaļā.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Saņemu kļūdas ziņojumu**
 
-Izlasiet šo rakstu, lai atrastu biežāk sastopamās kļūdas un to risinājumus: problēmu novēršana pašapkalpošanās [paroles atiestatīšanai](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
+Skatiet šo rakstu, lai atrastu bieži izplatītas kļūdas un to risinājumus. [Pašapkalpošanās paroles atiestatīšanas problēmu novēršana](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Man radās problēma ar paroles atiestatīšanas politiku**
+**Radušās problēmas ar paroles atiestatīšanas politiku**
 
-- Ja paroles atiestatīšanas politika nedarbojas, kā paredzēts, vai jums ir jautājumi par paroļu atiestatīšanas politikām, pārskatiet šo rakstu: [paroļu politikas un ierobežojumi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Paroļu atiestatīšanas politikas neattiecas uz administratoriem. Microsoft ievieš spēcīgu noklusējuma divu vārtu paroles atiestatīšanas politiku jebkurai Azure administratora lomai. Pārliecinieties, vai testējat lietotāju, kurš nav administrators. Papildinformāciju par administratoru atiestatīšanas politiku skatiet šajā rakstā: [administrators atiestatiet politikas atšķirības](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).
+- Ja paroļu atiestatīšanas politika neatbilst plānotajam vai jums ir jautājumi par paroļu atiestatīšanas politikām, pārskatiet šo rakstu: Paroļu politikas un ierobežojumi [programmā Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Paroles atiestatīšanas politikas neattiecas uz administratoriem. Microsoft īsteno stipru noklusējuma divvārdu paroles atiestatīšanas politiku jebkurai Azure administratora lomai. Pārliecinieties, vai veicat testēšanu ar lietotāju, kurš nav administrators. Papildinformāciju par administratora atiestatīšanas politiku skatiet šajā rakstā: [Administratora atiestatīšanas politikas atšķirības.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
-**Nevēlos, lai lietotāji reģistrētu papildu drošības informāciju paroles atiestatīšanai**
+**Es nevēlos, lai lietotāji reģistrētu papildu drošības informāciju paroles atiestatīšanai**
 
-Jūs varat iepriekš aizpildīt datus (e-pastu un tālruņa atribūtus) saviem lietotājiem, izmantojot API, PowerShell vai Azure AD Connect. Lai uzzinātu, kā lasīt:
+Varat iepriekš aizpildīt datus (e-pasta un tālruņa atribūtus) saviem lietotājiem, izmantojot API, PowerShell vai Azure AD Savienošana. Lai uzzinātu, kā to lasīt:
 
 - [Paroles atiestatīšanas izvietošana bez nepieciešamības lietotājiem reģistrēties](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
-- [Kādus datus izmanto paroles atiestatīšana](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kādi dati tiek izmantoti, atiestatot paroli](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Vēlos, lai lietotāji reģistrētu savu papildu drošības informāciju paroles atiestatīšanai**
+**Es vēlos, lai lietotāji reģistrētu savu papildu drošības informāciju paroles atiestatīšanai**
 
-1. Lieciet lietotājiem reģistrēt savu drošības informāciju par pašapkalpošanās paroles atiestatīšanu, novirzot tos uz [aka.MS/ssprsetup](https://mysignins.microsoft.com/security-info).
-1. Pēc tam, kad dati ir aizpildīti lietotājam (lietotājs vai administrators), virziet lietotāju uz [aka.MS/sspr](https://passwordreset.microsoftonline.com/) , lai jūsu lietotāji varētu būt pilnvaroti atiestatīt savas paroles.
-1. Ja lietotāji joprojām saskaras ar problēmām, kas var būt **izplatītākie** vai **paroļu hashi sinhronizētie** lietotāji. Tas nozīmē, ka ir iespējamas problēmas ar paroļu arī atpakaļrakstīšanas pakalpojumu.
+1. Lai lietotāji reģistrē savu drošības informāciju pašapkalpošanās paroles atiestatīšanai, viņus pāraiciniet uz [aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)
+1. Kad lietotāja (lietotāja vai administratora) dati ir aizpildīti, lietotāju var pāravot [aka.ms/sspr](https://passwordreset.microsoftonline.com/) lai lietotāji varētu atiestatīt savas paroles.
+1. Ja lietotājiem joprojām ir radušās problēmas, visticamāk, ka tie ir **federatīvi vai** paroļu **jaukšanas sinhronizēti** lietotāji. Tas nozīmē, ka pastāv problēma ar paroles rakstīšanas pakalpojumu.

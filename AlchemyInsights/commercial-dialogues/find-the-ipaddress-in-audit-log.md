@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017139"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303584"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Ip adreses atrašana audita žurnālā
 
-1. Audita žurnālos tiek rādīta IP adrese, kas atbilst lietotāja vai administratora veiktajai darbībai. Tiek reģistrēta arī klienta informācija. Lai noteiktu IP adresi, lūk, kā:
+Audita žurnālos tiek rādīta IP adrese, kas atbilst lietotāja vai administratora veiktajai darbībai. Tiek reģistrēta arī klienta informācija. Lai noteiktu IP adresi, lūk, kā:
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **Meklēt**  >  **[audita žurnāla meklēšanā](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Ja redzat paziņojumu, ka ir jāieslēdz auditēšana, turpiniet un ieslēdziet to. Ja šis līdzeklis nav iespējots, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
-1. Ja jūs interesē noteikta darbība, atlasiet to sarakstā **Darbības.** pretējā gadījumā pēc noklusējuma atlasītajam lietotājam tiks atgrieztas visas darbības. Ņemiet vērā, ka noteiktas darbības var nebūt pieejamas atlasīšanai **izvēlnē** Darbības. tomēr šie audita vienumi tiks atgriezti, ja būs **atlasīts Rādīt rezultātus visām** darbībām (noklusējuma iestatījums).
-1. Norādiet datumu diapazonu un laukā **Lietotāji** atlasiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt.
-1. Atlasiet **Meklēt**. Darbības tiek rādītas sadaļā **Rezultāti.** Katrai darbībai varat skatīt IP adresi.
-1. Lai skatītu detalizētu informāciju, atlasiet darbību un pēc tam atlasiet **Papildinformācija**.
+1. Veiciet kādu no šīm darbībām:
+   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
+   - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
 
-Papildinformāciju skatiet rakstā Meklēšana [audita Office 365 un novērstu izplatītākus scenārijus.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Piezīme.** Ja redzat paziņojumu, ka ir jāieslēdz auditēšana, turpiniet un ieslēdziet to. Ja šis līdzeklis nav iespējots, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
+
+2. Lapā **Audits** pārbaudiet, vai ir atlasīta **cilne** Meklēšana, un pēc tam konfigurējiet šos iestatījumus:
+   - **Datuma un laika diapazons:** atlasiet datuma/laika diapazonu lodziņā **Sākums** **un** Beigas.
+   - **Darbības:** ja jūs interesē konkrēta darbība, atlasiet to sarakstā; pretējā gadījumā noklusējuma vērtība **Rādīt rezultātus visām darbībām** atgriež visas darbības tiks atgrieztas.. Ņemiet vērā, ka atlasei dažas darbības var nebūt pieejamas. tomēr šie audita vienumi tiks atgriezti, ja **būs atlasīts Rādīt rezultātus par visām** darbībām.
+   - **Lietotāji:** akceptējiet tukšo noklusējuma vērtību, lai atgrieztu rezultātus visiem lietotājiem, vai ievadiet vienu vai vairākus lietotājus.
+
+3. Kad esat pabeidzis, noklikšķiniet uz **Meklēt.** Darbības tiek rādītas jaunajā **lapā Meklēšana audita** meklēšanā.
+
+4. Rezultātos noklikšķiniet uz **Filtrēt rezultātus** un darbību filtra lodziņā ierakstiet **Set-Mailbox.**
+
+5. Atlasiet audita ierakstu rezultātos, lai atvērtu **detalizētas informācijas izlidošanas** logu.
+
+Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai izpētītu bieži sastopamas atbalsta problēmas.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

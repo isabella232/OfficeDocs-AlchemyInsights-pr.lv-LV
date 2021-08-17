@@ -1,5 +1,5 @@
 ---
-title: Vairāku profilu izveide pārlūkprogrammā Microsoft Edge
+title: Vairāku profilu izveide programmā Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103415"
 ---
-# <a name="create-multiple-profiles-in-microsoft-edge"></a>Vairāku profilu izveide pārlūkprogrammā Microsoft Edge
+# <a name="create-multiple-profiles-in-microsoft-edge"></a>Vairāku profilu izveide programmā Microsoft Edge
 
-Profili ļauj vairākiem lietotājiem darboties koplietojamā vidē, saglabājot piekļuvi personalizētajiem pārlūka iestatījumiem, grāmatzīmēm un paplašinājumiem. Lai pārlūkprogrammā Microsoft Edge pievienotu vairākus profilus, veiciet tālāk norādītās darbības.
+Profili ļauj vairākiem lietotājiem darboties koplietojamā vidē, vienlaikus saglabājot piekļuvi saviem personalizētajiem pārlūkprogrammas iestatījumiem, grāmatzīmēm un paplašinājumiem. Lai pievienotu vairākus profilus programmā Microsoft Edge, rīkojieties šādi:
 
 1. Startējiet Microsoft Edge.
-    - Ja neesat pierakstījies, atlasiet profila ikonu > **Pierakstīties**. Tiks automātiski atvērta lapa **profila iestatījumu pārvaldība** .
-    - Ja esat pierakstījies, atlasiet profila ikonu > **profila iestatījumu pārvaldība**.
-2. Atlasiet **profils > + pievienot profilu > pievienot**.
-3. Atlasiet **pierakstīties, lai sinhronizētu datus** , izveidojot savienojumu ar esošu kontu.
-4. Atlasiet **Jā** , lai ieslēgtu pierakstīšanās sinhronizāciju, un pēc tam atlasiet **Apstiprināt**.
+    - Ja neesat pierakstījies, atlasiet profila ikonu un > **Pierakstīties**. Tādējādi automātiski tiks iet uz **lapu Profila iestatījumu** pārvaldība.
+    - Ja esat pierakstījies, atlasiet profila ikonu un > **Pārvaldīt profila iestatījumus**.
+2. Atlasiet **Profila > + Pievienot profilu un > Pievienot.**
+3. Atlasiet **Pierakstīties, lai sinhronizētu datus** savienojuma izveidei ar esošu kontu.
+4. Atlasiet **Jā,** lai ieslēgtu pierakstīšanās sinhronizāciju, un pēc tam atlasiet **Apstiprināt**.
 
     Papildu profils tagad ir pieejams lietošanai.
