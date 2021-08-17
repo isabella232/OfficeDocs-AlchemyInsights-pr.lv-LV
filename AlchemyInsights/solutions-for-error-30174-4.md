@@ -1,5 +1,5 @@
 ---
-title: Risinājumi kļūdu 30174-4
+title: Risinājumi kļūdai 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050161"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Instalējot Office, tika parādīts kļūdas kods 30174-4
+# <a name="error-code-30174-4-when-installing-office"></a>Instalējot kodu 30174-4, tika parādīts Office
 
-Šī kļūda var tikt parādīta, ja jūsu pretvīrusu programmatūra, ugunsmūris, starpniekservera iestatījumi vai savienojums neļauj instalēt Office. Tālāk ir norādītas dažas darbības, kuras varat veikt, lai novērstu šo problēmu.
+Šī kļūda var tikt parādīts, ja jūsu pretvīrusu programmatūra, ugunsmūris, starpniekservera iestatījumi vai savienojums neļauj instalēt Office. Varat mēģināt novērst problēmu, izmantojot kādu no šīm darbībām.
   
-- Vadu savienojuma lietošana
+- Izmantojiet vadu savienojumu
 
-- Starpniekservera īslaicīga izslēgšana
+- Starpniekservera iestatījumu īslaicīga izslēgšana
 
 - Pretvīrusu programmatūras īslaicīga izslēgšana
 
-[Instalējot Office, tika parādīts kļūdas kods 30174-4](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Instalējot kodu 30174-4, tika parādīts Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
