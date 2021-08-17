@@ -1,5 +1,5 @@
 ---
-title: 8000031 nevar izdzēst fotoattēlus no failiem
+title: 8000031 nevar izdzēst fotoattēlus no mapes Faili
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104963"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Nevar izdzēst fotoattēlus no failiem
+# <a name="unable-to-delete-photos-from-files"></a>Nevar izdzēst fotoattēlus no mapes Faili
 
-Lai izdzēstu fotoattēlus no failiem programmā Outlook.com:
+Lai izdzēstu fotoattēlus no mapes Faili pakalpojumā Outlook.com:
   
-1. Dodieties uz mapi **Iesūtne** vai **Nosūtītie vienumi** un izdzēsiet e-pasta ziņojumu, kuram tie ir pievienoti.
+1. Dodieties uz **iesūtni** **vai mapi Nosūtītie** vienumi un izdzēsiet e-pasta ziņojumu, kurā tie ir pievienoti.
 
-2. Noņemt vienumu (s) no **izdzēstajiem vienumiem**.
+2. Noņemiet vienumu(s) no vienuma(iem) no **vienuma(iem) Izdzēstie vienumi.**
 
-Lai iegūtu papildinformāciju, izlasiet rakstu [kā izdzēst failus vai fotoattēlus programmā Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Lai iegūtu papildinformāciju, [izlasiet kā izdzēst failus vai fotoattēlus vietnē Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   
