@@ -1,5 +1,5 @@
 ---
-title: Iespējot Microsoft Defender pakalpojumam Office 365 pakalpojumam SharePoint Online, OneDrive un Microsoft Teams
+title: Microsoft Defender iespējošana programmatūrai Office 365 SharePoint Online, OneDrive un Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058873"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Iespējot Microsoft Defender pakalpojumam Office 365 pakalpojumam SharePoint Online, OneDrive un Microsoft Teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Microsoft Defender iespējošana programmatūrai Office 365 SharePoint Online, OneDrive un Microsoft Teams
 
-1. Izmantojot globālā administratora vai drošības administratora akreditācijas datus, piesakieties [Office 365 drošības un atbilstības centrā](https://protection.office.com/).
-2. Kreisajā rūtī atlasiet **draudu pārvaldība** un pēc tam atlasiet **politikas**  >  [droši pielikumi](https://protection.office.com/safeattachment).
-3. Atlasiet **ieslēgt Microsoft Defender pakalpojumam Office 365 darbam ar SharePoint, OneDrive un Microsoft Teams** un pēc tam atlasiet **Saglabāt**.
+1. Izmantojot globālā administratora vai drošības administratora akreditācijas datus, piesakieties [Office 365 un atbilstības centrā](https://protection.office.com/).
+2. Kreisajā **rūtī atlasiet** Apdraudējumu pārvaldība un pēc tam atlasiet **Politika**  >  [Seifs pielikumiem](https://protection.office.com/safeattachment).
+3. Atlasiet **Ieslēgt Microsoft Defender programmatūrai Office 365, SharePoint, OneDrive un Microsoft Teams**, un pēc tam atlasiet **Saglabāt**.
     > [!TIP]
     >
-    > - Kā globālais administrators vai SharePoint Online administrators izpildiet tālāk norādīto PowerShell cmdlet ar **DisallowInfectedFileDownload** parametru kopu kā *patiess*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Noteiktu failu brīdinājumu iestatīšana](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > - Kā globālais administrators vai SharePoint Online administrators, izpildiet šādu PowerShell cmdlet ar parametra **DisallowInfectedFileDownload** vērtību *kā true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
+    > - [Brīdinājumu iestatīšana konstatētajiem failiem](https://go.microsoft.com/fwlink/?linkid=2092110)
 
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft Defender for Office 365 for SharePoint, OneDrive un Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
+Papildinformāciju skatiet rakstā [Programmatūrai Office 365 Microsoft Defender SharePoint, OneDrive un Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116735"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Enterprise lietojumprogrammu saraksta izveide
 
@@ -57,4 +57,4 @@ ms.locfileid: "51404928"
 
     Varat arī lejupielādēt lietojumprogrammu sarakstu visām lietojumprogrammām un piederošām lietojumprogrammām Azure Active Directory>programmu reģistrācijas>lejupielādēt>visas lietojumprogrammas/piederošās lietojumprogrammas.
 
-    Lai iegūtu lietojumprogrammu sarakstu, izmantojot MS Graph, skatiet rakstu Sarakstu [lietojumprogrammas — Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) un lietojumprogrammas resursu [tips — Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    Lai iegūtu lietojumprogrammu sarakstu, izmantojot MS Graph, skatiet rakstu Sarakstu lietojumprogrammas [— Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) un lietojumprogrammas resursa tips [— Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).

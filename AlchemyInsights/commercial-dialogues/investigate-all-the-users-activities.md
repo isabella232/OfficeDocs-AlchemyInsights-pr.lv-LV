@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898803"
 ---
 # <a name="investigate-all-the-users-activities"></a>Izpētīt visu lietotāju darbības
 
 Lūk, kā to paveikt:
 
-1. Dodieties [uz drošības & atbilstības centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **Meklēt**  >  **[audita žurnāla meklēšanā](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Veiciet kādu no šīm darbībām:
+   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
+   - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Ja redzat paziņojumu, ka jums ir jāieslēdz šis līdzeklis, ieslēdziet to tūlīt. Ja līdzeklis nav ieslēgts, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
 
-1. Ja jūs interesē noteikta darbība, atlasiet to **darbību** sarakstā. Ja tā nav, pēc noklusējuma atlasītajam lietotājam tiek atgrieztas visas darbības.
-1. Norādiet datumu diapazonu un pēc tam lodziņā **Lietotāji** atlasiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt. Vienlaikus varat atlasīt vairākus lietotājus.
-1. Noklikšķiniet **uz Meklēt.** Darbības tiek rādītas sadaļā **Rezultāti.** Redzēsit IP adresi, lietotāju un darbības nosaukumu.
-1. Lai lejupielādētu rezultātus, atlasiet **Eksportēt rezultātus**.
-1. Lai pārskatītu detalizēto informāciju, atlasiet darbību un pēc tam izvērsiet **sadaļu Papildinformācija**.
+2. Audita  lapas cilnē **Meklēšana** konfigurējiet tālāk norādītos iestatījumus.
+   - **Datuma un laika diapazons:** atlasiet datuma/laika diapazonu lodziņā **Sākums** **un** Beigas.
+   - **Darbības:** ja jūs interesē konkrēta darbība, atlasiet to sarakstā; pretējā gadījumā noklusējuma vērtība **Rādīt rezultātus visām darbībām** atgriež visas darbības.
+   - **Lietotāji:** akceptējiet tukšo noklusējuma vērtību, lai atgrieztu rezultātus visiem lietotājiem, vai ievadiet vienu vai vairākus lietotājus.
 
-Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai novērstu izplatītus scenārijus.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Kad esat pabeidzis, noklikšķiniet uz **Meklēt.** Darbības tiek rādītas jaunajā **lapā Meklēšana audita** meklēšanā. Redzēsit **IP adresi,** **lietotāju un** **darbības** nosaukumu.
+
+4. Lai lejupielādētu rezultātus, atlasiet **Eksportēt** \> **lejupielādēt visus rezultātus**.
+
+5. Atlasiet darbību rezultātos, lai atvērtu detalizētas informācijas izlidošanu.
+
+Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai izpētītu bieži sastopamas atbalsta problēmas.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

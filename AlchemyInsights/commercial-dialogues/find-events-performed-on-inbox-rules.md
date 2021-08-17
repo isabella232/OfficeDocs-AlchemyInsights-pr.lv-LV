@@ -13,30 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14a5a18bc1422572db567c9533fefe5a7e0120afd64df4a64623038cc063ce93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058657"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>Iesūtnes kārtulās veikto notikumu atrašana
 
 Kad iesūtnes kārtulas tiek izveidotas, mainītas vai izdzēstas, notikumi tiek ierakstīti audita žurnālā. Lūk, kā tās pārskatīt:
 
-1. Veiciet kādu no šīm darbībām:
-   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
-   - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
+1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Atlasiet Meklēt > meklēšana audita žurnālā.
 
     > [!NOTE]
     > Ja redzat paziņojumu, ka ir jāieslēdz auditēšana, turpiniet un ieslēdziet to. Ja šis līdzeklis nav ieslēgts, meklēšanas rezultāti nevarēs izvilkt datus no iepriekšējiem datumiem.
+1. Atlasiet lauku Darbības, atrodiet visas Exchange darbības un pēc tam atlasiet New-InboxRule Izveidot iesūtnes kārtulu no Outlook Web App. Kad esat beidzis darbu, noklikšķiniet ārpus rūts, lai minimizētu rūti Darbības.
+1. Norādiet datumu diapazonu un pēc tam laukā Lietotāji atlasiet tā lietotāja lietotājvārdu, kuru vēlaties izpētīt. Vienlaikus varat atlasīt vairākus lietotājus.
+1. Atlasiet Meklēt. Darbības tiek rādītas sadaļā Rezultāti.
+1. Lai skatītu detalizētu informāciju, atlasiet darbību un pēc tam atlasiet Papildinformācija. Sadaļā Parametri var skatīt kārtulas nosaukumu, iestatītos nosacījumus un darbības, kuras veiks kārtula.
 
-2. Audita  lapas cilnē **Meklēšana** konfigurējiet tālāk norādītos iestatījumus.
-   - **Datuma un laika diapazons:** atlasiet datuma/laika diapazonu lodziņā **Sākums** **un** Beigas.
-   - **Darbības.** Atlasiet **Jauna iesūtneAkurses kārtula Izveidot iesūtnes kārtulu no Outlook Web App**
-
-3. Kad esat pabeidzis, noklikšķiniet uz **Meklēt.** Darbības tiek rādītas jaunajā **lapā Meklēšana audita** meklēšanā.
-
-4. Atlasiet darbību rezultātos, lai atvērtu detalizētas informācijas izlidošanu. Sadaļā **Parametri** var skatīt kārtulas nosaukumu, iestatītos nosacījumus un darbības, kuras veiks kārtula.
-
-Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai izpētītu bieži sastopamas atbalsta problēmas.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
+Papildinformāciju skatiet rakstā Meklēšana audita Office 365 un novērstu izplatītus scenārijus.
