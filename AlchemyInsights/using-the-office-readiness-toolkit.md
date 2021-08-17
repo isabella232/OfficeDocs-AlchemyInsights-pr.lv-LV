@@ -1,5 +1,5 @@
 ---
-title: Office gatavības rīkkopas izmantošana
+title: Gatavības rīkkopas Office izmantošana
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072923"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Office gatavības rīkkopas izmantošana
+# <a name="using-the-office-readiness-toolkit"></a>Gatavības rīkkopas Office izmantošana
 
-Informāciju par Office gatavības rīkkopas lietošanu skatiet rakstā [gatavības rīkkopas izmantošana, lai novērtētu lietojumprogrammu saderību ar Microsoft 365 programmām](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Informāciju par gatavības rīkkopas Office skatiet rakstā Gatavības rīkkopas izmantošana, lai novērtētu gatavības [rīkkopas Microsoft 365 programmas.](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)
 
-Ja jums ir atsauksmes vai jautājumi par gatavības rīkkopu, lūdzu, rakstiet mums uz ReadyForOffice@microsoft.com.
+Ja jums ir atsauksmes vai jautājumi par gatavības rīkkopu, lūdzu, sūtiet mums e-pasta ziņojumu uz ReadyForOffice@microsoft.com.

@@ -1,5 +1,5 @@
 ---
-title: Savu lietotāju Microsoft 365 programmu darbību skatīšana
+title: Lietotāju un Microsoft 365 darbību skatīšana
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93a49d9c4276140abb9b33f857621bd917b7b4fb77a262a002ce96a6e6124fb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037111"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>Savu lietotāju Microsoft 365 programmu darbību skatīšana
+# <a name="view-your-users-microsoft-365-apps-activity"></a>Lietotāju un Microsoft 365 darbību skatīšana
 
-Office [aktivizācijas atskaitē](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) varat skatīt, kuri lietotāji ir instalējuši un aktivizēuši savas Microsoft 365 programmas vismaz vienā ierīcē.
+Aktivizācijas [Office ļauj](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) skatīt, kuri lietotāji ir instalējuši un aktivizēuši savas Microsoft 365 vismaz vienā ierīcē.
 
-Turklāt varat skatīt savu lietotāju Microsoft 365 programmu darbības, izmantojot [Microsoft 365 programmu lietojuma atskaiti](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).
+Turklāt varat skatīt savu lietotāju darbības, Microsoft 365 programmas izmantot Microsoft 365 programmas [atskaiti.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)

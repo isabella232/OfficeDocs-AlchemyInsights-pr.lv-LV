@@ -1,5 +1,5 @@
 ---
-title: Nevilcinoties saņemt Microsoft 365 lietojumprogrammu atjauninājumus uzņēmumam
+title: Atjauninājumu saņemšanas atlikšana Microsoft 365 programmas lieluzņēmumiem
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102866"
 ---
-# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Nevilcinoties saņemt Microsoft 365 lietojumprogrammu atjauninājumus uzņēmumam
+# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Atjauninājumu saņemšanas atlikšana Microsoft 365 programmas lieluzņēmumiem
 
-Ja jums ir konkrēta biznesa nepieciešamība saņemt līdzekļu atjauninājumus no Semi-Annual kanāla, varat konfigurēt lietojumprogrammas, lai nesaņemtu šos līdzekļu atjauninājumus, bet joprojām saņemtu jaunākos drošības atjauninājumus.
+Ja jums ir nepieciešams konkrēts uzņēmums, lai aizkavētu līdzekļu atjauninājumu saņemšanu no Semi-Annual kanāla, varat konfigurēt programmas, lai nesaņemt šos līdzekļu atjauninājumus, bet joprojām saņemtu jaunākos drošības atjauninājumus.
 
-Lai uzzinātu vairāk, skatiet rakstu [atlikšanas līdzekļu atjauninājumu saņemšana no Semi-Annual kanāls Microsoft 365 lietojumprogrammām darbam ar Enterprise](https://go.microsoft.com/fwlink/?linkid=2109533).
+Papildinformāciju skatiet rakstā [Līdzekļu atjauninājumu saņemšanas aizkave no Semi-Annual kanāla Microsoft 365 programmas lieluzņēmumiem.](https://go.microsoft.com/fwlink/?linkid=2109533)
