@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: d1cea417d9c119a4d67ad704837622c6077e056d4abd28d2bf89e71f4edefee1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 08d3a74174ff30bf330e9c5ad41390a0247e20fd5a7a378da7d5f2a5905b2c86
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499591"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888845"
 ---
 # <a name="assign-project-to-users"></a>Project piešķiršana lietotājiem
 
@@ -33,4 +33,4 @@ Project var piešķirt lietotājiem **Microsoft 365 administrēšanas centrā**.
 5. Noklikšķiniet uz **Lietojumprogrammu un pakalpojumu ieslēgšana vai izslēgšana**, lai piešķirtu vai noņemtu licences.
 6. Noklikšķiniet uz **Piešķirt** un **Aizvērt**.
 
-Lai iegādātos vairāk licenču vai noņemtu tās, skatiet [Licenču iegāde vai noņemšana](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Lai iegādātos vairāk licenču vai noņemtu tās, skatiet [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

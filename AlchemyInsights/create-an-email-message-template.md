@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080573"
 ---
 # <a name="create-an-email-message-template"></a>E-pasta ziņojuma veidnes izveide
 
 Lai izveidotu e-pasta ziņojuma veidni:
 
-1. Outlook datora cilnē **Sākums** **grupā jauns** noklikšķiniet uz **Jauns e-pasta ziņojums**.
+1. Darbvirsmas  cilnes Outlook noklikšķiniet uz **Jauna grupa , noklikšķiniet** uz **Jauns e-pasts.**
 
-    Īsinājumtaustiņi, lai izveidotu e-pasta ziņojumu, ir CTRL + SHIFT + M.
+    E-pasta ziņojuma izveides īsinājumtaustiņš ir CTRL+SHIFT+M.
 
-2. Ziņojuma pamattekstā ievadiet vēlamo saturu.
-3. Ziņojuma logā noklikšķiniet uz cilnes **Fails** .
-4. Noklikšķiniet uz **Saglabāt kā**.
-5. Dialoglodziņa **Saglabāt kā** sarakstā **Saglabāt kā tipu** noklikšķiniet uz **Outlook veidne**.
-6. Lodziņā **faila nosaukums** ierakstiet veidnes nosaukumu un pēc tam noklikšķiniet uz **Saglabāt**.
+2. Ziņojuma pamattekstā ievadiet saturu.
+3. Ziņojuma logā noklikšķiniet uz **cilnes** Fails.
+4. Noklikšķiniet **uz Saglabāt kā**.
+5. Dialoglodziņa **Saglabāt kā** sarakstā Saglabāt kā **tipu noklikšķiniet uz Saglabāt kā** Outlook **veidni.**
+6. Lodziņā **Faila nosaukums** ierakstiet savas veidnes nosaukumu un pēc tam noklikšķiniet uz **Saglabāt.**
 
-Pēc noklusējuma veidnes tiek saglabātas šajā vietā:
+Pēc noklusējuma veidnes tiek saglabātas šajā atrašanās vietā:
 
 **c:\users\username\appdata\roaming\microsoft\templates**

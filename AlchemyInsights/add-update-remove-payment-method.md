@@ -14,25 +14,25 @@ ms.custom:
 - commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: 815de782f7e5968135f199960b5c90466b083af208ff087ddd5688539c27b592
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4115988c9ea6c3e07f4eff260442ee13838086b502e4457073307978c1e3e01b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501175"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889117"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Pievienot, atjaunināt vai dzēst maksāšanas metodi
 
-**Svarīgi!** Maksāšana, izmantojot bankas kontu, dažās valstīs vai reģionos nav pieejama. Papildinformāciju skatiet [rakstā Kā maksāt par abonementu.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription) 
+**Svarīgi!** Maksāšana, izmantojot bankas kontu, dažās valstīs vai reģionos nav pieejama. Papildinformāciju skatiet [rakstā Kā maksāt par abonementu.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription) 
 
 Jūs varat iegādāties Microsoft produktus un pakalpojumus ar debetkarti, kredītkarti vai tiešo pārskaitījumu uz bankas kontu.
 
-- Lai pievienotu bankas kontu kā maksāšanas metodi, lasiet rakstu [Maksāšanas metodes pievienošana](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
+- Lai pievienotu bankas kontu kā maksāšanas metodi, lasiet rakstu [Maksāšanas metodes pievienošana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- Lai atjauninātu bankas konta informāciju, lasiet rakstu [Detalizēta informācija par maksāšanas metodes atjaunināšanu](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- Lai atjauninātu bankas konta informāciju, lasiet rakstu [Detalizēta informācija par maksāšanas metodes atjaunināšanu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
 
-- Lai mainītu maksāšanas metodi uz vai no bankas konta, lasiet rakstu [Maksāšanas metodes aizvietošana](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
+- Lai mainītu maksāšanas metodi uz vai no bankas konta, lasiet rakstu [Maksāšanas metodes aizvietošana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- Lai dzēstu bankas kontu kā maksāšanas metodi, lasiet rakstu [Maksāšanas metodes dzēšana](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
+- Lai dzēstu bankas kontu kā maksāšanas metodi, lasiet rakstu [Maksāšanas metodes dzēšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-Papildinformāciju skatiet rakstā [Maksāšanas metodes pārvaldība](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Papildinformāciju skatiet rakstā [Maksāšanas metodes pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

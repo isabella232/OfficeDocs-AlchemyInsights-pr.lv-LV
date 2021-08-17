@@ -1,5 +1,5 @@
 ---
-title: Koplietojamā pastkaste vai kalendāra problēma programmā Outlook darbam ar Mac?
+title: Vai programmā Outlook for Mac ir koplietojama pastkaste vai kalendārs?
 ms.author: supravee
 author: supravee
 manager: jackiesm
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: a53a79a2da13c9c3f9c2a8509d157e4b244a068d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 520137fe1e7de1c7da3be1684006c4211baebf76786dc2e1dea7acc91f82cc7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707601"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108203"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Koplietojamā pastkaste vai kalendāra problēma programmā Outlook darbam ar Mac?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Vai programmā Outlook for Mac ir koplietojama pastkaste vai kalendārs?
 
-Mēs varam jums palīdzēt ātrāk, ja sazināties ar mums tieši no lietojumprogrammas. **Dodieties uz skartā lietotāja Mac datoru, atveriet programmu Outlook un noklikšķiniet uz Palīdzība \> . Sazināties ar atbalsta dienestu**. 
+Varam jums palīdzēt ātrāk, ja sazināties ar mums tieši no lietojumprogrammas. **Mac datorā, kas darbojas ietekmētajā lietotāja datorā, atveriet Outlook un noklikšķiniet uz Palīdzība \> Sazinieties ar atbalsta dienestu**. 
   
-Lai uzzinātu vairāk par Outlook darbam ar Mac programmas atbalsta izmantošanu, lasiet šo rakstu: [jaunu kontaktpersonu atbalsta līdzeklis programmā Outlook 2016 darbam ar Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Papildinformāciju par programmas Outlook for Mac programmas atbalsta dienestu skatiet šajā rakstā: Jaunu kontaktpersonu atbalsta līdzeklis programmā [Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

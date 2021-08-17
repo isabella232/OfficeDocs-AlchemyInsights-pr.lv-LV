@@ -11,23 +11,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952220"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888965"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender programmatūrai Office 365
 
-- Seifs Pielikumi, Seifs saites un pretpikšķerēšana ir daļa no programmatūras Microsoft Defender programmatūrai Office 365. Enterprise E5, Education A5 un Microsoft 365 Business Premium ietvert Microsoft Defender Office 365. Citos plānos ir nepieciešama pievienojumprogramma Microsoft Defender Office 365 abonementam.
+- Seifs Pielikumi, Seifs saites un pretpikšķerēšana ir daļa no programmatūras Microsoft Defender Office 365. Enterprise E5, Education A5 un Microsoft 365 Business Premium ietvert Microsoft Defender Office 365. Visiem pārējiem plāniem ir nepieciešama pievienojumprogramma Microsoft Defender Office 365 abonementam.
 
-- Jums ir jāpiešķir atbilstošas licences, lai aizsargātu lietotājus, programmatūrai Microsoft Defender Office 365. Norādījumus par to, kā lietotājiem [lietot lielapjoma licences,](/microsoft-365/admin/add-users/add-users) skatiet rakstā Lietotāju pievienošana un licenču piešķiršana vienlaikus.
+- Jums ir jāpiešķir atbilstošas licences, lai aizsargātu lietotājus, programmatūrai Microsoft Defender Office 365. Norādījumus par to, kā lietotājiem [lietot lielapjoma licences,](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) skatiet rakstā Lietotāju pievienošana un licenču piešķiršana vienlaikus.
 
-- Globālie administratori vai drošības administratori var piekļūt programmatūrai Microsoft Defender Office 365 drošības drošības & drošības kontroles centra threat **Managmeent** \> **politikā**.
+- Globālie administratori vai drošības administratori var piekļūt programmatūrai Microsoft Defender Office 365 līdzekļiem Microsoft 365 Defender portāla sadaļā E& pasta & **sadarbības** politikas \> **& kārtulas** \> **Pretdraudu politikas.**
 
-- Seifs Pielikumu un Seifs saišu politikas var norādīt uz visu organizāciju, konkrētiem domēniem vai mazākām lietotāju grupām.
+- Seifs Pielikumu un Seifs politiku saites var norādīt uz konkrētiem domēniem, grupas dalībniekiem vai atsevišķiem lietotājiem. Varat arī norādīt izņēmumus attiecībā Seifs un Seifs saišu politikām, ņemot vērā domēnu, dalību grupā vai atsevišķus lietotājus.
 
-- Nav noklusējuma Seifs politiku. Jums jāizveido [politika un tā](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) jālieto lietotājiem.
+- Nav noklusējuma iestatījuma Seifs, kas aizsargā e-pasta ziņojumus. Jums ir jāizveido politika attiecībā uz e Seifs pasta pielikumu aizsardzību. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
 
-- Saišu noklusējuma Seifs, kas attiecas uz visiem lietotājiem jūsu organizācijā. Lai rediģētu šo politiku vai izveidotu pielāgotas politikas, skatiet rakstu Saišu Seifs iestatīšana programmatūrā [Microsoft Defender Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
+  Seifs Pielikumi SharePoint, OneDrive un Microsoft Teams globāli ir iespējoti vai atspējoti, un tiem nav nepieciešama Seifs pielikumu politikas. Papildinformāciju skatiet [rakstā Seifs, SharePoint, OneDrive un Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)
+
+- Nav noklusējuma saišu politikas Seifs kas aizsargā e-pasta ziņojumus vai Microsoft Teams. Jums ir jāizveido [politika saišu aizsardzībai](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) Seifs e-pasta ziņojumā Teams.
+
+  Seifs Saišu aizsardzība Office 365 programmām tiek lietota visiem lietotājiem organizācijā, kuriem ir Office 365 programmatūras Defender licence, neatkarīgi no tā, vai lietotāji ir iekļauti aktīvo Seifs Saišu politikās. Papildinformāciju skatiet rakstā [Seifs saišu iestatījumi Office 365 programmām](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps).

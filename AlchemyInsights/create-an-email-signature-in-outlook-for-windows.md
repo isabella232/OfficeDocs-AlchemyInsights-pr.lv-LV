@@ -1,5 +1,5 @@
 ---
-title: E-pasta paraksta izveide programmā Outlook darbam ar Windows
+title: E-pasta paraksta izveide programmā Outlook Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8199"
-ms.openlocfilehash: 25cd019333191bc9615a7c53d332ddc50ceb8d3a
-ms.sourcegitcommit: f76114031755a597031bf2f80b03ba65c6f9dd84
+ms.openlocfilehash: 66b7db54629319c275dc72ed7cd0ca91324040f1c1e7e7080e69c62e31a03cc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080465"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>E-pasta paraksta izveide programmā Outlook darbam ar Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>E-pasta paraksta izveide programmā Outlook Windows
 
-Programmā Outlook e-pasta parakstā varat iekļaut tekstu, attēlus, savu elektronisko vizītkarti, logotipu vai pat ar roku rakstītā paraksta attēlu. Lai to izdarītu:
+E Outlook parakstā var iekļaut tekstu, attēlus, jūsu elektronisko vizītkarti, logotipu vai pat ar roku rakstītā paraksta attēlu. Lai to paveiktu:
 
 1. Programmā Outlook atveriet jaunu e-pasta ziņojumu.
-2. Cilnē **ziņojums** izvēlieties **paraksta**  >  **paraksti**.
-3. Sadaļā **Atlasiet rediģējamo parakstu** izvēlieties **Jauns** un pēc tam ierakstiet paraksta nosaukumu.
-4. Sadaļā **Rediģēt parakstu** izveidojiet parakstu.
+2. Cilnē **Ziņojums** izvēlieties **Paraksta**  >  **paraksti**.
+3. Sadaļā **Atlasiet rediģējamo** parakstu **izvēlieties Jauns** un pēc tam ierakstiet paraksta nosaukumu.
+4. Sadaļā **Rediģēt parakstu** izveidojiet savu parakstu.
