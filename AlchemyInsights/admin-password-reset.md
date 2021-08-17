@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569754"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883058"
 ---
 # <a name="admin-password-reset"></a>Administratora paroles atiestatīšana
 
@@ -29,4 +29,4 @@ ms.locfileid: "52569754"
 
 - Cits administrators var atiestatīt jūsu paroli no **Lietotāji > [Aktīvie lietotāji](https://portal.office.com/adminportal/home#/users)**; atlasiet kontu un pēc tam noklikšķiniet uz taustiņa ikonas.  Ja jūsu akreditācijas dati ir kešoti, varat [izveidot jaunu administratora kontu](https://portal.office.com/adminportal/home#/users), pieteikties ar šo kontu un pēc tam atiestatīt savu administratora paroli.
 
-Lai iegūtu papildinformāciju par paroļu neaktivitātes scenārijiem, mēģiniet [atiestatīt Office 365 biznesa paroles](/microsoft-365/admin/add-users/reset-passwords) vai atveriet atbalsta pieteikumu, lai saņemtu palīdzību.
+Lai iegūtu papildinformāciju par paroļu neaktivitātes scenārijiem, mēģiniet [atiestatīt Office 365 biznesa paroles](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) vai atveriet atbalsta pieteikumu, lai saņemtu palīdzību.

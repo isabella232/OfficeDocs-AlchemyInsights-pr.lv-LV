@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online publisko tīmekļa vietņu lietošana tiek izbeigta
+title: SharePoint Tiešsaistes publisko tīmekļa vietņu lietošana tiks izbeigta
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051241"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online publiskās tīmekļa vietnes ir pārtrauktas
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Tiešsaistes publisko tīmekļa vietņu lietošana ir pārtraukta
 
-SharePoint Online publiskās tīmekļa vietnes ir pārtrauktas.
+SharePoint Tiešsaistes publisko tīmekļa vietņu lietošana ir pārtraukta.
 
-Ja izveidojāt SharePoint Online publisko tīmekļa vietni, varat turpināt to lietot, izmantojot 2018. gada 31. martu. Ja vēlaties turpināt izmantot publisku tīmekļa vietni, izveidojiet jaunu pakalpojumu sniedzēju. SharePoint Online publiskās tīmekļa vietnes saturs ir izdzēsts.
+Ja esat izveidojis SharePoint Online publisko tīmekļa vietni, to varēja turpināt izmantot 2018. gada 31. martā. Ja vēlaties turpināt izmantot publisko tīmekļa vietni, ir jāizveido jauna ar jaunu pakalpojumu sniedzēju. Jūsu tiešsaistes SharePoint tīmekļa vietnes saturs ir izdzēsts.
 
-Informāciju par publisko tīmekļa vietnes darbības pārtraukšanu skatiet rakstā [Detalizēta informācija par līdzekļa turpināšanas procesu](https://go.microsoft.com/fwlink/?linkid=866980).
+Informāciju par publiskās tīmekļa vietnes darbības izbeigšanu skatiet [rakstā Detalizēta informācija par līdzekļu pārtraukšanas procesu.](https://go.microsoft.com/fwlink/?linkid=866980)

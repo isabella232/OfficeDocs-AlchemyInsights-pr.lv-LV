@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 847a350eca09e4ad265864427b2b4ac51826f47ce96d37f694462dbb567da31d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 822407858ddbdcd8e7cae6286fce7893e3eae5cfcdef44b1c8ad332c67a3ee77
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952256"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882758"
 ---
 # <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender Office 365 programmatūrā SharePoint OneDrive
 
-Skatiet šādus rakstus:
-- [Microsoft Defender Office 365 SharePoint, OneDrive un Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Apdraudējumu pārlūks un reāllaika atklāšanas](/microsoft-365/security/office-365-security/threat-explorer-views)
+Skatiet šos rakstus:
+- [Microsoft Defender Office 365 SharePoint, OneDrive un Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Apdraudējumu pārlūks un reāllaika atklāšanas](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Papildinformācija:
 
-- [Vīrusu noteikšana spo](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Datu šifrēšana ODB un SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Datu aizsardzība datu SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Vīrusu noteikšana spo](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Datu šifrēšana ODB un SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Datu aizsardzība datu SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
 - [Izspiedējprogrammatūras noteikšana un failu atkopšana](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

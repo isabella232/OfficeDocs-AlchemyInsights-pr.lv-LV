@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882574"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Saišu Seifs iestatīšana programmatūrā Microsoft Defender Office 365
 
-Noklusējuma politika saišu Seifs programmatūrā Microsoft Defender Office 365 jau ir izveidota jūsu vietā. Lai mainītu konfigurācijas:
+1. Vietnes Microsoft 365 Defender dodieties uz E-pasts & sadarbības politikas & Kārtulas Apdraudējumu politikas <https://security.microsoft.com/>  \>  \>  \> **Seifs saites** **sadaļā** Politikas.
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Atlasiet **Apdraudējumu pārvaldības**  >  **politika**. Lapā Politika **atlasiet** [Microsoft Defender programmatūrai Office 365 Seifs saites](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Sadaļā **Politikas, kas attiecas uz visu organizāciju** atlasiet Noklusējums un pēc tam atlasiet  **rediģēšanas** ikonu.
-4. Sadaļā **Bloķēt tālāk norādītos vietrāžus URL** norādiet vienu vai vairākus vietrāžus URL, kurus nevēlaties izmantot lietotāji jūsu organizācijā. Papildinformāciju skatiet [rakstā Tālāk norādīto vietrāžu URL bloķēšana saišu Seifs.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. Dialoglodziņā **iestatījumi Iestatījumi kas attiecas uz saturu, izņemot** e-pastu, atlasiet (vai notīriet) opcijas, ko vēlaties izmantot. (Ieteicams atlasīt visas opcijas.)
-6. Atlasiet **Saglabāt**.
+   Lai pārietu tieši uz **lapu Seifs saites,** izmantojiet <https://security.microsoft.com/safelinksv2> .
+
+2. Lapā **Seifs saites** veiciet kādu no šīm darbībām:
+   - Lai pievienotu jaunu politiku, atlasiet **+ Izveidot**. Tiks palaists vednis, kas palīdzēs definēt politikas iestatījumus.
+   - Lai rediģētu esošu politiku, atlasiet politiku, noklikšķinot uz politikas nosaukuma. Parādītā detalizētas informācijas **izlidošanas** logā sadaļā, kurā ir iestatījumi, kurus vēlaties konfigurēt, atlasiet Rediģēt.
+   - Lai bloķētu vietrāžus URL no Seifs Seifs Saišu aizsardzība vai konfigurētu saišu iestatījumus atbalstītās Office 365 programmās, noklikšķiniet uz Globālie **iestatījumi,** konfigurējiet iestatījumus un pēc tam noklikšķiniet uz **Saglabāt.**
+
+3. Kad esat pārskatījis savus iestatījumus, atlasiet **Iesniegt** (jauns) vai **Saglabāt** (rediģēt).
+
+Papildinformāciju skatiet šādos rakstos:
+
+- [Saišu Seifs iestatīšana programmatūrā Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Microsoft Defender saišu globālo Seifs konfigurēšana programmatūrai Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
