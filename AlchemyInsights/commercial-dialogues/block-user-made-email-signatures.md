@@ -1,5 +1,5 @@
 ---
-title: Lietotāja veikto e-pasta parakstu bloķēšana
+title: Lietotāja veikta e-pasta paraksta bloķēšana
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103559"
 ---
-# <a name="block-user-made-email-signatures"></a>Lietotāja veikto e-pasta parakstu bloķēšana
+# <a name="block-user-made-email-signatures"></a>Lietotāja veikta e-pasta paraksta bloķēšana
 
-Šis risinājums attiecas tikai uz e-pasta parakstiem, kas izveidoti programmā Outlook tīmeklī. Jūs varat bloķēt parakstus tikai programmā Outlook, ja jums ir lokāls Exchange serveris.
+Tālāk redzamais risinājums attiecas tikai uz e-pasta parakstiem, kas izveidoti Outlook tīmeklī. Parakstus lietojumprogrammā var Outlook tikai tad, ja jums ir lokāls Exchange Server.
 
-1. Administrēšanas centrā izvēlieties **administrēšanas centru**  >  **Exchange**.
-2. Noklikšķiniet uz **atļaujas**  >  **Outlook Web App politikas**.
-3. Atlasiet politiku un pēc tam noklikšķiniet uz zīmuļa ikonas, lai to rediģētu.
-4. Noklikšķiniet **uz**  >  **Papildu opcijas**.
-5. Sadaļā **lietotāja pieredze** notīriet izvēles rūtiņu **e-pasta paraksts** un pēc tam noklikšķiniet uz **Saglabāt**.
+1. Administrēšanas centrā izvēlieties **Administrēšanas centri un**  >  **Exchange.**
+2. Noklikšķiniet **uz**  >  **Outlook Web App politikas**.
+3. Atlasiet šo politiku un pēc tam noklikšķiniet uz zīmuļa ikonas, lai to rediģētu.
+4. Noklikšķiniet **uz līdzekļi** Papildu  >  **opcijas**.
+5. Sadaļā **Lietotāja iespējas notīriet** izvēles **rūtiņu E-pasta** paraksts un pēc tam noklikšķiniet uz **Saglabāt.**
 
-**Svarīgi!** Ja paraksts ir pievienots pirms šīs izvēles rūtiņas notīrīšanas, lietotājs to joprojām varēs izmantot. Lūdziet to noņemt.
+**Svarīgi!** Ja paraksts tika pievienots pirms šīs izvēles rūtiņas notīrīšanas, lietotājs joprojām to varēs izmantot. Aiciniet viņus to noņemt.

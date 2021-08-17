@@ -1,5 +1,5 @@
 ---
-title: Office programmu iestatīšana pirmo reizi Android ierīcē
+title: Programmu Office iestatīšana Android ierīcē pirmo reizi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003965"
 - "7021"
-ms.openlocfilehash: 13adc48acc4dca8735115a7d4cbe57a76ea89df2
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 0bf2156e5aedce40262c2b10ccaed0fbcd7c877c8709c6f2d68d20bdad7dd517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073859"
 ---
-# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Office programmu iestatīšana pirmo reizi Android ierīcē
+# <a name="set-up-office-apps-for-the-first-time-on-an-android-device"></a>Programmu Office iestatīšana Android ierīcē pirmo reizi
 
-Android ierīcē jūs varat instalēt Office kā Office mobilo lietojumprogrammu, kas apvieno Word, Excel un PowerPoint vienā lietojumprogrammā, vai varat instalēt Office programmas atsevišķi. Lai to izdarītu:
+Android ierīcē varat instalēt Office kā Office mobilo programmu, kas apvieno Word, Excel un PowerPoint vienā programmā, vai arī varat instalēt Office programmas atsevišķi. Lai to paveiktu:
 
-1. Atveriet kādu Office lietojumprogrammu, piemēram, Excel, pierakstieties ar savu Microsoft kontu un pēc tam pieskarieties **pie tālāk**.
-2. Pieskarieties pie **Jā** vai **Nē** , lai palīdzētu mums uzlabot Office Mobile lietošanas iespējas, un pēc tam pieskarieties pie **Ieslēgt paziņojumus** , lai iespējotu brīdinājumus, vai arī **ne tagad** , lai atteiktos.
+1. Atveriet kādu lietojumprogramma Office, piemēram, Excel, pierakstieties ar savu Microsoft kontu un pēc tam pieskarieties pie **Tālāk.**
+2. Pieskarieties **pie Jā** vai **Nē,** lai palīdzētu mums uzlabot Office mobilo lietošanu, un pēc tam pieskarieties pie Ieslēgt paziņojumus, lai iespējotu **brīdinājumus,** vai pie **Ne** tagad, lai atteiktos.
     > [!NOTE]
-    > Kad esat pierakstījies, jūsu konts tiek automātiski pievienots citām Office lietojumprogrammām, kas ir instalētas jūsu Android ierīcē.
-3. Papildu Lai pievienotu citu kontu vai mākoņpakalpojumu, piemēram, OneDrive darbam vai Dropbox, pieskarieties pie **Atvērt**  >  **Pievienot vietu**. Ja izmantojat programmu OneNote, pieskarieties pie **iestatījumu**  >  **konti** un pēc tam atlasiet mākoņpakalpojumu, ko vēlaties pievienot.
-4. Ievadiet e-pasta adresi un paroli, kuru izmantojat, lai pierakstītos šajā pakalpojumā. Viss kārtībā!
+    > Pēc pierakstīšanās jūsu konts tiek automātiski pievienots otrai lietojumprogrammām, Office instalētas jūsu Android ierīcē.
+3. (Neobligāts) Lai pievienotu citu kontu vai mākoņpakalpojumu, piemēram, OneDrive darbam vai Dropbox, **pieskarieties pie** Atvērt  >  **vietas pievienošana**. Ja izmantojat pakalpojumu OneNote, **pieskarieties Iestatījumi** konti un pēc tam atlasiet mākoņpakalpojumu,  >  ko vēlaties pievienot.
+4. Ievadiet e-pasta adresi un paroli, kuru izmantojat, lai pierakstītos šajā pakalpojumā. Lieliski!
 
-Norādījumus par to, kā lejupielādēt Office mobilajām vai atsevišķām Office programmām, skatiet rakstā [Office instalēšana un iestatīšana Android ierīcē](https://go.microsoft.com/fwlink/?linkid=2135287).
+Norādījumus par programmu lejupielādi Office mobilajām vai atsevišķām Office versijām, skatiet rakstā [Office instalēšana un iestatīšana Android ierīcē.](https://go.microsoft.com/fwlink/?linkid=2135287)

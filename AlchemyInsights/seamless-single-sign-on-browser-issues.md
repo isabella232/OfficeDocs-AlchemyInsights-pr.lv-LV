@@ -1,5 +1,5 @@
 ---
-title: Nemanāmu vienotās pierakstīšanās (SSO) pārlūkprogrammas problēmu novēršana
+title: Nemanāmas vienotās pierakstīšanās (Seamless Single Sign-on — SSO) pārlūkprogrammas problēmu novēršana
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074291"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Nemanāmu vienotās pierakstīšanās (SSO) pārlūkprogrammas problēmu novēršana
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Nemanāmas vienotās pierakstīšanās (Seamless Single Sign-on — SSO) pārlūkprogrammas problēmu novēršana
 
-Lielākā daļa lietotāju spēj atrisināt to nevainojamu SSO pārlūkprogrammas problēmu, veicot tālāk norādītās darbības.
+Lielākā daļa lietotāju var atrisināt savu Seamless SSO pārlūkprogrammas problēmu, veicot tālāk norādītās darbības.
 
 1. Pārliecinieties, vai jūsu pārlūkprogramma ir atjaunināta.
-2. Dzēsiet sīkfailus savā pārlūkprogrammā, lai noņemtu nederīgu SSO sesiju, un vēlreiz mēģiniet pieteikties.
+2. Izdzēsiet sīkfailus no pārlūkprogrammas, lai noņemtu nederīgu SSO sesiju un mēģinātu pieteikties vēlreiz.
 3. Mēģiniet pieteikties, izmantojot citu pārlūkprogrammu.
 
 **Zināmās pārlūkprogrammas problēmas**
 
-- Nemanāma SSO darbība privātajā pārlūkošanas režīmā nedarbojas pārlūkprogrammā Firefox.
-- Nemanāms SSO nedarbojas pārlūkprogrammā Internet Explorer, kad ir ieslēgts uzlabotais aizsargrežīms.
-- Nevainojams SSO nedarbojas privātajā pārlūkošanas režīmā pārlūkprogrammā Microsoft Edge (mantotā).
-- Nevainojams SSO nedarbojas mobilajās pārlūkprogrammās iOS un Android ierīcēs.
+- Seamless SSO nedarbojas firefox privātās pārlūkošanas režīmā.
+- Seamless SSO nedarbojas programmā Internet Explorer, ja ir ieslēgts uzlabotais aizsargātais režīms.
+- Seamless SSO nedarbojas privātā pārlūkošanas režīmā tīmekļa Microsoft Edge (mantotā).
+- Seamless SSO nedarbojas mobilajās pārlūkprogrammās iOS un Android ierīcēs.
 
-Nevainojams SSO atbalsta Microsoft Edge nākamo versiju, pamatojoties uz hromu, un tas darbojas InPrivate un viesa režīmā pēc noformējuma.
+Seamless SSO atbalsta nākamo Microsoft Edge versiju, ņemot vērā Chromium un darbojas InPrivate un viesa režīmā pēc noformējuma.
 
-**Padomdevēja**
+**Ieteikums**
 
-Lai veiktu līdzekļu pieprasījumus vai uzdotu tehniskus jautājumus par nemanāmu SSO, skatiet rakstu [Microsoft Q&](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Lai veiktu līdzekļu pieprasījumus vai uzdotu tehniskus jautājumus par Seamless SSO, skatiet [sadaļu Microsoft&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
