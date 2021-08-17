@@ -1,5 +1,5 @@
 ---
-title: Audita žurnālu izgūšana
+title: Audita žurnālu izgūšanas
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482112"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893598"
 ---
-# <a name="retrieve-the-audit-logs"></a>Audita žurnālu izgūšana
+# <a name="retrieve-the-audit-logs"></a>Audita žurnālu izgūšanas
 
-Pirmoreiz atverot audita žurnālu, tas būs tukšs. Jums ir jāveic meklēšana, lai redzētu, kas ir šeit. Tālāk ir aprakstīts, kā veikt vispārīgu meklēšanu visās aktivitātēs.
+Pirmo reizi atverot audita žurnālu, tas būs tukšs. Lai uzzinātu, kas tur ir, ir jāmeklē. Tālāk ir aprakstīts, kā veikt vispārīgu visu darbību meklēšanu.
 
-1. Dodieties uz [lapu audita žurnālu meklēšana](https://protection.office.com/#/unifiedauditlog) (vai dodieties uz **administrēšanas centru**  >  **drošības & atbilstības centra**  >  **meklēšanas & izmeklēšanas**  >  **audita žurnālu meklēšana**).
-1. Lodziņā **aktivitātes** akceptējiet noklusējumu, **Rādīt rezultātus visās aktivitātēs**.
-1. Norādiet datumu diapazonu un lodziņā **lietotāji** akceptējiet noklusējumu, lai atgrieztu rezultātus visiem lietotājiem, vai izvēlieties tā lietotāja lietotājvārdu, kuru vēlaties izpētīt.
-1. Noklikšķiniet uz **Meklēt**. Darbības būs redzamas sadaļā **rezultāti**.
-1. Lai skatītu detalizētu informāciju, noklikšķiniet uz darbības un pēc tam izvēlieties **Papildinformācija**. Tiks parādīta papildinformācija, piemēram, klients, lietotāja veiktā darbība u. tml.
+1. Veiciet kādu no šīm darbībām:
+   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
+   - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
+
+2. Audita  lapas cilnē **Meklēšana** konfigurējiet tālāk norādītos iestatījumus.
+   - **Datuma un laika diapazons:** atlasiet datuma/laika diapazonu lodziņā **Sākums** **un** Beigas.
+   - **Darbības:** **pārbaudiet, vai ir atlasīts Rādīt rezultātus par** visām darbībām.
+   - **Lietotāji:** akceptējiet tukšo noklusējuma vērtību, lai atgrieztu rezultātus visiem lietotājiem, vai ievadiet vienu vai vairākus lietotājus.
+
+3. Kad esat pabeidzis, noklikšķiniet uz **Meklēt.** Darbības tiek rādītas jaunajā **lapā Meklēšana audita** meklēšanā.
+
+4. Atlasiet darbību rezultātos, lai atvērtu detalizētas informācijas izlidošanu. Redzēsit papildinformāciju, piemēram, Klients, Lietotājs, kas veica darbības utt.
+
+Papildinformāciju skatiet rakstā [Meklēšana audita žurnālā, lai izpētītu bieži sastopamas atbalsta problēmas.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

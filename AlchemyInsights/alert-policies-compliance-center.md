@@ -1,5 +1,5 @@
 ---
-title: Brīdinājumu politikas drošības un atbilstības centrā
+title: Brīdinājumu politikas programmā Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4bbdc8f9817655fec260e6f85de831a85f89e13f56d559534df68f79c5bed9a2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933508"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893634"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Brīdinājumu politikas drošības un atbilstības centrā
+# <a name="alert-policies-in-microsoft-365"></a>Brīdinājumu politikas programmā Microsoft 365
 
-Brīdinājuma politika un brīdinājumu informācijas paneļa rīki Microsoft 365 drošības un atbilstības centros palīdz lietotājiem izveidot brīdinājumu politikas un pēc tam skatīt brīdinājumus, kas ģenerēti, kad lietotāji veic darbības, kas atbilst brīdinājuma politikas nosacījumiem. Vairākas noklusējuma brīdinājumu politikas palīdz pārraudzīt tādas darbības kā administratora privilēģiju piešķiršana programmā Exchange Online, ļaunprogrammatūras uzbrukumi, pikšķerēšanas kampaņas un neierasti failu dzēšanas un ārējās koplietošanas līmeņi.
+Brīdinājuma politika un brīdinājumu informācijas paneļa rīki Microsoft 365 atbilstības centrs un Microsoft 365 Defender portālā palīdz administratoriem izveidot brīdinājumu politikas, un pēc tam skatiet brīdinājumus, kas ģenerēti, kad lietotāji veic darbības, kas atbilst brīdinājuma politikas nosacījumiem. Vairākas noklusējuma brīdinājumu politikas palīdz pārraudzīt tādas darbības kā administratora tiesību piešķiršana programmā Exchange Online, ļaunprogrammatūras uzbrukumi, pikšķerēšanas kampaņas un neierasti failu dzēšanas un ārējās koplietošanas līmeņi.
 
-Brīdinājuma politikas ļauj kategorizēt brīdinājumus, ko aktivizē politika, lietot šo politiku visiem lietotājiem jūsu organizācijā, iestatīt brīdinājuma trigera sliekšņa līmeni un izlemt, vai saņemt e-pasta paziņojumus par brīdinājumu aktivizēšanu. Drošības un atbilstības centra brīdinājumu skatīšanas lapa sniedz lietotājiem iespēju arī skatīt un filtrēt brīdinājumus, iestatīt brīdinājuma statusu, lai palīdzētu pārvaldīt brīdinājumus, un pēc tam noraidīt brīdinājumus, kad ir novērsts vai atrisināts pamatā esošais incidents.
+Brīdinājuma politikas ļauj kategorizēt brīdinājumus, ko aktivizē politika, lietot šo politiku visiem lietotājiem jūsu organizācijā, iestatīt sliekšņa līmeni, kad tiek izraisīts brīdinājums, un izlemt, vai saņemt e-pasta paziņojumus par brīdinājumu aktivizēšanu. Lapā Brīdinājumi lietotāji arī var skatīt un filtrēt brīdinājumus, iestatīt brīdinājuma statusu, lai palīdzētu pārvaldīt **brīdinājumus,** un pēc tam noraidīt brīdinājumus pēc tam, kad ir novērsts vai atrisināts pamatā esošais incidents.
 
-Papildinformāciju skatiet [rakstā Brīdinājumu politikas drošības un atbilstības centrā](/microsoft-365/compliance/alert-policies)
+Papildinformāciju skatiet rakstā [Brīdinājuma politikas programmā Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
