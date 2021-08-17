@@ -12,23 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917718"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893106"
 ---
 # <a name="auditing-results-are-blank"></a>Auditēšanas rezultāti ir tukši
 
- **Klasisko vietņu auditēšanas atskaites**
+**Klasisko vietņu auditēšanas atskaites**
   
-Lai skatītu audita atskaiti par kādu SharePoint kolekciju, jums ir jābūt vietņu kolekcijas administratoram. Informāciju par to, kā sevi pievienot kā administratoru, skatiet rakstā Vietņu [kolekcijas administratoru pievienošana globālajam vai SharePoint administratoram.](https://go.microsoft.com/fwlink/?linkid=869390) Informāciju par darbu ar audita žurnālu skatiet rakstā [Audita žurnāla atskaišu skatīšana.](https://go.microsoft.com/fwlink/?linkid=395237) 
+Lai skatītu audita atskaiti par SharePoint kolekciju, jums ir jābūt vietņu kolekcijas administratoram. Lai sevi pievienotu kā administrators, skatiet [rakstu Vietņu administratoru pārvaldība.](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) Informāciju par darbu ar audita žurnālu skatiet rakstā [Audita žurnāla atskaišu skatīšana.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
   
- **Meklēšana audita žurnālā**
+**Meklēšana audita žurnālā**
   
-Jums ir jābūt globālajam administratoram, lai strādātu ar audita žurnālu [ &amp; drošības atbilstības centrā.](https://protection.office.com) Pirms sākat darbu, ieslēdziet audita reģistrēšanu. Pēc tam varat veikt meklēšanu audita žurnālā. 
+Jums ir jābūt globālajam administratoram, lai strādātu ar audita žurnālu drošības Microsoft 365 atbilstības centrs vietnē <https://compliance.microsoft.com/auditlogsearch> vai Microsoft 365 Defender portālā <https://security.microsoft.com/auditlogsearch> . Pirms sākat darbu, ieslēdziet audita reģistrēšanu. Pēc tam varat veikt meklēšanu audita žurnālā.
   
-[Uzziniet, kā meklēt audita žurnālā.](https://go.microsoft.com/fwlink/?linkid=708432)
-  
-
+[Uzziniet, kā meklēt audita žurnālā.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)

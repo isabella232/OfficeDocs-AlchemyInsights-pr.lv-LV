@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918902"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312832"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Nepieciešama Alchemy galvene H1, H2 nedarbojas."
 Alchemy autorēšanas paraugprakse un vadlīnijas:
@@ -27,8 +27,8 @@ Alchemy autorēšanas paraugprakse un vadlīnijas:
     1. Alchemy partneru portālā iekļaujiet kārtulas ID vai [intervāla](https://alchemyportal.azurewebsites.net) ID pielāgotajā laukā. piemēram, ***ms.custom: 100021***
 1. Izmantojiet pārējos metadatus šī faila augšdaļā kā veidni.
 1. [Alchemy partneru](https://alchemyportal.azurewebsites.net)portālā naviģējiet uz leju līdz sadaļai Klientu ieskata **virsraksts:** un izmantojiet to kā sākuma punktu savam H1 nosaukumam, lai gūtu ieskatu. 
-    > [!NOTE]
-    > Alchemy Ieskati jābūt tikai vienam H1 augšpusē, vai arī tie pārstās ražošanā. H2 netiek atveidoti, tāpēc lietojiet **treknrakstu** vai citas konvencijas, lai apliecinātu atsevišķas sadaļas.
+
+**Piezīme.** Alchemy Ieskati jābūt tikai vienai H1 augšpusē, vai arī tajās tiks pārrāvums ražošanā. H2 netiek atveidoti, tāpēc lietojiet **treknrakstu** vai citas konvencijas, lai apliecinātu atsevišķas sadaļas.
 1. Pēc tam aizpildiet pamattekstu, izmantojot melnraksta materiālu Alchemy Customer Insights lapas pamat sadaļā
     1. Ir lieliski saraksti ar aizzīmēm
     1. Arī numurēti saraksti
@@ -36,6 +36,6 @@ Alchemy autorēšanas paraugprakse un vadlīnijas:
     1. Saitēm vienmēr jābūt **"saitēm uz tīmekli"/ārējām** VAI dziļam saitēm uz LIETOTĀJA interfeisa **elementiem,** nevis iekšējām saitēm.
     1. Pašlaik attēli netiek oficiāli atbalstīti, bet tie ir ieslēgti ceļvedī.
 
-Un tas tiešām ir pārāk garš. Vislabākā prakse ir aptuveni 400 rakstzīmes ---------------------------------
+Un tas tiešām ir pārāk garš. Vislabāk ap 400 rakstzīmēm ---------------------------------
 
 Kad saturs ir gatavs, pavelciet to uz tiešraides zaru. Pēc tam dodieties uz [Alchemy partneru portālu](https://alchemyportal.azurewebsites.net) un ievadiet faila nosaukumu vietrāža URL laukā. 

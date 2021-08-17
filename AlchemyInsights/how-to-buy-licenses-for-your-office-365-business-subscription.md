@@ -1,5 +1,5 @@
 ---
-title: Kā iegādāties licences Microsoft 365 programmas darbam abonementam
+title: Kā iegādāties licences savam Microsoft 365 programmas darbam abonementam
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499663"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892546"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kā iegādāties licences Microsoft 365 programmas darbam abonementam
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kā iegādāties licences savam Microsoft 365 programmas darbam abonementam
 
 Piešķirot licences lietotājiem, jūs, iespējams, konstatēsiet, ka ir jāiegādājas papildu licences.
 
@@ -32,4 +32,4 @@ Piešķirot licences lietotājiem, jūs, iespējams, konstatēsiet, ka ir jāieg
 3. Rūts **Licenču iegāde sadaļas** Jauns daudzums lodziņā Licenču **kopskaits** ievadiet šim abonementam nepieciešamais licenču skaits.  Piemēram, ja jums ir 100 licences un vēlaties pievienot vēl 25 licences, ievadiet 125.
 4. Atlasiet **Saglabāt**.
 
-Papildinformāciju skatiet [rakstā Licenču iegāde vai noņemšana.](/microsoft-365/commerce/licenses/buy-licenses)
+Papildinformāciju skatiet [rakstā Licenču iegāde vai noņemšana.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

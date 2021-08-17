@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109139"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>E-pasta meklēšana arhīva pastkastē
 
-Ja Microsoft 365 ir iespējota arhīva pastkaste, varat izmantot **e-datu atklāšanas meklēšanu un eksportēšanu** , lai atklātu gan primārās, gan arhīva pastkastes saturu. Informāciju par e- **datu atklāšanas meklēšanas eksportēšanas** izmantošanu, lai atrastu šo saturu, izpildiet [šeit](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)norādītās darbības.
+Ja arhīva pastkaste ir iespējota Microsoft 365, varat izmantot **e-datu** atklāšanas meklēšanu un eksportēšanu, lai atklātu saturu gan primārajā, gan arhīva pastkastē. Informāciju par **e-datu atklāšanas meklēšanas eksportēšanas izmantošana,** lai atrastu šo saturu, izpildiet šeit norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Varat arī saglabāt šo saturu, pievienojot pastkasti saglabāšanas politikai. Tādējādi saturs tiks novietots gan primārajā, gan arhīva pastkastē. Lai iegūtu papildinformāciju par saglabāšanas politiku izveidi e-pasta saglabāšanai, skatiet tālāk norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+Šo saturu varat arī saglabāt, pievienojot pastkasti saglabāšanas politikai. Šādi saturs tiks aizturēts gan primārajā, gan arhīva pastkastē. Papildinformāciju par saglabāšanas politiku izveidi, lai saglabātu e-pastu, skatiet šeit norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   

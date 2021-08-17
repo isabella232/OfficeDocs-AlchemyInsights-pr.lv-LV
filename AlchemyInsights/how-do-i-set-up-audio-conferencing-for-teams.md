@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927152"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892606"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams — audio konferences
 
-Vai nepieciešama palīdzība saistībā ar [audio konferenču ieslēšanu vai iestatīšanu Microsoft Teams?](/microsoftteams/set-up-audio-conferencing-in-teams)  Vai lietotājs ir nesen izveidots? Šādā gadījumā, lai iestatījumi stāsies spēkā, būs nepieciešamas vairākas stundas.
+Vai nepieciešama palīdzība saistībā ar [audiokonferenču ieslēšanu vai iestatīšanu Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Vai lietotājs ir nesen izveidots? Šādā gadījumā, lai iestatījumi stāsies spēkā, būs nepieciešamas vairākas stundas.
 
-Ja licences ir iegādātas , [pārliecinieties,](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)vai lietotājam ir Microsoft 365 audiokonferenču licence un vai tam ir noklusējuma maksas numurs.
+Ja licences ir iegādātas , [pārliecinieties,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)vai lietotājam ir Microsoft 365 audio konferenču licence un vai tam ir noklusējuma maksas numurs.
 
 1. Dodieties uz [Aktīvie lietotāji](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) un atlasiet attiecīgo lietotāju.
 
 2. Atkarībā no administrēšanas centra versijas, izvēlieties **Licences un lietojumprogrammas** vai noklikšķiniet uz **Rediģēt** sadaļā **Produktu licences**.
 
-3. Pārliecinieties, vai lietotājam ir atlasītas **licences Microsoft 365 audiokonferencēm, Microsoft Teams** un Skype darbam Online **(2. plāns)**. Ja **Microsoft 365 audiokonferenču** licence nav pieejama, vispirms [jāiegādājas licenču pievienošana.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. Pārliecinieties, vai lietotājam ir atlasītas **Microsoft 365 audiokonferencēm, Microsoft Teams** un **Skype darbam Online (2. plāns)**. Ja **Microsoft 365 audiokonferenču** licence nav pieejama, vispirms [jāiegādājas licenču pievienošana.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. Lietotāju **administrēšanas centrā** noklikšķiniet uz **Rādīt visus,** pēc tam uz **Grupas**.
 

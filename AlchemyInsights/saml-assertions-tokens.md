@@ -1,5 +1,5 @@
 ---
-title: SAML apgalvojumi (marķieri)
+title: SAML Assertions (Marķieri)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109247"
 ---
-# <a name="saml-assertions-tokens"></a>SAML apgalvojumi (marķieri)
+# <a name="saml-assertions-tokens"></a>SAML Assertions (Marķieri)
 
-1. Drošības apgalvojumu atzīmju valodas (SAML) marķierierīces ir XML atspoguļojums prasībās. Pēc noklusējuma SAML marķieri Windows Communication Foundation (WCF) izmanto Federatīvajās drošības scenārijos ir izdotas marķieri. Papildinformāciju skatiet rakstā [SAML marķieri un prasības](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
-2. Microsoft Identity Platform izstaro vairāku veidu drošības marķierus katras autentifikācijas plūsmas apstrādē. [SAML marķiera norāžu atsauce](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) apraksta SAML 2,0 marķieru formātu, drošības raksturlielumus un saturu.
-3. Lai izprastu, kā konfigurēt marķierierīces ilgumus, izpildiet norādījumus [konfigurējamas marķierierīces kalpošanas laikā Microsoft Identity platformā](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) .
-4. Izpildiet [šajā rakstā](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) norādītās darbības, lai uzzinātu, kā konfigurēt AZURE ad SAML marķierierīces šifrēšanu.
-5. Azure AD varat iestatīt sertifikāta parakstīšanas opcijas un sertifikāta parakstīšanas algoritmu. Lai iegūtu papildinformāciju, skatiet rakstu [papildu sertifikāta parakstīšanas opcijas SAML pilnvarā par Gallery programmām Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
+1. Drošības assertions Markup Language (SAML) marķieri ir XML prasību attēlojumi. Pēc noklusējuma SAML marķieri Windows Communication Foundation (WCF) izmanto federatīvos drošības scenārijos, tiek izsniegti marķieri. Papildinformāciju skatiet rakstā [SAML marķieri un claims.](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims)
+2. Autentifikācijas Microsoft indentitāšu platforma ģenerē vairāku veidu drošības marķierus katras autentifikācijas plūsmas apstrādē. [SAML marķiera prasību](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) atsauce apraksta SAML 2.0 marķieru formātu, drošības raksturlielumus un saturu.
+3. Izpildiet norādījumus, kas [sniegti laukā Konfigurējamu](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) pilnvaru darbības laiks Microsoft indentitāšu platforma lai saprastu, kā konfigurēt pilnvaru darbības laiku.
+4. Izpildiet šajā rakstā minētās [darbības, lai izprastu,](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) kā konfigurēt Azure AD SAML marķieru šifrēšanu.
+5. Pakalpojumā Azure AD varat iestatīt sertifikātu parakstīšanas opcijas un sertifikātu parakstīšanas algoritmu. Papildinformāciju skatiet rakstā [Papildu sertifikātu parakstīšanas opcijas SAML marķierī galerijas programmām programmā Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).

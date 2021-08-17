@@ -15,22 +15,22 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502399"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893062"
 ---
 # <a name="billing-and-payment"></a>Norēķini un maksājumi
 
-Rēķini ir atrodami cilnē **Norēķinu**  >  [rēķini & maksājumiem.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Pēc noklusējuma tiek rādīti rēķinu pēdējie 3 mēneši.  Lai skatītu vecākus rēķinus, pielāgojiet filtru.  Noklikšķiniet uz **saites Lejupielādēt rēķinu PDF** formātā, lai skatītu rēķinu.
+Rēķini ir atrodami cilnē **Norēķinu**  >  [& maksājumi.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Pēc noklusējuma tiek rādīti rēķinu pēdējie 3 mēneši.  Lai skatītu vecākus rēķinus, pielāgojiet filtru.  Noklikšķiniet uz **saites Lejupielādēt rēķinu PDF** formātā, lai skatītu rēķinu.
 
 **Rēķinu saņemšana pa e-pastu**
 
 Norēķinu **norēķinu** paziņojumu lapā varat ieslēgt un pārvaldīt lietotājus, kas saņems rēķinu kā  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) e-pasta pielikumu.  Rēķins tiks nosūtīts uz lietotāju e-pasta adresēm paziņojumu adresātu sarakstā. Sarakstā iekļauti visi norēķinu un globālie administratori.  Mainot lomu, varat pārvaldīt, kas saņem paziņojumus par rēķinu.  Noņemot globālās vai norēķinu administratora lomu, šis lietotājs tiek noņemts no adresātu saraksta, bet, pievienojot globālā vai norēķinu administratora lomu, lietotājs tiek pievienots adresātu sarakstam.
 
-**Piezīme.** Jūs saņemsit divus atsevišķus e-pasta ziņojumus: vienu ar paziņojumu, ka rēķins ir gatavs, un norādījumiem pieteikties administrēšanas centrā, lai to skatītu, un otru e-pasta ziņojumu, kurā iekļauts rēķina paziņojums kā pielikums.
+**Piezīme.** Jūs saņemsit divus atsevišķus e-pasta ziņojumus: vienu ar paziņojumu, ka rēķins ir gatavs, un norādījumiem pieteikties administrēšanas centrā, lai to skatītu, un otru e-pasta ziņojumu ar pielikumā pievienotu rēķinu paziņojumu.
 
 **Maksājums**
 
@@ -55,10 +55,10 @@ Ja esat pievienojis jaunu karti un vecajā kredītkartē joprojām saņemat pazi
 
 7. Jaunā maksājuma metode jau ir atlasīta nolaižamajā sarakstā. Atlasiet **Aizstāt**.
 
-Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Papildinformāciju skatiet rakstā [Maksāšanas metožu pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Norēķinu biežums**
 
 Rēķini tiek ģenerēti reizi mēnesī vai gadā atkarībā no norēķināšanas biežuma, kas izvēlēts norēķināties.  
 
-**Piezīme.** Pasūtījumi ar gada norēķiniem var saņemt rēķinu norēķinu perioda vidū, ja ir veiktas izmaiņas, piemēram, pievienot vai noņemt licences. [Mainiet norēķinu biežumu.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Piezīme.** Pasūtījumi ar gada norēķiniem var saņemt rēķinu norēķinu perioda vidū, ja ir veiktas izmaiņas, piemēram, pievienot vai noņemt licences. [Mainiet norēķinu biežumu.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

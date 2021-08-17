@@ -16,19 +16,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6db785eb860498dacc4330f8e3e4558e58da0fe82b2701ffce8abe615678275a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 31b3cfed4b5cadd2b5b2290fc8ed6e203225a0235be141140b5ecbd01efc2f98
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501607"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892694"
 ---
 # <a name="declined-credit-card"></a>Noraidīta kredītkarte
 
-Ja maksājat ar kredītkarti un kredītkarte tiek noraidīta, jūs saņemsit e-pasta ziņojumu ar informāciju, ka maksājumu neizdevās apstrādāt. Vēlreiz pārbaudiet kredītkartes datus [—](https://go.microsoft.com/fwlink/p/?linkid=842054) kartes numuru, derīguma beigu datumu, vārdu un adresi, tostarp pilsētu, valsti un pasta indeksu. Varat atjaunināt kredītkartes informāciju un nekavējoties iesniegt maksājumu, izmantojot opciju **Bilances** atsācīšana **lapā**  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
+Ja maksājat ar kredītkarti un kredītkarte tiek noraidīta, jūs saņemsit e-pasta ziņojumu ar informāciju, ka maksājumu neizdevās apstrādāt. Vēlreiz pārbaudiet kredītkartes datus [—](https://go.microsoft.com/fwlink/p/?linkid=842054) kartes numuru, derīguma beigu datumu, vārdu un adresi, tostarp pilsētu, valsti un pasta indeksu. Varat atjaunināt kredītkartes informāciju un nekavējoties iesniegt  maksājumu, izmantojot opciju Bilances izvēle lapā   >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 
-Papildinformāciju skatiet rakstā Kā darīt, ja kredītkartes derīguma termiņš ir beidzies un maksājums ir noilgums?" [Apmaksājiet savu Microsoft 365 darbam abonementu](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Papildinformāciju skatiet rakstā Kā darīt, ja kredītkartes derīguma termiņš ir beidzies un maksājums ir noilgums?" [Apmaksājiet savu Microsoft 365 darbam abonementu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Ja joprojām tiek rādīts ziņojums par noraidītu karti, sazinieties ar banku. Iespējams, ka jūsu kredītkarte nav aktīva, piemēram, ja nesen saņēmāt kredītkarti pastā ar atjauninātu derīguma beigu datumu, iespējams, kredītkarte ir jāaktivizē. Bankā varat saņemt informāciju arī par to, vai jūsu kredītkarte nav apstiprināta tiešsaistes, starptautisku vai periodisku darījumu veikšanai.
   
-Papildinformāciju skatiet [rakstā Maksāšanas metožu pārvaldība.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Papildinformāciju skatiet [rakstā Maksāšanas metožu pārvaldība.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

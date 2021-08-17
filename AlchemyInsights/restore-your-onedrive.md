@@ -1,5 +1,5 @@
 ---
-title: OneDrive atjaunošana
+title: Atjaunot OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109355"
 ---
-# <a name="restore-your-onedrive"></a>OneDrive atjaunošana
+# <a name="restore-your-onedrive"></a>Atjaunot OneDrive
 
-Ja daudzi no jūsu OneDrive failiem tiek izdzēsti, overwritted, bojāti vai inficēti ļaunprogrammatūras, varat atjaunot visu OneDrive uz iepriekšējo laiku pēdējo 30 dienu laikā.
+Ja ļaunprogrammatūra izdzēš OneDrive pārrakstīšanu, sabojā vai inficē daudzus jūsu OneDrive failus, varat atjaunot visu savu failu iepriekšējo versiju pēdējo 30 dienu laikā.
   
-1. Savā tīmekļa pārlūkprogrammā dodieties uz savu OneDrive.
+1. Dodieties uz OneDrive lapu savā tīmekļa pārlūkprogrammā.
     
-2. Augšējā labajā stūrī noklikšķiniet uz ikonas Iestatījumi un pēc tam atlasiet **atjaunot savu OneDrive**.
+2. Noklikšķiniet Iestatījumi ikonu augšējā labajā stūrī un pēc tam atlasiet **Atjaunot OneDrive.**
     
 3. Sarakstā atlasiet datumu vai izvēlieties **Pielāgots datums un laiks**.
     
-4. Noklikšķiniet uz **atjaunot** , lai atsauktu visas darbības pēc atlasītā datuma. 
+4. Noklikšķiniet **uz** Atjaunot, lai atsauktu visas darbības pēc atlasītā datuma. 
     
 [Papildu palīdzība, izmantojot failu atjaunošanu](https://go.microsoft.com/fwlink/?linkid=872874)
   

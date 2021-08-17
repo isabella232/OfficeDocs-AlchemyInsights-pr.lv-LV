@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891762"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312730"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Pakalpojuma importēšana
 
@@ -35,7 +35,7 @@ Lai piekļūtu importēšanas pakalpojumam un sāktu importēšanas procesu:
 
 Lai piekļūtu **lapai** Importēt, pārliecinieties, vai jums ir piešķirtas atbilstošas atļaujas. Papildinformāciju skatiet rakstā [Augšupielāde tīklā, lai importētu PST failus.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Ja vēlaties importēt PST failu savā pastkastē, skatiet rakstu [E-pasta, kontaktpersonu un kalendāra importēšana no Outlook .pst faila.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Ja vēlaties importēt PST uz savu pastkasti, skatiet rakstu [E-pasta, kontaktpersonu](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)un kalendāra importēšana no Outlook .pst faila .
 
 Ja rodas ar importēšanu saistītas problēmas, skatiet rakstu Problēmas, kas [ietekmē PST importēšanas darbus.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
