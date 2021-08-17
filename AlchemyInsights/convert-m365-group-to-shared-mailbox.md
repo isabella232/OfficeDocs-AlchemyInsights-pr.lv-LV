@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 grupu un koplietojamu pastkastu konvertēšana
+title: Koplietojamu Microsoft 365 un koplietojamu pastkastu konvertēšana
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc50957b472817dc0d18782a812c8763e8ec630cba72724464a920596abaf950
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081113"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Microsoft 365 grupu un koplietojamu pastkastu konvertēšana
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Koplietojamu Microsoft 365 un koplietojamu pastkastu konvertēšana
 
-Pašlaik nav iespējams konvertēt Microsoft 365 grupas pastkasti un koplietojamu pastkasti.
+Pašlaik nav iespējams konvertēt starp grupas Microsoft 365 pastkasti un koplietojamu pastkasti.
 
 Lūdzu, balsojiet par šo [līdzekli šeit.](https://aka.ms/M365GroupToShared)

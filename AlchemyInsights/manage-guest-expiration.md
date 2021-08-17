@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "12448"
-ms.openlocfilehash: 83b61195c84e56edf15ac0d03b7a72474f9e1ecdd7a2e9eae98bab59c16f1b02
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fe6462f310dacf31ad02b5e74341a19414e343e6da967e117de6789d569b0caa
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891157"
 ---
 # <a name="manage-guest-expiration-for-a-site"></a>Vietnes viesu derīguma termiņa pārvaldība
 
-Ja esat vietnes SharePoint īpašnieks, iespējams, jums būs jāpārvalda viesu piekļuve beidzas ar piekļuvi jūsu vietnes saturam.
+Ja esat vietnes SharePoint īpašnieks, iespējams, jums būs jāpārvalda to viesu piekļuve, kuriem ir piekļuve jūsu vietnes saturam.
 
 Papildinformāciju skatiet rakstā:
 
 - [Vietnes viesu derīguma termiņa pārvaldība](https://support.microsoft.com/office/manage-guest-expiration-for-a-site-25bee24f-42ad-4ee8-8402-4186eed74dea)
-- [Pārvaldība katram lietotājam, kas beidzas ar vietnes esošajiem lietotājiem](/sharepoint/dev/solution-guidance/manage-user-sharing-expiration)
+- [Pārvaldība katram lietotājam, kas beidzas ar vietnes esošajiem lietotājiem](https://docs.microsoft.com/sharepoint/dev/solution-guidance/manage-user-sharing-expiration)

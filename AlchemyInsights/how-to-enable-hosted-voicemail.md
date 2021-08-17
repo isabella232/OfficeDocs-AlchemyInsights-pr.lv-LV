@@ -1,5 +1,5 @@
 ---
-title: Viesotā balss pasta iespējošana
+title: Viesota balss pasta iespējošana
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055561"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Viesotā balss pasta iespējošana
+# <a name="how-to-enable-hosted-voicemail"></a>Viesota balss pasta iespējošana
 
-Lai iespējotu balss pastu, **HostedVoicemail** ir jābūt iestatītai uz $True.
+Lai iespējotu balss pastu, **ir jābūt iestatītam HostedVoicemail** uz $true.
 
-Rekvizīts **HostedVoicemail** lietotājam, kas izmanto attālo POWERSHELL (RPS).
+Rekvizīts **HostedVoicemail** lietotājam, kas izmanto Remote PowerShell (RPS).
 
-Lai iegūtu papildinformāciju par savienojuma izveidi ar RPS, skatiet rakstu [Microsoft Teams PowerShell pārskats](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) , lai iegūtu papildinformāciju par savienojuma izveidi ar RPS.
+Papildinformāciju par savienojuma izveidi ar RPS skatiet [rakstā Microsoft Teams PowerShell pārskats,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) lai iegūtu papildinformāciju par savienojuma izveidi ar RPS.
 
-1. Teams administratoram ir jāpiesakās attālajā PowerShell darbam ar Teams.
-1. No PowerShell uzvednes Teams administrators var palaist **Set-csuser user@contoso.com-HostedVoiceMail $True** , kur SIP URI ir lietotāja jautājums.
+1. Teams administrēšanai ir jāpiesakās Remote PowerShell Teams.
+1. Izmantojot PowerShell, Teams administrators var palaist **set-csuser user@contoso.com -HostedVoiceMail $true,** kur attiecīgā lietotāja sip uri ir.
 
 > [!NOTE]
-> Politikas izmaiņas var ilgt līdz pat 24 stundām.
+> Var paiet līdz pat 24 stundām, līdz politiku izmaiņas tiks kopētas.
