@@ -15,22 +15,22 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893062"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314923"
 ---
 # <a name="billing-and-payment"></a>Norēķini un maksājumi
 
-Rēķini ir atrodami cilnē **Norēķinu**  >  [& maksājumi.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Pēc noklusējuma tiek rādīti rēķinu pēdējie 3 mēneši.  Lai skatītu vecākus rēķinus, pielāgojiet filtru.  Noklikšķiniet uz **saites Lejupielādēt rēķinu PDF** formātā, lai skatītu rēķinu.
+Rēķini ir atrodami cilnē **Norēķinu**  >  [rēķini & maksājumiem.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Pēc noklusējuma tiek rādīti rēķinu pēdējie 3 mēneši.  Lai skatītu vecākus rēķinus, pielāgojiet filtru.  Noklikšķiniet uz **saites Lejupielādēt rēķinu PDF** formātā, lai skatītu rēķinu.
 
 **Rēķinu saņemšana pa e-pastu**
 
 Norēķinu **norēķinu** paziņojumu lapā varat ieslēgt un pārvaldīt lietotājus, kas saņems rēķinu kā  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) e-pasta pielikumu.  Rēķins tiks nosūtīts uz lietotāju e-pasta adresēm paziņojumu adresātu sarakstā. Sarakstā iekļauti visi norēķinu un globālie administratori.  Mainot lomu, varat pārvaldīt, kas saņem paziņojumus par rēķinu.  Noņemot globālās vai norēķinu administratora lomu, šis lietotājs tiek noņemts no adresātu saraksta, bet, pievienojot globālā vai norēķinu administratora lomu, lietotājs tiek pievienots adresātu sarakstam.
 
-**Piezīme.** Jūs saņemsit divus atsevišķus e-pasta ziņojumus: vienu ar paziņojumu, ka rēķins ir gatavs, un norādījumiem pieteikties administrēšanas centrā, lai to skatītu, un otru e-pasta ziņojumu ar pielikumā pievienotu rēķinu paziņojumu.
+**Piezīme.** Jūs saņemsit divus atsevišķus e-pasta ziņojumus: vienu ar paziņojumu, ka rēķins ir gatavs, un norādījumiem pieteikties administrēšanas centrā, lai to skatītu, un otru e-pasta ziņojumu, kurā iekļauts rēķina paziņojums kā pielikums.
 
 **Maksājums**
 
@@ -46,8 +46,7 @@ Ja esat pievienojis jaunu karti un vecajā kredītkartē joprojām saņemat pazi
 
 4. Lai izmantotu esošu maksājuma metodi, atlasiet to nolaižamajā sarakstā un pēc tam atlasiet **Aizstāt**.
 
-    > [!NOTE]
-    > Ja jūsu norēķinu profilam ir piesaistīti abonementi, jūs varat izmantot tikai kredītkarti vai debetkarti, lai samaksātu par tiem. Ja jūsu **Maksājuma metožu** lapā ir norāditi bankas konti, tie nebūs pieejami izvēlei nolaižamajā sarakstā.
+    **Piezīme.** Ja jums ir abonementi, kas saistīti ar norēķinu profilu, varat izmantot tikai kredītkarti vai debetkarti, lai par tiem maksātu. Ja jūsu **Maksājuma metožu** lapā ir norāditi bankas konti, tie nebūs pieejami izvēlei nolaižamajā sarakstā.
 
 5. Lai pievienot jaunu maksājuma metodi, atlasiet **Pievienot maksājuma metodi**.
 

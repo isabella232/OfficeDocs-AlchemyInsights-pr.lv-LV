@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081437"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895014"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Konta atbloķēšana, izmantojot apdraudējumu pārvaldību
 
-Lūk, kā to paveikt: 
+Lūk, kā to paveikt:
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Atlasiet **Apdraudējumu pārvaldības**  >  **pārskatīšana**. Pārskatīšanas **lapā** atlasiet **[Ierobežotie lietotāji](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Ja sarakstā tiek rādīts apdraudētais konts, noklikšķiniet uz **Atbloķēt kontu.** Kontam vajadzētu būt iespējai nosūtīt ziņojumus vēlreiz, parasti stundas laikā.
+1. Dodieties uz Microsoft 365 Defender e-& <https://security.microsoft.com> \> **ar ierobežotas** \> **sadarbības** \> **pārskatīšanas lietotājiem.**
+
+   Lai pārietu tieši uz **lapu Ierobežotie** lietotāji, izmantojiet <https://security.microsoft.com/restrictedusers> .
+
+2. Ja lietotājs ir sarakstā, atlasiet lietotāju un pēc tam atlasiet **Atbloķēt**. Izpildiet izlidošanas rūtī norādītās darbības un pēc tam atlasiet **Jā,** lai apstiprinātu.
+
+   Kontam vajadzētu būt iespējai nosūtīt ziņojumus vēlreiz, parasti stundas laikā.
+
+Papildinformāciju skatiet rakstā [Bloķēto lietotāju noņemšana no ierobežota lietotāju portāla.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

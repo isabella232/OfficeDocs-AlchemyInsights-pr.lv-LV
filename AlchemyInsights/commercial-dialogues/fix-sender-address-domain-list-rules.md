@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930032"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896118"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Sūtītāja adreses/domēna saraksta kārtulu labošana
 
-Šis ziņojums ir ietekmēts jūsu nomnieka pretsurogātpasta politikā. Ziņojuma sūtītājs tika atrasts atļauto vai bloķēto vienumu sarakstā. Lai pārskatītu politiku, rīkojieties šādi:
+Kāda no jūsu pretsurogātpasta politikām ir ietekmējusi šo ziņojumu. Ziņojuma sūtītājs tika atrasts atļauto vai bloķēto vienumu sarakstā. Lai pārskatītu politikas, veiciet tālāk norādītās darbības.
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143)un pēc tam dodieties uz sadaļu Apdraudējumu **pārvaldības**  >  **politikas**  >  [pretsurogātpasta politika](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Cilnē **Standarta,** ja ir **iespējoti standarta** iestatījumi, atzīmējiet izvēles rūtiņu **Atļaut sarakstus un** Bloķēt **sarakstus.**
-3. Cilnē **Pielāgots,** ja ir **iespējoti pielāgoti** iestatījumi, pārskatiet politikas, atlasot Rediģēt politiku un atlasot Atļaut **sarakstus** un Bloķēt **sarakstus.** 
+1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com/>  \>  \>  \> **E-&**  un sadarbības politikas & Kārtulu pretsurogātpasta politikas sadaļā Politikas.
 
-Papildinformāciju par surogātpasta filtra politiku konfigurēšanu skatiet rakstā [Surogātpasta filtra politiku konfigurēšana.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Lai pārietu tieši uz **lapu Pretsurogātpasta** politikas, izmantojiet <https://security.microsoft.com/antispam> .
+
+2. Lapā **Pretsurogātpasta** politikas atlasiet politiku, noklikšķinot uz politikas  nosaukuma **(Tips**  ir pielāgota pretsurogātpasta politika vai Nosaukums ir surogātpasta novēršanas politika **(noklusējums)**).
+3. Parādītā detalizētas informācijas izlidošanas logā atlasiet **Rediģēt atļautos** un bloķētos sūtītājus un domēnus sadaļā Atļautie un **bloķētie sūtītāji un domēni.**
+4. Sadaļā **Atļautās** pārskatiet sūtītājus un domēnus, noklikšķinot uz **\<nn\> Pārvaldīt sūtītājus** vai **Atļaut domēnus.**
+
+Papildinformāciju skatiet rakstā [Surogātpasta novēršanas politiku konfigurēšana rīkkopā EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017103"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896162"
 ---
 # <a name="fix-languageip-filter-policy"></a>Valodas/IP filtra politikas labošana
 
-Šis ziņojums ir ietekmēts jūsu nomnieka pielāgotā pretsurogātpasta politika. Lai pārskatītu politiku, rīkojieties šādi:
+Kāda no jūsu pretsurogātpasta politikām ir ietekmējusi šo ziņojumu. Lai pārskatītu politikas, veiciet tālāk norādītās darbības.
 
-1. Dodieties [uz Office 365 drošības & centru](https://go.microsoft.com/fwlink/p/?linkid=2077143)un pēc tam dodieties uz sadaļu Apdraudējumu **pārvaldības**  >  **politikas**  >  [pretsurogātpasta politika](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Cilnē **Pielāgots** atlasiet noklusējuma surogātpasta **filtra** politiku vai citu pielāgotu politiku, ko esat izveidojis, un pēc tam atlasiet **Rediģēt politiku**.
-3. Izvērsiet opciju **Starptautiskais surogātpasts** un pārskatiet iestatījumus.
+1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com/>  \>  \>  \> **E-&**  un sadarbības politikas & Kārtulu pretsurogātpasta politikas sadaļā Politikas.
 
-Papildinformāciju par surogātpasta filtra politiku konfigurēšanu skatiet rakstā [Pielāgotu surogātpasta filtra politikas iestatījumu konfigurēšana.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Lai pārietu tieši uz **lapu Pretsurogātpasta** politikas, izmantojiet <https://security.microsoft.com/antispam> .
+
+2. Lapā **Pretsurogātpasta** politikas atlasiet politiku, noklikšķinot uz politikas  nosaukuma **(Tips**  ir pielāgota pretsurogātpasta politika vai Nosaukums ir surogātpasta novēršanas politika **(noklusējums)**).
+3. Detalizētās informācijas izlidošanas logā, kas tiek parādīts, sadaļā Lielapjoma e-pasta **slieksnis** & **surogātpasta rekvizītus atlasiet Rediģēt surogātpasta slieksni un** rekvizītus.
+4. Sadaļā Atzīmēt **kā surogātpastu** pārskatiet iestatījumu **Satur konkrētas valodas** un No **šīm** valstīm.
+
+Papildinformāciju skatiet rakstā [Surogātpasta novēršanas politiku konfigurēšana rīkkopā EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

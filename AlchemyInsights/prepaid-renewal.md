@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502867"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314535"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Priekšapmaksas Microsoft 365 atjaunošana
 
@@ -29,8 +29,7 @@ ms.locfileid: "54502867"
 3. Detalizētas informācijas par abonementu lapas sadaļā **Abonements un maksāšanas** iestatījumi atlasiet **Pagarināt beigu datumu**.
 4. Atjaunošanas **vai lietotāju licenču pievienošanas lapā atlasiet** Izmantot **jaunu un neizmantotu produkta atslēgu** un pēc tam atlasiet **Tālāk**.
 5. Ievadiet produkta atslēgu un pēc tam atlasiet **Tālāk**.
-    > [!NOTE]
-    > Ja jums ir vairākas produkta atslēgas, lai tās ievadītu, **varat atlasīt Pievienot citu** produkta atslēgu.
+    **Piezīme.** Ja jums ir vairākas produkta atslēgas, lai tās ievadītu, **varat atlasīt Pievienot citu** produkta atslēgu.
 6. Pārskatiet pasūtījuma datus un pēc tam atlasiet **Izmantot**.
 
-Papildinformāciju skatiet rakstā [Licenču pievienošana vai abonementa paplašināšana, par kuru tiek maksāts, izmantojot produkta atslēgu.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Papildinformāciju skatiet rakstā [Licenču pievienošana vai abonementa paplašināšana, kas apmaksāts, izmantojot produkta atslēgu.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

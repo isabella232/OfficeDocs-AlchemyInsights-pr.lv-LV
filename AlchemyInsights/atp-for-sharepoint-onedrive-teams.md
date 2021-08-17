@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997141"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314969"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender Office 365 SharePoint, OneDrive un Microsoft Teams
 
@@ -26,10 +26,10 @@ Veiciet šīs darbības, lai iespējotu Microsoft Defender Office 365:
 
 2. Kreisajā navigācijas rūtī sadaļā Apdraudējumu **pārvaldība izvēlieties** Politikas **Seifs** \> **pielikumi**.
 
-3. Atzīmējiet **izvēles rūtiņu Office 365 programmatūrām SharePoint, OneDrive programmatūrai un Microsoft Teams.**
+3. Lai **iegūtu Office 365, SharePoint, OneDrive vai Microsoft Teams, atlasiet Ieslēgt Microsoft Teams.**
 
-4. [Izveidojiet darbības brīdinājuma politiku,](/microsoft-365/compliance/create-activity-alerts) lai saņemtu paziņojumus, kad tiek konstatēti ļaunprātīgi faili.
+4. [Izveidojiet darbības brīdinājuma politiku,](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) lai saņemtu paziņojumus, kad tiek konstatēti ļaunprātīgi faili.
 
-Pilnus norādījumus skatiet rakstā [Pielikumu Seifs SharePoint, OneDrive un Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
+Pilnus norādījumus skatiet rakstā [Pielikumu Seifs SharePoint, OneDrive un Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Piezīme.** Programmatūra Microsoft Defender Office 365 katru failu programmā SharePoint Online, OneDrive darbam vai Microsoft Teams. Faili tiek skenēti asinhroni, un process, kas izmanto koplietošanas darbības, viesa darbības un apdraudējumu signālus, lai identificētu ļaunprātīgus failus. Papildinformāciju skatiet [rakstā Seifs, SharePoint, OneDrive un Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+**Piezīme.** Programmatūra Microsoft Defender Office 365 katru failu programmā SharePoint Online, OneDrive darbam vai Microsoft Teams. Faili tiek skenēti asinhroni, un process, kas izmanto koplietošanas darbības, viesa darbības un apdraudējumu signālus, lai identificētu ļaunprātīgus failus. Papildinformāciju skatiet [rakstā Seifs, SharePoint, OneDrive un Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

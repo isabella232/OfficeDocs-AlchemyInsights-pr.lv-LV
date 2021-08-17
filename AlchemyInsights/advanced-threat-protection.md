@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61236d1e0174248cdb49284d6c6c7d49df51e7e9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888965"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315085"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender programmatūrai Office 365
 
@@ -24,13 +24,13 @@ ms.locfileid: "57888965"
 
 - Jums ir jāpiešķir atbilstošas licences, lai aizsargātu lietotājus, programmatūrai Microsoft Defender Office 365. Norādījumus par to, kā lietotājiem [lietot lielapjoma licences,](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) skatiet rakstā Lietotāju pievienošana un licenču piešķiršana vienlaikus.
 
-- Globālie administratori vai drošības administratori var piekļūt programmatūrai Microsoft Defender Office 365 līdzekļiem Microsoft 365 Defender portāla sadaļā E& pasta & **sadarbības** politikas \> **& kārtulas** \> **Pretdraudu politikas.**
+- Globālie administratori vai drošības administratori var piekļūt programmatūrai Microsoft Defender Office 365 līdzekļiem Microsoft 365 Defender portāla sadaļā **E& pasta** & sadarbības politikas \> **& kārtulas Pretdraudu** \> **politikas**.
 
 - Seifs Pielikumu un Seifs politiku saites var norādīt uz konkrētiem domēniem, grupas dalībniekiem vai atsevišķiem lietotājiem. Varat arī norādīt izņēmumus attiecībā Seifs un Seifs saišu politikām, ņemot vērā domēnu, dalību grupā vai atsevišķus lietotājus.
 
-- Nav noklusējuma iestatījuma Seifs, kas aizsargā e-pasta ziņojumus. Jums ir jāizveido politika attiecībā uz e Seifs pasta pielikumu aizsardzību. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- Nav noklusējuma iestatījuma Seifs, kas aizsargā e-pasta ziņojumus. Jums ir jāizveido politika attiecībā uz e Seifs pasta ziņojumu pielikumu aizsardzību. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
 
-  Seifs Pielikumi SharePoint, OneDrive un Microsoft Teams globāli ir iespējoti vai atspējoti, un tiem nav nepieciešama Seifs pielikumu politikas. Papildinformāciju skatiet [rakstā Seifs, SharePoint, OneDrive un Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)
+  Seifs Pielikumi SharePoint, OneDrive un Microsoft Teams globāli ir iespējoti vai atspējoti, un tiem nav nepieciešamas Seifs pielikumu politikas. Papildinformāciju skatiet [rakstā Seifs, SharePoint, OneDrive un Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)
 
 - Nav noklusējuma saišu politikas Seifs kas aizsargā e-pasta ziņojumus vai Microsoft Teams. Jums ir jāizveido [politika saišu aizsardzībai](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) Seifs e-pasta ziņojumā Teams.
 

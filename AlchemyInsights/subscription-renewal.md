@@ -16,16 +16,16 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 974f5b26bd8e8846db7501239d8fd140f2bd56c132b0256c3166dbf2c2c8b138
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53981768"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894918"
 ---
 # <a name="subscription-recurring-billing"></a>Abonementa periodiskie norēķini
 
-Ja vēlaties uzzināt, kad tiek izrakstīts rēķins  par mēneša vai gada abonementu (ja periodiskie norēķini ir ieslēgti) vai kad beidzas tā derīgums (ja periodiskie norēķini ir izslēgti), veiciet tālāk norādītās darbības. 
+Ja vēlaties uzzināt, kad tiek izrakstīts rēķins  par mēneša vai gada abonementu (ja ir  ieslēgti periodiskie norēķini) vai kad beidzas tā derīgums (ja periodiskie norēķini ir izslēgti), veiciet tālāk norādītās darbības.
   
 1. Administrēšanas centrā dodieties  uz lapu \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 2. Cilnē **Produkti** atrodiet abonementu, par kuru vēlaties uzzināt papildinformāciju. Kolonnā **Abonementa** statuss tiek rādīts atjaunošanas vai derīguma beigu datums.
@@ -33,4 +33,4 @@ Ja vēlaties uzzināt, kad tiek izrakstīts rēķins  par mēneša vai gada abon
 4. Rūtī Rediģēt **periodiskos norēķinus** atlasiet **Ieslēgts**, **Ieslēgts, atjaunot vienreiz** vai **Izslēgts**.
 5. Atlasiet **Saglabāt**.
 
-Lai uzzinātu vairāk, skatiet sadaļu [Periodisko norēķinu izslēgšana vai ieslēgšana](/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Lai uzzinātu vairāk, skatiet sadaļu [Periodisko norēķinu izslēgšana vai ieslēgšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

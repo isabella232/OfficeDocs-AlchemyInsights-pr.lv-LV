@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge pievienošana Microsoft Intune
+title: Pievienot Microsoft Edge Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194512"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315131"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>Microsoft Edge pievienošana Microsoft Intune
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>Pievienot Microsoft Edge Microsoft Intune
 
-Lai varētu izvietot, konfigurēt, pārraudzīt un aizsargāt Microsoft Edge operētājsistēmā Windows 10, jums tā vispirms ir jāpievieno Microsoft Intune.
+Lai varētu izvietot, konfigurēt, pārraudzīt un Microsoft Edge drošības Windows 10, tā vispirms ir jāpievieno Microsoft Intune.
 
-> [!IMPORTANT]
-- Intune atbalsta Microsoft Edge 77 un jaunākas versijas.
-- Intune noteiks visas iepriekš pastāvējušās Microsoft Edge instalācijas.
+> **Svarīgi!**
+- Intune atbalsta Microsoft Edge 77 un jaunākām versijām.
+- Intune noteiks visas iepriekš esošās Microsoft Edge.
 - Ja Microsoft Edge ir instalēta lietotāja kontekstā, sistēmas instalācija pārrakstīs instalāciju lietotāja kontekstā.
-- Ja sistēmas konteksta datorā ir instalēta programma Microsoft Edge, tiks ziņots par instalēšanas panākumiem.
-- Iepriekš instalētas Microsoft Edge 77 un jaunākas versijas visiem kanāliem lietotāja kontekstā tiks pārrakstītas ar Microsoft Edge, kas instalēta sistēmas kontekstā.
+- Ja Microsoft Edge ir instalēta sistēmas kontekstā, par instalēšanas sekmīgu darbību tiks ziņots.
+- Sākotnēji instalētās Microsoft Edge 77 un jaunākas versijas visos kanālos lietotāja kontekstā tiks pārrakstītas ar Microsoft Edge sistēmas kontekstā.
 
-**Priekšnosacījuma**
+**Priekšnosacījumi**
 
-Windows 10 versija 1709 vai jaunākas versijas
+Windows 10 1709 vai jaunāka versija
 
-**Darbības, kas jāveic, lai pievienotu Windows Intune malu**
+**Steps to add Edge to Intune**
 
-1. [Konfigurējiet lietojumprogrammu Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
-2. [Konfigurējiet lietojumprogrammu informāciju](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+1. [Konfigurējiet programmu intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+2. [Konfigurējiet lietojumprogrammas informāciju.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 3. [Konfigurējiet programmas iestatījumus](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 4. [Atlasiet tvēruma atzīmes (neobligāti)](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
-5. [Pievienojiet programmu](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+5. [Pievienojiet lietojumprogrammu](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 
-Papildu palīdzību skatiet rakstā [problēmu novēršana](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+Papildinformāciju skatiet rakstā Problēmu [novēršana.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 
 
 
