@@ -1,5 +1,5 @@
 ---
-title: Atjaunināšanas gredzenu izveide vai migrēšana
+title: Atjaunināšanas loku izveide un migrēšana
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078809"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Atjaunināšanas gredzenu izveide vai migrēšana
+# <a name="how-to-create-or-migrate-update-rings"></a>Atjaunināšanas loku izveide un migrēšana
 
-Lūdzu, veiciet tālāk norādītās darbības, ja esat konfigurējis Windows 10 atjaunināšanas iestatījumus Intune klasiskajā portālā un vēlējies tos migrēt uz Intune Azure portālā:
+Izpildiet tālāk norādītās darbības, ja esat Windows 10 atjaunināšanas iestatījumus Intune klasiskajā portālā un vēlējāties tos migrēt uz Intune Azure portālā:
 
-1. Dodieties uz Azure portālu un noklikšķiniet uz **Visi pakalpojumi**.
-2. Laukā **filtrs** ierakstiet **Intune**. Rezultātos noklikšķiniet uz **Microsoft Intune**.
-3. Noklikšķiniet uz **programmatūras atjauninājumi**  >  **Windows 10 atjaunināšanas gredzenu**  >  **izveide**.
-4. Ievadiet nosaukumu, aprakstu un noklikšķiniet uz **konfigurēt**.
+1. Dodieties uz Azure portālu un noklikšķiniet uz **Visi pakalpojumi.**
+2. Laukā **Filtrs** ierakstiet **Intune**. Rezultātos noklikšķiniet uz **Microsoft Intune**.
+3. Noklikšķiniet **uz Programmatūras** atjauninājumi Windows 10  >  **Atjaunināšanas loki**  >  **Izveidot.**
+4. Ievadiet nosaukumu, aprakstu un noklikšķiniet uz **Konfigurēt.**
 5. Konfigurējiet savas organizācijas programmatūras atjaunināšanas iestatījumus.
 6. Atlasiet **Labi**.
-7. Sadaļā **izveidot atjaunināšanas gredzenu**atlasiet **Create (izveidot**).
+7. Sadaļā **Izveidot atjaunināšanas loku** atlasiet **Izveidot**.
