@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068891"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320996"
 ---
 # <a name="retail-prepaid-card"></a>Mazumtirdzniecības priekšapmaksas karte
 
-Ja esat Microsoft 365 Business Standard mazumtirdzniecības veikalā, veiciet tālāk norādītās darbības, lai pagarinātu derīguma termiņu vai pievienotu licenci esošam abonementam.
+Ja produktu Microsoft 365 Business Standard mazumtirdzniecības veikalā, veiciet tālāk norādītās darbības, lai pagarinātu tā derīguma termiņu vai pievienotu licenci esošam abonementam.
 
-> [!NOTE]
-> Lai izmantotu produkta atslēgu tā, lai pagarinātu derīguma termiņu vai pievienotu licenci esošajam Microsoft 365 Business Standard abonementam, ir nepieciešama jauna un neizmantota atslēga tam pašam Microsoft 365 abonementam. Sākotnējā faila Microsoft 365 atslēga nedarbosies, jo atslēgu, kas jau ir izmantota, nevar izmantot atkārtoti.
+**Piezīme.** Lai izmantotu produkta atslēgu tā, lai pagarinātu derīguma termiņu vai pievienotu licenci esošajam Microsoft 365 Business Standard abonementam, ir nepieciešama jauna un neizmantota atslēga tam pašam Microsoft 365 abonementam. Sākotnējā faila Microsoft 365 atslēga nedarbosies, jo atslēgu, kas jau ir izmantota, nevar izmantot atkārtoti.
 
 1. Administrēšanas centrā dodieties uz lapu  >  **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
 2. Atrodiet abonementu, kuram vēlaties pagarināt vai pievienot licenci. Atlasiet [paplašināto beigu](https://go.microsoft.com/fwlink/p/?linkid=842054) datumu [vai pievienojiet papildu licences.](https://go.microsoft.com/fwlink/p/?linkid=842054)

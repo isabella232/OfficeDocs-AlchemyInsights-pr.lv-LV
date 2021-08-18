@@ -1,5 +1,5 @@
 ---
-title: Plūsmas pakalpojumā Yammer
+title: Plūsmas programmā Yammer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9666"
-ms.openlocfilehash: d933c2b7fa73d6ab1fd91a452ed5736d084cdd18
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 855921cb5a1e84355a436a5a1f67a2518240fb804c14286f86e7f2fca306bb30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117455"
 ---
-# <a name="feeds-in-yammer"></a>Plūsmas pakalpojumā Yammer
+# <a name="feeds-in-yammer"></a>Plūsmas programmā Yammer
 
 **Plūsmas**
 
-Jaunais Yammer iepazīstina ar [jaunu mājas plūsmu](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254). Varat izlasīt vairāk par to [, kas ir jauns ar šo plūsmu](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) , kas ir izstrādāta, lai izveidotu Surface saturu no jūsu kopienām un palīdzētu atklāt jaunu saturu. Novietojot kursoru virs opcijas mājas padeve, tiek iespējota izvēlne ar piekļuvi visiem sarunu skatam. Turpmākās plūsmas atjauninājumi var ievietot saturu no papildu avotiem Microsoft 365 komplektā.
+Jaunā Yammer jaunā [sākumlapa.](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254) Varat uzzināt vairāk par jaunumiem šajā [plūsmā,](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) kas ir paredzēta, lai atklātu jūsu kopienu saturu un palīdzētu jums atrast jaunu saturu. Norādot uz opciju Mājas plūsma, tiek iespējota izvēlne ar piekļuvi skatam Visas sarunas. Turpmākie plūsmas atjauninājumi var nodrošināt saturu no papildu avotiem šajā Microsoft 365 komplektā.
 
-Klasiskajā Yammer ir [atklāšanas plūsma](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) , kas nav uzlabota atbilstoši tam, kā tas identificē saturu jūsu vietā. Sākumlapas augšdaļā ir pieejamas opcijas, kuras var izmantot, lai pārslēgtos uz visu un tālāk norādītajām plūsmām.
+Klasiskajā Yammer ir [atklāšanas](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) plūsma, kas nav paplašināta attiecībā uz satura identificēšanu jūsu vietā. Opcijas, lai pārslēgtos uz plūsmu Viss un Seko, ir pieejamas sākumlapā.
 
-Yammer plūsmas var arī iekļaut SharePoint vietnēs, izmantojot [Yammer sarunas un izceļ tīmekļa daļas](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).
+Yammer plūsmas var iekļaut arī SharePoint [vietnēs, izmantojot tīmekļa Yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)Sarunas un Marķējumi.
 
-**Problēmu publicēšana**
+**Problēmu izliekot**
 
-Ir jābūt iespējai izlikt Yammer vairākos veidos. Tālāk norādītas dažas bieži sastopamās problēmas, ar kurām lietotāji var sastapties:
+Tajā jābūt iespējai izlikt e-Yammer dažādos veidos. Tālāk ir zināmas dažas no biežāk sastopamajām problēmām, ar kādām lietotāji var saskarties.
 
-- Administratoram ir [ierobežota jaunu sarunu publicēšana](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) visā uzņēmumā. Šis ir ierobežojums, ko administratoram vajadzēs noņemt, lai nodrošinātu parastu lietotāju publicēšanu.
-- Kopienas dalība nav pareizi sinhronizēta. Piemēram, lietotājs ir Kopienas dalībnieks pakalpojumā Yammer, bet nav Microsoft 365 grupa, kas savienota ar SharePoint Online. Gaida, līdz dalības sinhronizācija ir pabeigta ļoti lielām grupām, var ilgt līdz pat 24 stundām.
-- Nav pareizi ielādēts CDN koda atjauninājums. Notīrot pārlūka kešatmiņu un sīkfailus, bieži tas tiks atrisināts.
+- Administrators ir [ierobežojis jaunu sarunu liekot ziņas](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) visā uzņēmumā. Tas ir ierobežojums, kas administratoram būs jānoņem, lai ļautu regulārajiem lietotājiem publicēt.
+- Dalība kopienā nav pareizi sinhronizēta. Piemēram, lietotājs ir kopienas dalībnieks programmā Yammer, bet ne grupas, kas Microsoft 365 saistīta ar SharePoint Online. Gaidot dalības sinhronizēšanas pabeigšanai ļoti lielās grupās var būt nepieciešams līdz 24 stundām.
+- Nav izdevies pareizi ielādēt koda atjauninājumu no CDN. Šo problēmu bieži novērš pārlūkprogrammas kešatmiņas un sīkfailu notīrīšana.

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893598"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320450"
 ---
 # <a name="retrieve-the-audit-logs"></a>Audita žurnālu izgūšanas
 
 Pirmo reizi atverot audita žurnālu, tas būs tukšs. Lai uzzinātu, kas tur ir, ir jāmeklē. Tālāk ir aprakstīts, kā veikt vispārīgu visu darbību meklēšanu.
 
 1. Veiciet kādu no šīm darbībām:
-   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> uz **Solutions** \> **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
+   - Lapā Microsoft 365 atbilstības centrs <https://compliance.microsoft.com> dodieties uz **Risinājumu** \> **audits**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://compliance.microsoft.com/auditlogsearch> .
    - Vietnes Microsoft 365 Defender dodieties <https://security.microsoft.com> uz **Audit**. Vai arī, lai pārietu tieši uz **lapu Audits,** izmantojiet <https://security.microsoft.com/auditlogsearch> .
 
 2. Audita  lapas cilnē **Meklēšana** konfigurējiet tālāk norādītos iestatījumus.

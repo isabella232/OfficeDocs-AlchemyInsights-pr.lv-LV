@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994872"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320363"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Iestatiet ClientAccessServerEnabled vērtību kā True
 
@@ -26,11 +26,10 @@ Ja nevarat atvērt šifrētu e-pasta ziņojumu un tā vietā skatīt **rpmsg** p
 
 1. Savienošana uz Exchange Online PowerShell.
 
-> [!NOTE]
-> Lai izveidotu savienojumu Exchange Online PowerShell, pierakstieties, izmantojot globālā administratora vai administratora Exchange kontu.
+    **Piezīme.** Lai izveidotu savienojumu Exchange Online ar PowerShell, pierakstieties, izmantojot globālā administratora vai Exchange kontu.
 
    a. Atveriet Windows PowerShell un pēc tam izpildiet šādu komandu:`$UserCredential = Get-Credential`
-b. Dialoglodziņā **Akreditācijas Windows PowerShell pieprasījums** ievadiet savu darba vai mācību iestādes kontu un paroli c. Noklikšķiniet uz **Labi**. 
+   b. Dialoglodziņā **akreditācijas Windows PowerShell** ievadiet savu darba vai mācību iestādes kontu un paroli, c. Noklikšķiniet uz **Labi**. 
 
 2. Lai izveidotu jaunu sesiju, izpildiet šādu komandu:
 
@@ -46,8 +45,7 @@ b. Dialoglodziņā **Akreditācijas Windows PowerShell pieprasījums** ievadiet 
 
     a. Ja **ClientAccessServerEnabled iestatījums** ir **False**, izpildiet šo cmdlet: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Vienmēr aizveriet powershell sesiju ar šādu komandu: `Remove-PSSession $Session`
+**Padoms.** Vienmēr aizveriet savu Powershell sesiju ar šādu komandu: `Remove-PSSession $Session`
 
 Papildinformāciju skatiet rakstā [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

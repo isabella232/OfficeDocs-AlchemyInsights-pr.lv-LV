@@ -1,5 +1,5 @@
 ---
-title: 1800001 Profila dzēšana
+title: 1800001 Dzēst profilu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,29 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005529"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320165"
 ---
 # <a name="delete-a-profile"></a>Profila dzēšana
 
 Lai izdzēstu profilu, veiciet tālāk norādītās darbības.
   
-1. Programmā Outlook atlasiet Failu **konts** \> **un Iestatījumi** Profilu \> **pārvaldība.**
+1. Programmā Outlook atlasiet Failu  \> **konts un Iestatījumi** Profilu \> **pārvaldība**.
 
 2. Atlasiet **Rādīt profilus**.
 
 3. Dialoglodziņā Pasts **atlasiet** profilu, kuru vēlaties izdzēst, un pēc tam noklikšķiniet uz **Noņemt.**
 
-    > [!NOTE]
-    > Outlook var brīdināt, ka, izdzēšot jūsu profilu, tiks noņemti bezsaistes dati. Jūs nezaudēsit savu Outlook datu failos (.pst) vai tiešsaistes kontos saglabāto informāciju, piemēram, Outlook.com, Exchange vai Microsoft 365 kontus.
+    **Piezīme.** Outlook var brīdināt, ka, izdzēšot jūsu profilu, tiks noņemti bezsaistes dati. Jūs nezaudēsit savu Outlook datu failos (.pst) vai tiešsaistes kontos glabāto informāciju, piemēram, Outlook.com, Exchange vai Microsoft 365 kontus.
   
-Informāciju **Outlook Mac profilu** pārvaldībai skatiet rakstā Profilu un identitāšu pārvaldība Outlook for [Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) vai veiciet tālāk norādītās darbības.
+Lai **Outlook for Mac** profilu pārvaldību, skatiet sadaļu Profilu un identitāšu pārvaldība Outlook for [Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) vai veiciet tālāk norādītās darbības.
   
 1. No finder atveriet **lietojumprogrammu** mapi.
 
 2. Ctrl + noklikšķiniet vai ar peles labo pogu **noklikšķiniet uz Microsoft Outlook** un pēc tam atlasiet Rādīt pakotnes **saturu**.
 
-3. Atlasiet **Saturs** \> **Koplietojams** atbalsts un pēc tam **Outlook Profila pārvaldnieks**.
+3. Atlasiet **Saturs** \> **Koplietots atbalsts** un pēc tam Outlook Profila **pārvaldnieks**.

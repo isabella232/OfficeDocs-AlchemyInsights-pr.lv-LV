@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916422"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321292"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>MdATP izņēmumu konfigurēšana un pārbaude Linux datorā
 
@@ -25,5 +25,4 @@ MDATP skenēs varat izslēgt noteiktus failus, mapes, procesus un ar procesu atv
 
 Papildinformāciju skatiet rakstā [Linux MDATP izņēmumu konfigurēšana un pārbaude.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
-> [!IMPORTANT]
-> Šajā rakstā aprakstītie izņēmumi neattiecas uz citām MDATP operētājsistēmai Linux iespējām, tostarp galapunktu atklāšana un reaģēšana (EDR). Faili, kurus izslēdzat, izmantojot šajā rakstā aprakstītās metodes, joprojām var aktivizēt EDR brīdinājumus un citas noteikšanas iespējas.
+**Svarīgi!** Šajā rakstā aprakstītie izņēmumi neattiecas uz citām MDATP iespējām linux, tostarp galapunktu atklāšana un reaģēšana (EDR). Faili, kurus izslēdzat, izmantojot šajā rakstā aprakstītās metodes, joprojām var aktivizēt EDR brīdinājumus un citas noteikšanas iespējas.

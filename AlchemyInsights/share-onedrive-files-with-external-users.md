@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051601"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320604"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Koplietojiet failus programmā OneDrive personām ārpus organizācijas
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Koplietojiet failus programmā OneDrive personām ārpus savas organizācijas
 
 1. Izmantojiet lietojumprogrammu palaidēju, lai OneDrive pārlūkprogrammā. 
     
@@ -31,8 +31,7 @@ ms.locfileid: "54051601"
     
   - **Konkrētas personas** sniedz piekļuvi tikai jūsu konkrētām personām. Tomēr arī citām personām, iespējams, jau ir piekļuve. Ja lietotāji pārsūtīs koplietošanas uzaicinājumu, saiti varēs izmantot tikai tie lietotāji, kuriem jau ir piekļuve šim vienumam. 
     
-    > [!NOTE]
-    > Ja kāda no šīm opcijām nav pieejama vai vēlaties, lai pēc noklusējuma tiktu rādīts cits saites tips, varat mainīt iestatījumus  visā organizācijā, OneDrive administrēšanas centrā un kreisajā rūtī noklikšķinot uz Koplietošana. [Papildinformācija](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Piezīme.** Ja kāda no šīm opcijām nav pieejama vai vēlaties, lai pēc noklusējuma tiktu rādīts cits saites tips, varat mainīt iestatījumus  visā organizācijā, OneDrive administrēšanas centrā un kreisajā rūtī noklikšķinot uz Koplietošana. [Papildinformācija](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Pēc noklusējuma **iestatījums Atļaut** rediģēšanu ir ieslēgts. Ja vēlaties, lai lietotāji varētu tikai skatīt jūsu failus, notīriet šo izvēles rūtiņu. 
     
