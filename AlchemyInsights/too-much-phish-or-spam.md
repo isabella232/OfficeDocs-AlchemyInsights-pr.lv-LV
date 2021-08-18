@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: f19ab35837085b4a99212ab445d815a899c2c9df
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4853891a129caf27a4926cbe8bb64991e5f4f61d1f24c76d53c6d61baa598ea9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315447"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900143"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Vai savā pastkastē saņemat pārāk daudz pikšķerēšanas vai surogātpasta?
 
 **Piezīme.** Microsoft 365 drošības centram varat piekļūt šeit: [https://security.microsoft.com](https://security.microsoft.com).
 
-Kā Microsoft 365 administrators pikšķerēšanas vai surogātpasta ziņojuma piegādes veidu labākais veids ir iesniegt paraugu korporācijai Microsoft iesniegšanas [pārlūkā.](https://security.microsoft.com/reportsubmission) Jūs saņemsit tūlītējas atsauksmes par ziņojumu filtrēšanu un problēmu iemesliem.
+Ja Microsoft 365 administrators pikšķerēšanas vai surogātpasta ziņojuma piegādes veidu vislabāk var noteikt, iesniedzot paraugu korporācijai Microsoft iesniegšanas [pārlūkā.](https://security.microsoft.com/reportsubmission) Jūs saņemsit tūlītējas atsauksmes par ziņojumu filtrēšanu un problēmu iemesliem.
 
 Lai atvieglotu darbu, varat atļaut lietotājiem ziņot tieši korporācijai Microsoft, izmantojot atskaišu [ziņojumu pievienojumprogrammu.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 

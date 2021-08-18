@@ -16,12 +16,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 963fb2af103f40e6b235edef2c9eb966ae11f098bb0d9ac4db544bb2f289813c
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499519"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899987"
 ---
 # <a name="view-my-bill-or-invoice"></a>Rēķina skatīšana
 
@@ -31,4 +31,4 @@ ms.locfileid: "54499519"
 
 3. Lai izdrukātu rēķinu, lejupielādējiet rēķinu PDF faila formātā un noklikšķiniet uz **Drukāt.**
 
-Lai uzzinātu vairāk, lasiet [Jūsu rēķina skatīšana](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Lai uzzinātu vairāk, lasiet [Jūsu rēķina skatīšana](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).

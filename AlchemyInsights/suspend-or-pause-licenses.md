@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501319"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900116"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licenču aizturēšana vai pauzēt
 
@@ -28,10 +28,10 @@ ms.locfileid: "54501319"
 
 Lai uz laiku apturētu vai apturētu licenču lietojumu, varat noņemt licences Microsoft 365 administrēšanas centrs un pēc tam tās pievienot atpakaļ vēlāk.
 
-1. Pirms noņemat licences no sava abonementa, vispirms [noņemiet licenču piešķiri lietotājiem.](/microsoft-365/admin/manage/remove-licenses-from-users)
+1. Pirms noņemat licences no sava abonementa, vispirms [noņemiet licenču piešķiri lietotājiem.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Pēc tam dodieties uz **lapu**  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 3. Cilnē **Produkti** atlasiet abonementu, kuru vēlaties atjaunināt.
 4. Detalizētas informācijas par abonementu lapā atlasiet **Noņemt licences**.
 5. Rūts **Licenču noņemšana** lodziņā **Licenču kopskaits** ievadiet šim abonementam nepieciešamais licenču skaits, pēc tam atlasiet **Saglabāt**. Piemēram, ja jums ir 100 licences un vēlaties aizturēt vai pauzēt 25 licences, kā abonementa licenču kopskaitu ievadiet 75.
 
-Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](/microsoft-365/commerce/licenses/buy-licenses).
+Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

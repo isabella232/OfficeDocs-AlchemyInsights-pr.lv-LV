@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge modificēšana, izmantojot datu direktorija mainīgos, nevis hardcoded ceļus
+title: Modify Microsoft Edge by using data directory variables, than hardcoded paths
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113423"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Microsoft Edge modificēšana, izmantojot datu direktorija mainīgos, nevis hardcoded ceļus
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Modify Microsoft Edge by using data directory variables, than hardcoded paths
 
-Piemēram, operētājsistēmā Windows, lai glabātu profila datus lietotāja lokālās lietojumprogrammas datos, nevis noklusējuma atrašanās vietā, iestatiet **UserDataDir** politiku uz **$ {local_app_data} \Edge\Profile**. 
+Piemēram, lai Windows saglabātu profila datus lietotāja lokālās lietojumprogrammas datos, nevis noklusējuma atrašanās vietā, iestatiet **UserDataDir** politiku uz **${local_app_data}\Edge\Profils.** 
 
-Lai uzzinātu vairāk, skatiet rakstu [Microsoft Edge lietotāju datu direktorija mainīgo izveide](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Papildinformāciju skatiet rakstā [Lietotāja datu Microsoft Edge mainīgo izveide.](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)
