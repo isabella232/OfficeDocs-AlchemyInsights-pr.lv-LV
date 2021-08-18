@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118211"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325394"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Paroļu atpakaļrakstīšanas iespējošana Azure AD Connect
 
@@ -42,5 +42,4 @@ Kad Azure AD Connect paroles atpakaļrakstīšana ir iespējota, konfigurējiet 
 
 Papildinformācijai lasiet [Azure Active Directory patstāvīgās paroles atiestatīšanas atpakaļrakstīšanas iespējošana lokālajā vidē](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  Kad administrators atiestata lietotāja paroli Azure portālā, ja lietotājs ir federatīvs vai parole ir sinhronizēta ar jaucējkodu, parole tiek lokāli atpakļrakstīta. Šai funkcionalitātei ir nepieciešama Azure Premium licence (P1 vai P2), un tā pašlaik netiek atbalstīta Office administratora portālā.
+**Piezīme.** Kad administrators atiestata lietotāja paroli Azure portālā, ja šis lietotājs ir federēts vai paroles jaukšanas sinhronizācija, parole tiek ierakstīta atpakaļ lokālajā vidē. Šai funkcionalitātei ir nepieciešama Azure Premium licence (P1 vai P2), un tā pašlaik netiek atbalstīta Office administratora portālā.

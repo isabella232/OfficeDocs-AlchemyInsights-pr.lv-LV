@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874546"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324532"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>E-pasta ziņojuma iesniegšana, izmantojot ziņojumu izsekošanu
 
-1. Dodieties uz Exchange administrēšanas centru (EAC) pasta <https://admin.exchange.microsoft.com> \> **plūsmas ziņojumu** \> **izsekošanas centrā**.
+1. Dodieties uz Exchange centru (EAC) pasta plūsmas <https://admin.exchange.microsoft.com> \> **ziņojumu** \> **izsekošanas centrā**.
 
    Lai pārietu tieši uz **ziņojumu izsekošanas lapu,** izmantojiet <https://admin.exchange.microsoft.com/#/messagetrace> .
 

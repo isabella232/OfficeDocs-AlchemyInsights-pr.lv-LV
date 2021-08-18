@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895894"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325302"
 ---
 # <a name="expired-subscription"></a>Abonementa derīgums ir beidzies
 
@@ -30,8 +30,7 @@ ms.locfileid: "57895894"
   
 1. Administrēšanas centrā dodieties  uz lapu \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 2. Cilnē **Produkti** atrodiet abonementu, ko vēlaties atkārtoti aktivizēt. Atlasiet daudzpunkti (vairāk darbību) un pēc tam atlasiet **Atkārtoti aktivizēt šo abonementu.**
-    > [!NOTE]
-    > Ja neredzat sadaļu Atkārtoti **aktivizēt šo abonementu, zvaniet** atbalsta dienestam.
+    **Piezīme.** Ja neredzat sadaļu Atkārtoti **aktivizēt šo abonementu, zvaniet** atbalsta dienestam.
 3. Rūtī **Atkārtoti aktivizēt šo** abonementu atlasiet maksāšanas metodi nolaižamajā sarakstā vai atlasiet Pievienot **maksāšanas metodi**.
 4. Atlasiet **Saglabāt**.
 

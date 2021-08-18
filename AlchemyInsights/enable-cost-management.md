@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003576"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325470"
 ---
 # <a name="enable-cost-management"></a>Iespējot izmaksu pārvaldību
 
 **Ko nozīmē "jūsu organizācijas izmaksas ir atspējotas"?**
 
-Organizācijas, kas izmanto līgums Enterprise (EA) vai Microsoft klienta līguma (MCA) kontus, var atspējot piekļuvi izmaksu informācijai un cenu informācijai.
+Organizācijas, kas izmanto līgums Enterprise (EA) vai Microsoft klienta līguma (MCA) kontus, var atspējot piekļuvi izmaksu informācijai un informācijai par cenām.
 
 Pēc pieteikšanās Azure portālā viņi var izmantot norēķinu API, lai programmiski saņemtu rēķinus (pēc pieteikšanās) un lietojuma informāciju.
 
@@ -32,10 +32,9 @@ Pēc pieteikšanās Azure portālā viņi var izmantot norēķinu API, lai progr
 
 1. Dodieties **uz abonementa asmens** stieņu Azure portālā.
 2. Atlasiet **Rēķini un** pēc **tam Piekļuve rēķiniem.**
-3. Ieslēdziet piekļuvi un pēc tam saglabājiet izmaiņas, lai atļautu lietotājiem abonementa tvēruma lomās lejupielādēt rēķinus.
+3. Ieslēdziet piekļuvi un saglabājiet izmaiņas, lai ļautu lietotājiem abonementa tvēruma lomās lejupielādēt rēķinus.
 
-> [!NOTE]
-> Konta administrators var arī konfigurēt, lai rēķini tiek nosūtīti pa e-pastu. Lai uzzinātu vairāk, skatiet rakstu [Rēķina nosūtīšana e-pastā.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Piezīme.** Konta administrators var arī konfigurēt, lai rēķini tiek nosūtīti pa e-pastu. Papildinformāciju skatiet rakstā Rēķina [nosūtīšana e-pastā.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Kā norēķinu lasītāja lomai pievienot lietotājus**
 
