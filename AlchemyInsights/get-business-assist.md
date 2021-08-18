@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: e2e619b56eb8f17801b36b536dae61a359115bae
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7d66d659974573e5839ec5dd3f97e7f28aef6de4f1097ec26cd3df9b00495de5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089519"
 ---
 # <a name="get-business-assist"></a>Saņemt palīdzību darbam
 
-1. Dialoglodziņā Microsoft 365 administrēšanas centrs dodieties uz lapu [Business Assist for Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2158423), atlasiet norēķinu biežumu un pēc tam atlasiet **Iegādāties**.
+1. Dialoglodziņā Microsoft 365 administrēšanas centrs dodieties uz [lapu Business Assist for Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2158423), atlasiet norēķinu biežumu un pēc tam atlasiet **Iegādāties**.
 2. Izpildiet norādījumus, lai to paņemtu.
 
-Papildinformāciju skatiet rakstā [Business Assist for Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist)
+Papildinformāciju skatiet rakstā [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).

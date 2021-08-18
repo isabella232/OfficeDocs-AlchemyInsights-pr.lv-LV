@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967160"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317749"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Ar aizsargāto ziņojumu skatīšanu programmā Outlook
 
@@ -28,8 +28,7 @@ Lai atvērtu šifrētus ziņojumus, lietotājiem ir jāveic šādas darbības:
 
 1. Atkarībā no izmantotā e-pasta klienta noklikšķiniet uz **Lasīt ziņojumu vai** uz līdzīgas uzvednes. Lietotāji tiek novirzīti uz lapu, kur viņi var pierakstīties un saņemt vienreizējo kodu.
 
-> [!NOTE]
-> Gmail lietotājiem viņiem tiks lūgts pierakstīties, izmantojot pakalpojumu Gmail. Pēc noklikšķināšanas uz Atļaut ziņojums tiks atvērts jaunā **cilnē.**
+    **Piezīme.** Gmail lietotājiem viņiem tiks lūgts pierakstīties, izmantojot pakalpojumu Gmail. Pēc noklikšķināšanas uz Atļaut ziņojums tiks atvērts jaunā **cilnē.**
 
 2. Pārbaudiet, vai e-pastā nav vienreizējā koda, un pēc tam ievadiet šo kodu pārlūkprogrammas logā.
 

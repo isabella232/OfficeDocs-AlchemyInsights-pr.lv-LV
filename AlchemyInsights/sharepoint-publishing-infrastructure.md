@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051097"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318095"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint Publicēšanas infrastruktūra
 
-> [!IMPORTANT]
-> Modernās saziņas vietnes neatbalsta klasiskos publicēšanas līdzekļus, kas dēvēti SharePoint Server publishing Infrastructure. Mēģinot aktivizēt līdzekli mūsdienīgai saziņas vietnei, tiek parādīts kļūdas ziņojums. Modernās saziņas vietnes pēc noklusējuma nodrošina jaunāku alternatīvu.
+**Svarīgi!** Modernās saziņas vietnes neatbalsta klasiskos publicēšanas līdzekļus, kas dēvēti SharePoint Server publicēšanas infrastruktūru. Mēģinot aktivizēt līdzekli mūsdienīgai saziņas vietnei, tiek parādīts kļūdas ziņojums. Modernās saziņas vietnes pēc noklusējuma nodrošina jaunāku alternatīvu.
 
 Klasiskajām vietnēm SharePoint klasisku līdzekļu kopu, kas ļauj autorēt un publicēt bagātīgas tīmekļa lapas savā iekštīklā. Lai SharePoint, vietņu kolekcijas līmenī aktivizējiet publicēšanas infrastruktūru.
 
