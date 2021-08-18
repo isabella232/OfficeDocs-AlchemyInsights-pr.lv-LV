@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ab88a72c265be411350e50756f5b2e1e3337c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090154"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322138"
 ---
 # <a name="endpoint-dlp-licensing-error"></a>Galapunkta DLP licencēšanas kļūda
 
@@ -26,7 +26,7 @@ Ja, mēģinot iestatīt galapunkta DLP, tiek parādīts šāds kļūdas ziņojum
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Pārliecinieties, vai jums ir viens no šiem abonementiem vai pievienojum pievienojumdēiem:
+Pārliecinieties, vai jums ir viens no šiem abonementiem vai pievienojum pievienojumsitēm:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
@@ -35,7 +35,6 @@ Pārliecinieties, vai jums ir viens no šiem abonementiem vai pievienojum pievie
 - Microsoft 365 E5 informācijas aizsardzība un pārvaldība
 - Microsoft 365 A5 informācijas aizsardzība un pārvaldība
 
-> [!NOTE]
-> Tas nedarbojas licenču kombinācijām, piemēram, Win E5 + O365 E5 + EMS E5. Lai varētu iestatīt šo līdzekli, ir nepieciešama tikai M365 E5 licence.
+**Piezīme.** Tas nedarbojas licenču kombinācijām, piemēram, Win E5 + O365 E5 + EMS E5. Lai varētu iestatīt šo līdzekli, ir nepieciešama tikai M365 E5 licence.
 
 Papildinformāciju par galapunkta DLP licencēšanu skatiet rakstā [Galapunkta DLP licencēšana.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

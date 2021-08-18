@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896722"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323293"
 ---
 # <a name="create-user"></a>Lietotāja izveide
 
@@ -29,7 +29,7 @@ ms.locfileid: "57896722"
 
 **Es nevaru izveidot jaunu lietotāju savā Azure AD direktorijā**
 
-1. Pārliecinieties, vai esat pilnvarots izveidot jaunu standarta lietotāju. Jaunu standarta lietotāju var izveidot tikai globālā administratora vai Azure Active Directory administratora loma Azure Active Directory (AD). Ja jums nav šīs lomas, lūdziet administratoram jūs pievienot kādai no šīm lomām vai izveidot jaunu lietotāja kontu jūsu vietā.
+1. Pārliecinieties, vai esat pilnvarots izveidot jaunu standarta lietotāju. Jaunu standarta lietotāju var izveidot tikai globālā administratora vai Azure Active Directory administratora loma programmā Azure Active Directory (AD). Ja jums nav šīs lomas, lūdziet administratoram jūs pievienot kādai no šīm lomām vai izveidot jaunu lietotāja kontu jūsu vietā.
 1. Pārliecinieties, vai lietotājvārds ir domēnā, kas ir verificēts jūsu Azure AD. Ja jūsu Azure AD nav neviena verificēta pielāgoto domēnu nosaukumu, varat izmantot savu Azure AD sākotnējo domēnu, kas beidzas ar *.onmicrosoft.com.
 1. Pārliecinieties, vai lietotājvārds ir domēnā, kas nav federēts uz Azure AD no jūsu lokālā AD. Lietotājus nevar pievienot mākonī ar domēnu nosaukumiem, kas ir federatīvi no lokāla domēna.
 1. Pārliecinieties, vai nevienam citam lietotājam vai kontaktpersonai nav lietotājvārda, ko vēlaties piešķirt jaunajam lietotājam. Lietotājvārdiem ir jābūt unikāliem visā Azure AD.

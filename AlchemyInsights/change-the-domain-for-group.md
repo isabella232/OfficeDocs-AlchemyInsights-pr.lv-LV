@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 grupas domēna maiņa
+title: Grupas domēna Microsoft 365 maiņa
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a4505b586f474568ea6ec71f23f3c7eab868fe05
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916998"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322302"
 ---
 # <a name="change-the-domain-for-a-microsoft-365-group"></a>Grupas domēna Microsoft 365 maiņa
 
-Ja grupas izveides laikā vēlaties Microsoft 365 grupas domēnu, izpildiet rakstā Domēna izvēle lietošanai grupu izveides laikā [minētās Microsoft 365 darbības.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
+Ja grupas izveides laikā vēlaties Microsoft 365 grupu domēnu, izpildiet rakstā Domēna izvēle, ko izmantot grupu Microsoft 365 [darbības.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
 Lai mainītu esošas Microsoft 365 grupas domēnu, kā administrators varat naviģēt uz Microsoft 365 administrēšana centru un pēc tam https://admin.microsoft.com veikt šādas darbības:
 
@@ -29,5 +29,4 @@ Lai mainītu esošas Microsoft 365 grupas domēnu, kā administrators varat navi
 - Meklējiet M365 grupu, kuru vēlaties modificēt, un izvēlieties  to, pēc tam noklikšķiniet uz **Rediģēt** sadaļā E-pasta adreses cilnē **Vispārīgi.**
 - Tagad varat mainīt primārās e-pasta adreses domēnu, kā arī pievienot e-pasta aizstājvārdu.
 
-> [!IMPORTANT]
-> Parastās adresātu grupas un pasta drošības grupas ļauj pārvaldīt mazāk iestatījumu M365 administrēšanas centra **sadaļā** Grupas. Ja vēlaties pārvaldīt papildu detalizēto informāciju, rediģējot **kādu no** Iestatījumi M365 administrēšanas centrā, noklikšķiniet uz cilnes Exchange pārvaldīt papildu **iestatījumus.**
+> **Svarīgi!** Parastās adresātu grupas un pasta drošības grupas ļauj pārvaldīt mazāk iestatījumu M365 administrēšanas centra **sadaļā** Grupas. Ja vēlaties pārvaldīt detalizētās informācijas par  šo lietotāju vairāk, M365 administrēšanas centrā rediģējot kādu no cilnēm Iestatījumi noklikšķiniet uz cilnes Pārvaldīt Exchange iestatījumus un **Exchange administrēšanas** centra opciju.

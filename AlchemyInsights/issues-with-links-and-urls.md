@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054805"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321914"
 ---
 # <a name="issues-with-links-and-urls"></a>Problēmas ar saitēm un vietrāžiem URL
 
@@ -42,15 +42,13 @@ Lai pievienotu atbildes vietrādi URL, Azure portāla **lietojumprogrammu reģis
     - platformas (iOS/Android/UWP)
     - informācijas, kas izmantota jūsu programmas izstrādei, piemēram, komplekta ID operētājsistēmā iOS, un pakotnes nosaukuma un paraksta jaukšanas operētājsistēmā Android. Jums palīdzēs Azure portāla programmu reģistrācija. Detalizētu informāciju skatiet rakstā [Platformas konfigurācija un novirzīšanas URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Tīmekļa API un dažiem nemanāmiem pilnvaru iegūšanas veidiem (IWA un lietotājvārds/parole) nav nepieciešams novirzīšanas URI.
+**Piezīme.** Tīmekļa API un dažiem klusajiem veidu, kā iegūt marķierus (IWA un lietotājvārdu/paroli), nav nepieciešams novirzīšanas URI.
 
 **Esmu izvietojis savu tīmekļa lietojumprogrammu, un, testējot izvietoto programmu, tiek parādīts atbildes vietrāža URL neatbilstības ziņojums**
 
 Pievienojiet novirzīšanas URI visām atrašanās vietām, kurās izvietojat savu tīmekļa lietojumprogrammu. Papildinformāciju skatiet rakstā [Tīmekļa programmas reģistrācija, izmantojot Azure portālu](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Pievienojiet novirzīšanas URI atrašanās vietai uzreiz pēc tam, kad esat izvietojis lietojumprogrammu šajā atrašanās vietā.
+**Piezīme.** Pievienojiet virzienmaiņas URI atrašanās vietai tūlīt pēc programmas izvietošanas šajā atrašanās vietā.
 
 **Nevaru reģistrēt pietiekami daudz atbilžu vietrāžu URL**
 

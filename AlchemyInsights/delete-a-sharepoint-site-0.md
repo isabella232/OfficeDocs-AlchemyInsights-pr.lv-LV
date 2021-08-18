@@ -1,5 +1,5 @@
 ---
-title: SharePoint vietnes dzēšana
+title: Vietnes SharePoint dzēšana
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118535"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365 grupai piederošo vietņu dzēšana
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Dzēst vietnes, kas pieder Microsoft 365 grupai
 
-Kad lietotāji no SharePoint Home izveido jaunu grupas vietni vai izveidojat jaunu grupas vietni no jaunā SharePoint administrēšanas centra, tiek automātiski izveidota atbilstoša Microsoft 365 grupa. Microsoft 365 grupu saistītās grupas vietnes tiek izveidotas arī tad, kad izveidojat Microsoft 365 grupu vai darba grupu pakalpojumā Microsoft Teams. Lai izdzēstu SharePoint vietni, kas pieder Microsoft 365 grupai, ir jādzēš Microsoft 365 grupa. 
+Kad lietotāji izveido jaunu grupas vietni no SharePoint mājas lietošanai vai izveidojat jaunu grupas vietni no jaunā SharePoint administrēšanas centra, automātiski tiek Microsoft 365 grupas. Microsoft 365 grupas vietnes, kas ir saistītas ar grupu, tiek izveidotas arī tad, Microsoft 365 grupu vai grupu no Microsoft Teams. Lai izdzēstu SharePoint vietni, kas pieder Microsoft 365 grupai, ir jāizdzēš Microsoft 365 grupa. 
   
-1. Dodieties uz [Microsoft 365 administrēšanas centra lapu grupas](https://portal.office.com/adminportal/home#/groups).
+1. Dodieties [uz grupas lapu Microsoft 365 administrēšanas centrs.](https://portal.office.com/adminportal/home#/groups)
     
 2. Atzīmējiet izvēles rūtiņu blakus grupai.
     
 3. Atlasiet **Dzēst**.
     
-Piezīme. Dzēšot grupu, var būt aizkave, pirms vietne tiek noņemta no SharePoint.
+PIEZĪME. Dzēšot grupu, var būt aizkave, pirms vietne tiek noņemta SharePoint.
   
 **Dzēst saziņas vietnes vai klasiskas vietnes:**
 
 1. Dodieties uz vietni.
   
-2. Augšējā labajā stūrī noklikšķiniet uz ikonas **Iestatījumi** . 
+2. Noklikšķiniet **Iestatījumi** ikonu augšējā labajā stūrī. 
   
-3. Noklikšķiniet uz **vietnes iestatījumi**. Sadaļā **vietnes informācija** vai **vietnes darbības**noklikšķiniet uz **Dzēst šo vietni**un pēc tam noklikšķiniet uz **Dzēst**.
+3. Noklikšķiniet **uz Vietnes iestatījumi**. Sadaļā **Vietnes informācija** vai Vietnes **darbības** noklikšķiniet uz Dzēst šo **vietni un** pēc tam noklikšķiniet uz **Dzēst.**
   
-**SharePoint vietņu kolekcijas dzēšana**
+**Dzēst SharePoint kolekciju:**
 
 Lai izdzēstu vietni:
   
-1. Jaunajā SharePoint administrēšanas centrā lapā vietnes noklikšķiniet uz **izvēles rūtiņas** blakus vietnei, kuru vēlaties dzēst. 
+1. Jaunajā administrēšanas SharePoint lapā Vietnes noklikšķiniet uz izvēles  rūtiņas blakus vietnei, kuru vēlaties izdzēst. 
     
 2. Lentes rīkjoslā noklikšķiniet uz **Dzēst.**
     
-**Nejauši izdzēsāt vietni?**
+**Vai nejauši izdzēsāt vietni?**
 
-Skatiet sadaļu [izdzēstas vietņu kolekcijas atjaunošana](https://go.microsoft.com/fwlink/?linkid=867660).
+Skatiet [rakstu Izdzēstas vietņu kolekcijas atjaunošana.](https://go.microsoft.com/fwlink/?linkid=867660)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Žurnālu pārvaldīšana
+title: Journaling pārvaldība
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119291"
 ---
-# <a name="manage-journaling"></a>Žurnālu pārvaldīšana
+# <a name="manage-journaling"></a>Journaling pārvaldība
 
-Journaling var palīdzēt organizācijai atsaukties uz juridiskajām, regulatīvajām un organizācijas prasībām, ierakstot ienākošo un izejošo e-pasta saziņu. Atcerieties:
+Journaling var palīdzēt jūsu organizācijai reaģēt uz juridiskām, normatīvajām un organizācijas atbilstības prasībām, reģistrējot ienākošā un izejošā e-pasta saziņu. Ņemiet vērā:
 
-* Lai varētu pārvaldīt journaling, ir nepieciešamas [organizācijas pārvaldības](https://go.microsoft.com/fwlink/?linkid=2115259) un [ierakstu pārvaldības](https://go.microsoft.com/fwlink/?linkid=2115469) atļaujas.
-* Jums ir jābūt instalētai žurnāla pastkastei un (pēc izvēles) konfigurētai alternatīvai žurnāla pastkastei. Papildinformāciju skatiet rakstā [žurnāla konfigurēšana pakalpojumā Exchange Online](https://go.microsoft.com/fwlink/?linkid=2115260).
-* Pakalpojumā Exchange Online ir ierobežots to žurnāla kārtulu skaits, kuras varat izveidot. Detalizētu informāciju skatiet rakstā [žurnālu, transporta un iesūtnes kārtulu ierobežojumi](https://go.microsoft.com/fwlink/?linkid=2115261).
-* Exchange Online neatbalsta žurnāla atskaišu piegādi Exchange Online pastkastei. Ir jānorāda lokālās arhivēšanas sistēmas vai trešo pušu arhivēšanas pakalpojuma e-pasta adrese kā journaling pastkaste.
+* Lai varētu pārvaldīt [journalēšanu,](https://go.microsoft.com/fwlink/?linkid=2115259) [jums ir](https://go.microsoft.com/fwlink/?linkid=2115469) jābūt organizācijas pārvaldības un ierakstu pārvaldības atļaujām.
+* Ir nepieciešama dienasgrāmatas pastkaste un (ja vēlaties) alternatīva journaling pastkaste. Papildinformāciju skatiet rakstā [Journaling konfigurēšana programmā Exchange Online.](https://go.microsoft.com/fwlink/?linkid=2115260)
+* Dialoglodziņā Exchange Online ir izveidojamā žurnāla kārtulu skaita ierobežojums. Detalizētu informāciju skatiet sadaļā [Dienasgrāmatas, transporta un iesūtnes kārtulu ierobežojumi.](https://go.microsoft.com/fwlink/?linkid=2115261)
+* Exchange Online neatbalsta dienasgrāmatas atskaišu gādāšanu uz Exchange Online pastkasti. Kā journaling pastkasti ir jānorāda lokālās arhivēšanas sistēmas vai trešās puses arhivēšanas pakalpojuma e-pasta adrese.

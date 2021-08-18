@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893858"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323011"
 ---
 # <a name="license-or-account-disabled"></a>Atspējota licence vai konts
 
@@ -29,8 +29,7 @@ Ja jūsu abonementa derīgums beidzas vai korporācija Microsoft ir atspējojusi
 
 1. Administrēšanas centrā dodieties uz lapu  >  [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
 2. Cilnē **Produkti** atrodiet abonementu, ko vēlaties atkārtoti aktivizēt. Atlasiet daudzpunkti (vairāk darbību) un pēc tam atlasiet **Atkārtoti aktivizēt šo abonementu.**
-    > [!NOTE]
-    > Ja neredzat sadaļu Atkārtoti **aktivizēt šo abonementu, sazinieties** ar atbalsta dienestu.
+    **Piezīme.** Ja neredzat sadaļu Atkārtoti **aktivizēt šo abonementu, sazinieties** ar atbalsta dienestu.
 3. Rūtī **Atkārtoti aktivizēt šo** abonementu atlasiet maksāšanas metodi nolaižamajā sarakstā vai atlasiet Pievienot **maksāšanas metodi**.
 4. Atlasiet **Saglabāt**.
 

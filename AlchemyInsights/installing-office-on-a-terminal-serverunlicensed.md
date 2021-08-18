@@ -11,25 +11,24 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055165"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322006"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Lietojumprogrammu Office termināļa serverī
+# <a name="installing-office-on-a-terminal-server"></a>Instalē Office termināļa serverī
 
-Servera izvietošanai Microsoft 365 programmas lieluzņēmumiem Windows serverī, izmantojot attālās darbvirsmas pakalpojumus (Remote Desktop Services — RDS), iepriekš nosaukti par Terminal Services:
+Servera izvietošanai Microsoft 365 programmas lieluzņēmumiem serverī, Windows attālās darbvirsmas pakalpojumi (Remote Desktop Services — RDS), iepriekš nosaukti par Termināļa pakalpojumiem:
   
-- Jūsu abonementam ir jābūt Microsoft 365, kurā ietilpst Microsoft 365 programmas lieluzņēmumiem, piemēram, Office 365 Enterprise E3 vai Enterprise E5. Tālāk Microsoft 365 programmas darbam un Microsoft 365 programmas darbam Premium plānos nav iekļauti Microsoft 365 programmas lieluzņēmumiem.
+- Jūsu rīcībā jābūt Microsoft 365 abonementam, kurā ietilpst Microsoft 365 programmas lieluzņēmumiem, piemēram, Office 365 Enterprise E3 vai Enterprise E5. Microsoft 365 programmas darbam un Microsoft 365 programmas darbam Premium plānos nav iekļauti Microsoft 365 programmas lieluzņēmumiem.
 
 - Jums ir jāiespējo koplietojamā [datora aktivizācija.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
-Ja vēlaties instalēt ierīces Microsoft 365 programmas lieluzņēmumiem RDS no ierīces Microsoft 365 administrēšanas centrs, kas izmanto noklusējuma instalēšanas ***iestatījumus***, veiciet tālāk norādītās darbības.
+Ja vēlaties instalēt ierīces Microsoft 365 programmas lieluzņēmumiem RDS no ierīces Microsoft 365 administrēšanas centrs, kas izmanto noklusējuma instalācijas ***iestatījumus,*** veiciet tālāk norādītās darbības.
 
-> [!TIP]
-> Varat arī lejupielādēt un palaist [Microsoft atbalsta un atkopšanas palīgs,](https://aka.ms/SaRA_OfficeSCA_M365Portal) lai instalētu Microsoft 365 programmas lieluzņēmumiem koplietojamā datora aktivizācijas režīmā.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Pārbaudiet, Microsoft 365 savu abonementu. [Uzziniet, kā](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -49,9 +48,9 @@ Ja vēlaties instalēt ierīces Microsoft 365 programmas lieluzņēmumiem RDS no
 
 3. Reģistra redaktorā pievienojiet virknes **vērtību SharedComputerlicensing** ar iestatījumu 1 sadaļā HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. RDS serverī pierakstieties kā ***lietotājs*** un pārliecinieties, vai koplietojama datora aktivizēšana [ir iespējota lietošanai Microsoft 365 programmas lieluzņēmumiem.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
+7. RDS serverī pierakstieties kā ***lietotājs*** un pārliecinieties, vai koplietojama datora aktivizēšana [ir iespējota Microsoft 365 programmas lieluzņēmumiem.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 
-Papildinformāciju par priekšnosacījumiem, iestatīšanas norādījumus un norādījumus par pielāgotām instalācijām, izmantojot Office izvietošanas rīku, skatiet rakstā [Microsoft 365 programmas lieluzņēmumiem izvietošana, izmantojot attālās darbvirsmas pakalpojumus.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
+Papildinformāciju par priekšnosacījumiem, iestatīšanas norādījumus un norādījumus par pielāgotām instalācijām, izmantojot Office izvietošanas rīku, skatiet rakstā Microsoft 365 programmas lieluzņēmumiem izvietošana, [izmantojot attālās darbvirsmas pakalpojumus.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
   
 Lai novērstu ar koplietojama datora aktivizēšanu saistītas kļūdas, lūdzu, skatiet rakstu Problēmu novēršana saistībā ar [koplietojama datora aktivizēšanu Microsoft 365 programmas lieluzņēmumiem](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   

@@ -1,5 +1,5 @@
 ---
-title: Padomi atslēgvārdu vaicājumu un meklēšanas nosacījumu izveidei
+title: Padomi vaicājumu un meklēšanas nosacījumu veidošanas vaicājumi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 8d653e97e1a95ac14e49bfe6e03af0b65da5a4c7
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 59c7a2d9d6484bbaa1103fb13a3aa4fbd5e2ab745208e9474362029cf6406234
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119111"
 ---
-# <a name="tips-for-building-keyword-queries-and-search-conditions"></a>Padomi atslēgvārdu vaicājumu un meklēšanas nosacījumu izveidei
+# <a name="tips-for-building-keyword-queries-and-search-conditions"></a>Padomi vaicājumu un meklēšanas nosacījumu veidošanas vaicājumi
 
-Tālāk ir sniegti daži padomi par meklēšanas vaicājuma izveidi un precīzāku rezultātu saņemšanu.
+Tālāk ir sniegti daži padomi, kā veidot meklēšanas vaicājumu un iegūt precīzākus rezultātus.
 
-1. Izmantojiet [atslēgvārdu vaicājuma valodu (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) vaicājuma sintaksei.
-1. Izmantojiet [Būla operatorus](https://go.microsoft.com/fwlink/?linkid=2101592) , piemēram, and, or un not.
-1. Izmantojiet [meklēšanas nosacījumus](https://go.microsoft.com/fwlink/?linkid=2102410) , piemēram, datumu, sūtītāju/autoru, un tēmas, lai palīdzētu sašaurināt meklēšanas rezultātus.
-1. Varat meklēt e-pasta ziņojuma rekvizītus, piemēram, **diskrēto kopiju** un **CC**. Varat arī meklēt SharePoint un OneDrive for Business rekvizītus
+1. Vaicājuma sintaksei izmantojiet atslēgvārdu vaicājuma valodu [(KQL).](https://go.microsoft.com/fwlink/?linkid=2101591)
+1. Izmantojiet [Būla operatorus,](https://go.microsoft.com/fwlink/?linkid=2101592) piemēram, AND, OR, NOT.
+1. Izmantojiet [meklēšanas nosacījumus,](https://go.microsoft.com/fwlink/?linkid=2102410) piemēram, Datums, Sūtītājs/autors un Tēma, lai sašaurinātu meklēšanu.
+1. Varat meklēt e-pasta ziņojumu rekvizītus, piemēram, **diskrēto kopiju** un **kopijas.** Varat arī meklēt SharePoint OneDrive darbam rekvizītus
 
-Lai uzzinātu vairāk, skatiet rakstu [atslēgvārdu vaicājumi un meklēšanas nosacījumi satura meklēšanai](https://go.microsoft.com/fwlink/?linkid=2102411).
+Papildinformāciju skatiet rakstā [Atslēgvārdu vaicājumi un meklēšanas nosacījumi satura meklēšanai.](https://go.microsoft.com/fwlink/?linkid=2102411)

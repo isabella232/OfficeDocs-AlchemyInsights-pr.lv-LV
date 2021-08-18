@@ -1,5 +1,5 @@
 ---
-title: Izvairīšanās no vairākiem paraksta pievienošanu e-pasta sarunā
+title: Izvairīšanās no vairāku parakstu pievienošanas e-pasta sarunā
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119327"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Izvairīšanās no vairākiem paraksta pievienošanu e-pasta sarunā
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Izvairīšanās no vairāku parakstu pievienošanas e-pasta sarunā
 
-Lai saņemtu atrunu vai parakstu, kas pievienots tikai vienreiz katram e-pasta pavedienam, ir jāmaina iestatījums Exchange administrēšanas centrā.
+Lai e-pasta pavedienam atruna vai paraksts būtu pievienots tikai vienu reizi, jums būs jāmaina iestatījums Exchange administrēšanas centrā.
 
-1. Dodieties uz [Exchange administrēšanas centru.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Izvēlieties **Papildu opcijas** , lai pievienotu izņēmumu, kas jūsu atrunā meklē unikālu tekstu. Tas nodrošina, ka atruna tiek pievienota tikai sākotnējam ziņojumam.
+1. Dodieties uz [Exchange centru.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. Izvēlieties **Papildu opcijas,** lai pievienotu izņēmumu, kas meklē unikālu tekstu jūsu atrunā. Tas nodrošina, ka atruna tiek pievienota tikai sākotnējam ziņojumam.
 

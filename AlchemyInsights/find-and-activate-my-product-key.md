@@ -15,22 +15,20 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322072"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
 Ja iegādājāties Microsoft 365 darbam, izmantojot [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), lūk, kā atrast un aktivizēt savu produkta atslēgu.
 
-1. Kad esat iegādājies atslēgu no Microsoft 365 partnera, iesūtnē rakstiet e-pasta ziņojumu no Microsoft, kurā iekļauta aktivizācijas saite.
+1. Kad esat iegādājies atslēgu no Microsoft 365 partnera, iesūtnē sūtiet e-pasta ziņojumu no Microsoft, kurā ir aktivizācijas saite.
 
-    > [!NOTE]
-    > E-pasta ziņojums tiek nosūtīts personai, kas lielapjoma licencēšanas līgumā norādīta kā tiešsaistes administrators. Ja nezināt, kurai persona ir norādīta kā tiešsaistes administrators, sazinieties ar savu Microsoft 365 partneri.
+    **Piezīme.** E-pasta ziņojums tiek nosūtīts personai, kas lielapjoma licencēšanas līgumā norādīta kā tiešsaistes administrators. Ja nezināt, kurai persona ir norādīta kā tiešsaistes administrators, sazinieties ar savu Microsoft 365 partneri.
 1. Izmantojiet e-pasta ziņojumā norādīto saiti, lai pierakstītos ar savu darba vai mācību kontu, piekrītiet atvērtās licences līgumam un atjaunojiet abonementu. Lai iegūtu detklusu ceļvedi, lejupielādējiet ceļvedi PDF formātā, [Tiešsaistes pakalpojumu aktivizēšana: Microsoft 365 abonements](https://go.microsoft.com/fwlink/p/?LinkId=618100).
 
-    > [!NOTE]
-    > Lielapjoma licencēšanas klienti var arī aktivizēt abonementus [lielapjoma licencēšana pakalpojumu centrā.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Lai uzzinātu, kā to darīt, lejupielādējiet ceļvedi PDF formātā, [Active Online Services lielapjoma licencēšanas pakalpojumu centrā.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    **Piezīme.** Lielapjoma licencēšanas klienti var arī aktivizēt abonementus [lielapjoma licencēšana pakalpojumu centrā.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Lai uzzinātu, kā to darīt, lejupielādējiet ceļvedi PDF formātā, [Active Online Services lielapjoma licencēšanas pakalpojumu centrā.](https://go.microsoft.com/fwlink/p/?LinkId=618096)

@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882574"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322220"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Saišu Seifs iestatīšana programmatūrā Microsoft Defender Office 365
 
-1. Vietnes Microsoft 365 Defender dodieties uz E-pasts & sadarbības politikas & Kārtulas Apdraudējumu politikas <https://security.microsoft.com/>  \>  \>  \> **Seifs saites** **sadaļā** Politikas.
+1. Vietnes Microsoft 365 Defender dodieties uz E-& un sadarbības politikas <https://security.microsoft.com/> **&** \> **Kārtulu** apdraudējumu \>  \> **politikas Seifs saites** **sadaļā** Politikas.
 
    Lai pārietu tieši uz **lapu Seifs saites,** izmantojiet <https://security.microsoft.com/safelinksv2> .
 
 2. Lapā **Seifs saites** veiciet kādu no šīm darbībām:
    - Lai pievienotu jaunu politiku, atlasiet **+ Izveidot**. Tiks palaists vednis, kas palīdzēs definēt politikas iestatījumus.
    - Lai rediģētu esošu politiku, atlasiet politiku, noklikšķinot uz politikas nosaukuma. Parādītā detalizētas informācijas **izlidošanas** logā sadaļā, kurā ir iestatījumi, kurus vēlaties konfigurēt, atlasiet Rediģēt.
-   - Lai bloķētu vietrāžus URL no Seifs Seifs Saišu aizsardzība vai konfigurētu saišu iestatījumus atbalstītās Office 365 programmās, noklikšķiniet uz Globālie **iestatījumi,** konfigurējiet iestatījumus un pēc tam noklikšķiniet uz **Saglabāt.**
+   - Lai bloķētu vietrāžus URL no Seifs Saišu aizsardzība vai konfigurētu Seifs saišu iestatījumus atbalstītās Office 365 programmās, noklikšķiniet uz Globālie **iestatījumi,** konfigurējiet iestatījumus un pēc tam noklikšķiniet uz **Saglabāt.**
 
 3. Kad esat pārskatījis savus iestatījumus, atlasiet **Iesniegt** (jauns) vai **Saglabāt** (rediģēt).
 
