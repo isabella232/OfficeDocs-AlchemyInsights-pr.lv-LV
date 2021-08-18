@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection iestatīšana
+title: Iestatīšanas Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085883"
 ---
-# <a name="set-up-exchange-online-protection"></a>Exchange Online Protection iestatīšana
+# <a name="set-up-exchange-online-protection"></a>Iestatīšanas Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) ir mākoņa e-pasta filtrēšanas pakalpojums aizsardzībai pret surogātpastu un ļaunprogrammatūru, ar līdzekļiem, kas aizsargā jūsu organizāciju no ziņojumapmaiņas politikas pārkāpumiem.
+Microsoft Exchange Online Aizsardzība (EOP) ir mākonī bāzēts e-pasta filtrēšanas pakalpojums aizsardzībai pret surogātpastu un ļaunprogrammatūru, ar līdzekļiem, kas aizsargā jūsu organizāciju pret ziņojumapmaiņas politikas pārkāpumiem.
 
-Izmantojiet [Exchange Online Protection setup rokasgrāmatu](https://go.microsoft.com/fwlink/?linkid=2071067) , lai iestatītu EOP, atlasot trīs izvietošanas scenārijus — lokālās pastkastes, hibrīds (lokālās un mākoņa) pastkastu un visu mākoņa pastkastu apvienojums, kas atbilst jūsu organizācijai. Ceļvedis sniedz informāciju un resursus, lai iestatītu EOP un pārskatītu lietotāja licencēšanu, piešķirtu atļaujas Microsoft 365 administrēšanas centrā, un konfigurētu savas organizācijas ļaunprogrammatūras novēršanas un surogātpasta politikas drošības & atbilstības centrā.
+Izmantojiet [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) iestatīšanas rokasgrāmatu, lai iestatītu EOP, atlasot kādu no trim izvietošanas scenārijiem — lokālām pastkastēm, hibrīdām (lokālo un mākoņa) pastkastēm vai visām mākoņa pastkastēm —, kas ir piemērotas jūsu organizācijai. Šajā rokasgrāmatā ir sniegta informācija un resursi, lai iestatītu EOP un pārskatītu jūsu lietotāja licencēšanu, piešķirtu atļaujas Microsoft 365 administrēšanas centrs un konfigurētu organizācijas ļaunprogrammatūras un surogātpasta politikas drošības & atbilstības centrā.

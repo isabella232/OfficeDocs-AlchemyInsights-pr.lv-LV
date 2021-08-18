@@ -1,5 +1,5 @@
 ---
-title: Nosūtīt pielāgotus paziņojumus ar Intune
+title: Pielāgotu paziņojumu sūtīšana, izmantojot Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086171"
 ---
 # <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kā nosūtīt pielāgotus paziņojumus pārvaldīto iOS un Android ierīču lietotājiem
 
-Pielāgotus paziņojumus for Intune apstrādā uzņēmuma portāla programma lietotāja ierīcē. Programma pēc tam šajā ierīcē izveido pašpiegādes paziņojumu.
+Pielāgoti paziņojumi par Intune tiek Company Portal lietotāja ierīcē lietojumprogrammā. Pēc tam programma izveido pašpiegādes paziņojumu šajā ierīcē.
 
-Tālāk ir norādīti ierīču priekšnosacījumi, lai nodrošinātu pielāgotu paziņojumu saņemšanu, un programma, lai izveidotu pašpiegādes paziņojumu:
+Priekšnosacījumi ir ierīcei, lai atbalstītu pielāgotu paziņojumu saņemšanu, un lai programma pēc tam izveidotu pašpiegādes paziņojumu:
 
-- Ierīcē jābūt instalētai uzņēmuma portāla lietojumprogrammai.  
+- Ierīcē jābūt instalētai Company Portal programmai.  
 
-- Ierīcei ir jāatļauj uzņēmuma portāla programma, lai nosūtītu pašpiegādes paziņojumus. Kad programma ir instalēta vai atjaunināta, lietotājam tiek lūgts atļaut paziņojumus.
+- Ierīcei ļautu pašpiegādes Company Portal nosūtīt pašpiegādes paziņojumus. Kad lietojumprogramma tiks instalēta vai atjaunināta, lietotājam tiks lūgts saņemt paziņojumus par atļaujām.
 
-- Android ierīcēs ir jāinstalē Google Play pakalpojumi.
+- Android ierīcēs jābūt instalētiem Google Play pakalpojumiem.
 
-- Ierīcei jābūt reģistrētai ar Intune.
+- Ierīce ir jāreģistrē Intune.
 
-Papildinformāciju, tostarp, kā nosūtīt ziņojumu, skatiet sadaļā [līdzekļu dokumentācija](https://docs.microsoft.com/intune/custom-notifications).
+Papildinformāciju, tostarp par ziņojuma sūtšanu, skatiet [līdzekļu dokumentācijā.](https://docs.microsoft.com/intune/custom-notifications)

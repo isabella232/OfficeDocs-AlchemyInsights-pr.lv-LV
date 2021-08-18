@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111911"
 ---
 # <a name="email-subscriptions"></a>E-pasta abonementi
 
-Kāpēc manu abonementu sarakstos tiek rādīti e-pasta ziņojumi?
+Kāpēc es redzu e-pasta ziņojumus manu abonementu sarakstos?
 
-Outlook.com ir noteikusi, ka e-pasta ziņojumā ir iekļauta informācija par abonementu, tostarp ziņojuma atmaksa. Outlook.com nav automātiski abonējis jaunumus.
+Outlook.com konstatēja, ka e-pasta ziņojumā ir informācija par abonementu, tostarp "Anulēt abonementu" ziņojumā. Outlook.com nav automātiski abonējis nevienu biļetenu.
 
-Ja vēlaties pārtraukt biļetenu vai reklāmas ziņu saņemšanu, ir divi veidi, kā varat anulēt abonementu, izmantojot Outlook.com:
+Ja vēlaties pārtraukt saņemt biļetenus vai reklāmas, pastāv divi veidi, kā varat anulēt abonementu, izmantojot Outlook.com:
 1. Iesūtnē atlasiet biļetenu vai reklāmas e-pasta ziņojumu. Lasīšanas rūts augšdaļā atlasiet **Anulēt abonementu**.
-2. Atveriet savus [Outlook.com abonementu](https://go.microsoft.com/fwlink/?linkid=2110887) iestatījumus un atlasiet **Anulēt abonementu**.
+2. Atveriet sava [Outlook.com abonementu iestatījumus](https://go.microsoft.com/fwlink/?linkid=2110887) un atlasiet **Anulēt abonementu**.
 
-Piezīmes: šo līdzekli redzēsit tikai tad, ja esat saņēmis e-pasta ziņojumu no uzņēmuma, kas sūta abonētos e-pasta ziņojumus.
-Ja jūsu vaicājumā ir Microsoft 365 maksas abonementi, dodieties uz [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   vai [Uzziniet vairāk par Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Piezīmes: šis līdzeklis ir redzams tikai tad, ja esat saņēmis e-pasta ziņojumu no uzņēmuma, kas sūta abonētos e-pasta ziņojumus.
+Ja jūsu vaicājums ir par Microsoft 365 abonementiem, dodieties uz [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) sadaļu vai [Uzziniet vairāk par Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

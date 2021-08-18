@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937720"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315375"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft lielapjoma licences abonementa aktivizēšana
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937720"
 4. Aktivizācijas e-pasta ziņojumā jums tiek nodrošinātas **divas opcijas: Reģistrēties** vai **Pierakstīties**. Ja iepriekš esat izveidojis izmēģinājumversiju, izvēlieties **Pierakstīties**. Ja jums vēl nav Microsoft 365 nomnieku, izvēlieties **Reģistrēties**.
 5. Pierakstieties lapā (. Microsoft 365 administrēšanas centrs ), izmantojot [https://admin.microsoft.com](https://admin.microsoft.com) esošos administratora akreditācijas datus. Pēc sekmīgas pierakstīšanās saņemsit citu e-pasta ziņojumu, kas apstiprina pirkumu.
 6. Kad esat pierakstījies, dodieties  uz lapu Norēķini jūsu produkti, lai pārbaudītu, \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) vai jūsu iegādātie abonementi tagad ir aktīvi. 
-    > [!NOTE]
-    > Varat arī izvēlēties VLSC **cilni Abonements,** lai skatītu detalizētu informāciju un pārbaudītu, vai abonements ir aktivizēts.)
+
+    **Piezīme.** Varat arī izvēlēties VLSC cilni **Abonements,** lai skatītu detalizētu informāciju un pārbaudītu, vai abonements ir aktivizēts.)
