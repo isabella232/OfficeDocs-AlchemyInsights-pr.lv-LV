@@ -1,5 +1,5 @@
 ---
-title: Windows 10 abonementa aktivizēšana
+title: Kā aktivizēt Windows 10 abonementu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: 8efc365cbbbe36f036899d1fcb28ce917c7053f6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5718008132a47db113411856de4c4b75d7ac2ed97e5a06c796c5be06c535b932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116159"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Windows 10 abonementu aktivizēšana
 
-Microsoft 365 Business Premium, Office 365 Education, Microsoft 365 un Enterprise nodrošina digitālās licences operētājsistēmai Windows 10 kā daļu no abonementa. Lai aktivizētu abonementu, ierīcē jābūt aktivizētai Windows 10 Pro (1703 vai jaunākai versijai). Lai skatītu pilnu sarakstu ar Windows 10 abonementa aktivizēšanas prasībām, skatiet rakstu [Windows 10 abonementa aktivizēšanas prasības.](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)
+Microsoft 365 Business Premium, Office 365 Education, Microsoft 365 un Enterprise nodrošina digitālās licences Windows 10 kā daļu no abonementa. Lai aktivizētu abonementu, ierīcē jābūt aktivizētai Windows 10 Pro (1703 vai jaunākai versijai). Lai skatītu pilnu sarakstu ar prasībām abonementa aktivizēšanai, skatiet rakstu Windows 10 Windows 10 [Aktivizēšanas prasības.](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)

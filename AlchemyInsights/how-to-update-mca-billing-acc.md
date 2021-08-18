@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001515"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320037"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Ar jūsu MCA saistītās preču un rēķina adreses atjaunināšana — ieteicamās darbības
 
 Varat atjaunināt pircēja un rēķina adresi, kas saistīta ar jūsu Microsoft klienta līgumu (MCA). 
 
-> [!NOTE]
-> Tikai lietotāja administrators var veikt izmaiņas lietotāja Azure Active Directory informācijā. Ja jums nav piešķirta lietotāja administratora loma, sazinieties ar lietotāja administratoru. Papildinformāciju par lietotāja profila maiņu skatiet rakstā Lietotāja profila informācijas pievienošana vai [atjaunināšana, izmantojot Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Piezīme.** Tikai lietotāja administrators var veikt izmaiņas lietotāja Azure Active Directory informācijā. Ja jums nav piešķirta lietotāja administratora loma, sazinieties ar lietotāja administratoru. Papildinformāciju par lietotāja profila maiņu skatiet rakstā Lietotāja profila informācijas pievienošana vai [atjaunināšana, izmantojot Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
-**Piegādes adrese —** adresāta adrese ir organizācijas vai personas, kura ir atbildīga par norēķinu kontu, adrese un kontaktinformācija. Tas tiek parādīts visos rēķinos, kas ģenerēti par norēķinu kontu.
+**Pārdošanas adrese —** adresāta adrese ir organizācijas vai personas, kura ir atbildīga par norēķinu kontu, adrese un kontaktinformācija. Tas tiek parādīts visos rēķinos, kas ģenerēti par norēķinu kontu.
 
-**Norēķinu adrese —** norēķinu adrese ir organizācijas vai tās personas adrese un kontaktinformācija, kas ir atbildīga par norēķinu kontam ģenerētajiem rēķiniem. McA norēķinu kontam ir norādīta rēķina adrese katram norēķinu profilam, un tā tiek parādīta rēķinā, kas ģenerēts norēķinu profilam.
+**Rēķina adrese —** norēķinu adrese ir organizācijas vai tās personas adrese un kontaktinformācija, kura ir atbildīga par rēķinu apmaksāšanu no norēķinu konta. McA norēķinu kontam ir norādīta rēķina adrese katram norēķinu profilam, un tā tiek parādīta rēķinā, kas ģenerēts norēķinu profilam.
 
 **Lai atjauninātu MCA norēķinu kontu, kas pārdots uz adresi:**
 
@@ -38,11 +37,11 @@ Varat atjaunināt pircēja un rēķina adresi, kas saistīta ar jūsu Microsoft 
 1. Noklikšķiniet **uz Rekvizītu**  >  **atjauninājums iepērkams .**
 1. Ievadiet jauno adresi un noklikšķiniet uz **Saglabāt.**
 
-Lai varētu atjaunināt savu pārdošanas adresi, dažiem kontiem ir nepieciešama papildu pārbaude. Ja jūsu kontam ir nepieciešama manuāla apstiprināšana, jums lūgs sazināties ar Azure atbalsta dienestu.
+Lai varētu atjaunināt savu pārdošanas adresi, dažiem kontiem ir nepieciešama papildu pārbaude. Ja jūsu kontam nepieciešama manuāla apstiprināšana, jums lūgs sazināties ar Azure atbalsta dienestu.
 
 **Lai atjauninātu MCA norēķinu konta adresi:** 
 
-1. Pierakstieties Azure portālā, izmantojot e-pasta adresi, kurai norēķinu kontā ir īpašnieka vai līdzstrādnieka loma, vai mcA norēķinu profilu.
+1. Pierakstieties Azure portālā, izmantojot e-pasta adresi, kurai norēķinu kontā ir īpašnieka vai līdzstrādnieka loma vai MCA norēķinu profils.
 1. Meklējiet **izmaksu pārvaldības**  +  **norēķinus.**
 1. Noklikšķiniet **uz Norēķinu** profili un atlasiet norēķinu profilu, lai atjauninātu norēķinu adresi.
 1. Noklikšķiniet **uz Rekvizītu**  >  **atjaunināšanas adrese**.

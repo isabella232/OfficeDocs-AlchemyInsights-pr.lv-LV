@@ -1,5 +1,5 @@
 ---
-title: Palīdzība par Apple DEP
+title: Palīdzība saistībā ar Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116339"
 ---
-# <a name="help-with-apple-dep"></a>Palīdzība par Apple DEP
+# <a name="help-with-apple-dep"></a>Palīdzība saistībā ar Apple DEP
 
-Ja DEP ierīce nevar reģistrēties un MFA (daudzfaktoru autentifikācija) ir iespējota, lūdzu, atspējojiet MFA. Pašlaik MFA netiek atbalstīta attiecībā uz DEP pieteikšanos.
+Ja DEP ierīce nevar reģistrēt un MFA (Multi-Factor Authentication — daudzfaktors) ir iespējota, lūdzu, atspējojiet MFA. MFA pašlaik netiek atbalstīta DEP reģistrācijai.
 
-[Darba sākšana ar Intune un Apple ierīču reģistrācijas programmu (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Darba sākšana ar Intune un Apple ierīču reģistrēšanas programmu (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Biežāk sastopamās iOS reģistrācijas kļūdas un risinājumi](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Bieži sastopamās iOS reģistrācijas kļūdas un risinājumi](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Datu dublēšana un atjaunošana reģistrētajām iOS/iPadOS ierīcēm](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Dublēšanas un atjaunošanas scenāriji reģistrētiem iOS/iPadOS ierīcēm](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Vispārīga reģistrēšanas problēmu novēršana](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Vispārīga reģistrācijas problēmu novēršana](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Intune problēmu novēršanas portāla izmantošana, lai diagnosticētu un novērstu Biežākās reģistrācijas kļūmes](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Intune problēmu novēršanas portāla izmantošana, lai diagnosticētu un novērstu bieži sastopamās reģistrācijas kļūmes](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893530"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319635"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Bieži sastopamās atbilstības problēmas un risinājumi
 
@@ -37,8 +37,8 @@ Tālāk ir norādīti biežāk uzdotie jautājumi par atbilstību:
  
 - Sensitivitātes etiķetes: Lai uzzinātu vairāk, skatiet [rakstu Sensitivitātes etiķešu un to politiku izveide un konfigurēšana.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
-- Brīdinājumu politiku skatīšana: [skatiet rakstu Brīdinājumu politikas Microsoft 365 atbilstības centrs.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
+- Brīdinājuma politiku skatīšana: skatiet [rakstu Brīdinājumu politikas Microsoft 365 atbilstības centrs.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-- Complicance center permisions: Skatiet [Permissions in the Microsoft 365 atbilstības centrs](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Complicance center permisions: Skatiet [Permissions in Microsoft 365 atbilstības centrs](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Piezīme**: Lai saņemtu precīzāku atbildi uz jautājumiem par atbilstību, pārfrāzējiet savu jautājumu un norādiet kļūdas, kura redzat, vai izmantotos līdzekļus.
