@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895634"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331466"
 ---
 # <a name="cancel-visio-subscription"></a>Abonementa Visio atcelšana
 
-Administratori var atcelt Visio abonementa darbību savā organizācijā Microsoft 365 administrēšanas centrs.
+Administratori var atcelt Visio organizācijas abonementa abonementu Microsoft 365 administrēšanas centrs.
 
 1. Dodieties uz **lapu** \> [Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054) produkti.
-2. Cilnē **Produkti** atrodiet abonementa Visio, kuru vēlaties atcelt. Atlasiet daudzpunkti (vairāk darbību), pēc tam atlasiet **Atcelt abonementu**.
+2. Cilnē **Produkti** atrodiet atcelšanas Visio abonementu. Atlasiet daudzpunkti (vairāk darbību), pēc tam atlasiet **Atcelt abonementu**.
 3. Rūtī **Abonementa** atcelšana izvēlieties atcelšanas iemeslu. Ja vēlaties, sniedziet atsauksmes.
 4. Atlasiet **Saglabāt**.
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332442"
 ---
 # <a name="change-a-users-email-address"></a>Lietotāja e-pasta adreses maiņa
 
@@ -31,7 +31,7 @@ Lietotāja e-pasta adreses maiņa ir vienkārša! Vienkārši veiciet tālāk no
     
 4. Lodziņā **Aizstājvārds** ierakstiet jaunu e-pasta adresi un pēc tam izvēlieties **Pievienot.**
     
-    **SVARĪGI!** Ja tiek parādīts kļūdas ziņojums "Nevar atrast parametru, kas atbilst parametra nosaukumam **EmailAddresses**", tas nozīmē, ka, lai pabeigtu nomnieka iestatīšanu vai pielāgotā domēna iestatīšanu, ja nesen to pievienojāt, korporācijai Microsoft nepieciešams ilgāks laiks. Iestatīšanas procesa pabeigšanai var būt nepieciešams līdz 4 stundām. Uzgaidiet, līdz iestatīšanas process ir pabeigts, un mēģiniet vēlreiz. Ja problēma joprojām pastāv, zvaniet atbalsta dienesta darbiniekiem, un viņi jums veiks pilnu sinhronizāciju.
+    Svarīgi! Ja tiek parādīts kļūdas ziņojums "Nevar atrast parametru, kas atbilst parametra nosaukumam **EmailAddresses**", tas nozīmē, ka, lai pabeigtu nomnieka iestatīšanu vai pielāgotā domēna iestatīšanu, ja nesen to pievienojāt, korporācijai Microsoft nepieciešams ilgāks laiks. Iestatīšanas procesa pabeigšanai var būt nepieciešams līdz 4 stundām. Uzgaidiet, līdz iestatīšanas process ir pabeigts, un mēģiniet vēlreiz. Ja problēma joprojām pastāv, zvaniet atbalsta dienesta darbiniekiem, un viņi jums veiks pilnu sinhronizāciju.
     
     Ja tiek parādīts kļūdas ziņojums **"Diemžēl lietotāju nevar rediģēt. Pārskatiet informāciju par lietotāju un mēģiniet** vēlreiz", tas nozīmē, ka jūs neesat globālais administrators un jums nav atļaujas mainīt lietotājvārdu.
     

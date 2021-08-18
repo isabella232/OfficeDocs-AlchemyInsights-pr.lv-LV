@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972723"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330966"
 ---
 # <a name="troubleshoot-prt-issue"></a>PRT problēmas novēršana
 
@@ -30,12 +30,11 @@ Hibrīda Azure AD pievienošanās reģistrācijas procesam nepieciešamas ierīc
 
 Šī reģistrācijas plūsma tiek dēvēta arī par "Sinhronizācijas savienojums".
 
-1. Windows 10 atklāj SCP ierakstu, kad lietotājs piesakās ierīcē.
+1. Windows 10 atrod SCP ierakstu, kad lietotājs piesakās ierīcē.
     1. Ierīce vispirms mēģina izgūt nomnieka informāciju no klienta puses SCP reģistrā [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Papildinformāciju skatiet šajā [dokumentā.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
     2. Ja tas neizdodas, ierīce sazinās ar lokālo Active Directory (AD), lai iegūtu nomnieka informāciju no pakalpojumu savienojuma punkta (Service Connection Point — SCP). Lai pārbaudītu SCP, skatiet šo [dokumentu.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
-> [!NOTE]
-> Iesakām iespējot SCP AD un tikai izmantot klienta puses SCP sākotnējai validācijai.
+**Piezīme.** Iesakām iespējot SCP AD un tikai izmantot klienta puses SCP sākotnējai validācijai.
 
 2. Windows 10 mēģina sazināties ar Azure AD sistēmas kontekstā, lai autentificētos azure AD. Varat pārbaudīt, vai ierīce var piekļūt Microsoft resursiem sistēmas kontā, izmantojot ierīces reģistrācijas testa skriptu.
 
@@ -47,8 +46,7 @@ Hibrīda Azure AD pievienošanās reģistrācijas procesam nepieciešamas ierīc
 
 6. Nākamajā lietotāja pieteikšanās reizē Windows 10 pabeigta reģistrācija. 
 
-> [!NOTE]
-> Ja izmantojat VPN un logoff pieteikšanās process pārtrauc domēna savienojamību, varat aktivizēt reģistrāciju manuāli:
+**Piezīme.** Ja izmantojat VPN un logoff pieteikšanās process pārtrauc domēna savienojamību, varat aktivizēt reģistrāciju manuāli:
  1. Izsniedziet dsregcmd /join lokāli administratora uzvednē vai attāli, izmantojot PSExec savā datorā. Piemēram, PsExec -s \\ win10client01 cmd, dsregcmd /join
 
  2. Papildinformāciju par hibrīdās pievienošanās problēmām skatiet rakstā [Ierīču problēmu novēršana.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)

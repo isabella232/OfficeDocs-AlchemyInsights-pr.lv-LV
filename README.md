@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft atvērtā pirmkoda uzvedības kodekss
 Šajā projektā ir pieņemts [Microsoft atvērtā pirmkoda uzvedības kodekss.](https://opensource.microsoft.com/codeofconduct/)
-Papildinformāciju skatiet [uzvedības kodeksā bieži uzdoto jautājumu](https://opensource.microsoft.com/codeofconduct/faq/) un [atbilžu opencode@microsoft.com](mailto:opencode@microsoft.com) saistībā ar jebkādiem papildu jautājumiem vai komentāriem.
+Papildinformāciju skatiet [uzvedības kodeksā bieži uzdoto jautājumu un](https://opensource.microsoft.com/codeofconduct/faq/) [atbilžu opencode@microsoft.com](mailto:opencode@microsoft.com) saistībā ar jebkādiem papildu jautājumiem vai komentāriem.

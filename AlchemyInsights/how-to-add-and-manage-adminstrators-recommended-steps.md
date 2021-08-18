@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963794"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339039"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Administratoru pievienošana un pārvaldība — ieteicamās darbības
 
@@ -26,10 +26,10 @@ ms.locfileid: "53963794"
 
 **Rediģēt abonementa administratoru vai līdz administratoru**
 
-- Konta administrators var rediģēt abas lomas, bet abonementa administrators [](https://ms.portal.azure.com/#home)Azure portālā var mainīt tikai līdzadministratoriem.
+- Konta administrators var rediģēt abas lomas, bet abonementa administrators Var mainīt tikai līdzadministratoriem [Azure portālā.](https://ms.portal.azure.com/#home)
 - [Azure abonementa administratoru pievienošana vai maiņa](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Atjauniniet iekšējo (AIRS) Co-Administrator abonementu abonementa administratoru vai administratoru**
+**Atjaunināt abonementa administratoru vai Co-Administrator iekšējām (AIRS) abonementiem**
 
 Pakalpojumu administrators vai līdz administrators var paši veikt šo darbību, veicot tālāk norādītās darbības.
 
@@ -75,7 +75,7 @@ Varat pievienot jaunus lietotājus vai izdzēst esošos lietotājus no savas Azu
 - [Apmācība: piekļuves piešķiršana lietotājam, izmantojot RBAC un Azure portālu](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [RBAC problēmu novēršana programmā Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Resursu organizēšana, izmantojot Azure pārvaldības grupas](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Kā pieprasīt Azure rēķina kopiju pa e-pastu](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Kā pieprasīt Azure rēķina kopiju pa e-pastu](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Kā pievienot, atjaunināt vai noņemt kredītkarti vai debetkarti no Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Abonementa pārvaldība (atkārtota aktivizēšana/atcelšana/pārslēgšana)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

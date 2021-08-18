@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333166"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Darba sākšana ar Teams tiešraides pasākumiem
 
@@ -27,7 +27,9 @@ Lai izveidotu tiešraides pasākumu, jums būs nepieciešams tālāk norādītā
 
 - Vispirms pārliecinieties, vai Teams tiešraides pasākumi ir [pieejami jūsu valstī un reģionā,](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); tiešraides pasākumi dažās valstīs vēl netiek atbalstīti.  Ja esat piešķīris licences un iestatījis politikas, bet joprojām nevarat izveidot Teams tiešraides pasākumu, visticamāk, ka atrodaties valstī vai reģionā, kur tiešraides pasākumi vēl nav pieejami.
 
-- [Office 365 Enterprise E1, E3 vai E5 licence, vai Office 365 a3 vai A5 licences](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Piezīme**. Nesenā Teams lietojuma palielināšanās dēļ, kad piešķirat Teams licenci lietotājam, var paiet 24 stundas, pirms lietotājs tiks pilnībā iestatīts. Līdz tam jūs nevarēsiet piešķirt Teams politikas, un viņiem, iespējams, nebūs piekļuves dažiem Teams līdzekļiem, piemēram, zvanīšanai un audiokonferencēm.
+- [Office 365 Enterprise E1, E3 vai E5 licence, vai Office 365 a3 vai A5 licences](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Piezīme**. Nesenā Teams lietojuma palielināšanās dēļ, kad piešķirat Teams licenci lietotājam, var paiet 24 stundas, pirms lietotājs tiks pilnībā iestatīts. Līdz tam jūs nevarēsiet piešķirt Teams politikas, un viņiem, iespējams, nebūs piekļuves dažiem Teams līdzekļiem, piemēram, zvanīšanai un audiokonferencēm.
 
 - Atļauja [izveidot tiešraides pasākumus Microsoft Teams administrēšanas centrā](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

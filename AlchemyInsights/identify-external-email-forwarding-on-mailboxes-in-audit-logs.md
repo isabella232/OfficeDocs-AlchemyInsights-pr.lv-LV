@@ -13,12 +13,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899891"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331166"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Noteikt, kad pastkastēs ir konfigurēta ārējā e-pasta pārsūtīšana
 
@@ -42,4 +42,4 @@ Kad lietotājs Microsoft 365 konfigurē pastkastē ārējo e-pasta pārsūtīša
    - **Parametri:** _ForwardingSmtpAddress norāda_ mērķa e-pasta adresi.
    - **UserId:** lietotājs, kurš konfigurēja e-pasta pārsūtīšanu pastkastē **laukā ObjectId.**
 
-Papildinformāciju skatiet rakstā [Noteikšana, kurš iestatījis e-pasta pārsūtīšanu pastkastei.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Papildinformāciju skatiet rakstā [Noteikšana, kas iestatīja e-pasta pārsūtīšanu pastkastei.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

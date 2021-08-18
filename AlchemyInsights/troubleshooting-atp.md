@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900659"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330823"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problēmu novēršana programmatūrā Microsoft Defender Office 365
 
@@ -28,7 +28,7 @@ ms.locfileid: "57900659"
 
   1. Dodieties [https://protection.office.com](https://protection.office.com) uz sadaļu un pierakstieties ar globālā administratora vai drošības administratora kontu.
 
-  2. Kreisajā navigācijas rūtī sadaļā Apdraudējumu **pārvaldība izvēlieties** Politikas **un Seifs** \> **saites**.
+  2. Kreisajā navigācijas rūtī sadaļā Apdraudējumu **pārvaldība izvēlieties** Politikas **un** \> **Seifs saites**.
 
   3. Sadaļā **Politikas, kas attiecas uz visu organizāciju** atlasiet šo politiku un noklikšķiniet uz **Rediģēt.**
 

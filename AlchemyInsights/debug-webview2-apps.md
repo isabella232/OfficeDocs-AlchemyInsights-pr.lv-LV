@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11941"
 - "9007100"
-ms.openlocfilehash: 7d33c4cf06e6812bca2d02122fad429c82f54dc47f9147e13cc57c7b1bff689f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: aed0b49213cfd7b81684aa56655b3a8069b739ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892746"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331278"
 ---
 # <a name="debug-webview2-apps"></a>WebView2 lietojumprogrammu atkļūdšana
 
-Veidojot savu WebView2 programmu, noteikti atkļūdojiet savu programmu. Papildinformāciju par rīkiem tīmekļa un vietējā koda atkļūdošanai savā WebView2 programmā skatiet rakstā Darba sākšana tīmekļa [skata2 lietojumprogrammu atkļūdošanai.](https://docs.microsoft.com/microsoft-edge/webview2/how-to/debug)
+Veidojot savu WebView2 programmu, noteikti atkļūdojiet savu programmu. Papildinformāciju par rīkiem tīmekļa un vietējā koda atkļūdošanai savā WebView2 programmā skatiet rakstā Tīmekļa skata2 lietojumprogrammu [atkļūdošanas sākšana.](https://docs.microsoft.com/microsoft-edge/webview2/how-to/debug)

@@ -1,5 +1,5 @@
 ---
-title: Piekļuves SharePoint un OneDrive
+title: Piekļuves SharePoint OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c27997b1bca1d47ad876a0a6941607517912333
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333130"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Piekļuves SharePoint un OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Piekļuves SharePoint OneDrive
 
-> [!NOTE]
-> Ja OneDrive vai SharePoint vietne nav pieejama vairākiem lietotājiem, kuriem iepriekš bija piekļuve, iespējams, ir īslaicīga pakalpojuma problēma. [Pārbaudiet pakalpojuma darbspējas informācijas paneli](https://portal.office.com/adminportal/home#/servicehealth)
+**Piezīme.** Ja OneDrive vai SharePoint vietne nav pieejama vairākiem lietotājiem, kuriem iepriekš bija piekļuve, iespējams, ir īslaicīga pakalpojuma problēma. [Pārbaudiet pakalpojuma darbspējas informācijas paneli](https://portal.office.com/adminportal/home#/servicehealth)
   
-Ja vēlaties, lai lietotāji jūsu organizācijā varētu pierakstīties un lietot pakalpojumu SharePoint un OneDrive, pievienojiet viņu kontus un pārliecinieties, vai viņiem ir licence, kas ļauj piekļūt SharePoint un OneDrive. Vienkāršākais veids, kā pievienot lietotājus, ir Microsoft 365 administrēšanas centrs.
+Ja vēlaties, lai lietotāji jūsu organizācijā varētu pierakstīties un lietot SharePoint un OneDrive, pievienojiet viņu kontus un pārliecinieties, vai viņiem ir licence, kas piešķir viņam piekļuvi SharePoint un OneDrive. Vienkāršākais veids, kā pievienot lietotājus, ir Microsoft 365 administrēšanas centrs.
   
-1. Dodieties [uz grupas lapu Aktīvie Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/users)pēc tam noklikšķiniet **uz Pievienot lietotāju.**
+1. Dodieties uz [lapas Aktīvie lietotāji Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/users)pēc tam noklikšķiniet uz Pievienot **lietotāju.**
     
 2. Aizpildiet lietotāja informāciju un **pārliecinieties,** vai sadaļā Produktu licences ir piešķirta licence un SharePoint **Atlasīta** opcija Tiešsaistē. 
     

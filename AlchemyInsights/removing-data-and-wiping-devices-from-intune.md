@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922244"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331048"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Datu un tīrīšanas ierīču noņemšana no Intune
 
@@ -32,8 +32,7 @@ Ierīces norakstīšanas un ierīces tīrīšanas attālās darbības var izmant
 4. Atlasiet **Jā**, lai apstiprinātu. Līdz tīrīšana ir pabeigta, ierīces darbības statuss tiek rādīts kā *Gaida norakstīšanu*.
     Kad darbība būs pabeigta, mobilo ierīci vairs neredzēsit pārvaldītās ierīces sarakstā.
 
-> [!NOTE]
-> Uzņēmuma datus nevar noņemt no ierīcēm, kas PIEVIENOTAS Azure AD. 
+**Piezīme.** Uzņēmuma datus nevar noņemt no ierīcēm, KAS PIEVIENOTAs Azure AD. 
 
 Pilnu detalizētu informāciju par norakstīšanas un tīrīšanas darbībām, tostarp par to, kas tiek saglabāts un kas tiek izdzēsts, skatiet tālāk norādītajā dokumentācijā:
 
