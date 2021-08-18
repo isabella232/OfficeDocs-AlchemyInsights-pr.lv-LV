@@ -1,5 +1,5 @@
 ---
-title: Informācija par aizturēšanu vai aizturēšanu
+title: Informācija par aizturēšanu saistībā ar tiesas procesu vai aizturēšanu aizturēšanas vietā
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115439"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Par tiesvedības aizturēšanu un oriģinālu turēšanu
+# <a name="about-litigation-holds-and-in-place-holds"></a>Par aizturēšanu saistībā ar tiesas procesu un aizturēšanu tā atrašanās vietā
 
-- Lai uzņemtu tiesas prāvu vai oriģinālu aizturēšanu pastkastei, ir nepieciešama [Exchange Online 2. plāna licence](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ja jums ir cits plāns, piešķiriet kontam atsevišķu [Exchange Online arhivēšanas](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licenci. 
+- Lai pastkastei lietotu aizturēšanu saistībā ar tiesas procesu vai aizturēšanu, Exchange Online [nepieciešama 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) plāna licence. Ja jums ir kāds cits plāns, piešķiriet [kontam Exchange Online arhivēšana](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licenci. 
     
-- **Lai iespējotu tiesvedības aizturēšanu** vienam lietotājam, [veiciet tālāk](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold)norādītās darbības. Kad ir iespējots tiesvedības aizturēšana, viss pastkastes saturs tiek aizturēts.
+- **Lai iespējotu aizturēšanu saistībā** ar tiesas procesu atsevišķam lietotājam, izpildiet šeit norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Ja ir iespējota aizturēšana saistībā ar tiesas procesu, viss pastkastes saturs tiek aizturēts.
     
-- Lai lietotu oriģinālu **glabāšanu tikai vienam lietotājam** vai aizturētu **visas pastkastes visā organizācijā**, varat izmantot saglabāšanas politikas Microsoft 365 drošības un atbilstības centrā, veicot tālāk norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- Lai aizturētu atsevišķus lietotājus vai aizturēšanu visām pastkastēm visā **organizācijā,** varat izmantot saglabāšanas politikas Microsoft 365 drošības un atbilstības centrā, izpildot šeit norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) 
     
     > [!NOTE]
-    > Attiecībā uz organizācijas mēroga saglabāšanas politikām jauni lietotāji tiks automātiski pievienoti aizturēšanai. 
+    > Organizācijas mēroga saglabāšanas politikām jaunie lietotāji tiks automātiski pievienoti aizturēšanai. 
   
-- Lai skatītu vai atklātu pastkastes saturu, kas tiek aizturēts, izmantojiet **e-datu atklāšanas meklēšanu un eksportēšanu**. Lai iegūtu informāciju par **e-datu atklāšanas meklēšanu un eksportēšanu**, [veiciet tālāk](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)norādītās darbības.
+- Lai skatītu vai atklātu aizturēto pastkastes saturu, izmantojiet **e-datu atklāšanas meklēšanu un eksportēšanu.** Lai iegūtu informāciju par **e-datu atklāšanas meklēšanu un eksportēšanu**, izpildiet šeit norādītās [darbības.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

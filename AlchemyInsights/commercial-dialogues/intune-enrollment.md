@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090887"
 ---
 # <a name="intune-enrollment"></a>Intune reģistrācija
 
-Lai novērstu ierīču reģistrācijas problēmas, skatiet:
+Lai novērstu ierīces reģistrācijas problēmas, skatiet:
 
-- [Problēmu novēršana saistībā ar ierīču reģistrēšanu pakalpojumā Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- [IOS/iPadOS ierīces reģistrācijas problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [Windows 10 automātiskās reģistrēšanas problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
-- [Android Enterprise ierīces problēmu novēršana](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [Windows ierīču reģistrācijas problēmu novēršana](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Problēmu novēršana saistībā ar ierīču reģistrāciju programmā Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- [Problēmu novēršana saistībā ar iOS/iPadOS ierīces reģistrāciju](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Automātiskās Windows 10 problēmu novēršana](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Ar Android Enterprise ierīci saistīto problēmu novēršana](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
+- [Ierīču Windows problēmu novēršana](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
-[Lasiet vairāk par Intune reģistrāciju...](https://docs.microsoft.com/mem/intune/enrollment/)
+[Papildinformācija par Intune reģistrāciju...](https://docs.microsoft.com/mem/intune/enrollment/)

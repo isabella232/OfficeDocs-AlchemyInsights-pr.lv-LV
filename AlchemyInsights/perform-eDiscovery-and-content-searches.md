@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317483"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902051"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kā veikt satura meklēšanu un e-datu atklāšanas meklēšanu
 
@@ -29,9 +29,10 @@ ms.locfileid: "58317483"
 2. Atlasiet **Meklēt > Satura meklēšana**.
 3. Atlasiet **Jauna meklēšana,** lai izveidotu jaunu meklēšanu.
 4. Ievadiet nepieciešamos meklēšanas nosacījumus, tostarp atslēgvārdus un satura atrašanās vietas.
-5. Atlasiet **Saglabāt & izpildīt,** lai nosaukumu meklēšanai, sāktu to un pēc tam priekšskatītu rezultātus.
+5. Atlasiet **Saglabāt &, lai** nosaukumu meklēšanai, sāktu to un pēc tam priekšskatītu rezultātus.
 
-**Piezīme.** **Microsoft 365 centra**  >  **risinājumos** izvērsiet **e-datu** atklāšana un atlasiet vēlamo e-datu atklāšanas rīku.
+> [!NOTE]
+> Atbilstības **Microsoft 365 risinājumu**  >  **sadaļā** izvērsiet **e-datu** atklāšana un atlasiet vēlamo e-datu atklāšanas rīku.
 
 Detalizētus norādījumus par satura meklēšanu, rezultātu eksportēšanu un e-datu atklāšanas lietu izveidi datu glabāšanai skatiet sadaļā [Satura](https://docs.microsoft.com/microsoft-365/compliance/content-search) meklēšana un [e-datu atklāšanas lietas.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

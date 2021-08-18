@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091052"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>MDATP instalēšanas problēmu novēršana Mac datorā
 
-Ja manuāla instalēšana neizdevās, instalēšanas vedņa **kopsavilkuma** lapā tiek rādīta šāda kļūda:
+Ja manuāla instalēšana neizdodas, **instalēšanas** vedņa lapā Kopsavilkums tiek parādīts šāds kļūdas ziņojums:
 
-"Instalēšanas laikā radās kļūda. Instalēšanas programma atklāja kļūdu, kuras dēļ instalēšana neizdevās. Lai saņemtu palīdzību, sazinieties ar programmatūras ražotāju.
+"Instalēšanas laikā radās kļūda. Instalēšanas programmai radās kļūda, kas izraisīja instalācijas atteici. Lai saņemtu palīdzību, sazinieties ar programmatūras ražotāju."
 
-MDM izvietojumiem lapā tiek rādīta arī vispārīga instalēšanas kļūme.
+MDM izvietojumiem lapā ir redzama arī vispārīga instalēšanas kļūme.
 
-Lai gan nerāda precīzas kļūdas lietotājiem, mēs pabeidzam reģistrēt failu ar instalēšanas norisi programmā **/Library/logs/Microsoft/mdatp/Install.log**. Katra instalācijas sesija pievieno šo žurnālfailu. Lai izvadītu tikai pēdējo instalēšanas sesiju, izmantojiet `sed` .
+Lai gan lietotājiem netiek rādītas precīzas kļūdas, mēs paturam žurnālfailu ar instalēšanas norisi programmā **/Library/Logs/Microsoft/mdatp/install.log.** Katra instalācijas sesija tiek pievienota šim žurnālfailam. Lai izvadītu tikai pēdējo instalēšanas sesiju, izmantojiet `sed` .
 
-Lai uzzinātu vairāk, skatiet rakstu [problēmu novēršana saistībā ar Microsoft Defender ATP darbam ar Mac instalēšanas problēmām](https://go.microsoft.com/fwlink/?linkid=2144615).
+Papildinformāciju skatiet rakstā [Microsoft Defender ATP operētājsistēmai Mac](https://go.microsoft.com/fwlink/?linkid=2144615)instalēšanas problēmu novēršana.

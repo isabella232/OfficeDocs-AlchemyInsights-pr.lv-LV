@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896938"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318569"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kā veikt Microsoft 365 pirkumu
 
-Administrēšanas centrā Microsoft 365 abonementu var iegādāties.
+Administrēšanas centrā varat Microsoft 365 abonementu.
   
 - Lai iegādātos plānu, dodieties uz **lapu** \> **[Norēķinu pirkumu](https://go.microsoft.com/fwlink/p/?linkid=868433)** pakalpojumi.
 - Lai iegādātos papildu licences, dodieties uz **lapu** \> **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti. Atlasiet abonementu, kuru vēlaties mainīt, un pēc tam atlasiet **Iegādāties licences**.\

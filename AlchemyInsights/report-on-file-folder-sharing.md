@@ -13,18 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8a4c2b4aedaa0ac88262e6c4f0c91af952441b6904971eabf774c2a8b7b58042
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7587eba7d69d532ab026db6b9c56f5fa6d7e7f8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110651"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319313"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Ziņošana par failu un mapju koplietošanu SharePoint vietnēs
 
-Varat izveidot CSV failu ar detalizētu informāciju par katru unikālo failu, lietotāju, atļauju un saiti uz SharePoint vai OneDrive bibliotēku. Tas var palīdzēt izprast, kā tiek izmantota koplietošana, un to, vai viesi var koplietot visus failus vai mapes.
+Varat izveidot CSV failu ar detalizētu informāciju par katru unikālo failu, lietotāju, atļauju un saiti uz konkrētu SharePoint vai OneDrive bibliotēku. Tas var palīdzēt izprast, kā tiek izmantota koplietošana, un to, vai viesi var koplietot visus failus vai mapes.
 
-Lai iegūtu [papildinformāciju, skatiet atskaišu izveide par failu un mapju koplietošanu SharePoint vietnē](https://docs.microsoft.com/sharepoint/sharing-reports).
+Lai iegūtu [papildinformāciju, ziņojiet par failu un mapju koplietošanu SharePoint vietnē](https://docs.microsoft.com/sharepoint/sharing-reports).
 
-> [!NOTE]
-> Šis līdzeklis pašlaik ir izvietots pirmā laidiena nomniekiem un tiks pakāpeniski ieviests visiem ražošanas nomniekiem.
+**Piezīme.** Šis līdzeklis pašlaik ir izvietots pirmā laidiena nomniekiem un tiks pakāpeniski ieviests visiem ražošanas nomniekiem.

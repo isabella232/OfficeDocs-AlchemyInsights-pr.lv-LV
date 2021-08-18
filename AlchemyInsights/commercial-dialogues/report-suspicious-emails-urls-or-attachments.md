@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895126"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318799"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Ziņošana par aizdomīgiem e-pasta ziņojumiem, vietrāžiem URL vai pielikumiem
 
 Es saprotu, ka jums ir nepieciešama palīdzība, lai izpētītu aizdomīgu e-pasta ziņojumu vai nepareizi filtrētu e-pasta ziņojumu. Varu palīdzēt iesniegt problēmu analīzei, izmantojot **iesniegšanas** portālu, kas sniegs jums tūlītējas atsauksmes. Tālāk ir kopsavilkums par darbībām.
 
-1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com> E-pasts un **&** \> **iesniegumi**.
+1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com> E-pasts un **& sadarbības** \> **iesniegumi**.
 
    Lai pārietu tieši uz **lapu Iesniegšanas** informācija, izmantojiet <https://security.microsoft.com/reportsubmission> .
 
@@ -33,5 +33,4 @@ Es saprotu, ka jums ir nepieciešama palīdzība, lai izpētītu aizdomīgu e-pa
 
 Papildinformāciju skatiet rakstā Administratora [iesnieguma izmantošana, lai iesniegtu iespējamus surogātpasta, pikšķerēšanas vietrāžus URL un failus korporācijai Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
 
-> [!NOTE]
-> Informējiet lietotājus, ka tiem ir jāatskaitās par aizdomīgiem ziņojumiem viņu iesūtnē, izmantojot atskaites ziņojuma pievienojumprogrammu vai [atskaišu pikšķerēšanas pievienojumprogrammu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+**Piezīme.** Informējiet lietotājus, ka tiem par aizdomīgiem ziņojumiem jā ziņo viņu iesūtnē, izmantojot atskaites ziņojuma pievienojumprogrammu vai atskaišu [pikšķerēšanas pievienojumprogrammu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

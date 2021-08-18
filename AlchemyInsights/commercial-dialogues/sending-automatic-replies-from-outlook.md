@@ -1,5 +1,5 @@
 ---
-title: Automātisko atbilžu sūtīšana no programmas Outlook
+title: Automātisko atbilžu sūtīšana no Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091024"
 ---
-# <a name="sending-automatic-replies-from-outlook"></a>Automātisko atbilžu sūtīšana no programmas Outlook
+# <a name="sending-automatic-replies-from-outlook"></a>Automātisko atbilžu sūtīšana no Outlook
 
-- Atkarībā no tā, kāda veida e-pasta kontu varat sūtīt automātiskās atbildes par atrašanos ārpus biroja, ir divi veidi.
-- Noklikšķiniet uz **Fails** un pēc tam atlasiet **automātiskās atbildes** , pamatojoties uz jūsu Outlook versiju.
+- Ir divi veidi, kā sūtīt automātiskās atbildes paziņojumu par atiešanu no biroja atkarībā no tā, kāda veida e-pasta konts jums ir.
+- Noklikšķiniet **uz** Fails un pēc **tam atlasiet Automātiskās** atbildes atkarībā no jūsu Outlook.
