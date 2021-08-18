@@ -1,5 +1,5 @@
 ---
-title: Plānu Office 365 Education iegāde
+title: Kā iegādāties Office 365 Education plānus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,15 +16,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 62ab2fc121658b106eee4807edae6f291269cab3e4c844565acc3dbce949b3c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 450734781a0db054082535aff9b6af8417aeb24b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499915"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326304"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Plānu Office 365 Education iegāde
+# <a name="how-to-purchase-office-365-education-plans"></a>Kā iegādāties Office 365 Education plānus
 
 Mēs pārskatījām jūsu pieprasījumu un noteicām, ka šī organizācija neatbilst Microsoft kvalificētās akadēmiskās organizācijas prasībām. Jūsu pašreizējo akadēmisko izmēģinājumversiju piedāvājumu derīgums beidzas izmēģināšanas perioda beigās.
   
-Lai iegādātos Microsoft 365 komerciāli, skatiet [pieejamos piedāvājumus.](https://go.microsoft.com/fwlink/p/?linkid=868433)  
+Lai iegādātos Microsoft 365, skatiet pieejamos [piedāvājumus.](https://go.microsoft.com/fwlink/p/?linkid=868433)  

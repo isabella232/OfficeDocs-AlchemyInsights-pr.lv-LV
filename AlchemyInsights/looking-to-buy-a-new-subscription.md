@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895454"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326232"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Vai vēlaties iegādāties jaunu abonementu?
 
-Ja jums jau ir Microsoft 365 darbam abonements un vēlaties iegādāties vēl vienu abonementu  jūsu organizācijai, dodieties uz lapu Norēķinu iegādes pakalpojumi, lai skatītu organizācijai pieejamo \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) abonementu sarakstu.
+Ja jums jau ir Microsoft 365 darbam abonements un vēlaties iegādāties vēl vienu  abonementu jūsu organizācijai, dodieties uz lapu Norēķinu pirkšanas pakalpojumi, lai skatītu organizācijai pieejamo \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) abonementu sarakstu.
  
 1. Atlasiet abonementu un pēc tam atlasiet **Iegādāties**.
 
@@ -33,7 +33,7 @@ Ja jums jau ir Microsoft 365 darbam abonements un vēlaties iegādāties vēl vi
 
  **Papildu resursi:**
   
-- [Licenču piešķiršana Microsoft 365 uzņēmumiem](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Licenču piešķiršana lietotājiem Microsoft 365 uzņēmumiem](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 - [Abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896082"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326804"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Nomnieka politikas labošana (darbības ignorēšana)
 
 Kāda no jūsu pretsurogātpasta politikām ir ietekmējusi šo ziņojumu. Lai pārskatītu politikas, veiciet tālāk norādītās darbības.
 
-1. Vietnes Microsoft 365 Defender dodieties uz <https://security.microsoft.com/>  \>  \>  \> **E-&**  un sadarbības politikas & Kārtulu pretsurogātpasta politikas sadaļā Politikas.
+1. Vietnes Microsoft 365 Defender dodieties uz Sadaļu <https://security.microsoft.com/>  \>  \>  \> **E-&**  un sadarbības politikas & Kārtulu pretsurogātpasta politikas sadaļā Politikas.
 
    Lai pārietu tieši uz **lapu Pretsurogātpasta** politikas, izmantojiet <https://security.microsoft.com/antispam> .
 
@@ -36,6 +36,6 @@ Kāda no jūsu pretsurogātpasta politikām ir ietekmējusi šo ziņojumu. Lai p
    - **Ziņojuma dzēšana**
    - **Nav darbību**
 
-   Iespējams, ka standarta iestatījumi tiek **lietoti** visiem klientiem, Exchange Online Protection ietekmēti ar šo ziņojumu.
+   Iespējams, ka standarta iestatījumi **visiem klientiem** Exchange Online Protection ietekmēti.
 
 Papildinformāciju skatiet rakstā [Surogātpasta novēršanas politiku konfigurēšana rīkkopā EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

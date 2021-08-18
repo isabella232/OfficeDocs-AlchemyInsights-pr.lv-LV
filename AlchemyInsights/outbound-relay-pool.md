@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883138"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326084"
 ---
 # <a name="outbound-relay-pool"></a>Izejošā pārraide pūls
 
@@ -27,7 +27,7 @@ Microsoft veic dažas izmaiņas e-pasta pārsūtīšanas vai pārsūtīšanas ko
 Lai izvairītos no scenārija, izmantojot pārraides pūlu, pārliecinieties, vai pārsūtītie/pārsūtītie ziņojumi atbilst vienam no šiem kritērijiem:
 
 - Izejošais sūtītājs ir nomnieka akceptētais domēns.
-- Sūtītāja politikas struktūra (Sender Policy Framework - SPF) nodod, ja Microsoft 365.
+- Sūtītāja politikas struktūra (Sender Policy Framework – SPF) nodod visu ziņojumu Microsoft 365.
 - DomainKeys identificētais pasts (DomainKeys Identified Mail – DKIM) P2 sūtītāja domēnā tiek nododams, kad ziņojums Microsoft 365.
  
 Ziņojumi, kas atbilst iepriekš minētajiem kritērijiem, netiek izlaisti caur pārraides pūlu.

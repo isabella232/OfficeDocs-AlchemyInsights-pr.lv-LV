@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: ac05aa634f3c96cd90c657254c16503805ab21c8bac0e97b94d2e3021a4a62c4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501967"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326186"
 ---
 # <a name="manage-app-licenses"></a>Programmu licenču pārvaldība
 
 ## <a name="to-change-license-quantity"></a>Licenču daudzuma maiņa
 
-**NOSkatieties video,** kurā parādīts, kā to paveikt: [Iegādāties jaunas licences](https://go.microsoft.com/fwlink/p/?linkid=2154857) vai Noņemt [esošās licences](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**NOSkatieties video,** kurā parādīts, kā to izdarīt: Iegādāties jaunas [licences](https://go.microsoft.com/fwlink/p/?linkid=2154857) [vai Noņemt esošās licences](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. Dodieties uz **lapu**  >  **[Norēķini jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
 2. Cilnes **Produkti** sadaļā **Programmas atrodiet** programmu, kuru vēlaties pārvaldīt. Atlasiet daudzpunkti (vairāk darbību), pēc tam **atlasiet Iegādāties licences**.

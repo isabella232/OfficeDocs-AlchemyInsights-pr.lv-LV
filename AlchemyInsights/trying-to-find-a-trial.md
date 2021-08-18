@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500995"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327258"
 ---
 # <a name="trying-to-find-a-trial"></a>Vai mēģināt atrast izmēģinājumversiju?
 
@@ -31,8 +31,7 @@ Ja vēlaties izmēģināt jaunu pakalpojumu, izmēģinājumversijai pieejamo abo
 
 2. Atlasiet abonementu, kas atbilst jūsu vajadzībām, un pēc tam atlasiet Iegūt  **bezmaksas izmēģinājumversiju**.
 
-    > [!NOTE]
-    > Ne visi abonementi ir pieejami kā izmēģinājumversija. Ja, novietojot peles rādītāju **virs** abonementa, netiek redzama poga Iegūt bezmaksas izmēģinājumversiju, tas nozīmē, ka izmēģinājumversija nav pieejama.
+    **Piezīme.** Visi abonementi nav pieejami kā izmēģinājumversija. Ja, novietojot peles rādītāju **virs** abonementa, netiek redzama poga Iegūt bezmaksas izmēģinājumversiju, tas nozīmē, ka izmēģinājumversija nav pieejama.
   
 3. Iespējams, jums tiks lūgts ievadīt kredītkarti vai citu maksāšanas metodi, lai nodrošinātu papildu drošības pārbaudi. Jums nebūs jāmaksā par šo bezmaksas izmēģinājumversiju. Mēs saglabāsim failā jūsu informāciju par maksājumu, un nelietosim to pirkumu iegādei bez jūsu piekrišanas.
 

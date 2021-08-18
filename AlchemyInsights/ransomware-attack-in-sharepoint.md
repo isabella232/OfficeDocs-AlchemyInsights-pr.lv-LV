@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893202"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327528"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Izspiedējprogrammatūras uzbrukums SharePoint vai OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "57893202"
     - [Datu aizsardzība datu SharePoint OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Izspiedējprogrammatūras pretdraudu aizsardzība](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Vai visus failus jūsu datorā OneDrive Vai SharePoint izspiedējprogrammatūra vai Ļaunprogrammatūra vai Crypto vīruss? 
+3.  Vai visus failus jūsu datorā OneDrive Vai SharePoint izspiedējprogrammatūra, Ļaunprogrammatūra vai Crypto vīruss? 
 
 Nekavējoties pārtrauciet/apturiet OneDrive sinhronizāciju (ja tāds ir) vai pārtrauciet pārlūka savienojumu, kas ir kartēts uz bibliotēku no ietekmētā datora (ja tāds ir), un pēc tam varat atjaunot visu OneDrive vai SharePoint bibliotēku uz iepriekšējo laiku, izmantojot failu atjaunošanas līdzekli. 
 
@@ -36,7 +36,7 @@ Papildinformāciju par atjaunošanu skatiet rakstā:
 - [OneDrive bibliotēkas atjaunošana](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 - [Dokumentu bibliotēkas atjaunošana](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Papildinformāciju par Microsoft Defender programmatūrai Office 365:
+Papildinformāciju par Microsoft Defender programmatūrai Office 365 skatiet:
 - [Microsoft Defender Office 365 SharePoint, OneDrive un Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Apdraudējumu pārlūka skati](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 

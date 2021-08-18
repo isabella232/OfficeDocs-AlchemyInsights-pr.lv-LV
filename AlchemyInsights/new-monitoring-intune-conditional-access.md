@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025509"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327564"
 ---
 # <a name="monitor-intune-conditional-access"></a>Intune nosacījum piekļuves pārraudzība
 
@@ -39,5 +39,4 @@ Lietotāji, kas tiek paredzēti nosacījum piekļuves saņemšanai, saņem pazi�
 - [Problēmu novēršanas politika](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Intune ierīču atbilstības pārraudzība](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> Šīs darbības ir noderīgas tikai, lai novērstu līdzekļa Azure Active Directory nosacījuma piekļuvi. Ir iespējams arī karantīnā ievietot ierīci, kas bloķē tās piekļuvi e-pastam, izmantojot Exchange politiku. Papildinformāciju par Exchange pārvaldību skatiet [**šeit.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+**Piezīme.** Šīs darbības ir noderīgas tikai, lai novērstu līdzekļa Azure Active Directory nosacījuma piekļuvi. Ir iespējams arī karantīnā ievietot ierīci, kas bloķē tās piekļuvi e-pastam, Exchange politiku. Papildinformāciju par Exchange pārvaldību skatiet [**šeit.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

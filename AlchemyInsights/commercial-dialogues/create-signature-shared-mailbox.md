@@ -13,17 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f1b880455fdd96da7b20292a998d8e51db57f0cb7a196d5ff9dcb5ad2e484e25
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0a48c4590093ce92ba331a4d603b61b175683149
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916314"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326896"
 ---
 # <a name="create-an-email-signature-for-a-shared-mailbox"></a>E-pasta paraksta izveide koplietojamai pastkastei
 
 Katrai personai, kas izmanto koplietojamo pastkasti, parakstu sarakstam būs jāpievieno jauns e-pasta paraksts.
 
 1. Lai uzzinātu, kā izveidot jebkura tipa pastkastei e-pasta parakstu, skatiet [rakstu Paraksta izveide un pievienošana ziņojumiem.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
-2. **Padoms.** Kad lietotāji izmanto koplietojamo adresi, tiem kā noklusējuma paraksts būs jāiestata koplietojamās pastkastes paraksts.
-3. Pēc tam, kad viņi atgriežas darbā ar savu e-pasta adresi, viņiem paraksts būs jāmaina atpakaļ. Pretējā gadījumā kā noklusējums tiks izmantots koplietojamās adreses vienums.
+
+    **Padoms.** Kad lietotāji izmanto koplietojamo adresi, viņiem kā noklusējuma paraksts būs jāiestata koplietojamās pastkastes paraksts.
+1. Pēc tam, kad viņi atgriežas darbā ar savu e-pasta adresi, viņiem paraksts būs jāmaina atpakaļ. Pretējā gadījumā kā noklusējums tiks izmantots koplietojamās adreses vienums.
