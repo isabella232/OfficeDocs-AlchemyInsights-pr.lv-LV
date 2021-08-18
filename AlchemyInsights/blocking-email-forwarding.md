@@ -1,5 +1,5 @@
 ---
-title: 726 E-pasta pārsūtīšanas bloķēšana
+title: Ārējās automātiskās e-pasta pārsūtīšanas bloķēšana vai atbloķēšana
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059639"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897475"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>E-pasta pārsūtīšanas bloķēšana vai atbloķēšana
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Automātiskās e-pasta pārsūtīšanas bloķēšana vai atbloķēšana
 
 Lai iespējotu vai atspējotu e-pasta pārsūtīšanu konkrētai pastkastei, skatiet rakstu [E-pasta pārsūtīšanas konfigurēšana.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Nomnieka līmenī ārējās pārsūtīšanas kontrole tiek veikta, izmantojot izejošo surogātpasta politiku. Varat šeit skatīt izejošo surogātpasta filtra politiku [](https://protection.office.com/antispam) drošības un atbilstības centrā vai izmantojot komandu [Get-HostedOutboundSpamFilterPolicy.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
+Administratori var kontrolēt organizācijas ārējo pārsūtīšanu, izmantojot [izejošo surogātpasta politiku.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Jūs pārvaldāt izejošo surogātpasta politikas Microsoft 365 Defender vietnē vai izmantojot <https://security.microsoft.com/antispam> [cmdlet Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online PowerShell.
 
-Ja tiek parādīts šāds kļūdas ziņojums: **"550 5.7.520** Piekļuve liegta, jūsu organizācija neļauj veikt ārējo pārsūtīšanu", lūdzu, pārliecinieties, vai politika ir konfigurēta, lai iespējotu ārējo automātisko pārsūtīšanu.
+Ja tiek parādīts šāds kļūdas ziņojums: **"550 5.7.520** Piekļuve liegta, jūsu organizācija neļauj veikt ārējo pārsūtīšanu", pārliecinieties, vai politika ir konfigurēta, lai iespējotu ārējos automātiski pārsūtītos ziņojumus.
 
-**Piezīme.** Ārējo automātisko pārsūtīšanu ir ieteicams atspējot noklusējuma izejošā surogātpasta filtra politikā un iespējot to tikai tiem lietotājiem, kuriem ir nepieciešama ārējā pārsūtīšana, izveidojot šiem lietotājiem pielāgotu politiku. Papildinformāciju varat lasīt [šeit: Ārējo e-pasta ziņojumu pārsūtīšanas konfigurēšana programmā Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Piezīme.** Mēs iesakām  noklusējuma vērtību Automātiski  — sistēma tiek kontrolēta automātiskās pārsūtīšanas kārtulu iestatījumam jūsu noklusējuma izejošā surogātpasta filtra politikā (automātiskā ārējā pārsūtīšana ir bloķēta; joprojām darbojas iekšējā automātiskā pārsūtīšana). Izveidojiet pielāgotas izejošo surogātpasta filtra politikas un izmantojiet vērtību Ieslēgts **—** pārsūtīšana ir iespējota tikai lietotājiem, kuriem nepieciešama ārējā automātiskā e-pasta pārsūtīšana. Papildinformāciju skatiet rakstā [Ārējo e-pasta pārsūtīšanas konfigurēšana programmā Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

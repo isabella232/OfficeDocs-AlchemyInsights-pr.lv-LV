@@ -1,5 +1,5 @@
 ---
-title: OneDrive pieteikšanās kļūdas AADSTS50011
+title: OneDrive kļūdas ziņojums AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112919"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>OneDrive pieteikšanās kļūdas AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive kļūdas ziņojums AADSTS50011
 
-Ja saņemat kļūdas ziņojumu "AADSTS50011: pieprasījumā norādītais atbildes vietrādis URL neatbilst atbildei", kad pierakstāties lietojumprogrammā OneDrive, pārbaudiet, vai:
+Ja tiek parādīts kļūdas ziņojums "AADSTS50011: pieprasījumā norādītais atbildes vietrādis URL neatbilst atbildei", pierakstoties OneDrive programmā, pārbaudiet tālāk norādīto informāciju.
 
-Jūsu OneDrive versijai ir jābūt vienādai vai lielākai par versiju 20.052. XXXX. XXXX. Lai pārbaudītu savu versiju, paziņojumu apgabalā noklikšķiniet uz zilās OneDrive ikonas, atlasiet **palīdzības & iestatījumi > iestatījumi > par**.
+Jūsu OneDrive versijai ir jābūt vienādai ar vai lielākai par versiju 20.052.XXXX.XXXX. Lai pārbaudītu savu versiju, noklikšķiniet uz zilās OneDrive ikonas paziņojumu apgabalā, atlasiet **Palīdzība & Iestatījumi > Iestatījumi > Par**.
 
-Jūsu tīkls var bloķēt trafiku uz **g.Live.com** un **oneclient.SFX.MS**. Ja šī satiksme ir bloķēta, OneDrive nevar veikt atjaunināšanu. Strādājiet ar tīkla administratoru, lai nodrošinātu piekļuvi šiem vietrāžiem URL. [Šiem galapunktiem](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) jāsasniedz klienti, kas izmanto Microsoft 365 plānus.
+Jūsu tīkls var bloķēt trafiku uz **g.live.com** **un oneclient.sfx.ms.** Ja trafiks ir bloķēts, OneDrive nevar atjaunināt. Sazinieties ar tīkla administratoru, lai pārliecinātos, vai jums ir piekļuve šiem vietrāžiem URL. [Šiem galapunktiem](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) jābūt sasniedzamiem klientiem, kas izmanto Microsoft 365 plānus.
 
-Ja jums ir manuāli jāiegūst pašreizējā OneDrive versija, apmeklējiet vietni [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Ja vēlaties manuāli iegūt jaunāko programmas versiju, OneDrive, apmeklējiet [https://aka.ms/getonedrive](https://aka.ms/getonedrive) vietni .
