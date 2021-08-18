@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316647"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Vienumu eksportēšana arhīva failā programmā Outlook for Mac
 
@@ -24,8 +24,7 @@ Lai samazinātu iesūtnes lielumu, manuāli arhivējiet e-pasta ziņojumus, kont
 
 1. Cilnē **Rīki** noklikšķiniet uz **Eksportēt.**
 
-> [!NOTE]
-> Vai neredzat **pogu** Eksportēt? Pārliecinieties, vai jums ir jaunākā Outlook. Izvēlnē Outlook **noklikšķiniet** uz Pārbaudīt, **vai nav atjauninājumu.** Ja tiek Outlook visi atjauninājumi un joprojām neredzat  pogu **Eksportēt,**  izvēlnē Fails meklējiet Outlook Eksportēšana.
+    **Piezīme.** Vai neredzat **pogu** Eksportēt? Pārliecinieties, vai jums ir jaunākā Outlook. Izvēlnē Outlook **Noklikšķiniet** uz Pārbaudīt, **vai nav atjauninājumu.** Ja tiek Outlook visi atjauninājumi un joprojām neredzat  pogu **Eksportēt,**  izvēlnē Fails meklējiet Outlook Eksportēšana.
 
 2. Lodziņā Eksportēšana **uz arhīva failu (.olm)** atzīmējiet eksportējamos vienumus un noklikšķiniet uz **Turpināt.**
 
@@ -37,7 +36,7 @@ Papildinformāciju par to, kā piekļūt Outlook for Mac datu failā (.olm) sagl
 
 **Es vēlos eksportēt uz iCloud vai cita veida arhīva failu**
 
-Pašlaik pieejamā vienīgā eksportēšanas opcija ir .olm arhīva fails. Lai pieprasītu papildu eksportēšanas opcijas, apmeklējiet [Outlook atsauksmju](https://outlook.uservoice.com/) lodziņu un sniedziet atsauksmes. Grupas Outlook aktīvi pārrauga šo forumu.
+Pašlaik pieejamā vienīgā eksportēšanas opcija ir .olm arhīva fails. Lai pieprasītu papildu eksportēšanas opcijas, apmeklējiet [Outlook Atsauksmju lodziņš un](https://outlook.uservoice.com/) sniedziet atsauksmes. Grupas Outlook aktīvi pārrauga šo forumu.
 
 **Skatiet arī**
 

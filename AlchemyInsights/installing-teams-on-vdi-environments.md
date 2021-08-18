@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1843caac062824ee531abda8e443903b98d94b4948759a0f63741ae17062bf8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088151"
 ---
 # <a name="installing-teams-on-vdi-environments"></a>Teams instalēšana VDI vidēs
 
-Informāciju par Teams izvietošanu koplietotos datoros, [attālās darbvirsmas pakalpojumos](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)(Rds) vai virtuālās darbvirsmas infrastruktūrā (VDI) skatiet rakstā Koplietojams dators un VDI vides ar Microsoft Teams.
+Informāciju par failu izvietošanu Teams datoros, [attālās darbvirsmas pakalpojumos](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)(Rds) vai virtuālās darbvirsmas infrastruktūrā (VDI) skatiet rakstā Koplietojams dators un VDI vides ar Microsoft Teams.

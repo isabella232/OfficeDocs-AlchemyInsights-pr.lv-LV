@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897803"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316299"
 ---
 # <a name="set-up-exchange-online-protection"></a>Iestatīšanas Exchange Online Protection
 
 Microsoft Exchange Online Aizsardzība (EOP) ir mākonī bāzēts e-pasta filtrēšanas pakalpojums aizsardzībai pret surogātpastu, ļaunprogrammatūru un izlikšanās, ar līdzekļiem, kas aizsargā jūsu organizāciju pret ziņojumapmaiņas politikas pārkāpumiem.
 
-Izmantojiet Exchange Online Protection [ceļvedi,](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) lai iestatītu EOP, atlasot kādu no trim izvietošanas scenārijiem, kas ir vislabāk piemēroti jūsu organizācijai:
+Izmantojiet [Exchange Online Protection ceļvedi,](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) lai iestatītu EOP, atlasot kādu no trim izvietošanas scenārijiem, kas ir vislabāk piemēroti jūsu organizācijai:
 
 - Visas lokālās pastkastes.
 - Hibrīds (lokālo un mākoņa pastkastu kombinācija)

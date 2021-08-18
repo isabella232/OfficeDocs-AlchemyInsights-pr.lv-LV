@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge izvietošana iOS, iPadOS un Android ierīcē
+title: Informācijas Microsoft Edge iOS, iPadOS un Android ierīcēs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,32 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194519"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316881"
 ---
-# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Microsoft Edge izvietošana iOS, iPadOS un Android ierīcē
+# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Informācijas Microsoft Edge iOS, iPadOS un Android ierīcēs
 
-Tālāk apkopotais vadītais scenārijs palīdzēs piešķirt Microsoft Edge iOS, iPadOS un Android ierīču lietotājiem.
+Tālāk apkopotais vadītais scenārijs palīdzēs Microsoft Edge iOS, iPadOS un Android ierīču lietotājiem.
 
-> [!NOTE]
-> Ja esat bloķējis lietotājus no reģistrēšanas mobilajās ierīcēs, šis vadītais scenārijs nedarbosies un lietotājiem vajadzēs instalēt Microsoft Edge savā datorā.
+**Piezīme.** Ja lietotājiem bloķējāt iespēju reģistrēt mobilās ierīces, šis vadītais scenārijs nedarbosies, un lietotājiem šī programma būs Microsoft Edge jāinstalē atsevišķi.
 
-Vadītais scenārijs ietver tālāk norādītās darbības.
+Vadītajā scenārijā ir jāveic šādas darbības:
 
-1. [Priekšnoteikumi](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
-2. [Ieviešanu](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
-3. [Pamati](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
-4. [Konfigurācijas](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
-5. [Uzdevumus](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
+1. [Priekšnosacījumi](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
+2. [Ievads](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
+3. [Pamatinformācija](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
+4. [Konfigurācija](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
+5. [Uzdevumi](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [Pārskatīšana un izveide](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Pēc darbību izpildes, Microsoft Intune politikas nodrošina tālāk norādītās programmas Microsoft Edge darbam līdzekļus:
+Kad vadītajā scenārijā būs jāveic darbības, Microsoft Intune politikas iespējos šādus Microsoft Edge līdzekļus:
 
-- Duālā identitāte
+- Dual identity
 - Integrācija ar Microsoft Intune programmu aizsardzības politiku
 - Integrācija ar Azure Active Directory lietojumprogrammas starpniekserveri
-- Pārvaldītas izlases un sākumlapas īsinājumtaustiņi
+- Pārvaldītas izlases un sākumlapas saīsnes

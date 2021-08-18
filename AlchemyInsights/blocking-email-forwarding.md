@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897475"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315881"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Automātiskās e-pasta pārsūtīšanas bloķēšana vai atbloķēšana
 
 Lai iespējotu vai atspējotu e-pasta pārsūtīšanu konkrētai pastkastei, skatiet rakstu [E-pasta pārsūtīšanas konfigurēšana.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Administratori var kontrolēt organizācijas ārējo pārsūtīšanu, izmantojot [izejošo surogātpasta politiku.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Jūs pārvaldāt izejošo surogātpasta politikas Microsoft 365 Defender vietnē vai izmantojot <https://security.microsoft.com/antispam> [cmdlet Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online PowerShell.
+Administratori var kontrolēt ārējo pārsūtīšanu organizācijai, izmantojot [izejošo surogātpasta politiku.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Jūs pārvaldāt izejošo surogātpasta politikas Microsoft 365 Defender vietnē vai izmantojot <https://security.microsoft.com/antispam> [cmdlet Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online PowerShell.
 
 Ja tiek parādīts šāds kļūdas ziņojums: **"550 5.7.520** Piekļuve liegta, jūsu organizācija neļauj veikt ārējo pārsūtīšanu", pārliecinieties, vai politika ir konfigurēta, lai iespējotu ārējos automātiski pārsūtītos ziņojumus.
 

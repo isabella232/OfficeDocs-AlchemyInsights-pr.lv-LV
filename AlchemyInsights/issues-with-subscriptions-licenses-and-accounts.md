@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087971"
 ---
 # <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problēmas ar abonementiem, licencēm un kontiem
 
-1. Visi Azure AD bezmaksas nomnieka lietotāji var izmantot Azure daudzfaktoru autentifikāciju, izmantojot [drošības noklusējumus](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
-1. Izprotiet [AZURE ad daudzfaktoru autentifikācijas līdzekļus un licences](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Uzziniet, kā [saistīt vai pievienot Azure abonementu Azure Active Directory nomniekam](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Lai [pārsūtītu Azure abonementu uz citu AZURE ad direktoriju](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription), veiciet tālāk norādītās darbības.
-1. Skatiet rakstu licenču piešķiršana vai [noņemšana Azure Active Directory portālā](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) , lai saņemtu norādījumus par to, kā piešķirt vai noņemt licences no lietotājiem.
+1. Visi lietotāji Azure AD Free nomniekā var izmantot Azure Multi-Factor autentifikāciju, izmantojot [drošības noklusējumus.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Izpratne [par Azure AD Multi-Factor Authentication līdzekļiem un licencēm.](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. [Uzziniet, kā saistīt vai pievienot Azure abonementu savam Azure Active Directory nomniekam.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. Veiciet šīs [darbības, lai Azure abonementu pārsūtītu uz citu Azure AD direktoriju.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Norādījumus par to, kā lietotājiem [piešķirt vai noņemt licences Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) skatiet rakstā Licenču piešķiršana vai noņemšana Azure Active Directory portālā.
