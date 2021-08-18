@@ -13,17 +13,17 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085847"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328379"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versiju SharePoint OneDrive 
 
 
-Ja versiju izveide ir iespējota SharePoint sarakstā vai bibliotēkā, jebkurā laikā bibliotēkā glabāt, izsekot un atjaunot vienumus sarakstā un failos. Versiju pārvaldība kopā ar citiem iestatījumiem, piemēram, paņemšanu, nodrošina daudz kontroles pār jūsu vietnē publicēto saturu un var sniegt reālu vērtību, ja jums kādreiz nepieciešams apskatīt vai atjaunot vecāku vienuma vai faila versiju.
+Ja versiju izveide ir iespējota SharePoint sarakstā vai bibliotēkā, varat saglabāt, izsekot un atjaunot vienumus sarakstā un failos bibliotēkā, tiklīdz tie tiek mainīti. Versiju pārvaldība kopā ar citiem iestatījumiem, piemēram, paņemšanu, nodrošina daudz kontroles pār jūsu vietnē publicēto saturu un var sniegt reālu vērtību, ja jums kādreiz nepieciešams skatīt vai atjaunot vecāku vienuma vai faila versiju.
 
 Lai iegūtu papildinformāciju par versijām, skatiet tālāk esošos rakstus.
 
@@ -39,7 +39,6 @@ Lai iegūtu papildinformāciju par versijām, skatiet tālāk esošos rakstus.
 
 - [Versiju versiju ierobežojumi](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Ja esat Microsoft 365, veidojot jaunas OneDrive darbam bibliotēkas, versiju izveide tagad ir ieslēgta pēc noklusējuma, un tā automātiski saglabās dokumenta pēdējās 500 versijas. Tas palīdzēs novērst svarīgu dokumentu vai datu zaudēšanu. Ja jūsu vai grupas OneDrive darbam vietnē ir esošas bibliotēkas, kurās nav iespējota versiju izveide, varat ieslēgt versiju izveidi jebkurā laikā.
+**Piezīme.** Ja esat Microsoft 365 klients, veidojot jaunas OneDrive darbam bibliotēkas, versiju izveide tagad ir ieslēgta pēc noklusējuma, un tā automātiski saglabās dokumenta pēdējās 500 versijas. Tas palīdzēs novērst svarīgu dokumentu vai datu zaudēšanu. Ja jūsu vai grupas OneDrive darbam vietnē ir esošas bibliotēkas, kurās nav iespējota versiju izveide, varat ieslēgt versiju izveidi jebkurā laikā.
 
 

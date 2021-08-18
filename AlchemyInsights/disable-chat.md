@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: 90c85197ab97764a68d10217123d7ff2d5857a8038a8f5aad44c0992063e4ef8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 17c9f214deaaa1d9c2a8989f01e2678556e12e8e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890477"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330333"
 ---
 # <a name="disable-chat"></a>Atspējot tērzēšanu
 
@@ -28,9 +28,9 @@ Lai iespējotu vai atspējotu tērzēšanu savā organizācijā, varat izveidot 
 
 - **Ziņojumapmaiņa :** administrēšanas Teams dodieties uz Ziņojumapmaiņas politikas [un](https://admin.teams.microsoft.com/)ieslēdziet vai **izslēdziet** tērzēšanu.  Papildinformāciju par pielāgotām ziņojumapmaiņas politikām un to, kā piešķirt politikas lietotājiem, skatiet rakstā [Ziņojumapmaiņas politiku pārvaldība programmā Teams.](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)
 
-- **Skolēni:** lai atspējotu tērzēšanu skolēnam, skatiet opcijas tērzēšanai sapulcēs un tērzēšanas iespējas 1:1 Teams izglītības politikās un politikas pakotnēs izglītības [iestādēm.](https://docs.microsoft.com/microsoftteams/policy-packages-edu)
+- **Skolēni:** lai atspējotu tērzēšanu skolēnam, skatiet tērzēšanas iespējas sapulcēs un tērzēšanas iespējas 1:1 Teams izglītības politikās un politikas pakotnēs izglītības [iestādēm.](https://docs.microsoft.com/microsoftteams/policy-packages-edu)
 
-- Vies lietotāji: varat konfigurēt viesu piekļuves politikas, lai atļautu viesiem piekļūt tērzēšanai, un kuras var ieslēgt **vai izslēgt** **tērzēšanu.** Papildinformāciju skatiet rakstā [Viesu piekļuves konfigurēšana Teams centrā](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
+- Vies lietotāji: varat konfigurēt viesu piekļuves politikas, lai atļautu viesiem piekļūt tērzēšanai, un kuras var ieslēgt **vai izslēgt** **tērzēšanu.** Papildinformāciju skatiet rakstā [Viesu piekļuves konfigurēšana Teams centrā.](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 

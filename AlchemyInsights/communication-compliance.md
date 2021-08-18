@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090743"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329925"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Saziņas atbilstība programmā Microsoft 365
 
@@ -43,5 +43,4 @@ Licences prasības. Ar saziņas politikām pārraudzītiem lietotājiem ir jāb�
 
 Ja jums nav neviena no iepriekš minētajiem un vēlaties izmēģināt saziņas atbilstību, reģistrēieties **[E5 izmēģinājumversijai Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Lai e-pasta ziņojumi tiktu pilnībā apstrādāti politikā, var paiet līdz pat 24 stundām. Saziņai Microsoft Teams, Yammer un trešo pušu platformās var būt nepieciešams līdz 48 stundām, lai pilnībā apstrādātu politiku.
+**Piezīme.** Lai e-pasta ziņojumi tiktu pilnībā apstrādāti politikā, var paiet līdz pat 24 stundām. Saziņai Microsoft Teams, Yammer un trešo pušu platformās var būt nepieciešams līdz pat 48 stundām, lai pilnībā apstrādātu politiku.

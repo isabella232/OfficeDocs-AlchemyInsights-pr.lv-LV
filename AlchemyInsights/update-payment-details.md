@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892434"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330675"
 ---
 # <a name="update-credit-card-information"></a>Kedītkartes informācijas atjaunināšana
 
 1. Microsoft 365 administrēšanas centrā dodieties uz lapu **Norēķini** \> [Maksāšanas metodes](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Ja rodas cilpa, kas nosūta jūs atpakaļ uz administrēšanas sākumlapu, pirms tiek pabeigti atjauninājumi, mēģiniet izmantot Inprivate vai inkognito režīmu.
+    **Piezīme.** Ja rodas cilpa, kas nosūta jūs atpakaļ uz administrēšanas sākumlapu, pirms tiek pabeigti atjauninājumi, mēģiniet izmantot Inprivate vai inkognito režīmu.
   
 2. Izvēlieties kredītkarti, kuru vēlaties atjaunināt.
 
-    > [!NOTE]
-    > Ja maksāšanas metodi ir pievienojis cits administrators, jūs nevarēsit atjaunināt kredītkartes vai bankas konta informāciju šim abonementam. Ja kredītkartei drīz beigsies derīguma termiņš un otrs administrators nevar atjaunināt šo informāciju, varat izvairīties no traucējumiem pakalpojuma darbībā, abonementam pievienojot citu kredītkarti vai jaunu bankas kontu, izvēloties **maksāšanas metodes pievienošanas** opciju.
+    **Piezīme.** Ja maksāšanas metodi ir pievienojis cits administrators, jūs nevarēsit atjaunināt kredītkartes vai bankas konta informāciju šim maksāšanas veidam. Ja kredītkartei drīz beigsies derīguma termiņš un otrs administrators nevar atjaunināt šo informāciju, varat izvairīties no traucējumiem pakalpojuma darbībā, abonementam pievienojot citu kredītkarti vai jaunu bankas kontu, izvēloties **maksāšanas metodes pievienošanas** opciju.
   
 3. **Maksājumu metodes detalizētās informācijas** rūtī atlasiet **Rediģēt**.
 

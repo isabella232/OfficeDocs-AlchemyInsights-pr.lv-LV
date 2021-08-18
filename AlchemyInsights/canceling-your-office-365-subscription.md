@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901743"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330179"
 ---
 # <a name="canceling-your-subscription"></a>Vai atceļat savu abonementu?
 
@@ -30,7 +30,6 @@ Mums ir žēl, ka aiziesiet, bet, ja vēlaties atcelt savu abonementu, jums ir �
   
 **Atmaksa. Visu atpakaļvērtēto kredītu jums atgriezīs nākamajā norēķinu ciklā.**
 
-> [!NOTE]
-> Ja neredzat atcelšanas opciju, atlasiet abonementu, lai skatītu detalizētas informācijas lapu. Sadaļā **Abonementa un maksājumu iestatījumi** atlasiet **Atcelt abonementu.**
+**Piezīme.** Ja neredzat atcelšanas opciju, atlasiet abonementu, lai skatītu detalizētas informācijas lapu. Sadaļā **Abonementa un maksājumu iestatījumi** atlasiet **Atcelt abonementu.**
 
 Papildinformāciju skatiet rakstā [Abonementa atcelšana.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

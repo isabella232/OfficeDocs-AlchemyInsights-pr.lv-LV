@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893918"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327853"
 ---
 # <a name="unable-to-activate-office"></a>Nevar aktivizēt Office
 
-**Piezīme.** Ja izmantojat vecāku Windows versiju (piemēram, Windows 7), pārliecinieties, vai TLS 1.2 ir iespējots kā noklusējums. Papildinformāciju skatiet rakstā Atjaunināšana, lai [iespējotu TLS 1.1 un TLS 1.2 kā noklusējuma drošos protokolus programmā WinHTTP Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
+**Piezīme.** Ja izmantojat vecāku programmas Windows versiju (piemēram, Windows 7), pārliecinieties, vai TLS 1.2 ir iespējots kā noklusējums. Papildinformāciju skatiet rakstā Atjaunināšana, lai [iespējotu TLS 1.1 un TLS 1.2 kā noklusējuma drošos protokolus programmā WinHTTP Windows.](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
 - Pārbaudiet, vai nav beidzies jūsu abonements.
 - Pārliecinieties, vai jums ir abonements, kas atļauj klienta licences, piemēram, Office 365 Business vai Business Premium, un [nodrošiniet, ka lietotājam ir piešķirta licence](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

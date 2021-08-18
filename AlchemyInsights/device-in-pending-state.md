@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914010"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330379"
 ---
 # <a name="device-in-pending-state"></a>Ierīce ir gaidošā stāvoklī
 
@@ -35,15 +35,14 @@ Hibrīda Azure AD pievienošanās reģistrācijas procesam nepieciešamas ierīc
 
 Lūk, kas notiek reģistrācijas procesa laikā:
 
-1. Windows 10 atrod pakalpojuma savienojuma punkta (Service Connection Point — SCP) ierakstu, kad lietotājs piesakās ierīcē.
+1. Windows 10 atklāj pakalpojuma savienojuma punkta (Service Connection Point — SCP) ierakstu, kad lietotājs piesakās ierīcē.
 
     1. Ierīce vispirms mēģina izgūt nomnieka informāciju no klienta puses SCP reģistrā [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Papildinformāciju skatiet [dokumentā](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. Ja tas neizdodas, ierīce sazinās ar lokālo Active Directory, lai iegūtu nomnieka informāciju no SCP. Lai pārbaudītu SCP, skatiet šo [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
-    > [!NOTE]
-    > Iesakām iespējot SCP Active Directory, tikai izmantojot klienta puses SCP sākotnējai validācijai.
+    **Piezīme.** Iesakām iespējot SCP Active Directory, tikai izmantojot klienta puses SCP sākotnējai validācijai.
 
-2. Windows 10 mēģina sazināties ar Azure AD sistēmas kontekstā, lai autentificētos azure AD.
+2. Windows 10 sazināties ar Azure AD sistēmas kontekstā, lai autentificētos azure AD.
 
     Varat pārbaudīt, vai ierīce var piekļūt Microsoft resursiem sistēmas kontā, izmantojot ierīces [reģistrācijas testa skriptu](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
 
@@ -55,11 +54,9 @@ Lūk, kas notiek reģistrācijas procesa laikā:
 
 6. Nākamajā lietotāja pieteikšanās reizē Windows 10 pabeigta reģistrācija.
 
-    > [!NOTE]
-    > Ja izmantojat VPN un logoff/login, domēna savienojamība tiek pārtraukta, varat aktivizēt reģistrāciju manuāli. Lai to paveiktu:
-    >
-    > Izsniedziet `dsregcmd /join` lokālu administratora uzvedni vai attāli, izmantojot PSExec jūsu datorā.
-    >
-    > Piemērs. `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Piezīme.** Ja izmantojat VPN un logoff/login, domēna savienojamība tiek pārtraukta, varat aktivizēt reģistrāciju manuāli. Lai to paveiktu:
+    
+    Problēma lokāli `dsregcmd /join` administratora uzvednē vai attāli, izmantojot PSExec jūsu datoram.\
+    Piemērs. `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Bieži sastopamās problēmas saistībā Azure Active Directory reģistrāciju skatiet rakstā Bieži uzdotie [jautājumi par ierīcēm.](https://docs.microsoft.com/azure/active-directory/devices/faq)
+Bieži sastopamās problēmas saistībā ar Azure Active Directory reģistrāciju skatiet rakstā Bieži [uzdotie jautājumi par ierīcēm.](https://docs.microsoft.com/azure/active-directory/devices/faq)

@@ -12,12 +12,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8cfa98a71764a566158cc316e844f88f3fd29804
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929816"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329879"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Centrmezgla SharePoint izveide
 
@@ -27,8 +27,7 @@ ms.locfileid: "53929816"
 
 3. Ievadiet centrmezgla vietnes parādāmo nosaukumu un norādiet atsevišķus lietotājus vai drošības grupas, kam vēlaties atļaut saistīt vietnes ar centrmezglu.
 
-    > [!NOTE]
-    >  Iesakām atlasīt saziņas vietni vai grupas vietni, kas izmanto jauno veidni. Ja izmantojat klasisku grupas vietni, centrmezgla navigācija tiks parādīta tikai mūsdienīgās lapās un centrmezgla vietnes iestatījumi tiks rādīti tikai mūsdienīgās lapās. Vietnes, kas jau ir saistītas ar citu centrmezglu, nevar reģistrēt kā centrmezgla vietni.
+    **Piezīme.** Iesakām atlasīt saziņas vietni vai grupas vietni, kas izmanto jauno veidni. Ja izmantojat klasisku grupas vietni, centrmezgla navigācija tiks parādīta tikai mūsdienīgās lapās un centrmezgla vietnes iestatījumi tiks rādīti tikai mūsdienīgās lapās. Vietnes, kas jau ir saistītas ar citu centrmezglu, nevar reģistrēt kā centrmezgla vietni.
   
 [Papildinformācija par centrmezgla vietnēm](https://go.microsoft.com/fwlink/?linkid=869149)
   

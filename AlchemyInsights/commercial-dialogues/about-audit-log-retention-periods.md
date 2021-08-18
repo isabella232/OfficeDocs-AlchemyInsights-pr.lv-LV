@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3dd312da2064d3dd0a6d37cb074c0d9b39a20b12
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006322"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330103"
 ---
 # <a name="about-audit-logs-retention-periods"></a>Par audita žurnālu saglabāšanas periodiem
 
@@ -27,8 +27,8 @@ Audita žurnālu saglabāšanas periods ir atkarīgs no jūsu organizācijas Off
 - **Office 365 E3:** 90 dienas.
 - **Office 365 E5:** 365 dienas. Viena gada saglabāšana pašlaik ir priekšskatījuma režīmā.
 - **E3 un Office 365 uzlabotā atbilstība pievienojumprogrammu:** 365 dienas. Viena gada saglabāšana pašlaik ir priekšskatījuma režīmā.
-- Lai pieteiktos priekšskatījuma programmā, iesniedziet pieprasījumu Microsoft atbalsta vietnē un iekļaujiet tālāk norādīto informāciju, kur sniegts apraksts par to, kas nepieciešama palīdzība: Ilgtermiņa Office 365 **privātā priekšskatījuma priekšskatījums.**
-> [!NOTE]
-> Saglabāšanas periods ir balstīts uz lietotāju licencēšanu. Piemēram, ja lietotājam jūsu organizācijā ir E3 licence, šī lietotāja veikto darbību audita ieraksti tiek saglabāti 90 dienas. Ja cits lietotājam ir E5 licence, viņa audita ieraksti tiek saglabāti vienu gadu.
+- Lai pieteiktos priekšskatījuma programmā, iesniedziet pieprasījumu Microsoft atbalsta vietnē un iekļaujiet tālāk norādīto informāciju par to, kas nepieciešama palīdzība: Ilgtermiņa **Office 365 privātā priekšskatījuma priekšskatījums.**
+
+**Piezīme.** Saglabāšanas perioda pamatā ir lietotāju licencēšana. Piemēram, ja lietotājam jūsu organizācijā ir E3 licence, šī lietotāja veikto darbību audita ieraksti tiek saglabāti 90 dienas. Ja cits lietotājam ir E5 licence, viņa audita ieraksti tiek saglabāti vienu gadu.
 
 Papildinformāciju skatiet šajā bieži uzdoto [jautājumu sadaļā.](https://go.microsoft.com/fwlink/?linkid=2115336)
