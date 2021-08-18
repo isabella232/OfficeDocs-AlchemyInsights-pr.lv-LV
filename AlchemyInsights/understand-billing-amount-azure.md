@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020091"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317147"
 ---
 # <a name="understand-billing-amount"></a>Informācija par norēķinu summu
 
@@ -70,7 +70,9 @@ Nē. Klienti saņem fiksētu bezmaksas līmeņa pakalpojumu skaitu un 200 $ kre
 
 **Kā pārbaudīt, vai bezmaksas pakalpojumi ir aktīvi vai kad beigsies to derīgums?**
 
-Dodieties uz Ibiza portāls > Abonements > Pārskata lapa > ritiniet uz leju līdz norādei 12 mēnešu bezmaksas pakalpojumi un noklikšķiniet uz informācijas ikonas. Tiks parādīts datums, kad beigsies bezmaksas pakalpojumu derīgums **Piezīme**. Neviens V1 pakalpojums nav daļa no Azure bezmaksas iekļautajiem pakalpojumiem. Jaunāko bezmaksas pakalpojumu sarakstu skatiet rakstā [Kuri produkti ir pieejami 12 mēnešus bez maksas](http://www.microsoftazuresponsorships.com/)
+Dodieties uz Ibiza portāls > Abonements > Pārskata lapa > ritiniet uz leju līdz norādei 12 mēnešu bezmaksas pakalpojumi un noklikšķiniet uz informācijas ikonas. Tiks parādīts datums, kad beigsies bezmaksas pakalpojumu derīgums
+
+**Piezīme.** Neviens V1 pakalpojums nav daļa no Azure bezmaksas iekļautajiem pakalpojumiem. Jaunāko bezmaksas pakalpojumu sarakstu skatiet rakstā [Kuri produkti ir pieejami 12 mēnešus bez maksas](http://www.microsoftazuresponsorships.com/)
 
 Papildu bieži uzdotie jautājumi: [Bieži uzdotie jautājumi par bezmaksas kontu](https://azure.microsoft.com/free/free-account-faq/)
 

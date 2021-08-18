@@ -1,5 +1,5 @@
 ---
-title: 123 saņemt konta atspējošanas kļūdu OWA?
+title: 123 Vai OWA tiek atspējots konta kļūdas ziņojums?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089339"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Vai programmā Outlook tīmeklī tiek rādīts kļūdas ziņojums, kas ir atspējots?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Vai programmā Outlook tīmeklī tiek atspējots konts?
 
-Ja saņemat kļūdas ziņojumu, ka **jūsu konts ir atspējots** , mēģinot  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` Atvērt Outlook tīmeklī (iepriekš zināma kā Outlook Web App), jūsu organizācijas administrators, iespējams, ir atspējojis piekļuvi programmai Outlook tīmeklī. Jūsu administrators var izlabot šo kļūdu, izpildot šajā rakstā norādītās darbības, [lai pastkastei iespējotu vai atspējotu Outlook Web App](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Ja programmas Outlook tīmeklī  (iepriekš Outlook Web App) atvēršanas laikā tiek parādīts kļūdas ziņojums Jūsu konts ir atspējots ar šo kontu, iespējams, jūsu organizācijas administrators ir atspējojis jūsu `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` piekļuvi Outlook tīmeklī. Administrators var novērst šo kļūdu, veicot darbības, kas norādītās tēmā Pastkastes [Outlook Web App iespējošana vai atspējošana.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

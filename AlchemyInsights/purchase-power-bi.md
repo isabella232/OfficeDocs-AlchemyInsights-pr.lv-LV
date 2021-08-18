@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502975"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900963"
 ---
 # <a name="purchase-power-bi"></a>Iegādāties Power BI
 
@@ -31,8 +31,8 @@ Power BI var iegādāties **Microsoft 365 administrēšanas centrs.**
 3. Atlasiet Power BI plānu, kuru vēlaties iegādāties, atlasiet **Detalizēti** un pēc tam atlasiet **Iegādāties**.
 4. Ievadiet nepieciešamo licenču skaitu un izvēlieties, kā maksās (katru mēnesi vai par visu gadu). Izvēlieties, vai automātiski piešķirt licences visiem lietotājiem, kuriem pašlaik nav licences. Pēc tam **atlasiet Paņemt tūlīt**.
 5. Pārskatiet informāciju par cenām un atlasiet **Tālāk**.
-6. Norādiet savu informāciju par maksājumu un pēc tam atlasiet **Veikt pasūtījumu**  >  **dodieties uz administrēšanas sākumlapu.**
+6. Norādiet savu informāciju par maksājumu un pēc tam atlasiet **Veikt pasūtījumu**  >  **Dodieties uz administrēšanas sākumlapu.**
 
-Kā piešķirt licences lietotājiem, skatiet [rakstā Licenču piešķiršana lietotājiem.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Kā piešķirt licences lietotājiem, skatiet [rakstā Licenču piešķiršana lietotājiem.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Lai iegādātos vairāk vai noņemtu licences, [skatiet rakstu Licenču iegāde vai noņemšana savam uzņēmuma abonementam.](/microsoft-365/commerce/licenses/buy-licenses)
+Lai iegādātos vairāk vai noņemtu licences, skatiet [rakstu Licenču iegāde vai noņemšana savam uzņēmuma abonementam.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

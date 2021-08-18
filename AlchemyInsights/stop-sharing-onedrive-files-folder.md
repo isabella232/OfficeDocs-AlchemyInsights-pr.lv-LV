@@ -1,5 +1,5 @@
 ---
-title: Failu vai OneDrive koplietošanas SharePoint pārtraukšana
+title: Failu un OneDrive koplietošanas SharePoint pārtraukšana
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: a70c62351d549111390dadcbe195fe273cd30000c638d765822e43d0ccd07dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0ebe6cbc730d2b3de6cbbe471d17c9ee8caeeee8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889601"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317407"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Kā pārtraukt failu OneDrive vai SharePoint kopīgošanu
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Kā pārtraukt failu OneDrive vai SharePoint koplietošanu
 
 Ja esat vienuma īpašnieks, varat pārtraukt vienuma koplietošanu, skatīt, ar kuriem lietotājiem tas ir kopīgots, vai mainīt atļaujas, kas ir citām personām.
 
 Papildinformāciju skatiet rakstā: 
 
-- [Failu vai OneDrive kopīgošanas SharePoint pārtraukšana](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Failu un OneDrive vai SharePoint kopīgošanas pārtraukšana](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Kā noņemt lietotājus no SharePoint](https://docs.microsoft.com/sharepoint/remove-users)

@@ -1,5 +1,5 @@
 ---
-title: Esiet sveicināts Microsoft 365 bākas privātajā priekšskatījumā
+title: Welcome to the Microsoft 365 Lighthouse Private Preview
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004405"
 - "7958"
-ms.openlocfilehash: cca5f2200d9a43ee35bd15262e5e2b8913d21d8f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: c68747fbea80732f80d7537e123eae95e52e02548a37c899350a5d1f9f5cd53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114251"
 ---
-# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Esiet sveicināts Microsoft 365 bākas privātajā priekšskatījumā
+# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Welcome to the Microsoft 365 Lighthouse Private Preview
 
-Jūs piedalāties Microsoft 365 bākas privātajā priekšskatījumā. Ja vēlaties sniegt atsauksmes par Microsoft 365 bāku, izlieciet informāciju mūsu [lietotāja balss vietnē](https://aka.ms/M365Lighthouseuservoice). Ja jums ir jautājumi vai problēmas, kas var rasties, izmantojot Microsoft 365 bāku, lūdzu, izveidojiet atbalsta pieprasījumu, lai saņemtu palīdzību.
+Jūs piedalāties privātajā priekšskatījumā tīmekļa Microsoft 365 bākā. Ja vēlaties sniegt atsauksmes par bāku Microsoft 365, publiciet informāciju mūsu [User Voice vietnē.](https://aka.ms/M365Lighthouseuservoice) Ja jums ir jautājumi vai rodas problēma, izmantojot Bāku Microsoft 365, izveidojiet atbalsta pieprasījumu, lai saņemtu turpmāku palīdzību.

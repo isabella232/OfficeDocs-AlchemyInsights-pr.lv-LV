@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038812"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900659"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problēmu novēršana programmatūrā Microsoft Defender Office 365
 
-- **Vai pamanāt ziņojumu piegādes kavējumus?** Izmantojiet opciju [Dinamiskā piegāde](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) savā programmatūrā Microsoft Defender Office 365 Seifs pielikumu politiku. Tas palīdzēs izvairīties no ziņojumu aizkaves, vienlaikus aizsargājot adresātus no ļaunprātīgiem failiem.
+- **Vai pamanāt ziņojumu piegādes kavējumus?** Izmantojiet opciju [Dinamiskā piegāde](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) savā programmatūrā Microsoft Defender Office 365 Seifs pielikumu politiku. Tas palīdzēs izvairīties no ziņojumu aizkaves, vienlaikus aizsargājot adresātus no ļaunprātīgiem failiem.
 
 - **Vai vēlaties ziņot Microsoft par aplami pozitīvajiem vai aplami negatīvajiem?** Izmantojiet [submissions Explorer](https://protection.office.com/reportsubmission).
 
@@ -28,8 +28,8 @@ ms.locfileid: "54038812"
 
   1. Dodieties [https://protection.office.com](https://protection.office.com) uz sadaļu un pierakstieties ar globālā administratora vai drošības administratora kontu.
 
-  2. Kreisajā navigācijas rūtī sadaļā Apdraudējumu **pārvaldība izvēlieties** Politikas **un** \> **Seifs saites**.
+  2. Kreisajā navigācijas rūtī sadaļā Apdraudējumu **pārvaldība izvēlieties** Politikas **un Seifs** \> **saites**.
 
   3. Sadaļā **Politikas, kas attiecas uz visu organizāciju** atlasiet šo politiku un noklikšķiniet uz **Rediģēt.**
 
-  4. Sadaļā **Iestatījumi** **iespējojiet Opciju Lietot drošās saites ziņojumiem, kas nosūtīti organizācijā.**
+  4. Sadaļā **Iestatījumi** iespējojiet **Opciju Lietot drošās saites ziņojumiem, kas nosūtīti organizācijā.**

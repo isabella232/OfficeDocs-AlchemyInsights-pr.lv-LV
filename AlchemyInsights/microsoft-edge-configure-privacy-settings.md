@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge konfidencialitātes iestatījumu konfigurēšana
+title: Microsoft Edge iestatījumu konfigurēšana
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114179"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge konfidencialitātes iestatījumu konfigurēšana
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge iestatījumu konfigurēšana
 
-Pēc noklusējuma, ja Microsoft Edge ir izvietots platformā non-Windows, diagnostikas dati un vietnes informācija netiek nosūtīta korporācijai Microsoft. Tomēr, ja Microsoft Edge ir izvietots operētājsistēmā Windows 10, diagnostikas dati un vietnes informācija tiek nosūtīta atbilstoši lietotāju [Windows diagnostikas datu iestatījumiem](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization).
+Pēc noklusējuma, Microsoft Edge ir izvietotas platformās, kas nav Windows platformas, diagnostikas dati un vietnes informācija netiek sūtīta korporācijai Microsoft. Tomēr, ja Microsoft Edge vai Windows 10, diagnostikas dati un vietnes informācija tiek sūtīta saskaņā ar lietotāju [Windows diagnostikas datu iestatījumiem.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Lai konfigurētu, kā Microsoft Edge apstrādā datu apkopošanu savai organizācijai, izmantojiet tālāk norādītās grupu politikas.
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): šī politika sniedz atskaišu izveides un ar avarēšanu saistītus datus.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): šī politika nosūta vietnes informāciju, kas tiek izmantota, lai uzlabotu Microsoft pakalpojumus.
+Lai konfigurētu Microsoft Edge datu apkopošanu jūsu organizācijai, izmantojiet šādas grupas politikas:
+- [MetricsReportingEnabled: šī](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled)politika ļauj ziņot par lietojumu un ar avāriju saistītiem datiem.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Šī politika nosūta vietnes informāciju, kas tiek izmantota, lai uzlabotu Microsoft pakalpojumi.
 
-Papildinformāciju skatiet rakstā [politikas iestatījumu konfigurēšana](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Papildinformāciju skatiet rakstā [Politikas iestatījumu konfigurēšana.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

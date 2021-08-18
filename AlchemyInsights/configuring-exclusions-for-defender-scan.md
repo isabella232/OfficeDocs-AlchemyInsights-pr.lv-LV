@@ -1,5 +1,5 @@
 ---
-title: Izņēmumu konfigurēšana skenēšanai Microsoft Defender ATP konfigurēšana
+title: Izņēmumu konfigurēšana programmatūrai Microsoft Defender ATP skenēšanai
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 0b64217062aadea22afe1aa17748a5f38b9f1cd6c59adc54345afe3c6f12bdc2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543692"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900339"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Izņēmumu konfigurēšana skenēšanai Microsoft Defender ATP konfigurēšana
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Izņēmumu konfigurēšana programmatūrai Microsoft Defender ATP skenēšanai
 
-Lai skenētu, kopumā varat izslēgt noteiktus failu paplašinājumus un Microsoft Defender ATP atrašanās vietas. Varat arī konfigurēt izņēmumus failiem, kas atvērti noteiktos procesos. Papildinformāciju skatiet rakstā Izņēmumu konfigurēšana un pārbaude, pamatojoties uz faila paplašinājumu un mapes [atrašanās](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) vietu un Izņēmumu konfigurēšana [failiem, kurus atver procesi.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
+Lai izslēgtu noteiktus failu paplašinājumus un mapju atrašanās vietas no programmatūras Microsoft Defender ATP, varat veikt skenēšanu. Varat arī konfigurēt izņēmumus failiem, kas atvērti noteiktos procesos. Papildinformāciju skatiet rakstā Izņēmumu konfigurēšana un pārbaude, pamatojoties uz faila paplašinājumu un mapes [atrašanās](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) vietu un Izņēmumu konfigurēšana [failiem, kurus atver procesi.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-Lai konfigurētu izņēmumus **Windows Server 2016 un 2019**, skatiet [rakstu pretvīrusu programmatūra Microsoft Defender izņēmumu konfigurēšana Windows serverī.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
+Lai konfigurētu izņēmumus **Windows Server 2016 un 2019,** skatiet [rakstu pretvīrusu programmatūra Microsoft Defender izņēmumu konfigurēšana Windows serverī](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
 
 **Mac**
 
-Detalizētu informāciju par atbalstītajiem izņēmumu tipiem un izņēmumu [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) sarakstu konfigurēšanu Mac datoriem skatiet sadaļā Atbalstītie izņēmumu tipi un Kā [konfigurēt izņēmumu sarakstu.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
+Detalizētu informāciju par atbalstītajiem izņēmumu tipiem un izņēmumu [](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) sarakstu konfigurēšanu Mac datoriem skatiet sadaļā Atbalstītie izņēmumu tipi un Kā [konfigurēt izņēmumu sarakstu.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Piezīme** Varat arī validēt izņēmumu sarakstus, izmantojot EICAR testa failu. Papildinformāciju skatiet [rakstā Izņēmumu sarakstu pārbaude, izmantojot EICAR testa failu.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
+**Piezīme** Varat arī validēt izņēmumu sarakstus, izmantojot EICAR testa failu. Papildinformāciju skatiet [rakstā Izņēmumu sarakstu pārbaude, izmantojot EICAR testa failu.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-Detalizētu informāciju par atbalstītajiem izslēgšanas tipiem un linux [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) izņēmumu saraksta konfigurēšanu skatiet rakstā Atbalstītie izņēmumu tipi un Programmas Microsoft Defender ATP operētājsistēmai Linux izņēmumu [konfigurēšana un pārbaude.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
+Detalizētu informāciju par atbalstītajiem izslēgšanas tipiem un linux [](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) izņēmumu saraksta konfigurēšanu skatiet rakstā Atbalstītie izslēgšanas tipi un Microsoft Defender ATP operētājsistēmai Linux izņēmumu konfigurēšana [un pārbaude.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Piezīme** Varat arī validēt izņēmumu sarakstus, izmantojot EICAR testa failu. Papildinformāciju skatiet [rakstā Izņēmumu sarakstu pārbaude, izmantojot EICAR testa failu.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
+**Piezīme** Varat arī validēt izņēmumu sarakstus, izmantojot EICAR testa failu. Papildinformāciju skatiet [rakstā Izņēmumu sarakstu pārbaude, izmantojot EICAR testa failu.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Experts-Experts on demand
+title: Microsoft Threat Experts - eksperti pēc pieprasījuma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113927"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts-Experts on demand
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts - eksperti pēc pieprasījuma
 
-Pēc pieprasījuma eksperti ir otrais Microsoft draudu speciālistu potenciāls. Šeit varat sazināties ar mums, ja jums ir jākonsultējas par jautājumiem, kas saistīti ar atklāšanu un pretiniekiem.
+Eksperti pēc pieprasījuma ir otrā Microsoft Threat Experts iespēja. Šī ir vieta, kur varat ar mums sazināties, kad jums ir nepieciešamas apspriedšanās par atbilstošiem jautājumiem par noteikšanām un eksversijām.
 
-Ja esat jau dalībnieks galapunkta klientam, varat sazināties ar savu Microsoft pārstāvi, lai abonētu Microsoft Threat Experts-Experts pēc pieprasījuma.
+Ja jūs jau esat Defender for Endpoint klients, varat sazināties ar savu Microsoft pārstāvi, lai abonētu Microsoft Threat Experts ekspertiem pēc pieprasījuma.
 
-Iespēja **konsultēties ar Threat Expert** ir pieejama tālāk norādītajās izvēlnēs portālā, kur varat sadarboties ar ekspertiem izmeklēšanas kontekstā:
+Iespēja konsultēties **ar apdraudējumu** speciālistiem ir pieejama šādās izvēlnēs portālā, kur varat sadarboties ar ekspertiem saistībā ar izpēti:
 
-- Izvēlne Palīdzība un atbalsts
+- Palīdzības un atbalsta izvēlne
 - Ierīces lapas darbību izvēlne
-- Izvēlne brīdinājumi lapas darbības
-- Izvēlne Fails lapas darbības
+- Lapas Brīdinājumi izvēlne Darbības
+- Izvēlne Faila lapas darbības
 
-Lai iegūtu papildinformāciju, skatiet rakstu [Microsoft draudu speciālistu iespēju konfigurēšana un pārvaldība](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Papildinformāciju skatiet [rakstā Microsoft Threat Experts iespēju konfigurēšana un pārvaldība.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
