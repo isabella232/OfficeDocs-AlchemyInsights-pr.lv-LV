@@ -1,8 +1,9 @@
 ---
-title: Microsoft 365 a1 bieži uzdotie jautājumi
+title: Bieži uzdotie jautājumi par līdzekli Microsoft 365 A1
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,27 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: b9c792c6a4e0fbfae46a553800504600045ef769
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: MT
+ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714230"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452109"
 ---
-# <a name="microsoft-365-a1-faq"></a>Microsoft 365 a1 bieži uzdotie jautājumi
+# <a name="microsoft-365-a1-faq"></a>Bieži uzdotie jautājumi par līdzekli Microsoft 365 A1
 
-A1 abonementi un licenču pārvaldības bieži uzdotie jautājumi:
+A1 bieži uzdotie jautājumi par abonementu un licenču pārvaldību:
 
-- Ja jūsu iestāde vēl nav iestatījusi Microsoft 365 Education, bet vēlaties pievienot **microsoft 365 bez maksas**, varat sākt darbu, nodrošinot savu e-pastu. Lai norādītu savu e-pasta adresi, skatiet rakstu [Darba sākšana ar Office 365 bez maksas](https://www.microsoft.com/education/products/office).  
-- Ja jūsu iestāde jau ir kvalificēta programmai Microsoft 365 Education, dodieties uz sadaļu **norēķini > [iegādes pakalpojumi](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Izmantojiet meklēšanas lodziņu, lai meklētu "a1", un atlasiet plānu un lietotāju skaitu. Papildinformāciju skatiet rakstā [bezmaksas izmēģinājuma abonementa izmēģināšana](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) vai [cita abonementa iegāde](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- Lai **mainītu plānus**, skatiet rakstu [Jaunināšana uz citu plānu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Lai lietotājiem **piešķirtu** a1 licences, dodieties uz **norēķinu > [licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lai uzzinātu vairāk, skatiet rakstu [Licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Lai **iegādātos vai noņemtu** a1 licences, dodieties uz sadaļu **norēķini > [jūsu produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
-- Lai **atceltu** a1 abonementu, dodieties uz  **norēķini > [saviem produktiem](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet abonementu un sadaļā **abonementa un maksāšanas iestatījumi** atlasiet **atcelt abonementu**. Lai uzzinātu vairāk, skatiet rakstu [Abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- Lai **aktivizētu** a1 abonementu, skatiet rakstu [abonementa aktivizēšana](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Lai **atkārtoti aktivizētu** a1 abonementu, skatiet rakstu [abonementa atkārtota aktivizēšana](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Lai **pagarinātu** a1 izmēģinājumversiju, skatiet rakstu [izmēģinājumversijas pagarinājums](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+- Ja jūsu iestāde vēl nav Microsoft 365 Education kontu, bet vēlaties pievienot **Microsoft 365 bez** maksas, varat sākt darbu, nodrošinot savu e-pastu. Lai nodrošinātu e-pastu, skatiet sadaļu[Darba sākšana Office 365 bez maksas.](https://www.microsoft.com/education/products/office)  
+- Ja jūsu iestāde jau ir Microsoft 365 Education, dodieties uz **Norēķini > [Pakalpojumu iegāde.](https://go.microsoft.com/fwlink/p/?linkid=868433)** Izmantojiet meklēšanas lodziņu, lai sameklētu “A1”, atlasiet plānu un lietotāju skaitu. Papildinformāciju skatiet sadaļā [Bezmaksas izmēģinājuma abonementa izmēģināšana](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) vai [ Cita abonementa iegāde.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)
+- Lai **mainītu plānus**, skatiet [Jaunināšana uz citu plānu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Lai **piešķirtu** A1 licences lietotājiem, dodieties uz **Norēķini > [licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Lai uzzinātu vairāk, skatiet [Licenču piešķiršana lietotājiem](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Lai **iegādātos vai noņemtu** A1 licences, savu produktu lapā > **[norēķini](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Lai uzzinātu vairāk, skatiet [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Lai **atceltu** A1 abonementu, dodieties uz  **Norēķini > [Jūsu produkti](https://go.microsoft.com/fwlink/p/?linkid=842054)**, atlasiet abonementu un sadaļā **Abonementa un maksāšanas iestatījumi** atlasiet **Atcelt abonementu**. Lai uzzinātu vairāk, skatiet rakstu [Abonementa atcelšana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Lai **aktivizētu** A1 abonementu, skatiet sadaļu [Abonementa aktivizēšana.](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)
+- Informāciju par A1 abonementa **atkārtotu aktivizēšanu** skatiet sadaļā [Abonementa atkārtota aktivizēšana](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Lai **pagarinātu** A1 izmēģinājumversiju, skatiet sadaļu [Izmēģinājumversijas perioda paildzinātājs.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
 
 Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
