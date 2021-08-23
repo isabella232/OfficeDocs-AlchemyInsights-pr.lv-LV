@@ -1,6 +1,6 @@
 ---
 title: Azure informācijas aizsardzības (AIP) etiķetes
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52124987"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451749"
 ---
 # <a name="azure-information-protection-aip-labels"></a>Azure informācijas aizsardzības (AIP) etiķetes
 
-Azure informācijas aizsardzības (AIP) etiķešu pārvaldība Azure portālā un AIP klients tiek novecojusi no 2021. gada 31. marta. Papildinformāciju skatiet rakstā [Azure informācijas aizsardzības (AIP) etiķetes, klasifikācija un aizsardzība](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection).
+Azure informācijas aizsardzības (AIP) etiķešu pārvaldība Azure portālā un AIP klients kopš 2021. gada 31. marta ir novecojuši. Papildinformāciju skatiet rakstā [Azure informācijas aizsardzības (AIP) etiķetes, klasifikācija un aizsardzība](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection).
 
 Etiķešu izveidei un pārvaldībai tā vietā izmantojiet vienotās Microsoft 365 iespējas. 
 
-Papildinformāciju skatiet rakstā:
+Papildinformācijai lasiet:
 
 [Sensitivitātes etiķešu pārvaldība Office programmās](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
