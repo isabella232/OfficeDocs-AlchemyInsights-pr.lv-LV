@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056497"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522361"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Vai kļūdas ziņojums par pastkasti netiek Outlook tīmeklī?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Vai saņemat kļūdu pastkastē, kuru nevar Outlook tīmeklī?
 
-Ja izmantojat programmu Outlook tīmeklī un saņemat  kļūdas ziņojumu par pastkasti, kontam, kuru izmantojāt, lai izveidotu savienojumu ar Outlook tīmeklī, nav Exchange Online licences, tāpēc ar kontu netiek saistīta neviena pastkaste. Administrators var piešķirt licenci jūsu kontam, veicot tālāk norādītās darbības.
+Ja tiek parādīts Outlook Web App (OWA) kļūda: "Neizdevās atrast pastkasti lietotājam *.",* tas nozīmē, ka lietotājam, kurš ir pieteicies, nav Exchange Onlince licences un sp, ar šo lietotāja kontu netiek saistīta neviena Exchange Online pastkaste. 
 
-1. Sadaļā [Lietotāji atveriet Microsoft 365 administrēšanas centrs](https://portal.office.com/adminportal/home#/homepage) **dodieties uz** Aktīvie lietotāji un atlasiet lietotāju, kuram tiek rādīta kļūda. 
+Organizācijas administrators var lietotājam Exchange licenci, izmantojot Microsoft 365 administrēšanas centrs, veicot tālāk norādītās darbības.
 
-2. Atvērtajā lietotāja lapā dodieties uz sadaļu Licences un  programmas, atlasiet atbilstošo vērtību **Atrašanās** vieta un piešķiriet licenci, kas satur Exchange Online (izvērsiet licenci, lai skatītu detalizētu informāciju par to). Kad esat pabeidzis, noklikšķiniet uz **Saglabāt izmaiņas.**
-
-Dažos gadījumos, ja licence jau ir piešķirta lietotāja kontam, licences noņemšana un atkārtota piešķiršana palīdz novērst problēmu un nodrošināt to pareizi sistēmā: 
-
-- Pārbaudiet, vai jūsu M365 Exchange Online (un citi, ja jums ir) abonementi ir atjaunināti un nav nesen beidzies derīgums.
-
-Kad esat pārliecināts, ka jūsu abonementa derīgums nav beidzies un lietotāja kontam ir piešķirta derīga licence, var paiet līdz pat 24 stundām, līdz licence tiek nodrošināta, tāpēc, iespējams, būs jāgaida, līdz problēma tiks atrisināta. Papildinformāciju skatiet [rakstā Licenču piešķiršana un pārvaldība.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Dodieties [uz Aktīvie](https://portal.office.com/adminportal/home#/users)lietotāji , atlasiet lietotāju un atlasiet **Produktu licenču**  >  **rediģēšana**. 
+1. Iestatiet nepieciešamo atrašanās vietu.
+1. Piešķiriet licenci, kam ir Exchange Online pakalpojumu plāns.
