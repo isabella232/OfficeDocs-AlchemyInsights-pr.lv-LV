@@ -3,7 +3,6 @@ title: Licenču aizturēšana vai pauzēt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 4c6c265ca3f06e4fe15cba5d6448f48c38341296
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321688"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844033"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licenču aizturēšana vai pauzēt
 
@@ -34,4 +34,4 @@ Lai uz laiku apturētu vai apturētu licenču lietojumu, varat noņemt licences 
 4. Detalizētas informācijas par abonementu lapā atlasiet **Noņemt licences**.
 5. Rūts **Licenču noņemšana** lodziņā **Licenču kopskaits** ievadiet šim abonementam nepieciešamais licenču skaits, pēc tam atlasiet **Saglabāt**. Piemēram, ja jums ir 100 licences un vēlaties aizturēt vai pauzēt 25 licences, kā abonementa licenču kopskaitu ievadiet 75.
 
-Lai uzzinātu vairāk, skatiet rakstu [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Lai uzzinātu vairāk, skatiet [Licenču iegāde vai noņemšana](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
