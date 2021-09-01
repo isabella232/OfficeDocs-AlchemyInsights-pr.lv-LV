@@ -3,7 +3,6 @@ title: Mainīt savu norēķinu adresi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330415"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843313"
 ---
 # <a name="change-your-billing-address"></a>Mainīt savu norēķinu adresi
 
@@ -30,7 +30,7 @@ Rēķinā vai rēķinā ir trīs adreses.
 
 **Maksāšanas metodes norēķinu adreses maiņa**
 
-1. Administrēšanas centrā dodieties uz **sadaļu Norēķini > [Maksāšanas veidi.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. Administrēšanas centrā dodieties uz **sadaļu Norēķini > [maksāšanas metodes.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Atlasiet kredītkarti vai bankas kontu, kuru vēlaties mainīt.
 3. Lapā Detalizēta **informācija par maksāšanas** metodi noklikšķiniet uz **Rediģēt.**
 4. Atjauniniet savu norēķinu adresi un pēc tam noklikšķiniet **uz > Gatavs.**
@@ -39,7 +39,7 @@ Papildinformāciju par adresēm un paziņojumu izmaiņām skatiet [rakstā Savu 
 
 **Mainīt norēķinu konta informāciju**
 
-1. Administrēšanas centrā dodieties uz **sadaļu Norēķini > [Norēķinu konti.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+1. Administrēšanas centrā dodieties uz sadaļu **Norēķini > [Norēķinu konti.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Atlasiet **Rediģēt norēķinu konta informāciju**.
 3. Atjauniniet norēķinu konta informāciju un pēc tam noklikšķiniet **uz > Gatavs.**
 

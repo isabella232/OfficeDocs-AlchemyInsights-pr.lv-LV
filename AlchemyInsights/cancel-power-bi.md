@@ -15,18 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 29d543859717e52bd625395429a49b785b35d3ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318957"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843421"
 ---
 # <a name="cancel-power-bi"></a>Atcelt Power BI
 
 Power BI var atcelt Microsoft 365 administrēšanas centrs.
 
-1. Administrēšanas centrā dodieties uz lapu **Norēķini > [jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
+1. Administrēšanas centrā dodieties uz lapu **Norēķini > [Jūsu](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkti.
 2. Cilnē **Produkti** atrodiet abonementu, ko vēlaties atcelt. Atlasiet daudzpunkti (vairāk darbību), pēc tam atlasiet **Atcelt abonementu**.
 3. Rūtī **Abonementa** atcelšana izvēlieties atcelšanas iemeslu. Ja vēlaties, sniedziet atsauksmes.
 4. Atlasiet **Saglabāt**.
