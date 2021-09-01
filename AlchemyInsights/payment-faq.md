@@ -3,7 +3,6 @@ title: Bieži uzdotie jautājumi par maksājumiem
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +13,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895714"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841908"
 ---
 # <a name="payment-faq"></a>Bieži uzdotie jautājumi par maksājumiem
 
 Pārvaldiet **maksājumus Microsoft 365 administrēšanas centrs**.
 
-- Lai piešķirtu **vai mainītu > [maksāšanas](https://go.microsoft.com/fwlink/p/?linkid=842054)** veidus, dodieties uz sadaļu Norēķini > Jūsu produkti.
+- Lai piešķirtu **vai mainītu > [maksāšanas](https://go.microsoft.com/fwlink/p/?linkid=842054)** veidus, dodieties uz sadaļu Norēķini > Savus produktus.
 - Atveriet **sadaļu Norēķini > [maksāšanas veidus,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** lai pievienotu, atjauninātu, aizstātu vai dzēstu maksāšanas veidus.
 
 - **Maksāšanas metodes** — ja apmaksājat ar kredītkarti vai bankas kontu, maksāšanas metode, kas saistīta ar jūsu abonementu(iem), tiek iekasēta dažu dienu laikā pēc rēķina izveides. Ja maksājums neizdodas, atjauniniet savu maksāšanas metodi. Papildinformāciju skatiet rakstā [Maksāšanas metodes pārvaldība](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
