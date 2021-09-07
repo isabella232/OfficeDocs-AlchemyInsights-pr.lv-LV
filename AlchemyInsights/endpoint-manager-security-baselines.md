@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978168"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923561"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager — drošības bāzes
 
@@ -37,6 +37,8 @@ Katra bāze tiek periodiski atjaunināta un izlaista inkrementālās versijās. 
 Norādījumus par to, kā efektīvāk mainīt to, kāda bāzes versija tiek izvietota, skatiet rakstā [Drošības bāzu profilu pārvaldība Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Pēc drošības bāzes izvietošanas varat pārraudzīt izvietošanas stāvokli un pārskatīt iestatījumus katru ierīci atsevišķi.
+
+Tā kā drošības bāzes datu ir daudz iestatījumu, ir svarīgi pārskatīt konfigurācijas izmaiņas un veikt testēšanu, lai nodrošinātu, ka visi iestatījumi ir piemēroti jūsu ierīcēm un biznesa vajadzībām.
 
 **Piezīme.** Bāzu atskaišu datu parādīšana var ilgt līdz pat 24 stundām no sākotnējās izvietošanas ierīcē un līdz pat 6 stundām papildu atjauninājumiem. 
 
