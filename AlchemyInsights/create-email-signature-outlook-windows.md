@@ -1,5 +1,5 @@
 ---
-title: E-pasta paraksta izveide programmā Outlook Windows
+title: E-pasta paraksta izveide Windows
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,28 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8a1f8d0b1bb0ab38c3facf63c01a5c2ed68ca96d
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016347"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923777"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>E-pasta paraksta izveide programmā Outlook Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>E-pasta paraksta izveide Windows
 
-Izveidojiet e-pasta parakstu jaunākām Outlook versijām, piemēram, Outlook 2019, 2016 vai 2013, rīkojieties šādi:
+Lai programmā Outlook 2019, 2016 vai 2013 izveidotu e-pasta parakstu Windows, rīkojieties šādi:
 
-1. Cilnes Outlook atlasiet **Jauns** e-pasts un **pēc** tam cilnē **Ziņojums.**
+1. Atveriet Outlook un atlasiet **Fails**  >  **Opcijas**.
+1. Atlasiet **Pasts**  >  **Paraksti...**.
+1. Atlasiet **Jauns**, ierakstiet nosaukumu un atlasiet **Labi**.
+1. Lodziņā **Rediģēt parakstu** Izveidojiet parakstu un atlasiet **Saglabāt**.
+1. Lai jauno parakstu iekļautu jaunos ziņojumos vai atbildēs/pārsūtītos ziņojumos, atlasiet nolaižamo lodziņu blakus izvēlieties noklusējuma parakstu **un** pēc tam atlasiet jauno parakstu.
+1. Atlasiet **Labi**.
 
-1. Grupā **Iekļaut** atlasiet **Paraksts un** pēc tam izvēlieties **Paraksti**.
-
-1. Sadaļā **Atlasiet rediģējamo** **parakstu izvēlieties** Jauns un **dialoglodziņā** Jauns paraksts ierakstiet paraksta nosaukumu.
-
-1. Sadaļas **Izvēlēties noklusējuma** parakstu sarakstā **E-pasta konts atlasiet e-pasta** kontu, kas jāsaista ar parakstu.
-
-1. Sadaļā **Atlasiet rediģējamo** **parakstu atlasiet Jauns** un ierakstiet paraksta nosaukumu.
-
-1. Sadaļā **Rediģēt** parakstu ierakstiet parakstu, kuru vēlaties izmantot, un atlasiet **Labi.**
-
-Informāciju par to, kā izveidot e-pasta parakstu vecākās Outlook versijās, piemēram, Outlook 2010 vai 2007, skatiet rakstā Paraksta izveide un pievienošana [ziņojumiem.](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
-
+Informāciju par to, kā izveidot e-pasta parakstu vecākās Outlook versijās, piemēram, Outlook 2010, skatiet rakstā [Paraksta izveide un pievienošana ziņojumiem](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).
