@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092313"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077221"
 ---
 # <a name="uk-domain-transfers"></a>.uk domēna pārsūtīšana
 
-Sazinieties ar Microsoft atbalsta dienestu un **pieprasiet IPS atzīmju maiņu,** lai nodrošinātu atbilstību domēna pārvaldības reģistrētājam. Kad atzīme ir mainīta, domēns nekavējoties tiek pārvietots uz jauno reģistrētāju. Pēc tam jums būs jādarbojas kopā ar jauno reģistrētāju, lai pabeigtu pārsūtīšanu, visdrīzāk ir jāveic pārsūtīšanas maksājumi un pārsūtītā domēna pievienošana kontam pie jaunā reģistrētāja.
+Domēna pārsūtīšanai Lielbritānijā nepieciešams jaunā reģistrētāja IPS tags. Atzīmi IPS var ievadīt Domēnu pārsūtīšanas vednī Microsoft administrēšanas portālā:
 
-Papildinformāciju par domēnu pārsūtīšanu skatiet [rakstā Domēna pārvietošana no Microsoft uz citu resursdatoru.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Dodieties **uz Iestatījumi** domēni , veiciet dubultklikšķi uz domēna un izvēlieties Pārvietot  >  **domēnu,** lai startētu **pārsūtīšanas** vedni.
 
-Esiet gatavs nodrošināt jaunā reģistrētāja IPS atzīmi, ko varat atrast vietnē https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Kad atzīme ir mainīta, domēns nekavējoties tiek pārvietots uz jauno reģistrētāju. Pēc tam ir jādarbojas kopā ar jauno reģistrētāju, lai pabeigtu pārsūtīšanu, visdrīzāk ir jāmaksā pārsūtīšanas maksa un pārsūtītais domēns ir jāpievieno savam kontam pie jaunā reģistrētāja.
+
+Papildinformāciju par domēnu pārsūtīšanu skatiet [rakstā Domēna pārvietošana no Microsoft uz citu resursdatoru.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
